@@ -2,7 +2,7 @@
   roms: 
   [
     {
-      name: "CyanogenMod 5.0.4.2 for Droid",
+      name: "CyanogenMod 5.0.4.2",
       device: "sholes",
       url: "http://clockworkmod.s3.amazonaws.com/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.4.2.zip",
       incremental: 5042,
@@ -31,6 +31,12 @@
           ]
         }
       ] 
+    }
+    {
+      name: "CyanogenMod 5.0.4.1",
+      device: "passion",
+      url: "http://n0rp.chemlab.org/android/nexus/update-cm-5.0.4.1-N1-signed.zip",
+      incremental: 5041
     }
   ]
 }

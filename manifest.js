@@ -3,7 +3,7 @@
     [
     {
         name: "CyanogenMod 5.0.4.3",
-        device: "passion",
+        device: "sholes",
         urls:
         [
         "http://clockworkmod.s3.amazonaws.com/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.4.3.zip"

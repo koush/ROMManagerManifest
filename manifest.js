@@ -10,7 +10,7 @@
       [
         {
           name: "Modules",
-          url: "http://dl.dropbox.com/u/1123576/Android/clockworkmod_bekit/bekit-modules.tar.gz"
+          url: "http://clockworkmod.s3.amazonaws.com/motorola/sholes/bekit-modules_0.7.zip"
         }
       ],
       choices:

@@ -16,7 +16,7 @@
       choices:
       [
         {
-          name: "kernel",
+          name: "Kernel",
           options:
           [
             {

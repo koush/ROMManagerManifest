@@ -4,7 +4,7 @@
     {
       name: "CyanogenMod 5.0.4.2 for Droid",
       device: "sholes",
-      url: "http://clockworkmod.s3.amazonaws.com/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.4.2.zip"
+      url: "http://clockworkmod.s3.amazonaws.com/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.4.2.zip",
       incremental: 5042,
       addons:
       [

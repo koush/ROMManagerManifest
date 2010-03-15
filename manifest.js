@@ -31,7 +31,7 @@
           ]
         }
       ] 
-    }
+    },
     {
       name: "CyanogenMod 5.0.4.1",
       device: "passion",

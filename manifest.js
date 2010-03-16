@@ -2,7 +2,7 @@
     roms:
     [
     {
-        name: "CyanogenMod 5.0.4.3",
+        name: "CM 5.0.4.3 (Experimental)",
         device: "sholes",
         urls:
         [

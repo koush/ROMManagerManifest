@@ -6,7 +6,7 @@
         device: "sholes",
         urls:
         [
-        "http://alldroid.org/roms/motorola/droid/koush/cyanogen_sholes-ota-eng.koush_5.0.4.3.zip",
+        "http://alldroid.org/roms/motorola/droid/koush/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.4.3.zip",
         "http://koushikdutta.blurryfox.com/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.4.3.zip",
         "http://clockworkmod.s3.amazonaws.com/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.4.3.zip"
         ],
@@ -57,7 +57,7 @@
         device: "sholes",
         urls:
         [
-        "http://alldroid.org/roms/motorola/droid/koush/cyanogen_sholes-ota-eng.koush_5.0.4.2.zip",
+        "http://alldroid.org/roms/motorola/droid/koush/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.4.2.zip",
         "http://koushikdutta.blurryfox.com/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.4.2.zip",
         "http://clockworkmod.s3.amazonaws.com/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.4.2.zip"
         ],
@@ -101,7 +101,7 @@
         device: "sholes",
         urls:
         [
-        "http://alldroid.org/roms/motorola/droid/koush/cyanogen_sholes-ota-eng.koush_5.0.4.1.zip",
+        "http://alldroid.org/roms/motorola/droid/koush/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.4.1.zip",
         "http://koushikdutta.blurryfox.com/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.4.1.zip",
         "http://clockworkmod.s3.amazonaws.com/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.4.1.zip"
         ],

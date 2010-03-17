@@ -6,9 +6,9 @@
         device: "sholes",
         urls:
         [
+        "http://www.droidaftermarket.com/koush/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.4.3.zip",
+        "http://koush.romraid.com/motorola/droid/koush/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.4.3.zip",
         "http://alldroid.org/roms/motorola/droid/koush/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.4.3.zip",
-        "http://koushikdutta.blurryfox.com/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.4.3.zip",
-        "http://clockworkmod.s3.amazonaws.com/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.4.3.zip"
         ],
         incremental: 5041,
         addons:
@@ -17,14 +17,18 @@
             name: "Google Apps",
             urls:
             [
-            "http://clockworkmod.s3.amazonaws.com/common/gapps-passion-ERE36B-2-signed.zip"
+            "http://koush.romraid.com//common/gapps-passion-ERE36B-2-signed.zip",
+            "http://alldroid.org/roms/motorola/droid/koush//common/gapps-passion-ERE36B-2-signed.zip",
+            "http://www.droidaftermarket.com/koush//common/gapps-passion-ERE36B-2-signed.zip",
             ]
         },
         {
             name: "Modules",
             urls:
             [
-            "http://clockworkmod.s3.amazonaws.com/motorola/sholes/bekit-modules_0.7.zip"
+            "http://koush.romraid.com//motorola/sholes/bekit-modules.zip",
+            "http://alldroid.org/roms/motorola/droid/koush//motorola/sholes/bekit-modules.zip",
+            "http://www.droidaftermarket.com/koush//motorola/sholes/bekit-modules.zip",
             ]
         }
         ],
@@ -57,9 +61,9 @@
         device: "sholes",
         urls:
         [
+        "http://koush.romraid.com/motorola/droid/koush/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.4.2.zip",
         "http://alldroid.org/roms/motorola/droid/koush/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.4.2.zip",
-        "http://koushikdutta.blurryfox.com/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.4.2.zip",
-        "http://clockworkmod.s3.amazonaws.com/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.4.2.zip"
+        "http://www.droidaftermarket.com/koush/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.4.2.zip",
         ],
         incremental: 5042,
         addons:
@@ -68,7 +72,9 @@
             name: "Modules",
             urls:
             [
-            "http://clockworkmod.s3.amazonaws.com/motorola/sholes/bekit-modules_0.7.zip"
+            "http://koush.romraid.com//motorola/sholes/bekit-modules.zip",
+            "http://alldroid.org/roms/motorola/droid/koush//motorola/sholes/bekit-modules.zip",
+            "http://www.droidaftermarket.com/koush//motorola/sholes/bekit-modules.zip",
             ]
         }
         ],
@@ -101,9 +107,10 @@
         device: "sholes",
         urls:
         [
+        "http://koush.romraid.com/motorola/droid/koush/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.4.1.zip",
         "http://alldroid.org/roms/motorola/droid/koush/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.4.1.zip",
         "http://koushikdutta.blurryfox.com/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.4.1.zip",
-        "http://clockworkmod.s3.amazonaws.com/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.4.1.zip"
+        "http://www.droidaftermarket.com/koush/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.4.2.zip",
         ],
         incremental: 5042,
         addons:
@@ -112,7 +119,9 @@
             name: "Modules",
             urls:
             [
-            "http://clockworkmod.s3.amazonaws.com/motorola/sholes/bekit-modules_0.7.zip"
+            "http://koush.romraid.com//motorola/sholes/bekit-modules.zip",
+            "http://alldroid.org/roms/motorola/droid/koush//motorola/sholes/bekit-modules.zip",
+            "http://www.droidaftermarket.com/koush//motorola/sholes/bekit-modules.zip",
             ]
         }
         ],
@@ -154,7 +163,9 @@
             name: "Google Apps",
             urls:
             [
-            "http://clockworkmod.s3.amazonaws.com/common/gapps-passion-ERE36B-2-signed.zip"
+            "http://koush.romraid.com//common/gapps-passion-ERE36B-2-signed.zip",
+            "http://alldroid.org/roms/motorola/droid/koush//common/gapps-passion-ERE36B-2-signed.zip",
+            "http://www.droidaftermarket.com/koush//common/gapps-passion-ERE36B-2-signed.zip",
             ]
         }
         ]

@@ -2,7 +2,8 @@
     roms:
     [
     {
-        name: "CM 5.0.4.3 (Experimental)",
+        name: "CyanogenMod 5.0.4.3",
+        summary: "Experimental",
         device: "sholes",
         urls:
         [
@@ -58,6 +59,7 @@
     },
     {
         name: "CyanogenMod 5.0.4.2",
+        summary: "Stable",
         device: "sholes",
         urls:
         [
@@ -103,7 +105,8 @@
         ]
     },
     {
-        name: "CyanogenMod 5.0.4.1 (JIT)",
+        name: "CyanogenMod 5.0.4.1",
+        summary: "Experimental (JIT)",
         device: "sholes",
         urls:
         [
@@ -151,6 +154,7 @@
     },
     {
         name: "CyanogenMod 5.0.4.1",
+        summary: "Stable",
         device: "passion",
         urls:
         [

@@ -97,7 +97,7 @@
                 name: "Stable",
                 urls:
                 [
-                "http://clockworkmod.s3.amazonaws.com/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.4.2.zip"
+                "http://clockworkmod.s3.amazonaws.com/motorola/sholes/kernel_nooverlock_1.0.2.zip"
                 ]
             }
             ]
@@ -145,7 +145,7 @@
                 name: "Stable",
                 urls:
                 [
-                "http://clockworkmod.s3.amazonaws.com/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.4.2.zip"
+                "http://clockworkmod.s3.amazonaws.com/motorola/sholes/kernel_nooverlock_1.0.2.zip"
                 ]
             }
             ]

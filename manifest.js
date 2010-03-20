@@ -153,12 +153,33 @@
         ]
     },
     {
+        name: "CyanogenMod 5.0.5",
+        summary: "Stable",
+        device: "passion",
+        urls:
+        [
+        "http://cyanogen-updater.googlecode.com/files/update-cm-5.0.5-N1-signed.zip"
+        ],
+        incremental: 5050,
+        addons:
+        [
+        {
+            name: "Google Apps",
+            urls:
+            [
+            "http://chris.soyars.com/gapps-passion-EPE54B-signed.zip",
+            "http://briancrook.ca/android/nexus/gapps/gapps-passion-EPE54B-signed.zip"
+            ]
+        }
+        ]
+    },
+    {
         name: "CyanogenMod 5.0.4.1",
         summary: "Stable",
         device: "passion",
         urls:
         [
-        "http://n0rp.chemlab.org/android/nexus/update-cm-5.0.4.1-N1-signed.zip"
+        "http://cyanogen-updater.googlecode.com/files/update-cm-5.0.4.1-N1-signed.zip"
         ],
         incremental: 5041,
         addons:

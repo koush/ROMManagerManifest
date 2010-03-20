@@ -153,6 +153,28 @@
         ]
     },
     {
+        name: "CyanogenMod 5.0.5",
+        summary: "Stable",
+        device: "passion",
+        urls:
+        [
+        "http://n0rp.chemlab.org/android/nexus/update-cm-5.0.5-N1-signed.zip"
+        ],
+        incremental: 5050,
+        addons:
+        [
+        {
+            name: "Google Apps",
+            urls:
+            [
+            "http://koush.romraid.com//common/gapps-passion-ERE36B-2-signed.zip",
+            "http://alldroid.org/roms/motorola/droid/koush//common/gapps-passion-ERE36B-2-signed.zip",
+            "http://www.droidaftermarket.com/koush//common/gapps-passion-ERE36B-2-signed.zip",
+            ]
+        }
+        ]
+    },
+    {
         name: "CyanogenMod 5.0.4.1",
         summary: "Stable",
         device: "passion",

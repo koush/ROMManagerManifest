@@ -4,7 +4,7 @@
     [
     {
         name: "CyanogenMod 5.0.5",
-        summary: "Experimental",
+        summary: "Stable",
         device: "sholes",
         urls:
         [

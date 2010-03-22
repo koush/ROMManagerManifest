@@ -23,6 +23,15 @@
         },
     },
     {
+        developer: "Ultimate Droid",
+        id: "blackdroid",
+        manifest: "http://www.regalgs.org/droid/udmanifest.js",
+        {
+            sholes: true,
+            passion: false
+        },
+    },
+    {
         developer: "KangxKxMod",
         summary: "This is greyed out if you are not a Premium user. It is also intentionally broken.",
         manifest: "http://github.com/koush/ROMManagerManifest/raw/master/manifest.js",

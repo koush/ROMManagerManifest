@@ -8,7 +8,7 @@
         // Your id. This should have no spaces or other funny characters.
         // This would ideally be your Github id, so when you send me your manifest
         // I can verify who you are. But it can be anything really.
-        id: "cyanogenmod",
+        id: "cyanogen",
         // The display summary. Two lines max.
         summary: "Mods and bacon for Dream, Sapphire, Droid, and Nexus One",
         // Is this a free ROM? This is decided by Koush/Cyanogen/CTSO.

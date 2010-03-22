@@ -14,7 +14,7 @@
     },
     {
       developer: "HoboDeveloper (Premium ROM)",
-      summary: "King of the Copy and Paste ROMs"
+      summary: "King of the Copy and Paste ROMs",
       manifest: "http://github.com/koush/ROMManagerManifest/raw/master/manifest2.js",
       roms:
       {

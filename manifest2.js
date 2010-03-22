@@ -17,6 +17,9 @@
         // ROM Manager will then figure out that an upgrade is available and let
         // the user know.
         incremental: 5050,
+        // The value of ro.modversion in /system/build.prop. Your ROM should set this
+        // in that build.prop so that ROM Manager can figure out what ROM is currently running.
+        modversion: "CyanogenMod-5.0.5-Droid",
         urls:
         [
         "http://www.droidaftermarket.com/koush/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.5.zip",
@@ -50,6 +53,7 @@
         device: "sholes",
         product: "CyanogenMod",
         incremental: 5042,
+        modversion: "CyanogenMod-5.0.4.2-Droid",
         urls:
         [
         "http://koush.romraid.com/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.4.2.zip",
@@ -99,6 +103,7 @@
         device: "passion",
         product: "CyanogenMod",
         incremental: 5050,
+        modversion: "CyanogenMod-5.0.5-N1",
         urls:
         [
         "http://cyanogen-updater.googlecode.com/files/update-cm-5.0.5-N1-signed.zip"
@@ -121,6 +126,7 @@
         device: "passion",
         product: "CyanogenMod",
         incremental: 5041,
+        modversion: "CyanogenMod-5.0.4.1-N1",
         urls:
         [
         "http://cyanogen-updater.googlecode.com/files/update-cm-5.0.4.1-N1-signed.zip"

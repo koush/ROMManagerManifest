@@ -23,7 +23,7 @@
         },
     },
     {
-        developer: "KangMod",
+        developer: "KangxKxMod",
         summary: "This is greyed out if you are not a Premium user. It is also intentionally broken.",
         manifest: "http://github.com/koush/ROMManagerManifest/raw/master/manifest.js",
         roms:

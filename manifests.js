@@ -14,7 +14,7 @@
     },
     {
         developer: "KangMod",
-        summary: "King of the Copy and Paste ROMs. This ROM is intentionally broken for testing purposes.",
+        summary: "This is greyed out if you are not a Premium user. It is also intentionally broken.",
         manifest: "http://github.com/koush/ROMManagerManifest/raw/master/manifest.js",
         roms:
         {

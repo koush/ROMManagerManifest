@@ -13,7 +13,7 @@
         },
     },
     {
-        developer: "HoboDeveloper (Premium)",
+        developer: "KangMod",
         summary: "King of the Copy and Paste ROMs. This ROM is intentionally broken for testing purposes.",
         manifest: "http://github.com/koush/ROMManagerManifest/raw/master/manifest.js",
         roms:

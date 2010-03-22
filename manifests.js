@@ -26,7 +26,7 @@
     {
         developer: "Ultimate Droid",
         id: "blackdroid",
-        summary: "As many features as you can possibly get without sacrificing stabiltiy",
+        summary: "As many features as you can possibly get without sacrificing stability.",
         manifest: "http://www.regalgs.org/droid/udmanifest.js",
         roms:
         {

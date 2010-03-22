@@ -5,6 +5,8 @@
     {
         // This is what name you want your ROMs to show up under.
         developer: "CyanogenMod",
+        // Your id. This should have no spaces or other funny characters.
+        id: "cyanogenmod",
         // The display summary. Two lines max.
         summary: "Mods and bacon for Dream, Sapphire, Droid, and Nexus One",
         // Is this a free ROM? This is decided by Koush/Cyanogen/CTSO.

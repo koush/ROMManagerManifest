@@ -26,6 +26,7 @@
         developer: "Ultimate Droid",
         id: "blackdroid",
         manifest: "http://www.regalgs.org/droid/udmanifest.js",
+        roms:
         {
             sholes: true
         },

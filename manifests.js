@@ -16,6 +16,7 @@
         // The location of the developer's manifest.
         manifest: "http://github.com/koush/ROMManagerManifest/raw/master/manifest2.js",
         // The list of devices that this developer's ROMs support.
+        // If you don't support a device, just don't list it!
         roms:
         {
             sholes: true,

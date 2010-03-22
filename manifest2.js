@@ -1,6 +1,6 @@
 {
     // TODO: remove this
-    minversion: 177,
+    minversion: 180,
     roms:
     [
     {

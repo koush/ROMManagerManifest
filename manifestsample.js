@@ -22,7 +22,9 @@
         // This is optional however, you don't need this line here or in /system/build.prop
         // if you don't want to use OTA updates.
         modversion: "CyanogenMod-5.0.5-Droid",
-        // This is a list of mirrors for your ROM
+        // This is a list of mirrors for your ROM. These URLs should have unique filenames per version!
+        // Ie, don't use a zip with the same name as that of a previous version with a new version. 
+        // Otherwise ROM Manager will continue using the old cached zip on the SD card.
         urls:
         [
         "http://www.droidaftermarket.com/koush/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.5.zip",

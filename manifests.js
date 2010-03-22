@@ -18,7 +18,6 @@
         manifest: "http://github.com/koush/ROMManagerManifest/raw/master/manifest.js",
         roms:
         {
-            sholes: true,
             passion: true
         },
     }

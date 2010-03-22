@@ -19,6 +19,8 @@
         incremental: 5050,
         // The value of ro.modversion in /system/build.prop. Your ROM should set this
         // in that build.prop so that ROM Manager can figure out what ROM is currently running.
+        // This is optional however, you don't need this line here or in /system/build.prop
+        // if you don't want to use OTA updates.
         modversion: "CyanogenMod-5.0.5-Droid",
         urls:
         [

@@ -33,6 +33,7 @@
         init: "init.mahimahi.rc",
         key: "passion",
         name: "Google Nexus One (GSM)"
+        version: "1.7.7.0"
     },
 
     {

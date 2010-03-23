@@ -111,7 +111,7 @@
         summary: "Stable",
         device: "passion",
         product: "CyanogenMod",
-        incremental: 5050,
+        incremental: 5052,
         modversion: "CyanogenMod-5.0.5.2-N1",
         urls:
         [
@@ -134,7 +134,7 @@
         summary: "Stable",
         device: "passion",
         product: "CyanogenMod",
-        incremental: 5050,
+        incremental: 5051,
         modversion: "CyanogenMod-5.0.5.1-N1",
         urls:
         [

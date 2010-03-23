@@ -52,4 +52,6 @@
         key: "desirec",
         name: "Droid Eris (CDMA)"
     }
+    
+    ]
 }

@@ -1,4 +1,7 @@
 {
+    // The version of the manifest, so ROM Manager knows how to load it
+    version: 1,
+    // Your list of ROMs
     roms:
     [
     {

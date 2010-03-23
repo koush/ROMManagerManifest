@@ -44,15 +44,6 @@
             "http://chris.soyars.com/gapps-passion-EPE54B-signed.zip",
             "http://briancrook.ca/android/nexus/gapps/gapps-passion-EPE54B-signed.zip"
             ]
-        },
-        {
-            name: "Modules",
-            urls:
-            [
-            "http://koush.romraid.com/motorola/sholes/bekit-modules.zip",
-            "http://alldroid.org/roms/motorola/droid/koush//motorola/sholes/bekit-modules.zip",
-            "http://www.droidaftermarket.com/koush//motorola/sholes/bekit-modules.zip",
-            ]
         }
         ]
     },

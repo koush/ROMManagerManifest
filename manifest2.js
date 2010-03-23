@@ -4,7 +4,7 @@
     // Your list of ROMs
     roms:
     [
-        {
+    {
         // Display name of the rom
         name: "CyanogenMod 5.0.5.2",
         // Display summary of the rom
@@ -26,7 +26,7 @@
         // if you don't want to use OTA updates.
         modversion: "CyanogenMod-5.0.5.2-Droid",
         // This is a list of mirrors for your ROM. These URLs should have unique filenames per version!
-        // Ie, don't use a zip with the same name as that of a previous version with a new version. 
+        // Ie, don't use a zip with the same name as that of a previous version with a new version.
         // Otherwise ROM Manager will continue using the old cached zip on the SD card.
         urls:
         [
@@ -78,7 +78,7 @@
         // if you don't want to use OTA updates.
         modversion: "CyanogenMod-5.0.5-Droid",
         // This is a list of mirrors for your ROM. These URLs should have unique filenames per version!
-        // Ie, don't use a zip with the same name as that of a previous version with a new version. 
+        // Ie, don't use a zip with the same name as that of a previous version with a new version.
         // Otherwise ROM Manager will continue using the old cached zip on the SD card.
         urls:
         [

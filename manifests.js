@@ -1,5 +1,5 @@
 {
-    minversion: 1820,
+    minversion: 1822,
     manifests:
     [
     {

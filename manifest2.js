@@ -6,7 +6,7 @@
     [
     {
         // Display name of the rom
-        name: "CyanogenMod 5.0.5.2",
+        name: "CyanogenMod 5.0.5.3",
         // Display summary of the rom
         summary: "EXPERIMENTAL: Under testing.",
         // Device that this rom runs on
@@ -24,15 +24,15 @@
         // in that build.prop so that ROM Manager can figure out what ROM is currently running.
         // This is optional however, you don't need this line here or in /system/build.prop
         // if you don't want to use OTA updates.
-        modversion: "CyanogenMod-5.0.5.2-Droid",
+        modversion: "CyanogenMod-5.0.5.3-Droid",
         // This is a list of mirrors for your ROM. These URLs should have unique filenames per version!
         // Ie, don't use a zip with the same name as that of a previous version with a new version.
         // Otherwise ROM Manager will continue using the old cached zip on the SD card.
         urls:
         [
-        "http://www.droidaftermarket.com/koush/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.5.2.zip",
-        "http://koush.romraid.com/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.5.2.zip",
-        "http://alldroid.org/roms/motorola/droid/koush/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.5.2.zip",
+        "http://www.droidaftermarket.com/koush/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.5.3.zip",
+        "http://koush.romraid.com/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.5.3.zip",
+        "http://alldroid.org/roms/motorola/droid/koush/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.5.3.zip",
         ],
         // Optional addons (you don't need this if you dont have any)
         addons:

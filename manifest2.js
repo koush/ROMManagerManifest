@@ -19,7 +19,7 @@
         // set the "incremental" of that ROM to 5051 (or any number higher than 5050).
         // ROM Manager will then figure out that an upgrade is available and let
         // the user know.
-        incremental: 5052,
+        incremental: 5053,
         // The value of ro.modversion in /system/build.prop. Your ROM should set this
         // in that build.prop so that ROM Manager can figure out what ROM is currently running.
         // This is optional however, you don't need this line here or in /system/build.prop

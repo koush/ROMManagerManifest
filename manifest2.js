@@ -8,7 +8,7 @@
         // Display name of the rom
         name: "CyanogenMod 5.0.5.2",
         // Display summary of the rom
-        summary: "Stable",
+        summary: "EXPERIMENTAL: Under testing.",
         // Device that this rom runs on
         device: "sholes",
         // Product name of the mod. Product names should stay the same between versions of the mod.

@@ -30,9 +30,7 @@
         // Otherwise ROM Manager will continue using the old cached zip on the SD card.
         urls:
         [
-        "http://www.droidaftermarket.com/koush/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.5.3.zip",
         "http://koush.romraid.com/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.5.3.zip",
-        "http://alldroid.org/roms/motorola/droid/koush/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.5.3.zip",
         ],
         // Optional addons (you don't need this if you dont have any)
         addons:

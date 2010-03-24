@@ -12,7 +12,7 @@
         // Device that this rom runs on
         device: "sholes",
         // Product name of the mod. Product names should stay the same between versions of the mod.
-        product: "CyanogenMod",
+        product: "CyanogenModTEST",
         // Numerical version of the mod. This allows the OTA system to figure out
         // when an upgrade is available. So, if the current version is 5.0.5.0,
         // you can set "incremental" to 5050. And when you have an upgrade available,

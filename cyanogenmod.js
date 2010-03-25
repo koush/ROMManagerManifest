@@ -1,6 +1,7 @@
 {
     // The version of the manifest, so ROM Manager knows how to load it
     version: 1,
+    homepage: "http://www.cyanogenmod.com/",
     // Your list of ROMs
     roms:
     [

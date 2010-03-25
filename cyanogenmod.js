@@ -2,6 +2,7 @@
     // The version of the manifest, so ROM Manager knows how to load it
     version: 1,
     homepage: "http://www.cyanogenmod.com/",
+    donate: "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3283920",
     // Your list of ROMs
     roms:
     [

@@ -34,6 +34,16 @@
         },
     },
     {
+        developer: "Bugless Beast",
+        id: "pete",
+        summary: "Bugless Beast By Peter Alfonso (@peteralfonso)",
+        manifest: "http://github.com/koush/ROMManagerManifest/raw/master/pete.js",
+        roms:
+        {
+            sholes: true
+        },
+    },
+    {
         developer: "KangxKxMod",
         summary: "This is greyed out if you are not a Premium user. It is also intentionally broken.",
         manifest: "http://github.com/koush/ROMManagerManifest/raw/master/manifest.js",

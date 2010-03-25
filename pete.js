@@ -13,4 +13,5 @@
         "http://androidoverdrive.com/pete/ESE53/V0.9/update.zip",
         ]
     }
+    ]
 }

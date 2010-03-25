@@ -24,6 +24,16 @@
         },
     },
     {
+        developer: "Modaco Custom ROM",
+        id: "modaco",
+        summary: "Modaco Custom ROM - http://android.modaco.com/",
+        manifest: "http://github.com/koush/ROMManagerManifest/raw/master/modaco.js",
+        roms:
+        {
+            sholes: true
+        },
+    },
+    {
         developer: "Ultimate Droid",
         id: "blackdroid",
         summary: "As many features as you can possibly get without sacrificing stability.",

@@ -35,7 +35,7 @@
         },
     },
     {
-        developer: "NexDesire",
+        developer: "NexTheme and NexDesire",
         id: "manup456",
         summary: "Manup456's Desire Port for the Nexus One",
         manifest: "http://github.com/koush/ROMManagerManifest/raw/master/manup456.js",

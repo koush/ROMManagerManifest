@@ -1,5 +1,7 @@
 {
     version: 1,
+    homepage: "http://www.peteralfonso.com",
+    donate: "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8460105",
     roms:
     [
     {

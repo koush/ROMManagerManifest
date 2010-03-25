@@ -14,7 +14,7 @@
         // Is this a free ROM? This is decided by Koush/Cyanogen/CTSO.
         free: true,
         // The location of the developer's manifest.
-        manifest: "http://github.com/koush/ROMManagerManifest/raw/master/manifest2.js",
+        manifest: "http://github.com/koush/ROMManagerManifest/raw/master/cyanogenmod.js",
         // The list of devices that this developer's ROMs support.
         // If you don't support a device, just don't list it!
         roms:

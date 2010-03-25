@@ -30,7 +30,7 @@
         manifest: "http://github.com/koush/ROMManagerManifest/raw/master/modaco.js",
         roms:
         {
-            sholes: true
+            passion: true
         },
     },
     {

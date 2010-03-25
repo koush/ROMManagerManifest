@@ -13,4 +13,5 @@
         "http://www.androidspin.com/downloads.php?dir=enomther/ROM/&file=TheOfficial_Nexus1_v1.8.1_update.zip",
         ]
     }
+    ]
 }

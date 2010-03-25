@@ -28,6 +28,7 @@
         id: "modaco",
         summary: "Modaco Custom ROM - http://android.modaco.com/",
         manifest: "http://github.com/koush/ROMManagerManifest/raw/master/modaco.js",
+        free: true,
         roms:
         {
             passion: true

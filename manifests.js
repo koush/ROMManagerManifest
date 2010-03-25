@@ -78,7 +78,7 @@
         developer: "Bugless Beast",
         id: "pete",
         summary: "Bugless Beast By Peter Alfonso (@peteralfonso)",
-        manifest: "http://github.com/koush/ROMManagerManifest/raw/master/pete.js",
+        manifest: "http://androidoverdrive.com/pete/ESE53/App/pete.js",
         roms:
         {
             sholes: true

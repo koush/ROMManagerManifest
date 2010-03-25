@@ -52,7 +52,7 @@
                 [
                 "http://koush.romraid.com/motorola/sholes/chevy/ChevyNo1-125Ghz-OC-5slot-update.zip",
                 ]
-            },
+            }
             ]
         }
         ]

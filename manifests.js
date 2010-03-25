@@ -35,6 +35,16 @@
         },
     },
     {
+        developer: "Enomther",
+        id: "enomther",
+        summary: "Enomther's TheOfficial Nexus1",
+        manifest: "http://github.com/koush/ROMManagerManifest/raw/master/enomther.js",
+        roms:
+        {
+            passion: true
+        },
+    },
+    {
         developer: "Ultimate Droid",
         id: "blackdroid",
         summary: "As many features as you can possibly get without sacrificing stability.",

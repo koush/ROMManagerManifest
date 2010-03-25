@@ -65,6 +65,16 @@
         },
     },
     {
+        developer: "NexTheme",
+        id: "Haxzamatic",
+        summary: "Manup456's NexTheme for the Droid!",
+        manifest: "http://mydroidworld.com/dev/haxzamatic/haxzamatic.js",
+        roms:
+        {
+            sholes: true
+        },
+    },
+    {
         developer: "Bugless Beast",
         id: "pete",
         summary: "Bugless Beast By Peter Alfonso (@peteralfonso)",

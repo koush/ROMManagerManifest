@@ -53,7 +53,7 @@
         developer: "VillainROM",
         id: "nprussell",
         summary: "VillainROM HTC Legend Port",
-        manifest: "http://github.com/koush/ROMManagerManifest/raw/master/nprussel.js",
+        manifest: "http://github.com/koush/ROMManagerManifest/raw/master/nprussell.js",
         roms:
         {
             hero: true

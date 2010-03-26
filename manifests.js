@@ -38,6 +38,18 @@
         },
     },
     {
+        developer: "AmonRA",
+        id: "amonra",
+        summary: "AmonRA Donut",
+        manifest: "http://github.com/koush/ROMManagerManifest/raw/master/amonra.js",
+        free: true,
+        roms:
+        {
+            magic: true,
+            sapphire: true
+        },
+    },
+    {
         developer: "VillainROM",
         id: "nprussel",
         summary: "VillainROM HTC Legend Port",

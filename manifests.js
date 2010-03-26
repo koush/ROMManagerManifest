@@ -20,7 +20,10 @@
         roms:
         {
             sholes: true,
-            passion: true
+            passion: true,
+            dream: true,
+            magic: true,
+            sapphire: true,
         },
     },
     {

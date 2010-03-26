@@ -285,7 +285,7 @@
             name: "DRC83 Base",
             urls:
             [
-            "http://www.canadianandroid.com/d/cyanogen/HTC_ADP_1.6_DRC83_rooted_base.zip",
+            "http://www.androidspin.com/downloads.php?dir=enomther/ROM/&file=HTC_ADP_1.6_DRC83_rooted_base.zip",
             ]
         },
         {
@@ -310,7 +310,7 @@
             name: "DRC83 Base",
             urls:
             [
-            "http://www.canadianandroid.com/d/cyanogen/HTC_ADP_1.6_DRC83_rooted_base.zip",
+            "http://www.androidspin.com/downloads.php?dir=enomther/ROM/&file=HTC_ADP_1.6_DRC83_rooted_base.zip",
             ]
         },
         {
@@ -342,7 +342,7 @@
             name: "DRC83 Base",
             urls:
             [
-            "http://www.canadianandroid.com/d/cyanogen/HTC_ADP_1.6_DRC83_rooted_base.zip",
+            "http://www.androidspin.com/downloads.php?dir=enomther/ROM/&file=HTC_ADP_1.6_DRC83_rooted_base.zip",
             ]
         },
         {

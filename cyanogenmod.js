@@ -308,10 +308,10 @@
         extendedurls:
         [
         {
-            name: "CyanogenMod 4.2.15.1",
+            name: "EB1/32A Kernel",
             urls:
             [
-            "http://n0rp.chemlab.org/android/update-cm-4.2.15.1-signed.zip"
+            "http://briancrook.ca/magic/cm-ports/bc-4.2.15.1-ebi1-signed.zip"
             ]
         },
         {
@@ -323,10 +323,10 @@
             ]
         },
         {
-            name: "EB1/32A Kernel",
+            name: "CyanogenMod 4.2.15.1",
             urls:
             [
-            "http://briancrook.ca/magic/cm-ports/bc-4.2.15.1-ebi1-signed.zip"
+            "http://n0rp.chemlab.org/android/update-cm-4.2.15.1-signed.zip"
             ]
         }
         ]
@@ -341,18 +341,18 @@
         extendedurls:
         [
         {
-            name: "CyanogenMod 4.2.15.1",
-            urls:
-            [
-            "http://n0rp.chemlab.org/android/update-cm-4.2.15.1-signed.zip"
-            ]
-        },
-        {
             name: "DRC83 Base Defanged",
             urls:
             [
             "http://www.canadianandroid.com/d/cyanogen/DRC83_base_defanged.zip",
             "http://dx.infernix.net/DRC83_base_defanged.zip"
+            ]
+        },
+        {
+            name: "CyanogenMod 4.2.15.1",
+            urls:
+            [
+            "http://n0rp.chemlab.org/android/update-cm-4.2.15.1-signed.zip"
             ]
         }
         ]

@@ -27,6 +27,17 @@
         },
     },
     {
+        developer: "CyanogenMod",
+        id: "jnwhiteh",
+        summary: "CyanogenMod for Hero by jnwhiteh",
+        manifest: "http://github.com/koush/ROMManagerManifest/raw/master/jnwhiteh.js",
+        free: true,
+        roms:
+        {
+            hero: true
+        },
+    },
+    {
         developer: "Modaco Custom ROM",
         id: "modaco",
         summary: "Modaco Custom ROM - http://android.modaco.com/",

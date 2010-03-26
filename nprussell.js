@@ -6,7 +6,7 @@
         name: "VillainROM4.0",
         summary: "Beta2",
         device: "hero",
-        product: "nprussel",
+        product: "VillainROM",
         donate: "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=67SD3VN55DGYG",
         incremental: 4000,
         extendedurls:

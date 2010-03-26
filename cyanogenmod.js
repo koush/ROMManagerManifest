@@ -308,13 +308,6 @@
         extendedurls:
         [
         {
-            name: "EB1/32A Kernel",
-            urls:
-            [
-            "http://briancrook.ca/magic/cm-ports/bc-4.2.15.1-ebi1-signed.zip"
-            ]
-        },
-        {
             name: "DRC83 Base Defanged",
             urls:
             [
@@ -327,6 +320,13 @@
             urls:
             [
             "http://n0rp.chemlab.org/android/update-cm-4.2.15.1-signed.zip"
+            ]
+        },
+        {
+            name: "EB1/32A Kernel",
+            urls:
+            [
+            "http://briancrook.ca/magic/cm-ports/bc-4.2.15.1-ebi1-signed.zip"
             ]
         }
         ]

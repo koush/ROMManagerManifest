@@ -1,4 +1,5 @@
 {
+    // =====Motorola Droid=====
     // The version of the manifest, so ROM Manager knows how to load it
     version: 1,
     homepage: "http://www.cyanogenmod.com/",
@@ -151,6 +152,10 @@
         }
         ]
     },
+
+
+
+    // =====Google Nexus One====
     {
         name: "CyanogenMod 5.0.5.3",
         summary: "Stable",
@@ -266,8 +271,91 @@
             ]
         }
         ]
+    },
+
+    // =====G1=====
+    {
+        name: "CyanogenMod 4.2.15.1",
+        summary: "Stable",
+        device: "dream",
+        product: "CyanogenMod",
+        extendedurls:
+        [
+        {
+            name: "CyanogenMod 4.2.15.1",
+            urls:
+            [
+            "http://n0rp.chemlab.org/android/update-cm-4.2.15.1-signed.zip"
+            ]
+        },
+        {
+            name: "DRC83 Base Defanged",
+            urls:
+            [
+            "http://www.canadianandroid.com/d/cyanogen/DRC83_base_defanged.zip",
+            "http://dx.infernix.net/DRC83_base_defanged.zip"
+            ]
+        }
+        ]
+    },
+
+    // =====32A=====
+    {
+        name: "CyanogenMod 4.2.15.1",
+        summary: "Stable",
+        device: "magic",
+        product: "CyanogenMod",
+        extendedurls:
+        [
+        {
+            name: "CyanogenMod 4.2.15.1",
+            urls:
+            [
+            "http://n0rp.chemlab.org/android/update-cm-4.2.15.1-signed.zip"
+            ]
+        },
+        {
+            name: "DRC83 Base Defanged",
+            urls:
+            [
+            "http://www.canadianandroid.com/d/cyanogen/DRC83_base_defanged.zip",
+            "http://dx.infernix.net/DRC83_base_defanged.zip"
+            ]
+        },
+        {
+            name: "EB1/32A Kernel",
+            urls:
+            [
+            "http://briancrook.ca/magic/cm-ports/bc-4.2.15.1-ebi1-signed.zip"
+            ]
+        }
+        ]
+    },
+
+    // =====32B=====
+    {
+        name: "CyanogenMod 4.2.15.1",
+        summary: "Stable",
+        device: "sapphire",
+        product: "CyanogenMod",
+        extendedurls:
+        [
+        {
+            name: "CyanogenMod 4.2.15.1",
+            urls:
+            [
+            "http://n0rp.chemlab.org/android/update-cm-4.2.15.1-signed.zip"
+            ]
+        },
+        {
+            name: "DRC83 Base Defanged",
+            urls:
+            [
+            "http://www.canadianandroid.com/d/cyanogen/DRC83_base_defanged.zip",
+            "http://dx.infernix.net/DRC83_base_defanged.zip"
+            ]
+        }
+        ]
     }
-    ],
-    // TODO: remove this
-    minversion: 180,
+    ]
 }

@@ -1,3 +1,6 @@
+1.8.3.5
+Fix bug where spaces and odd characters in a download URL causes issues with flashing and applying zips.
+
 1.8.3.3
 Add third party recovery flashing to ROM Manager.
 Fix bug where BroadcastReceiver is not unregistered by DownloadService after the download completes.

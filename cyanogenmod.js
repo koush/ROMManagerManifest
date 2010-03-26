@@ -308,11 +308,10 @@
         extendedurls:
         [
         {
-            name: "DRC83 Base Defanged",
+            name: "DRC83 Base",
             urls:
             [
-            "http://www.canadianandroid.com/d/cyanogen/DRC83_base_defanged.zip",
-            "http://dx.infernix.net/DRC83_base_defanged.zip"
+            "http://www.canadianandroid.com/d/cyanogen/HTC_ADP_1.6_DRC83_rooted_base.zip",
             ]
         },
         {
@@ -344,8 +343,7 @@
             name: "DRC83 Base Defanged",
             urls:
             [
-            "http://www.canadianandroid.com/d/cyanogen/DRC83_base_defanged.zip",
-            "http://dx.infernix.net/DRC83_base_defanged.zip"
+            "http://www.canadianandroid.com/d/cyanogen/HTC_ADP_1.6_DRC83_rooted_base.zip",
             ]
         },
         {

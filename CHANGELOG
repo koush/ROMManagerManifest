@@ -1,0 +1,30 @@
+1.8.3.3
+Add third party recovery flashing to ROM Manager.
+Fix bug where BroadcastReceiver is not unregistered by DownloadService after the download completes.
+Fix database leak in DownloadService.
+
+1.8.2.9
+ROMs can now come in multiple parts via "extendedurls" as opposed to "urls".
+Fix force close that occurs when pressing back before the latest recovery version number can be downloaded.
+
+1.8.2.8
+Show toast after download cache is cleared.
+Show warning on first run of the application.
+Fix bug in default getBoolean value always being false.
+
+1.8.2.4
+Instead of showing an empty list of ROMs, show a message that there are no ROMs available for the device.
+Add Clear Download Cache menu item.
+Fix bug in detecting latest recovery version.
+
+1.8.2.2
+Add premium IMEI whitelist functionality.
+
+1.8.1.0
+Add Fix Permissions utility.
+Fix bug where all addons are always downloaded.
+Add recovery update checker.
+
+1.7.2.0
+Add ROM OTA update notifications.
+Add ROM downloads.

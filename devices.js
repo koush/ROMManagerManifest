@@ -1,6 +1,6 @@
 {
     recovery_url: "http://koush.romraid.com/recoveries/recovery-clockwork-%s-%s.img",
-    version: "1.7.8.2",
+    version: "1.7.8.3",
     
     devices:
     [

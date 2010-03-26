@@ -1,7 +1,7 @@
 {
     recovery_url: "http://koush.romraid.com/recoveries/recovery-clockwork-%s-%s.img",
     version: "1.7.8.3",
-    
+
     devices:
     [
 
@@ -52,7 +52,7 @@
     {
         init: "init.mahimahi.rc",
         key: "passion",
-        name: "Google Nexus One (GSM)",,
+        name: "Google Nexus One (GSM)",
         alternate_recovery:
         {
             name: "RA Recovery v.1.7.0",
@@ -92,6 +92,6 @@
             url: "http://www.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-eris-v1.6.2.img"
         }
     }
-    
+
     ]
 }

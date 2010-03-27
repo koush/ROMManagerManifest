@@ -1,3 +1,7 @@
+1.8.3.6
+Always show flash alternate recovery button, even if an alternate recovery is not available (due to none existing, or no internet).
+Show cancel button when prompting to reboot into recovery.
+
 1.8.3.5
 Fix bug where spaces and odd characters in a download URL causes issues with flashing and applying zips.
 

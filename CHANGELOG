@@ -1,3 +1,10 @@
+1.8.3.7
+Fix bug where upgrade notification would pop up again when trying to flash 
+the recovery.
+Add Developer Mode.
+Add Superuser Mode.
+Add ROM Whitelist.
+
 1.8.3.6
 Always show flash alternate recovery button, even if an alternate recovery is not available (due to none existing, or no internet).
 Show cancel button when prompting to reboot into recovery.

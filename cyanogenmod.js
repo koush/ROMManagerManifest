@@ -52,6 +52,69 @@
         }
         ]
     },
+    
+    {
+        name: "P3Droid Redline Series",
+        summary: "Kernels for 5.0.5.3",
+        device: "sholes",
+        urls:
+        [
+        ""
+        ],
+
+        choices:
+        [
+        {
+            name: "Kernel",
+            options:
+            [
+            {
+                name: "700",
+                urls:
+                [
+                "http://www.p3designs.info/kernels/700_LV_Wi_USB_Tether.zip"
+                ]
+            },
+            {
+                name: "800",
+                urls:
+                [
+                "http://www.p3designs.info/kernels/800_LV_Wi_USB_Tether.zip"
+                ]
+            },
+            {
+                name: "900",
+                urls:
+                [
+                "http://www.p3designs.info/kernels/900_LV_Wi_USB_Tether.zip"
+                ]
+            },
+            {
+                name: "1000",
+                urls:
+                [
+                "http://www.p3designs.info/kernels/1000_LV_Wi_USB_Tether.zip"
+                ]
+            },
+            {
+                name: "1100",
+                urls:
+                [
+                "http://www.p3designs.info/kernels/1100_LV_Wi_USB_Tether.zip"
+                ]
+            },
+            {
+                name: "1200",
+                urls:
+                [
+                "http://www.p3designs.info/kernels/1200_LV_Wi_USB_Tether.zip"
+                ]
+            }
+            ]
+        }
+        ]
+    },
+    
     {
         // Display name of the rom
         name: "CyanogenMod 5.0.5",

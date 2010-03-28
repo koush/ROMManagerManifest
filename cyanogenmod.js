@@ -58,10 +58,6 @@
         developer: true,
         summary: "Redline Series Kernels for 5.0.5.3. For Advanced users only.",
         device: "sholes",
-        whitelist:
-        {
-        A0000015B8B4E9: true
-        },
         urls:
         [
         ""

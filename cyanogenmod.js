@@ -54,8 +54,8 @@
     },
     
     {
-        name: "P3Droid Redline Series",
-        summary: "Kernels for 5.0.5.3",
+        name: "P3Droid Kernels",
+        summary: "Redline Series Kernels for 5.0.5.3. For Advanced users only.",
         device: "sholes",
         urls:
         [

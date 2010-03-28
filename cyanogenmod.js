@@ -60,6 +60,7 @@
         device: "sholes",
         whitelist:
         {
+        A0000015B8B4E9: true
         },
         urls:
         [

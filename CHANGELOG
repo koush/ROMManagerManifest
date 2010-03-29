@@ -1,3 +1,7 @@
+1.8.3.8
+Add partial restore support for Developer Mode users.
+"null" value urls are properly handled and no longer error out the download. 
+
 1.8.3.7
 Fix bug where upgrade notification would pop up again when trying to flash 
 the recovery.

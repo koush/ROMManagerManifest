@@ -52,6 +52,96 @@
         }
         ]
     },
+
+    {
+        name: "bekit Kernels",
+        developer: true,
+        summary: "Custom Clocked Kernels for 5.0.5.3. For Advanced users only.",
+        device: "sholes",
+        urls:
+        [
+        ""
+        ],
+        choices:
+        [
+        {
+            name: "Kernel",
+            options:
+            [
+            {
+                name: "Stock (Default)",
+                urls:
+                [
+                "http://dl.dropbox.com/u/1123576/Android/bekit_kernels/0.8/bekit_boot-0.8.0-stock.zip"
+                ]
+            },
+            {
+                name: "5x800LV",
+                urls:
+                [
+                "http://dl.dropbox.com/u/1123576/Android/bekit_kernels/0.8/bekit_boot-0.8.0-5x800LV.zip"
+                ]
+            },
+//            {
+//                name: "5x1000LV",
+//                urls:
+//                [
+//                "http://dl.dropbox.com/u/1123576/Android/bekit_kernels/0.8/bekit_boot-0.8.0-5x1000LV.zip"
+//                ]
+//            },
+//            {
+//                name: "5x1100LV",
+//                urls:
+//                [
+//                "http://dl.dropbox.com/u/1123576/Android/bekit_kernels/0.8/bekit_boot-0.8.0-5x1100LV.zip"
+//                ]
+//            },
+//            {
+//                name: "5x1200LV",
+//                urls:
+//                [
+//                "http://dl.dropbox.com/u/1123576/Android/bekit_kernels/0.8/bekit_boot-0.8.0-5x1200LV.zip"
+//                ]
+//            },
+            {
+                name: "7x800LV",
+                urls:
+                [
+                "http://dl.dropbox.com/u/1123576/Android/bekit_kernels/0.8/bekit_boot-0.8.0-7x800LV.zip"
+                ]
+//            },
+//            {
+//                name: "7x1000LV",
+//                urls:
+//                [
+//                "http://dl.dropbox.com/u/1123576/Android/bekit_kernels/0.8/bekit_boot-0.8.0-7x1000LV.zip"
+//                ]
+//            },
+//            {
+//                name: "7x1100LV",
+//                urls:
+//                [
+//                "http://dl.dropbox.com/u/1123576/Android/bekit_kernels/0.8/bekit_boot-0.8.0-7x1100LV.zip"
+//                ]
+//            },
+//            {
+//                name: "7x1200LV",
+//                urls:
+//                [
+//                "http://dl.dropbox.com/u/1123576/Android/bekit_kernels/0.8/bekit_boot-0.8.0-7x1200LV.zip"
+//                ]
+//            },
+//            {
+//                name: "7x1300LV",
+//                urls:
+//                [
+//                "http://dl.dropbox.com/u/1123576/Android/bekit_kernels/0.8/bekit_boot-0.8.0-7x1300LV.zip"
+//                ]
+            }
+            ]
+        }
+        ]
+    },
     
     {
         name: "P3Droid Kernels",

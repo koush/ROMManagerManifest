@@ -13,7 +13,7 @@
         // Display name of the rom
         name: "CyanogenMod 5.0.5.4",
         // Display summary of the rom
-        summary: "Stable",
+        summary: "Under Testing",
         // Device that this rom runs on
         device: "sholes",
         developer: true,

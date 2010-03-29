@@ -121,13 +121,12 @@
         },
     },
     {
-        developer: "KangxKxMod",
-        summary: "This is greyed out if you are not a Premium user. It is also intentionally broken.",
-        manifest: "http://github.com/koush/ROMManagerManifest/raw/master/manifest.js",
+        developer: "Stock Images",
+        summary: "Revert back to stock phone images.",
+        manifest: "http://github.com/koush/ROMManagerManifest/raw/master/stock.js",
         roms:
         {
-            sholes: true,
-            passion: true
+            sholes: true
         },
     }
     ]

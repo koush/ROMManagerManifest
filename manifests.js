@@ -71,16 +71,6 @@
         },
     },
     {
-        developer: "NexTheme and NexDesire",
-        id: "manup456",
-        summary: "Manup456's Desire Port for the Nexus One",
-        manifest: "http://github.com/koush/ROMManagerManifest/raw/master/manup456.js",
-        roms:
-        {
-            passion: true
-        },
-    },
-    {
         developer: "Enomther",
         id: "enomther",
         summary: "Enomther's TheOfficial Nexus1",
@@ -101,14 +91,24 @@
         },
     },
     {
-        developer: "NexTheme",
+        developer: "Nexus-Nation",
+        id: "manup456",
+        summary: "Themes, Rom's and more for the Nexus One",
+        manifest: "http://www.androidspin.com/files/manup456/THEMES/manup456.js",
+        roms:
+        {
+            passion: true
+        }
+    },
+    {
+        developer: "Haxzamatic",
         id: "Haxzamatic",
-        summary: "Manup456's NexTheme for the Droid!",
-        manifest: "http://mydroidworld.com/dev/haxzamatic/haxzamatic.js",
+        summary: "Themes and more for the Droid!",
+        manifest: "http://mydroidfiles.com/haxzamatic/haxzamatic.js",
         roms:
         {
             sholes: true
-        },
+        }
     },
     {
         developer: "Bugless Beast",
@@ -121,13 +121,13 @@
         },
     },
     {
-        developer: "KangxKxMod",
-        summary: "This is greyed out if you are not a Premium user. It is also intentionally broken.",
-        manifest: "http://github.com/koush/ROMManagerManifest/raw/master/manifest.js",
+        developer: "Stock Images",
+        summary: "Revert back to stock phone images.",
+        manifest: "http://github.com/koush/ROMManagerManifest/raw/master/stock.js",
+        free: true,
         roms:
         {
-            sholes: true,
-            passion: true
+            sholes: true
         },
     }
     ]

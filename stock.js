@@ -13,5 +13,6 @@
         "http://www.droidaftermarket.com/koush//motorola/sholes/update-stock.zip"
         ]
     }
+    ]
 }
     

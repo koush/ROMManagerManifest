@@ -16,7 +16,6 @@
         summary: "Stable",
         // Device that this rom runs on
         device: "sholes",
-        developer: true,
         // Product name of the mod. Product names should stay the same between versions of the mod.
         product: "CyanogenMod",
         // Numerical version of the mod. This allows the OTA system to figure out

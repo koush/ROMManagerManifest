@@ -1,3 +1,6 @@
+1.8.3.9
+Partitoning SD Card support.
+
 1.8.3.8
 Add partial restore support for Developer Mode users.
 "null" value urls are properly handled and no longer error out the download. 

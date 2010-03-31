@@ -92,7 +92,7 @@
     },
     {
         // This is what name you want your ROMs to show up under.
-        developer: "Forkup",
+        developer: "forkup",
         // Your id. This should have no spaces or other funny characters.
         // This would ideally be your Github id, so when you send me your manifest
         // I can verify who you are. But it can be anything really.

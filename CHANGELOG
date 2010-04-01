@@ -1,3 +1,9 @@
+1.8.4.1
+Fix NPE that occurs when viewing a developer homepage when none is set. 
+Support restore of sd-ext.
+Cache alternate recoveries so that the option isn't temporarily greyed out.
+Add new menu that allows people to flash older and experimental recoveries. 
+
 1.8.3.9
 Partitoning SD Card support.
 

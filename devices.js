@@ -2,6 +2,22 @@
     recovery_url: "http://koush.romraid.com/recoveries/recovery-clockwork-%s-%s.img",
     version: "1.7.8.9",
 
+    legacy:
+    [
+    "1.8.0.0",
+    "1.7.8.9",
+    "1.7.8.8",
+    "1.7.8.5",
+    "1.7.8.4",
+    "1.7.8.3",
+    "1.7.8.2",
+    "1.7.8.1",
+    "1.7.8.0",
+    "1.7.7.3",
+    "1.7.7.2",
+    "1.7.7.1"
+    ],
+
     devices:
     [
 

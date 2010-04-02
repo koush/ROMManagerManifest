@@ -152,7 +152,7 @@
         developer: "Smoked Glass-Esque",
         id: "kilpat",
         summary: "A theme for Koush",
-        manifest: "http://github.com/koush/ROMManagerManifest/raw/master/kilpat.js",
+        manifest: "http://github.com/m3kilpat/ROMManagerManifest/raw/master/kilpat.js",
         roms:
         {
             sholes: true

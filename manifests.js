@@ -146,6 +146,16 @@
         {
             sholes: true
         },
+    },
+    {
+        developer: "OpenEclair",
+        id: "openeclair",
+        summary: "Android Community Developed Eclair ROM",
+        manifest: "http://github.com/koush/ROMManagerManifest/raw/master/openeclair.js",
+        roms:
+        {
+            sholes: true
+        },
     }
     ]
 }

@@ -154,7 +154,9 @@
         manifest: "http://github.com/koush/ROMManagerManifest/raw/master/openeclair.js",
         roms:
         {
-            sholes: true
+            dream: true,
+            magic: true,
+            sapphire: true
         },
     }
     ]

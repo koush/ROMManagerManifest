@@ -138,11 +138,21 @@
             sholes: true
         },
     },
-    {
+	{
         developer: "Stock Images",
         summary: "Revert back to stock phone images.",
         manifest: "http://github.com/koush/ROMManagerManifest/raw/master/stock.js",
         free: true,
+        roms:
+        {
+            sholes: true
+        },
+    },
+    {
+        developer: "Smoked Glass-Esque",
+		id: "kilpat",
+        summary: "A theme for Koush",
+        manifest: "http://github.com/koush/ROMManagerManifest/raw/master/kilpat.js",
         roms:
         {
             sholes: true

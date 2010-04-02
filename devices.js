@@ -27,7 +27,7 @@
         init: "init.sholes.rc",
         key: "sholes",
         name: "Motorola Droid (CDMA)",
-        version: "1.7.8.6",
+        version: "1.8.0.2",
         alternate_recovery:
         {
             name: "SPRecovery 0.99.3b",

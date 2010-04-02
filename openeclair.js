@@ -30,6 +30,7 @@
         name: "OpenEclair v1.2.2",
         summary: "Stable, CFS with RAM Hack",
         device: "magic",
+        free: true,
         product: "OpenEclair",
         incremental: 1220,
         extendedurls:

@@ -14,7 +14,7 @@
         // Is this a free ROM? This is decided by Koush/Cyanogen/CTSO.
         free: true,
         // The location of the developer's manifest.
-        manifest: "http://github.com/koush/ROMManagerManifest/raw/master/cyanogenmod.js",
+        manifest: "http://www.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
         // The list of devices that this developer's ROMs support.
         // If you don't support a device, just don't list it!
         roms:
@@ -30,7 +30,7 @@
         developer: "CyanogenMod",
         id: "jnwhiteh",
         summary: "CyanogenMod for Hero by jnwhiteh",
-        manifest: "http://github.com/koush/ROMManagerManifest/raw/master/jnwhiteh.js",
+        manifest: "http://www.clockworkmod.com/ROMManagerManifest/jnwhiteh.js",
         free: true,
         roms:
         {
@@ -41,7 +41,7 @@
         developer: "AmonRA",
         id: "amonra",
         summary: "AmonRA Donut",
-        manifest: "http://github.com/koush/ROMManagerManifest/raw/master/amonra.js",
+        manifest: "http://www.clockworkmod.com/ROMManagerManifest/amonra.js",
         free: true,
         roms:
         {
@@ -53,7 +53,7 @@
         developer: "VillainROM",
         id: "nprussell",
         summary: "VillainROM HTC Legend Port",
-        manifest: "http://github.com/koush/ROMManagerManifest/raw/master/nprussell.js",
+        manifest: "http://www.clockworkmod.com/ROMManagerManifest/nprussell.js",
         roms:
         {
             hero: true
@@ -63,7 +63,7 @@
         developer: "Enomther",
         id: "enomther",
         summary: "Enomther's TheOfficial Nexus1",
-        manifest: "http://github.com/koush/ROMManagerManifest/raw/master/enomther.js",
+        manifest: "http://www.clockworkmod.com/ROMManagerManifest/enomther.js",
         roms:
         {
             passion: true
@@ -130,7 +130,7 @@
     {
         developer: "Stock Images",
         summary: "Revert back to stock phone images.",
-        manifest: "http://github.com/koush/ROMManagerManifest/raw/master/stock.js",
+        manifest: "http://www.clockworkmod.com/ROMManagerManifest/stock.js",
         free: true,
         roms:
         {
@@ -151,7 +151,7 @@
         developer: "OpenEclair",
         id: "openeclair",
         summary: "Android Community Developed Eclair ROM",
-        manifest: "http://github.com/koush/ROMManagerManifest/raw/master/openeclair.js",
+        manifest: "http://www.clockworkmod.com/ROMManagerManifest/openeclair.js",
         roms:
         {
             dream: true,

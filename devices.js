@@ -1,6 +1,6 @@
 {
     recovery_url: "http://koush.romraid.com/recoveries/recovery-clockwork-%s-%s.img",
-    version: "1.8.0.1",
+    version: "1.8.0.6",
 
     legacy:
     [

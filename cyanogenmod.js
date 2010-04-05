@@ -217,11 +217,11 @@
         "http://www.droidaftermarket.com/koush//motorola/sholes/droidbaseband-03.zip"
         ]
     },
-    
+
     {
         name: "P3Droid Kernels",
         developer: true,
-        summary: "Redline Series Kernels for 5.0.5.3 and 5.0.5.4. For Advanced users only.",
+        summary: "Redline Series Kernels for 5.0.5.3 and above. For Advanced users only.",
         device: "sholes",
         urls:
         [
@@ -230,49 +230,125 @@
         choices:
         [
         {
-            name: "Kernel",
+            name: "Cyanogenmod Low Voltage Kernels",
             options:
             [
             {
-                name: "700",
+                name: "600 - 7 slots 250 - 600",
+                urls:
+                [
+                "http://www.p3designs.info/kernels/600_LV_Wi_USB_Tether.zip"
+                ]
+            },
+			{
+                name: "700 - 7 slots 250 - 700",
                 urls:
                 [
                 "http://www.p3designs.info/kernels/700_LV_Wi_USB_Tether.zip"
                 ]
             },
             {
-                name: "800",
+                name: "800 - 7 slots 250 - 800",
                 urls:
                 [
                 "http://www.p3designs.info/kernels/800_LV_Wi_USB_Tether.zip"
                 ]
             },
             {
-                name: "900",
+                name: "900 - 7 slots 250 - 900",
                 urls:
                 [
                 "http://www.p3designs.info/kernels/900_LV_Wi_USB_Tether.zip"
                 ]
             },
             {
-                name: "1000",
+                name: "1000 - 7 slots 250 - 1000",
                 urls:
                 [
                 "http://www.p3designs.info/kernels/1000_LV_Wi_USB_Tether.zip"
                 ]
             },
             {
-                name: "1100",
+                name: "1100 - 7 slots 250 - 1100",
                 urls:
                 [
                 "http://www.p3designs.info/kernels/1100_LV_Wi_USB_Tether.zip"
                 ]
             },
             {
-                name: "1200",
+                name: "1200 - 7 slots 250 - 1200",
                 urls:
                 [
                 "http://www.p3designs.info/kernels/1200_LV_Wi_USB_Tether.zip"
+                ]
+            }
+			{
+                name: "1250 - 7 slots 250 - 1250",
+                urls:
+                [
+                "http://www.p3designs.info/kernels/1250_LV_Wi_USB_Tether.zip"
+                ]
+            }
+            ]
+        }
+	{
+            name: "ESE81 Kernels",
+            options:
+            [
+            {
+                name: "600 - 7 slots 250 - 600",
+                urls:
+                [
+                "http://www.p3designs.info/kernels/600_LV_Wi_USB_Tether_ESE81.zip"
+                ]
+            },
+			{
+                name: "700 - 7 slots 250 - 700",
+                urls:
+                [
+                "http://www.p3designs.info/kernels/700_LV_Wi_USB_Tether_ESE81.zip"
+                ]
+            },
+            {
+                name: "800 - 7 slots 250 - 800",
+                urls:
+                [
+                "http://www.p3designs.info/kernels/800_LV_Wi_USB_Tether_ESE81.zip"
+                ]
+            },
+            {
+                name: "900 - 7 slots 250 - 900",
+                urls:
+                [
+                "http://www.p3designs.info/kernels/900_LV_Wi_USB_Tether_ESE81.zip"
+                ]
+            },
+            {
+                name: "1000 - 7 slots 250 - 1000",
+                urls:
+                [
+                "http://www.p3designs.info/kernels/1000_LV_Wi_USB_Tether_ESE81.zip"
+                ]
+            },
+            {
+                name: "1100 - 7 slots 250 - 1100",
+                urls:
+                [
+                "http://www.p3designs.info/kernels/1100_LV_Wi_USB_Tether_ESE81.zip"
+                ]
+            },
+            {
+                name: "1200 - 7 slots 250 - 1200",
+                urls:
+                [
+                "http://www.p3designs.info/kernels/1200_LV_Wi_USB_Tether_ESE81.zip"
+                ]
+            }
+			{
+                name: "1250 - 7 slots 250 - 1250",
+                urls:
+                [
+                "http://www.p3designs.info/kernels/1250_LV_Wi_USB_Tether_ESE81.zip"
                 ]
             }
             ]

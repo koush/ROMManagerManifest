@@ -37,7 +37,6 @@
         urls:
         [
         "http://www.droidaftermarket.com/koush/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.5.7.zip",
-        "http://alldroid.org/roms/motorola/droid/koush//motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.5.7.zip",
         "http://koush.romraid.com/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.5.7.zip"
         ],
         // Optional addons (you don't need this if you dont have any)

@@ -98,6 +98,7 @@
         init: "init.heroc.rc",
         key: "heroc",
         name: "HTC Hero (CDMA)",
+        version: "1.8.0.7",
         alternate_recovery:
         {
             name: "RA Recovery v.1.6.2",

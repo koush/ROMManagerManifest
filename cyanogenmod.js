@@ -158,91 +158,91 @@
                 name: "Stock (Default) 0.8.1",
                 urls:
                 [
-                "http://dl.dropbox.com/u/1123576/Android/bekit_kernels/0.8/bekit_boot-0.8.1-stock.zip"
+                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.1-stock.zip"
                 ]
             },
             {
                 name: "5 Slot 800MHz 0.8.1",
                 urls:
                 [
-                "http://dl.dropbox.com/u/1123576/Android/bekit_kernels/0.8/bekit_boot-0.8.1-5x800LV.zip"
+                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.1-5x800LV.zip"
                 ]
             },
             {
                 name: "5 Slot 1.0GHz 0.8.1",
                 urls:
                 [
-                "http://dl.dropbox.com/u/1123576/Android/bekit_kernels/0.8/bekit_boot-0.8.1-5x1000LV.zip"
+                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.1-5x1000LV.zip"
                 ]
             },
             {
                 name: "5 Slot 1.1GHz 0.8.1",
                 urls:
                 [
-                "http://dl.dropbox.com/u/1123576/Android/bekit_kernels/0.8/bekit_boot-0.8.1-5x1100LV.zip"
+                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.1-5x1100LV.zip"
                 ]
             },
             {
                 name: "5 Slot 1.2GHz 0.8.1",
                 urls:
                 [
-                "http://dl.dropbox.com/u/1123576/Android/bekit_kernels/0.8/bekit_boot-0.8.1-5x1200LV.zip"
+                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.1-5x1200LV.zip"
                 ]
             },
             {
                 name: "7 Slot 800MHz 0.8.1",
                 urls:
                 [
-                "http://dl.dropbox.com/u/1123576/Android/bekit_kernels/0.8/bekit_boot-0.8.1-7x800LV.zip"
+                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.1-7x800LV.zip"
                 ]
             },
             {
                 name: "7 Slot 1.0GHz 0.8.1",
                 urls:
                 [
-                "http://dl.dropbox.com/u/1123576/Android/bekit_kernels/0.8/bekit_boot-0.8.1-7x1000LV.zip"
+                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.1-7x1000LV.zip"
                 ]
             },
             {
                 name: "7 Slot 1.1GHz 0.8.1",
                 urls:
                 [
-                "http://dl.dropbox.com/u/1123576/Android/bekit_kernels/0.8/bekit_boot-0.8.1-7x1100LV.zip"
+                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.1-7x1100LV.zip"
                 ]
             },
             {
                 name: "7 Slot 1.2GHz 0.8.1",
                 urls:
                 [
-                "http://dl.dropbox.com/u/1123576/Android/bekit_kernels/0.8/bekit_boot-0.8.1-7x1200LV.zip"
+                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.1-7x1200LV.zip"
                 ]
             },
             {
                 name: "7 Slot 1.3GHz 0.8.1",
                 urls:
                 [
-                "http://dl.dropbox.com/u/1123576/Android/bekit_kernels/0.8/bekit_boot-0.8.1-7x1300LV.zip"
+                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.1-7x1300LV.zip"
                 ]
             },
             {
                 name: "7 Slot 1.1GHz 0.8.1 *Increased Voltage*",
                 urls:
                 [
-                "http://dl.dropbox.com/u/1123576/Android/bekit_kernels/0.8/bekit_boot-0.8.1-7x1100IV.zip"
+                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.1-7x1100IV.zip"
                 ]
             },
             {
                 name: "7 Slot 1.2GHz 0.8.1 *Increased Voltage*",
                 urls:
                 [
-                "http://dl.dropbox.com/u/1123576/Android/bekit_kernels/0.8/bekit_boot-0.8.1-7x1200IV.zip"
+                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.1-7x1200IV.zip"
                 ]
             },
             {
                 name: "7 Slot 1.3GHz 0.8.1 *Increased Voltage*",
                 urls:
                 [
-                "http://dl.dropbox.com/u/1123576/Android/bekit_kernels/0.8/bekit_boot-0.8.1-7x1300IV.zip"
+                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.1-7x1300IV.zip"
                 ]
             }
             ]

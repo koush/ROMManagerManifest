@@ -3,27 +3,27 @@
     roms:
     [
     {
-        name: "Modaco Custom ROM",
+        name: "Modaco Custom ROM r13",
         summary: "Stable",
         device: "passion",
         product: "ModacoCustomROM",
-        incremental: 1000,
+        incremental: 13,
         referer: "koush",
         urls:
         [
-        "http://kitchen.romraid.com/paul/nexusone/2.1-update-nexusone-modacocustomcustomrom/prebaked/2.1-update-nexusone-modacocustomcustomrom-withadditions.zip",
+        "http://kitchen.romraid.com/paul/nexusone/r13-update-nexusone-modacocustomcustomrom/prebaked/r13-update-nexusone-modacocustomcustomrom-withadditions.zip",
         ]
     },
     {
         name: "Modaco with HTC Sense",
-        summary: "Alpha 19",
+        summary: "Alpha 21",
         device: "passion",
         product: "ModacoDesire",
-        incremental: 1000,
+        incremental: 21,
         referer: "koush",
         urls:
         [
-        "http://kitchen.romraid.com/paul/nexusone/alpha19-update-modacocustomrom-nexusone-desire-withadditions-signed.zip",
+        "http://kitchen.romraid.com/paul/nexusone/alpha-r21-update-modacocustomrom-nexusone-desire-kitchen/prebaked/alpha-r21-update-modacocustomrom-nexusone-desire-withadditions-signed.zip",
         ]
     }
     ]

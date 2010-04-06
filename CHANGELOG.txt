@@ -1,3 +1,6 @@
+1.8.4.6
+Add referer support to downloads.
+
 1.8.4.5
 Support Android 1.5 phones (Cupcake).
 

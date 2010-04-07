@@ -141,6 +141,16 @@
         },
     },
     {
+        developer: "Ultimate Droid",
+        free: true,
+        id: "blackdroid",
+        manifest: "http://www.clockworkmod.com/ROMManagerManifest/blackdroid.js",
+        roms:
+        {
+            sholes: true
+        },
+    },
+    {
         developer: "OpenEclair",
         id: "openeclair",
         summary: "Android Community Developed Eclair ROM",

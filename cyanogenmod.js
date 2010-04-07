@@ -327,7 +327,7 @@
     {
         name: "P3Droid Kernels",
         developer: true,
-        summary: "Redline Series Kernels for 5.0.5.3 and 5.0.5.4. For Advanced users only.",
+        summary: "Redline Series - kernels for any rom, using AnyUpdater from Koush by P3Droid. Includes wifi/usb tether, TUN for VPN, 2 extra cpu governors, app2sd, swap, processor temp monitoring. For Advanced users only.",
         device: "sholes",
         urls:
         [
@@ -336,56 +336,70 @@
         choices:
         [
         {
-            name: "Kernel",
+            name: "7 Slot - Low Voltage",
             options:
             [
             {
-                name: "700",
+                name: "600 - 250/300/400/450/500/550/600",
+                urls:
+                [
+                "http://www.p3designs.info/kernels/600_LV_Wi_USB_Tether.zip"
+                ]
+            },
+			{
+                name: "700 - 250/400/500/550/600/650/700",
                 urls:
                 [
                 "http://www.p3designs.info/kernels/700_LV_Wi_USB_Tether.zip"
                 ]
             },
             {
-                name: "800",
+                name: "800 - 250/400/500/550/600/700/800",
                 urls:
                 [
                 "http://www.p3designs.info/kernels/800_LV_Wi_USB_Tether.zip"
                 ]
             },
             {
-                name: "900",
+                name: "900 - 250/400/500/600/700/800/900",
                 urls:
                 [
                 "http://www.p3designs.info/kernels/900_LV_Wi_USB_Tether.zip"
                 ]
             },
             {
-                name: "1000",
+                name: "1000 - 250/500/600/700/800/900/1000",
                 urls:
                 [
                 "http://www.p3designs.info/kernels/1000_LV_Wi_USB_Tether.zip"
                 ]
             },
             {
-                name: "1100",
+                name: "1100 - 250/500/600/700/900/1000/1100",
                 urls:
                 [
                 "http://www.p3designs.info/kernels/1100_LV_Wi_USB_Tether.zip"
                 ]
             },
             {
-                name: "1200",
+                name: "1200 - 250/500/600/700/1000/1100/1200",
                 urls:
                 [
                 "http://www.p3designs.info/kernels/1200_LV_Wi_USB_Tether.zip"
+                ]
+            },
+			{
+                name: "1250 - 250/500/600/800/1100/1200/1250",
+                urls:
+                [
+                "http://www.p3designs.info/kernels/1250_LV_Wi_USB_Tether.zip"
                 ]
             }
             ]
         }
         ]
     },
-    
+
     {
         // Display name of the rom
         name: "CyanogenMod 5.0.5.3",

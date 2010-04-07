@@ -327,7 +327,7 @@
     {
         name: "P3Droid Kernels",
         developer: true,
-        summary: "Redline Series - kernels for any rom, using AnyUpdater from Koush by P3Droid. Includes wifi/usb tether, TUN for VPN, 2 extra cpu governors, app2sd, swap, processor temp monitoring. For Advanced users only.",
+        summary: "Kernels for any rom, using AnyUpdater from Koush by P3Droid. For Advanced users only.",
         device: "sholes",
         urls:
         [

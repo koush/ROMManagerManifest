@@ -140,7 +140,7 @@
     },
 
     {
-        name: "bekit Kernels",
+        name: "bekit Kernels (0.8.2)",
         developer: true,
         summary: "Custom Clocked Kernels for 5.0.5.x. For Advanced users only.",
         device: "sholes",
@@ -155,94 +155,157 @@
             options:
             [
             {
-                name: "Stock (Default) 0.8.1",
+                name: "Stock (Default) 0.8.2",
                 urls:
                 [
-                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.1-stock.zip"
+                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.2-stock.zip"
                 ]
             },
             {
-                name: "5 Slot 800MHz 0.8.1",
+                name: "5 Slot 800MHz 0.8.2 *Standard Voltage*",
                 urls:
                 [
-                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.1-5x800LV.zip"
+                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.2-5x800SV.zip"
                 ]
             },
             {
-                name: "5 Slot 1.0GHz 0.8.1",
+                name: "5 Slot 1.0GHz 0.8.2 *Standard Voltage*",
                 urls:
                 [
-                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.1-5x1000LV.zip"
+                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.2-5x1000SV.zip"
                 ]
             },
             {
-                name: "5 Slot 1.1GHz 0.8.1",
+                name: "5 Slot 1.1GHz 0.8.2 *Standard Voltage*",
                 urls:
                 [
-                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.1-5x1100LV.zip"
+                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.2-5x1100SV.zip"
                 ]
             },
             {
-                name: "5 Slot 1.2GHz 0.8.1",
+                name: "5 Slot 1.2GHz 0.8.2 *Standard Voltage*",
                 urls:
                 [
-                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.1-5x1200LV.zip"
+                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.2-5x1200SV.zip"
                 ]
             },
             {
-                name: "7 Slot 800MHz 0.8.1",
+                name: "7 Slot 800MHz 0.8.2 *Standard Voltage*",
                 urls:
                 [
-                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.1-7x800LV.zip"
+                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.2-7x800SV.zip"
                 ]
             },
             {
-                name: "7 Slot 1.0GHz 0.8.1",
+                name: "7 Slot 1.0GHz 0.8.2 *Standard Voltage*",
                 urls:
                 [
-                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.1-7x1000LV.zip"
+                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.2-7x1000SV.zip"
                 ]
             },
             {
-                name: "7 Slot 1.1GHz 0.8.1",
+                name: "7 Slot 1.1GHz 0.8.2 *Standard Voltage*",
                 urls:
                 [
-                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.1-7x1100LV.zip"
+                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.2-7x1100SV.zip"
                 ]
             },
             {
-                name: "7 Slot 1.2GHz 0.8.1",
+                name: "7 Slot 1.2GHz 0.8.2 *Standard Voltage*",
                 urls:
                 [
-                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.1-7x1200LV.zip"
+                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.2-7x1200SV.zip"
                 ]
             },
             {
-                name: "7 Slot 1.3GHz 0.8.1",
+                name: "7 Slot 1.3GHz 0.8.2 *Standard Voltage*",
                 urls:
                 [
-                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.1-7x1300LV.zip"
+                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.2-7x1300SV.zip"
                 ]
             },
             {
-                name: "7 Slot 1.1GHz 0.8.1 *Increased Voltage*",
+                name: "5 Slot 800MHz 0.8.2	*Low Voltage*",
                 urls:
                 [
-                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.1-7x1100IV.zip"
+                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.2-5x800LV.zip"
                 ]
             },
             {
-                name: "7 Slot 1.2GHz 0.8.1 *Increased Voltage*",
+                name: "5 Slot 1.0GHz 0.8.2 	*Low Voltage*",
                 urls:
                 [
-                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.1-7x1200IV.zip"
+                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.2-5x1000LV.zip"
                 ]
             },
             {
-                name: "7 Slot 1.3GHz 0.8.1 *Increased Voltage*",
+                name: "5 Slot 1.1GHz 0.8.2 	*Low Voltage*",
                 urls:
                 [
-                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.1-7x1300IV.zip"
+                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.2-5x1100LV.zip"
+                ]
+            },
+            {
+                name: "5 Slot 1.2GHz 0.8.2 	*Low Voltage*",
+                urls:
+                [
+                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.2-5x1200LV.zip"
+                ]
+            },
+            {
+                name: "7 Slot 800MHz 0.8.2 	*Low Voltage*",
+                urls:
+                [
+                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.2-7x800LV.zip"
+                ]
+            },
+            {
+                name: "7 Slot 1.0GHz 0.8.2 	*Low Voltage*",
+                urls:
+                [
+                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.2-7x1000LV.zip"
+                ]
+            },
+            {
+                name: "7 Slot 1.1GHz 0.8.2 	*Low Voltage*",
+                urls:
+                [
+                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.2-7x1100LV.zip"
+                ]
+            },
+            {
+                name: "7 Slot 1.2GHz 0.8.2 	*Low Voltage*",
+                urls:
+                [
+                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.2-7x1200LV.zip"
+                ]
+            },
+            {
+                name: "7 Slot 1.3GHz 0.8.2 	*Low Voltage*",
+                urls:
+                [
+                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.2-7x1300LV.zip"
+                ]
+            },
+            {
+                name: "7 Slot 1.1GHz 0.8.2 *Increased Voltage*",
+                urls:
+                [
+                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.2-7x1100IV.zip"
+                ]
+            },
+            {
+                name: "7 Slot 1.2GHz 0.8.2 *Increased Voltage*",
+                urls:
+                [
+                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.2-7x1200IV.zip"
+                ]
+            },
+            {
+                name: "7 Slot 1.3GHz 0.8.2 *Increased Voltage*",
+                urls:
+                [
+                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.2-7x1300IV.zip"
                 ]
             }
             ]
@@ -264,7 +327,7 @@
     {
         name: "P3Droid Kernels",
         developer: true,
-        summary: "Redline Series Kernels for 5.0.5.3 and 5.0.5.4. For Advanced users only.",
+        summary: "Kernels for any rom, using AnyUpdater from Koush by P3Droid. For Advanced users only.",
         device: "sholes",
         urls:
         [
@@ -273,56 +336,70 @@
         choices:
         [
         {
-            name: "Kernel",
+            name: "7 Slot - Low Voltage",
             options:
             [
             {
-                name: "700",
+                name: "600 - 250/300/400/450/500/550/600",
+                urls:
+                [
+                "http://www.p3designs.info/kernels/600_LV_Wi_USB_Tether.zip"
+                ]
+            },
+			{
+                name: "700 - 250/400/500/550/600/650/700",
                 urls:
                 [
                 "http://www.p3designs.info/kernels/700_LV_Wi_USB_Tether.zip"
                 ]
             },
             {
-                name: "800",
+                name: "800 - 250/400/500/550/600/700/800",
                 urls:
                 [
                 "http://www.p3designs.info/kernels/800_LV_Wi_USB_Tether.zip"
                 ]
             },
             {
-                name: "900",
+                name: "900 - 250/400/500/600/700/800/900",
                 urls:
                 [
                 "http://www.p3designs.info/kernels/900_LV_Wi_USB_Tether.zip"
                 ]
             },
             {
-                name: "1000",
+                name: "1000 - 250/500/600/700/800/900/1000",
                 urls:
                 [
                 "http://www.p3designs.info/kernels/1000_LV_Wi_USB_Tether.zip"
                 ]
             },
             {
-                name: "1100",
+                name: "1100 - 250/500/600/700/900/1000/1100",
                 urls:
                 [
                 "http://www.p3designs.info/kernels/1100_LV_Wi_USB_Tether.zip"
                 ]
             },
             {
-                name: "1200",
+                name: "1200 - 250/500/600/700/1000/1100/1200",
                 urls:
                 [
                 "http://www.p3designs.info/kernels/1200_LV_Wi_USB_Tether.zip"
+                ]
+            },
+			{
+                name: "1250 - 250/500/600/800/1100/1200/1250",
+                urls:
+                [
+                "http://www.p3designs.info/kernels/1250_LV_Wi_USB_Tether.zip"
                 ]
             }
             ]
         }
         ]
     },
-    
+
     {
         // Display name of the rom
         name: "CyanogenMod 5.0.5.3",

@@ -13,4 +13,5 @@
         "http://dl.dropbox.com/u/2070814/Droid/CleanLooksRelease1.zip"
         ]
     }
+    ]
 }

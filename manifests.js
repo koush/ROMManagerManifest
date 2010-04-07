@@ -131,16 +131,6 @@
         },
     },
     {
-        developer: "Stock Images",
-        summary: "Revert back to stock phone images.",
-        manifest: "http://www.clockworkmod.com/ROMManagerManifest/stock.js",
-        free: true,
-        roms:
-        {
-            sholes: true
-        },
-    },
-    {
         developer: "Smoked Glass-esque",
         id: "m3kilpat",
         summary: "Smoked glass theme that can be installed over CyanogenMod 5.0.5.4",
@@ -160,6 +150,16 @@
             dream: true,
             magic: true,
             sapphire: true
+        },
+    },
+    {
+        developer: "Stock Images",
+        summary: "Revert back to stock phone images.",
+        manifest: "http://www.clockworkmod.com/ROMManagerManifest/stock.js",
+        free: true,
+        roms:
+        {
+            sholes: true
         },
     }
     ]

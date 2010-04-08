@@ -1,4 +1,11 @@
 1.8.4.6
+Allow free users to browse a developer's ROM list, but not download.
+Fix bug where manual flash override is not visible.
+
+1.8.4.6
+Fix bug where installing a zip from SD card would not use backuptool.sh.
+
+1.8.4.6
 Add referer support to downloads.
 
 1.8.4.5

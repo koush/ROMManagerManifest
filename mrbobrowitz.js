@@ -10,18 +10,8 @@
         incremental: 1000,
         urls:
         [
-        "http://www.mydroidfiles.com/downloads/cleanlook/CleanLooksRelease1.zip"
+        "http://www.mydroidfiles.com/downloads/cleanlook/CleanLooksROM%200.1.zip"
         ],
-        addons:
-        [
-        {
-            name: "Black Notification Bar",
-            urls:
-            [
-            "http://www.mydroidfiles.com/downloads/cleanlook/blackbar.zip"
-            ]
-        }
-        ]
     }
     ]
 }

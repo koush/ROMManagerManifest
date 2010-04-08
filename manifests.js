@@ -94,7 +94,7 @@
         developer: "Clean Looks",
         id: "mrbobrowitz",
         summary: "A minimalistic theme for Cyanogen by Mrbobrowitz.",
-        manifest: "http://www.clockworkmod.com/ROMManagerManifest/mrbobrowitz.js",
+        manifest: "http://www.mydroidfiles.com/mrbobrowitz/mrbobrowitzmanifest.js",
         roms:
         {
             sholes: true,

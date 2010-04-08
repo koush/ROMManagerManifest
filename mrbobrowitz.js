@@ -4,7 +4,7 @@
     [
     {
         name: "Clean Looks v1",
-        summary: "Stable, installed OVER CyanogenMod 5.0.5.7",
+        summary: "Stable",
         device: "sholes",
         product: "CleanLooks",
         incremental: 1000,

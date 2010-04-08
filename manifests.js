@@ -131,20 +131,29 @@
         },
     },
     {
-        developer: "Smoked Glass-esque",
-        id: "m3kilpat",
-        summary: "Smoked glass theme that can be installed over CyanogenMod 5.0.5.4",
-        manifest: "http://github.com/m3kilpat/ROMManagerManifest/raw/master/kilpat.js",
+        developer: "Ultimate Droid",
+        free: true,
+        id: "blackdroid",
+        manifest: "http://www.clockworkmod.com/ROMManagerManifest/blackdroid.js",
         roms:
         {
             sholes: true
         },
     },
     {
-        developer: "Ultimate Droid",
-        free: true,
-        id: "blackdroid",
-        manifest: "http://www.clockworkmod.com/ROMManagerManifest/blackdroid.js",
+        developer: "AdamZ Smoked Glass",
+        id: "adamz",
+        manifest: "http://www.clockworkmod.com/ROMManagerManifest/adamz.js",
+        roms:
+        {
+            sholes: true
+        },
+    },
+    {
+        developer: "Smoked Glass-esque",
+        id: "m3kilpat",
+        summary: "Smoked glass theme that can be installed over CyanogenMod 5.0.5.4",
+        manifest: "http://github.com/m3kilpat/ROMManagerManifest/raw/master/kilpat.js",
         roms:
         {
             sholes: true

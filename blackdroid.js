@@ -11,7 +11,7 @@
         urls:
         [
         "http://koush.romraid.com//motorola/sholes/UltimateDroid_9.8.0-Nextheme.zip",
-        
+        "http://www.droidaftermarket.com/koush//motorola/sholes/UltimateDroid_9.8.0-Nextheme.zip"
         ],
         choices:
         [

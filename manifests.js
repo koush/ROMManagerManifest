@@ -91,6 +91,16 @@
         },
     },
     {
+        developer: "Clean Looks",
+        id: "mrbobrowitz",
+        summary: "A minimalistic theme for Cyanogen by Mrbobrowitz.",
+        manifest: "http://www.clockworkmod.com/ROMManagerManifest/mrbobrowitz.js",
+        roms:
+        {
+            sholes: true,
+        },
+    },
+    {
         developer: "Nexus-Nation",
         id: "manup456",
         summary: "Themes, Rom's and more for the Nexus One",

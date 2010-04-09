@@ -150,6 +150,16 @@
         },
     },
     {
+        developer: "JRummy",
+        id: "JRummy16",
+        summary: "Get even more of that CyanogenMod goodness! (Under construction)",
+        manifest: "http://github.com/downloads/jrummy16/Rom-Manager/jared.js",
+        roms:
+        {
+            sholes: true
+        },
+    },
+    {
         developer: "Smoked Glass-esque",
         id: "m3kilpat",
         summary: "Smoked glass theme that can be installed over CyanogenMod 5.0.5.4",

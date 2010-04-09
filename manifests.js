@@ -173,6 +173,7 @@
         developer: "OpenEclair",
         id: "openeclair",
         summary: "Android Community Developed Eclair ROM",
+        free: true,
         manifest: "http://www.clockworkmod.com/ROMManagerManifest/openeclair.js",
         roms:
         {

@@ -160,10 +160,20 @@
         },
     },
     {
-        developer: "Smoked Glass-esque",
+        developer: "Smoked Glass-Esque",
         id: "m3kilpat",
-        summary: "Smoked glass theme that can be installed over CyanogenMod 5.0.5.4",
-        manifest: "http://github.com/m3kilpat/ROMManagerManifest/raw/master/kilpat.js",
+        summary: "Smoked glass inspired themes that can be installed over CyanogenMod",
+        manifest: "http://github.com/koush/ROMManagerManifest/raw/master/kilpat.js",
+        roms:
+        {
+            sholes: true
+        },
+    },
+    {
+        developer: "Bgill55's Themes",
+        id: "bgill55",
+        summary: "For Koush's Cyanogenmod roms!",
+        manifest: "http://www.jbthemes.com/bgill55/bgill55.js",
         roms:
         {
             sholes: true

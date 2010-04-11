@@ -180,6 +180,16 @@
         },
     },
     {
+        developer: "PMilzie",
+        id: "PMilzie",
+        summary: "HexFusion Theme for Droid CyanogenMod",
+        manifest: "http://github.com/PMilzie/HexFusionTheme/raw/master/hexfusion.js",
+        roms:
+        {
+            sholes: true
+        },
+    },
+    {
         developer: "OpenEclair",
         id: "openeclair",
         summary: "Android Community Developed Eclair ROM",

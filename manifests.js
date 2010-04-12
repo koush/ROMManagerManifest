@@ -91,7 +91,7 @@
         },
     },
     {
-        developer: "Clean Looks",
+        developer: "MrBobrowitz",
         id: "mrbobrowitz",
         summary: "A minimalistic theme for Cyanogen by Mrbobrowitz.",
         manifest: "http://www.mydroidfiles.com/mrbobrowitz/mrbobrowitzmanifest.js",

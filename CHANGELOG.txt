@@ -1,3 +1,6 @@
+1.8.5.1
+Place the ROMs in Free and Premium sections.
+
 1.8.4.8
 Allow free users to browse a developer's ROM list, but not download.
 Fix bug where manual flash override is not visible.

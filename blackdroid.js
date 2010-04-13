@@ -2,7 +2,19 @@
     version: 1,
     roms:
     [
-        {
+    {
+        name: "Ultimate Droid v10",
+        summary: "Stable, NexTheme",
+        device: "sholes",
+        product: "UltimateDroid",
+        incremental: 10000,
+        urls:
+        [
+        "http://koush.romraid.com//motorola/sholes/ud10nex.zip",
+        "http://www.droidaftermarket.com/koush//motorola/sholes/ud10nex.zip"
+        ]
+    },
+    {
         name: "Ultimate Droid v10",
         summary: "Stable, Blackdroid Themed CyanogenMod",
         device: "sholes",

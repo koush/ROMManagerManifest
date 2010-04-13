@@ -134,7 +134,7 @@
         developer: "Ultimate Droid",
         free: true,
         id: "blackdroid",
-        summary: "Another CyanogenMod based build!",
+        summary: "Another CyanogenMod based theme!",
         manifest: "http://www.clockworkmod.com/ROMManagerManifest/blackdroid.js",
         roms:
         {

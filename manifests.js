@@ -133,7 +133,7 @@
     {
         developer: "Ultimate Droid",
         id: "blackdroid",
-        summary: "Another CyanogenMod based theme!",
+        summary: "Another CyanogenMod based theme! Hell hath no fury like a thousand geeks scorned.",
         manifest: "http://www.clockworkmod.com/ROMManagerManifest/blackdroid.js",
         roms:
         {

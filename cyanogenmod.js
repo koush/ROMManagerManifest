@@ -593,6 +593,33 @@
 
 
     // =====Google Nexus One====
+    
+    {
+        name: "CyanogenMod 5.0.6",
+        summary: "Stable",
+        device: "passion",
+        product: "CyanogenMod",
+        incremental: 5060,
+        modversion: "CyanogenMod-5.0.6-N1",
+        urls:
+        [
+        "http://n0rp.chemlab.org/android/nexus/update-cm-5.0.6-N1-signed.zip",
+        "http://cyanogen-updater.googlecode.com/files/update-cm-5.0.6-N1-signed.zip",
+        "http://android.phaseburn.net/mirrors/cyanogen/nexus/update-cm-5.0.6-N1-signed.zip"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            urls:
+            [
+            "http://chris.soyars.com/gapps-passion-EPE54B-signed.zip",
+            "http://briancrook.ca/android/nexus/gapps/gapps-passion-EPE54B-signed.zip"
+            ]
+        }
+        ]
+    },    
+    
     {
         name: "CyanogenMod 5.0.5.3",
         summary: "Stable",

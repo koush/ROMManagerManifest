@@ -313,10 +313,10 @@
     },
 
     {
-        name: "Launcher",
-        summary: "The normal, non-3D Launcher",
+        name: "Home",
+        summary: "The normal, non-3D Home screen",
         device: "sholes",
-        product: "Launcher",
+        product: "Home",
         urls:
         [
         "http://koush.romraid.com/motorola/sholes/Launcher.zip"

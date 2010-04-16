@@ -314,12 +314,6 @@
         ]
     },
 
-
-    // Your list of ROMs
-    // =====Motorola Droid=====
-    roms:
-    [
-
     {
         // Display name of the rom
         name: "CyanogenMod 5.0.5.7",

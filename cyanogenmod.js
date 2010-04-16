@@ -326,7 +326,7 @@
         // Display name of the rom
         name: "CyanogenMod 5.0.6",
         // Display summary of the rom
-        summary: "Stable",
+        summary: "Stable (wifi broken, replace with another kernel to fix)",
         // Device that this rom runs on
         device: "sholes",
         // Product name of the mod. Product names should stay the same between versions of the mod.

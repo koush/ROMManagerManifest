@@ -1,3 +1,11 @@
+1.8.5.3
+Add Settings screen.
+New application and notification icons.
+New automated backup feature (BETA).
+
+1.8.5.2
+Fix donate and homepage urls in a developer's ROM list.
+
 1.8.5.1
 Place the ROMs in Free and Premium sections.
 

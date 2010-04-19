@@ -93,7 +93,7 @@
     {
         developer: "MrBobrowitz",
         id: "mrbobrowitz",
-        summary: "CleanLooks and Blackmod",
+        summary: "CleanLooks ROMs and BlackMod ROMs",
         manifest: "http://www.mydroidfiles.com/mrbobrowitz/mrbobrowitzmanifest.js",
         roms:
         {

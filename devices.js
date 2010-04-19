@@ -22,7 +22,6 @@
         init: "init.sholes.rc",
         key: "sholes",
         name: "Motorola Droid (CDMA)",
-        version: "1.8.0.4",
         alternate_recovery:
         {
             name: "SPRecovery 0.99.3b",
@@ -34,6 +33,7 @@
         init: "init.sapphire.rc",
         key: "sapphire",
         name: "T-Mobile MyTouch 3G (GSM)",
+        version: "1.8.1.0",
         alternate_recovery:
         {
             name: "RA Recovery v.1.6.2",
@@ -45,6 +45,7 @@
         init: "init.sapphire.rc",
         key: "magic",
         name: "HTC Magic (GSM)",
+        version: "1.8.1.0",
         alternate_recovery:
         {
             name: "RA Recovery v.1.6.2",
@@ -56,6 +57,7 @@
         init: "init.trout.rc",
         key: "dream",
         name: "HTC Dream (GSM)",
+        version: "1.8.1.0",
         alternate_recovery:
         {
             name: "RA Recovery v.1.6.2",
@@ -67,6 +69,7 @@
         init: "init.mahimahi.rc",
         key: "passion",
         name: "Google Nexus One (GSM)",
+        version: "1.8.1.0",
         alternate_recovery:
         {
             name: "RA Recovery v.1.7.0",
@@ -78,6 +81,7 @@
         init: "init.hero.rc",
         key: "hero",
         name: "HTC Hero (GSM)",
+        version: "1.8.1.0",
         alternate_recovery:
         {
             name: "RA Recovery v.1.6.2",
@@ -89,7 +93,7 @@
         init: "init.heroc.rc",
         key: "heroc",
         name: "HTC Hero (CDMA)",
-        version: "1.8.0.7",
+        version: "1.8.1.0",
         alternate_recovery:
         {
             name: "RA Recovery v.1.6.2",
@@ -101,6 +105,7 @@
         init: "init.desirec.rc",
         key: "desirec",
         name: "Droid Eris (CDMA)",
+        version: "1.8.1.0",
         alternate_recovery:
         {
             name: "RA Recovery v.1.6.2",

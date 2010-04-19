@@ -2,6 +2,7 @@
 Add Settings screen.
 New application and notification icons.
 New automated backup feature (BETA).
+Check for SD Card being properly mounted on startup.
 
 1.8.5.2
 Fix donate and homepage urls in a developer's ROM list.

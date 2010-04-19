@@ -14,7 +14,7 @@
         // Is this a free ROM? This is decided by Koush/Cyanogen/CTSO.
         free: true,
         // The location of the developer's manifest.
-        manifest: "http://www.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
+        manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
         // The list of devices that this developer's ROMs support.
         // If you don't support a device, just don't list it!
         roms:
@@ -30,7 +30,7 @@
         developer: "CyanogenMod",
         id: "jnwhiteh",
         summary: "CyanogenMod for Hero by jnwhiteh",
-        manifest: "http://www.clockworkmod.com/ROMManagerManifest/jnwhiteh.js",
+        manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/jnwhiteh.js",
         free: true,
         roms:
         {
@@ -41,7 +41,7 @@
         developer: "AmonRA",
         id: "amonra",
         summary: "AmonRA Donut",
-        manifest: "http://www.clockworkmod.com/ROMManagerManifest/amonra.js",
+        manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/amonra.js",
         free: true,
         roms:
         {
@@ -53,7 +53,7 @@
         developer: "VillainROM",
         id: "nprussell",
         summary: "VillainROM HTC Legend Port",
-        manifest: "http://www.clockworkmod.com/ROMManagerManifest/nprussell.js",
+        manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/nprussell.js",
         roms:
         {
             hero: true
@@ -63,7 +63,7 @@
         developer: "Modaco Custom ROM",
         id: "modaco",
         summary: "Modaco Custom ROM - http://android.modaco.com/",
-        manifest: "http://www.clockworkmod.com/ROMManagerManifest/modaco.js",
+        manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/modaco.js",
         free: true,
         roms:
         {
@@ -74,7 +74,7 @@
         developer: "Enomther",
         id: "enomther",
         summary: "Enomther's TheOfficial Nexus1",
-        manifest: "http://www.clockworkmod.com/ROMManagerManifest/enomther.js",
+        manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/enomther.js",
         roms:
         {
             passion: true
@@ -134,7 +134,7 @@
         developer: "Ultimate Droid",
         id: "blackdroid",
         summary: "Ultimate Droid by Blackdroid",
-        manifest: "http://www.clockworkmod.com/ROMManagerManifest/blackdroid.js",
+        manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/blackdroid.js",
         roms:
         {
             sholes: true
@@ -143,7 +143,7 @@
     {
         developer: "AdamZ Smoked Glass",
         id: "adamz",
-        manifest: "http://www.clockworkmod.com/ROMManagerManifest/adamz.js",
+        manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/adamz.js",
         roms:
         {
             sholes: true
@@ -194,7 +194,7 @@
         id: "openeclair",
         summary: "Android Community Developed Eclair ROM",
         free: true,
-        manifest: "http://www.clockworkmod.com/ROMManagerManifest/openeclair.js",
+        manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/openeclair.js",
         roms:
         {
             dream: true,
@@ -205,7 +205,7 @@
     {
         developer: "Stock Images",
         summary: "Revert back to stock phone images.",
-        manifest: "http://www.clockworkmod.com/ROMManagerManifest/stock.js",
+        manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/stock.js",
         free: true,
         roms:
         {

@@ -93,7 +93,7 @@
     {
         developer: "MrBobrowitz",
         id: "mrbobrowitz",
-        summary: "A minimalistic theme for Cyanogen by Mrbobrowitz.",
+        summary: "CleanLooks and Blackmod",
         manifest: "http://www.mydroidfiles.com/mrbobrowitz/mrbobrowitzmanifest.js",
         roms:
         {
@@ -133,7 +133,7 @@
     {
         developer: "Ultimate Droid",
         id: "blackdroid",
-        summary: "Another CyanogenMod based theme! Hell hath no fury like a thousand geeks scorned.",
+        summary: "Ultimate Droid by Blackdroid",
         manifest: "http://www.clockworkmod.com/ROMManagerManifest/blackdroid.js",
         roms:
         {

@@ -5,7 +5,8 @@
     [
     {
         name: "Superuser 2.0.2",
-        summary: "Stable. Written by zinx and ChainsDD.",
+        summary: "Experimental. Written by zinx and ChainsDD.",
+        developer: true,
         device: "all",
         urls:
         [

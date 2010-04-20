@@ -15,6 +15,6 @@
         "http://64.247.20.78//common/su-2.0.2-signed.zip",
         "http://www.thekilpatrickproject.com/downloads/koush//common/su-2.0.2-signed.zip"
         ],
-    },
+    }
     ]
 }

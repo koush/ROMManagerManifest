@@ -1,5 +1,5 @@
 {
-    minversion: 1857,
+    minversion: 1859,
     manifests:
     [
     {
@@ -45,7 +45,8 @@
         manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
         roms:
         {
-            all: true
+            sholes: true,
+            passion: true
         },
     },
     {

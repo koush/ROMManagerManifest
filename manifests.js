@@ -38,6 +38,17 @@
         },
     },
     {
+        developer: "Extras",
+        id: "cyanogenmod",
+        summary: "Cool stuffs.",
+        free: true,
+        manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
+        roms:
+        {
+            all: true
+        },
+    },
+    {
         developer: "AmonRA",
         id: "amonra",
         summary: "AmonRA Donut",

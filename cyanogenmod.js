@@ -889,7 +889,7 @@
             name: "EB1/32A Kernel",
             urls:
             [
-            "http://briancrook.ca/magic/cm-ports/bc-4.2.15.1-ebi1-signed.zip"
+            "http://briancrook.ca/android/cm-ports/bc-4.2.15.1-ebi1-signed.zip"
             ]
         }
         ]

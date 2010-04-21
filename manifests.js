@@ -164,7 +164,7 @@
     {
         developer: "JRummy",
         id: "JRummy16",
-        summary: "Get even more of that CyanogenMod goodness! (Under construction)",
+        summary: "Get even more of that CyanogenMod goodness!",
         manifest: "http://github.com/downloads/jrummy16/Rom-Manager/jared.js",
         roms:
         {

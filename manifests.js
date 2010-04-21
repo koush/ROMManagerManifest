@@ -239,7 +239,7 @@
         id: "kmobs",
         free: true,
         summary: "Undervolted Kernels for the Nexus One",
-        manifest: "http://github.com/koush/ROMManagerManifest/kmobs.js",
+        manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/kmobs.js",
         roms:
         {
             passion: true

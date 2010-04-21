@@ -224,5 +224,15 @@
             sholes: true
         },
     }
+	{
+    	developer: "Kmobs Kernel",
+    	id: "kmobs",
+    	summary: "Undervolted Kernels for the Nexus One",
+    	manifest: "http://github.com/koush/ROMManagerManifest/kmobs.js",
+    	roms:
+    	{
+        	passion: true
+    	},
+	}
     ]
 }

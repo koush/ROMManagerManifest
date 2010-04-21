@@ -5,13 +5,20 @@
     [
     {
         name: "925mV Kernel",
-        summary: "Stable",
+        summary: "Stable - 4/20",
         device: "passion",
-        product: "KmobsKernel",
-        incremental: 0001,
         urls:
         [
         "http://kmobs.scepterr.info/kernels/signed-uv925.zip",
+        ]
+    }
+	{
+        name: "850mV Kernel",
+        summary: "Experimental - Device may not boot - 4/20",
+        device: "passion",
+        urls:
+        [
+        "http://kmobs.scepterr.info/kernels/signed-uv850-420.zip",
         ]
     }
     ]

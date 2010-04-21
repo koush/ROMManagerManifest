@@ -192,6 +192,16 @@
         },
     },
     {
+           developer: "Jairomeo",
+           id: "jairomeo",
+           summary: "Themes for Cyanogen on the Droid.",
+           manifest: "http://www.jbthemes.com/Flavored_Ice/jairomeo.js",
+           roms:
+           {
+                sholes: true,
+           },
+    },
+    {
         developer: "PMilzie",
         id: "PMilzie",
         summary: "HexFusion Theme for Droid CyanogenMod",
@@ -223,16 +233,17 @@
         {
             sholes: true
         },
+    },
+    {
+        developer: "Kmobs Kernel",
+        id: "kmobs",
+        free: true,
+        summary: "Undervolted Kernels for the Nexus One",
+        manifest: "http://github.com/koush/ROMManagerManifest/kmobs.js",
+        roms:
+        {
+            passion: true
+        },
     }
-	{
-    	developer: "Kmobs Kernel",
-    	id: "kmobs",
-    	summary: "Undervolted Kernels for the Nexus One",
-    	manifest: "http://github.com/koush/ROMManagerManifest/kmobs.js",
-    	roms:
-    	{
-        	passion: true
-    	},
-	}
     ]
 }

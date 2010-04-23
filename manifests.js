@@ -182,9 +182,9 @@
         },
     },
     {
-        developer: "Bgill55's Themes",
-        id: "bgill55",
-        summary: "For Koush's Cyanogenmod roms!",
+        developer: "Team Chaos",
+        id: "Team Chaos",
+        summary: "Roms, Themes and extra goodies",
         manifest: "http://www.jbthemes.com/bgill55/bgill55.js",
         roms:
         {

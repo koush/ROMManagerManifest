@@ -1,4 +1,7 @@
 1.8.6.2
+Direct users to the Market download if an upgrade is detected.
+
+1.8.6.1
 Add better license checking.
 Whitelisted users can now properly use automated backups.
 Add better error messages.

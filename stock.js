@@ -15,6 +15,16 @@
         ]
     },
     {
+        name: "Nexus One EPE76",
+        summary: "Stable, rooted, busybox, sqlite3, bash",
+        device: "sholes",
+        product: "stock",
+        urls:
+        [
+        "http://koush.romraid.com//test/stockeng.zip"
+        ]
+    },
+    {
         name: "Verizon Droid 2.0.1 Stock",
         summary: "Stable, NOT Rooted",
         device: "sholes",

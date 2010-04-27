@@ -1,3 +1,9 @@
+1.8.6.5
+Properly cancel pending backups when automated backups are disabled.
+
+1.8.6.4
+Check for root, and notify the user if the phone is not rooted.
+
 1.8.6.3
 Cache recoveries so reflashing doesn't require a redownload.
 

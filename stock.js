@@ -17,7 +17,7 @@
     {
         name: "Nexus One EPE76",
         summary: "Stable, rooted, busybox, sqlite3, bash",
-        device: "sholes",
+        device: "passion",
         product: "stock",
         urls:
         [

@@ -241,6 +241,7 @@
         free: true,
         roms:
         {
+            passion: true,
             sholes: true
         },
     },

@@ -164,7 +164,7 @@
     {
         developer: "JRummy",
         id: "JRummy16",
-        summary: "Get even more of that CyanogenMod goodness! (Under construction)",
+        summary: "Get even more of that CyanogenMod goodness!",
         manifest: "http://github.com/downloads/jrummy16/Rom-Manager/jared.js",
         roms:
         {
@@ -182,9 +182,9 @@
         },
     },
     {
-        developer: "Bgill55's Themes",
-        id: "bgill55",
-        summary: "For Koush's Cyanogenmod roms!",
+        developer: "Team Chaos",
+        id: "Team Chaos",
+        summary: "Roms, Themes and extra goodies",
         manifest: "http://www.jbthemes.com/bgill55/bgill55.js",
         roms:
         {
@@ -192,14 +192,24 @@
         },
     },
     {
-           developer: "Jairomeo",
-           id: "jairomeo",
-           summary: "Themes for Cyanogen on the Droid.",
-           manifest: "http://www.jbthemes.com/Flavored_Ice/jairomeo.js",
-           roms:
-           {
-                sholes: true,
-           },
+        developer: "Jairomeo",
+        id: "jairomeo",
+        summary: "Themes for Cyanogen on the Droid.",
+        manifest: "http://www.jbthemes.com/Flavored_Ice/jairomeo.js",
+        roms:
+        {
+            sholes: true,
+        },
+    },
+    {
+        developer: "ArmyRanger251",
+        id: "ArmyRanger251",
+        summary: "Themes for Cyanogen on the Droid.",
+        manifest: "http://theandroidspot.com/files/ArmyRanger251/ArmyRanger251.js",
+        roms:
+        {
+            sholes: true,
+        },
     },
     {
         developer: "PMilzie",
@@ -243,6 +253,16 @@
         roms:
         {
             passion: true
+        },
+    },
+    {
+        developer: "KrazyKrivda",
+        id: "krazykrivda",
+        summary: "Great themes and more :)",
+        manifest: "http://www.alldroid.org/themes/motorola/droid/krazykrivda/manifest.js",
+        roms:
+        {
+            sholes: true
         },
     }
     ]

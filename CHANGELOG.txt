@@ -1,3 +1,16 @@
+1.8.6.3
+Cache recoveries so reflashing doesn't require a redownload.
+
+1.8.6.2
+Direct users to the Market download if an upgrade is detected.
+
+1.8.6.1
+Add better license checking.
+Whitelisted users can now properly use automated backups.
+Add better error messages.
+Add version string to the title of ROM Manager.
+ROM Manager Manifests now support the "all" entry for target devices.
+
 1.8.5.3
 Add Settings screen.
 New application and notification icons.

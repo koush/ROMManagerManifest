@@ -13,7 +13,7 @@
         "http://koush.romraid.com//common/su-2.0.2-signed.zip",
         "http://www.droidaftermarket.com/koush//common/su-2.0.2-signed.zip",
         "http://droidk.macleodweb.net//common/su-2.0.2-signed.zip",
-        "http://64.247.20.78//common/su-2.0.2-signed.zip",
+        "http://android.antbox.org/koush/common/su-2.0.2-signed.zip",
         "http://www.thekilpatrickproject.com/downloads/koush//common/su-2.0.2-signed.zip"
         ],
     },
@@ -28,7 +28,7 @@
         "http://koush.romraid.com//common/su-2.0.2-signed.zip",
         "http://www.droidaftermarket.com/koush//common/su-2.0.2-signed.zip",
         "http://droidk.macleodweb.net//common/su-2.0.2-signed.zip",
-        "http://64.247.20.78//common/su-2.0.2-signed.zip",
+        "http://android.antbox.org/koush/common/su-2.0.2-signed.zip",
         "http://www.thekilpatrickproject.com/downloads/koush//common/su-2.0.2-signed.zip"
         ],
     }    

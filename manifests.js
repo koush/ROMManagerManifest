@@ -266,6 +266,16 @@
             passion: true,
             sholes: true
         },
+    },
+	{
+        developer: "JsinLegacy Themes",
+        id: "JsinLegacy",
+        summary: "CyanogenMOD ROM Based Themes",
+        manifest: "http://thekilpatrickproject.com/downloads/jsinlegacy/jsinlegacy.js",
+        roms:
+        {
+            sholes: true
+        },
     }
     ]
 }

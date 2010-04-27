@@ -263,6 +263,7 @@
         manifest: "http://www.alldroid.org/themes/motorola/droid/krazykrivda/manifest.js",
         roms:
         {
+            passion: true,
             sholes: true
         },
     }

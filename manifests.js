@@ -267,7 +267,7 @@
             sholes: true
         },
     },
-	{
+    {
         developer: "JsinLegacy Themes",
         id: "JsinLegacy",
         summary: "CyanogenMOD ROM Based Themes",

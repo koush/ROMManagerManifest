@@ -153,15 +153,6 @@
         },
     },
     {
-        developer: "AdamZ Smoked Glass",
-        id: "adamz",
-        manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/adamz.js",
-        roms:
-        {
-            sholes: true
-        },
-    },
-    {
         developer: "JRummy",
         id: "JRummy16",
         summary: "Get even more of that CyanogenMod goodness!",

@@ -47,7 +47,6 @@
             name: "Google Apps",
             urls:
             [
-            "http://chris.soyars.com/gapps-passion-EPE54B-signed.zip",
             "http://briancrook.ca/android/nexus/gapps/gapps-passion-EPE54B-signed.zip"
             ]
         }
@@ -364,7 +363,6 @@
             name: "Google Apps",
             urls:
             [
-            "http://chris.soyars.com/gapps-passion-EPE54B-signed.zip",
             "http://briancrook.ca/android/nexus/gapps/gapps-passion-EPE54B-signed.zip"
             ]
         }
@@ -407,7 +405,6 @@
             name: "Google Apps",
             urls:
             [
-            "http://chris.soyars.com/gapps-passion-EPE54B-signed.zip",
             "http://briancrook.ca/android/nexus/gapps/gapps-passion-EPE54B-signed.zip"
             ]
         }
@@ -451,7 +448,6 @@
             name: "Google Apps",
             urls:
             [
-            "http://chris.soyars.com/gapps-passion-EPE54B-signed.zip",
             "http://briancrook.ca/android/nexus/gapps/gapps-passion-EPE54B-signed.zip"
             ]
         }
@@ -494,7 +490,6 @@
             name: "Google Apps",
             urls:
             [
-            "http://chris.soyars.com/gapps-passion-EPE54B-signed.zip",
             "http://briancrook.ca/android/nexus/gapps/gapps-passion-EPE54B-signed.zip"
             ]
         }
@@ -537,7 +532,6 @@
             name: "Google Apps",
             urls:
             [
-            "http://chris.soyars.com/gapps-passion-EPE54B-signed.zip",
             "http://briancrook.ca/android/nexus/gapps/gapps-passion-EPE54B-signed.zip"
             ]
         }
@@ -581,7 +575,6 @@
             name: "Google Apps",
             urls:
             [
-            "http://chris.soyars.com/gapps-passion-EPE54B-signed.zip",
             "http://briancrook.ca/android/nexus/gapps/gapps-passion-EPE54B-signed.zip"
             ]
         }
@@ -625,7 +618,6 @@
             name: "Google Apps",
             urls:
             [
-            "http://chris.soyars.com/gapps-passion-EPE54B-signed.zip",
             "http://briancrook.ca/android/nexus/gapps/gapps-passion-EPE54B-signed.zip"
             ]
         },
@@ -714,7 +706,6 @@
             name: "Google Apps",
             urls:
             [
-            "http://chris.soyars.com/gapps-passion-EPE54B-signed.zip",
             "http://briancrook.ca/android/nexus/gapps/gapps-passion-EPE54B-signed.zip"
             ]
         }
@@ -738,7 +729,6 @@
             name: "Google Apps",
             urls:
             [
-            "http://chris.soyars.com/gapps-passion-EPE54B-signed.zip",
             "http://briancrook.ca/android/nexus/gapps/gapps-passion-EPE54B-signed.zip"
             ]
         }
@@ -761,7 +751,6 @@
             name: "Google Apps",
             urls:
             [
-            "http://chris.soyars.com/gapps-passion-EPE54B-signed.zip",
             "http://briancrook.ca/android/nexus/gapps/gapps-passion-EPE54B-signed.zip"
             ]
         }
@@ -784,7 +773,6 @@
             name: "Google Apps",
             urls:
             [
-            "http://chris.soyars.com/gapps-passion-EPE54B-signed.zip",
             "http://briancrook.ca/android/nexus/gapps/gapps-passion-EPE54B-signed.zip"
             ]
         }
@@ -807,7 +795,6 @@
             name: "Google Apps",
             urls:
             [
-            "http://chris.soyars.com/gapps-passion-EPE54B-signed.zip",
             "http://briancrook.ca/android/nexus/gapps/gapps-passion-EPE54B-signed.zip"
             ]
         }

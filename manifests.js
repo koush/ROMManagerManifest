@@ -123,16 +123,6 @@
         }
     },
     {
-        developer: "Haxzamatic",
-        id: "Haxzamatic",
-        summary: "Themes and more for the Droid!",
-        manifest: "http://mydroidfiles.com/haxzamatic/haxzamatic.js",
-        roms:
-        {
-            sholes: true
-        }
-    },
-    {
         developer: "Bugless Beast",
         id: "pete",
         summary: "Bugless Beast By Peter Alfonso (@peteralfonso)",

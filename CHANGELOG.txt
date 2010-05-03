@@ -1,4 +1,4 @@
-1.8.6.6
+1.8.6.7
 Kanged pretty progress bar from TDUpdater by ChrisSoyars.
 
 1.8.6.5

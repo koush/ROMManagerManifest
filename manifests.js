@@ -257,6 +257,16 @@
         {
             sholes: true
         },
+    },
+    {
+        developer: "Succulent Desire",
+        id: "woodyman",
+        summary: "Custom ROMs, Themes, and Live Wallpapers",
+        manifest: "http://www.forkup.info/succulentdesire/woody.js",
+        roms:
+        {
+            sholes: true
+        },
     }
     ]
 }

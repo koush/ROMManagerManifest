@@ -50,6 +50,16 @@
         },
     },
     {
+        developer: "Bugless Beast",
+        id: "pete",
+        summary: "Bugless Beast By Peter Alfonso (@peteralfonso)",
+        manifest: "http://androidoverdrive.com/pete/ESE53/App/pete.js",
+        roms:
+        {
+            sholes: true
+        },
+    },
+    {
         developer: "AmonRA",
         id: "amonra",
         summary: "AmonRA Donut",
@@ -121,16 +131,6 @@
         {
             passion: true
         }
-    },
-    {
-        developer: "Bugless Beast",
-        id: "pete",
-        summary: "Bugless Beast By Peter Alfonso (@peteralfonso)",
-        manifest: "http://androidoverdrive.com/pete/ESE53/App/pete.js",
-        roms:
-        {
-            sholes: true
-        },
     },
     {
         developer: "Ultimate Droid",

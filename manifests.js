@@ -52,7 +52,7 @@
     {
         developer: "Bugless Beast",
         id: "pete",
-        summary: "Bugless Beast ROMs by Pete ()@peteralfonso)",
+        summary: "Bugless Beast ROMs by Pete (@peteralfonso)",
         manifest: "http://androidoverdrive.com/pete/ESE53/App/pete.js",
         roms:
         {

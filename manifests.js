@@ -146,7 +146,7 @@
         developer: "JRummy",
         id: "JRummy16",
         summary: "Get even more of that CyanogenMod goodness!",
-        manifest: "http://github.com/downloads/jrummy16/Rom-Manager/jared.js",
+        manifest: "http://www.bucketcheck.com/jrummy/Rummy%20Roms/RomManager/jared.js",
         roms:
         {
             sholes: true

@@ -1,5 +1,5 @@
 {
-    recovery_url: "http://koush.romraid.com/recoveries/recovery-clockwork-%s-%s.img",
+    recovery_url: "http://www.droidaftermarket.com/koush/recoveries/recovery-clockwork-%s-%s.img",
     version: "1.8.1.4",
 
     legacy:

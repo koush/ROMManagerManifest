@@ -11,7 +11,7 @@
         addons:
         [
         {
-            name: "Smoked Theme"
+            name: "Smoked Theme",
             urls:
             [
             "http://www.droidaftermarket.com/koush//motorola/sholes/newera_smoked.zip",

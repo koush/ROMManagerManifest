@@ -3,6 +3,31 @@
     roms:
     [
     {
+        name: "Ultimate Droid New Era",
+        summary: "Stable",
+        device: "sholes",
+        product: "UltimateDroid",
+        incremental: 11000,
+        addons:
+        [
+        {
+            name: "Smoked Theme"
+            urls:
+            [
+            "http://www.droidaftermarket.com/koush//motorola/sholes/newera_smoked.zip",
+            "http://www.thekilpatrickproject.com/downloads/koush//motorola/sholes/newera_smoked.zip",
+            "http://android.antbox.org/koush//motorola/sholes/newera_smoked.zip"
+            ]
+        }
+        ],
+        urls:
+        [
+        "http://www.droidaftermarket.com/koush//motorola/sholes/blackdroid_sholes-ota-eng.gregory.zip",
+        "http://www.thekilpatrickproject.com/downloads/koush//motorola/sholes/blackdroid_sholes-ota-eng.gregory.zip",
+        "http://android.antbox.org/koush//motorola/sholes/blackdroid_sholes-ota-eng.gregory.zip"
+        ]
+    },
+    {
         name: "Ultimate Droid v10",
         summary: "Stable, NexTheme",
         device: "sholes",

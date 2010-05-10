@@ -105,7 +105,7 @@
     {
         developer: "forkup",
         id: "forkup",
-        summary: "Themes and Addons for Cyanogen on the Droid.",
+        summary: "Roms, Themes and Addons for Cyanogen on the Droid.",
         manifest: "http://www.forkup.info/droidthemes/forkup.js",
         roms:
         {
@@ -259,7 +259,7 @@
         },
     },
     {
-        developer: "Succulent Desire",
+        developer: "Droid Concepts",
         id: "woodyman",
         summary: "Custom ROMs, Themes, and Live Wallpapers",
         manifest: "http://www.forkup.info/succulentdesire/woody.js",

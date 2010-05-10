@@ -241,7 +241,7 @@
         developer: "KrazyKrivda",
         id: "krazykrivda",
         summary: "Great themes and more :)",
-        manifest: "http://www.alldroid.org/themes/motorola/droid/krazykrivda/manifest.js",
+        manifest: "http://mydroidfiles.com/krazykrivda/manifest.js",
         roms:
         {
             passion: true,

@@ -326,6 +326,9 @@
         product: "Home",
         urls:
         [
+        "http://thekilpatrickproject.com/downloads/koush//motorola/sholes/Launcher_5.0.6.1.zip",
+        "http://www.droidaftermarket.com/koush//motorola/sholes/Launcher_5.0.6.1.zip",
+        "http://droidk.macleodweb.net//motorola/sholes/Launcher_5.0.6.1.zip",
         "http://koush.romraid.com/motorola/sholes/Launcher_5.0.6.1.zip"
         ]
     },

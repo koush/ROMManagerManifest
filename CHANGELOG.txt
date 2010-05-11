@@ -1,3 +1,6 @@
+1.8.6.8
+Forcing erase of recovery prior to flash to fix bug where reflash does nothing.
+
 1.8.6.7
 Kanged pretty progress bar from TDUpdater by ChrisSoyars.
 

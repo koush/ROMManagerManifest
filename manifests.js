@@ -267,17 +267,17 @@
         {
             sholes: true
         },
-    },    
+    },
     {
         developer: "Pershoot",
         id: "pershoot",
-	free: true,
+		free: true,
         summary: "Custom kernels and other awesomeness",
         manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/pershoot.js",
         roms:
         {
             passion: true
-        },        
+        },
     }
     ]
 }

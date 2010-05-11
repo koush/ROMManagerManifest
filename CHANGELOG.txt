@@ -1,3 +1,6 @@
+1.8.6.9
+Add option to view changelog to menu.
+
 1.8.6.8
 Forcing erase of recovery prior to flash to fix bug where reflash does nothing.
 

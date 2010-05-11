@@ -276,7 +276,10 @@
         manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/pershoot.js",
         roms:
         {
-            passion: true
+            passion: true,
+			sapphire: true,
+			dream: true,
+			magic: true
         },
     }
     ]

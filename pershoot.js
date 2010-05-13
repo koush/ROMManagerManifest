@@ -100,8 +100,30 @@
 //**************************************
 //32B - Sapphire
     {
+        name: "Kernel 2.6.33.4, OC-UV-FP – Dream/Sapphire",
+        summary: "For CM-5.0.7 DS t-series",
+        device: "sapphire",
+        product: "Pershoot's Kernel",
+        incremental: 051210,
+        urls:
+        [
+        "http://droidbasement.com/g1/kernels/7/boot-cm_2633.4_ds_32b-oc-uv-fp-051210.zip",
+        ]
+    },
+    {
+        name: "Kernel 2.6.33.4, OC-UV-XTRA-FP – Dream/Sapphire",
+        summary: "For CM-5.0.7 DS t-series: XTRA",
+        device: "sapphire",
+        product: "Pershoot's Kernel",
+        incremental: 051210,
+        urls:
+        [
+        "http://droidbasement.com/g1/kernels/7/boot-cm_2633.4_ds_32b-oc-uv-xtra-fp-051210.zip",
+        ]
+    },
+    {
         name: "Kernel 2.6.33.3, OC-UV-FP – Dream/Sapphire",
-        summary: "For CM-5.0.7 DS-test3",
+        summary: "For CM-5.0.7 DS t-series",
         device: "sapphire",
         product: "Pershoot's Kernel",
         incremental: 051010,
@@ -112,7 +134,7 @@
     },
     {
         name: "Kernel 2.6.33.3, OC-UV-XTRA-FP – Dream/Sapphire",
-        summary: "For CM-5.0.7 DS-test3: XTRA",
+        summary: "For CM-5.0.7 DS t-series: XTRA",
         device: "sapphire",
         product: "Pershoot's Kernel",
         incremental: 051010,
@@ -123,8 +145,30 @@
     },
 //32B - Dream
     {
+        name: "Kernel 2.6.33.4, OC-UV-FP – Dream/Sapphire",
+        summary: "For CM-5.0.7 DS t-series",
+        device: "dream",
+        product: "Pershoot's Kernel",
+        incremental: 051210,
+        urls:
+        [
+        "http://droidbasement.com/g1/kernels/7/boot-cm_2633.4_ds_32b-oc-uv-fp-051210.zip",
+        ]
+    },
+    {
+        name: "Kernel 2.6.33.4, OC-UV-XTRA-FP – Dream/Sapphire",
+        summary: "For CM-5.0.7 DS t-series: XTRA",
+        device: "dream",
+        product: "Pershoot's Kernel",
+        incremental: 051210,
+        urls:
+        [
+        "http://droidbasement.com/g1/kernels/7/boot-cm_2633.4_ds_32b-oc-uv-xtra-fp-051210.zip",
+        ]
+    },
+    {
         name: "Kernel 2.6.33.3, OC-UV-FP – Dream/Sapphire",
-        summary: "For CM-5.0.7 DS-test3",
+        summary: "For CM-5.0.7 DS t-series",
         device: "dream",
         product: "Pershoot's Kernel",
         incremental: 051010,
@@ -135,7 +179,7 @@
     },
     {
         name: "Kernel 2.6.33.3, OC-UV-XTRA-FP – Dream/Sapphire",
-        summary: "For CM-5.0.7 DS-test3: XTRA",
+        summary: "For CM-5.0.7 DS t-series: XTRA",
         device: "dream",
         product: "Pershoot's Kernel",
         incremental: 051010,
@@ -147,7 +191,29 @@
 //32A - Magic
     {
         name: "Kernel 2.6.33.3, OC-UV-FP – Dream/Sapphire",
-        summary: "For CM-5.0.7 DS-test3",
+        summary: "For CM-5.0.7 DS t-series",
+        device: "magic",
+        product: "Pershoot's Kernel",
+        incremental: 051210,
+        urls:
+        [
+        "http://droidbasement.com/g1/kernels/7/boot-cm_2633.4_ds_32a-oc-uv-fp-051210.zip",
+        ]
+    },
+    {
+        name: "Kernel 2.6.33.3, OC-UV-XTRA-FP – Dream/Sapphire",
+        summary: "For CM-5.0.7 DS t-series: XTRA",
+        device: "magic",
+        product: "Pershoot's Kernel",
+        incremental: 051210,
+        urls:
+        [
+        "http://droidbasement.com/g1/kernels/7/boot-cm_2633.4_ds_32a-oc-uv-xtra-fp-051210.zip",
+        ]
+    }, 
+    {
+        name: "Kernel 2.6.33.3, OC-UV-FP – Dream/Sapphire",
+        summary: "For CM-5.0.7 DS t-series",
         device: "magic",
         product: "Pershoot's Kernel",
         incremental: 051010,
@@ -158,7 +224,7 @@
     },
     {
         name: "Kernel 2.6.33.3, OC-UV-XTRA-FP – Dream/Sapphire",
-        summary: "For CM-5.0.7 DS-test3: XTRA",
+        summary: "For CM-5.0.7 DS t-series: XTRA",
         device: "magic",
         product: "Pershoot's Kernel",
         incremental: 051010,

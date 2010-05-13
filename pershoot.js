@@ -6,10 +6,9 @@
 //**************************************
 //**********Nexus**************
 //**************************************
-//CyanogenMOD 5.0.7-t1
     {
         name: "Kernel 2.6.33.4 – OC-UV-BTN-AUD-RAM-NEON_FP (1.113GHZ)",
-        summary: "For CM-5.0.5+ and t-series",
+        summary: "For CM-5.0.5+ and 5.0.7 t-series",
         device: "passion",
         product: "Pershoot's Kernel",
         incremental: 051210,
@@ -20,7 +19,7 @@
     },
     {
         name: "Kernel 2.6.33.4 – OC-UV-XTRA-BTN-AUD-RAM-NEON_FP (1.113GHZ)",
-        summary: "For CM-5.0.5+ and t-series: XTRA",
+        summary: "For CM-5.0.5+ and 5.0.7 t-series: XTRA",
         device: "passion",
         product: "Pershoot's Kernel",
         incremental: 051210,
@@ -30,8 +29,30 @@
         ]
     },
     {
+        name: "Kernel 2.6.33.4 – OC-UV-BTN-AUD-RAM-VFP_FP (1.113GHZ)",
+        summary: "For CM-5.0.6",
+        device: "passion",
+        product: "Pershoot's Kernel",
+        incremental: 051210,
+        urls:
+        [
+        "http://droidbasement.com/nexus/kernels/ram/20/boot-cm_2633.4-oc-uv-btn-aud-ram-vfp_fp-051210.zip",
+        ]
+    },
+    {
+        name: "Kernel 2.6.33.4 – OC-UV-XTRA-BTN-AUD-RAM-VFP_FP (1.113GHZ)",
+        summary: "For CM-5.0.6",
+        device: "passion",
+        product: "Pershoot's Kernel",
+        incremental: 051210,
+        urls:
+        [
+        "http://droidbasement.com/nexus/kernels/ram/20/boot-cm_2633.4-oc-uv-xtra-btn-aud-ram-vfp_fp-051210.zip",
+        ]
+    },
+    {
         name: "Kernel 2.6.33.3 – OC-UV-BTN-AUD-RAM-NEON_FP (1.113GHZ)",
-        summary: "For CM-5.0.7-test1 ONLY",
+        summary: "For CM-5.0.7-t series ONLY",
         device: "passion",
         product: "Pershoot's Kernel",
         incremental: 051010,
@@ -42,36 +63,13 @@
     },
     {
         name: "Kernel 2.6.33.3 – OC-UV-XTRA-BTN-AUD-RAM-NEON_FP (1.113GHZ)",
-        summary: "For CM-5.0.7-test1 ONLY: XTRA",
+        summary: "For CM-5.0.7-t series ONLY: XTRA",
         device: "passion",
         product: "Pershoot's Kernel",
         incremental: 051010,
         urls:
         [
         "http://droidbasement.com/nexus/kernels/ram/19/zImage-cm_2633.3-oc-uv-xtra-btn-aud-ram-neon_fp-051010",
-        ]
-    },
-//CyanogenMOD 5.0.6
-	{
-        name: "Kernel 2.6.33.3 – OC-UV-BTN-AUD-RAM-NEON_FP (1.113GHZ)",
-        summary: "For CM-5.0.6 ONLY",
-        device: "passion",
-        product: "Pershoot's Kernel",
-        incremental: 050710,
-        urls:
-        [
-        "http://droidbasement.com/nexus/kernels/ram/17/boot-cm_2633.3-oc-uv-btn-aud-ram-vfp_fp-050710.zip",
-        ]
-    },
-    {
-        name: "Kernel 2.6.33.3 – OC-UV-XTRA-BTN-AUD-RAM-NEON_FP (1.113GHZ)",
-        summary: "For CM-5.0.6 ONLY: XTRA",
-        device: "passion",
-        product: "Pershoot's Kernel",
-        incremental: 050710,
-        urls:
-        [
-        "http://droidbasement.com/nexus/kernels/ram/17/boot-cm_2633.3-oc-uv-xtra-btn-aud-ram-vfp_fp-050710.zip",
         ]
     },
 //Recent Apps

@@ -74,6 +74,17 @@
     },
 //Recent Apps
     {
+        name: "15 Recent Apps + Invisible Lockscreen – CM5.0.7-T Series",
+        summary: "For CyanogenMod 5.0.7 t-series only",
+        device: "passion",
+        product: "Pershoot's Extras",
+        incremental: 051310,
+        urls:
+        [
+        "http://droidbasement.com/nexus/mods/15recent-invisilock-cm5.0.7_t-n1-051310.zip",
+        ]
+    },
+    {
         name: "15 Recent Apps – CM5.0.7-T Series",
         summary: "For CyanogenMod 5.0.7-test1 only",
         device: "passion",
@@ -234,6 +245,39 @@
         ]
     },    
 //Recent Apps
+    {
+        name: "15 Recent Apps + Invisible Lockscreen – CM5.0.7-T Series",
+        summary: "For CyanogenMod 5.0.7 DS t-series only",
+        device: "sapphire",
+        product: "Pershoot's Extras",
+        incremental: 051310,
+        urls:
+        [
+        "http://droidbasement.com/g1/mods/15recent-invisilock-cm5.0.7_t-ds-051310.zip",
+        ]
+    },    
+    {
+        name: "15 Recent Apps + Invisible Lockscreen – CM5.0.7-T Series",
+        summary: "For CyanogenMod 5.0.7 DS t-series only",
+        device: "dream",
+        product: "Pershoot's Extras",
+        incremental: 051310,
+        urls:
+        [
+        "http://droidbasement.com/g1/mods/15recent-invisilock-cm5.0.7_t-ds-051310.zip",
+        ]
+    },   
+    {
+        name: "15 Recent Apps + Invisible Lockscreen – CM5.0.7-T Series",
+        summary: "For CyanogenMod 5.0.7 DS t-series only",
+        device: "magic",
+        product: "Pershoot's Extras",
+        incremental: 051310,
+        urls:
+        [
+        "http://droidbasement.com/g1/mods/15recent-invisilock-cm5.0.7_t-ds-051310.zip",
+        ]
+    }, 
     {
         name: "15 Recent Apps – CM5.0.7-T Series – Dream/Sapphire",
         summary: "For CyanogenMod 5.0.7 DS-test3 only",

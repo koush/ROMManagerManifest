@@ -15,6 +15,16 @@
         urls:
         [
         "http://droidbasement.com/nexus/kernels/ram/20/boot-cm_2633.4-oc-uv-btn-aud-ram-neon_fp-051210.zip",
+        ],
+        addons:
+        [
+        {
+            name: "15 Recent Apps",
+            urls:
+            [
+			http://droidbasement.com/nexus/mods/15recent-invisilock-cm5.0.7_t-n1-051310.zip
+            ]
+        }
         ]
     },
     {

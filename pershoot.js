@@ -22,7 +22,7 @@
             name: "15 Recent Apps",
             urls:
             [
-			http://droidbasement.com/nexus/mods/15recent-invisilock-cm5.0.7_t-n1-051310.zip
+			"http://droidbasement.com/nexus/mods/15recent-invisilock-cm5.0.7_t-n1-051310.zip"
             ]
         }
         ]

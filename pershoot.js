@@ -60,28 +60,6 @@
         "http://droidbasement.com/nexus/kernels/ram/20/boot-cm_2633.4-oc-uv-xtra-btn-aud-ram-vfp_fp-051210.zip",
         ]
     },
-    {
-        name: "Kernel 2.6.33.3 – OC-UV-BTN-AUD-RAM-NEON_FP (1.113GHZ)",
-        summary: "For CM-5.0.7-t series ONLY",
-        device: "passion",
-        product: "Pershoot's Kernel",
-        incremental: 051010,
-        urls:
-        [
-        "http://droidbasement.com/nexus/kernels/ram/19/boot-cm_2633.3-oc-uv-btn-aud-ram-neon_fp-051010.zip",
-        ]
-    },
-    {
-        name: "Kernel 2.6.33.3 – OC-UV-XTRA-BTN-AUD-RAM-NEON_FP (1.113GHZ)",
-        summary: "For CM-5.0.7-t series ONLY: XTRA",
-        device: "passion",
-        product: "Pershoot's Kernel",
-        incremental: 051010,
-        urls:
-        [
-        "http://droidbasement.com/nexus/kernels/ram/19/zImage-cm_2633.3-oc-uv-xtra-btn-aud-ram-neon_fp-051010",
-        ]
-    },
 //Recent Apps 
     {
         name: "15 Recent Apps + Invisible Lockscreen – CM5.0.7-T Series",
@@ -92,17 +70,6 @@
         urls:
         [
         "http://droidbasement.com/nexus/mods/15recent-invisilock-cm5.0.7_t-n1-051510.zip",
-        ]
-    },
-    {
-        name: "15 Recent Apps + Invisible Lockscreen – CM5.0.7-T Series",
-        summary: "For CyanogenMod 5.0.7 t-series only - 0514",
-        device: "passion",
-        product: "Pershoot's Extras",
-        incremental: 051410,
-        urls:
-        [
-        "http://droidbasement.com/nexus/mods/15recent-invisilock-cm5.0.7_t-n1-051410.zip",
         ]
     },
     {
@@ -129,16 +96,6 @@
         urls:
         [
         "http://droidbasement.com/g1/kernels/7/boot-cm_2633.4_ds_32b-oc-uv-fp-051210.zip",
-        ],
-        addons:
-        [
-        {
-            name: "15 Recent Apps",
-            urls:
-            [
-			"http://droidbasement.com/g1/mods/15recent-invisilock-cm5.0.7_t-ds-051510.zip"
-            ]
-        }
         ]
     },
     {
@@ -150,28 +107,6 @@
         urls:
         [
         "http://droidbasement.com/g1/kernels/7/boot-cm_2633.4_ds_32b-oc-uv-xtra-fp-051210.zip",
-        ]
-    },
-    {
-        name: "Kernel 2.6.33.3, OC-UV-FP – Dream/Sapphire",
-        summary: "For CM-5.0.7 DS t-series",
-        device: "sapphire",
-        product: "Pershoot's Kernel",
-        incremental: 051010,
-        urls:
-        [
-        "http://droidbasement.com/g1/kernels/6/boot-cm_2633.3_ds_32b-oc-uv-fp-051010.zip",
-        ]
-    },
-    {
-        name: "Kernel 2.6.33.3, OC-UV-XTRA-FP – Dream/Sapphire",
-        summary: "For CM-5.0.7 DS t-series: XTRA",
-        device: "sapphire",
-        product: "Pershoot's Kernel",
-        incremental: 051010,
-        urls:
-        [
-        "http://droidbasement.com/g1/kernels/6/boot-cm_2633.3_ds_32b-oc-uv-xtra-fp-051010.zip",
         ]
     },
 //32B - Dream
@@ -184,16 +119,6 @@
         urls:
         [
         "http://droidbasement.com/g1/kernels/7/boot-cm_2633.4_ds_32b-oc-uv-fp-051210.zip",
-        ],
-        addons:
-        [
-        {
-            name: "15 Recent Apps",
-            urls:
-            [
-			"http://droidbasement.com/g1/mods/15recent-invisilock-cm5.0.7_t-ds-051410.zip"
-            ]
-        }
         ]
     },
     {
@@ -207,28 +132,6 @@
         "http://droidbasement.com/g1/kernels/7/boot-cm_2633.4_ds_32b-oc-uv-xtra-fp-051210.zip",
         ]
     },
-    {
-        name: "Kernel 2.6.33.3, OC-UV-FP – Dream/Sapphire",
-        summary: "For CM-5.0.7 DS t-series",
-        device: "dream",
-        product: "Pershoot's Kernel",
-        incremental: 051010,
-        urls:
-        [
-        "http://droidbasement.com/g1/kernels/6/boot-cm_2633.3_ds_32b-oc-uv-fp-051010.zip",
-        ]
-    },
-    {
-        name: "Kernel 2.6.33.3, OC-UV-XTRA-FP – Dream/Sapphire",
-        summary: "For CM-5.0.7 DS t-series: XTRA",
-        device: "dream",
-        product: "Pershoot's Kernel",
-        incremental: 051010,
-        urls:
-        [
-        "http://droidbasement.com/g1/kernels/6/boot-cm_2633.3_ds_32b-oc-uv-xtra-fp-051010.zip",
-        ]
-    },
 //32A - Magic
     {
         name: "Kernel 2.6.33.3, OC-UV-FP – Dream/Sapphire",
@@ -239,16 +142,6 @@
         urls:
         [
         "http://droidbasement.com/g1/kernels/7/boot-cm_2633.4_ds_32a-oc-uv-fp-051210.zip",
-        ],
-        addons:
-        [
-        {
-            name: "15 Recent Apps",
-            urls:
-            [
-			"http://droidbasement.com/g1/mods/15recent-invisilock-cm5.0.7_t-ds-051410.zip"
-            ]
-        }
         ]
     },
     {
@@ -261,33 +154,11 @@
         [
         "http://droidbasement.com/g1/kernels/7/boot-cm_2633.4_ds_32a-oc-uv-xtra-fp-051210.zip",
         ]
-    }, 
-    {
-        name: "Kernel 2.6.33.3, OC-UV-FP – Dream/Sapphire",
-        summary: "For CM-5.0.7 DS t-series",
-        device: "magic",
-        product: "Pershoot's Kernel",
-        incremental: 051010,
-        urls:
-        [
-        "http://droidbasement.com/g1/kernels/6/boot-cm_2633.3_ds_32a-oc-uv-fp-051010.zip",
-        ]
-    },
-    {
-        name: "Kernel 2.6.33.3, OC-UV-XTRA-FP – Dream/Sapphire",
-        summary: "For CM-5.0.7 DS t-series: XTRA",
-        device: "magic",
-        product: "Pershoot's Kernel",
-        incremental: 051010,
-        urls:
-        [
-        "http://droidbasement.com/g1/kernels/6/boot-cm_2633.3_ds_32a-oc-uv-xtra-fp-051010.zip",
-        ]
     },    
 //Recent Apps 
     {
         name: "15 Recent Apps + Invisible Lockscreen – CM5.0.7-T Series",
-        summary: "For CyanogenMod 5.0.7 DS t-series only",
+        summary: "For CyanogenMod 5.0.7 DS t-series only - May 15th",
         device: "sapphire",
         product: "Pershoot's Extras",
         incremental: 051510,
@@ -295,38 +166,27 @@
         [
         "http://droidbasement.com/g1/mods/15recent-invisilock-cm5.0.7_t-ds-051510.zip",
         ]
-    }, 
-    {
-        name: "15 Recent Apps + Invisible Lockscreen – CM5.0.7-T Series",
-        summary: "For CyanogenMod 5.0.7 DS t-series only",
-        device: "sapphire",
-        product: "Pershoot's Extras",
-        incremental: 051410,
-        urls:
-        [
-        "http://droidbasement.com/g1/mods/15recent-invisilock-cm5.0.7_t-ds-051410.zip",
-        ]
     },   
     {
         name: "15 Recent Apps + Invisible Lockscreen – CM5.0.7-T Series",
-        summary: "For CyanogenMod 5.0.7 DS t-series only",
+        summary: "For CyanogenMod 5.0.7 DS t-series only - May 15th",
         device: "magic",
         product: "Pershoot's Extras",
-        incremental: 051410,
+        incremental: 051510,
         urls:
         [
-        "http://droidbasement.com/g1/mods/15recent-invisilock-cm5.0.7_t-ds-051410.zip",
+        "http://droidbasement.com/g1/mods/15recent-invisilock-cm5.0.7_t-ds-051510.zip",
         ]
     },  
     {
         name: "15 Recent Apps + Invisible Lockscreen – CM5.0.7-T Series",
-        summary: "For CyanogenMod 5.0.7 DS t-series only",
+        summary: "For CyanogenMod 5.0.7 DS t-series only - May 15th",
         device: "dream",
         product: "Pershoot's Extras",
-        incremental: 051410,
+        incremental: 051510,
         urls:
         [
-        "http://droidbasement.com/g1/mods/15recent-invisilock-cm5.0.7_t-ds-051410.zip",
+        "http://droidbasement.com/g1/mods/15recent-invisilock-cm5.0.7_t-ds-051510.zip",
         ]
     }
     ]

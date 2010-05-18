@@ -5,11 +5,11 @@
     [
     {
         name: "925mV Kernel",
-        summary: "Stable - 5/1",
+        summary: ".33.4 - Updated 5/14",
         device: "passion",
         urls:
         [
-        "http://kmobs.scepterr.info/kernels/signed-UVfixed.zip",
+        "http://kmobs.scepterr.info/kernels/signed-925uv513.zip",
         ]
     }
     ]

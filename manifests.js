@@ -115,7 +115,7 @@
     {
         developer: "MrBobrowitz",
         id: "mrbobrowitz",
-        summary: "CleanLooks ROMs and BlackMod ROMs",
+        summary: "Steam ROM, CleanLooks ROMs, and BlackMod ROMs",
         manifest: "http://www.mydroidfiles.com/mrbobrowitz/mrbobrowitzmanifest.js",
         roms:
         {

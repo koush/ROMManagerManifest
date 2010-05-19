@@ -48,7 +48,7 @@
         init: "init.sapphire.rc",
         key: "magic",
         name: "HTC Magic (GSM)",
-        version: "1.8.1.0",
+        version: "1.8.1.5",
         alternate_recovery:
         {
             name: "RA Recovery v.1.6.2",

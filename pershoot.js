@@ -8,13 +8,13 @@
 //**************************************
     {
         name: "Kernel 2.6.33.4 – OC-UV-BTN-AUD-RAM-NEON_FP (1.113GHZ)",
-        summary: "For CM-5.0.5+ and 5.0.7 t-series",
+        summary: "For CM-5.0.5+ and 5.0.7 t-series: May 18",
         device: "passion",
         product: "Pershoot's Kernel",
-        incremental: 051210,
+        incremental: 051810,
         urls:
         [
-        "http://droidbasement.com/nexus/kernels/ram/20/boot-cm_2633.4-oc-uv-btn-aud-ram-neon_fp-051210.zip",
+        "http://droidbasement.com/nexus/kernels/ram/21/boot-cm_2633.4-oc-uv-btn-aud-ram-neon_fp-051810.zip",
         ],
         addons:
         [
@@ -29,35 +29,35 @@
     },
     {
         name: "Kernel 2.6.33.4 – OC-UV-XTRA-BTN-AUD-RAM-NEON_FP (1.113GHZ)",
-        summary: "For CM-5.0.5+ and 5.0.7 t-series: XTRA",
+        summary: "For CM-5.0.5+ and 5.0.7 t-series: XTRA, May 18",
         device: "passion",
         product: "Pershoot's Kernel",
-        incremental: 051210,
+        incremental: 051810,
         urls:
         [
-        "http://droidbasement.com/nexus/kernels/ram/20/boot-cm_2633.4-oc-uv-xtra-btn-aud-ram-neon_fp-051210.zip",
+        "http://droidbasement.com/nexus/kernels/ram/21/boot-cm_2633.4-oc-uv-xtra-btn-aud-ram-neon_fp-051810.zip",
         ]
     },
     {
         name: "Kernel 2.6.33.4 – OC-UV-BTN-AUD-RAM-VFP_FP (1.113GHZ)",
-        summary: "For CM-5.0.6",
+        summary: "For CM-5.0.6: May 18",
         device: "passion",
         product: "Pershoot's Kernel",
-        incremental: 051210,
+        incremental: 051810,
         urls:
         [
-        "http://droidbasement.com/nexus/kernels/ram/20/boot-cm_2633.4-oc-uv-btn-aud-ram-vfp_fp-051210.zip",
+        "http://droidbasement.com/nexus/kernels/ram/21/boot-cm_2633.4-oc-uv-btn-aud-ram-vfp_fp-051810.zip",
         ]
     },
     {
         name: "Kernel 2.6.33.4 – OC-UV-XTRA-BTN-AUD-RAM-VFP_FP (1.113GHZ)",
-        summary: "For CM-5.0.6",
+        summary: "For CM-5.0.6, XTRA: May 18",
         device: "passion",
         product: "Pershoot's Kernel",
-        incremental: 051210,
+        incremental: 051810,
         urls:
         [
-        "http://droidbasement.com/nexus/kernels/ram/20/boot-cm_2633.4-oc-uv-xtra-btn-aud-ram-vfp_fp-051210.zip",
+        "http://droidbasement.com/nexus/kernels/ram/21/boot-cm_2633.4-oc-uv-xtra-btn-aud-ram-vfp_fp-051810.zip",
         ]
     },
 //Recent Apps 

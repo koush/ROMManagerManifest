@@ -15,13 +15,25 @@
         ]
     },
     {
-        name: "Nexus One ERE27",
+        name: "Nexus One EPE54B (AT&T)",
         summary: "Unrooted, Odexed",
         device: "passion",
         product: "stock",
         urls:
         [
-        "http://www.romraid.com.nyud.net/paul/nexusone/update-nexusone-ERE27-signed.zip"
+        "http://www.romraid.com.nyud.net/paul/nexusone/EPE54B-update-nexusone-stock-images.zip",
+        "http://coblitz.codeen.org/www.romraid.com/paul/nexusone/update-nexusone-EPE54B-signed.zip"
+        ]
+    },
+    {
+        name: "Nexus One ERE27 (T-Mobile)",
+        summary: "Unrooted, Odexed",
+        device: "passion",
+        product: "stock",
+        urls:
+        [
+        "http://www.romraid.com.nyud.net/paul/nexusone/update-nexusone-ERE27-signed.zip",
+        "http://coblitz.codeen.org/www.romraid.com/paul/nexusone/update-nexusone-ERE27-signed.zip"
         ]
     },
     {

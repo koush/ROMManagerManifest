@@ -23,7 +23,7 @@
             passion: true,
             dream: true,
             magic: true,
-            sapphire: true,
+            sapphire: true
         }
     },
     {

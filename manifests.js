@@ -12,7 +12,7 @@
         // The display summary. Two lines max.
         summary: "Mods and bacon for Dream, Sapphire, Droid, and Nexus One",
         // Is this a free ROM? This is decided by Koush/Cyanogen/CTSO.
-        free: "true",
+        free: true,
         // The location of the developer's manifest.
         manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
         // The list of devices that this developer's ROMs support.
@@ -34,7 +34,7 @@
         free: true,
         roms:
         {
-            hero: true
+            "hero": true
         },
     },
     {

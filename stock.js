@@ -16,12 +16,12 @@
     },
     {
         name: "Nexus One ERE27",
-        summary: "Unrooted",
+        summary: "Unrooted, Odexed",
         device: "passion",
         product: "stock",
         urls:
         [
-        "http://www.romraid.com.nyud.net/paul/nexusone/update-nexusone-ERE36B-signed.zip"
+        "http://www.romraid.com.nyud.net/paul/nexusone/update-nexusone-ERE27-signed.zip"
         ]
     },
     {

@@ -35,7 +35,7 @@
         roms:
         {
             hero: true
-        },
+        }
     },
     {
         developer: "Extras",
@@ -47,7 +47,7 @@
         {
             sholes: true,
             passion: true
-        },
+        }
     },
     {
         developer: "Bugless Beast",
@@ -57,7 +57,7 @@
         roms:
         {
             sholes: true
-        },
+        }
     },
     {
         developer: "AmonRA",
@@ -69,7 +69,7 @@
         {
             magic: true,
             sapphire: true
-        },
+        }
     },
     {
         developer: "VillainROM",
@@ -79,7 +79,7 @@
         roms:
         {
             hero: true
-        },
+        }
     },
     {
         developer: "Modaco Custom ROM",
@@ -90,7 +90,7 @@
         roms:
         {
             passion: true
-        },
+        }
     },
     {
         developer: "Enomther",
@@ -100,7 +100,7 @@
         roms:
         {
             passion: true
-        },
+        }
     },
     {
         developer: "forkup",
@@ -110,7 +110,7 @@
         roms:
         {
             sholes: true,
-        },
+        }
     },
     {
         developer: "MrBobrowitz",
@@ -120,7 +120,7 @@
         roms:
         {
             sholes: true,
-        },
+        }
     },
     {
         developer: "Nexus-Nation",
@@ -140,7 +140,7 @@
         roms:
         {
             sholes: true
-        },
+        }
     },
     {
         developer: "JRummy",
@@ -150,7 +150,7 @@
         roms:
         {
             sholes: true
-        },
+        }
     },
     {
         developer: "Smoked Glass-Esque",
@@ -160,7 +160,7 @@
         roms:
         {
             sholes: true
-        },
+        }
     },
     {
         developer: "Team Chaos",
@@ -170,7 +170,7 @@
         roms:
         {
             sholes: true
-        },
+        }
     },
     {
         developer: "ChevyNo1 (Under Construction)",
@@ -180,7 +180,7 @@
         roms:
         {
             sholes: true
-        },
+        }
     },
     {
         developer: "Jairomeo",
@@ -190,7 +190,7 @@
         roms:
         {
             sholes: true,
-        },
+        }
     },
     {
         developer: "ArmyRanger251",
@@ -200,7 +200,7 @@
         roms:
         {
             sholes: true,
-        },
+        }
     },
     {
         developer: "PMilzie",
@@ -210,7 +210,7 @@
         roms:
         {
             sholes: true
-        },
+        }
     },
     {
         developer: "OpenEclair",
@@ -223,7 +223,7 @@
             dream: true,
             magic: true,
             sapphire: true
-        },
+        }
     },
     {
         developer: "Stock Images",
@@ -234,7 +234,7 @@
         {
             passion: true,
             sholes: true
-        },
+        }
     },
     {
         developer: "Kmobs Kernel",
@@ -245,7 +245,7 @@
         roms:
         {
             passion: true
-        },
+        }
     },
     {
         developer: "KrazyKrivda",
@@ -256,7 +256,7 @@
         {
             passion: true,
             sholes: true
-        },
+        }
     },
     {
         developer: "JsinLegacy Themes",
@@ -266,7 +266,7 @@
         roms:
         {
             sholes: true
-        },
+        }
     },
     {
         developer: "Droid Concepts",
@@ -276,7 +276,7 @@
         roms:
         {
             sholes: true
-        },
+        }
     },
     {
         developer: "Pershoot",
@@ -290,7 +290,7 @@
             sapphire: true,
             dream: true,
             magic: true
-        },
+        }
     }
     ]
 }

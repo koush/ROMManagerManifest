@@ -24,7 +24,7 @@
             dream: true,
             magic: true,
             sapphire: true,
-        },
+        }
     },
     {
         developer: "CyanogenMod",
@@ -34,7 +34,7 @@
         free: true,
         roms:
         {
-            "hero": true
+            hero: true
         },
     },
     {

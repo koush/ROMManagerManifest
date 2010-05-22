@@ -173,7 +173,7 @@
         },
     },
     {
-        developer: "ChevyNo1",
+        developer: "ChevyNo1 (Under Construction)",
         id: "ChevyNo1",
         summary: "Overclock Kernels & ROMS for the Droid",
         manifest: "http://github.com/ChevyNo1/SimplyStunning/raw/master/SimplyStunning.js",

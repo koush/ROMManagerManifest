@@ -38,6 +38,19 @@
         }
     },
     {
+        developer: "CyanogenMod Nightlies",
+        id: "koush",
+        summary: "CyanogenMod for Hero by jnwhiteh",
+        manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/cmnightly.js",
+        roms:
+        {
+            sholes: true,
+            passion: true,
+            dream: true,
+            sapphire: true
+        }
+    },
+    {
         developer: "Extras",
         id: "cyanogenmod",
         summary: "Cool stuffs.",

@@ -173,6 +173,16 @@
         },
     },
     {
+        developer: "ChevyNo1",
+        id: "ChevyNo1",
+        summary: "Overclock Kernels & ROMS for the Droid",
+        manifest: "http://github.com/ChevyNo1/SimplyStunning/raw/master/SimplyStunning.js",
+        roms:
+        {
+            sholes: true
+        },
+    },
+    {
         developer: "Jairomeo",
         id: "jairomeo",
         summary: "Themes for Cyanogen on the Droid.",
@@ -271,15 +281,15 @@
     {
         developer: "Pershoot",
         id: "pershoot",
-		free: true,
+        free: true,
         summary: "Custom kernels and other awesomeness",
         manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/pershoot.js",
         roms:
         {
             passion: true,
-			sapphire: true,
-			dream: true,
-			magic: true
+            sapphire: true,
+            dream: true,
+            magic: true
         },
     }
     ]

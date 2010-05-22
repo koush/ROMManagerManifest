@@ -40,8 +40,8 @@
     {
         developer: "CyanogenMod Nightlies",
         id: "koush",
-        summary: "CyanogenMod for Hero by jnwhiteh",
-        manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/cmnightly.js",
+        summary: "CyanogenMod Nightly builds. Very experimental and probably broken.",
+        manifest: "http://buildbot.teamdouche.net/nightly/rmnightly.js",
         roms:
         {
             sholes: true,

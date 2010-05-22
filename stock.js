@@ -15,6 +15,16 @@
         ]
     },
     {
+        name: "Nexus One FRF50",
+        summary: "Unrooted, Odexed",
+        device: "passion",
+        product: "stock",
+        urls:
+        [
+        "http://www.scepterr.info/update-nexusone-FRF50-signed.zip"
+        ]
+    },
+    {
         name: "Nexus One EPE54B (AT&T)",
         summary: "Unrooted, Odexed",
         device: "passion",

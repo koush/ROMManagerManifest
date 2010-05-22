@@ -15,13 +15,13 @@
         ]
     },
     {
-        name: "Nexus One EPE76",
-        summary: "Stable, rooted, busybox, sqlite3, bash",
+        name: "Nexus One ERE27",
+        summary: "Unrooted",
         device: "passion",
         product: "stock",
         urls:
         [
-        "http://koush.romraid.com//test/stockeng.zip"
+        "http://www.romraid.com.nyud.net/paul/nexusone/update-nexusone-ERE36B-signed.zip"
         ]
     },
     {

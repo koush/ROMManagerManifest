@@ -109,7 +109,7 @@
         manifest: "http://www.forkup.info/droidthemes/forkup.js",
         roms:
         {
-            sholes: true,
+            sholes: true
         }
     },
     {
@@ -119,7 +119,7 @@
         manifest: "http://www.mydroidfiles.com/mrbobrowitz/mrbobrowitzmanifest.js",
         roms:
         {
-            sholes: true,
+            sholes: true
         }
     },
     {
@@ -189,7 +189,7 @@
         manifest: "http://www.jbthemes.com/Flavored_Ice/jairomeo.js",
         roms:
         {
-            sholes: true,
+            sholes: true
         }
     },
     {
@@ -199,7 +199,7 @@
         manifest: "http://theandroidspot.com/files/ArmyRanger251/ArmyRanger251.js",
         roms:
         {
-            sholes: true,
+            sholes: true
         }
     },
     {

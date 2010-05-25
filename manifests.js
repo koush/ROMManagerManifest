@@ -313,7 +313,7 @@
 	    roms:
 	    {
 	        sholes: true,
-        },
+        }
 	}
     ]
 }

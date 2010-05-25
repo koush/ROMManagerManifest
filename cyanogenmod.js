@@ -17,11 +17,11 @@
         modversion: "CyanogenMod-5.0.7-Droid",
         urls:
         [
-        "http://www.thekilpatrickproject.com/downloads/koush/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.6.2.zip",
-        "http://droidk.macleodweb.net/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.6.2.zip",
-        "http://android.antbox.org/koush/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.6.2.zip",
-        "http://www.droidaftermarket.com/koush/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.6.2.zip",
-        "http://koush.romraid.com/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.6.2.zip"
+        "http://clockworkmod.s3.amazonaws.com//motorola/sholes/update-cm-5.0.7-Droid-signed.zip",
+        "http://www.droidaftermarket.com/koush//motorola/sholes/update-cm-5.0.7-Droid-signed.zip",
+        "http://www.thekilpatrickproject.com/downloads/koush//motorola/sholes/update-cm-5.0.7-Droid-signed.zip",
+        "http://www.clockworkmod.com/download//motorola/sholes/update-cm-5.0.7-Droid-signed.zip",
+        "http://koush.tandtgaming.com//motorola/sholes/update-cm-5.0.7-Droid-signed.zip"
         ],
         addons:
         [
@@ -744,6 +744,33 @@
 
 
     // =====Google Nexus One====
+    {
+        name: "CyanogenMod 5.0.7",
+        summary: "Stable",
+        device: "passion",
+        product: "CyanogenMod",
+        incremental: 5070,
+        modversion: "CyanogenMod-5.0.7-N1",
+        urls:
+        [
+        "http://n0rp.chemlab.org/android/nexus/update-cm-5.0.7-N1-signed.zip"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            urls:
+            [
+            "http://koush.romraid.com//common/gapps-passion-EPE54B-signed.zip",
+            "http://www.droidaftermarket.com/koush//common/gapps-passion-EPE54B-signed.zip",
+            "http://droidk.macleodweb.net//common/gapps-passion-EPE54B-signed.zip",
+            "http://android.antbox.org/koush//common/gapps-passion-EPE54B-signed.zip",
+            "http://www.thekilpatrickproject.com/downloads/koush//common/gapps-passion-EPE54B-signed.zip",
+            "http://briancrook.ca/android/nexus/gapps/gapps-passion-EPE54B-signed.zip"
+            ]
+        }
+        ]
+    },
     
     {
         name: "CyanogenMod 5.0.6",

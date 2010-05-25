@@ -305,15 +305,15 @@
             magic: true
         }
     },
-	{
-	    developer: "roberj13",
-	    id: "roberj13",
-	    summary: "Themed CyanogenMod ROM",
-	    manifest: "https://dl.dropbox.com/u/6734218/blueenergy.js",
-	    roms:
-	    {
-	        sholes: true,
-        },
-	}
+    {
+        developer: "roberj13",
+        id: "roberj13",
+        summary: "Themed CyanogenMod ROM",
+        manifest: "https://dl.dropbox.com/u/6734218/blueenergy.js",
+        roms:
+        {
+            sholes: true
+        }
+    }
     ]
 }

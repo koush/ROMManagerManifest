@@ -937,6 +937,7 @@
         summary: "Stable",
         device: "dream",
         product: "CyanogenMod",
+        modversion: "CyanogenMod-4.2.15.1-DS",
         extendedurls:
         [
         {
@@ -998,6 +999,7 @@
         summary: "Stable",
         device: "magic",
         product: "CyanogenMod",
+        modversion: "CyanogenMod-4.2.15.1-DS",
         extendedurls:
         [
         {
@@ -1053,6 +1055,7 @@
         summary: "Stable",
         device: "sapphire",
         product: "CyanogenMod",
+        modversion: "CyanogenMod-4.2.15.1-DS",
         extendedurls:
         [
         {

@@ -15,5 +15,5 @@
     {
         sholes: true,
         passion: true
-    },
+    }
 }

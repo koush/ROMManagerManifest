@@ -319,7 +319,7 @@
 	developer: "slayher",
 	id: "slayher",
 	summary: "Complete ROMs Themed by slayher",
-	manifest: "http://www.android.antbox.org/slayher/manifest.js",
+	manifest: "http://android.antbox.org/slayher/manifest.js",
 	roms:
 		{
 			sholes: true

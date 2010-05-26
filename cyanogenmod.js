@@ -9,6 +9,39 @@
     roms:
     [
     {
+        name: "CyanogenMod 5.0.7.1",
+        summary: "Stable",
+        device: "sholes",
+        product: "CyanogenMod",
+        incremental: 5070,
+        modversion: "CyanogenMod-5.0.7.1-Droid",
+        urls:
+        [
+        "http://clockworkmod.s3.amazonaws.com//motorola/sholes/update-cm-5.0.7.1-Droid-signed.zip",
+        "http://www.droidaftermarket.com/koush//motorola/sholes/update-cm-5.0.7.1-Droid-signed.zip",
+        "http://www.thekilpatrickproject.com/downloads/koush//motorola/sholes/update-cm-5.0.7.1-Droid-signed.zip",
+        "http://www.clockworkmod.com/download//motorola/sholes/update-cm-5.0.7.1-Droid-signed.zip",
+        "http://koush.tandtgaming.com//motorola/sholes/update-cm-5.0.7.1-Droid-signed.zip"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            urls:
+            [
+            "http://koush.romraid.com//common/gapps-passion-EPE54B-signed.zip",
+            "http://www.droidaftermarket.com/koush//common/gapps-passion-EPE54B-signed.zip",
+            "http://droidk.macleodweb.net//common/gapps-passion-EPE54B-signed.zip",
+            "http://android.antbox.org/koush//common/gapps-passion-EPE54B-signed.zip",
+            "http://www.thekilpatrickproject.com/downloads/koush//common/gapps-passion-EPE54B-signed.zip",
+            "http://briancrook.ca/android/nexus/gapps/gapps-passion-EPE54B-signed.zip"
+            ]
+        }
+        ]
+    },
+
+
+    {
         name: "CyanogenMod 5.0.7",
         summary: "Stable",
         device: "sholes",

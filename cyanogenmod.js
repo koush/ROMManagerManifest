@@ -17,7 +17,6 @@
         modversion: "CyanogenMod-5.0.7.1-Droid",
         urls:
         [
-        "http://clockworkmod.s3.amazonaws.com//motorola/sholes/update-cm-5.0.7.1-Droid-signed.zip",
         "http://www.droidaftermarket.com/koush//motorola/sholes/update-cm-5.0.7.1-Droid-signed.zip",
         "http://www.thekilpatrickproject.com/downloads/koush//motorola/sholes/update-cm-5.0.7.1-Droid-signed.zip",
         "http://www.clockworkmod.com/download//motorola/sholes/update-cm-5.0.7.1-Droid-signed.zip",
@@ -50,7 +49,6 @@
         modversion: "CyanogenMod-5.0.7-Droid",
         urls:
         [
-        "http://clockworkmod.s3.amazonaws.com//motorola/sholes/update-cm-5.0.7-Droid-signed.zip",
         "http://www.droidaftermarket.com/koush//motorola/sholes/update-cm-5.0.7-Droid-signed.zip",
         "http://www.thekilpatrickproject.com/downloads/koush//motorola/sholes/update-cm-5.0.7-Droid-signed.zip",
         "http://www.clockworkmod.com/download//motorola/sholes/update-cm-5.0.7-Droid-signed.zip",

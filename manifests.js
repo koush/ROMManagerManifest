@@ -314,6 +314,16 @@
         {
             sholes: true
         }
-    }
+    },
+	{
+	developer: "slayher",
+	id: "slayher",
+	summary: "Complete ROMs Themed by slayher",
+	manifest: "http://dl.dropbox.com/u/6628080/manifest.js",
+	roms:
+		{
+			sholes: true
+		}
+	}
     ]
 }

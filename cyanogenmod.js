@@ -13,7 +13,7 @@
         summary: "Stable",
         device: "sholes",
         product: "CyanogenMod",
-        incremental: 5070,
+        incremental: 5071,
         modversion: "CyanogenMod-5.0.7.1-Droid",
         urls:
         [

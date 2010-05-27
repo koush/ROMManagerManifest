@@ -15,7 +15,7 @@
         "http://droidk.macleodweb.net//common/su-2.0.3-signed.zip",
         "http://android.antbox.org/koush/common/su-2.0.3-signed.zip",
         "http://www.thekilpatrickproject.com/downloads/koush//common/su-2.0.3-signed.zip"
-        ],
+        ]
     },
     
     {
@@ -30,7 +30,7 @@
         "http://droidk.macleodweb.net//common/su-2.0.3-signed.zip",
         "http://android.antbox.org/koush/common/su-2.0.3-signed.zip",
         "http://www.thekilpatrickproject.com/downloads/koush//common/su-2.0.3-signed.zip"
-        ],
+        ]
     }    
     ]
 }

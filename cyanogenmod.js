@@ -996,7 +996,7 @@
     // =====G1=====
     {
         name: "CyanogenMod 5.0.7",
-        summary: "Stable",
+        summary: "Stable, Flashing Recovery may be broken",
         device: "dream",
         product: "CyanogenMod",
         incremental: 5070,
@@ -1045,7 +1045,7 @@
     // =====32A=====
     {
         name: "CyanogenMod 5.0.7",
-        summary: "Stable",
+        summary: "Stable, Flashing Recovery may be broken",
         device: "magic",
         product: "CyanogenMod",
         incremental: 5070,
@@ -1114,7 +1114,7 @@
     // =====32B=====
     {
         name: "CyanogenMod 5.0.7",
-        summary: "Stable",
+        summary: "Stable, Flashing Recovery may be broken",
         device: "sapphire",
         product: "CyanogenMod",
         incremental: 5070,

@@ -309,7 +309,7 @@
         developer: "roberj13",
         id: "roberj13",
         summary: "Themed CyanogenMod ROM",
-        manifest: "https://dl.dropbox.com/u/6734218/blueenergy.js",
+        manifest: "http://www.opendrive.com/files/6469705_oMJ97/blueenergy.js",
         roms:
         {
             sholes: true

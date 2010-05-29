@@ -226,19 +226,6 @@
         }
     },
     {
-        developer: "OpenEclair",
-        id: "openeclair",
-        summary: "Android Community Developed Eclair ROM",
-        free: true,
-        manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/openeclair.js",
-        roms:
-        {
-            dream: true,
-            magic: true,
-            sapphire: true
-        }
-    },
-    {
         developer: "Stock Images",
         summary: "Revert back to stock phone images.",
         manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/stock.js",

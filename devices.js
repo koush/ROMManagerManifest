@@ -105,6 +105,13 @@
     },
 
     {
+        init: "init.supersonic.rc",
+        key: "supersonic",
+        name: "HTC Evo (CDMA)",
+        version: "1.8.1.0"
+    },
+
+    {
         init: "init.desirec.rc",
         key: "desirec",
         name: "Droid Eris (CDMA)",

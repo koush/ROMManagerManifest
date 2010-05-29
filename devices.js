@@ -112,6 +112,13 @@
     },
 
     {
+        init: "init.qcom.rc",
+        key: "pulsemini",
+        name: "Huawei Pulse Mini",
+        version: "1.8.1.0"
+    },
+
+    {
         init: "init.desirec.rc",
         key: "desirec",
         name: "Droid Eris (CDMA)",

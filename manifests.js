@@ -226,19 +226,6 @@
         }
     },
     {
-        developer: "OpenEclair",
-        id: "openeclair",
-        summary: "Android Community Developed Eclair ROM",
-        free: true,
-        manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/openeclair.js",
-        roms:
-        {
-            dream: true,
-            magic: true,
-            sapphire: true
-        }
-    },
-    {
         developer: "Stock Images",
         summary: "Revert back to stock phone images.",
         manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/stock.js",
@@ -309,7 +296,7 @@
         developer: "roberj13",
         id: "roberj13",
         summary: "Themed CyanogenMod ROM",
-        manifest: "https://dl.dropbox.com/u/6734218/blueenergy.js",
+        manifest: "http://www.opendrive.com/files/6469705_oMJ97/blueenergy.js",
         roms:
         {
             sholes: true

@@ -39,8 +39,9 @@
         version: "1.8.1.0",
         alternate_recovery:
         {
-            name: "RA Recovery v.1.6.2",
-            url: "http://www.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-sapphire-v1.6.2G.img"
+            name: "RA Recovery v1.7.0G",
+            url: "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-sapphire-v1.7.0G.img"
+
         }
     },
 
@@ -51,8 +52,8 @@
         version: "1.8.1.5",
         alternate_recovery:
         {
-            name: "RA Recovery v.1.6.2",
-            url: "http://www.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-sapphire-v1.6.2H.img"
+            name: "RA Recovery v1.7.0H",
+            url: "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-sapphire-v1.7.0H.img"
         }
     },
 
@@ -63,8 +64,8 @@
         version: "1.8.1.0",
         alternate_recovery:
         {
-            name: "RA Recovery v.1.6.2",
-            url: "http://www.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-dream-v1.6.2.img"
+            name: "RA Recovery v1.7.0",
+            url: "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-dream-v1.7.0.img"
         }
     },
 
@@ -75,8 +76,8 @@
         version: "1.8.1.0",
         alternate_recovery:
         {
-            name: "RA Recovery v.1.7.0",
-            url: "http://www.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-nexus-v1.7.0.img"
+            name: "RA Recovery v1.7.0.1",
+            url: "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-nexus-v1.7.0.1.img"
         }
     },
 
@@ -87,7 +88,7 @@
         version: "1.8.1.0",
         alternate_recovery:
         {
-            name: "RA Recovery v.1.6.2",
+            name: "RA Recovery v1.6.2",
             url: "http://www.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-hero-v1.6.2.img"
         }
     },
@@ -99,7 +100,7 @@
         version: "1.8.1.0",
         alternate_recovery:
         {
-            name: "RA Recovery v.1.6.2",
+            name: "RA Recovery v1.6.2",
             url: "http://www.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-heroc-v1.6.2.img"
         }
     },
@@ -125,7 +126,7 @@
         version: "1.8.1.0",
         alternate_recovery:
         {
-            name: "RA Recovery v.1.6.2",
+            name: "RA Recovery v1.6.2",
             url: "http://www.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-eris-v1.6.2.img"
         }
     }

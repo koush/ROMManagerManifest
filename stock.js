@@ -15,6 +15,20 @@
         ]
     },
     {
+        name: "Nexus One EPE78",
+        summary: "Rooted with busybox and other dev tools",
+        device: "passion",
+        product: "stock",
+        urls:
+        [
+        "http://clockworkmod.s3.amazonaws.com//test/n1stockeng.zip",
+        "http://www.droidaftermarket.com/koush//test/n1stockeng.zip",
+        "http://www.thekilpatrickproject.com/downloads/koush//test/n1stockeng.zip",
+        "http://www.clockworkmod.com/download//test/n1stockeng.zip",
+        "http://koush.tandtgaming.com//test/n1stockeng.zip"
+        ]
+    },
+    {
         name: "Nexus One FRF50",
         summary: "Unrooted, Odexed",
         device: "passion",

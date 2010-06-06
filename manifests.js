@@ -311,6 +311,18 @@
 		{
 			sholes: true
 		}
-	}
+		}
+    },
+        {
+ 	developer: "jdlfg",
+        id: "jdlfg",
+        summary: "Kernels for any ROM by jdlfg",
+        manifest: "git://github.com/jdlfg/jdlfg.js.git"
+        roms: 
+        {
+           sholes: true
+        }
+      }    
     ]
 }
+        

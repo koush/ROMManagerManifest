@@ -4,7 +4,7 @@
     [
     {
         name: "Verizon Droid 2.2 Froyo Leak",
-        summary: "Experimental, Rooted",
+        summary: "Experimental, Rooted, FRF57",
         device: "sholes",
         product: "stock",
         urls:

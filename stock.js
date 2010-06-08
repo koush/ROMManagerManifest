@@ -19,7 +19,7 @@
     },
     {
         name: "C_01.43.01P Baseband",
-        summary: "Experimental",
+        summary: "Experimental. MUST INSTALL C_01.41.00R Baseband FIRST.",
         device: "sholes",
         product: "stock",
         urls:

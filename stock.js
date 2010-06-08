@@ -3,6 +3,51 @@
     roms:
     [
     {
+        name: "Verizon Droid 2.2 Froyo Leak",
+        summary: "Experimental, Rooted",
+        device: "sholes",
+        product: "stock",
+        urls:
+        [
+        "http://www.droidaftermarket.com/koush//motorola/sholes/froyodroid.zip",
+        "http://droidk.macleodweb.net//motorola/sholes/froyodroid.zip",
+        "http://android.antbox.org/koush//motorola/sholes/froyodroid.zip",
+        "http://www.thekilpatrickproject.com/downloads/koush//motorola/sholes/froyodroid.zip",
+        "http://www.clockworkmod.com/download//motorola/sholes/froyodroid.zip",
+        "http://koush.tandtgaming.com//motorola/sholes/froyodroid.zip"
+        ]
+    },
+    {
+        name: "C_01.43.01P Baseband",
+        summary: "Experimental",
+        device: "sholes",
+        product: "stock",
+        urls:
+        [
+        "http://www.droidaftermarket.com/koush//motorola/sholes/p3droid-baseband-update.zip",
+        "http://droidk.macleodweb.net//motorola/sholes/p3droid-baseband-update.zip",
+        "http://android.antbox.org/koush//motorola/sholes/p3droid-baseband-update.zip",
+        "http://www.thekilpatrickproject.com/downloads/koush//motorola/sholes/p3droid-baseband-update.zip",
+        "http://www.clockworkmod.com/download//motorola/sholes/p3droid-baseband-update.zip",
+        "http://koush.tandtgaming.com//motorola/sholes/p3droid-baseband-update.zip"
+        ]
+    },
+    {
+        name: "C_01.41.00R Baseband",
+        summary: "Experimental",
+        device: "sholes",
+        product: "stock",
+        urls:
+        [
+        "http://www.droidaftermarket.com/koush//motorola/sholes/before-p3droid-baseband-update.zip",
+        "http://droidk.macleodweb.net//motorola/sholes/before-p3droid-baseband-update.zip",
+        "http://android.antbox.org/koush//motorola/sholes/before-p3droid-baseband-update.zip",
+        "http://www.thekilpatrickproject.com/downloads/koush//motorola/sholes/before-p3droid-baseband-update.zip",
+        "http://www.clockworkmod.com/download//motorola/sholes/before-p3droid-baseband-update.zip",
+        "http://koush.tandtgaming.com//motorola/sholes/before-p3droid-baseband-update.zip"
+        ]
+    },
+    {
         name: "Verizon Droid 2.1 Stock",
         summary: "Stable, Radio, Rooted",
         device: "sholes",

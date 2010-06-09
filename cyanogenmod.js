@@ -103,7 +103,20 @@
         }
         ]
     },
-
+    {
+        name: "Google Apps",
+        summary: "Google Add-On",
+        device: "sholes",
+        urls:
+         [
+            "http://koush.romraid.com//common/gapps-passion-EPE54B-signed.zip",
+            "http://www.droidaftermarket.com/koush//common/gapps-passion-EPE54B-signed.zip",
+            "http://droidk.macleodweb.net//common/gapps-passion-EPE54B-signed.zip",
+            "http://android.antbox.org/koush//common/gapps-passion-EPE54B-signed.zip",
+            "http://www.thekilpatrickproject.com/downloads/koush//common/gapps-passion-EPE54B-signed.zip",
+            "http://briancrook.ca/android/nexus/gapps/gapps-passion-EPE54B-signed.zip"
+         ]
+    },
     {
         name: "bekit Kernels (0.8.4)",
         developer: true,
@@ -803,6 +816,20 @@
         ]
     },
     {
+        name: "Google Apps",
+        summary: "Google Add-On",
+        device: "passion",
+        urls:
+       [
+            "http://koush.romraid.com//common/gapps-passion-EPE54B-signed.zip",
+            "http://www.droidaftermarket.com/koush//common/gapps-passion-EPE54B-signed.zip",
+            "http://droidk.macleodweb.net//common/gapps-passion-EPE54B-signed.zip",
+            "http://android.antbox.org/koush//common/gapps-passion-EPE54B-signed.zip",
+            "http://www.thekilpatrickproject.com/downloads/koush//common/gapps-passion-EPE54B-signed.zip",
+            "http://briancrook.ca/android/nexus/gapps/gapps-passion-EPE54B-signed.zip"
+       ]
+    },
+    {
         name: "CyanogenMod 5.0.7",
         summary: "Stable",
         device: "passion",
@@ -1016,7 +1043,16 @@
         }
         ]
     },
-    
+ 
+    {
+        name: "Google Apps",
+        summary: "Google Add-On",
+        device: "dream",
+        urls:
+        [
+            "http://kanged.net/mirror/download.php?file=gapps-ds-ERE36B-signed.zip"
+        ]
+    },
     {
         name: "CyanogenMod 4.2.15.1",
         summary: "Stable",
@@ -1078,7 +1114,15 @@
         }
         ]
     },
-
+    {
+        name: "Google Apps",
+        summary: "Google Add-On",
+        device: "magic",
+        urls:
+        [
+         "http://kanged.net/mirror/download.php?file=gapps-ds-ERE36B-signed.zip"
+        ]
+    },
     {
         name: "CyanogenMod 4.2.15.1",
         summary: "Stable",
@@ -1134,7 +1178,15 @@
         }
         ]
     },
-
+    {
+        name: "Google Apps",
+        summary: "Google Add-On",
+        device: "sapphire",
+        urls:
+        [
+        "http://kanged.net/mirror/download.php?file=gapps-ds-ERE36B-signed.zip"
+        ]
+    },
     {
         name: "CyanogenMod 4.2.15.1",
         summary: "Stable",

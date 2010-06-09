@@ -302,27 +302,25 @@
             sholes: true
         }
     },
-	{
-	developer: "slayher",
-	id: "slayher",
-	summary: "Complete ROMs Themed by slayher",
-	manifest: "http://android.antbox.org/slayher/manifest.js",
-	roms:
-		{
-			sholes: true
-		}
-		}
-    },
+    {
+        developer: "slayher",
+        id: "slayher",
+        summary: "Complete ROMs Themed by slayher",
+        manifest: "http://android.antbox.org/slayher/manifest.js",
+        roms:
         {
- 	developer: "jdlfg",
+            sholes: true
+        }
+    },
+    {
+        developer: "jdlfg",
         id: "jdlfg",
         summary: "Kernels for any ROM by jdlfg",
         manifest: "http://dl.dropbox.com/u/6011176/jdlfg.js"
-        roms: 
+        roms:
         {
-           sholes: true
+            sholes: true
         }
-      }    
+    }
     ]
 }
-        

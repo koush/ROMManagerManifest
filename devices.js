@@ -4,6 +4,7 @@
 
     legacy:
     [
+    "1.8.1.7",
     "1.8.1.3",
     "1.8.1.1",
     "1.8.0.8",
@@ -74,6 +75,7 @@
         key: "passion",
         name: "Google Nexus One (GSM)",
         version: "1.8.1.0",
+        recovery_readonly: true,
         alternate_recovery:
         {
             name: "RA Recovery v1.7.0.1",
@@ -109,7 +111,8 @@
         init: "init.supersonic.rc",
         key: "supersonic",
         name: "HTC Evo (CDMA)",
-        version: "1.8.1.0"
+        version: "1.8.1.0",
+        recovery_readonly: true
     },
 
     {

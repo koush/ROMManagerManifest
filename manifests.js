@@ -316,7 +316,7 @@
         developer: "jdlfg",
         id: "jdlfg",
         summary: "Kernels for any ROM by jdlfg",
-        manifest: "http://dl.dropbox.com/u/6011176/jdlfg.js"
+        manifest: "http://dl.dropbox.com/u/6011176/jdlfg.js",
         roms:
         {
             sholes: true

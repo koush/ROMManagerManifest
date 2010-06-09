@@ -75,7 +75,7 @@
         key: "passion",
         name: "Google Nexus One (GSM)",
         version: "1.8.1.0",
-        recovery_readonly: true,
+        readonly_recovery: true,
         alternate_recovery:
         {
             name: "RA Recovery v1.7.0.1",
@@ -112,7 +112,7 @@
         key: "supersonic",
         name: "HTC Evo (CDMA)",
         version: "1.8.1.0",
-        recovery_readonly: true
+        readonly_recovery: true
     },
 
     {

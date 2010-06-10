@@ -263,7 +263,7 @@
         developer: "JsinLegacy",
         id: "JsinLegacy",
         summary: "Custom Themes & Goodies",
-        manifest: "http://www.jbthemes.com/Flavored_Ice/jairomeo.js",
+        manifest: "http://www.jbthemes.com/jsinlegacy/jsinlegacy.js",
         roms:
         {
             sholes: true,

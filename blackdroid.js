@@ -26,10 +26,13 @@
         visible: false,
         urls:
         [
-        "http://www.droidaftermarket.com/koush//motorola/sholes/udnewera-1.5.0.zip",
-        "http://droidk.macleodweb.net//motorola/sholes/udnewera-1.5.0.zip",
-        "http://android.antbox.org/koush//motorola/sholes/udnewera-1.5.0.zip",
-        "http://www.thekilpatrickproject.com/downloads/koush//motorola/sholes/udnewera-1.5.0.zip"
+        "http://www.droidaftermarket.com/koush//motorola/sholes/udnewera15.zip",
+        "http://droidk.macleodweb.net//motorola/sholes/udnewera15.zip",
+        "http://android.antbox.org/koush//motorola/sholes/udnewera15.zip",
+        "http://www.thekilpatrickproject.com/downloads/koush//motorola/sholes/udnewera15.zip",
+        "http://www.clockworkmod.com/download//motorola/sholes/udnewera15.zip",
+        "http://koush.tandtgaming.com//motorola/sholes/udnewera15.zip"
+
         ]
     },
 

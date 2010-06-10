@@ -259,14 +259,16 @@
         }
     },
     {
-        developer: "JsinLegacy Themes",
+
+        developer: "JsinLegacy",
         id: "JsinLegacy",
-        summary: "CyanogenMOD ROM Based Themes",
-        manifest: "http://www.jbthemes.com/jsinlegacy/jsinlegacy.js",
+        summary: "Custom Themes & Goodies",
+        manifest: "http://www.jbthemes.com/Flavored_Ice/jairomeo.js",
         roms:
         {
-            sholes: true
-        }
+            sholes: true,
+            passion: true
+        },
     },
     {
         developer: "Droid Concepts",

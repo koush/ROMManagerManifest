@@ -23,6 +23,7 @@
         device: "sholes",
         product: "UltimateDroid",
         incremental: 15000,
+        visible: false,
         urls:
         [
         "http://www.droidaftermarket.com/koush//motorola/sholes/udnewera-1.5.0.zip",

@@ -268,7 +268,7 @@
         {
             sholes: true,
             passion: true
-        },
+        }
     },
     {
         developer: "Droid Concepts",

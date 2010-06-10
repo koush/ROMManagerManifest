@@ -262,7 +262,7 @@
         developer: "JsinLegacy Themes",
         id: "JsinLegacy",
         summary: "CyanogenMOD ROM Based Themes",
-        manifest: "http://thekilpatrickproject.com/downloads/jsinlegacy/jsinlegacy.js",
+        manifest: "http://www.jbthemes.com/Flavored_Ice/jairomeo.js",
         roms:
         {
             sholes: true

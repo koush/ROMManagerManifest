@@ -3,7 +3,37 @@
     roms:
     [
     {
-        name: "Ultimate Droid New Era",
+        name: "Ultimate Droid Froyo Beta",
+        summary: "Stable",
+        device: "sholes",
+        product: "UltimateDroidFroyo",
+        incremental: 10000,
+        urls:
+        [
+        "http://www.droidaftermarket.com/koush//motorola/sholes/udfroyobeta_update.zip",
+        "http://droidk.macleodweb.net//motorola/sholes/udfroyobeta_update.zip",
+        "http://android.antbox.org/koush//motorola/sholes/udfroyobeta_update.zip",
+        "http://www.thekilpatrickproject.com/downloads/koush//motorola/sholes/udfroyobeta_update.zip"
+        ]
+    },
+
+    {
+        name: "Ultimate Droid New Era 1.5",
+        summary: "Stable",
+        device: "sholes",
+        product: "UltimateDroid",
+        incremental: 15000,
+        urls:
+        [
+        "http://www.droidaftermarket.com/koush//motorola/sholes/udnewera-1.5.0.zip",
+        "http://droidk.macleodweb.net//motorola/sholes/udnewera-1.5.0.zip",
+        "http://android.antbox.org/koush//motorola/sholes/udnewera-1.5.0.zip",
+        "http://www.thekilpatrickproject.com/downloads/koush//motorola/sholes/udnewera-1.5.0.zip"
+        ]
+    },
+
+    {
+        name: "Ultimate Droid New Era 1.0",
         summary: "Stable",
         device: "sholes",
         product: "UltimateDroid",

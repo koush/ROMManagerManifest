@@ -116,6 +116,14 @@
     },
 
     {
+        init: "init.legend.rc",
+        key: "legend",
+        name: "HTC Legend",
+        version: "1.8.1.7",
+        readonly_recovery: true
+    },
+
+    {
         init: "init.bravo.rc",
         key: "bravo",
         name: "HTC Desire",

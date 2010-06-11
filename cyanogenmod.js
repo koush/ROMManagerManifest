@@ -1213,7 +1213,6 @@
     },
     
     // ===== Bravo =====
-    [
     {
         name: "CyanogenMod 5.0.8 test 5",
         summary: "Experimental",

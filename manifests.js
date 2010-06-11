@@ -201,10 +201,11 @@
     {
         developer: "Jairomeo",
         id: "jairomeo",
-        summary: "Themes for Cyanogen on the Droid.",
+        summary: "Themes for multiple ROMs",
         manifest: "http://www.jbthemes.com/Flavored_Ice/jairomeo.js",
         roms:
         {
+            passion: true,
             sholes: true
         }
     },

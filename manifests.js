@@ -129,7 +129,7 @@
         }
     },
     {
-        developer: "MrBobrowitz",
+        developer: "Onix Concepts",
         id: "mrbobrowitz",
         summary: "Steam ROM, CleanLooks ROMs, and BlackMod ROMs",
         manifest: "http://www.mydroidfiles.com/mrbobrowitz/mrbobrowitzmanifest.js",

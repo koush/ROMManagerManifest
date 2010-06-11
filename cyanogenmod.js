@@ -1210,6 +1210,36 @@
             ]
         }
         ]
-    }
+    },
+    
+    // ===== Bravo =====
+    [
+    {
+        name: "CyanogenMod 5.0.8 test 5",
+        summary: "Experimental",
+        device: "bravo",
+        product: "CyanogenModTest",
+        incremental: 5085,
+        modversion: "CyanogenMod-5.0.8-test5-Bravo",
+        urls:
+        [
+        "http://download.htcpedia.com/Roms/behnaam/cyanogen_bravo-ota-eng.ben.5.0.8-test5.zip"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            urls:
+            [
+            "http://koush.romraid.com//common/gapps-passion-EPE54B-signed.zip",
+            "http://www.droidaftermarket.com/koush//common/gapps-passion-EPE54B-signed.zip",
+            "http://droidk.macleodweb.net//common/gapps-passion-EPE54B-signed.zip",
+            "http://android.antbox.org/koush//common/gapps-passion-EPE54B-signed.zip",
+            "http://www.thekilpatrickproject.com/downloads/koush//common/gapps-passion-EPE54B-signed.zip",
+            "http://briancrook.ca/android/nexus/gapps/gapps-passion-EPE54B-signed.zip"
+            ]
+        }
+        ]
+    },
     ]
 }

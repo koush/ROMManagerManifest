@@ -69,7 +69,8 @@
         manifest: "http://androidoverdrive.com/pete/ESE53/App/pete.js",
         roms:
         {
-            sholes: true
+            sholes: true,
+            supersonic: true
         }
     },
     {

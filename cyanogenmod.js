@@ -1223,7 +1223,7 @@
         modversion: "CyanogenMod-5.0.8-test5-Bravo",
         urls:
         [
-        "http://download.htcpedia.com/Roms/behnaam/cyanogen_bravo-ota-eng.ben.5.0.8-test5.zip"
+        "http://benocharm.lensworks.org/update-cm-5.0.8-bravo-test5-signed.zip"
         ],
         addons:
         [

@@ -326,7 +326,7 @@
         developer: "flipz",
         id: "flipz",
         summary: "Fresh Rom for Evo and HeroC by flipz",
-        manifest: "http://geekfor.me/evo/dev/fresh.js",
+        manifest: "http://geekfor.me/clockwork/fresh.js",
         roms:
         {
             heroc: true,

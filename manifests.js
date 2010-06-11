@@ -321,17 +321,17 @@
         {
             sholes: true
         }
-    }
+    },
  {
         developer: "flipz",
         id: "flipz",
-        summary: "ROMs for HeroC and Evo by flipz",
+        summary: "Fresh Rom for Evo and HeroC by flipz",
         manifest: "http://geekfor.me/evo/dev/fresh.js",
         roms:
         {
-            heroc: true
+            heroc: true,
             supersonic: true
         }
-    },
+    }
     ]
 }

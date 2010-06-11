@@ -329,6 +329,7 @@
         id: "Ahmgsk",
         summary: "ROM's for Desire, Other",
         manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/ahmgsk.js",
+        free: true,
         roms:
         {
             bravo: true

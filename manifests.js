@@ -323,6 +323,16 @@
         {
             sholes: true
         }
+    },
+    {
+        developer: "Ahmgsk Mod",
+        id: "Ahmgsk",
+        summary: "ROM's for Desire, Other",
+        manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/ahmgsk.js",
+        roms:
+        {
+            bravo: true
+        }
     }
     ]
 }

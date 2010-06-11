@@ -1,7 +1,7 @@
 {
     recovery_url: "http://www.droidaftermarket.com/koush/recoveries/recovery-clockwork-%s-%s.img",
     recovery_zip_url: "http://www.droidaftermarket.com/koush/recoveries/recovery-clockwork-%s-%s.zip",
-    version: "1.8.1.4",
+    version: "1.8.1.8",
 
     legacy:
     [

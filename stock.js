@@ -66,7 +66,6 @@
         product: "stock",
         urls:
         [
-        "http://clockworkmod.s3.amazonaws.com//test/n1stockeng.zip",
         "http://www.droidaftermarket.com/koush//test/n1stockeng.zip",
         "http://www.thekilpatrickproject.com/downloads/koush//test/n1stockeng.zip",
         "http://www.clockworkmod.com/download//test/n1stockeng.zip",

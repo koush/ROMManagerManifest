@@ -36,7 +36,7 @@
         [
         "http://www.droidaftermarket.com/koush/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.5.zip",
         "http://koush.romraid.com/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.5.zip",
-        "http://alldroid.org/roms/motorola/droid/koush/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.5.zip",
+        "http://alldroid.org/roms/motorola/droid/koush/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.5.zip"
         ],
         // Optional addons (you don't need this if you dont have any)
         addons:
@@ -54,7 +54,7 @@
             [
             "http://koush.romraid.com/motorola/sholes/bekit-modules.zip",
             "http://alldroid.org/roms/motorola/droid/koush//motorola/sholes/bekit-modules.zip",
-            "http://www.droidaftermarket.com/koush//motorola/sholes/bekit-modules.zip",
+            "http://www.droidaftermarket.com/koush//motorola/sholes/bekit-modules.zip"
             ]
         }
         ]
@@ -71,7 +71,7 @@
         [
         "http://koush.romraid.com/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.4.2.zip",
         "http://alldroid.org/roms/motorola/droid/koush/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.4.2.zip",
-        "http://www.droidaftermarket.com/koush/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.4.2.zip",
+        "http://www.droidaftermarket.com/koush/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.4.2.zip"
         ],
         addons:
         [
@@ -81,7 +81,7 @@
             [
             "http://koush.romraid.com/motorola/sholes/bekit-modules.zip",
             "http://alldroid.org/roms/motorola/droid/koush//motorola/sholes/bekit-modules.zip",
-            "http://www.droidaftermarket.com/koush//motorola/sholes/bekit-modules.zip",
+            "http://www.droidaftermarket.com/koush//motorola/sholes/bekit-modules.zip"
             ]
         }
         ],

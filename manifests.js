@@ -336,6 +336,17 @@
         {
             bravo: true
         }
+    },
+    {
+        developer: "MartinLong",
+        id: "martinlong1978",
+        summary: "Froyo roms for Desire",
+        manifest: "http://www.rozel.net/martin/manifest.js",
+        free: true,
+        roms:
+        {
+            bravo: true
+        }
     }
     ]
 }

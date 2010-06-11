@@ -67,6 +67,7 @@
         id: "pete",
         summary: "Bugless Beast ROMs by Pete (@peteralfonso)",
         manifest: "http://androidoverdrive.com/pete/ESE53/App/pete.js",
+        free: true,
         roms:
         {
             sholes: true,

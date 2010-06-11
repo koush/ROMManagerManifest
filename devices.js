@@ -111,7 +111,7 @@
         init: "init.supersonic.rc",
         key: "supersonic",
         name: "HTC Evo",
-        version: "1.8.1.7",
+        version: "1.8.1.9",
         readonly_recovery: true
     },
 
@@ -127,7 +127,7 @@
         init: "init.bravo.rc",
         key: "bravo",
         name: "HTC Desire",
-        version: "1.8.1.7",
+        version: "1.8.1.9",
         readonly_recovery: true
     },
 

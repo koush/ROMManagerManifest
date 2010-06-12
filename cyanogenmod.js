@@ -1214,15 +1214,15 @@
     
     // ===== Bravo =====
     {
-        name: "CyanogenMod 5.0.8 test 5",
+        name: "CyanogenMod 5.0.8 test 6",
         summary: "Experimental",
         device: "bravo",
         product: "CyanogenModTest",
-        incremental: 5085,
-        modversion: "CyanogenMod-5.0.8-test5-Bravo",
+        incremental: 5086,
+        modversion: "CyanogenMod-5.0.8-test6-Bravo",
         urls:
         [
-        "http://benocharm.lensworks.org/update-cm-5.0.8-bravo-test5-signed.zip"
+        "http://benocharm.lensworks.org/update-cm-5.0.8-bravo-test6-signed.zip"
         ],
         addons:
         [

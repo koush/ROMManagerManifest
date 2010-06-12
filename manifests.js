@@ -361,6 +361,17 @@
             heroc: true,
             supersonic: true
         }
-    }
+    },
+	{
+
+		developer: "RvU Team",
+		id: "rvu",
+		summary: "Custom ROM for the HTC Evo 4G",
+		manifest: "http://www.fleshdroid.com/RvU/manifest1.js",
+		roms:
+		{
+			supersonic: true
+		}
+	}
     ]
 }

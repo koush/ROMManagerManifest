@@ -1,3 +1,6 @@
+1.8.8.6
+Add fast backup and restore option. This will disable progress bars.
+
 1.8.8.5
 Reboot fix. Bug fixing in statistics.
 

@@ -363,6 +363,16 @@
         }
     },
 	{
+		developer: "IEF - ShadowFrost",
+		id: "IEF",
+		summary: "Froyo ROM for Bravo, based on Defrost.",
+		manifest: "http://www.shadowchild.nl/manifest.js",
+		roms:
+		{
+		    bravo: true
+		}
+	},
+	{
 
 		developer: "RvU Team",
 		id: "rvu",

@@ -373,6 +373,26 @@
             bravo: true
         }
     },
+	{
+		developer: "RichardTrip - DeFroST",
+		id: "richardtrip",
+		summary: "DeFroST for HTC Desire",
+		manifest: "http://www.pctrip.nl/DeFroST/manifest.js",
+		roms:
+		{
+		    bravo: true
+		}
+	},
+	{
+		developer: "Shawe",
+		id: "shawe",
+		summary: "ROM's para HTC Desire",
+		manifest: "http://content.wuala.com/contents/shawe_ewahs/Publica/Android/ROM%20Manager/manifest.js?lang=es",
+		roms:
+		{
+		    bravo: true
+		}
+	},
     {
 
         developer: "RvU Team",

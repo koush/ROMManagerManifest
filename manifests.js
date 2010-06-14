@@ -362,27 +362,28 @@
             supersonic: true
         }
     },
-	{
-		developer: "IEF - ShadowFrost",
-		id: "IEF",
-		summary: "Froyo ROM for Bravo, based on Defrost.",
-		manifest: "http://www.shadowchild.nl/manifest.js",
-		roms:
-		{
-		    bravo: true
-		}
-	},
-	{
+    {
+        developer: "IEF - ShadowFrost",
+        id: "IEF",
+        summary: "Froyo ROM for Bravo, based on Defrost.",
+        manifest: "http://www.shadowchild.nl/manifest.js",
+        free: true,
+        roms:
+        {
+            bravo: true
+        }
+    },
+    {
 
-		developer: "RvU Team",
-		id: "rvu",
-		summary: "Custom ROM for the HTC Evo 4G",
-		manifest: "http://www.fleshdroid.com/RvU/manifest1.js",
-		free: true,
-		roms:
-		{
-			supersonic: true
-		}
-	}
+        developer: "RvU Team",
+        id: "rvu",
+        summary: "Custom ROM for the HTC Evo 4G",
+        manifest: "http://www.fleshdroid.com/RvU/manifest1.js",
+        free: true,
+        roms:
+        {
+            supersonic: true
+        }
+    }
     ]
 }

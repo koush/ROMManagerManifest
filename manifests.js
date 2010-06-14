@@ -378,6 +378,7 @@
 		id: "richardtrip",
 		summary: "DeFroST for HTC Desire",
 		manifest: "http://www.pctrip.nl/DeFroST/manifest.js",
+		free: true,
 		roms:
 		{
 		    bravo: true

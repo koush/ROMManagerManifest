@@ -132,7 +132,7 @@
         init: "init.bravo.rc",
         key: "bravo",
         name: "HTC Desire",
-        version: "1.8.1.9",
+        version: "1.8.2.1",
         readonly_recovery: true
     },
 

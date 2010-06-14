@@ -115,7 +115,7 @@
     {
         init: "init.supersonic.rc",
         key: "supersonic",
-        name: "HTC Evo",
+        name: "HTC Evo (CDMA)",
         version: "1.8.1.9",
         readonly_recovery: true
     },
@@ -141,6 +141,13 @@
         key: "pulsemini",
         name: "Huawei Pulse Mini",
         version: "1.8.1.0"
+    },
+
+    {
+        init: "init.inc.rc",
+        key: "inc",
+        name: "HTC Incredible (CDMA)",
+        version: "1.8.2.2"
     },
 
     {

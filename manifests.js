@@ -373,28 +373,28 @@
             bravo: true
         }
     },
-	{
-		developer: "RichardTrip - DeFroST",
-		id: "richardtrip",
-		summary: "DeFroST for HTC Desire",
-		manifest: "http://www.pctrip.nl/DeFroST/manifest.js",
-		free: true,
-		roms:
-		{
-		    bravo: true
-		}
-	},
-	{
-		developer: "Shawe",
-		id: "shawe",
-		summary: "ROM's para HTC Desire",
-		manifest: "http://content.wuala.com/contents/shawe_ewahs/Publica/Android/ROM%20Manager/manifest.js?lang=es",
-		free: true,
-		roms:
-		{
-		    bravo: true
-		}
-	},
+    {
+        developer: "RichardTrip - DeFroST",
+        id: "richardtrip",
+        summary: "DeFroST for HTC Desire",
+        manifest: "http://www.pctrip.nl/DeFroST/manifest.js",
+        free: true,
+        roms:
+        {
+            bravo: true
+        }
+    },
+    {
+        developer: "Shawe",
+        id: "shawe",
+        summary: "ROM's para HTC Desire",
+        manifest: "http://content.wuala.com/contents/shawe_ewahs/Publica/Android/ROM%20Manager/manifest.js?lang=es",
+        free: true,
+        roms:
+        {
+            bravo: true
+        }
+    },
     {
 
         developer: "RvU Team",
@@ -404,6 +404,19 @@
         free: true,
         roms:
         {
+            supersonic: true
+        }
+    },
+
+    {
+        developer: "DamageControl",
+        id: "damageless",
+        summary: "Fast and stable ROM that lets you customize many basic and advanced options",
+        manifest: "http://dl.damagedroms.com/misc/rom_manager_manifest.js",
+        free: true,
+        roms:
+        {
+            heroc: true,
             supersonic: true
         }
     }

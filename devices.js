@@ -147,7 +147,7 @@
         init: "init.inc.rc",
         key: "inc",
         name: "HTC Incredible (CDMA)",
-        version: "1.8.2.2",
+        version: "2.0.0.0",
         readonly_recovery: true
     },
 

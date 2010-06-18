@@ -25,7 +25,7 @@
         product: "CyanogenModTest",
         incremental: 5071,
         modversion: "CyanogenMod-5.0.8-Droid-test6",
-        file: "motorola/sholes/update-cm-5.0.8-Droid-signed.zip",
+        file: "motorola/sholes/update-cm-5.0.8-test6-Droid-signed.zip",
         addons:
         [
         {

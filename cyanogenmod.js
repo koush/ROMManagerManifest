@@ -3,11 +3,38 @@
     version: 1,
     homepage: "http://www.cyanogenmod.com/",
     donate: "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3283920",
+    mirrors:
+    [
+    "http://www.droidaftermarket.com/koush/",
+    "http://droidk.macleodweb.net/",
+    "http://android.antbox.org/koush/",
+    "http://www.thekilpatrickproject.com/downloads/koush/",
+    "http://www.clockworkmod.com/download/",
+    "http://koush.tandtgaming.com/"
+    ],
 
     // Your list of ROMs
     // =====Motorola Droid=====
     roms:
     [
+    {
+        name: "CyanogenMod 5.0.8 Test6",
+        summary: "Stable",
+        device: "sholes",
+        visible: false,
+        product: "CyanogenModTest",
+        incremental: 5071,
+        modversion: "CyanogenMod-5.0.8-Droid-test6",
+        file: "motorola/sholes/update-cm-5.0.8-Droid-signed.zip",
+        addons:
+        [
+        {
+            name: "Google Apps",
+            file: "common/gapps-passion-EPE54B-signed.zip"
+        }
+        ]
+    },
+
     {
         name: "CyanogenMod 5.0.7.1",
         summary: "Stable",

@@ -431,6 +431,18 @@
         {
             supersonic: true
         }
+    },
+
+    {
+        developer: "joeykrim",
+        id: "joeykrim",
+        summary: "Refinements and tools bundled together for the HTC EVO",
+        manifest: "http://www.joeyconway.me/evo/ROMManagerManifest/manifest.js",
+        free: true,
+        roms:
+        {
+            supersonic: true
+        }
     }
 
     ]

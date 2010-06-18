@@ -409,7 +409,7 @@
     },
 
     {
-        developer: "DamageControl (Under Construction)",
+        developer: "DamageControl",
         id: "damageless",
         summary: "Fast and stable ROM that lets you customize many basic and advanced options",
         manifest: "http://dl.damagedroms.com/misc/rom_manager_manifest.js",

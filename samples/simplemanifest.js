@@ -16,10 +16,14 @@
         summary: "Stable",
         // Device that this rom runs on
         device: "sholes",
-        // This is the download URL of your ROM . These URLs should have unique filenames per version!
-        // Ie, don't use a zip with the same name as that of a previous version with a new version. 
-        // Otherwise ROM Manager will continue using the old cached zip on the SD card.
-        // This must be a direct download, and not a Mediafire type link.
+        // This is the download URL of your ROM.
+        // These URLs should have unique filenames per version!
+        // Ie, don't use a zip with the same name
+        // as that of a previous version with a new version. 
+        // Otherwise ROM Manager will continue using the
+        // old cached zip on the SD card.
+        // This must be a direct download,
+        // and not a Mediafire type link.
         url: "http://www.droidaftermarket.com/koush/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.5.zip"
     },
     

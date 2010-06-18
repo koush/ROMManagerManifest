@@ -123,6 +123,7 @@
         id: "forkup",
         summary: "Roms, Themes and Addons for Cyanogen on the Droid.",
         manifest: "http://www.forkup.info/droidthemes/forkup.js",
+        free: true,
         roms:
         {
             sholes: true
@@ -133,6 +134,7 @@
         id: "mrbobrowitz",
         summary: "Steam ROM, CleanLooks ROMs, and BlackMod ROMs",
         manifest: "http://www.mydroidfiles.com/mrbobrowitz/mrbobrowitzmanifest.js",
+        free: true,
         roms:
         {
             sholes: true
@@ -313,6 +315,7 @@
         id: "slayher",
         summary: "Complete ROMs Themed by slayher",
         manifest: "http://android.antbox.org/slayher/manifest.js",
+        free: true,
         roms:
         {
             sholes: true

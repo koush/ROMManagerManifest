@@ -1,3 +1,11 @@
+1.8.9.0
+Added erase recovery option.
+Added mirror support to manifests.
+Added single url support to manifests.
+
+1.8.8.9
+Translations.
+
 1.8.8.6
 Add fast backup and restore option. This will disable progress bars.
 

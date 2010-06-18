@@ -419,6 +419,18 @@
             heroc: true,
             supersonic: true
         }
+    },
+
+    {
+        developer: "OMJ",
+        id: "OMJ",
+        summary: "OMJ's HTC EVO ROMs",
+        manifest: "http://mobileunderground.info/omj09/ROMManagerManifest/omj.js",
+        roms:
+        {
+            supersonic: true
+        }
     }
+
     ]
 }

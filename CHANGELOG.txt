@@ -1,3 +1,6 @@
+1.8.9.2
+Install queue support.
+
 1.8.9.0
 Added erase recovery option.
 Added mirror support to manifests.

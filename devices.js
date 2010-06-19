@@ -43,7 +43,7 @@
     {
         init: "init.sapphire.rc",
         key: "sapphire",
-        name: "T-Mobile MyTouch 3G (GSM)",
+        name: "Ion/MyTouch 3G (GSM)",
         version: "1.8.1.0",
         alternate_recovery:
         {

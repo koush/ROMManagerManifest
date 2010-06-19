@@ -819,7 +819,7 @@
         summary: "Stable",
         device: "passion",
         product: "CyanogenMod",
-        incremental: 508,
+        incremental: 5080,
         modversion: "CyanogenMod-5.0.8-N1",
         urls:
         [

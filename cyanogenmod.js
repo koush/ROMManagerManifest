@@ -6,7 +6,6 @@
     mirrors:
     [
     "http://www.droidaftermarket.com/koush/",
-    "http://droidk.macleodweb.net/",
     "http://android.antbox.org/koush/",
     "http://www.thekilpatrickproject.com/downloads/koush/",
     "http://www.clockworkmod.com/download/",

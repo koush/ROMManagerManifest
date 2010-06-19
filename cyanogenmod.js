@@ -30,7 +30,7 @@
         [
         {
             name: "Google Apps",
-            file: "common/gapps-passion-EPE54B-signed.zip"
+            file: "common/gapps-passion-EPF30-signed.zip"
         }
         ]
     },

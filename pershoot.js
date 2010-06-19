@@ -159,6 +159,17 @@
         "http://droidbasement.com/nexus/kernels/ram/21/boot-cm_2633.4-oc-uv-xtra-btn-aud-ram-vfp_fp-051810.zip",
         ]
     },
+    {
+        name: "Old Wifi Driver",
+        summary: "For 2.6.33.4: June 19",
+        device: "passion",
+        product: "Pershoot's Kernel",
+        incremental: 061910,
+        urls:
+        [
+        "http://droidbasement.com/nexus/kernels/ram/28/wifi-OLD.zip",
+        ]
+    },
 //**************************************
 //**********Dream/Sapphire**************
 //**************************************

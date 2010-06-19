@@ -8,34 +8,86 @@
 //**************************************
     {
         name: "Kernel 2.6.33.4 – OC-UV-BTN-AUD-RAM-NEON_FP (1.113GHZ)",
-        summary: "For CM-5.0.5+ and 5.0.7 t-series: May 18",
+        summary: "Android 2.2 (Froyo): June 19",
         device: "passion",
         product: "Pershoot's Kernel",
-        incremental: 051810,
+        incremental: 061910,
         urls:
         [
-        "http://droidbasement.com/nexus/kernels/ram/21/boot-cm_2633.4-oc-uv-btn-aud-ram-neon_fp-051810.zip",
+        "http://droidbasement.com/nexus/kernels/ram/35/boot-cm_2634_froyo-oc-uv-btn-aud-ram-neon_fp-061910.zip",
         ],
         addons:
         [
         {
-            name: "15 Recent Apps",
+            name: "Old Wifi Driver",
             urls:
             [
-			"http://droidbasement.com/nexus/mods/15recent-invisilock-cm5.0.7_t-n1-051510.zip"
+			"http://droidbasement.com/nexus/kernels/ram/28/wifi-OLD.zip"
             ]
         }
         ]
     },
     {
         name: "Kernel 2.6.33.4 – OC-UV-XTRA-BTN-AUD-RAM-NEON_FP (1.113GHZ)",
-        summary: "For CM-5.0.5+ and 5.0.7 t-series: XTRA, May 18",
+        summary: "Android 2.2 (Froyo) XTRA: June 19",
         device: "passion",
         product: "Pershoot's Kernel",
-        incremental: 051810,
+        incremental: 061910,
         urls:
         [
-        "http://droidbasement.com/nexus/kernels/ram/21/boot-cm_2633.4-oc-uv-xtra-btn-aud-ram-neon_fp-051810.zip",
+        "http://droidbasement.com/nexus/kernels/ram/35/boot-cm_2634_froyo-oc-uv-btn-aud-ram-neon_fp-061910.zip",
+        ],
+        addons:
+        [
+        {
+            name: "Old Wifi Driver",
+            urls:
+            [
+			"http://droidbasement.com/nexus/kernels/ram/28/wifi-OLD.zip"
+            ]
+        }
+        ]
+    },
+    {
+        name: "Kernel 2.6.33.4 – OC-UV-BTN-AUD-RAM-NEON_FP (1.113GHZ)",
+        summary: "CM5.0.5.x, CM5.0.7.x and CM5.0.8-T Series: June 19",
+        device: "passion",
+        product: "Pershoot's Kernel",
+        incremental: 061910,
+        urls:
+        [
+        "http://droidbasement.com/nexus/kernels/ram/35/boot-cm_2634-oc-uv-btn-aud-ram-neon_fp-061910.zip",
+        ],
+        addons:
+        [
+        {
+            name: "Old Wifi Driver",
+            urls:
+            [
+			"http://droidbasement.com/nexus/kernels/ram/28/wifi-OLD.zip"
+            ]
+        }
+        ]
+    },
+    {
+        name: "Kernel 2.6.33.4 – OC-UV-XTRA-BTN-AUD-RAM-NEON_FP (1.113GHZ)",
+        summary: "CM5.0.5.x, CM5.0.7.x and CM5.0.8-T Series XTRA: June 19",
+        device: "passion",
+        product: "Pershoot's Kernel",
+        incremental: 061910,
+        urls:
+        [
+        "http://droidbasement.com/nexus/kernels/ram/35/boot-cm_2634-oc-uv-xtra-btn-aud-ram-neon_fp-061910.zip",
+        ],
+        addons:
+        [
+        {
+            name: "Old Wifi Driver",
+            urls:
+            [
+			"http://droidbasement.com/nexus/kernels/ram/28/wifi-OLD.zip"
+            ]
+        }
         ]
     },
     {
@@ -58,29 +110,6 @@
         urls:
         [
         "http://droidbasement.com/nexus/kernels/ram/21/boot-cm_2633.4-oc-uv-xtra-btn-aud-ram-vfp_fp-051810.zip",
-        ]
-    },
-//Recent Apps 
-    {
-        name: "15 Recent Apps + Invisible Lockscreen – CM5.0.7-T Series",
-        summary: "For CyanogenMod 5.0.7 t-series only - 0515",
-        device: "passion",
-        product: "Pershoot's Extras",
-        incremental: 051510,
-        urls:
-        [
-        "http://droidbasement.com/nexus/mods/15recent-invisilock-cm5.0.7_t-n1-051510.zip",
-        ]
-    },
-    {
-        name: "15 Recent Apps – CM5.0.6",
-        summary: "For CyanogenMod 5.0.6 only - 0430",
-        device: "passion",
-        product: "Pershoot's Extras",
-        incremental: 043010,
-        urls:
-        [
-        "http://droidbasement.com/nexus/mods/15recent-avlock-cm5.0.6-043010.zip",
         ]
     },
 //**************************************

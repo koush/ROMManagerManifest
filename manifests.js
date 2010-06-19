@@ -163,7 +163,6 @@
         id: "JRummy16",
         summary: "Get even more of that CyanogenMod goodness!",
         manifest: "http://www.bucketcheck.com/jrummy/Rummy%20Roms/RomManager/jared.js",
-        free: true,
         roms:
         {
             sholes: true

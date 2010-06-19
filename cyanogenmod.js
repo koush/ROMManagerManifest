@@ -815,6 +815,33 @@
 
     // =====Google Nexus One====
     {
+        name: "CyanogenMod 5.0.8",
+        summary: "Stable",
+        device: "passion",
+        product: "CyanogenMod",
+        incremental: 508,
+        modversion: "CyanogenMod-5.0.8-N1",
+        urls:
+        [
+        "http://n0rp.chemlab.org/android/nexus/update-cm-5.0.8-N1-signed.zip"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            urls:
+            [
+            "http://koush.romraid.com//common/gapps-passion-EPE54B-signed.zip",
+            "http://www.droidaftermarket.com/koush//common/gapps-passion-EPE54B-signed.zip",
+            "http://droidk.macleodweb.net//common/gapps-passion-EPE54B-signed.zip",
+            "http://android.antbox.org/koush//common/gapps-passion-EPE54B-signed.zip",
+            "http://www.thekilpatrickproject.com/downloads/koush//common/gapps-passion-EPE54B-signed.zip",
+            "http://briancrook.ca/android/nexus/gapps/gapps-passion-EPE54B-signed.zip"
+            ]
+        }
+        ]
+    },
+    {
         name: "CyanogenMod 5.0.7.1",
         summary: "Stable",
         device: "passion",
@@ -1048,15 +1075,15 @@
 
     // =====G1=====
     {
-        name: "CyanogenMod 5.0.7",
+        name: "CyanogenMod 5.0.8",
         summary: "Stable, Flashing Recovery may be broken",
         device: "dream",
         product: "CyanogenMod",
-        incremental: 5070,
-        modversion: "CyanogenMod-5.0.7-DS",
+        incremental: 5080,
+        modversion: "CyanogenMod-5.0.8-DS",
         urls:
         [
-        "http://www.kanged.net/mirror/download.php?file=update-cm-5.0.7-DS-signed.zip"
+        "http://n0rp.chemlab.org/android/update-cm-5.0.8-DS-signed.zip"
         ],
         addons:
         [
@@ -1068,8 +1095,7 @@
             ]
         }
         ]
-    },
- 
+    }, 
     {
         name: "Google Apps",
         summary: "Google Add-On",
@@ -1106,26 +1132,26 @@
 
     // =====32A=====
     {
-        name: "CyanogenMod 5.0.7",
+        name: "CyanogenMod 5.0.8",
         summary: "Stable, Flashing Recovery may be broken",
         device: "magic",
         product: "CyanogenMod",
-        incremental: 5070,
-        modversion: "CyanogenMod-5.0.7-DS",
+        incremental: 5080,
+        modversion: "CyanogenMod-5.0.8-DS",
         extendedurls:
         [
         {
-            name: "CyanogenMod 5.0.7",
+            name: "CyanogenMod 5.0.8",
             urls:
             [
-            "http://www.kanged.net/mirror/download.php?file=update-cm-5.0.7-DS-signed.zip"
+            "http://n0rp.chemlab.org/android/update-cm-5.0.8-DS-signed.zip"
             ]
         },
         {
             name: "EB1/32A Kernel",
             urls:
             [
-            "http://briancrook.ca/android/cm-ports/bc-5.0.7-ebi1-signed.zip"
+            "http://briancrook.ca/android/cm-ports/bc-5.0.8-ebi1-signed.zip"
             ]
         }
         ],
@@ -1183,15 +1209,15 @@
 
     // =====32B=====
     {
-        name: "CyanogenMod 5.0.7",
+        name: "CyanogenMod 5.0.8",
         summary: "Stable, Flashing Recovery may be broken",
         device: "sapphire",
         product: "CyanogenMod",
-        incremental: 5070,
-        modversion: "CyanogenMod-5.0.7-DS",
+        incremental: 5080,
+        modversion: "CyanogenMod-5.0.8-DS",
         urls:
         [
-        "http://www.kanged.net/mirror/download.php?file=update-cm-5.0.7-DS-signed.zip"
+        "http://n0rp.chemlab.org/android/update-cm-5.0.8-DS-signed.zip"
         ],
         addons:
         [

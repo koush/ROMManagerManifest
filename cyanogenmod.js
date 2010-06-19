@@ -18,14 +18,14 @@
     roms:
     [
     {
-        name: "CyanogenMod 5.0.8 Test6",
+        name: "CyanogenMod 5.0.8",
         summary: "Stable",
         device: "sholes",
         visible: false,
-        product: "CyanogenModTest",
-        incremental: 5071,
-        modversion: "CyanogenMod-5.0.8-Droid-test6",
-        file: "motorola/sholes/update-cm-5.0.8-test6-Droid-signed.zip",
+        product: "CyanogenMod",
+        incremental: 5080,
+        modversion: "CyanogenMod-5.0.8-Droid",
+        file: "motorola/sholes/update-cm-5.0.8-Droid-signed.zip",
         addons:
         [
         {

@@ -21,7 +21,6 @@
         name: "CyanogenMod 5.0.8",
         summary: "Stable",
         device: "sholes",
-        visible: false,
         product: "CyanogenMod",
         incremental: 5080,
         modversion: "CyanogenMod-5.0.8-Droid",

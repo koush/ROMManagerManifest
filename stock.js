@@ -92,7 +92,7 @@
         [
         {
             name: "FRF72 Part 1 (ERE27)",
-            url: "http://coblitz.codeen.org/www.romraid.com/paul/nexusone/update-nexusone-ERE27-signed.zip"
+            file: "google/passion/update-nexusone-ERE27-signed.zip"
         },
         {
             name: "FRF72 Part 2 (FRF50)",
@@ -113,7 +113,7 @@
         [
         {
             name: "FRF50 Part 1 (ERE27)",
-            url: "http://coblitz.codeen.org/www.romraid.com/paul/nexusone/update-nexusone-ERE27-signed.zip"
+            file: "google/passion/update-nexusone-ERE27-signed.zip"
         },
         {
             name: "FRF50 Part 2",
@@ -133,7 +133,7 @@
         summary: "Unrooted, Odexed",
         device: "passion",
         product: "stock",
-        url: "http://coblitz.codeen.org/www.romraid.com/paul/nexusone/update-nexusone-ERE27-signed.zip"
+        file: "google/passion/update-nexusone-ERE27-signed.zip"
     },
     {
         name: "Verizon Droid 2.0.1 Stock",

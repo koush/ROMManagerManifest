@@ -1,5 +1,16 @@
 {
     version: 1,
+
+    mirrors:
+    [
+    "http://www.droidaftermarket.com/koush/",
+    "http://droidk.macleodweb.net/",
+    "http://android.antbox.org/koush/",
+    "http://www.thekilpatrickproject.com/downloads/koush/",
+    "http://www.clockworkmod.com/download/",
+    "http://koush.tandtgaming.com/"
+    ],
+
     roms:
     [
     {
@@ -73,36 +84,56 @@
         ]
     },
     {
+        name: "Nexus One FRF72",
+        summary: "Unrooted, Odexed",
+        device: "passion",
+        product: "stock",
+        extendedurls:
+        [
+        {
+            name: "FRF72 Part 1 (ERE27)",
+            url: "http://coblitz.codeen.org/www.romraid.com/paul/nexusone/update-nexusone-ERE27-signed.zip"
+        },
+        {
+            name: "FRF72 Part 2 (FRF50)",
+            file: "google/passion/signed-passion-FRF50-from-ERE27.1e519a24.zip"
+        },
+        {
+            name: "FRF72 Part 3",
+            file: "google/passion/signed-passion-FRF50-from-ERE27.1e519a24.zip"
+        }
+        ]
+    },
+    {
         name: "Nexus One FRF50",
         summary: "Unrooted, Odexed",
         device: "passion",
         product: "stock",
-        urls:
+        extendedurls:
         [
-        "http://www.scepterr.info/update-nexusone-FRF50-signed.zip"
+        {
+            name: "FRF50 Part 1 (ERE27)",
+            url: "http://coblitz.codeen.org/www.romraid.com/paul/nexusone/update-nexusone-ERE27-signed.zip"
+        },
+        {
+            name: "FRF50 Part 2",
+            file: "google/passion/signed-passion-FRF50-from-ERE27.1e519a24.zip"
+        }
         ]
     },
     {
-        name: "Nexus One EPE54B (AT&T)",
+        name: "Nexus One EPE54B",
         summary: "Unrooted, Odexed",
         device: "passion",
         product: "stock",
-        urls:
-        [
-        "http://www.romraid.com.nyud.net/paul/nexusone/EPE54B-update-nexusone-stock-images.zip",
-        "http://coblitz.codeen.org/www.romraid.com/paul/nexusone/update-nexusone-EPE54B-signed.zip"
-        ]
+        url: "http://coblitz.codeen.org/www.romraid.com/paul/nexusone/update-nexusone-EPE54B-signed.zip"
     },
     {
-        name: "Nexus One ERE27 (T-Mobile)",
+        name: "Nexus One ERE27",
         summary: "Unrooted, Odexed",
         device: "passion",
         product: "stock",
-        urls:
-        [
-        "http://www.romraid.com.nyud.net/paul/nexusone/update-nexusone-ERE27-signed.zip",
-        "http://coblitz.codeen.org/www.romraid.com/paul/nexusone/update-nexusone-ERE27-signed.zip"
-        ]
+        url: "http://coblitz.codeen.org/www.romraid.com/paul/nexusone/update-nexusone-ERE27-signed.zip"
     },
     {
         name: "Verizon Droid 2.0.1 Stock",

@@ -4,6 +4,53 @@
     roms:
     [
 //**************************************
+//**********ADW Launcher**************
+//**************************************
+    {
+        name: "ADW Launcher 0.8",
+        summary: "ADW Launcher (almostNexus mod) 0.8 (.6), by Anderwebs: June 19",
+        device: "passion",
+        product: "Anderweb's Launcher",
+        incremental: 061910,
+        urls:
+        [
+        "http://droidbasement.com/nexus/mods/adwlauncher_0.8-n1-061910.zip",
+        ]
+    },
+    {
+        name: "ADW Launcher 0.8",
+        summary: "ADW Launcher (almostNexus mod) 0.8 (.6), by Anderwebs: June 19",
+        device: "dream",
+        product: "Anderweb's Launcher",
+        incremental: 061910,
+        urls:
+        [
+        "http://droidbasement.com/g1/mods/adwlauncher_0.8-ds-061910.zip",
+        ]
+    },
+    {
+        name: "ADW Launcher 0.8",
+        summary: "ADW Launcher (almostNexus mod) 0.8 (.6), by Anderwebs: June 19",
+        device: "magic",
+        product: "Anderweb's Launcher",
+        incremental: 061910,
+        urls:
+        [
+        "http://droidbasement.com/g1/mods/adwlauncher_0.8-ds-061910.zip",
+        ]
+    },
+    {
+        name: "ADW Launcher 0.8",
+        summary: "ADW Launcher (almostNexus mod) 0.8 (.6), by Anderwebs: June 19",
+        device: "sapphire",
+        product: "Anderweb's Launcher",
+        incremental: 061910,
+        urls:
+        [
+        "http://droidbasement.com/g1/mods/adwlauncher_0.8-ds-061910.zip",
+        ]
+    },
+//**************************************
 //**********Nexus**************
 //**************************************
     {
@@ -118,104 +165,70 @@
 //32B - Sapphire
     {
         name: "Kernel 2.6.33.4, OC-UV-FP – Dream/Sapphire",
-        summary: "For CM-5.0.7 DS t-series: May 18",
+        summary: "For CM-5.0.8 DS t-series: June 17",
         device: "sapphire",
         product: "Pershoot's Kernel",
-        incremental: 051810,
+        incremental: 061710,
         urls:
         [
-        "http://droidbasement.com/g1/kernels/8/boot-cm_2633.4_ds_32b-oc-uv-fp-051810.zip",
+        "http://droidbasement.com/g1/kernels/18/boot-cm_2634_ds_32b-oc-uv-fp-061710.zip",
         ]
     },
     {
         name: "Kernel 2.6.33.4, OC-UV-XTRA-FP – Dream/Sapphire",
-        summary: "For CM-5.0.7 DS t-series: XTRA, May 18",
+        summary: "For CM-5.0.8 DS t-series XTRA: June 17",
         device: "sapphire",
         product: "Pershoot's Kernel",
-        incremental: 051810,
+        incremental: 061710,
         urls:
         [
-        "http://droidbasement.com/g1/kernels/8/boot-cm_2633.4_ds_32b-oc-uv-xtra-fp-051810.zip",
+        "http://droidbasement.com/g1/kernels/18/boot-cm_2634_ds_32b-oc-uv-xtra-fp-061710.zip",
         ]
     },
 //32B - Dream
     {
         name: "Kernel 2.6.33.4, OC-UV-FP – Dream/Sapphire",
-        summary: "For CM-5.0.7 DS t-series: May 18",
+        summary: "For CM-5.0.8 DS t-series: June 17",
         device: "dream",
         product: "Pershoot's Kernel",
-        incremental: 051810,
+        incremental: 061710,
         urls:
         [
-        "http://droidbasement.com/g1/kernels/8/boot-cm_2633.4_ds_32b-oc-uv-fp-051810.zip",
+        "http://droidbasement.com/g1/kernels/18/boot-cm_2634_ds_32b-oc-uv-fp-061710.zip",
         ]
     },
     {
         name: "Kernel 2.6.33.4, OC-UV-XTRA-FP – Dream/Sapphire",
-        summary: "For CM-5.0.7 DS t-series: XTRA, May 18",
+        summary: "For CM-5.0.8 DS t-series XTRA: June 17",
         device: "dream",
         product: "Pershoot's Kernel",
-        incremental: 051810,
+        incremental: 061710,
         urls:
         [
-        "http://droidbasement.com/g1/kernels/8/boot-cm_2633.4_ds_32b-oc-uv-xtra-fp-051810.zip",
+        "http://droidbasement.com/g1/kernels/18/boot-cm_2634_ds_32b-oc-uv-xtra-fp-061710.zip",
         ]
     },
 //32A - Magic
     {
         name: "Kernel 2.6.33.4, OC-UV-FP – Dream/Sapphire",
-        summary: "For CM-5.0.7 DS t-series: May 18",
+        summary: "For CM-5.0.8 DS t-series: June 17",
         device: "magic",
         product: "Pershoot's Kernel",
-        incremental: 051810,
+        incremental: 061710,
         urls:
         [
-        "http://droidbasement.com/g1/kernels/8/boot-cm_2633.4_ds_32a-oc-uv-fp-051810.zip",
+        "http://droidbasement.com/g1/kernels/18/boot-cm_2634_ds_32a-oc-uv-fp-061710.zip",
         ]
     },
     {
         name: "Kernel 2.6.33.4, OC-UV-XTRA-FP – Dream/Sapphire",
-        summary: "For CM-5.0.7 DS t-series: XTRA, May 18",
+        summary: "For CM-5.0.8 DS t-series: XTRA, June 17",
         device: "magic",
         product: "Pershoot's Kernel",
-        incremental: 051810,
+        incremental: 061710,
         urls:
         [
-        "http://droidbasement.com/g1/kernels/8/boot-cm_2633.4_ds_32a-oc-uv-xtra-fp-051810.zip",
-        ]
-    },   
-//Recent Apps 
-    {
-        name: "15 Recent Apps + Invisible Lockscreen – CM5.0.7-T Series",
-        summary: "For CyanogenMod 5.0.7 DS t-series only - May 15th",
-        device: "sapphire",
-        product: "Pershoot's Extras",
-        incremental: 051510,
-        urls:
-        [
-        "http://droidbasement.com/g1/mods/15recent-invisilock-cm5.0.7_t-ds-051510.zip",
-        ]
-    },   
-    {
-        name: "15 Recent Apps + Invisible Lockscreen – CM5.0.7-T Series",
-        summary: "For CyanogenMod 5.0.7 DS t-series only - May 15th",
-        device: "magic",
-        product: "Pershoot's Extras",
-        incremental: 051510,
-        urls:
-        [
-        "http://droidbasement.com/g1/mods/15recent-invisilock-cm5.0.7_t-ds-051510.zip",
-        ]
-    },  
-    {
-        name: "15 Recent Apps + Invisible Lockscreen – CM5.0.7-T Series",
-        summary: "For CyanogenMod 5.0.7 DS t-series only - May 15th",
-        device: "dream",
-        product: "Pershoot's Extras",
-        incremental: 051510,
-        urls:
-        [
-        "http://droidbasement.com/g1/mods/15recent-invisilock-cm5.0.7_t-ds-051510.zip",
+        "http://droidbasement.com/g1/kernels/18/boot-cm_2634_ds_32a-oc-uv-xtra-fp-061710.zip",
         ]
     }
     ]

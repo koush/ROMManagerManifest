@@ -100,7 +100,7 @@
         },
         {
             name: "FRF72 Part 3",
-            file: "google/passion/signed-passion-FRF50-from-ERE27.1e519a24.zip"
+            file: "google/passion/signed-passion-FRF72-from-FRF50.bc033f9e.zip"
         }
         ]
     },

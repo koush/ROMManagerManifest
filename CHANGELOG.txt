@@ -1,3 +1,6 @@
+1.8.9.3
+Add error reporting for easy bug tracking.
+
 1.8.9.2
 Install queue support.
 

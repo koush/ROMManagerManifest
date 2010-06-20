@@ -825,6 +825,11 @@
         product: "CyanogenMod",
         incremental: 5080,
         modversion: "CyanogenMod-5.0.8-N1",
+        screenshots:
+        [
+        "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot.png",
+        "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot2.png"
+        ],
         urls:
         [
         "http://n0rp.chemlab.org/android/nexus/update-cm-5.0.8-N1-signed.zip"
@@ -1075,6 +1080,11 @@
         product: "CyanogenMod",
         incremental: 5080,
         modversion: "CyanogenMod-5.0.8-DS",
+        screenshots:
+        [
+        "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot.png",
+        "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot2.png"
+        ],
         urls:
         [
         "http://n0rp.chemlab.org/android/update-cm-5.0.8-DS-signed.zip"
@@ -1132,6 +1142,11 @@
         product: "CyanogenMod",
         incremental: 5080,
         modversion: "CyanogenMod-5.0.8-DS",
+        screenshots:
+        [
+        "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot.png",
+        "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot2.png"
+        ],
         extendedurls:
         [
         {
@@ -1209,6 +1224,11 @@
         product: "CyanogenMod",
         incremental: 5080,
         modversion: "CyanogenMod-5.0.8-DS",
+        screenshots:
+        [
+        "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot.png",
+        "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot2.png"
+        ],
         urls:
         [
         "http://n0rp.chemlab.org/android/update-cm-5.0.8-DS-signed.zip"
@@ -1266,6 +1286,11 @@
         product: "CyanogenModTest",
         incremental: 5086,
         modversion: "CyanogenMod-5.0.8-test7-Bravo",
+        screenshots:
+        [
+        "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot.png",
+        "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot2.png"
+        ],
         urls:
         [
         "http://benocharm.lensworks.org/update-cm-5.0.8-bravo-test7-signed.zip"

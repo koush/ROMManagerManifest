@@ -16,6 +16,8 @@
         summary: "Stable",
         // Device that this rom runs on
         device: "sholes",
+        // A screenshot to show off what the ROM looks like! (This is optional)
+        screenshot: "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot2.png",
         // This is the download URL of your ROM.
         // These URLs should have unique filenames per version!
         // Ie, don't use a zip with the same name

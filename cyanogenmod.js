@@ -24,6 +24,11 @@
         incremental: 5080,
         modversion: "CyanogenMod-5.0.8-Droid",
         file: "motorola/sholes/update-cm-5.0.8-Droid-signed.zip",
+        screenshots:
+        [
+        "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot.png",
+        "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot2.png"
+        ],
         addons:
         [
         {

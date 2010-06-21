@@ -443,7 +443,18 @@
         {
             supersonic: true
         }
-    }
+    },
 
+    {
+        developer: "PirateRUM",
+        id: "piraterum",
+        summary: "Fast and clean rom for HTC Desire",
+        free: true,
+        manifest: "http://piraten.boombuler.de/ROMManager/piraterum.php",
+        roms:
+        {
+            bravo: true
+        }
+    }
     ]
 }

@@ -123,8 +123,7 @@
         init: "init.supersonic.rc",
         key: "supersonic",
         name: "HTC Evo (CDMA)",
-        version: "1.8.1.9",
-        readonly_recovery: true
+        version: "1.8.1.9"
     },
 
     {

@@ -4,12 +4,13 @@
     roms:
     [
     {
-        name: "925mV Kernel",
-        summary: ".33.4 - Updated 5/14",
+        name: "950mV Kernel - for Froyo/CM5.0.8+",
+        summary: ".34 - Updated 6/20",
         device: "passion",
+	screenshot: "http://web13.twitpic.com/img/118594009-1b6e629560f853477db77e8ed8f55170.4c1ec098-full.png",
         urls:
         [
-        "http://kmobs.scepterr.info/kernels/signed-925uv513.zip",
+        "http://kanged.net/kmobs/signed-619UV-34.zip",
         ]
     }
     ]

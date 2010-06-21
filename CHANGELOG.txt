@@ -1,3 +1,11 @@
+2.0.0.0
+Don't attempt to flash downloaded zips that are corrupt.
+Don't restore backups with spaces in the file or directory name.
+Don't install zips with spaces in the file or directory name.
+Add download confirmation dialog.
+Prevent screenshots from going into the Gallery application.
+Verify that a nandroid.md5 exists prior to restoring a backup.
+
 1.8.9.6
 ROMs can have optional screenshots.
 

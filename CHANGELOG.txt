@@ -1,3 +1,6 @@
+1.8.9.6
+ROMs can have optional screenshots.
+
 1.8.9.3
 Add error reporting for easy bug tracking.
 

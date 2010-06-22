@@ -1085,18 +1085,12 @@
         "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot.png",
         "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot2.png"
         ],
-        urls:
-        [
-        "http://n0rp.chemlab.org/android/update-cm-5.0.8-DS-signed.zip"
-        ],
+        url: "http://n0rp.chemlab.org/android/update-cm-5.0.8-DS-signed.zip",
         addons:
         [
         {
             name: "Google Apps",
-            urls:
-            [
-            "http://kanged.net/mirror/download.php?file=gapps-ds-ERE36B-signed.zip"
-            ]
+            file: "/common/gapps-ds-ERE36B-signed.zip"
         }
         ]
     }, 
@@ -1104,10 +1098,7 @@
         name: "Google Apps",
         summary: "Google Add-On",
         device: "dream",
-        urls:
-        [
-            "http://kanged.net/mirror/download.php?file=gapps-ds-ERE36B-signed.zip"
-        ]
+        file: "/common/gapps-ds-ERE36B-signed.zip"
     },
     {
         name: "CyanogenMod 4.2.15.1",
@@ -1151,27 +1142,18 @@
         [
         {
             name: "CyanogenMod 5.0.8",
-            urls:
-            [
-            "http://n0rp.chemlab.org/android/update-cm-5.0.8-DS-signed.zip"
-            ]
+            url: "http://n0rp.chemlab.org/android/update-cm-5.0.8-DS-signed.zip"
         },
         {
             name: "EB1/32A Kernel",
-            urls:
-            [
-            "http://briancrook.ca/android/cm-ports/bc-5.0.8-ebi1-signed.zip"
-            ]
+            url: "http://briancrook.ca/android/cm-ports/bc-5.0.8-ebi1-signed.zip"
         }
         ],
         addons:
         [
         {
             name: "Google Apps",
-            urls:
-            [
-            "http://kanged.net/mirror/download.php?file=gapps-ds-ERE36B-signed.zip"
-            ]
+            file: "/common/gapps-ds-ERE36B-signed.zip"
         }
         ]
     },
@@ -1179,10 +1161,7 @@
         name: "Google Apps",
         summary: "Google Add-On",
         device: "magic",
-        urls:
-        [
-         "http://kanged.net/mirror/download.php?file=gapps-ds-ERE36B-signed.zip"
-        ]
+        file: "/common/gapps-ds-ERE36B-signed.zip"
     },
     {
         name: "CyanogenMod 4.2.15.1",
@@ -1229,18 +1208,12 @@
         "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot.png",
         "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot2.png"
         ],
-        urls:
-        [
-        "http://n0rp.chemlab.org/android/update-cm-5.0.8-DS-signed.zip"
-        ],
+        url: "http://n0rp.chemlab.org/android/update-cm-5.0.8-DS-signed.zip",
         addons:
         [
         {
             name: "Google Apps",
-            urls:
-            [
-            "http://kanged.net/mirror/download.php?file=gapps-ds-ERE36B-signed.zip"
-            ]
+            file: "/common/gapps-ds-ERE36B-signed.zip"
         }
         ]
     },
@@ -1248,10 +1221,7 @@
         name: "Google Apps",
         summary: "Google Add-On",
         device: "sapphire",
-        urls:
-        [
-        "http://kanged.net/mirror/download.php?file=gapps-ds-ERE36B-signed.zip"
-        ]
+        file: "/common/gapps-ds-ERE36B-signed.zip"
     },
     {
         name: "CyanogenMod 4.2.15.1",

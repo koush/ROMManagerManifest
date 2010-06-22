@@ -88,16 +88,6 @@
         }
     },
     {
-        developer: "VillainROM",
-        id: "nprussell",
-        summary: "VillainROM HTC Legend Port",
-        manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/nprussell.js",
-        roms:
-        {
-            hero: true
-        }
-    },
-    {
         developer: "Modaco Custom ROM",
         id: "modaco",
         summary: "Modaco Custom ROM - http://android.modaco.com/",

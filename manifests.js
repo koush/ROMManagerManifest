@@ -172,7 +172,7 @@
         developer: "Team Chaos",
         id: "Team Chaos",
         summary: "Roms, Themes and extra goodies",
-        manifest: "http://www.jbthemes.com/bgill55/bgill55.js",
+        manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/bgill55.js",
         roms:
         {
             sholes: true

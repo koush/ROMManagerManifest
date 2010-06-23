@@ -126,7 +126,12 @@
         init: "init.supersonic.rc",
         key: "supersonic",
         name: "HTC Evo (CDMA)",
-        version: "1.8.1.9"
+        version: "1.8.1.9",
+        alternate_recovery:
+        {
+            name: "RA Recovery v1.7.0.1",
+            url: "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-evo-v1.7.0.1.img"
+        }
     },
 
     {

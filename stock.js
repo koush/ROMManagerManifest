@@ -84,7 +84,7 @@
         ]
     },
     {
-        name: "Nexus One FRF72",
+        name: "Nexus One FRF83",
         summary: "Unrooted, Odexed",
         device: "passion",
         product: "stock",
@@ -99,8 +99,8 @@
             file: "google/passion/signed-passion-FRF50-from-ERE27.1e519a24.zip"
         },
         {
-            name: "FRF72 Part 3",
-            file: "google/passion/signed-passion-FRF72-from-FRF50.bc033f9e.zip"
+            name: "FRF83 Part 3",
+            file: "google/passion/signed-passion-FRF83-from-FRF50.38d66b26.zip"
         }
         ]
     },

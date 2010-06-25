@@ -167,6 +167,14 @@
     },
 
     {
+        init: "init.liberty.rc",
+        key: "liberty",
+        name: "HTC Aria (GSM)",
+        version: "2.0.1.3",
+        readonly_recovery: true
+    },
+    
+    {
         init: "init.desirec.rc",
         key: "desirec",
         name: "Droid Eris (CDMA)",

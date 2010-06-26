@@ -8,8 +8,7 @@ RomManager.Fetch = function() {
 		return;
 	}
 	$.each(files, function(i, element) {
-		var manifests = element.attributes.manifests["value"];
-		RomManager.ShowFile(manifests, element); 
+		RomManager.ShowFile(element); 
 	});
 };
 

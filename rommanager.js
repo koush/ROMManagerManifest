@@ -30,8 +30,8 @@ RomManager.ShowFile = function(manifests, element) {
 		type: "GET",
 		dataType: "json",
 		success: function(msg) {
-		    var recoveries = msg.recoveries;
-		    var devices = recoveries.devices;
+//		    var recoveries = msg.recoveries;
+		    var devices = msg.devices;
 		    
 		    var contents = "";
 		    $.each(devices, function(i, device) {

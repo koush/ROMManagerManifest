@@ -1,7 +1,7 @@
 {
     "manifest":
     {
-        "minversion": 1890,
+        minversion: 1890,
         "manifests":
         [
         {

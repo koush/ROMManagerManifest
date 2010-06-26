@@ -137,15 +137,7 @@
         name: "Google Apps",
         summary: "Google Add-On",
         device: "sholes",
-        urls:
-         [
-            "http://koush.romraid.com//common/gapps-passion-EPE54B-signed.zip",
-            "http://www.droidaftermarket.com/koush//common/gapps-passion-EPE54B-signed.zip",
-            "http://droidk.macleodweb.net//common/gapps-passion-EPE54B-signed.zip",
-            "http://android.antbox.org/koush//common/gapps-passion-EPE54B-signed.zip",
-            "http://www.thekilpatrickproject.com/downloads/koush//common/gapps-passion-EPE54B-signed.zip",
-            "http://briancrook.ca/android/nexus/gapps/gapps-passion-EPE54B-signed.zip"
-         ]
+        file: "common/gapps-passion-EPF30-signed.zip"
     },
     {
         name: "bekit Kernels (0.8.4)",

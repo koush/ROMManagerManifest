@@ -45,7 +45,7 @@
             "key": "sholes",
             "name": "Motorola Droid (CDMA)",
             "version": "1.8.1.2",
-            alternate_recovery:
+            "alternate_recovery":
             {
                 "name": "SPRecovery 0.99.3b",
                 url: "http://downloads.droidmod.org/recovery-0.99.3b.img"
@@ -57,7 +57,7 @@
             "key": "sapphire",
             "name": "Ion/MyTouch 3G (GSM)",
             "version": "1.8.1.0",
-            alternate_recovery:
+            "alternate_recovery":
             {
                 "name": "RA Recovery v1.7.0G",
                 url: "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-sapphire-v1.7.0G.img"
@@ -70,7 +70,7 @@
             "key": "magic",
             "name": "HTC Magic (GSM)",
             "version": "1.8.1.5",
-            alternate_recovery:
+            "alternate_recovery":
             {
                 "name": "RA Recovery v1.7.0H",
                 url: "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-sapphire-v1.7.0H.img"
@@ -82,7 +82,7 @@
             "key": "dream",
             "name": "HTC Dream (GSM)",
             "version": "1.8.1.0",
-            alternate_recovery:
+            "alternate_recovery":
             {
                 "name": "RA Recovery v1.7.0",
                 url: "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-dream-v1.7.0.img"
@@ -94,7 +94,7 @@
             "key": "passion",
             "name": "Google Nexus One (GSM)",
             "version": "1.8.1.0",
-            alternate_recovery:
+            "alternate_recovery":
             {
                 "name": "RA Recovery v1.7.0.1",
                 url: "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-nexus-v1.7.0.1.img"
@@ -106,7 +106,7 @@
             "key": "hero",
             "name": "HTC Hero (GSM)",
             "version": "1.8.1.0",
-            alternate_recovery:
+            "alternate_recovery":
             {
                 "name": "RA Recovery v1.6.2",
                 url: "http://www.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-hero-v1.6.2.img"
@@ -118,7 +118,7 @@
             "key": "heroc",
             "name": "HTC Hero (CDMA)",
             "version": "1.8.1.0",
-            alternate_recovery:
+            "alternate_recovery":
             {
                 "name": "RA Recovery v1.6.2",
                 url: "http://www.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-heroc-v1.6.2.img"
@@ -130,7 +130,7 @@
             "key": "supersonic",
             "name": "HTC Evo (CDMA)",
             "version": "1.8.1.9",
-            alternate_recovery:
+            "alternate_recovery":
             {
                 "name": "RA Recovery v1.7.0.1",
                 url: "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-evo-v1.7.0.1.img"
@@ -181,7 +181,7 @@
             "key": "desirec",
             "name": "Droid Eris (CDMA)",
             "version": "1.8.1.0",
-            alternate_recovery:
+            "alternate_recovery":
             {
                 "name": "RA Recovery v1.6.2",
                 url: "http://www.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-eris-v1.6.2.img"

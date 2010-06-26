@@ -39,7 +39,7 @@ RomManager.ShowFile = function(manifests, element) {
 		    var contents = "";
 		    $.each(devices, function(i, device) {
 		            var v = version;
-		            if (device.version == null && device.version > version) {
+		            if (device.version != null && device.version > version) {
 		                v = device.version;
 		            }
 		            var readonly_recovery = device.readonly_recovery;

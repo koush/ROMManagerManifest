@@ -19,6 +19,7 @@
         // If you don't support a device, just don't list it!
         roms:
         {
+            inc: true,
             sholes: true,
             passion: true,
             dream: true,
@@ -45,7 +46,6 @@
         manifest: "http://buildbot.teamdouche.net/nightly/rmnightly.js",
         roms:
         {
-            inc: true,
             sholes: true,
             passion: true,
             dream: true,

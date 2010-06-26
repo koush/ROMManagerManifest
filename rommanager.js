@@ -24,9 +24,9 @@ RomManager.all = function() {
 	}
 };
 
-RomManager.ShowFile = function(manifests, element) {
+RomManager.ShowFile = function(element) {
 	$.ajax({
-		url: "manifeststest.js",
+		url: "devices2.js",
 		type: "GET",
 		dataType: "json",
 		success: function(msg) {
@@ -51,7 +51,7 @@ RomManager.ShowFile = function(manifests, element) {
 		            }
 		            
 		            
-		            contents = contents + sprintf("<a href='%s'>%s</a></br>", url, device.key);
+		            contents = contents + sprintf("<a href='%s'>%s</a></br>", url, device.name);
             	});
 
 		    /*

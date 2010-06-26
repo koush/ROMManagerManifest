@@ -41,8 +41,6 @@
 
 
     // =====Motorola Droid=====
-    roms:
-    [
     {
         name: "CyanogenMod 5.0.8",
         summary: "Stable",

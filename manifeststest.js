@@ -1,1 +1,1 @@
-{"recoveries":{"foo":true}}
+{"recoveries":{"foo":"true"}}

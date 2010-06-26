@@ -446,6 +446,18 @@
         {
             bravo: true
         }
+    },
+
+    {
+        developer: "Setenza",
+        id: "Setenza",
+        summary: "Froyo Desire roms fully themed with NexTheme",
+        manifest: "http://www.set-studio.com/wordpress/DesireRoms/simplemanifest.js",
+        free: true,
+        roms:
+        {
+            passion: true
+        }
     }
     ]
 }

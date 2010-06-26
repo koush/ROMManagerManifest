@@ -50,7 +50,8 @@ RomManager.ShowFile = function(manifests, element) {
 		                url = sprintf(recovery_url, version, device.key);
 		            }
 		            
-		            contents = contents + " " + device.key + " " + url;
+		            
+		            contents = contents + sprintf("<a href='%s'>%s</a></br>", url, device.key);
             	});
 		    
 			if ($.browser.mozilla) {

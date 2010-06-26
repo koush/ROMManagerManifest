@@ -30,12 +30,27 @@ RomManager.ShowFile = function(manifests, element) {
 		type: "GET",
 		dataType: "json",
 		success: function(msg) {
-//		    var recoveries = msg.recoveries;
-		    var devices = msg.devices;
+		    var recoveries = msg.recoveries;
+		    var devices = recoveries.devices;
+		    var recovery_url = recoveries.recovery_url;
+		    var recovery_zip_url = recoveries.recovery_zip_url;
+		    var version = recoveries.version;
 		    
 		    var contents = "";
 		    $.each(devices, function(i, device) {
-		            contents = contents + " " + device.key;
+		            var v = version;
+		            if (device.version == null && device.version > version) {
+		                v = device.version;
+		            }
+		            var readonly_recovery = device.readonly_recovery;
+		            var url = null;
+		            if (readonly_recovery) {
+		                url = sprintf(recovery_zip_url, version, device.key);
+		            } else {
+		                url = sprintf(recovery_url, version, device.key);
+		            }
+		            
+		            contents = contents + " " + device.key + " " + url;
             	});
 		    
 			if ($.browser.mozilla) {

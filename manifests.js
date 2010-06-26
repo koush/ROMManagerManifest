@@ -45,6 +45,7 @@
         manifest: "http://buildbot.teamdouche.net/nightly/rmnightly.js",
         roms:
         {
+            inc: true,
             sholes: true,
             passion: true,
             dream: true,

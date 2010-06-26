@@ -53,12 +53,15 @@ RomManager.ShowFile = function(manifests, element) {
 		            
 		            contents = contents + sprintf("<a href='%s'>%s</a></br>", url, device.key);
             	});
-		    
+
+		    /*
 			if ($.browser.mozilla) {
 				element.textContent = contents;
 			} else {
 				element.innerText = contents;
 			}
+			*/
+			element.innerHTML = contents;
 		}
 	});
 };

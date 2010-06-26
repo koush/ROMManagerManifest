@@ -140,6 +140,12 @@
         file: "common/gapps-passion-EPF30-signed.zip"
     },
     {
+        name: "Google Apps",
+        summary: "Google Add-On",
+        device: "inc",
+        file: "common/gapps-passion-EPF30-signed.zip"
+    },
+    {
         name: "bekit Kernels (0.8.4)",
         developer: true,
         summary: "Custom Clocked Kernels for CyanogenMod. For Advanced users only.",

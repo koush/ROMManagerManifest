@@ -37,7 +37,7 @@
         "1.8.0.0"
         ],
 
-        devices:
+        "devices":
         [
 
         {
@@ -48,7 +48,7 @@
             "alternate_recovery":
             {
                 "name": "SPRecovery 0.99.3b",
-                url: "http://downloads.droidmod.org/recovery-0.99.3b.img"
+                "url": "http://downloads.droidmod.org/recovery-0.99.3b.img"
             }
         },
 
@@ -60,7 +60,7 @@
             "alternate_recovery":
             {
                 "name": "RA Recovery v1.7.0G",
-                url: "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-sapphire-v1.7.0G.img"
+                "url": "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-sapphire-v1.7.0G.img"
 
             }
         },
@@ -73,7 +73,7 @@
             "alternate_recovery":
             {
                 "name": "RA Recovery v1.7.0H",
-                url: "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-sapphire-v1.7.0H.img"
+                "url": "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-sapphire-v1.7.0H.img"
             }
         },
 
@@ -85,7 +85,7 @@
             "alternate_recovery":
             {
                 "name": "RA Recovery v1.7.0",
-                url: "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-dream-v1.7.0.img"
+                "url": "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-dream-v1.7.0.img"
             }
         },
 
@@ -97,7 +97,7 @@
             "alternate_recovery":
             {
                 "name": "RA Recovery v1.7.0.1",
-                url: "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-nexus-v1.7.0.1.img"
+                "url": "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-nexus-v1.7.0.1.img"
             }
         },
 
@@ -109,7 +109,7 @@
             "alternate_recovery":
             {
                 "name": "RA Recovery v1.6.2",
-                url: "http://www.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-hero-v1.6.2.img"
+                "url": "http://www.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-hero-v1.6.2.img"
             }
         },
 
@@ -121,7 +121,7 @@
             "alternate_recovery":
             {
                 "name": "RA Recovery v1.6.2",
-                url: "http://www.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-heroc-v1.6.2.img"
+                "url": "http://www.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-heroc-v1.6.2.img"
             }
         },
 
@@ -133,7 +133,7 @@
             "alternate_recovery":
             {
                 "name": "RA Recovery v1.7.0.1",
-                url: "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-evo-v1.7.0.1.img"
+                "url": "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-evo-v1.7.0.1.img"
             }
         },
 
@@ -184,7 +184,7 @@
             "alternate_recovery":
             {
                 "name": "RA Recovery v1.6.2",
-                url: "http://www.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-eris-v1.6.2.img"
+                "url": "http://www.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-eris-v1.6.2.img"
             }
         }
 

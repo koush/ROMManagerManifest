@@ -292,8 +292,8 @@
     {
         developer: "roberj13",
         id: "roberj13",
-        summary: "Themed CyanogenMod ROM",
-        manifest: "http://www.opendrive.com/files/6469705_oMJ97/blueenergy.js",
+        summary: "Custom Themes",
+        manifest: "http://blue.macleod-web.net/RM_Manifest/blueenergy.js",
         roms:
         {
             sholes: true

@@ -88,7 +88,7 @@
         summary: "Unrooted, Odexed",
         device: "passion",
         product: "stock",
-        file: "google/passion/frf85.zip"
+        file: "google/passion/passion-FRF85.zip"
     },
     {
         name: "Nexus One FRF50",

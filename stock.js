@@ -84,11 +84,11 @@
         ]
     },
     {
-        name: "Nexus One FRF85",
-        summary: "Unrooted, Odexed",
+        name: "Nexus One FRF85B",
+        summary: "Rooted, Odexed",
         device: "passion",
         product: "stock",
-        file: "google/passion/passion-FRF85.zip"
+        urls: ["http://www.kanged.net/mirror/stock/passion-FRF85B.zip"]
     },
     {
         name: "Nexus One FRF50",

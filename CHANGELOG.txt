@@ -1,3 +1,10 @@
+2.0.0.3
+German Translations
+Advertising (you can turn it off!)
+
+2.0.0.2
+Add more debug information to ROM Manager logs.
+
 2.0.0.0
 Don't attempt to flash downloaded zips that are corrupt.
 Don't restore backups with spaces in the file or directory name.

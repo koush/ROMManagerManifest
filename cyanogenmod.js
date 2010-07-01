@@ -18,12 +18,28 @@
     roms:
     [
     {
+        name: "CyanogenMod 5.0.8 test2",
+        summary: "Stable",
+        device: "inc",
+        url: "http://www.droidaftermarket.com/koush//test/update-cm-5.0.8-test2-Inc-signed.zip",
+        screenshots:
+        [
+        "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot.png",
+        "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot2.png"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            file: "common/gapps-passion-EPF30-signed.zip"
+        }
+        ]
+    },
+
+    {
         name: "CyanogenMod 5.0.8 test1",
         summary: "Stable",
         device: "inc",
-        product: "CyanogenModTest",
-        incremental: 5080,
-        modversion: "CyanogenMod-5.0.8-test1-Inc",
         url: "http://www.droidaftermarket.com/koush//test/update-cm-5.0.8-test1-Inc-signed.zip",
         screenshots:
         [

@@ -447,6 +447,17 @@
             bravo: true
         }
     },
+	{
+		developer: "crunchybutternut",
+		id: "crunchybutternut",
+		summary: "Fast and fully themed ROMs for the CDMA Hero.",
+		manifest: "http://crunchysoft.pocketdevelopers.com/ROMManagerManifest/crunchysoft.js",
+	    free: true,
+		roms:
+		{
+		    heroc: true
+		}
+	},
 
     {
         developer: "Setenza",

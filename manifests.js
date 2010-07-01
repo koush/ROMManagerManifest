@@ -477,7 +477,7 @@
 	    developer: "AdamG",
 	    id: "adamg",
 	    summary: "OpenDesire ROM - http://android.adamg.co.uk",
-	    manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/adamg.js",
+	    manifest: "http://android.adamg.co.uk/bravo/roms/rommanager_manifest.js",
         free: true,
 	    roms:
 	    {

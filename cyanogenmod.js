@@ -17,13 +17,11 @@
     // =====HTC Incredible=====
     roms:
     [
-
-
     {
-        name: "CyanogenMod 5.0.8 test1",
+        name: "CyanogenMod 5.0.8 test3",
         summary: "Stable",
         device: "inc",
-        url: "http://www.droidaftermarket.com/koush//test/update-cm-5.0.8-test1-Inc-signed.zip",
+        url: "http://www.droidaftermarket.com/koush/htc/inc/update-cm-5.0.8-test3-Inc-signed.zip",
         screenshots:
         [
         "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot.png",
@@ -37,7 +35,6 @@
         }
         ]
     },
-
 
     // =====Motorola Droid=====
     {

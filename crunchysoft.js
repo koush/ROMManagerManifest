@@ -13,13 +13,13 @@
 		    modversion: "Buufed-2.0.1",
 		    screenshots:
 		    [
-		    "http://crunchysoft.pocketdevelopers.com/img/ss/rom1.png"",
-		    "http://crunchysoft.pocketdevelopers.com/img/ss/rom2.png"",
-		    "http://crunchysoft.pocketdevelopers.com/img/ss/rom3.png"",
-		    "http://crunchysoft.pocketdevelopers.com/img/ss/rom4.png"",
-		    "http://crunchysoft.pocketdevelopers.com/img/ss/rom5.png"",
-		    "http://crunchysoft.pocketdevelopers.com/img/ss/rom6.png"",
-		    "http://crunchysoft.pocketdevelopers.com/img/ss/rom7.png""
+		    "http://crunchysoft.pocketdevelopers.com/img/ss/rom1.png",
+		    "http://crunchysoft.pocketdevelopers.com/img/ss/rom2.png",
+		    "http://crunchysoft.pocketdevelopers.com/img/ss/rom3.png",
+		    "http://crunchysoft.pocketdevelopers.com/img/ss/rom4.png",
+		    "http://crunchysoft.pocketdevelopers.com/img/ss/rom5.png",
+		    "http://crunchysoft.pocketdevelopers.com/img/ss/rom6.png",
+		    "http://crunchysoft.pocketdevelopers.com/img/ss/rom7.png"
 		    ],
 		    urls:
 		    [

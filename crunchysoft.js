@@ -24,19 +24,19 @@
 		    urls:
 		    [
 		    "http://crunchysoft.pocketdevelopers.com/crunchyroms/Buufed-2.0.1.zip",
-		    "https://dl-web.dropbox.com/s/5kojzcgf9n0u4ae/Buufed-2.0.1.zip?dl"
+		    "https://dl-web.dropbox.com/s/5kojzcgf9n0u4ae/Buufed-2.0.1.zip"
 		    ],
 		    addons:
 		    [
 		    {
-		        name: "FCFix"
+		        name: "FCFix",
 		        urls:
 		        [
 		        "http://crunchysoft.pocketdevelopers.com/misc/patch/2.0.1-FC-Fixes.zip",
 		        ]
 		    },
 		    {
-		        name: "VisualVoicemail"
+		        name: "VisualVoicemail",
 		        urls:
 		        [
 		        "http://crunchysoft.pocketdevelopers.com//misc/patch/2.0.1-VVM-Fix.zip",
@@ -59,7 +59,7 @@
 		    addons:
 		    [
 		    {
-		        name: "VisualVoicemail"
+		        name: "VisualVoicemail",
 		        urls:
 		        [
 		        "http://crunchysoft.pocketdevelopers.com/misc/SprintVM.zip",

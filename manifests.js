@@ -478,6 +478,7 @@
 	    id: "adamg",
 	    summary: "OpenDesire ROM - http://android.adamg.co.uk",
 	    manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/adamg.js",
+        free: true,
 	    roms:
 	    {
 	        bravo: true

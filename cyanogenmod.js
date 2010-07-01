@@ -21,7 +21,7 @@
         name: "CyanogenMod 5.0.8 test2",
         summary: "Stable",
         device: "inc",
-        url: "http://www.droidaftermarket.com/koush//test/update-cm-5.0.8-test2-Inc-signed.zip",
+        url: "http://www.droidaftermarket.com/koush/htc/inc/update-cm-5.0.8-test2-Inc-signed.zip",
         screenshots:
         [
         "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot.png",

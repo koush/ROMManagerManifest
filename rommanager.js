@@ -25,14 +25,15 @@ RomManager.all = function() {
 
 RomManager.ShowFile = function(element) {
 	$.ajax({
-		url: "devices.js",
+		url: "devices2.js",
 		type: "GET",
 		dataType: "json",
 		success: function(msg) {
-		    var devices = msg.devices;
-		    var recovery_url = msg.recovery_url;
-		    var recovery_zip_url = msg.recovery_zip_url;
-		    var version = msg.version;
+		    var recoveries = msg.recoveries;
+		    var devices = recoveries.devices;
+		    var recovery_url = recoveries.recovery_url;
+		    var recovery_zip_url = recoveries.recovery_zip_url;
+		    var version = recoveries.version;
 		    
 		    var contents = "";
 		    $.each(devices, function(i, device) {

@@ -17,24 +17,7 @@
     // =====HTC Incredible=====
     roms:
     [
-    {
-        name: "CyanogenMod 5.0.8 test2",
-        summary: "Stable",
-        device: "inc",
-        url: "http://www.droidaftermarket.com/koush/htc/inc/update-cm-5.0.8-test2-Inc-signed.zip",
-        screenshots:
-        [
-        "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot.png",
-        "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot2.png"
-        ],
-        addons:
-        [
-        {
-            name: "Google Apps",
-            file: "common/gapps-passion-EPF30-signed.zip"
-        }
-        ]
-    },
+
 
     {
         name: "CyanogenMod 5.0.8 test1",

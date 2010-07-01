@@ -452,7 +452,8 @@
 		developer: "crunchybutternut",
 		id: "crunchybutternut",
 		summary: "Fast and fully themed ROMs for the CDMA Hero.",
-		manifest: "http://crunchysoft.pocketdevelopers.com/ROMManagerManifest/crunchysoft.js",
+//		manifest: "http://crunchysoft.pocketdevelopers.com/ROMManagerManifest/crunchysoft.js",
+		manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/crunchysoft.js",
 	    free: true,
 		roms:
 		{

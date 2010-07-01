@@ -474,9 +474,9 @@
     },
 
 	{
-	    developer: "AdamG",
+	    developer: "AdamG - OpenDesire",
 	    id: "adamg",
-	    summary: "OpenDesire ROM - http://android.adamg.co.uk",
+	    summary: "OpenDesire for HTC Desire",
 	    manifest: "http://android.adamg.co.uk/bravo/roms/rommanager_manifest.js",
         free: true,
 	    roms:

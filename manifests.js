@@ -447,16 +447,15 @@
             bravo: true
         }
     },
-
 	{
-		developer: "Crunchybutternut",
+		developer: "CrunchySoft",
 		id: "crunchybutternut",
-		summary: "Fast and fully themed ROMs for the CDMA Hero.",
+		summary: "Fast and fully themed ROMs for the CDMA Hero by crunchybutternut.",
 		manifest: "http://crunchysoft.pocketdevelopers.com/ROMManagerManifest/crunchysoft.js",
-	    free: true,
 		roms:
 		{
-		    heroc: true
+		    heroc: true,
+		    free: true,
 		}
 	},
 

@@ -447,6 +447,7 @@
             bravo: true
         }
     },
+/*
 	{
 		developer: "crunchybutternut",
 		id: "crunchybutternut",
@@ -458,6 +459,7 @@
 		    heroc: true
 		}
 	},
+*/
 
     {
         developer: "Setenza",

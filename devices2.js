@@ -1,8 +1,8 @@
 {
     "recoveries":
     {
-        "recovery_url": "http://clockworkmod.s3.amazonaws.com/recoveries/recovery-clockwork-%s-%s.img",
-        "recovery_zip_url": "http://clockworkmod.s3.amazonaws.com/recoveries/recovery-clockwork-%s-%s.zip",
+        "recovery_url": "http://koush.tandtgaming.com/recoveries/recovery-clockwork-%s-%s.img",
+        "recovery_zip_url": "http://koush.tandtgaming.com/recoveries/recovery-clockwork-%s-%s.zip",
         "version": "2.0.1.3",
 
         "legacy":

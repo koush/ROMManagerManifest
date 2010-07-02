@@ -84,6 +84,13 @@
         ]
     },
     {
+        name: "Nexus One FRF91",
+        summary: "Rooted, Odexed",
+        device: "passion",
+        product: "stock",
+        file: "/google/passion/passion-FRF91.zip"
+    },
+    {
         name: "Nexus One FRF85B",
         summary: "Rooted, Odexed",
         device: "passion",

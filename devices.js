@@ -188,7 +188,12 @@
             name: "RA Recovery v1.6.2",
             url: "http://www.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-eris-v1.6.2.img"
         }
-    }
+    },
 
+    {
+        init: "init.buzz.rc",
+        key: "buzz",
+        name: "HTC Buzz (Wildfire)"
+    }
     ]
 }

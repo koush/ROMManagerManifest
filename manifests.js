@@ -375,17 +375,17 @@
             bravo: true
         }
     },
-	{
-		developer: "Shawe",
-		id: "shawe",
-		summary: "ROM's for HTC Desire and extras",
-		manifest: "http://content.wuala.com/contents/shawe_ewahs/Publica/Android/ROM%20Manager/manifest.js",
-		free: true,
-		roms:
-		{
-		    bravo: true
-		}
-	},
+    {
+        developer: "Shawe",
+        id: "shawe",
+        summary: "ROM's for HTC Desire and extras",
+        manifest: "http://content.wuala.com/contents/shawe_ewahs/Publica/Android/ROM%20Manager/manifest.js",
+        free: true,
+        roms:
+        {
+            bravo: true
+        }
+    },
     {
 
         developer: "RvU Team",
@@ -447,18 +447,18 @@
             bravo: true
         }
     },
-	{
-		developer: "CrunchySoft",
-		id: "crunchybutternut",
-		summary: "Fast and fully themed ROMs for the CDMA Hero by crunchybutternut.",
-	    free: true,
-		manifest: "http://crunchysoft.pocketdevelopers.com/ROMManagerManifest/crunchysoft.js",
-		roms:
-		{
-		    heroc: true
+    {
+        developer: "CrunchySoft",
+        id: "crunchybutternut",
+        summary: "Fast and fully themed ROMs for the CDMA Hero by crunchybutternut.",
+        free: true,
+        manifest: "http://crunchysoft.pocketdevelopers.com/ROMManagerManifest/crunchysoft.js",
+        roms:
+        {
+            heroc: true
 
-		}
-	},
+        }
+    },
 
 
     {
@@ -473,17 +473,28 @@
         }
     },
 
-	{
-	    developer: "AdamG - OpenDesire",
-	    id: "adamg",
-	    summary: "OpenDesire for HTC Desire",
-	    manifest: "http://android.adamg.co.uk/bravo/roms/rommanager_manifest.js",
+    {
+        developer: "AdamG - OpenDesire",
+        id: "adamg",
+        summary: "OpenDesire for HTC Desire",
+        manifest: "http://android.adamg.co.uk/bravo/roms/rommanager_manifest.js",
         free: true,
-	    roms:
-	    {
-	        bravo: true
-	    }
-	}
+        roms:
+        {
+            bravo: true
+        }
+    },
+    
+    {
 
+        developer: "InsaneNemesis",
+        id: "InsaneNemesis",
+        summary: "ROM's and Themes Built From Source",
+        manifest: "https://dl.dropbox.com/u/8532412/InsaneNemesis.js",
+        roms:
+        {
+            sholes: true
+        }
+    }
     ]
 }

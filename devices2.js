@@ -3,7 +3,7 @@
     {
         "recovery_url": "http://koush.tandtgaming.com/recoveries/recovery-clockwork-%s-%s.img",
         "recovery_zip_url": "http://koush.tandtgaming.com/recoveries/recovery-clockwork-%s-%s.zip",
-        "version": "2.0.1.3",
+        "version": "2.0.2.0",
 
         "legacy":
         [

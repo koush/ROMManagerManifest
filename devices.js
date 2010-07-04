@@ -197,9 +197,9 @@
     },
     
     {
-        "init": "init.qcom.rc",
-        "key": "streak",
-        "name": "Dell Streak"
+        init: "init.qcom.rc",
+        key: "streak",
+        name: "Dell Streak"
     }
     ]
 }

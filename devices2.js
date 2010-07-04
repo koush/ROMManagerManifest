@@ -189,9 +189,9 @@
         },
 
         {
-            init: "init.buzz.rc",
-            key: "buzz",
-            name: "HTC Buzz (Wildfire)"
+            "init": "init.buzz.rc",
+            "key": "buzz",
+            "name": "HTC Buzz (Wildfire)"
         },
 
         {

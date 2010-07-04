@@ -194,6 +194,12 @@
         init: "init.buzz.rc",
         key: "buzz",
         name: "HTC Buzz (Wildfire)"
+    },
+    
+    {
+        "init": "init.qcom.rc",
+        "key": "streak",
+        "name": "Dell Streak"
     }
     ]
 }

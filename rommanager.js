@@ -44,9 +44,9 @@ RomManager.ShowFile = function(element) {
 		            var readonly_recovery = device.readonly_recovery;
 		            var url = null;
 		            if (readonly_recovery) {
-		                url = sprintf(recovery_zip_url, version, device.key);
+		                url = sprintf(recovery_zip_url, v, device.key);
 		            } else {
-		                url = sprintf(recovery_url, version, device.key);
+		                url = sprintf(recovery_url, v, device.key);
 		            }
 		            
 		            

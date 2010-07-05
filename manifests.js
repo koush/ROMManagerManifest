@@ -490,7 +490,7 @@
         developer: "InsaneNemesis",
         id: "InsaneNemesis",
         summary: "ROM's and Themes Built From Source",
-        manifest: "https://dl.dropbox.com/u/8532412/InsaneNemesis.js",
+        manifest: "http://insanenemesis.xeudoxus.com/Insanely_Clean/InsaneNemesis.js",
         roms:
         {
             sholes: true

@@ -3,7 +3,6 @@
 
     mirrors:
     [
-    "http://www.droidaftermarket.com/koush/",
     "http://droidk.macleodweb.net/",
     "http://android.antbox.org/koush/",
     "http://www.thekilpatrickproject.com/downloads/koush/",
@@ -71,55 +70,18 @@
         ]
     },
     {
-        name: "Nexus One EPE78",
-        summary: "Rooted with busybox and other dev tools",
-        device: "passion",
-        product: "stock",
-        urls:
-        [
-        "http://www.droidaftermarket.com/koush//test/n1stockeng.zip",
-        "http://www.thekilpatrickproject.com/downloads/koush//test/n1stockeng.zip",
-        "http://www.clockworkmod.com/download//test/n1stockeng.zip",
-        "http://koush.tandtgaming.com//test/n1stockeng.zip"
-        ]
-    },
-    {
         name: "Nexus One FRF91",
-        summary: "NOT Rooted, Odexed",
+        summary: "Odexed (Rooted or stock options)",
         device: "passion",
         product: "stock",
-        file: "/google/passion/passion-FRF91.zip"
-    },
-    {
-        name: "Nexus One FRF85B",
-        summary: "NOT Rooted, Odexed",
-        device: "passion",
-        product: "stock",
-        urls: ["http://www.kanged.net/mirror/stock/passion-FRF85B.zip"]
-    },
-    {
-        name: "Nexus One FRF50",
-        summary: "Unrooted, Odexed",
-        device: "passion",
-        product: "stock",
-        extendedurls:
+        file: "/google/passion/passion-FRF91.zip",
+        addons:
         [
         {
-            name: "FRF50 Part 1 (ERE27)",
-            file: "google/passion/update-nexusone-ERE27-signed.zip"
-        },
-        {
-            name: "FRF50 Part 2",
-            file: "google/passion/signed-passion-FRF50-from-ERE27.1e519a24.zip"
+            name: "Rooted Boot Image",
+            file: "google/passion/FRF91-rootboot.zip"
         }
         ]
-    },
-    {
-        name: "Nexus One EPE54B",
-        summary: "Unrooted, Odexed",
-        device: "passion",
-        product: "stock",
-        url: "http://coblitz.codeen.org/www.romraid.com/paul/nexusone/update-nexusone-EPE54B-signed.zip"
     },
     {
         name: "Nexus One ERE27",

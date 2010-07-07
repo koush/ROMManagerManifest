@@ -141,7 +141,7 @@
             "init": "init.legend.rc",
             "key": "legend",
             "name": "HTC Legend",
-            "version": "1.8.1.7",
+            "version": "2.0.1.2",
             "readonly_recovery": true
         },
 

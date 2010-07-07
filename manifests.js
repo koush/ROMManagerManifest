@@ -484,24 +484,34 @@
             bravo: true
         }
     },
-	{
+    {
 
-		developer: "cvpcs",
-		id: "cvpcs",
-		summary: "Source-based mods made by CVPCS",
-		manifest: "http://sapphire.cvpcs.org/files/other/cvpcs-rmm.js",
-		free: true,
-		roms:
-		{
-			sholes: true
-		}
-	},    
+        developer: "cvpcs",
+        id: "cvpcs",
+        summary: "Source-based mods made by CVPCS",
+        manifest: "http://sapphire.cvpcs.org/files/other/cvpcs-rmm.js",
+        free: true,
+        roms:
+        {
+            sholes: true
+        }
+    },
     {
 
         developer: "InsaneNemesis",
         id: "InsaneNemesis",
         summary: "ROM's and Themes Built From Source",
         manifest: "http://insanenemesis.xeudoxus.com/Insanely_Clean/InsaneNemesis.js",
+        roms:
+        {
+            sholes: true
+        }
+    },
+    {
+        developer: "Pl3xRom",
+        id: "billygalbreath",
+        summary: "Pl3x Rom for the Motorola Droid",
+        manifest: "http://pl3x.unlistedradio.com/pl3xrom.js",
         roms:
         {
             sholes: true

@@ -80,6 +80,10 @@
         {
             name: "Rooted Boot Image",
             file: "google/passion/FRF91-rootboot.zip"
+        },
+        {
+            name: "Superuser 2.2",
+            file: "recoveries/su-2.2-ef-signed.zip"
         }
         ]
     },

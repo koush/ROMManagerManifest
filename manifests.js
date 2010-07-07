@@ -522,6 +522,7 @@
         id: "jpameli",
         summary: "Stable HTC Desire / Bravo ROMs with the latest addons and patches",
         manifest: "http://android.jpameli.de/paysroms.js",
+        free: true,
         roms:
         {
             desire: true

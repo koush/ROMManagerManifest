@@ -201,6 +201,14 @@
         init: "init.qcom.rc",
         key: "streak",
         name: "Dell Streak"
+    },
+    
+    {
+        init: "init.milestone.rc",
+        key: "milestone",
+        name: "Motorola Milestone",
+        version: "2.0.2.2",
+        readonly_recovery: true
     }
     ]
 }

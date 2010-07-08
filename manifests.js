@@ -527,6 +527,17 @@
         {
             desire: true
         }
+    },
+    {
+        developer: "AleBaba",
+        id: "aleho",
+        summary: "Customized ROMs for the HTC Legend",
+        manifest: "http://derhofbauer.at/rommanager/roms.js",
+        free: true,
+        roms:
+        {
+            legend: true
+        }
     }
     ]
 }

@@ -22,6 +22,7 @@
         summary: "Stable",
         device: "inc",
         url: "http://www.droidaftermarket.com/koush/htc/inc/update-cm-5.0.8-test3-Inc-signed.zip",
+        visible: false,
         screenshots:
         [
         "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot.png",

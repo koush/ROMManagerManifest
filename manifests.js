@@ -46,6 +46,7 @@
         manifest: "http://buildbot.teamdouche.net/nightly/manifest.js",
         roms:
         {
+            espresso: true,
             sholes: true,
             passion: true,
             dream: true,
@@ -77,39 +78,6 @@
         }
     },
     {
-        developer: "AmonRA",
-        id: "amonra",
-        summary: "AmonRA Donut",
-        manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/amonra.js",
-        free: true,
-        roms:
-        {
-            magic: true,
-            sapphire: true
-        }
-    },
-    {
-        developer: "Modaco Custom ROM",
-        id: "modaco",
-        summary: "Modaco Custom ROM - http://android.modaco.com/",
-        manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/modaco.js",
-        free: true,
-        roms:
-        {
-            passion: true
-        }
-    },
-    {
-        developer: "Enomther",
-        id: "enomther",
-        summary: "Enomther's TheOfficial Nexus1",
-        manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/enomther.js",
-        roms:
-        {
-            passion: true
-        }
-    },
-    {
         developer: "forkup",
         id: "forkup",
         summary: "Roms, Themes and Addons for Cyanogen on the Droid.",
@@ -127,16 +95,6 @@
         roms:
         {
             sholes: true
-        }
-    },
-    {
-        developer: "Nexus-Nation",
-        id: "manup456",
-        summary: "Themes, Rom's and more for the Nexus One",
-        manifest: "http://www.androidspin.com/files/manup456/THEMES/manup456.js",
-        roms:
-        {
-            passion: true
         }
     },
     {
@@ -317,17 +275,6 @@
         roms:
         {
             sholes: true
-        }
-    },
-    {
-        developer: "Ahmgsk Mod",
-        id: "Ahmgsk",
-        summary: "ROM's for Desire, Other",
-        manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/ahmgsk.js",
-        free: true,
-        roms:
-        {
-            bravo: true
         }
     },
     {

@@ -42,8 +42,8 @@
     {
         developer: "CyanogenMod Nightlies",
         id: "koush",
-        summary: "CyanogenMod Nightly builds. Very experimental and probably broken.",
-        manifest: "http://buildbot.teamdouche.net/nightly/rmnightly.js",
+        summary: "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds.",
+        manifest: "http://buildbot.teamdouche.net/nightly/manifest.js",
         roms:
         {
             sholes: true,

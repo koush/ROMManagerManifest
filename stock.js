@@ -58,18 +58,6 @@
         ]
     },
     {
-        name: "Verizon Droid 2.1 Stock",
-        summary: "Stable, Radio, Rooted",
-        device: "sholes",
-        product: "stock",
-        urls:
-        [
-        "http://koush.romraid.com//motorola/sholes/ESE81update.zip",
-        "http://android.d3xt3r01.tk/koush//motorola/sholes/ESE81update.zip",
-        "http://www.droidaftermarket.com/koush//motorola/sholes/ESE81update.zip"
-        ]
-    },
-    {
         name: "Nexus One FRF91",
         summary: "Odexed (Rooted or stock options)",
         device: "passion",
@@ -96,13 +84,16 @@
     },
     {
         name: "Verizon Droid 2.0.1 Stock",
-        summary: "Stable, NOT Rooted",
+        summary: "Odexed (Rooted or stock options)",
         device: "sholes",
         product: "stock",
-        urls:
+        file: "motorola/sholes/sholes-2.0.1.zip",
+        addons:
         [
-        "http://koush.romraid.com//motorola/sholes/update-stock.zip",
-        "http://www.droidaftermarket.com/koush//motorola/sholes/update-stock.zip"
+        {
+            name: "Superuser 2.2",
+            file: "recoveries/su-2.2-ef-signed.zip"
+        }
         ]
     }
     ]

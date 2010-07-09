@@ -62,8 +62,7 @@
         manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
         roms:
         {
-            sholes: true,
-            passion: true
+            all: true
         }
     },
     {

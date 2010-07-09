@@ -13,18 +13,18 @@
     roms:
     [
     {
-        name: "Superuser 2.2.1",
+        name: "Superuser 2.2.2 cd",
         developer: true,
         summary: "Cupcake/Donut",
         device: "all",
-        url: "http://dl.dropbox.com/u/6408470/su-releases/su-2.2.1-cd-signed.zip"
+        url: "http://dl.dropbox.com/u/6408470/su-releases/su-2.2.2-cd-signed.zip"
     },
     {
-        name: "Superuser 2.2.1",
+        name: "Superuser 2.2.2 ef",
         developer: true,
         summary: "Eclair/Froyo",
         device: "all",
-        url: "http://dl.dropbox.com/u/6408470/su-releases/su-2.2.1-ef-signed.zip"
+        url: "http://dl.dropbox.com/u/6408470/su-releases/su-2.2.2-ef-signed.zip"
     }    
     ]
 }

@@ -46,6 +46,7 @@
         manifest: "http://buildbot.teamdouche.net/nightly/manifest.js",
         roms:
         {
+            inc: true,
             espresso: true,
             sholes: true,
             passion: true,

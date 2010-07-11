@@ -13,7 +13,6 @@
     ],
 
     // Your list of ROMs
-    
     // =====HTC Incredible=====
     roms:
     [
@@ -122,8 +121,8 @@
         }
         ]
     },
-    
-    
+
+
     {
         name: "CyanogenMod 5.0.6.2",
         summary: "Stable",
@@ -441,7 +440,7 @@
         "http://koush.romraid.com/motorola/sholes/Launcher_5.0.6.1.zip"
         ]
     },
-    
+
     {
         // Display name of the rom
         name: "CyanogenMod 5.0.6.1",
@@ -490,7 +489,7 @@
         }
         ]
     },
-    
+
     {
         // Display name of the rom
         name: "CyanogenMod 5.0.6",
@@ -880,7 +879,7 @@
             name: "Google Apps",
             urls:
             [
-				"http://briancrook.ca/android/nexus/gapps/gapps-passion-EPF30-signed.zip"
+            "http://briancrook.ca/android/nexus/gapps/gapps-passion-EPF30-signed.zip"
             ]
         }
         ]
@@ -917,9 +916,9 @@
         summary: "Google Add-On",
         device: "passion",
         urls:
-       [
-				"http://briancrook.ca/android/nexus/gapps/gapps-passion-EPF30-signed.zip"
-       ]
+        [
+        "http://briancrook.ca/android/nexus/gapps/gapps-passion-EPF30-signed.zip"
+        ]
     },
     {
         name: "CyanogenMod 5.0.7",
@@ -948,7 +947,7 @@
         }
         ]
     },
-    
+
     {
         name: "CyanogenMod 5.0.6",
         summary: "Stable",
@@ -977,8 +976,8 @@
             ]
         }
         ]
-    },    
-    
+    },
+
     {
         name: "CyanogenMod 5.0.5.3",
         summary: "Stable",
@@ -1131,7 +1130,7 @@
             urls:
             ["http://www.kanged.net/mirror/download.php?file=gapps-mdpi-FRF91-2-signed.zip"]
         }
-        ] 
+        ]
     },
     {
         name: "CyanogenMod 5.0.8",
@@ -1153,7 +1152,7 @@
             file: "/common/gapps-ds-ERE36B-signed.zip"
         }
         ]
-    }, 
+    },
     {
         name: "Google Apps",
         summary: "Google Add-On",
@@ -1186,7 +1185,6 @@
     },
 
     // =====32A=====
-
     {
         name: "CyanogenMod 6.0.0-RC1",
         summary: "Release Candidate 1",
@@ -1211,11 +1209,12 @@
             name: "Google Apps",
             urls:
             [
-			"http://www.kanged.net/mirror/download.php?file=gapps-mdpi-FRF91-2-signed.zip"
-			]
+            "http://www.kanged.net/mirror/download.php?file=gapps-mdpi-FRF91-2-signed.zip"
+            ]
         }
-        ] 
+        ]
     },
+    {
         name: "CyanogenMod 5.0.8",
         summary: "Stable, Flashing Recovery may be broken",
         device: "magic",
@@ -1303,7 +1302,7 @@
             urls:
             ["http://www.kanged.net/mirror/download.php?file=gapps-mdpi-FRF91-2-signed.zip"]
         }
-        ] 
+        ]
     },
     {
         name: "CyanogenMod 5.0.8",
@@ -1356,7 +1355,7 @@
         }
         ]
     },
-    
+
     // ===== Bravo =====
     {
         name: "CyanogenMod 5.0.8 test 7",

@@ -47,7 +47,7 @@
         url: "http://kanged.net/mirror/download.php?file=update-cm-6.0.0-Droid-RC1-signed.zip",
         visible: false,
         choices:
-        {}
+        {
         name: "Home Application"
         options:
         [

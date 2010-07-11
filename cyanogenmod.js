@@ -840,18 +840,24 @@
     // =====Google Nexus One====
     {
         name: "CyanogenMod 6.0.0-RC1",
-        summary: "Relase Candidate 1",
+        summary: "Release Candidate 1",
         device: "passion",
         product: "CyanogenMod",
         incremental: 6000,
         modversion: "CyanogenMod-6.0.0-N1-RC1",
-        urls: ["http://www.kanged.net/download.php?file=update-cm-6.0.0-N1-RC1-signed.zip"],
-        addons: [{
+        urls:
+        [
+        "http://www.kanged.net/mirror/download.php?file=update-cm-6.0.0-N1-RC1-signed.zip"
+        ],
+        addons:
+        [
+        {
             name: "Google Apps",
-            urls: ["http://www.kanged.net/download.php?file=gapps-hdpi-FRF91-signed.zip"],
-        }]
+            urls:
+            ["http://www.kanged.net/mirror/download.php?file=gapps-hdpi-FRF91-signed.zip"]
+        }
+        ]
     },
-
     {
         name: "CyanogenMod 5.0.8",
         summary: "Stable",
@@ -1109,16 +1115,23 @@
     // =====G1=====
     {
         name: "CyanogenMod 6.0.0-RC1",
-        summary: "Relase Candidate 1",
+        summary: "Release Candidate 1",
         device: "dream",
         product: "CyanogenMod",
         incremental: 6000,
         modversion: "CyanogenMod-6.0.0-DS-RC1",
-        urls: ["http://www.kanged.net/download.php?file=update-cm-6.0.0-DS-RC1-signed.zip"],
-        addons: [{
+        urls:
+        [
+        "http://www.kanged.net/mirror/download.php?file=update-cm-6.0.0-DS-RC1-signed.zip"
+        ],
+        addons:
+        [
+        {
             name: "Google Apps",
-            urls: ["http://www.kanged.net/download.php?file=gapps-mdpi-FRF91-signed.zip"],
-        }]
+            urls:
+            ["http://www.kanged.net/mirror/download.php?file=gapps-mdpi-FRF91-signed.zip"]
+        }
+        ] 
     },
     {
         name: "CyanogenMod 5.0.8",
@@ -1245,16 +1258,23 @@
     // =====32B=====
     {
         name: "CyanogenMod 6.0.0-RC1",
-        summary: "Relase Candidate 1",
+        summary: "Release Candidate 1",
         device: "sapphire",
         product: "CyanogenMod",
         incremental: 6000,
         modversion: "CyanogenMod-6.0.0-DS-RC1",
-        urls: ["http://www.kanged.net/download.php?file=update-cm-6.0.0-DS-RC1-signed.zip"],
-        addons: [{
+        urls:
+        [
+        "http://www.kanged.net/mirror/download.php?file=update-cm-6.0.0-DS-RC1-signed.zip"
+        ],
+        addons:
+        [
+        {
             name: "Google Apps",
-            urls: ["http://www.kanged.net/download.php?file=gapps-mdpi-FRF91-signed.zip"],
-        }]
+            urls:
+            ["http://www.kanged.net/mirror/download.php?file=gapps-mdpi-FRF91-signed.zip"]
+        }
+        ] 
     },
     {
         name: "CyanogenMod 5.0.8",

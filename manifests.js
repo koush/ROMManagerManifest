@@ -458,7 +458,7 @@
         developer: "Pl3xRom",
         id: "billygalbreath",
         summary: "Pl3x Rom for the Motorola Droid",
-        manifest: "http://pl3x.unlistedradio.com/pl3xrom.js",
+        manifest: "http://www.pl3x.com/pl3xrom.js",
         roms:
         {
             sholes: true

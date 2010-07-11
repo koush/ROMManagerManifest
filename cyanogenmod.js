@@ -1212,7 +1212,7 @@
             urls:
             [
 			"http://www.kanged.net/mirror/download.php?file=gapps-mdpi-FRF91-signed.zip",
-			"http://briancrook.ca/android/nexus/gapps/gapps-passion-FRF91-signed.zip"
+			"http://briancrook.ca/android/gapps/gapps-mdpi-FRF91-signed.zip"
 			]
         }
         ] 

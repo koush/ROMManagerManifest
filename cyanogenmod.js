@@ -1186,7 +1186,37 @@
     },
 
     // =====32A=====
+
     {
+        name: "CyanogenMod 6.0.0-RC1",
+        summary: "Release Candidate 1",
+        device: "magic",
+        product: "CyanogenMod",
+        incremental: 6000,
+        modversion: "CyanogenMod-6.0.0-DS-RC1",
+        extendedurls:
+        [
+        {
+            name: "CyanogenMod 6",
+            url: "http://www.kanged.net/mirror/download.php?file=update-cm-6.0.0-DS-RC1-signed.zip"
+        },
+        {
+            name: "EB1/32A Kernel",
+            url: "http://briancrook.ca/android/cm-ports/bc-6.0.0-RC1-ebi1-signed.zip"
+        }
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            urls:
+            [
+			"http://www.kanged.net/mirror/download.php?file=gapps-mdpi-FRF91-signed.zip",
+			"http://briancrook.ca/android/nexus/gapps/gapps-passion-FRF91-signed.zip"
+			]
+        }
+        ] 
+    },
         name: "CyanogenMod 5.0.8",
         summary: "Stable, Flashing Recovery may be broken",
         device: "magic",

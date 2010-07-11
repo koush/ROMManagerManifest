@@ -63,10 +63,6 @@
                 url: ""
             },
             {
-                name: "Original Launcher",
-                file: "common/Launcher1-CM6-RC1.zip"
-            },
-            {
                 name: "Launcher2",
                 file: "common/Launcher2-CM6-v1.zip"
             }

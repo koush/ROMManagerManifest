@@ -5,7 +5,7 @@
     donate: "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3283920",
     mirrors:
     [
-    "http://www.droidaftermarket.com/koush/",
+    "http://droidk.macleodweb.net/",
     "http://android.antbox.org/koush/",
     "http://www.thekilpatrickproject.com/downloads/koush/",
     "http://www.clockworkmod.com/download/",
@@ -37,6 +37,41 @@
     },
 
     // =====Motorola Droid=====
+
+    {
+        name: "CyanogenMod 6.0.0-RC1",
+        summary: "Stable",
+        device: "sholes",
+        product: "CyanogenMod",
+        incremental: 6000,
+        modversion: "CyanogenMod-6.0.0-Droid",
+        url: "http://kanged.net/mirror/download.php?file=update-cm-6.0.0-Droid-RC1-signed.zip",
+        visible: false,
+        choices:
+        [
+        {
+            name: "ADWLauncher",
+            url: ""
+        },
+        {
+            name: "Launcher2",
+            file: "common/Launcher2-CM6-v1.zip"
+        }
+        ],
+        screenshots:
+        [
+        "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot.png",
+        "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot2.png"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://kanged.net/mirror/gapps/gapps-hdpi-FRF91-2-signed.zip"
+        }
+        ]
+    },
+
     {
         name: "CyanogenMod 5.0.8",
         summary: "Stable",

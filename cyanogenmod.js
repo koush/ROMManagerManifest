@@ -44,7 +44,7 @@
         product: "CyanogenMod",
         incremental: 6000,
         modversion: "CyanogenMod-6.0.0-Droid",
-        url: "http://kanged.net/mirror/download.php?file=update-cm-6.0.0-Droid-RC1-signed.zip",
+        url: "http://bit.ly/9L5ULx",
         choices:
         [
         {

@@ -51,7 +51,7 @@
         "http://bit.ly/ak0UXI",
         "http://bit.ly/99YEcu",
         "http://bit.ly/bHOhe6"
-        ]
+        ],
         choices:
         [
         {

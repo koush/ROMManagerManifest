@@ -44,7 +44,14 @@
         product: "CyanogenMod",
         incremental: 6000,
         modversion: "CyanogenMod-6.0.0-Droid",
-        url: "http://bit.ly/9L5ULx",
+        urls:
+        [
+        "http://bit.ly/9L5ULx",
+        "http://bit.ly/dhz1CL",
+        "http://bit.ly/ak0UXI",
+        "http://bit.ly/99YEcu",
+        "http://bit.ly/bHOhe6"
+        ]
         choices:
         [
         {

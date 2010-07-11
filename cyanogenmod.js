@@ -47,7 +47,7 @@
         url: "http://kanged.net/mirror/download.php?file=update-cm-6.0.0-Droid-RC1-signed.zip",
         visible: false,
         choices:
-        [
+        {}
         name: "Home Application"
         options:
         [
@@ -60,7 +60,7 @@
             file: "common/Launcher2-CM6-v1.zip"
         }
         ]
-        ],
+        },
         screenshots:
         [
         "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",

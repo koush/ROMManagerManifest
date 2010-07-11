@@ -60,8 +60,8 @@
         ],
         screenshots:
         [
-        "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot.png",
-        "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot2.png"
+        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
+        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
         ],
         addons:
         [
@@ -82,8 +82,8 @@
         file: "motorola/sholes/update-cm-5.0.8-Droid-signed.zip",
         screenshots:
         [
-        "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot.png",
-        "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot2.png"
+        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
+        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
         ],
         addons:
         [

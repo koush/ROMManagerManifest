@@ -37,7 +37,6 @@
     },
 
     // =====Motorola Droid=====
-
     {
         name: "CyanogenMod 6.0.0-RC1",
         summary: "Stable",
@@ -49,6 +48,9 @@
         visible: false,
         choices:
         [
+        name: "Home Application"
+        options:
+        [
         {
             name: "ADWLauncher",
             url: ""
@@ -57,6 +59,7 @@
             name: "Launcher2",
             file: "common/Launcher2-CM6-v1.zip"
         }
+        ]
         ],
         screenshots:
         [

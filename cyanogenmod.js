@@ -200,18 +200,47 @@
         }
         ]
     },
+    
+    // ==== Google Apps ====
     {
-        name: "Google Apps",
+        name: "Google Apps (Froyo)",
+        summary: "Google Add-On",
+        device: "passion",
+        url: "http://kanged.net/mirror/gapps/gapps-hdpi-FRF91-2-signed.zip"
+    },
+    {
+        name: "Google Apps (Froyo)",
+        summary: "Google Add-On",
+        device: "sholes",
+        url: "http://kanged.net/mirror/gapps/gapps-hdpi-FRF91-2-signed.zip"
+    },
+    {
+        name: "Google Apps (Froyo)",
+        summary: "Google Add-On",
+        device: "inc",
+        url: "http://kanged.net/mirror/gapps/gapps-hdpi-FRF91-2-signed.zip"
+    },
+
+    {
+        name: "Google Apps (Eclair)",
+        summary: "Google Add-On",
+        device: "passion",
+        file: "common/gapps-passion-EPF30-signed.zip"
+    },
+    {
+        name: "Google Apps (Eclair)",
         summary: "Google Add-On",
         device: "sholes",
         file: "common/gapps-passion-EPF30-signed.zip"
     },
     {
-        name: "Google Apps",
+        name: "Google Apps (Eclair)",
         summary: "Google Add-On",
         device: "inc",
         file: "common/gapps-passion-EPF30-signed.zip"
     },
+    
+    
     {
         name: "bekit Kernels (0.8.4)",
         developer: true,
@@ -955,15 +984,6 @@
             "http://briancrook.ca/android/nexus/gapps/gapps-passion-EPE54B-signed.zip"
             ]
         }
-        ]
-    },
-    {
-        name: "Google Apps",
-        summary: "Google Add-On",
-        device: "passion",
-        urls:
-        [
-        "http://briancrook.ca/android/nexus/gapps/gapps-passion-EPF30-signed.zip"
         ]
     },
     {

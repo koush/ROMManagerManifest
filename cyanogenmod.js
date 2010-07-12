@@ -490,7 +490,7 @@
         {
             name: "Google Apps",
             urls:
-            ["http://www.kanged.net/mirror/download.php?file=gapps-mdpi-FRF91-2-signed.zip"]
+            ["http://www.kanged.net/mirror/download.php?file=gapps-mdpi-FRF91-3-signed.zip"]
         }
         ]
     },
@@ -566,7 +566,7 @@
             name: "Google Apps",
             urls:
             [
-			"http://www.kanged.net/mirror/download.php?file=gapps-mdpi-FRF91-2-signed.zip"
+			"http://www.kanged.net/mirror/download.php?file=gapps-mdpi-FRF91-3-signed.zip"
 			]
         }
         ]
@@ -652,7 +652,7 @@
         {
             name: "Google Apps",
             urls:
-            ["http://www.kanged.net/mirror/download.php?file=gapps-mdpi-FRF91-2-signed.zip"]
+            ["http://www.kanged.net/mirror/download.php?file=gapps-mdpi-FRF91-3-signed.zip"]
         }
         ]
     },

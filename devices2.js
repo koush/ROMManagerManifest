@@ -164,8 +164,8 @@
         },
 
         {
-            "init": "init.espresso.rc",
-            "key": "espresso",
+            "init": "init.latte.rc",
+            "key": "latte",
             "name": "MyTouch Slide",
             "readonly_recovery": true
         },

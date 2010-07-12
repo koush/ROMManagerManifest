@@ -3,39 +3,7 @@
     {
         "recovery_url": "http://koush.tandtgaming.com/recoveries/recovery-clockwork-%s-%s.img",
         "recovery_zip_url": "http://koush.tandtgaming.com/recoveries/recovery-clockwork-%s-%s.zip",
-        "version": "2.0.2.0",
-
-        "legacy":
-        [
-        "2.0.1.4",
-        "2.0.1.3",
-        "2.0.1.2",
-        "2.0.1.1",
-        "2.0.1.0",
-        "2.0.0.9",
-        "2.0.0.8",
-        "2.0.0.7",
-        "2.0.0.6",
-        "2.0.0.5",
-        "2.0.0.3",
-        "1.8.2.1",
-        "1.8.2.0",
-        "1.8.1.9",
-        "1.8.1.8",
-        "1.8.1.7",
-        "1.8.1.4",
-        "1.8.1.3",
-        "1.8.1.1",
-        "1.8.0.8",
-        "1.8.0.7",
-        "1.8.0.6",
-        "1.8.0.5",
-        "1.8.0.4",
-        "1.8.0.3",
-        "1.8.0.2",
-        "1.8.0.1",
-        "1.8.0.0"
-        ],
+        "version": "2.0.2.4",
 
         "devices":
         [
@@ -192,6 +160,13 @@
             "init": "init.buzz.rc",
             "key": "buzz",
             "name": "HTC Buzz (Wildfire)",
+            "readonly_recovery": true
+        },
+
+        {
+            "init": "init.espresso.rc",
+            "key": "espresso",
+            "name": "MyTouch Slide",
             "readonly_recovery": true
         },
 

@@ -5,6 +5,7 @@
 
     legacy:
     [
+    "2.0.2.4",
     "2.0.2.0",
     "2.0.1.9",
     "2.0.1.8",
@@ -203,6 +204,13 @@
         name: "Dell Streak"
     },
     
+    {
+        init: "init.espresso.rc",
+        key: "espresso",
+        name: "MyTouch Slide",
+        readonly_recovery: true
+    },
+
     {
         init: "init.milestone.rc",
         key: "milestone",

@@ -312,17 +312,6 @@
     },
 
     {
-        name: "Radio Update (C_01.3E.03P)",
-        summary: "This baseband update only needs to be installed once! This will REQUIRE reactivation.",
-        device: "sholes",
-        urls:
-        [
-        "http://koush.romraid.com//motorola/sholes/droidbaseband-03.zip",
-        "http://www.droidaftermarket.com/koush//motorola/sholes/droidbaseband-03.zip"
-        ]
-    },
-
-    {
         name: "P3Droid Kernels",
         developer: true,
         summary: "Kernels for any rom, using AnyUpdater from Koush by P3Droid. For Advanced users only.",
@@ -395,20 +384,6 @@
             }
             ]
         }
-        ]
-    },
-
-    {
-        name: "Home",
-        summary: "The normal, non-3D Home screen",
-        device: "sholes",
-        product: "Home",
-        urls:
-        [
-        "http://thekilpatrickproject.com/downloads/koush//motorola/sholes/Launcher_5.0.6.1.zip",
-        "http://www.droidaftermarket.com/koush//motorola/sholes/Launcher_5.0.6.1.zip",
-        "http://droidk.macleodweb.net//motorola/sholes/Launcher_5.0.6.1.zip",
-        "http://koush.romraid.com/motorola/sholes/Launcher_5.0.6.1.zip"
         ]
     },
 

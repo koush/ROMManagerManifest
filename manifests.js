@@ -110,8 +110,8 @@
     {
         developer: "JRummy",
         id: "JRummy16",
-        summary: "Get even more of that CyanogenMod goodness!",
-        manifest: "http://www.bucketcheck.com/jrummy/Rummy%20Roms/RomManager/jared.js",
+        summary: "Source built roms and custom themes",
+        manifest: "http://froyoroms.com/files/developers/jrummy/JRummy/Rom_Manager/jared.js",
         roms:
         {
             sholes: true

@@ -165,7 +165,7 @@
 
         {
             "init": "init.latte.rc",
-            "key": "latte",
+            "key": "espresso",
             "name": "MyTouch Slide",
             "readonly_recovery": true
         },

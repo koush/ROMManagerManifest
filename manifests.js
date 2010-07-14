@@ -485,6 +485,17 @@
         {
             legend: true
         }
+    },
+    {
+        developer: "Matt4542",
+        id: "matt4542",
+        summary: "A Rom compiled from CyanogenMod source with added features!",
+        manifest: "http://dl.dropbox.com/u/7593993/manifest.js",
+        roms:sholes
+        {
+            sholes: true,
+            passion: true
+        }
     }
     ]
 }

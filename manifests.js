@@ -51,7 +51,8 @@
             sholes: true,
             passion: true,
             dream: true,
-            sapphire: true
+            sapphire: true,
+            bravo: true
         }
     },
     {

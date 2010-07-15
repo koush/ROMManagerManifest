@@ -87,7 +87,7 @@
         init: "init.mahimahi.rc",
         key: "passion",
         name: "Google Nexus One (GSM)",
-        version: "1.8.1.0",
+        version: "2.5.0.1",
         alternate_recovery:
         {
             name: "RA Recovery v1.7.0.1",
@@ -99,7 +99,7 @@
         init: "init.hero.rc",
         key: "hero",
         name: "HTC Hero (GSM)",
-        version: "1.8.1.0",
+        version: "2.5.0.1",
         alternate_recovery:
         {
             name: "RA Recovery v1.6.2",
@@ -111,7 +111,7 @@
         init: "init.heroc.rc",
         key: "heroc",
         name: "HTC Hero (CDMA)",
-        version: "1.8.1.0",
+        version: "2.5.0.1",
         alternate_recovery:
         {
             name: "RA Recovery v1.6.2",
@@ -135,7 +135,7 @@
         init: "init.legend.rc",
         key: "legend",
         name: "HTC Legend",
-        version: "2.0.2.2",
+        version: "2.5.0.1",
         readonly_recovery: true
     },
 
@@ -143,7 +143,7 @@
         init: "init.bravo.rc",
         key: "bravo",
         name: "HTC Desire",
-        version: "2.0.1.4",
+        version: "2.5.0.1",
         readonly_recovery: true
     },
 
@@ -166,7 +166,7 @@
         init: "init.liberty.rc",
         key: "liberty",
         name: "HTC Aria (GSM)",
-        version: "2.0.1.3",
+        version: "2.5.0.1",
         readonly_recovery: true
     },
     
@@ -174,7 +174,7 @@
         init: "init.desirec.rc",
         key: "desirec",
         name: "Droid Eris (CDMA)",
-        version: "1.8.1.0",
+        version: "2.5.0.1",
         alternate_recovery:
         {
             name: "RA Recovery v1.6.2",
@@ -186,20 +186,22 @@
         init: "init.buzz.rc",
         key: "buzz",
         name: "HTC Buzz (Wildfire)",
+        version: "2.5.0.1",
         readonly_recovery: true
     },
     
     {
         init: "init.qcom.rc",
         key: "streak",
-        name: "Dell Streak"
+        name: "Dell Streak",
+        version: "2.5.0.1"
     },
     
     {
         init: "init.latte.rc",
         key: "espresso",
         name: "MyTouch Slide",
-        version: "2.0.2.4",
+        version: "2.5.0.1",
         readonly_recovery: true
     },
 
@@ -207,7 +209,7 @@
         init: "init.milestone.rc",
         key: "milestone",
         name: "Motorola Milestone",
-        version: "2.0.2.2",
+        version: "2.5.0.1",
         readonly_recovery: true
     }
     ]

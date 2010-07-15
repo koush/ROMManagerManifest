@@ -491,7 +491,7 @@
         developer: "Matt4542",
         id: "matt4542",
         summary: "A Rom compiled from CyanogenMod source with added features!",
-        manifest: "http://dl.dropbox.com/u/7593993/manifest.js",
+        manifest: "http://istream.freevar.com/manifest.js",
         roms:
         {
             sholes: true,

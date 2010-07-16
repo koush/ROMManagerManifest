@@ -9,45 +9,12 @@
     {
         name: "ADW Launcher 0.9",
         summary: "ADW Launcher (almostNexus mod) 0.9, by Anderwebs: July 1",
-        device: "passion",
+        device: "all",
         product: "Anderweb's Launcher",
         incremental: 070110,
         urls:
         [
         "http://droidbasement.com/nexus/mods/adwlauncher_0.9-n1-070110.zip",
-        ]
-    },
-    {
-        name: "ADW Launcher 0.9",
-        summary: "ADW Launcher (almostNexus mod) 0.9, by Anderwebs: July 1",
-        device: "dream",
-        product: "Anderweb's Launcher",
-        incremental: 070110,
-        urls:
-        [
-        "http://droidbasement.com/g1/mods/adwlauncher_0.9-ds-070110.zip",
-        ]
-    },
-    {
-        name: "ADW Launcher 0.9",
-        summary: "ADW Launcher (almostNexus mod) 0.9, by Anderwebs: July 1",
-        device: "magic",
-        product: "Anderweb's Launcher",
-        incremental: 070110,
-        urls:
-        [
-        "http://droidbasement.com/g1/mods/adwlauncher_0.9-ds-070110.zip",
-        ]
-    },
-    {
-        name: "ADW Launcher 0.9",
-        summary: "ADW Launcher (almostNexus mod) 0.9, by Anderwebs: July 1",
-        device: "sapphire",
-        product: "Anderweb's Launcher",
-        incremental: 070110,
-        urls:
-        [
-        "http://droidbasement.com/g1/mods/adwlauncher_0.9-ds-070110.zip",
         ]
     },
 //**************************************

@@ -1,6 +1,7 @@
 2.0.0.8
 PayPal Premium purchase support completed, pending approval by PayPal.
 Detection of broken recovery and user guidance for fixing it.
+Possible fix that may alleviate the frequency of broken recoveries.
 
 2.0.0.3
 German Translations

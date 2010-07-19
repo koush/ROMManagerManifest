@@ -52,7 +52,8 @@
             passion: true,
             dream: true,
             sapphire: true,
-            bravo: true
+            bravo: true,
+            supersonic: true
         }
     },
     {

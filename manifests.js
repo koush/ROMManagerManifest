@@ -29,6 +29,16 @@
         }
     },
     {
+        developer: "Koush",
+        id: "koush",
+        summary: "Random prerelease stuff and goodies",
+        manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/koush.js",
+        roms:
+        {
+            inc: true
+        }
+    },
+    {
         developer: "CyanogenMod",
         id: "jnwhiteh",
         summary: "CyanogenMod for Hero by jnwhiteh",

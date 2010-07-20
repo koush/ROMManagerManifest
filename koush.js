@@ -29,7 +29,7 @@
         [
         {
             name: "Google Apps",
-            file: "common/gapps-passion-EPF30-signed.zip"
+            url: "http://kanged.net/mirror/gapps/gapps-hdpi-FRF91-2-signed.zip"
         }
         ]
     },
@@ -47,7 +47,7 @@
         [
         {
             name: "Google Apps",
-            file: "common/gapps-passion-EPF30-signed.zip"
+            url: "http://kanged.net/mirror/gapps/gapps-hdpi-FRF91-2-signed.zip"
         }
         ]
     }

@@ -140,7 +140,7 @@
     {
         name: "bekit Kernels (0.8.4)",
         developer: true,
-        summary: "Custom Clocked Kernels for CyanogenMod. For Advanced users only.",
+        summary: "Custom Clocked Kernels for CyanogenMod-5. For Advanced users only.",
         device: "sholes",
         urls:
         [
@@ -314,7 +314,7 @@
     {
         name: "P3Droid Kernels",
         developer: true,
-        summary: "Kernels for any rom, using AnyUpdater from Koush by P3Droid. For Advanced users only.",
+        summary: "Kernels for any ECLAIR rom, using AnyUpdater from Koush by P3Droid. For Advanced users only.",
         device: "sholes",
         urls:
         [

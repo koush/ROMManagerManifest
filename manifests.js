@@ -338,7 +338,7 @@
         developer: "Shawe",
         id: "shawe",
         summary: "ROM's for HTC Desire and extras",
-        manifest: "http://content.wuala.com/contents/shawe_ewahs/Publica/Android/ROM%20Manager/manifest.js",
+        manifest: "http://content.wuala.com/contents/shawe_ewahs/Publica/Android/ROM_Manager/manifest.js",
         free: true,
         roms:
         {

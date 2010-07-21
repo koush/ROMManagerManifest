@@ -524,6 +524,7 @@
         id: "meliantq",
         summary: "Rom for your HTC Desire",
         manifest: "http://www.meliantq.net/android/rommanager/aospdesire.js",
+        free: true,
         roms:
         {
             bravo: true

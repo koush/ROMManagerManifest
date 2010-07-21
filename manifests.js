@@ -509,15 +509,25 @@
             passion: true
         }
     },
-	{
-		developer: "GSXRDON",
-		id: "GSXR750",
-		summary: "Themed Roms",
-		manifest: "http://www.froyoroms.com/files/developers/jrummy/JRummy/Other/GSXRDON.js",
-		roms:
-		{
-		   sholes: true
-		}
-	}
+    {
+        developer: "GSXRDON",
+        id: "GSXR750",
+        summary: "Themed Roms",
+        manifest: "http://www.froyoroms.com/files/developers/jrummy/JRummy/Other/GSXRDON.js",
+        roms:
+        {
+            sholes: true
+        }
+    },
+    {
+        developer: "meliantq",
+        id: "meliantq",
+        summary: "Rom for your HTC Desire",
+        manifest: "http://www.meliantq.net/android/rommanager/aospdesire.js",
+        roms:
+        {
+            bravo: true
+        }
+    }
     ]
 }

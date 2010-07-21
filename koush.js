@@ -16,10 +16,10 @@
     [
 
     {
-        name: "CyanogenMod 6.0.0 test4",
+        name: "CyanogenMod 6.0.0 test5",
         summary: "Broken Camera",
         device: "inc",
-        url: "http://koush.tandtgaming.com//test/update-cm-6.0.0-Inc-test4-signed.zip",
+        url: "http://koush.tandtgaming.com//test/update-cm-6.0.0-Inc-test5-signed.zip",
         screenshots:
         [
         "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",

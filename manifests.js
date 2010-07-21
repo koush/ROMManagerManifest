@@ -508,6 +508,16 @@
             sholes: true,
             passion: true
         }
-    }
+    },
+	{
+		developer: "GSXRDON",
+		id: "GSXR750",
+		summary: "Themed Roms",
+		manifest: "http://www.froyoroms.com/files/developers/jrummy/JRummy/Other/GSXRDON.js",
+		roms:
+		{
+		   sholes: true
+		}
+	}
     ]
 }

@@ -204,6 +204,30 @@
         version: "2.5.0.1",
         readonly_recovery: true
     },
+    
+    {
+        init: "init.smdkc110.rc",
+        key: "i9000",
+        name: "Galaxy S i9000",
+        version: "2.5.0.2",
+        readonly_recovery: true
+    },
+    
+    {
+        init: "init.smdkc110.rc",
+        key: "vibrant",
+        name: "Galaxy S Vibrant",
+        version: "2.5.0.2",
+        readonly_recovery: true
+    },
+    
+    {
+        init: "init.smdkc110.rc",
+        key: "captivate",
+        name: "Galaxy S Captivate",
+        version: "2.5.0.2",
+        readonly_recovery: true
+    },
 
     {
         init: "init.milestone.rc",

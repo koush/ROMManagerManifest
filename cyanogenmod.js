@@ -20,7 +20,7 @@
         name: "CyanogenMod 5.0.8 test4",
         summary: "Stable, Camcorder broken",
         device: "inc",
-        url: "http://www.droidaftermarket.com/koush/htc/inc/update-cm-5.0.8-test4-Inc-signed.zip",
+        file: "htc/inc/update-cm-5.0.8-test4-Inc-signed.zip",
         screenshots:
         [
         "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",

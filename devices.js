@@ -207,7 +207,7 @@
     
     {
         init: "init.smdkc110.rc",
-        key: "i9000",
+        key: "galaxys",
         name: "Galaxy S i9000",
         version: "2.5.0.2",
         readonly_recovery: true

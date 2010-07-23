@@ -17,15 +17,14 @@
     roms:
     [
     {
-        name: "CyanogenMod 5.0.8 test3",
-        summary: "Stable",
+        name: "CyanogenMod 5.0.8 test4",
+        summary: "Stable, Camcorder broken",
         device: "inc",
-        url: "http://www.droidaftermarket.com/koush/htc/inc/update-cm-5.0.8-test3-Inc-signed.zip",
-        visible: false,
+        url: "http://www.droidaftermarket.com/koush/htc/inc/update-cm-5.0.8-test4-Inc-signed.zip",
         screenshots:
         [
-        "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot.png",
-        "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot2.png"
+        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
+        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
         ],
         addons:
         [

@@ -43,7 +43,7 @@
         product: "CyanogenMod",
         incremental: 6000,
         modversion: "CyanogenMod-6.0.0-Droid",
-        file: "motorola/shoeles/update-cm-6.0.0-Droid-RC2-signed.zip",
+        file: "motorola/sholes/update-cm-6.0.0-Droid-RC2-signed.zip",
         choices:
         [
         {

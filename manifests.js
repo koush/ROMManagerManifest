@@ -375,7 +375,7 @@
         developer: "OMJ",
         id: "OMJ",
         summary: "OMJ's HTC EVO ROMs",
-        manifest: "http://mobileunderground.info/omj09/ROMManagerManifest/omj.js",
+        manifest: "http://vegasden.net/OMJ/ROMmanifest/omj.js",
         free: true,
         roms:
         {

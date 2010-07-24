@@ -209,7 +209,7 @@
         init: "init.smdkc110.rc",
         key: "galaxys",
         name: "Galaxy S i9000",
-        version: "2.5.0.2",
+        version: "2.5.0.3",
         readonly_recovery: true
     },
     
@@ -217,7 +217,7 @@
         init: "init.smdkc110.rc",
         key: "vibrant",
         name: "Galaxy S Vibrant",
-        version: "2.5.0.2",
+        version: "2.5.0.3",
         readonly_recovery: true
     },
     
@@ -225,7 +225,7 @@
         init: "init.smdkc110.rc",
         key: "captivate",
         name: "Galaxy S Captivate",
-        version: "2.5.0.2",
+        version: "2.5.0.3",
         readonly_recovery: true
     },
 

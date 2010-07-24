@@ -37,6 +37,44 @@
 
     // =====Motorola Droid=====
     {
+        name: "CyanogenMod 6.0.0-RC2",
+        summary: "Stable",
+        device: "sholes",
+        product: "CyanogenMod",
+        incremental: 6000,
+        modversion: "CyanogenMod-6.0.0-Droid",
+        file: "motorola/shoeles/update-cm-6.0.0-Droid-RC2-signed.zip",
+        choices:
+        [
+        {
+            name: "Home Application",
+            options:
+            [
+            {
+                name: "ADWLauncher",
+                url: ""
+            },
+            {
+                name: "Launcher2",
+                file: "common/Launcher2-CM6-v1.zip"
+            }
+            ]
+        }
+        ],
+        screenshots:
+        [
+        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
+        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://kanged.net/mirror/gapps/gapps-hdpi-FRF91-2-signed.zip"
+        }
+        ]
+    },
+    {
         name: "CyanogenMod 6.0.0-RC1",
         summary: "Stable",
         device: "sholes",

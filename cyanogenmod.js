@@ -40,10 +40,10 @@
         name: "CyanogenMod 6.0.0-RC2",
         summary: "Stable",
         device: "sholes",
-        product: "CyanogenMod",
-        incremental: 6000,
-        modversion: "CyanogenMod-6.0.0-Droid",
-        file: "motorola/sholes/update-cm-6.0.0-Droid-RC2-signed.zip",
+        product: "CyanogenModRC",
+        incremental: 2,
+        modversion: "CyanogenMod-6.0.0-Droid-RC2",
+
         choices:
         [
         {
@@ -78,9 +78,9 @@
         name: "CyanogenMod 6.0.0-RC1",
         summary: "Stable",
         device: "sholes",
-        product: "CyanogenMod",
-        incremental: 6000,
-        modversion: "CyanogenMod-6.0.0-Droid",
+        product: "CyanogenModRC",
+        incremental: 1,
+        modversion: "CyanogenMod-6.0.0-Droid-RC1",
         urls:
         [
         "http://bit.ly/9L5ULx",

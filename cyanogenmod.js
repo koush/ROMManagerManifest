@@ -854,6 +854,27 @@
 
     // ===== Bravo =====
     {
+        name: "CyanogenMod 6.0.0-RC1",
+        summary: "Stable",
+        device: "bravo",
+        product: "CyanogenModRC",
+        incremental: 2,
+        modversion: "CyanogenMod-6.0.0-Bravo-RC2",
+        file: "htc/bravo/update-cm-6.0.0-bravo-RC2-signed.zip",
+        screenshots:
+        [
+        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
+        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://kanged.net/mirror/gapps/gapps-hdpi-FRF91-2-signed.zip"
+        }
+        ]
+    },
+    {
         name: "CyanogenMod 5.0.8 test 7",
         summary: "Experimental",
         device: "bravo",

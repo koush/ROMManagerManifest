@@ -434,6 +434,28 @@
         visible: false
     },
 
+    // =====HTC Supersonic (EVO 4G)====
+    {
+        name: "CyanogenMod 6.0.0-RC1",
+        summary: "Release Candidate 1",
+        device: "supersonic",
+        product: "CyanogenMod",
+        incremental: 6000,
+        modversion: "CyanogenMod-6.0.0-Supersonic-RC1",
+        urls:
+        [
+        "http://mirror.kanged.net/cm/stable/supersonic/testing/update-cm-6.0.0-Supersonic-RC1-signed.zip"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            urls:
+            ["http://www.kanged.net/mirror/download.php?file=gapps-hdpi-FRF91-signed.zip"]
+        }
+        ]
+    },
+
     // =====Google Nexus One====
     {
         name: "CyanogenMod 6.0.0-RC1",
@@ -455,6 +477,27 @@
         }
         ]
     },
+    {
+        name: "CyanogenMod 6.0.0-RC2",
+        summary: "Release Candidate 2",
+        device: "passion",
+        product: "CyanogenMod",
+        incremental: 6000,
+        modversion: "CyanogenMod-6.0.0-N1-RC2",
+        urls:
+        [
+        "http://mirror.kanged.net/cm/stable/nexus/testing/update-cm-6.0.0-N1-RC2-signed.zip"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            urls:
+            ["http://www.kanged.net/mirror/download.php?file=gapps-hdpi-FRF91-signed.zip"]
+        }
+        ]
+    },
+
     {
         name: "CyanogenMod 5.0.8",
         summary: "Stable",
@@ -511,6 +554,26 @@
     },
 
     // =====G1=====
+    {
+        name: "CyanogenMod 6.0.0-RC2",
+        summary: "Release Candidate 2",
+        device: "dream",
+        product: "CyanogenMod",
+        incremental: 6000,
+        modversion: "CyanogenMod-6.0.0-DS-RC2",
+        urls:
+        [
+        "http://mirror.kanged.net/cm/stable/testing/update-cm-6.0.0-DS-RC2-signed.zip"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            urls:
+            ["http://www.kanged.net/mirror/download.php?file=gapps-mdpi-FRF91-3-signed.zip"]
+        }
+        ]
+    },
     {
         name: "CyanogenMod 6.0.0-RC1",
         summary: "Release Candidate 1",
@@ -673,6 +736,26 @@
     },
 
     // =====32B=====
+    {
+        name: "CyanogenMod 6.0.0-RC2",
+        summary: "Release Candidate 2",
+        device: "sapphire",
+        product: "CyanogenMod",
+        incremental: 6000,
+        modversion: "CyanogenMod-6.0.0-DS-RC2",
+        urls:
+        [
+        "http://mirror.kanged.net/cm/stable/testing/update-cm-6.0.0-DS-RC2-signed.zip"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            urls:
+            ["http://www.kanged.net/mirror/download.php?file=gapps-mdpi-FRF91-3-signed.zip"]
+        }
+        ]
+    },
     {
         name: "CyanogenMod 6.0.0-RC1",
         summary: "Release Candidate 1",

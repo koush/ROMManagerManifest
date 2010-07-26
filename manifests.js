@@ -529,6 +529,16 @@
         {
             bravo: true
         }
-    }
+    },
+    { 
+        developer: "Ihtfp69",  
+        id: "ihtfp69", 
+        summary: "Mods and bacon for the Droid Incredible", 
+        manifest: "http://pckjock/SkyRaider/manifest/skyraider.js", 
+        roms: 
+        { 
+            inc: true,
+        } 
+    } 
     ]
 }

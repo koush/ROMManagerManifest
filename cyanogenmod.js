@@ -643,6 +643,35 @@
 
     // =====32A=====
     {
+        name: "CyanogenMod 6.0.0-RC2",
+        summary: "Release Candidate 1",
+        device: "magic",
+        product: "CyanogenMod",
+        incremental: 6000,
+        modversion: "CyanogenMod-6.0.0-DS-RC2",
+        extendedurls:
+        [
+        {
+            name: "CyanogenMod 6",
+            url: "http://www.kanged.net/mirror/download.php?file=update-cm-6.0.0-DS-RC2-signed.zip"
+        },
+        {
+            name: "EB1/32A Kernel",
+            url: "http://briancrook.ca/android/cm-ports/bc-6.0.0-RC2-ebi1-signed.zip"
+        }
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            urls:
+            [
+			"http://www.kanged.net/mirror/download.php?file=gapps-mdpi-FRF91-3-signed.zip"
+			]
+        }
+        ]
+    },
+    {
         name: "CyanogenMod 6.0.0-RC1",
         summary: "Release Candidate 1",
         device: "magic",

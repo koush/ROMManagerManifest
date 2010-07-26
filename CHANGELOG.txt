@@ -1,3 +1,15 @@
+2.0.1.5
+Fix Swedish Translations.
+
+2.0.1.4
+Fix a minor bug in retrieving a license.
+
+2.0.1.3
+Swedish Translations.
+
+2.0.1.2
+PayPal integration now supported and approved.
+
 2.0.0.8
 PayPal Premium purchase support completed, pending approval by PayPal.
 Detection of broken recovery and user guidance for fixing it.

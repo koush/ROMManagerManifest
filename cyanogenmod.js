@@ -644,7 +644,7 @@
     // =====32A=====
     {
         name: "CyanogenMod 6.0.0-RC2",
-        summary: "Release Candidate 1",
+        summary: "Release Candidate 2",
         device: "magic",
         product: "CyanogenMod",
         incremental: 6000,

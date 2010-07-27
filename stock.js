@@ -3,7 +3,7 @@
 
     mirrors:
     [
-    "http://droidk.macleodweb.net/",
+    "http://droidk.macleod-web.net/",
     "http://android.antbox.org/koush/",
     "http://www.thekilpatrickproject.com/downloads/koush/",
     "http://www.clockworkmod.com/download/",
@@ -20,7 +20,7 @@
         urls:
         [
         "http://www.droidaftermarket.com/koush//motorola/sholes/froyodroid.zip",
-        "http://droidk.macleodweb.net//motorola/sholes/froyodroid.zip",
+        "http://droidk.macleod-web.net//motorola/sholes/froyodroid.zip",
         "http://android.antbox.org/koush//motorola/sholes/froyodroid.zip",
         "http://www.thekilpatrickproject.com/downloads/koush//motorola/sholes/froyodroid.zip",
         "http://www.clockworkmod.com/download//motorola/sholes/froyodroid.zip",
@@ -35,7 +35,7 @@
         urls:
         [
         "http://www.droidaftermarket.com/koush//motorola/sholes/p3droid-baseband-update.zip",
-        "http://droidk.macleodweb.net//motorola/sholes/p3droid-baseband-update.zip",
+        "http://droidk.macleod-web.net//motorola/sholes/p3droid-baseband-update.zip",
         "http://android.antbox.org/koush//motorola/sholes/p3droid-baseband-update.zip",
         "http://www.thekilpatrickproject.com/downloads/koush//motorola/sholes/p3droid-baseband-update.zip",
         "http://www.clockworkmod.com/download//motorola/sholes/p3droid-baseband-update.zip",
@@ -50,7 +50,7 @@
         urls:
         [
         "http://www.droidaftermarket.com/koush//motorola/sholes/before-p3droid-baseband-update.zip",
-        "http://droidk.macleodweb.net//motorola/sholes/before-p3droid-baseband-update.zip",
+        "http://droidk.macleod-web.net//motorola/sholes/before-p3droid-baseband-update.zip",
         "http://android.antbox.org/koush//motorola/sholes/before-p3droid-baseband-update.zip",
         "http://www.thekilpatrickproject.com/downloads/koush//motorola/sholes/before-p3droid-baseband-update.zip",
         "http://www.clockworkmod.com/download//motorola/sholes/before-p3droid-baseband-update.zip",

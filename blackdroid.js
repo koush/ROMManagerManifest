@@ -11,7 +11,7 @@
         urls:
         [
         "http://www.droidaftermarket.com/koush//motorola/sholes/udfroyobeta_update.zip",
-        "http://droidk.macleodweb.net//motorola/sholes/udfroyobeta_update.zip",
+        "http://droidk.macleod-web.net//motorola/sholes/udfroyobeta_update.zip",
         "http://android.antbox.org/koush//motorola/sholes/udfroyobeta_update.zip",
         "http://www.thekilpatrickproject.com/downloads/koush//motorola/sholes/udfroyobeta_update.zip"
         ]
@@ -27,7 +27,7 @@
         urls:
         [
         "http://www.droidaftermarket.com/koush//motorola/sholes/udnewera15.zip",
-        "http://droidk.macleodweb.net//motorola/sholes/udnewera15.zip",
+        "http://droidk.macleod-web.net//motorola/sholes/udnewera15.zip",
         "http://android.antbox.org/koush//motorola/sholes/udnewera15.zip",
         "http://www.thekilpatrickproject.com/downloads/koush//motorola/sholes/udnewera15.zip",
         "http://www.clockworkmod.com/download//motorola/sholes/udnewera15.zip",

@@ -3,7 +3,7 @@
     version: 1,
     mirrors:
     [
-    "http://droidk.macleodweb.net/",
+    "http://droidk.macleod-web.net/",
     "http://android.antbox.org/koush/",
     "http://www.thekilpatrickproject.com/downloads/koush/",
     "http://www.clockworkmod.com/download/",

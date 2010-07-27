@@ -5,7 +5,7 @@
     donate: "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3283920",
     mirrors:
     [
-    "http://droidk.macleodweb.net/",
+    "http://droidk.macleod-web.net/",
     "http://android.antbox.org/koush/",
     "http://www.thekilpatrickproject.com/downloads/koush/",
     "http://www.clockworkmod.com/download/",
@@ -897,7 +897,7 @@
             urls:
             [
             "http://www.droidaftermarket.com/koush//common/gapps-EPE54B-signed.zip",
-            "http://droidk.macleodweb.net//common/gapps-EPE54B-signed.zip",
+            "http://droidk.macleod-web.net//common/gapps-EPE54B-signed.zip",
             "http://android.antbox.org/koush//common/gapps-EPE54B-signed.zip",
             "http://www.thekilpatrickproject.com/downloads/koush//common/gapps-EPE54B-signed.zip",
             "http://www.clockworkmod.com/download//common/gapps-EPE54B-signed.zip",

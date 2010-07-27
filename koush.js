@@ -17,7 +17,7 @@
 
     {
         name: "CyanogenMod 6.0.0 test8",
-        summary: "Broken Camera",
+        summary: "Broken Camcorder",
         device: "inc",
         url: "http://koush.tandtgaming.com//htc/inc/update-cm-6.0.0-Inc-test8-signed.zip",
         screenshots:

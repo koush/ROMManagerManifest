@@ -860,7 +860,7 @@
         product: "CyanogenModRC",
         incremental: 2,
         modversion: "CyanogenMod-6.0.0-Bravo-RC1",
-        file: "htc/bravo/update-cm-6.0.0-bravo-RC1-signed.zip",
+        file: "htc/bravo/update-cm-6.0.0-Desire-RC1-signed.zip",
         screenshots:
         [
         "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",

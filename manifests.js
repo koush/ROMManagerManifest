@@ -538,7 +538,7 @@
         free: true,
         roms: 
         { 
-            inc: true,
+            inc: true
         } 
     } 
     ]

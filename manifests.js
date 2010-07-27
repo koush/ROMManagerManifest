@@ -80,7 +80,7 @@
     {
         developer: "Bugless Beast",
         id: "pete",
-        summary: "(Under construction, hosting temporarily unavailable)",
+        summary: "Bugless Beast ROMs by Pete (@peteralfonso)",
         manifest: "http://androidoverdrive.com/pete/ESE53/App/pete.js",
         free: true,
         roms:

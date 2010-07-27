@@ -653,7 +653,7 @@
         [
         {
             name: "CyanogenMod 6",
-            url: "http://www.kanged.net/mirror/download.php?file=update-cm-6.0.0-DS-RC2-signed.zip"
+            url: "http://mirror.kanged.net/cm/stable/testing/update-cm-6.0.0-DS-RC2-signed.zip"
         },
         {
             name: "EB1/32A Kernel",

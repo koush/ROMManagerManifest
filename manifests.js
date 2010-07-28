@@ -560,7 +560,7 @@
         free: true,
         roms:
         {
-            eris: true
+            desirec: true
         }
     }
     ]

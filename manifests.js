@@ -551,6 +551,17 @@
         { 
             inc: true
         } 
+    },
+    {
+        developer: "Jamezelle",
+        id: "jamezelle",
+        summary: "ROMS for the Droid Eris!",
+        manifest: "http://github.com/jamezelle/ROM-Manager-Manifest/raw/master/jamezelle.js",
+        free: true,
+        roms:
+        {
+            eris: true
+        }
     }
     ]
 }

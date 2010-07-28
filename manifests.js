@@ -29,7 +29,7 @@
         }
     },
     {
-        developer: "CyanogenMod",
+        developer: "CyanogenMod EBI1",
         id: "cyanogenmod",
         summary: "Mods and bacon for EBI1 devices",
         free: true,

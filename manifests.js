@@ -549,7 +549,7 @@
         free: true,
         roms: 
         { 
-            passion: true
+            magic: true
         } 
     }  
     ]

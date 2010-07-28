@@ -540,6 +540,17 @@
         { 
             inc: true
         } 
-    } 
+    },
+    { 
+        developer: "bcrook-test",  
+        id: "bcrook", 
+        summary: "test", 
+        manifest: "http://briancrook.ca/RM.php", 
+        free: true,
+        roms: 
+        { 
+            nexus: true
+        } 
+    }  
     ]
 }

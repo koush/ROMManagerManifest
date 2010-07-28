@@ -549,7 +549,7 @@
         free: true,
         roms: 
         { 
-            nexus: true
+            passion: true
         } 
     }  
     ]

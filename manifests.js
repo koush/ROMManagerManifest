@@ -29,6 +29,17 @@
         }
     },
     {
+        developer: "CyanogenMod",
+        id: "cyanogenmod",
+        summary: "Mods and bacon for EBI1 devices",
+        free: true,
+        manifest: "http://briancrook.ca/RM.php",
+        roms:
+        {
+            magic: true
+        }
+    },
+    {
         developer: "Koush",
         id: "koush",
         summary: "Random prerelease stuff and goodies",

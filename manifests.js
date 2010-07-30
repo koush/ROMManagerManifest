@@ -62,7 +62,7 @@
     },
     {
         developer: "CyanogenMod Nightlies",
-        id: "CyanogenModNightly",
+        id: "cyanogenmodnightly",
         summary: "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds.",
         manifest: "http://buildbot.teamdouche.net/nightly/manifest.js",
         roms:

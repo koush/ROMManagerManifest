@@ -552,6 +552,16 @@
             inc: true
         }
     },
+	{
+		developer: "NeoPhyTe",
+		id: "the_neophyte",
+		summary: "Modded ROM's HTC Desire",
+		manifest: "http://content.wuala.com/contents/NeoPhyTe.x360/Publica/Android/ROM_Manager/manifest.js",
+		roms:
+		{
+		    bravo: true
+		}
+	},
     {
         developer: "Jamezelle",
         id: "jamezelle",

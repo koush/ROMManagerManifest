@@ -230,6 +230,13 @@
     },
 
     {
+        init: "init.qcom.rc",
+        key: "pulse",
+        name: "Huawei Pulse",
+        version: "2.5.0.4"
+    },
+
+    {
         init: "init.milestone.rc",
         key: "milestone",
         name: "Motorola Milestone",

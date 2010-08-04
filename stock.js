@@ -17,7 +17,7 @@
         summary: "Stable, stock, odexed, unrooted/rooted choice",
         device: "sholes",
         product: "stock",
-        file: "motorola/sholes/FRG01BODEXEDOTA.zip",
+        file: "motorola/sholes/FRG01B.zip",
         addons:
         [
         {

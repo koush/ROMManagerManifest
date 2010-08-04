@@ -14,10 +14,16 @@
     [
     {
         name: "Verizon Droid 2.2 FRG01B",
-        summary: "Stable, stock, odexed, unrooted",
+        summary: "Stable, stock, odexed, unrooted/rooted choice",
         device: "sholes",
         product: "stock",
-        file: "motorola/sholes/FRG01BODEXEDOTA.zip"
+        file: "motorola/sholes/FRG01BODEXEDOTA.zip",
+        addons:
+        [
+        {
+            name: "Superuser 2.2",
+            file: "recoveries/su-2.2-ef-signed.zip"
+        }
     },
     {
         name: "C_01.43.01P Baseband",

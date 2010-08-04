@@ -13,19 +13,11 @@
     roms:
     [
     {
-        name: "Verizon Droid 2.2 Froyo Leak",
-        summary: "Experimental, Rooted, FRF57",
+        name: "Verizon Droid 2.2 FRG01B",
+        summary: "Stable, stock, odexed, unrooted",
         device: "sholes",
         product: "stock",
-        urls:
-        [
-        "http://www.droidaftermarket.com/koush//motorola/sholes/froyodroid.zip",
-        "http://droidk.macleod-web.net//motorola/sholes/froyodroid.zip",
-        "http://android.antbox.org/koush//motorola/sholes/froyodroid.zip",
-        "http://www.thekilpatrickproject.com/downloads/koush//motorola/sholes/froyodroid.zip",
-        "http://www.clockworkmod.com/download//motorola/sholes/froyodroid.zip",
-        "http://koush.tandtgaming.com//motorola/sholes/froyodroid.zip"
-        ]
+        file: "motorola/sholes/FRG01BODEXEDOTA.zip"
     },
     {
         name: "C_01.43.01P Baseband",

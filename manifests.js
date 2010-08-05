@@ -573,6 +573,16 @@
         {
             desirec: true
         }
-    }
+    },
+	{
+	    developer: "Pinkolin - Pinky Desire",
+	    id: "pinkolin",
+	    summary: "Pinkolin ROM's and extras for HTC Desire",
+	    manifest: "http://pinky.netlab.cz/ftp/roms/manifest.js",
+	    roms:
+	    {
+	        bravo: true
+	    }
+	}
     ]
 }

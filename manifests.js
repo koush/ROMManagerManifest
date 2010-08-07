@@ -584,6 +584,17 @@
         {
             bravo: true
         }
+    },
+    {
+        developer: "JagerRom",
+        id: "CaptJager",
+        summary: "Senseless deodexed Rom for Droid Incredible with couple of twists",
+        manifest: "http://www.igotjaked.com/jagerrom.js",
+        free: true,
+        roms:
+        {
+            incredible: true
+        }
     }
     ]
 }

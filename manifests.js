@@ -575,6 +575,17 @@
         }
     },
     {
+        developer: "Pinkolin - Pinky Desire",
+        id: "pinkolin",
+        summary: "Pinkolin ROM's and extras for HTC Desire",
+        manifest: "http://pinky.netlab.cz/ftp/roms/manifest.js",
+        free: true,
+        roms:
+        {
+            bravo: true
+        }
+    },
+    {
         developer: "JagerRom",
         id: "CaptJager",
         summary: "Senseless deodexed Rom for Droid Incredible with couple of twists",

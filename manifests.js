@@ -582,7 +582,7 @@
         free: true,
         roms:
         {
-            incredible: true
+            inc: true
         }
     }
     ]

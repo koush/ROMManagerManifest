@@ -154,7 +154,8 @@
         developer: "bgill55",
         id: "bgill55",
         summary: "Additional themes and updates for Sapphire.",
-        manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/bgill55.js",
+        manifest: "http://www.jbthemes.com/bgill55/bgill55.js",
+        free: true,
         roms:
         {
             sholes: true

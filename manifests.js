@@ -151,9 +151,9 @@
         }
     },
     {
-        developer: "Team Chaos",
-        id: "Team Chaos",
-        summary: "Roms, Themes and extra goodies",
+        developer: "bgill55",
+        id: "bgill55",
+        summary: "Additional themes and updates for Sapphire.",
         manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/bgill55.js",
         roms:
         {

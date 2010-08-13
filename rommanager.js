@@ -25,7 +25,7 @@ RomManager.all = function() {
 
 RomManager.ShowFile = function(element) {
 	$.ajax({
-		url: "http://kiha.github.com/environments.js",
+		url: "devices2.js",
 		type: "GET",
 		dataType: "json",
 		success: function(msg) {

@@ -70,7 +70,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://kanged.net/mirror/gapps/gapps-hdpi-FRF91-2-signed.zip"
+            url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100814-signed.zip"
         }
         ]
     },
@@ -115,7 +115,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://kanged.net/mirror/gapps/gapps-hdpi-FRF91-2-signed.zip"
+            url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100814-signed.zip"
         }
         ]
     },
@@ -451,7 +451,7 @@
         {
             name: "Google Apps",
             urls:
-            ["http://www.kanged.net/mirror/download.php?file=gapps-hdpi-FRF91-signed.zip"]
+            ["http://mirror.kanged.net/gapps/gapps-hdpi-20100814-signed.zip"]
         }
         ]
     },
@@ -473,7 +473,7 @@
         {
             name: "Google Apps",
             urls:
-            ["http://www.kanged.net/mirror/download.php?file=gapps-hdpi-FRF91-signed.zip"]
+            ["http://mirror.kanged.net/gapps/gapps-hdpi-20100814-signed.zip"]
         }
         ]
     },
@@ -493,7 +493,7 @@
         {
             name: "Google Apps",
             urls:
-            ["http://www.kanged.net/mirror/download.php?file=gapps-hdpi-FRF91-signed.zip"]
+            ["http://mirror.kanged.net/gapps/gapps-hdpi-20100814-signed.zip"]
         }
         ]
     },
@@ -870,7 +870,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://kanged.net/mirror/gapps/gapps-hdpi-FRF91-2-signed.zip"
+            url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100814-signed.zip"
         }
         ]
     },
@@ -913,19 +913,19 @@
         name: "Google Apps (Froyo)",
         summary: "Google Add-On",
         device: "passion",
-        url: "http://kanged.net/mirror/gapps/gapps-hdpi-FRF91-2-signed.zip"
+        url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100814-signed.zip"
     },
     {
         name: "Google Apps (Froyo)",
         summary: "Google Add-On",
         device: "sholes",
-        url: "http://kanged.net/mirror/gapps/gapps-hdpi-FRF91-2-signed.zip"
+        url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100814-signed.zip"
     },
     {
         name: "Google Apps (Froyo)",
         summary: "Google Add-On",
         device: "inc",
-        url: "http://kanged.net/mirror/gapps/gapps-hdpi-FRF91-2-signed.zip"
+        url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100814-signed.zip"
     },
 
     {

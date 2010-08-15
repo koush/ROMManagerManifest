@@ -1,3 +1,9 @@
+2.0.1.8
+Add device id and fix NPE when using check for updates.
+
+2.0.1.7
+Save recovery and paypal state on SD card.
+
 2.0.1.5
 Fix Swedish Translations.
 

@@ -376,16 +376,12 @@
         product: "CyanogenMod",
         incremental: 6000,
         modversion: "CyanogenMod-6.0.0-Supersonic-RC2",
-        urls:
-        [
-        "http://mirror.kanged.net/cm/stable/supersonic/testing/update-cm-6.0.0-Supersonic-RC2-signed.zip"
-        ],
+        url: "http://mirror.kanged.net/cm/stable/supersonic/testing/update-cm-6.0.0-Supersonic-RC2-signed.zip",
         addons:
         [
         {
             name: "Google Apps",
-            urls:
-            ["http://mirror.kanged.net/gapps/gapps-hdpi-20100814-signed.zip"]
+            url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100814-signed.zip"
         }
         ]
     },
@@ -398,16 +394,12 @@
         product: "CyanogenMod",
         incremental: 6000,
         modversion: "CyanogenMod-6.0.0-N1-RC3",
-        urls:
-        [
-        "http://mirror.kanged.net/cm/stable/nexus/testing/update-cm-6.0.0-N1-RC3-signed.zip"
-        ],
+        url: "http://mirror.kanged.net/cm/stable/nexus/testing/update-cm-6.0.0-N1-RC3-signed.zip",
         addons:
         [
         {
             name: "Google Apps",
-            urls:
-            ["http://mirror.kanged.net/gapps/gapps-hdpi-20100814-signed.zip"]
+            url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100814-signed.zip"
         }
         ]
     },
@@ -418,16 +410,12 @@
         product: "CyanogenMod",
         incremental: 6000,
         modversion: "CyanogenMod-6.0.0-N1-RC2",
-        urls:
-        [
-        "http://mirror.kanged.net/cm/stable/nexus/testing/update-cm-6.0.0-N1-RC2-signed.zip"
-        ],
+        url: "http://mirror.kanged.net/cm/stable/nexus/testing/update-cm-6.0.0-N1-RC2-signed.zip",
         addons:
         [
         {
             name: "Google Apps",
-            urls:
-            ["http://mirror.kanged.net/gapps/gapps-hdpi-20100814-signed.zip"]
+            url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100814-signed.zip"
         }
         ]
     },
@@ -449,10 +437,7 @@
         [
         {
             name: "Google Apps",
-            urls:
-            [
-            "http://briancrook.ca/android/nexus/gapps/gapps-passion-EPF30-signed.zip"
-            ]
+            url: "http://briancrook.ca/android/nexus/gapps/gapps-passion-EPF30-signed.zip"
         }
         ]
     },
@@ -473,8 +458,7 @@
         [
         {
             name: "Google Apps",
-            urls:
-            ["http://mirror.kanged.net/gapps/gapps-mdpi-tiny-20100814-signed.zip"]
+            url: "http://mirror.kanged.net/gapps/gapps-mdpi-tiny-20100814-signed.zip"
         }
         ]
     },
@@ -486,16 +470,12 @@
         product: "CyanogenMod",
         incremental: 6000,
         modversion: "CyanogenMod-6.0.0-DS-RC2",
-        urls:
-        [
-        "http://mirror.kanged.net/cm/stable/testing/update-cm-6.0.0-DS-RC2-signed.zip"
-        ],
+        url: "http://mirror.kanged.net/cm/stable/testing/update-cm-6.0.0-DS-RC2-signed.zip",
         addons:
         [
         {
             name: "Google Apps",
-            urls:
-            ["http://mirror.kanged.net/gapps/gapps-mdpi-tiny-20100814-signed.zip"]
+            url: "http://mirror.kanged.net/gapps/gapps-mdpi-tiny-20100814-signed.zip"
         }
         ]
     },
@@ -522,99 +502,6 @@
         ]
     },
 
-    // =====32A=====
-    {
-        name: "CyanogenMod 6.0.0-RC3",
-        summary: "Release Candidate 3",
-        device: "magic",
-        product: "CyanogenMod",
-        incremental: 6000,
-        modversion: "CyanogenMod-6.0.0-DS-RC3",
-        extendedurls:
-        [
-        {
-            name: "CyanogenMod 6",
-            url: "http://mirror.kanged.net/cm/stable/testing/update-cm-6.0.0-DS-RC3-signed.zip"
-        },
-        {
-            name: "EB1/32A Kernel",
-            url: "http://briancrook.ca/android/cm-ports/bc-6.0.0-RC2-ebi1-signed.zip"
-        }
-        ],
-        addons:
-        [
-        {
-            name: "Google Apps",
-            urls:
-            [
-            "http://mirror.kanged.net/gapps/gapps-mdpi-tiny-20100814-signed.zip"
-            ]
-        }
-        ]
-    },
-
-    {
-        name: "CyanogenMod 6.0.0-RC2",
-        summary: "Release Candidate 2",
-        device: "magic",
-        product: "CyanogenMod",
-        incremental: 6000,
-        modversion: "CyanogenMod-6.0.0-DS-RC2",
-        extendedurls:
-        [
-        {
-            name: "CyanogenMod 6",
-            url: "http://mirror.kanged.net/cm/stable/testing/update-cm-6.0.0-DS-RC2-signed.zip"
-        },
-        {
-            name: "EB1/32A Kernel",
-            url: "http://briancrook.ca/android/cm-ports/bc-6.0.0-RC2-ebi1-signed.zip"
-        }
-        ],
-        addons:
-        [
-        {
-            name: "Google Apps",
-            urls:
-            [
-            "http://mirror.kanged.net/gapps/gapps-mdpi-tiny-20100814-signed.zip"
-            ]
-        }
-        ]
-    },
-
-    {
-        name: "CyanogenMod 5.0.8",
-        summary: "Stable, Flashing Recovery may be broken",
-        device: "magic",
-        product: "CyanogenMod",
-        incremental: 5080,
-        modversion: "CyanogenMod-5.0.8-DS",
-        screenshots:
-        [
-        "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot.png",
-        "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot2.png"
-        ],
-        extendedurls:
-        [
-        {
-            name: "CyanogenMod 5.0.8",
-            url: "http://n0rp.chemlab.org/android/update-cm-5.0.8-DS-signed.zip"
-        },
-        {
-            name: "EB1/32A Kernel",
-            url: "http://briancrook.ca/android/cm-ports/bc-5.0.8-ebi1-signed.zip"
-        }
-        ],
-        addons:
-        [
-        {
-            name: "Google Apps",
-            file: "/common/gapps-ds-ERE36B-signed.zip"
-        }
-        ]
-    },
-
     // =====32B=====
     {
         name: "CyanogenMod 6.0.0-RC3",
@@ -623,16 +510,12 @@
         product: "CyanogenMod",
         incremental: 6000,
         modversion: "CyanogenMod-6.0.0-DS-RC3",
-        urls:
-        [
-        "http://mirror.kanged.net/cm/stable/testing/update-cm-6.0.0-DS-RC3-signed.zip"
-        ],
+        url: "http://mirror.kanged.net/cm/stable/testing/update-cm-6.0.0-DS-RC3-signed.zip",
         addons:
         [
         {
             name: "Google Apps",
-            urls:
-            ["http://mirror.kanged.net/gapps/gapps-mdpi-tiny-20100814-signed.zip"]
+            url: "http://mirror.kanged.net/gapps/gapps-mdpi-tiny-20100814-signed.zip"
         }
         ]
     },
@@ -644,16 +527,12 @@
         product: "CyanogenMod",
         incremental: 6000,
         modversion: "CyanogenMod-6.0.0-DS-RC2",
-        urls:
-        [
-        "http://mirror.kanged.net/cm/stable/testing/update-cm-6.0.0-DS-RC2-signed.zip"
-        ],
+        url: "http://mirror.kanged.net/cm/stable/testing/update-cm-6.0.0-DS-RC2-signed.zip",
         addons:
         [
         {
             name: "Google Apps",
-            urls:
-            ["http://www.kanged.net/mirror/download.php?file=gapps-mdpi-FRF91-3-signed.zip"]
+            url: "http://www.kanged.net/mirror/download.php?file=gapps-mdpi-FRF91-3-signed.zip"
         }
         ]
     },
@@ -688,10 +567,7 @@
         product: "CyanogenMod",
         incremental: 2,
         modversion: "CyanogenMod-6.0.0-Bravo-RC2",
-	urls:
-	[
-	"http://mirror.jeago.com/bravo/testing/update-cm-6.0.0-Desire-RC2-signed.zip"
-	],
+        url: "http://mirror.jeago.com/bravo/testing/update-cm-6.0.0-Desire-RC2-signed.zip",
         screenshots:
         [
         "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
@@ -714,16 +590,12 @@
         product: "CyanogenMod",
         incremental: 6000,
         modversion: "CyanogenMod-6.0.0-Slide-RC1",
-        urls:
-        [
-        "http://mirror.kanged.net/cm/stable/espresso/testing/update-cm-6.0.0-Slide-RC1-signed.zip"
-        ],
+        url: "http://mirror.kanged.net/cm/stable/espresso/testing/update-cm-6.0.0-Slide-RC1-signed.zip",
         addons:
         [
         {
             name: "Google Apps",
-            urls:
-            ["http://mirror.kanged.net/gapps/gapps-mdpi-20100814-signed.zip"]
+            url: "http://mirror.kanged.net/gapps/gapps-mdpi-20100814-signed.zip"
         }
         ]
     },
@@ -736,16 +608,12 @@
         product: "CyanogenMod",
         incremental: 6000,
         modversion: "CyanogenMod-6.0.0-Heroc-RC1",
-        urls:
-        [
-        "http://darchroms.pocketdevelopers.com/cm/update-cm-6.0.0-Heroc-RC1-signed.zip"
-        ],
+        url: "http://darchroms.pocketdevelopers.com/cm/update-cm-6.0.0-Heroc-RC1-signed.zip",
         addons:
         [
         {
             name: "Google Apps",
-            urls:
-            ["http://mirror.kanged.net/gapps/gapps-mdpi-20100814-signed.zip"]
+            url: "http://mirror.kanged.net/gapps/gapps-mdpi-20100814-signed.zip"
         }
         ]
     },

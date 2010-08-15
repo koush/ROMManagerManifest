@@ -907,6 +907,28 @@
         ]
     },
 
+    // ===== T-Mobile MyTouch Slide (espresso) ====
+    {
+        name: "CyanogenMod 6.0.0-RC1",
+        summary: "Release Candidate 1",
+        device: "espresso",
+        product: "CyanogenMod",
+        incremental: 6000,
+        modversion: "CyanogenMod-6.0.0-Slide-RC1",
+        urls:
+        [
+        "http://mirror.kanged.net/cm/stable/espresso/testing/update-cm-6.0.0-Slide-RC1-signed.zip"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            urls:
+            ["http://mirror.kanged.net/gapps/gapps-mdpi-20100814-signed.zip"]
+        }
+        ]
+    },
+
 
     // ==== Google Apps ====
     {

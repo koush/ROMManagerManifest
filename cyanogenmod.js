@@ -682,13 +682,16 @@
 
     // ===== Bravo =====
     {
-        name: "CyanogenMod 6.0.0-RC1",
-        summary: "Stable",
+        name: "CyanogenMod 6.0.0-RC2",
+        summary: "Release Candidate 2",
         device: "bravo",
-        product: "CyanogenModRC",
+        product: "CyanogenMod",
         incremental: 2,
-        modversion: "CyanogenMod-6.0.0-Bravo-RC1",
-        file: "htc/bravo/update-cm-6.0.0-Desire-RC1-signed.zip",
+        modversion: "CyanogenMod-6.0.0-Bravo-RC2",
+	urls:
+	[
+	"http://mirror.jeago.com/bravo/testing/update-cm-6.0.0-Desire-RC2-signed.zip"
+	],
         screenshots:
         [
         "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",

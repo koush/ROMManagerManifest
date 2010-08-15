@@ -37,7 +37,7 @@
         }
         ]
     },
-    
+
     // =====Motorola Droid=====
     {
         name: "CyanogenMod 6.0.0-RC3",
@@ -84,36 +84,7 @@
         product: "CyanogenModRC",
         incremental: 2,
         modversion: "CyanogenMod-6.0.0-Droid-RC2",
-        file: "motorola/sholes/update-cm-6.0.0-Droid-RC2-signed.zip",
-        choices:
-        [
-        {
-            name: "Home Application",
-            options:
-            [
-            {
-                name: "ADWLauncher",
-                url: ""
-            },
-            {
-                name: "Launcher2",
-                file: "common/Launcher2-CM6-v1.zip"
-            }
-            ]
-        }
-        ],
-        screenshots:
-        [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
-        addons:
-        [
-        {
-            name: "Google Apps",
-            url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100814-signed.zip"
-        }
-        ]
+        visible: false
     },
     {
         name: "CyanogenMod 6.0.0-RC1",
@@ -122,43 +93,7 @@
         product: "CyanogenModRC",
         incremental: 1,
         modversion: "CyanogenMod-6.0.0-Droid-RC1",
-        urls:
-        [
-        "http://bit.ly/9L5ULx",
-        "http://bit.ly/dhz1CL",
-        "http://bit.ly/ak0UXI",
-        "http://bit.ly/99YEcu",
-        "http://bit.ly/bHOhe6"
-        ],
-        choices:
-        [
-        {
-            name: "Home Application",
-            options:
-            [
-            {
-                name: "ADWLauncher",
-                url: ""
-            },
-            {
-                name: "Launcher2",
-                file: "common/Launcher2-CM6-v1.zip"
-            }
-            ]
-        }
-        ],
-        screenshots:
-        [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
-        addons:
-        [
-        {
-            name: "Google Apps",
-            url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100814-signed.zip"
-        }
-        ]
+        visible: false
     },
 
     {
@@ -701,7 +636,7 @@
         }
         ]
     },
-    
+
     {
         name: "CyanogenMod 6.0.0-RC2",
         summary: "Release Candidate 2",

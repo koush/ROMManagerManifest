@@ -23,7 +23,7 @@
         product: "CyanogenModRC",
         incremental: 3,
         modversion: "CyanogenMod-6.0.0-Inc-RC3",
-        file: "motorola/sholes/update-cm-6.0.0-Inc-RC3-signed.zip",
+        file: "htc/inc/update-cm-6.0.0-Inc-RC3-signed.zip",
         screenshots:
         [
         "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",

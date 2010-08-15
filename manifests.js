@@ -10,7 +10,7 @@
         // I can verify who you are. But it can be anything really.
         id: "cyanogenmod",
         // The display summary. Two lines max.
-        summary: "Mods and bacon for Dream, Sapphire, Droid, and Nexus One",
+        summary: "Mods and bacon for your phone",
         // Is this a free ROM? This is decided by Koush/Cyanogen/CTSO.
         free: true,
         // The location of the developer's manifest.
@@ -23,16 +23,15 @@
             sholes: true,
             passion: true,
             dream: true,
-            magic: true,
             sapphire: true,
             bravo: true,
             espresso: true
         }
     },
     {
-        developer: "CyanogenMod EBI1",
+        developer: "CyanogenMod",
         id: "cyanogenmod",
-        summary: "Mods and bacon for EBI1 devices",
+        summary: "Mods and bacon for your phone",
         free: true,
         manifest: "http://briancrook.ca/RM.php",
         roms:

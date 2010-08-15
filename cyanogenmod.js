@@ -657,24 +657,6 @@
         summary: "Google Add-On",
         device: "inc",
         file: "common/gapps-passion-EPF30-signed.zip"
-    },
-    {
-        name: "Google Apps",
-        summary: "Google Add-On",
-        device: "magic",
-        file: "/common/gapps-ds-ERE36B-signed.zip"
-    },
-    {
-        name: "Google Apps",
-        summary: "Google Add-On",
-        device: "sapphire",
-        file: "/common/gapps-ds-ERE36B-signed.zip"
-    },
-    {
-        name: "Google Apps",
-        summary: "Google Add-On",
-        device: "dream",
-        file: "/common/gapps-ds-ERE36B-signed.zip"
     }
     ]
 }

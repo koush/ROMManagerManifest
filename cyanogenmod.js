@@ -728,6 +728,29 @@
         ]
     },
 
+    // ===== Sprint Hero (heroc) ====
+    {
+        name: "CyanogenMod 6.0.0-RC1",
+        summary: "Release Candidate 1",
+        device: "heroc",
+        product: "CyanogenMod",
+        incremental: 6000,
+        modversion: "CyanogenMod-6.0.0-Heroc-RC1",
+        urls:
+        [
+        "http://darchroms.pocketdevelopers.com/cm/update-cm-6.0.0-Heroc-RC1-signed.zip"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            urls:
+            ["http://mirror.kanged.net/gapps/gapps-mdpi-20100814-signed.zip"]
+        }
+        ]
+    },
+
+
 
     // ==== Google Apps ====
     {

@@ -13,27 +13,9 @@
     ],
 
     // Your list of ROMs
-    // =====HTC Incredible=====
     roms:
     [
-    {
-        name: "CyanogenMod 5.0.8 test4",
-        summary: "Stable, Camcorder broken",
-        device: "inc",
-        file: "htc/inc/update-cm-5.0.8-test4-Inc-signed.zip",
-        screenshots:
-        [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
-        addons:
-        [
-        {
-            name: "Google Apps",
-            file: "common/gapps-passion-EPF30-signed.zip"
-        }
-        ]
-    },
+    // =====HTC Incredible=====
 
     // =====Motorola Droid=====
     {
@@ -140,38 +122,6 @@
             file: "common/gapps-passion-EPF30-signed.zip"
         }
         ]
-    },
-
-    {
-        name: "CyanogenMod 5.0.7.1",
-        summary: "Stable",
-        device: "sholes",
-        product: "CyanogenMod",
-        incremental: 5071,
-        modversion: "CyanogenMod-5.0.7.1-Droid",
-        visible: false
-    },
-
-
-    {
-        name: "CyanogenMod 5.0.7",
-        summary: "Stable",
-        device: "sholes",
-        product: "CyanogenMod",
-        incremental: 5070,
-        modversion: "CyanogenMod-5.0.7-Droid",
-        visible: false
-    },
-
-
-    {
-        name: "CyanogenMod 5.0.6.2",
-        summary: "Stable",
-        device: "sholes",
-        product: "CyanogenMod",
-        incremental: 5062,
-        modversion: "CyanogenMod-5.0.6.2-Droid",
-        visible: false
     },
 
     {
@@ -424,16 +374,6 @@
         ]
     },
 
-    {
-        name: "CyanogenMod 5.0.6.1",
-        summary: "Stable",
-        device: "sholes",
-        product: "CyanogenMod",
-        incremental: 5061,
-        modversion: "CyanogenMod-5.0.6.1-Droid",
-        visible: false
-    },
-
     // =====HTC Supersonic (EVO 4G)====
     {
         name: "CyanogenMod 6.0.0-RC2",
@@ -523,57 +463,7 @@
         ]
     },
 
-    {
-        name: "CyanogenMod 5.0.7.1",
-        summary: "Stable",
-        device: "passion",
-        product: "CyanogenMod",
-        incremental: 5071,
-        modversion: "CyanogenMod-5.0.7.1-N1",
-        visible: false
-    },
-
-    {
-        name: "CyanogenMod 5.0.7",
-        summary: "Stable",
-        device: "passion",
-        product: "CyanogenMod",
-        incremental: 5070,
-        modversion: "CyanogenMod-5.0.7-N1",
-        visible: false
-    },
-
-    {
-        name: "CyanogenMod 5.0.6",
-        summary: "Stable",
-        device: "passion",
-        product: "CyanogenMod",
-        incremental: 5060,
-        modversion: "CyanogenMod-5.0.6-N1",
-        visible: false
-    },
-
     // =====G1=====
-    {
-        name: "CyanogenMod 6.0.0-RC2",
-        summary: "Release Candidate 2",
-        device: "dream",
-        product: "CyanogenMod",
-        incremental: 6000,
-        modversion: "CyanogenMod-6.0.0-DS-RC2",
-        urls:
-        [
-        "http://mirror.kanged.net/cm/stable/testing/update-cm-6.0.0-DS-RC2-signed.zip"
-        ],
-        addons:
-        [
-        {
-            name: "Google Apps",
-            urls:
-            ["http://mirror.kanged.net/gapps/gapps-mdpi-tiny-20100814-signed.zip"]
-        }
-        ]
-    },
     {
         name: "CyanogenMod 6.0.0-RC3",
         summary: "Release Candidate 3",
@@ -594,6 +484,28 @@
         }
         ]
     },
+
+    {
+        name: "CyanogenMod 6.0.0-RC2",
+        summary: "Release Candidate 2",
+        device: "dream",
+        product: "CyanogenMod",
+        incremental: 6000,
+        modversion: "CyanogenMod-6.0.0-DS-RC2",
+        urls:
+        [
+        "http://mirror.kanged.net/cm/stable/testing/update-cm-6.0.0-DS-RC2-signed.zip"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            urls:
+            ["http://mirror.kanged.net/gapps/gapps-mdpi-tiny-20100814-signed.zip"]
+        }
+        ]
+    },
+
     {
         name: "CyanogenMod 5.0.8",
         summary: "Stable, Flashing Recovery may be broken",
@@ -616,32 +528,37 @@
         ]
     },
 
+    // =====32A=====
     {
-        name: "CyanogenMod 4.2.15.1",
-        summary: "Stable",
-        device: "dream",
+        name: "CyanogenMod 6.0.0-RC3",
+        summary: "Release Candidate 3",
+        device: "magic",
         product: "CyanogenMod",
-        modversion: "CyanogenMod-4.2.15.1-DS",
+        incremental: 6000,
+        modversion: "CyanogenMod-6.0.0-DS-RC3",
         extendedurls:
         [
         {
-            name: "DRC83 Base",
-            urls:
-            [
-            "http://www.androidspin.com/downloads.php?dir=enomther/ROM/&file=HTC_ADP_1.6_DRC83_rooted_base.zip",
-            ]
+            name: "CyanogenMod 6",
+            url: "http://mirror.kanged.net/cm/stable/testing/update-cm-6.0.0-DS-RC3-signed.zip"
         },
         {
-            name: "CyanogenMod 4.2.15.1",
+            name: "EB1/32A Kernel",
+            url: "http://briancrook.ca/android/cm-ports/bc-6.0.0-RC2-ebi1-signed.zip"
+        }
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
             urls:
             [
-            "http://n0rp.chemlab.org/android/update-cm-4.2.15.1-signed.zip"
+            "http://mirror.kanged.net/gapps/gapps-mdpi-tiny-20100814-signed.zip"
             ]
         }
         ]
     },
 
-    // =====32A=====
     {
         name: "CyanogenMod 6.0.0-RC2",
         summary: "Release Candidate 2",
@@ -671,35 +588,7 @@
         }
         ]
     },
-    {
-        name: "CyanogenMod 6.0.0-RC3",
-        summary: "Release Candidate 3",
-        device: "magic",
-        product: "CyanogenMod",
-        incremental: 6000,
-        modversion: "CyanogenMod-6.0.0-DS-RC3",
-        extendedurls:
-        [
-        {
-            name: "CyanogenMod 6",
-            url: "http://mirror.kanged.net/cm/stable/testing/update-cm-6.0.0-DS-RC3-signed.zip"
-        },
-        {
-            name: "EB1/32A Kernel",
-            url: "http://briancrook.ca/android/cm-ports/bc-6.0.0-RC1-ebi1-signed.zip"
-        }
-        ],
-        addons:
-        [
-        {
-            name: "Google Apps",
-            urls:
-            [
-            "http://mirror.kanged.net/gapps/gapps-mdpi-tiny-20100814-signed.zip"
-            ]
-        }
-        ]
-    },
+
     {
         name: "CyanogenMod 5.0.8",
         summary: "Stable, Flashing Recovery may be broken",
@@ -732,59 +621,7 @@
         ]
     },
 
-    {
-        name: "CyanogenMod 4.2.15.1",
-        summary: "Stable",
-        device: "magic",
-        product: "CyanogenMod",
-        modversion: "CyanogenMod-4.2.15.1-DS",
-        extendedurls:
-        [
-        {
-            name: "DRC83 Base",
-            urls:
-            [
-            "http://www.androidspin.com/downloads.php?dir=enomther/ROM/&file=HTC_ADP_1.6_DRC83_rooted_base.zip",
-            ]
-        },
-        {
-            name: "CyanogenMod 4.2.15.1",
-            urls:
-            [
-            "http://n0rp.chemlab.org/android/update-cm-4.2.15.1-signed.zip"
-            ]
-        },
-        {
-            name: "EB1/32A Kernel",
-            urls:
-            [
-            "http://briancrook.ca/android/cm-ports/bc-4.2.15.1-ebi1-signed.zip"
-            ]
-        }
-        ]
-    },
-
     // =====32B=====
-    {
-        name: "CyanogenMod 6.0.0-RC2",
-        summary: "Release Candidate 2",
-        device: "sapphire",
-        product: "CyanogenMod",
-        incremental: 6000,
-        modversion: "CyanogenMod-6.0.0-DS-RC2",
-        urls:
-        [
-        "http://mirror.kanged.net/cm/stable/testing/update-cm-6.0.0-DS-RC2-signed.zip"
-        ],
-        addons:
-        [
-        {
-            name: "Google Apps",
-            urls:
-            ["http://www.kanged.net/mirror/download.php?file=gapps-mdpi-FRF91-3-signed.zip"]
-        }
-        ]
-    },
     {
         name: "CyanogenMod 6.0.0-RC3",
         summary: "Release Candidate 3",
@@ -805,6 +642,28 @@
         }
         ]
     },
+    
+    {
+        name: "CyanogenMod 6.0.0-RC2",
+        summary: "Release Candidate 2",
+        device: "sapphire",
+        product: "CyanogenMod",
+        incremental: 6000,
+        modversion: "CyanogenMod-6.0.0-DS-RC2",
+        urls:
+        [
+        "http://mirror.kanged.net/cm/stable/testing/update-cm-6.0.0-DS-RC2-signed.zip"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            urls:
+            ["http://www.kanged.net/mirror/download.php?file=gapps-mdpi-FRF91-3-signed.zip"]
+        }
+        ]
+    },
+
     {
         name: "CyanogenMod 5.0.8",
         summary: "Stable, Flashing Recovery may be broken",
@@ -823,31 +682,6 @@
         {
             name: "Google Apps",
             file: "/common/gapps-ds-ERE36B-signed.zip"
-        }
-        ]
-    },
-
-    {
-        name: "CyanogenMod 4.2.15.1",
-        summary: "Stable",
-        device: "sapphire",
-        product: "CyanogenMod",
-        modversion: "CyanogenMod-4.2.15.1-DS",
-        extendedurls:
-        [
-        {
-            name: "DRC83 Base",
-            urls:
-            [
-            "http://www.androidspin.com/downloads.php?dir=enomther/ROM/&file=HTC_ADP_1.6_DRC83_rooted_base.zip",
-            ]
-        },
-        {
-            name: "CyanogenMod 4.2.15.1",
-            urls:
-            [
-            "http://n0rp.chemlab.org/android/update-cm-4.2.15.1-signed.zip"
-            ]
         }
         ]
     },
@@ -871,38 +705,6 @@
         {
             name: "Google Apps",
             url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100814-signed.zip"
-        }
-        ]
-    },
-    {
-        name: "CyanogenMod 5.0.8 test 7",
-        summary: "Experimental",
-        device: "bravo",
-        product: "CyanogenModTest",
-        incremental: 5086,
-        modversion: "CyanogenMod-5.0.8-test7-Bravo",
-        screenshots:
-        [
-        "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot.png",
-        "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot2.png"
-        ],
-        urls:
-        [
-        "http://benocharm.lensworks.org/update-cm-5.0.8-bravo-test7-signed.zip"
-        ],
-        addons:
-        [
-        {
-            name: "Google Apps",
-            urls:
-            [
-            "http://www.droidaftermarket.com/koush//common/gapps-EPE54B-signed.zip",
-            "http://droidk.macleod-web.net//common/gapps-EPE54B-signed.zip",
-            "http://android.antbox.org/koush//common/gapps-EPE54B-signed.zip",
-            "http://www.thekilpatrickproject.com/downloads/koush//common/gapps-EPE54B-signed.zip",
-            "http://www.clockworkmod.com/download//common/gapps-EPE54B-signed.zip",
-            "http://koush.tandtgaming.com//common/gapps-EPE54B-signed.zip"
-            ]
         }
         ]
     },

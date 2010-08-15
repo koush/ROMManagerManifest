@@ -25,7 +25,8 @@
             dream: true,
             magic: true,
             sapphire: true,
-            bravo: true
+            bravo: true,
+            espresso: true
         }
     },
     {

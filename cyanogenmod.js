@@ -16,7 +16,28 @@
     roms:
     [
     // =====HTC Incredible=====
-
+    {
+        name: "CyanogenMod 6.0.0-RC3",
+        summary: "Release Candidate 3",
+        device: "inc",
+        product: "CyanogenModRC",
+        incremental: 3,
+        modversion: "CyanogenMod-6.0.0-Inc-RC3",
+        file: "motorola/sholes/update-cm-6.0.0-Inc-RC3-signed.zip",
+        screenshots:
+        [
+        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
+        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100814-signed.zip"
+        }
+        ]
+    },
+    
     // =====Motorola Droid=====
     {
         name: "CyanogenMod 6.0.0-RC3",

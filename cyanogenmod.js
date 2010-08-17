@@ -577,7 +577,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100814-signed.zip"
+            url: "http://www.tap3w0rm.com/hosted/android/nexus-1/gapps-hdpi-20100817-signed.zip"
         }
         ]
     },

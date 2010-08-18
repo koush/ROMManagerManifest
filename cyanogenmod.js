@@ -33,7 +33,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100814-signed.zip"
+            url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100817-signed.zip"
         }
         ]
     },
@@ -73,7 +73,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100814-signed.zip"
+            url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100817-signed.zip"
         }
         ]
     },
@@ -381,7 +381,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100814-signed.zip"
+            url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100817-signed.zip"
         }
         ]
     },
@@ -399,7 +399,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100814-signed.zip"
+            url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100817-signed.zip"
         }
         ]
     },
@@ -415,7 +415,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100814-signed.zip"
+            url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100817-signed.zip"
         }
         ]
     },
@@ -458,7 +458,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://mirror.kanged.net/gapps/gapps-mdpi-tiny-20100814-signed.zip"
+            url: "http://mirror.kanged.net/gapps/gapps-mdpi-tiny-20100816-signed.zip"
         }
         ]
     },
@@ -475,7 +475,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://mirror.kanged.net/gapps/gapps-mdpi-tiny-20100814-signed.zip"
+            url: "http://mirror.kanged.net/gapps/gapps-mdpi-tiny-20100816-signed.zip"
         }
         ]
     },
@@ -515,7 +515,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://mirror.kanged.net/gapps/gapps-mdpi-tiny-20100814-signed.zip"
+            url: "http://mirror.kanged.net/gapps/gapps-mdpi-tiny-20100816-signed.zip"
         }
         ]
     },
@@ -595,7 +595,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://mirror.kanged.net/gapps/gapps-mdpi-20100814-signed.zip"
+            url: "http://mirror.kanged.net/gapps/gapps-mdpi-20100816-signed.zip"
         }
         ]
     },
@@ -613,7 +613,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://mirror.kanged.net/gapps/gapps-mdpi-20100814-signed.zip"
+            url: "http://mirror.kanged.net/gapps/gapps-mdpi-20100816-signed.zip"
         }
         ]
     },
@@ -625,19 +625,19 @@
         name: "Google Apps (Froyo)",
         summary: "Google Add-On",
         device: "passion",
-        url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100814-signed.zip"
+        url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100817-signed.zip"
     },
     {
         name: "Google Apps (Froyo)",
         summary: "Google Add-On",
         device: "sholes",
-        url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100814-signed.zip"
+        url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100817-signed.zip"
     },
     {
         name: "Google Apps (Froyo)",
         summary: "Google Add-On",
         device: "inc",
-        url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100814-signed.zip"
+        url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100817-signed.zip"
     },
 
     {

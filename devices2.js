@@ -149,6 +149,7 @@
             "key": "desirec",
             "name": "Droid Eris (CDMA)",
             "version": "1.8.1.0",
+            "readonly_recovery": "true",
             "alternate_recovery":
             {
                 "name": "RA Recovery v1.6.2",

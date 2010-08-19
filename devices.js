@@ -175,6 +175,7 @@
         key: "desirec",
         name: "Droid Eris (CDMA)",
         version: "2.5.0.1",
+        readonly_recovery: true,
         alternate_recovery:
         {
             name: "RA Recovery v1.6.2",

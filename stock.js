@@ -13,6 +13,13 @@
     roms:
     [
     {
+        name: "Verizon Droid X 2.2",
+        summary: "Stable, stock, rooted",
+        device: "droidx",
+        product: "stock",
+        file: "motorola/droidx/droidx_rooted_froyo.zip"
+    },
+    {
         name: "Verizon Droid 2.2 FRG01B",
         summary: "Stable, stock, odexed, unrooted/rooted choice",
         device: "sholes",

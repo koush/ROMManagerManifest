@@ -208,6 +208,7 @@
         free: true,
         roms:
         {
+            droidx: true,
             passion: true,
             sholes: true
         }

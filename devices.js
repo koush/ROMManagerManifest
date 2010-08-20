@@ -256,7 +256,7 @@
         init: "init.mapphone_cdma.rc",
         key: "droidx",
         name: "Motorola Droid X",
-        version: "2.5.0.6",
+        version: "2.5.0.7",
         reboot_recovery: "echo 1 > /data/.recovery_mode ; sync ; reboot ;",
         readonly_recovery: true
     }

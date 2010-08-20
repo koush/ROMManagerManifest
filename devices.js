@@ -238,6 +238,13 @@
     },
 
     {
+        init: "init.aloha.rc",
+        key: "aloha",
+        name: "LG Ally",
+        version: "2.5.0.5"
+    },
+    
+    {
         init: "init.milestone.rc",
         key: "milestone",
         name: "Motorola Milestone",

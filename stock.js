@@ -16,14 +16,12 @@
         name: "Verizon Droid X 2.2",
         summary: "Stable, stock, rooted",
         device: "droidx",
-        product: "stock",
         file: "motorola/droidx/droidx_rooted_froyo.zip"
     },
     {
         name: "Verizon Droid 2.2 FRG01B",
         summary: "Stable, stock, odexed, unrooted/rooted choice",
         device: "sholes",
-        product: "stock",
         file: "motorola/sholes/FRG01B.zip",
         addons:
         [
@@ -37,7 +35,6 @@
         name: "C_01.43.01P Baseband",
         summary: "Experimental. MUST INSTALL C_01.41.00R Baseband FIRST.",
         device: "sholes",
-        product: "stock",
         urls:
         [
         "http://www.droidaftermarket.com/koush//motorola/sholes/p3droid-baseband-update.zip",
@@ -52,7 +49,6 @@
         name: "C_01.41.00R Baseband",
         summary: "Experimental",
         device: "sholes",
-        product: "stock",
         urls:
         [
         "http://www.droidaftermarket.com/koush//motorola/sholes/before-p3droid-baseband-update.zip",
@@ -67,7 +63,6 @@
         name: "Nexus One FRF91",
         summary: "Odexed (Rooted or stock options)",
         device: "passion",
-        product: "stock",
         file: "/google/passion/passion-FRF91.zip",
         addons:
         [
@@ -85,14 +80,12 @@
         name: "Nexus One ERE27",
         summary: "Unrooted, Odexed",
         device: "passion",
-        product: "stock",
         file: "google/passion/update-nexusone-ERE27-signed.zip"
     },
     {
         name: "Verizon Droid 2.0.1 Stock",
         summary: "Odexed (Rooted or stock options)",
         device: "sholes",
-        product: "stock",
         file: "motorola/sholes/sholes-2.0.1.zip",
         addons:
         [

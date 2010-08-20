@@ -14,7 +14,7 @@
     [
     {
         name: "Verizon Droid X 2.2",
-        summary: "Stable, stock, rooted",
+        summary: "MUST HAVE 2.1 INSTALLED. Stable, stock, rooted",
         device: "droidx",
         file: "motorola/droidx/droidx_rooted_froyo.zip"
     },

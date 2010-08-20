@@ -245,10 +245,19 @@
     },
     
     {
-        init: "init.milestone.rc",
+        init: "init.mapphone_cdma.rc",
         key: "milestone",
         name: "Motorola Milestone",
         version: "2.5.0.1",
+        readonly_recovery: true
+    },
+    
+    {
+        init: "init.mapphone_cdma.rc",
+        key: "droidx",
+        name: "Motorola Droid X",
+        version: "2.5.0.6",
+        reboot_recovery: "echo 1 > /data/.recovery_mode ; reboot ;"
         readonly_recovery: true
     }
     ]

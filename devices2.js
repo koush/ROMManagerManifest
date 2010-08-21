@@ -61,7 +61,7 @@
             "init": "init.mahimahi.rc",
             "key": "passion",
             "name": "Google Nexus One (GSM)",
-            "version": "1.8.1.0",
+            "version": "2.5.0.7",
             "alternate_recovery":
             {
                 "name": "RA Recovery v1.7.0.1",
@@ -117,7 +117,7 @@
             "init": "init.bravo.rc",
             "key": "bravo",
             "name": "HTC Desire",
-            "version": "2.0.1.4",
+            "version": "2.5.0.7",
             "readonly_recovery": true
         },
 

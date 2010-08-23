@@ -607,6 +607,17 @@
         {
             inc: true
         }
+    },
+    {
+    	developer: "Velocity",
+    	id: "bryan",
+    	summary: "Velocity by Trident",
+    	manifest: "http://dev-mob.com/trident/ROMManagerManifest/manifest.js",
+    	free: true
+    	roms:
+    	{
+    		aloha: true
+    	}
     }
     ]
 }

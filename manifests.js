@@ -618,6 +618,16 @@
     	{
     		aloha: true
     	}
-    }
+    },
+	{
+		developer: "LiQuID FroZeN YoGurT",
+		id: "LiquID",
+		summary: "Source Built FRG22 Froyo Roms and Custom Themes",
+		manifest: "http://android.markjohnston.us/DL/LFY/RM/manifest.js",
+		roms:
+		{
+			sholes: true
+		}
+	}
     ]
 }

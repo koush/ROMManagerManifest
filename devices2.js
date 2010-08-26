@@ -215,14 +215,6 @@
             "name": "LG Ally",
             "version": "2.5.0.5"
         },
-        
-        {
-            "init": "init.milestone.rc",
-            "key": "milestone",
-            "name": "Motorola Milestone",
-            "version": "2.5.0.1",
-            "readonly_recovery": true
-        },
 
         {
             "init": "init.mapphone_cdma.rc",

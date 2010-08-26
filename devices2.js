@@ -207,7 +207,7 @@
             "name": "Motorola Milestone",
             "version": "2.5.0.1",
             "readonly_recovery": true
-        }
+        },
 
         {
             "init": "init.mapphone_cdma.rc",
@@ -215,7 +215,7 @@
             "name": "Motorola Milestone",
             "version": "2.5.0.1",
             "readonly_recovery": true
-        }
+        },
 
         {
             "init": "init.mapphone_cdma.rc",

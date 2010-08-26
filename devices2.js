@@ -201,6 +201,21 @@
             "readonly_recovery": true
         },
 
+
+        {
+            "init": "init.qcom.rc",
+            "key": "pulse",
+            "name": "Huawei Pulse",
+            "version": "2.5.0.4"
+        },
+
+        {
+            "init": "init.aloha.rc",
+            "key": "aloha",
+            "name": "LG Ally",
+            "version": "2.5.0.5"
+        },
+        
         {
             "init": "init.milestone.rc",
             "key": "milestone",

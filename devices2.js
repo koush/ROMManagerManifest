@@ -208,6 +208,23 @@
             "version": "2.5.0.1",
             "readonly_recovery": true
         }
+
+        {
+            "init": "init.mapphone_cdma.rc",
+            "key": "milestone",
+            "name": "Motorola Milestone",
+            "version": "2.5.0.1",
+            "readonly_recovery": true
+        }
+
+        {
+            "init": "init.mapphone_cdma.rc",
+            "key": "droidx",
+            "name": "Motorola Droidx",
+            "version": "2.5.0.7",
+            "reboot_recovery": "echo 1 > /data/.recovery_mode ; sync ; reboot ;",
+            "readonly_recovery": true
+        }
         ]
     }
 }

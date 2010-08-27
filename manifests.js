@@ -634,9 +634,10 @@
 	   id: "mrbirdman",
 	   summary: "DroidX Roms",
 	   manifest: "http://droid.co/birdman/birdman.js",
+	   free: true,
 	   roms:
 	   {
-		   shadow: true
+		   droidx: true
 	   }
 	}
     ]

@@ -637,7 +637,6 @@
 	   roms:
 	   {
 		   shadow: true
-
 	   }
 	}
     ]

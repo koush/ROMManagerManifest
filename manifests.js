@@ -628,6 +628,17 @@
 		{
 			sholes: true
 		}
+	},
+	{
+	   developer: "birdman",
+	   id: "mrbirdman",
+	   summary: "DroidX Roms",
+	   manifest: "http://droid.co/birdman/birdman.js",
+	   roms:
+	   {
+		   shadow: true
+
+	   }
 	}
     ]
 }

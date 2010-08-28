@@ -691,7 +691,7 @@
         summary: "Stable Release",
         device: "bravo",
         product: "CyanogenMod",
-        incremental: 2,
+        incremental: 6000,
         modversion: "CyanogenMod-6.0.0-Bravo",
         url: "http://mirror.kanged.net/cm/stable/bravo/update-cm-6.0.0-Desire-signed.zip",
         screenshots:
@@ -712,7 +712,7 @@
         summary: "Release Candidate 2",
         device: "bravo",
         product: "CyanogenMod",
-        incremental: 2,
+        incremental: 0,
         modversion: "CyanogenMod-6.0.0-Bravo-RC2",
         url: "http://mirror.jeago.com/bravo/testing/update-cm-6.0.0-Desire-RC2-signed.zip",
         screenshots:

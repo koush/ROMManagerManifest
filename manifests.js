@@ -26,7 +26,8 @@
             sapphire: true,
             bravo: true,
             espresso: true,
-            supersonic: true
+            supersonic: true,
+            liberty: true
         }
     },
     {

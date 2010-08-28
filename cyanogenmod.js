@@ -40,6 +40,44 @@
 
     // =====Motorola Droid=====
     {
+        name: "CyanogenMod 6.0.0",
+        summary: "Stable Release",
+        device: "sholes",
+        product: "CyanogenMod",
+        incremental: 3,
+        modversion: "CyanogenMod-6.0.0-Droid",
+        url: "http://mirror.kanged.net/cm/stable/droid/update-cm-6.0.0-Droid-signed.zip",
+        choices:
+        [
+        {
+            name: "Home Application",
+            options:
+            [
+            {
+                name: "ADWLauncher",
+                url: ""
+            },
+            {
+                name: "Launcher2",
+                file: "common/Launcher2-CM6-v1.zip"
+            }
+            ]
+        }
+        ],
+        screenshots:
+        [
+        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
+        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100817-signed.zip"
+        }
+        ]
+    },
+    {
         name: "CyanogenMod 6.0.0-RC3",
         summary: "Release Candidate 3",
         device: "sholes",
@@ -370,6 +408,22 @@
 
     // =====HTC Supersonic (EVO 4G)====
     {
+        name: "CyanogenMod 6.0.0",
+        summary: "Stable Release",
+        device: "supersonic",
+        product: "CyanogenMod",
+        incremental: 6000,
+        modversion: "CyanogenMod-6.0.0-Supersonic",
+        url: "http://mirror.kanged.net/cm/stable/supersonic/update-cm-6.0.0-Supersonic-signed.zip",
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100817-signed.zip"
+        }
+        ]
+    },
+    {
         name: "CyanogenMod 6.0.0-RC2",
         summary: "Release Candidate 2",
         device: "supersonic",
@@ -387,6 +441,22 @@
     },
 
     // =====Google Nexus One====
+    {
+        name: "CyanogenMod 6.0.0",
+        summary: "Stable Release",
+        device: "passion",
+        product: "CyanogenMod",
+        incremental: 6000,
+        modversion: "CyanogenMod-6.0.0-N1",
+        url: "http://mirror.kanged.net/cm/stable/nexus/update-cm-6.0.0-N1-signed.zip",
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100817-signed.zip"
+        }
+        ]
+    },
     {
         name: "CyanogenMod 6.0.0-RC3",
         summary: "Release Candidate 3",
@@ -443,6 +513,25 @@
     },
 
     // =====G1=====
+    {
+        name: "CyanogenMod 6.0.0",
+        summary: "Stable Release",
+        device: "dream",
+        product: "CyanogenMod",
+        incremental: 6000,
+        modversion: "CyanogenMod-6.0.0-DS",
+        urls:
+        [
+        "http://mirror.kanged.net/cm/stable/update-cm-6.0.0-DS-signed.zip"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://mirror.kanged.net/gapps/gapps-mdpi-tiny-20100816-signed.zip"
+        }
+        ]
+    },
     {
         name: "CyanogenMod 6.0.0-RC3",
         summary: "Release Candidate 3",
@@ -503,6 +592,22 @@
     },
 
     // =====32B=====
+    {
+        name: "CyanogenMod 6.0.0",
+        summary: "Stable Release",
+        device: "sapphire",
+        product: "CyanogenMod",
+        incremental: 6000,
+        modversion: "CyanogenMod-6.0.0-DS",
+        url: "http://mirror.kanged.net/cm/stable/update-cm-6.0.0-DS-signed.zip",
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://mirror.kanged.net/gapps/gapps-mdpi-tiny-20100816-signed.zip"
+        }
+        ]
+    },
     {
         name: "CyanogenMod 6.0.0-RC3",
         summary: "Release Candidate 3",
@@ -583,6 +688,22 @@
     },
 
     // ===== T-Mobile MyTouch Slide (espresso) ====
+    {
+        name: "CyanogenMod 6.0.0",
+        summary: "Stable Release",
+        device: "espresso",
+        product: "CyanogenMod",
+        incremental: 6000,
+        modversion: "CyanogenMod-6.0.0-Slide",
+        url: "",
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://mirror.kanged.net/gapps/gapps-mdpi-20100816-signed.zip"
+        }
+        ]
+    },
     {
         name: "CyanogenMod 6.0.0-RC1",
         summary: "Release Candidate 1",

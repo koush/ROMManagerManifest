@@ -44,7 +44,7 @@
         summary: "Stable Release",
         device: "sholes",
         product: "CyanogenMod",
-        incremental: 3,
+        incremental: 6000,
         modversion: "CyanogenMod-6.0.0-Droid",
         url: "http://mirror.kanged.net/cm/stable/droid/update-cm-6.0.0-Droid-signed.zip",
         choices:

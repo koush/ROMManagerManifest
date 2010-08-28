@@ -81,8 +81,8 @@
         name: "CyanogenMod 6.0.0-RC3",
         summary: "Release Candidate 3",
         device: "sholes",
-        product: "CyanogenModRC",
-        incremental: 3,
+        product: "CyanogenMod",
+        incremental: 0,
         modversion: "CyanogenMod-6.0.0-Droid-RC3",
         file: "motorola/sholes/update-cm-6.0.0-Droid-RC3-signed.zip",
         choices:
@@ -119,8 +119,8 @@
         name: "CyanogenMod 6.0.0-RC2",
         summary: "Stable",
         device: "sholes",
-        product: "CyanogenModRC",
-        incremental: 2,
+        product: "CyanogenMod",
+        incremental: 0,
         modversion: "CyanogenMod-6.0.0-Droid-RC2",
         visible: false
     },
@@ -128,8 +128,8 @@
         name: "CyanogenMod 6.0.0-RC1",
         summary: "Stable",
         device: "sholes",
-        product: "CyanogenModRC",
-        incremental: 1,
+        product: "CyanogenMod",
+        incremental: 0,
         modversion: "CyanogenMod-6.0.0-Droid-RC1",
         visible: false
     },
@@ -406,7 +406,7 @@
         ]
     },
 
-    // =====HTC Supersonic (EVO 4G)====
+    // =====HTC cc (EVO 4G)====
     {
         name: "CyanogenMod 6.0.0",
         summary: "Stable Release",
@@ -428,7 +428,7 @@
         summary: "Release Candidate 2",
         device: "supersonic",
         product: "CyanogenMod",
-        incremental: 6000,
+        incremental: 0,
         modversion: "CyanogenMod-6.0.0-Supersonic-RC2",
         url: "http://mirror.kanged.net/cm/stable/supersonic/testing/update-cm-6.0.0-Supersonic-RC2-signed.zip",
         addons:
@@ -462,7 +462,7 @@
         summary: "Release Candidate 3",
         device: "passion",
         product: "CyanogenMod",
-        incremental: 6000,
+        incremental: 0,
         modversion: "CyanogenMod-6.0.0-N1-RC3",
         url: "http://mirror.kanged.net/cm/stable/nexus/testing/update-cm-6.0.0-N1-RC3-signed.zip",
         addons:
@@ -478,7 +478,7 @@
         summary: "Release Candidate 2",
         device: "passion",
         product: "CyanogenMod",
-        incremental: 6000,
+        incremental: 0,
         modversion: "CyanogenMod-6.0.0-N1-RC2",
         url: "http://mirror.kanged.net/cm/stable/nexus/testing/update-cm-6.0.0-N1-RC2-signed.zip",
         addons:
@@ -537,7 +537,7 @@
         summary: "Release Candidate 3",
         device: "dream",
         product: "CyanogenMod",
-        incremental: 6000,
+        incremental: 0,
         modversion: "CyanogenMod-6.0.0-DS-RC3",
         urls:
         [
@@ -557,7 +557,7 @@
         summary: "Release Candidate 2",
         device: "dream",
         product: "CyanogenMod",
-        incremental: 6000,
+        incremental: 0,
         modversion: "CyanogenMod-6.0.0-DS-RC2",
         url: "http://mirror.kanged.net/cm/stable/testing/update-cm-6.0.0-DS-RC2-signed.zip",
         addons:
@@ -613,7 +613,7 @@
         summary: "Release Candidate 3",
         device: "sapphire",
         product: "CyanogenMod",
-        incremental: 6000,
+        incremental: 0,
         modversion: "CyanogenMod-6.0.0-DS-RC3",
         url: "http://mirror.kanged.net/cm/stable/testing/update-cm-6.0.0-DS-RC3-signed.zip",
         addons:
@@ -630,7 +630,7 @@
         summary: "Release Candidate 2",
         device: "sapphire",
         product: "CyanogenMod",
-        incremental: 6000,
+        incremental: 0,
         modversion: "CyanogenMod-6.0.0-DS-RC2",
         url: "http://mirror.kanged.net/cm/stable/testing/update-cm-6.0.0-DS-RC2-signed.zip",
         addons:
@@ -709,7 +709,7 @@
         summary: "Release Candidate 1",
         device: "espresso",
         product: "CyanogenMod",
-        incremental: 6000,
+        incremental: 0,
         modversion: "CyanogenMod-6.0.0-Slide-RC1",
         url: "http://mirror.kanged.net/cm/stable/espresso/testing/update-cm-6.0.0-Slide-RC1-signed.zip",
         addons:

@@ -72,7 +72,7 @@
         [
         "dream",
         "sapphire"
-        ]
+        ],
         url: "http://droidbasement.com/g1/kernels/26/boot-cm_2634.5_ds_32b-oc-uv-xtra-fp-082310.zip"
     },
     //32A - Magic

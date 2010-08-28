@@ -77,62 +77,6 @@
         }
         ]
     },
-    {
-        name: "CyanogenMod 6.0.0-RC3",
-        summary: "Release Candidate 3",
-        device: "sholes",
-        product: "CyanogenModRC",
-        incremental: 3,
-        modversion: "CyanogenMod-6.0.0-Droid-RC3",
-        file: "motorola/sholes/update-cm-6.0.0-Droid-RC3-signed.zip",
-        choices:
-        [
-        {
-            name: "Home Application",
-            options:
-            [
-            {
-                name: "ADWLauncher",
-                url: ""
-            },
-            {
-                name: "Launcher2",
-                file: "common/Launcher2-CM6-v1.zip"
-            }
-            ]
-        }
-        ],
-        screenshots:
-        [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
-        addons:
-        [
-        {
-            name: "Google Apps",
-            url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100817-signed.zip"
-        }
-        ]
-    },
-    {
-        name: "CyanogenMod 6.0.0-RC2",
-        summary: "Stable",
-        device: "sholes",
-        product: "CyanogenModRC",
-        incremental: 2,
-        modversion: "CyanogenMod-6.0.0-Droid-RC2",
-        visible: false
-    },
-    {
-        name: "CyanogenMod 6.0.0-RC1",
-        summary: "Stable",
-        device: "sholes",
-        product: "CyanogenModRC",
-        incremental: 1,
-        modversion: "CyanogenMod-6.0.0-Droid-RC1",
-        visible: false
-    },
 
     {
         name: "CyanogenMod 5.0.8",
@@ -423,22 +367,6 @@
         }
         ]
     },
-    {
-        name: "CyanogenMod 6.0.0-RC2",
-        summary: "Release Candidate 2",
-        device: "supersonic",
-        product: "CyanogenMod",
-        incremental: 6000,
-        modversion: "CyanogenMod-6.0.0-Supersonic-RC2",
-        url: "http://mirror.kanged.net/cm/stable/supersonic/testing/update-cm-6.0.0-Supersonic-RC2-signed.zip",
-        addons:
-        [
-        {
-            name: "Google Apps",
-            url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100817-signed.zip"
-        }
-        ]
-    },
 
     // =====Google Nexus One====
     {
@@ -449,38 +377,6 @@
         incremental: 6000,
         modversion: "CyanogenMod-6.0.0-N1",
         url: "http://mirror.kanged.net/cm/stable/nexus/update-cm-6.0.0-N1-signed.zip",
-        addons:
-        [
-        {
-            name: "Google Apps",
-            url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100817-signed.zip"
-        }
-        ]
-    },
-    {
-        name: "CyanogenMod 6.0.0-RC3",
-        summary: "Release Candidate 3",
-        device: "passion",
-        product: "CyanogenMod",
-        incremental: 6000,
-        modversion: "CyanogenMod-6.0.0-N1-RC3",
-        url: "http://mirror.kanged.net/cm/stable/nexus/testing/update-cm-6.0.0-N1-RC3-signed.zip",
-        addons:
-        [
-        {
-            name: "Google Apps",
-            url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100817-signed.zip"
-        }
-        ]
-    },
-    {
-        name: "CyanogenMod 6.0.0-RC2",
-        summary: "Release Candidate 2",
-        device: "passion",
-        product: "CyanogenMod",
-        incremental: 6000,
-        modversion: "CyanogenMod-6.0.0-N1-RC2",
-        url: "http://mirror.kanged.net/cm/stable/nexus/testing/update-cm-6.0.0-N1-RC2-signed.zip",
         addons:
         [
         {
@@ -532,42 +428,6 @@
         }
         ]
     },
-    {
-        name: "CyanogenMod 6.0.0-RC3",
-        summary: "Release Candidate 3",
-        device: "dream",
-        product: "CyanogenMod",
-        incremental: 6000,
-        modversion: "CyanogenMod-6.0.0-DS-RC3",
-        urls:
-        [
-        "http://mirror.kanged.net/cm/stable/testing/update-cm-6.0.0-DS-RC3-signed.zip"
-        ],
-        addons:
-        [
-        {
-            name: "Google Apps",
-            url: "http://mirror.kanged.net/gapps/gapps-mdpi-tiny-20100816-signed.zip"
-        }
-        ]
-    },
-
-    {
-        name: "CyanogenMod 6.0.0-RC2",
-        summary: "Release Candidate 2",
-        device: "dream",
-        product: "CyanogenMod",
-        incremental: 6000,
-        modversion: "CyanogenMod-6.0.0-DS-RC2",
-        url: "http://mirror.kanged.net/cm/stable/testing/update-cm-6.0.0-DS-RC2-signed.zip",
-        addons:
-        [
-        {
-            name: "Google Apps",
-            url: "http://mirror.kanged.net/gapps/gapps-mdpi-tiny-20100816-signed.zip"
-        }
-        ]
-    },
 
     {
         name: "CyanogenMod 5.0.8",
@@ -605,39 +465,6 @@
         {
             name: "Google Apps",
             url: "http://mirror.kanged.net/gapps/gapps-mdpi-tiny-20100816-signed.zip"
-        }
-        ]
-    },
-    {
-        name: "CyanogenMod 6.0.0-RC3",
-        summary: "Release Candidate 3",
-        device: "sapphire",
-        product: "CyanogenMod",
-        incremental: 6000,
-        modversion: "CyanogenMod-6.0.0-DS-RC3",
-        url: "http://mirror.kanged.net/cm/stable/testing/update-cm-6.0.0-DS-RC3-signed.zip",
-        addons:
-        [
-        {
-            name: "Google Apps",
-            url: "http://mirror.kanged.net/gapps/gapps-mdpi-tiny-20100816-signed.zip"
-        }
-        ]
-    },
-
-    {
-        name: "CyanogenMod 6.0.0-RC2",
-        summary: "Release Candidate 2",
-        device: "sapphire",
-        product: "CyanogenMod",
-        incremental: 6000,
-        modversion: "CyanogenMod-6.0.0-DS-RC2",
-        url: "http://mirror.kanged.net/cm/stable/testing/update-cm-6.0.0-DS-RC2-signed.zip",
-        addons:
-        [
-        {
-            name: "Google Apps",
-            url: "http://www.kanged.net/mirror/download.php?file=gapps-mdpi-FRF91-3-signed.zip"
         }
         ]
     },
@@ -696,22 +523,6 @@
         incremental: 6000,
         modversion: "CyanogenMod-6.0.0-Slide",
         url: "",
-        addons:
-        [
-        {
-            name: "Google Apps",
-            url: "http://mirror.kanged.net/gapps/gapps-mdpi-20100816-signed.zip"
-        }
-        ]
-    },
-    {
-        name: "CyanogenMod 6.0.0-RC1",
-        summary: "Release Candidate 1",
-        device: "espresso",
-        product: "CyanogenMod",
-        incremental: 6000,
-        modversion: "CyanogenMod-6.0.0-Slide-RC1",
-        url: "http://mirror.kanged.net/cm/stable/espresso/testing/update-cm-6.0.0-Slide-RC1-signed.zip",
         addons:
         [
         {

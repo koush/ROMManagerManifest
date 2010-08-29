@@ -4,13 +4,13 @@
     roms:
     [
     {
-        name: "950mV Kernel - for Froyo/CM5.0.8+",
-        summary: ".34 - Updated 6/20",
+        name: "950mV Kernel - for CM6",
+        summary: ".34.5 - Updated 8/29",
         device: "passion",
 	screenshot: "http://web13.twitpic.com/img/118594009-1b6e629560f853477db77e8ed8f55170.4c1ec098-full.png",
         urls:
         [
-        "http://kanged.net/kmobs/signed-619UV-34.zip",
+        "http://kanged.net/up/files/5/kernels/signed-August26-UV950.zip",
         ]
     }
     ]

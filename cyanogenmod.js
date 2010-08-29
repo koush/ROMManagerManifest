@@ -9,7 +9,8 @@
     "http://android.antbox.org/koush/",
     "http://www.thekilpatrickproject.com/downloads/koush/",
     "http://www.clockworkmod.com/download/",
-    "http://koush.tandtgaming.com/"
+    "http://koush.tandtgaming.com/",
+    "http://koush.droid.co"
     ],
 
     // Your list of ROMs

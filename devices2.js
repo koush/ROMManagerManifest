@@ -76,8 +76,8 @@
             "version": "1.8.1.0",
             "alternate_recovery":
             {
-                "name": "RA Recovery v1.6.2",
-                "url": "http://www.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-hero-v1.6.2.img"
+                "name": "RA Recovery v1.7.0.1",
+                "url": "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-hero-v1.7.0.1.img"
             }
         },
 
@@ -100,8 +100,8 @@
             "version": "1.8.1.9",
             "alternate_recovery":
             {
-                "name": "RA Recovery v1.7.0.1",
-                "url": "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-evo-v1.7.0.1.img"
+                "name": "RA Recovery v1.8.0",
+                "url": "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-evo-v1.8.0.img"
             }
         },
 

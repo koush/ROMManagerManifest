@@ -17,6 +17,27 @@
     [
     // =====HTC Incredible=====
     {
+        name: "CyanogenMod 6.0.1",
+        summary: "Stable Release",
+        device: "inc",
+        product: "CyanogenMod",
+        incremental: 6010,
+        modversion: "CyanogenMod-6.0.1-Inc",
+        file: "htc/inc/update-cm-6.0.1-Inc-signed.zip",
+        screenshots:
+        [
+        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
+        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100817-signed.zip"
+        }
+        ]
+    },
+    {
         name: "CyanogenMod 6.0.0",
         summary: "Stable Release",
         device: "inc",

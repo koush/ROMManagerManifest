@@ -693,7 +693,7 @@
         product: "CyanogenMod",
         incremental: 6000,
         modversion: "CyanogenMod-6.0.0-Bravo",
-        url: "http://mirror.kanged.net/cm/stable/bravo/update-cm-6.0.0-Desire-signed.zip",
+        url: "http://mirror.jeago.com/bravo/stable/update-cm-6.0.0-Desire-signed.zip",
         screenshots:
         [
         "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",

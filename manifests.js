@@ -611,36 +611,47 @@
         }
     },
     {
-    	developer: "Velocity",
-    	id: "bryan",
-    	summary: "Velocity by Trident",
-    	manifest: "http://dev-mob.com/trident/ROMManagerManifest/manifest.js",
-    	free: true,
-    	roms:
-    	{
-    		aloha: true
-    	}
+        developer: "Velocity",
+        id: "bryan",
+        summary: "Velocity by Trident",
+        manifest: "http://dev-mob.com/trident/ROMManagerManifest/manifest.js",
+        free: true,
+        roms:
+        {
+            aloha: true
+        }
     },
-	{
-		developer: "LiQuID FroZeN YoGurT",
-		id: "LiquID",
-		summary: "Source Built FRG22 Froyo Roms and Custom Themes",
-		manifest: "http://android.markjohnston.us/DL/LFY/RM/manifest.js",
-		roms:
-		{
-			sholes: true
-		}
-	},
-	{
-	   developer: "birdman",
-	   id: "mrbirdman",
-	   summary: "DroidX Roms",
-	   manifest: "http://droid.co/birdman/birdman.js",
-	   free: true,
-	   roms:
-	   {
-		   droidx: true
-	   }
-	}
+    {
+        developer: "LiQuID FroZeN YoGurT",
+        id: "LiquID",
+        summary: "Source Built FRG22 Froyo Roms and Custom Themes",
+        manifest: "http://android.markjohnston.us/DL/LFY/RM/manifest.js",
+        roms:
+        {
+            sholes: true
+        }
+    },
+    {
+        developer: "birdman",
+        id: "mrbirdman",
+        summary: "DroidX Roms",
+        manifest: "http://droid.co/birdman/birdman.js",
+        free: true,
+        roms:
+        {
+            droidx: true
+        }
+    },
+    {
+        developer: "Virtuous",
+        id: "virtuous",
+        summary: "Stock Sense Froyo with Essential Fixes and Enhancements",
+        manifest: "www.fourty.net/ftp/public/android/virtuous.js",
+        free: true,
+        roms:
+        {
+            inc: true
+        }
+    }
     ]
 }

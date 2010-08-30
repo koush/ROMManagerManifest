@@ -263,7 +263,7 @@
 
     {
         init: "init.mapphone_cdma.rc",
-        key: "droidx",
+        key: "droid2",
         name: "Motorola Droid 2",
         version: "2.5.0.8",
         reboot_recovery: "echo 1 > /data/.recovery_mode ; sync ; reboot ;",

@@ -652,6 +652,17 @@
         {
             inc: true
         }
+    },
+    {
+        developer: "Hero_Over",
+        id: "jdubzisfaded",
+        summary: "Baked Snack",
+        manifest: "http://bakedsnackshack.com/ROMS/manifest.js",
+        free: true,
+        roms:
+        {
+            supersonic: true
+        }
     }
     ]
 }

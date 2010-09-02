@@ -1,3 +1,6 @@
+2.0.2.6
+Download directly to the license location.
+
 2.0.2.3
 Do not allow purchases if the license server is not reachable.
 

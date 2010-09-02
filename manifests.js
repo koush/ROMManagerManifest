@@ -466,6 +466,7 @@
         free: true,
         roms:
         {
+            inc: true
             sholes: true
         }
     },

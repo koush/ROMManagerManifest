@@ -31,52 +31,52 @@
     //32B - Dream/Sapphire
     {
         name: "Kernel 2.6.35.4 - OC-UV-XTRA-FP",
-        summary: "0902 - Dream/Sapphire (32B)",
+        summary: "0903 - Dream/Sapphire (32B)",
         devices:
         [
         "dream",
         "sapphire"
         ],
-        url: "http://droidbasement.com/g1/kernels/2635/3/boot-cm_2635.4_ds_32b-oc-uv-xtra-fp-090210.zip"
+        url: "http://droidbasement.com/g1/kernels/2635/4/boot-cm_2635.4_ds_32b-oc-uv-xtra-fp-090310.zip"
     },
     {
         name: "Kernel 2.6.34.6 - OC-UV-XTRA-FP",
-        summary: "0902 - Dream/Sapphire (32B)",
+        summary: "0903 - Dream/Sapphire (32B)",
         devices:
         [
         "dream",
         "sapphire"
         ],
-        url: "http://droidbasement.com/g1/kernels/28/boot-cm_2634.6_ds_32b-oc-uv-xtra-fp-090210.zip"
+        url: "http://droidbasement.com/g1/kernels/29/boot-cm_2634.6_ds_32b-oc-uv-xtra-fp-090310.zip"
     },
     {
         name: "Kernel 2.6.34.6 - OC-UV-FP",
-        summary: "0902 - Dream/Sapphire (32B)",
+        summary: "0903 - Dream/Sapphire (32B)",
         devices:
         [
         "dream",
         "sapphire"
         ],
-        url: "http://droidbasement.com/g1/kernels/28/boot-cm_2634.6_ds_32b-oc-uv-fp-090210.zip"
+        url: "http://droidbasement.com/g1/kernels/29/boot-cm_2634.6_ds_32b-oc-uv-fp-090310.zip"
     },
     //32A - Magic
     {
         name: "Kernel 2.6.35.4 - OC-UV-XTRA-FP",
-        summary: "0902 - Dream/Sapphire (32A)",
+        summary: "0903 - Dream/Sapphire (32A)",
         device: "magic",
-        url: "http://droidbasement.com/g1/kernels/2635/3/boot-cm_2635.4_ds_32a-oc-uv-xtra-fp-090210.zip"
+        url: "http://droidbasement.com/g1/kernels/2635/4/boot-cm_2635.4_ds_32a-oc-uv-xtra-fp-090310.zip"
     },
     {
         name: "Kernel 2.6.34.6 - OC-UV-XTRA-FP",
-        summary: "0902 - Dream/Sapphire (32A)",
+        summary: "0903 - Dream/Sapphire (32A)",
         device: "magic",
-        url: "http://droidbasement.com/g1/kernels/28/boot-cm_2634.6_ds_32a-oc-uv-xtra-fp-090210.zip"
+        url: "http://droidbasement.com/g1/kernels/29/boot-cm_2634.6_ds_32a-oc-uv-xtra-fp-090310.zip"
     },
     {
         name: "Kernel 2.6.34.6 - OC-UV-FP",
-        summary: "0902 - Dream/Sapphire (32A)",
+        summary: "0903 - Dream/Sapphire (32A)",
         device: "magic",
-        url: "http://droidbasement.com/g1/kernels/28/boot-cm_2634.6_ds_32a-oc-uv-fp-090210.zip"
+        url: "http://droidbasement.com/g1/kernels/29/boot-cm_2634.6_ds_32a-oc-uv-fp-090310.zip"
     }
     //END
     ]

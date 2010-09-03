@@ -8,21 +8,21 @@
     //**************************************
     {
         name: "Kernel 2.6.35.4 – OC-UV-XTRA-BTN-AUD-RAM-NEON_FP",
-        summary: "0902 - Nexus",
+        summary: "0903 - Nexus",
         device: "passion",
-        url: "http://droidbasement.com/nexus/kernels/ram/2635/26/boot-cm_2635.4-oc-uv-xtra-btn-aud-ram-neon_fp-090210.zip"
+        url: "http://droidbasement.com/nexus/kernels/ram/2635/27/boot-cm_2635.4-oc-uv-xtra-btn-aud-ram-neon_fp-090310.zip"
     },
     {
         name: "Kernel 2.6.34.6 – OC-UV-XTRA-BTN-AUD-RAM-NEON_FP",
-        summary: "0902 - Nexus",
+        summary: "0903 - Nexus",
         device: "passion",
-        url: "http://droidbasement.com/nexus/kernels/ram/59/boot-cm_2634.6-oc-uv-xtra-btn-aud-ram-neon_fp-090210.zip"
+        url: "http://droidbasement.com/nexus/kernels/ram/60/boot-cm_2634.6-oc-uv-xtra-btn-aud-ram-neon_fp-090310.zip"
     },
     {
         name: "Kernel 2.6.34.6 – OC-UV-BTN-AUD-RAM-NEON_FP",
-        summary: "0902 - Nexus",
+        summary: "0903 - Nexus",
         device: "passion",
-        url: "http://droidbasement.com/nexus/kernels/ram/59/boot-cm_2634.6-oc-uv-btn-aud-ram-neon_fp-090210.zip"
+        url: "http://droidbasement.com/nexus/kernels/ram/60/boot-cm_2634.6-oc-uv-btn-aud-ram-neon_fp-090310.zip"
     },
     //**************************************
     //**********Dream/Sapphire**************

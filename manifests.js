@@ -664,6 +664,17 @@
         {
             supersonic: true
         }
+    },
+    {
+        developer: "jdkoreclipse",
+        id: "jdkoreclipse",
+        summary: "ROMs for the Incredible",
+        manifest: "http://incredibleroms.com/wp-content/uploads/2010/09/manifest.js",
+        roms:
+        {
+            inc: true
+        }
+
     }
     ]
 }

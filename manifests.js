@@ -655,10 +655,10 @@
         }
     },
     {
-        developer: "Hero_Over",
+        developer: "Baked Snack",
         id: "jdubzisfaded",
-        summary: "Baked Snack",
-        manifest: "http://bakedsnackshack.com/ROMS/manifest.js",
+        summary: "Froyo ROM with Sense by Hero_Over.  See http://bakedsnackshack.com for more info.",
+        manifest: "http://bakedsnackshack.com/ROMS/bs_manifest.js",
         free: true,
         roms:
         {

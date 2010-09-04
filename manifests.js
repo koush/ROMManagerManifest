@@ -658,7 +658,7 @@
         developer: "Baked Snack",
         id: "jdubzisfaded",
         summary: "Froyo ROM with Sense by Hero_Over.  See http://bakedsnackshack.com for more info.",
-        manifest: "http://bakedsnackshack.com/ROMS/bs_manifest.js",
+        manifest: "http://github.com/pcmac77/Baked-Snack-Manifest-for-ROM-Manager/raw/master/bs_manifest.js",
         free: true,
         roms:
         {

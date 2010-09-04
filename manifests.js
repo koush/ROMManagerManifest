@@ -472,10 +472,10 @@
     },
     {
 
-        developer: "InsaneNemesis",
-        id: "InsaneNemesis",
-        summary: "ROM's and Themes Built From Source",
-        manifest: "http://insanenemesis.xeudoxus.com/Insanely_Clean/InsaneNemesis.js",
+        developer: "ShadowROM",
+        id: "shadowrom",
+        summary: "ROM's by billygalbreath and InsaneNemesis",
+        manifest: "http://www.shadowrom.com/shadowrom/shadowrom.js",
         roms:
         {
             sholes: true

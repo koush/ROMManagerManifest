@@ -327,9 +327,9 @@
         }
     },
     {
-        developer: "IEF - ShadowFrost",
+        developer: "IEF - ShadowSense",
         id: "IEF",
-        summary: "Froyo ROM for Bravo, based on Defrost.",
+        summary: "Custom HTC Sense Froyo ROMs for HTC Desire.",
         manifest: "http://www.shadowchild.nl/manifest.js",
         free: true,
         roms:

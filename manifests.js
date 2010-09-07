@@ -664,6 +664,17 @@
         {
             supersonic: true
         }
+    },
+    {
+        developer: "Beesley's Build.Props",
+        id: "Beesley",
+        summary: "All Mods to Date, except LCD Density",
+        manifest: "http://beesley.droid.co/beesley.js",
+        free: true,
+        roms:
+        {
+            sholes: true
+        }
     }
     ]
 }

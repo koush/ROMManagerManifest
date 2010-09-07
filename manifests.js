@@ -672,7 +672,8 @@
         manifest: "http://beesley.droid.co/beesley.js",
         roms:
         {
-            sholes: true
+            droidx: true,
+            droid2: true
         }
     }
     ]

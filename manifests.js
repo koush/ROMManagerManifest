@@ -117,9 +117,11 @@
         id: "mrbobrowitz",
         summary: "Steam ROM, CleanLooks ROMs, and BlackMod ROMs",
         manifest: "http://www.mydroidfiles.com/mrbobrowitz/mrbobrowitzmanifest.js",
+        free: true,
         roms:
         {
-            sholes: true
+            sholes: true,
+            droidx: true
         }
     },
     {
@@ -521,7 +523,8 @@
         roms:
         {
             sholes: true,
-            passion: true
+            passion: true,
+            droid2: true
         }
     },
     {

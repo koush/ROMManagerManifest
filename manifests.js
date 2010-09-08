@@ -673,6 +673,7 @@
         id: "Beesley",
         summary: "All Build.prop Mods to Date",
         manifest: "http://beesley.droid.co/beesley.js",
+        free: true,
         roms:
         {
             droidx: true,

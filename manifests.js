@@ -518,12 +518,12 @@
     {
         developer: "Matt4542",
         id: "matt4542",
-        summary: "A Rom compiled from CyanogenMod source with added features!",
-        manifest: "http://istream.freevar.com/manifest.js",
+        summary: "Epic by Matt4542! ",
+        manifest: "http://epic.grrmode.com/manifest.js",
+        free: true,
         roms:
         {
             sholes: true,
-            passion: true,
             droid2: true
         }
     },

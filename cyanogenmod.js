@@ -730,6 +730,28 @@
 
     // ===== Bravo =====
     {
+        name: "CyanogenMod 6.0.1",
+        summary: "Stable Release",
+        device: "bravo",
+        product: "CyanogenMod",
+        incremental: 6010,
+        modversion: "CyanogenMod-6.0.1-Bravo",
+        url: "http://mirror.kanged.net/cm/stable/bravo/update-cm-6.0.1-Desire-signed.zip",
+        screenshots:
+        [
+        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
+        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100817-signed.zip"
+        }
+        ]
+    },
+
+    {
         name: "CyanogenMod 6.0.0",
         summary: "Stable Release",
         device: "bravo",

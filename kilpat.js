@@ -9,6 +9,18 @@
     roms:
     [
 	{
+        name: "Smoked Glass-Esque 1.6.0",
+        summary: "For CyanogenMod 6.0 Final",
+        device: "sholes",
+        // Product name of the mod. Product names should stay the same between versions of the mod.
+        product: "Smoked Glass-Esque",
+        incremental: 160,
+        urls:
+        [
+        "http://thekilpatrickproject.com/downloads/Smoked%20Glass-Esque/Smoked_Glass-Esque_v1.6.0.zip"
+        ]
+    },
+	{
         name: "Smoked Glass-Esque 1.6.03",
         summary: "For CyanogenMod 6 RC3",
         device: "sholes",

@@ -117,9 +117,11 @@
         id: "mrbobrowitz",
         summary: "Steam ROM, CleanLooks ROMs, and BlackMod ROMs",
         manifest: "http://www.mydroidfiles.com/mrbobrowitz/mrbobrowitzmanifest.js",
+        free: true,
         roms:
         {
-            sholes: true
+            sholes: true,
+            droidx: true
         }
     },
     {
@@ -521,7 +523,8 @@
         roms:
         {
             sholes: true,
-            passion: true
+            passion: true,
+            droid2: true
         }
     },
     {
@@ -625,7 +628,7 @@
     {
         developer: "LiQuID FroZeN YoGurT",
         id: "LiquID",
-        summary: "Source Built FRG22 Froyo Roms and Custom Themes",
+        summary: "Source Built FRG22 Froyo Roms and Themes",
         manifest: "http://android.markjohnston.us/DL/LFY/ROMGR/manifest.js",
         roms:
         {
@@ -663,6 +666,17 @@
         roms:
         {
             supersonic: true
+        }
+    },
+    {
+        developer: "Beesley's Build.Props",
+        id: "Beesley",
+        summary: "All Build.prop Mods to Date",
+        manifest: "http://beesley.droid.co/beesley.js",
+        roms:
+        {
+            droidx: true,
+            droid2: true
         }
     }
     ]

@@ -469,7 +469,8 @@
         roms:
         {
             inc: true,
-            sholes: true
+            sholes: true,
+            supersonic: true
         }
     },
     {

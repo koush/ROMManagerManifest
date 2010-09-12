@@ -481,7 +481,10 @@
         manifest: "http://www.shadowrom.com/shadowrom/shadowrom.js",
         roms:
         {
-            sholes: true
+            sholes: true,
+            inc: true,
+            passion: true,
+            desirec: true
         }
     },
     {

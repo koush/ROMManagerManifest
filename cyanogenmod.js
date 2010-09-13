@@ -863,6 +863,7 @@
         }
         ]
     },
+
     {
         name: "CyanogenMod 6.0.2.1",
         summary: "Stable Release",
@@ -870,7 +871,7 @@
         product: "CyanogenMod",
         incremental: 6021,
         modversion: "CyanogenMod-6.0.2.1-liberty",
-        url: "http://mirror.jeago.com/aria/CyanogenMod-6.0.2.1-liberty-signed.zip",
+        url: "http://www.tap3w0rm.com/hosted/android/aria/update-cm-6.0.2.1-Liberty-signed.zip",
         addons:
         [
         {
@@ -879,6 +880,7 @@
         }
         ]
     },
+
     // ==== Google Apps ====
     {
         name: "Google Apps (Froyo)",

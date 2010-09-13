@@ -863,7 +863,22 @@
         }
         ]
     },
-
+    {
+        name: "CyanogenMod 6.0.2.1",
+        summary: "Stable Release",
+        device: "liberty",
+        product: "CyanogenMod",
+        incremental: 6021,
+        modversion: "CyanogenMod-6.0.2.1-liberty",
+        url: "http://mirror.jeago.com/aria/CyanogenMod-6.0.2.1-liberty-signed.zip",
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://mirror.kanged.net/gapps/gapps-mdpi-20100816-signed.zip"
+        }
+        ]
+    },
     // ==== Google Apps ====
     {
         name: "Google Apps (Froyo)",

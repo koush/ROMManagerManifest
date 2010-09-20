@@ -216,6 +216,14 @@
     
     {
         init: "init.smdkc110.rc",
+        key: "fascinate",
+        name: "Galaxy S Fascinate",
+        version: "2.5.0.4",
+        readonly_recovery: true
+    },
+    
+    {
+        init: "init.smdkc110.rc",
         key: "vibrant",
         name: "Galaxy S Vibrant",
         version: "2.5.0.4",

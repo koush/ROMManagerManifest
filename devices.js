@@ -224,6 +224,14 @@
     
     {
         init: "init.smdkc110.rc",
+        key: "epic",
+        name: "Samsung Epic",
+        version: "2.5.1.0",
+        readonly_recovery: true
+    },
+    
+    {
+        init: "init.smdkc110.rc",
         key: "vibrant",
         name: "Galaxy S Vibrant",
         version: "2.5.0.4",

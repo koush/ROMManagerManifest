@@ -683,6 +683,18 @@
             droidx: true,
             droid2: true
         }
+    },
+    {
+        developer: "Andrizoid",
+        id: "Andrizoid",
+        summary: "All my projects can be found here",
+        manifest: "http://ken.appfabulo.us/Rom-Manager/rom-manager-manifest.js",
+        free: true,
+        roms:
+        {
+            inc: true,
+            desirec: true
+        }
     }
     ]
 }

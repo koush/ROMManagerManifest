@@ -218,7 +218,7 @@
         init: "init.smdkc110.rc",
         key: "fascinate",
         name: "Galaxy S Fascinate",
-        version: "2.5.0.9",
+        version: "2.5.1.0",
         readonly_recovery: true
     },
     

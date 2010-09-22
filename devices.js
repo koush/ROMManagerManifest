@@ -276,6 +276,13 @@
         reboot_recovery: "echo 1 > /data/.recovery_mode ; sync ; reboot ;",
         readonly_recovery: true
     },
+    
+    {
+        init: "init.salsa.rc",
+        key: "salsa",
+        name: "Acer Liquid",
+        version: "2.5.1.0"
+    },
 
     {
         init: "init.mapphone_cdma.rc",

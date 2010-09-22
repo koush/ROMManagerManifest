@@ -86,7 +86,7 @@
         manifest: "http://briancrook.ca/RM_nightly.js",
         roms:
         {
-            magic: true,
+            magic: true
         }
     },
     {

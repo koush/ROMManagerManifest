@@ -80,6 +80,16 @@
         }
     },
     {
+        developer: "CyanogenMod Nightlies",
+        id: "cyanogenmodnightly",
+        summary: "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds.",
+        manifest: "http://briancrook.ca/RM_nightly.js",
+        roms:
+        {
+            magic: true,
+        }
+    },
+    {
         developer: "Extras",
         id: "cyanogenmod",
         summary: "Cool stuffs.",

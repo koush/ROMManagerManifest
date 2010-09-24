@@ -1,3 +1,9 @@
+2.0.3.0
+Fix pre eclair bug.
+
+2.0.2.9
+New Web Connect feature.
+
 2.0.2.6
 Download directly to the license location.
 

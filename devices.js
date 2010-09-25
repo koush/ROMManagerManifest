@@ -148,6 +148,14 @@
     },
 
     {
+        init: "init.bravoc.rc",
+        key: "bravoc",
+        name: "HTC Desire",
+        version: "2.5.0.9",
+        readonly_recovery: true
+    },
+
+    {
         init: "init.qcom.rc",
         key: "pulsemini",
         name: "Huawei Pulse Mini",

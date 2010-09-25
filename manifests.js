@@ -705,6 +705,17 @@
             inc: true,
             desirec: true
         }
-    }
+    },
+	{
+		developer: "Incredible Does",
+		id: "incdoes",
+		summary: "Custom Roms from Incredible Does",
+		manifesdt: "http://www.incredibledoes.judeibe.com/rommanager/manifest.js",
+		free: true,
+		roms:
+		{
+			inc: true
+		}
+	}
     ]
 }

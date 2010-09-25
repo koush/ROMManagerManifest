@@ -46,6 +46,7 @@
         id: "koush",
         summary: "Random prerelease stuff and goodies",
         manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/koush.js",
+        free: true,
         roms:
         {
             inc: true

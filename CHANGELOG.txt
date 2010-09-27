@@ -1,7 +1,3 @@
-2.5.0.2
-Fix crash bug if SD card is not mounted.
-Associate zip files with ROM Manager.
-
 2.5.0.0
 Downloads are now ongoing notifications. Clicking the download prompts the user to cancel.
 

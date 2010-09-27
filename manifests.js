@@ -717,6 +717,17 @@
         {
             inc: true
         }
+    },
+    {
+        developer: "Uncommon Sense",
+        id: "uncommonsense",
+        summary: "Rosie like you've never seen her before.",
+        manifest: "http://www.pcjock.com/uncommon/ROMManagerManifest/uncommon.js",
+        free: true,
+        roms:
+        {
+            inc: true
+        }
     }
     ]
 }

@@ -490,6 +490,7 @@
         id: "shadowrom",
         summary: "ROM's by billygalbreath and InsaneNemesis",
         manifest: "http://www.shadowrom.com/shadowrom/shadowrom.js",
+        free: true,
         roms:
         {
             sholes: true,

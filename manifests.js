@@ -598,6 +598,18 @@
         }
     },
     {
+  
+    developer: "jdkoreclipse",
+    id: "jdkoreclipse",
+    summary: "All stable Blackhawk Releases are found here!",
+    manifest: "http://incredibleroms.com/wp-content/uploads/2010/09/manifest.js",
+    roms:
+    {
+       inc: true
+    },
+}
+
+{
         developer: "JagerRom",
         id: "CaptJager",
         summary: "Senseless deodexed Rom for Droid Incredible with couple of twists",

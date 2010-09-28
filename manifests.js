@@ -709,17 +709,6 @@
         }
     },
     {
-        developer: "Incredible Does",
-        id: "incdoes",
-        summary: "Custom Roms from Incredible Does",
-        manifest: "http://www.incredibledoes.judeibe.com/rommanager/manifest.js",
-        free: true,
-        roms:
-        {
-            inc: true
-        }
-    },
-    {
         developer: "Uncommon Sense",
         id: "uncommonsense",
         summary: "Rosie like you've never seen her before.",

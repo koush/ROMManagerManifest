@@ -167,7 +167,12 @@
         key: "inc",
         name: "HTC Incredible (CDMA)",
         version: "2.5.0.5",
-        readonly_recovery: true
+        readonly_recovery: true,
+        alternate_recovery:
+        {
+            name: "RA_GNM Recovery v1.7.6",
+            url: "http://www.getitnowmarketing.noodlesoftware.com/recovery/recovery-RA-inc_v1.7.0.6_GNM.img"
+        }
     },
 
     {
@@ -265,7 +270,12 @@
         init: "init.aloha.rc",
         key: "aloha",
         name: "LG Ally",
-        version: "2.5.0.5"
+        version: "2.5.0.5",
+        alternate_recovery:
+        {
+            name: "RA_GNM Recovery v1.2.4",
+            url: "http://www.getitnowmarketing.noodlesoftware.com/recovery/recovery-aloha-RA_GNM_v1.2.4.img"
+        }
     },
     
     {

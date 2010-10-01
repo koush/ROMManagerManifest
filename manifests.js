@@ -554,14 +554,15 @@
         }
     },
     {
-        developer: "meliantq",
+        developer: "meLIanTQ",
         id: "meliantq",
-        summary: "Rom for your HTC Desire",
-        manifest: "http://www.meliantq.net/android/rommanager/aospdesire.js",
+        summary: "Rom for your HTC.",
+        manifest: "http://www.meliantq.net/android/rommanager/manifest.js",
         free: true,
         roms:
         {
             bravo: true
+            hero: true
         }
     },
     {

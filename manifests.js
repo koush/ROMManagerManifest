@@ -561,7 +561,7 @@
         free: true,
         roms:
         {
-            bravo: true
+            bravo: true,
             hero: true
         }
     },

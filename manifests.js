@@ -67,7 +67,7 @@
         developer: "CyanogenMod Nightlies",
         id: "cyanogenmodnightly",
         summary: "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds.",
-        manifest: "http://buildbot.teamdouche.net/nightly/manifest.js",
+        manifest: "http://mirror1.kanged.net/nightly/manifest.js",
         roms:
         {
             inc: true,
@@ -554,14 +554,15 @@
         }
     },
     {
-        developer: "meliantq",
+        developer: "meLIanTQ",
         id: "meliantq",
-        summary: "Rom for your HTC Desire",
-        manifest: "http://www.meliantq.net/android/rommanager/aospdesire.js",
+        summary: "Rom for your HTC.",
+        manifest: "http://www.meliantq.net/android/rommanager/manifest.js",
         free: true,
         roms:
         {
-            bravo: true
+            bravo: true,
+            hero: true
         }
     },
     {

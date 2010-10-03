@@ -719,6 +719,16 @@
         {
             inc: true
         }
+    },
+    {
+        developer: "myn",
+        id: "myn",
+        summary: "Warm treats for Android",
+        manifest: "http://sdx-downloads.com/EVO/devs/myn/RomManager/manifest.js",
+        roms:
+        {
+            supersonic: true
+        }
     }
     ]
 }

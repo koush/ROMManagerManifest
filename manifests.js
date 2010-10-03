@@ -554,14 +554,15 @@
         }
     },
     {
-        developer: "meliantq",
+        developer: "meLIanTQ",
         id: "meliantq",
-        summary: "Rom for your HTC Desire",
-        manifest: "http://www.meliantq.net/android/rommanager/aospdesire.js",
+        summary: "Rom for your HTC.",
+        manifest: "http://www.meliantq.net/android/rommanager/manifest.js",
         free: true,
         roms:
         {
-            bravo: true
+            bravo: true,
+            hero: true
         }
     },
     {
@@ -717,6 +718,16 @@
         roms:
         {
             inc: true
+        }
+    },
+    {
+        developer: "myn",
+        id: "myn",
+        summary: "Warm treats for Android",
+        manifest: "http://sdx-downloads.com/EVO/devs/myn/RomManager/manifest.js",
+        roms:
+        {
+            supersonic: true
         }
     }
     ]

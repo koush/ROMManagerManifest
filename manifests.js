@@ -170,6 +170,7 @@
         id: "bgill55",
         summary: "Additional themes and updates for Sapphire.",
         manifest: "http://www.jbthemes.com/bgill55/bgill55.js",
+        free: true,
         roms:
         {
             sholes: true
@@ -725,6 +726,7 @@
         id: "myn",
         summary: "Warm treats for Android",
         manifest: "http://sdx-downloads.com/EVO/devs/myn/RomManager/manifest.js",
+        free: true,
         roms:
         {
             supersonic: true

@@ -725,6 +725,7 @@
         id: "myn",
         summary: "Warm treats for Android",
         manifest: "http://sdx-downloads.com/EVO/devs/myn/RomManager/manifest.js",
+        free: true,
         roms:
         {
             supersonic: true

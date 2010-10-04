@@ -170,6 +170,7 @@
         id: "bgill55",
         summary: "Additional themes and updates for Sapphire.",
         manifest: "http://www.jbthemes.com/bgill55/bgill55.js",
+        free: true,
         roms:
         {
             sholes: true

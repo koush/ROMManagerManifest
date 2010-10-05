@@ -731,6 +731,17 @@
         {
             supersonic: true
         }
+    },
+    {
+        developer: "MIUI Android ROM (EVO)",
+        id: "miui",
+        summary: "Still experimental.  See http://forum.xda-developers.com/showthread.php?t=791378",
+        manifest: "http://github.com/pcmac77/MIUI-Supersonic-ROM-Manager-Manifest/raw/master/miui-supersonic-manifest.js",
+        free: true,
+        roms:
+        {
+            supersonic: true
+        }
     }
     ]
 }

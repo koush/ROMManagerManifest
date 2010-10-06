@@ -77,7 +77,8 @@
             dream: true,
             sapphire: true,
             bravo: true,
-            supersonic: true
+            supersonic: true,
+            heroc: true
         }
     },
     {

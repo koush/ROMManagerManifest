@@ -746,6 +746,19 @@
         {
             supersonic: true
         }
+    },
+    
+    {
+        developer: "WJD Designs",
+        id: "wjddesigns",
+        summary: "Mods for the DroidX",
+        manifest: "http://www.wjddesigns.com/ROMManagerManifest/wjdmanifest.js",
+        free: true,
+        roms:
+        {
+            droidx: true
+        }
     }
+
     ]
 }

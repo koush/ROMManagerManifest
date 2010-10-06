@@ -173,6 +173,7 @@
         free: true,
         roms:
         {
+            droidx: true,
             sholes: true
         }
     },
@@ -257,8 +258,10 @@
         id: "JsinLegacy",
         summary: "Custom Themes & Goodies",
         manifest: "http://www.jbthemes.com/jsinlegacy/jsinlegacy.js",
+        free: true,
         roms:
         {
+            droidx: true,
             sholes: true,
             passion: true
         }

@@ -167,7 +167,6 @@
         key: "inc",
         name: "HTC Incredible (CDMA)",
         version: "2.5.0.5",
-        readonly_recovery: true,
         alternate_recovery:
         {
             name: "RA_GNM Recovery v1.7.6",

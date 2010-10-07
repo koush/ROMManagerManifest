@@ -747,7 +747,6 @@
             supersonic: true
         }
     },
-    
     {
         developer: "WJD Designs",
         id: "wjddesigns",
@@ -759,7 +758,6 @@
             droidx: true
         }
     },
-
     {
         developer: "DRod2169",
         id: "DRod2169",
@@ -768,8 +766,8 @@
         free: true,
         roms:
         {
-            droidx: true,
+            droidx: true
         }
-    },
+    }
     ]
 }

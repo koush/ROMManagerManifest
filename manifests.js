@@ -789,6 +789,17 @@
         {
             sholes: true
         }
+    },
+    {
+        developer: "DrewGaren",
+        id: "drewgaren",
+        summary: "Roms & More, Must have Froyo Installed Prior, Wipe Data 1st!",
+        manifest: "http://dl.dropbox.com/u/10694332/manifest.js",
+        free: true,
+        roms:
+        {
+            droidx: true
+        }
     }
     ]
 }

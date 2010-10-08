@@ -806,7 +806,6 @@
         id: "SnkBitten",
         summary: "An AOSP Motorola Droid ROM with some extras",
         manifest: "http://android.snkbitten.com/ROMManagerManifest/SnkBitten.js",
-        free: true,
         roms:
         {
             sholes: true

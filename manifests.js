@@ -768,6 +768,27 @@
         {
             droidx: true
         }
+    },
+    {
+        developer: "DrewGaren",
+        id: "drewgaren",
+        summary: "Roms and More, Must have Froyo Installed Prior",
+        manifest: "http://dl.dropbox.com/u/10694332/manifest.js",
+        roms:
+        {
+            droidx: true
+        }
+    },
+    {
+        developer: "Steel Droid",
+        id: "chevycam94",
+        summary: "ChevyCam94's Custom ROM's",
+        manifest: "http://chevycam94.macleod-web.net/steel_droid.js",
+        free: true,
+        roms:
+        {
+            sholes: true
+        }
     }
     ]
 }

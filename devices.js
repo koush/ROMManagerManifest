@@ -256,7 +256,7 @@
         init: "init.smdkc110.rc",
         key: "captivate",
         name: "Galaxy S Captivate",
-        version: "2.5.0.4",
+        version: "2.5.1.1",
         readonly_recovery: true
     },
 

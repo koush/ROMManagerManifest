@@ -773,7 +773,7 @@
         developer: "DrewGaren",
         id: "drewgaren",
         summary: "Roms and More, Must have Froyo Installed Prior",
-        manifest: "http://dl.dropbox.com/u/10694332/manifest.js",
+        manifest: "http://drewgaren.com/manifest.js",
         roms:
         {
             droidx: true

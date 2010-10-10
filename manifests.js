@@ -79,7 +79,7 @@
             bravo: true,
             supersonic: true,
             heroc: true,
-            legend: true,
+            legend: true
         }
     },
     {

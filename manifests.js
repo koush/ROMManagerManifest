@@ -762,7 +762,7 @@
         developer: "DRod2169",
         id: "DRod2169",
         summary: "rubiX ROMs for DroidX",
-        manifest: "http://ninebysix.com/boostdscoob/Rubik/ROMManager/rubiX.js",
+        manifest: "http://www.sephtin.com/rubiX/rubiX.js",
         free: true,
         roms:
         {

@@ -78,7 +78,8 @@
             sapphire: true,
             bravo: true,
             supersonic: true,
-            heroc: true
+            heroc: true,
+            legend: true,
         }
     },
     {

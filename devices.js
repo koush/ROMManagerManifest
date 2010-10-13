@@ -168,7 +168,7 @@
         init: "init.inc.rc",
         key: "inc",
         name: "HTC Incredible (CDMA)",
-        version: "2.5.0.5",
+        version: "2.5.1.1",
         alternate_recovery:
         {
             name: "RA_GNM Recovery v1.7.6",

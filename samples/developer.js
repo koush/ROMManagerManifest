@@ -1,19 +1,18 @@
 {
     // This is what name you want your ROMs to show up under.
-    developer: "CyanogenMod",
+    developer: "OlegKrikun",
     // Your id. This should have no spaces or other funny characters.
     // This would ideally be your Github id, so when you send me your manifest
     // I can verify who you are. But it can be anything really.
-    id: "cyanogen",
+    id: "OlegKrikun",
     // The display summary. Two lines max.
-    summary: "Mods and bacon for Dream, Sapphire, Droid, and Nexus One",
+    summary: "CM6 Legend Nightly + Russia translation",
     // The location of the developer's manifest.
-    manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
+    manifest: "http://android.krikun.ru/rm/cm-nightly-rus.js",
     // The list of devices that this developer's ROMs support.
     // If you don't support a device, just don't list it!
     roms:
     {
-        sholes: true,
-        passion: true
+        legend: true
     }
 }

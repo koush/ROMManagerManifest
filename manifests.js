@@ -442,17 +442,15 @@
     {
         developer: "CrunchySoft",
         id: "crunchybutternut",
-        summary: "Fast and fully themed ROMs for the CDMA Hero by crunchybutternut.",
+        summary: "Fast and fully themed ROMs for the CDMA Hero/HTC Evo by crunchybutternut.",
         free: true,
         manifest: "http://crunchysoft.pocketdevelopers.com/ROMManagerManifest/crunchysoft.js",
         roms:
         {
-            heroc: true
-
+            heroc: true,
+            supersonic: true,
         }
     },
-
-
     {
         developer: "Setenza",
         id: "Setenza",

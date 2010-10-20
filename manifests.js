@@ -448,7 +448,7 @@
         roms:
         {
             heroc: true,
-            supersonic: true,
+            supersonic: true
         }
     },
     {

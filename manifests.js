@@ -807,7 +807,17 @@
         manifest: "http://rommanagermanifest.appspot.com/developer/nixmiui.js",
         roms:
         {
-          inc: true
+            inc: true
+        }
+    },
+    {
+        developer: "Fabolous",
+        id: "fabolous",
+        summary: "ROMS and Themes for Droid X",
+        manifest: "http://fabdroid.com/rommanager/fabolous.js",
+        roms:
+        {
+            droidx: true
         }
     }
     ]

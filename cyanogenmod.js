@@ -1,3 +1,4 @@
+
 {
     // The version of the manifest, so ROM Manager knows how to load it
     version: 1,
@@ -34,7 +35,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://mirror.teamdouche.net/get/various/gapps-hdpi-20100930-signed.zip"
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-hdpi-20101020.1-signed.zip"
         }
         ]
     },
@@ -55,7 +56,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://mirror.teamdouche.net/get/various/gapps-hdpi-20100930-signed.zip"
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-hdpi-20101020.1-signed.zip"
         }
         ]
     },
@@ -76,7 +77,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://mirror.teamdouche.net/get/various/gapps-hdpi-20100930-signed.zip"
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-hdpi-20101020.1-signed.zip"
         }
         ]
     },
@@ -97,7 +98,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://mirror.teamdouche.net/get/various/gapps-hdpi-20100930-signed.zip"
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-hdpi-20101020.1-signed.zip"
         }
         ]
     },
@@ -137,7 +138,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://mirror.teamdouche.net/get/various/gapps-hdpi-20100930-signed.zip"
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-hdpi-20101020.1-signed.zip"
         }
         ]
     },
@@ -175,7 +176,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://mirror.teamdouche.net/get/various/gapps-hdpi-20100930-signed.zip"
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-hdpi-20101020.1-signed.zip"
         }
         ]
     },
@@ -483,7 +484,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://mirror.teamdouche.net/get/various/gapps-hdpi-20100930-signed.zip"
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-hdpi-20101020.1-signed.zip"
         }
         ]
     },
@@ -499,7 +500,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://mirror.teamdouche.net/get/various/gapps-hdpi-20100930-signed.zip"
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-hdpi-20101020.1-signed.zip"
         }
         ]
     },
@@ -517,7 +518,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://mirror.teamdouche.net/get/various/gapps-hdpi-20100930-signed.zip"
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-hdpi-20101020.1-signed.zip"
         }
         ]
     },
@@ -533,7 +534,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://mirror.teamdouche.net/get/various/gapps-hdpi-20100930-signed.zip"
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-hdpi-20101020.1-signed.zip"
         }
         ]
     },
@@ -549,7 +550,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://mirror.teamdouche.net/get/various/gapps-hdpi-20100930-signed.zip"
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-hdpi-20101020.1-signed.zip"
         }
         ]
     },
@@ -592,7 +593,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://mirror.teamdouche.net/get/various/gapps-mdpi-tiny-20100930-signed.zip"
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-tiny-20101020-signed.zip"
         }
         ]
     },
@@ -611,7 +612,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://mirror.teamdouche.net/get/various/gapps-mdpi-tiny-20100930-signed.zip"
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-tiny-20101020-signed.zip"
         }
         ]
     },
@@ -628,7 +629,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://mirror.teamdouche.net/get/various/gapps-mdpi-tiny-20100930-signed.zip"
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-tiny-20101020-signed.zip"
         }
         ]
     },
@@ -668,7 +669,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://mirror.teamdouche.net/get/various/gapps-mdpi-tiny-20100930-signed.zip"
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-tiny-20101020-signed.zip"
         }
         ]
     },
@@ -684,7 +685,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://mirror.teamdouche.net/get/various/gapps-mdpi-tiny-20100930-signed.zip"
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-tiny-20101020-signed.zip"
         }
         ]
     },
@@ -701,7 +702,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://www.kanged.net/mirror/download.php?file=gapps-mdpi-FRF91-3-signed.zip"
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-tiny-20101020-signed.zip"
         }
         ]
     },
@@ -746,7 +747,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100926-signed.zip"
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-hdpi-20101020.1-signed.zip"
         }
         ]
     },
@@ -767,7 +768,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100917-signed.zip"
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-hdpi-20101020.1-signed.zip"
         }
         ]
     },
@@ -789,7 +790,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://mirror.kanged.net/gapps/gapps-hdpi-20100917-signed.zip"
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-hdpi-20101020.1-signed.zip"
         }
         ]
     },
@@ -810,7 +811,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://www.tap3w0rm.com/hosted/android/nexus-1/gapps-hdpi-20100817-signed.zip"
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-hdpi-20101020.1-signed.zip"
         }
         ]
     },
@@ -828,7 +829,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://mirror.teamdouche.net/get/various/gapps-mdpi-20100930-signed.zip"
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-20101020-signed.zip"
         }
         ]
     },
@@ -844,7 +845,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://mirror.teamdouche.net/get/various/gapps-mdpi-20100930-signed.zip"
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-20101020-signed.zip"
         }
         ]
     },
@@ -862,7 +863,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://mirror.teamdouche.net/get/various/gapps-mdpi-20100930-signed.zip"
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-20101020-signed.zip"
         }
         ]
     },
@@ -880,7 +881,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://mirror.teamdouche.net/get/various/gapps-mdpi-20100930-signed.zip"
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-20101020-signed.zip"
         }
         ]
     },
@@ -897,7 +898,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://mirror.teamdouche.net/get/various/gapps-mdpi-20100930-signed.zip"
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-20101020-signed.zip"
         }
         ]
     },
@@ -907,19 +908,19 @@
         name: "Google Apps (Froyo)",
         summary: "Google Add-On",
         device: "passion",
-        url: "http://mirror.teamdouche.net/get/various/gapps-hdpi-20100930-signed.zip"
+        url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-hdpi-20101020.1-signed.zip"
     },
     {
         name: "Google Apps (Froyo)",
         summary: "Google Add-On",
         device: "sholes",
-        url: "http://mirror.teamdouche.net/get/various/gapps-hdpi-20100930-signed.zip"
+        url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-hdpi-20101020.1-signed.zip"
     },
     {
         name: "Google Apps (Froyo)",
         summary: "Google Add-On",
         device: "inc",
-        url: "http://mirror.teamdouche.net/get/various/gapps-hdpi-20100930-signed.zip"
+        url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-hdpi-20101020.1-signed.zip"
     },
 
     {

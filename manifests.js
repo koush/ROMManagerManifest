@@ -25,6 +25,7 @@
             dream: true,
             sapphire: true,
             bravo: true,
+            bravoc: true,
             espresso: true,
             supersonic: true,
             liberty: true

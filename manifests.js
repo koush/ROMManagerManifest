@@ -78,6 +78,7 @@
             dream: true,
             sapphire: true,
             bravo: true,
+            bravoc: true,
             supersonic: true,
             heroc: true,
             legend: true

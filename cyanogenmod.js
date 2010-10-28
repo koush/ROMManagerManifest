@@ -779,7 +779,7 @@
         ]
     },
 
-    // ===== Bravo GSM  =====
+    // ===== HTC Desire GSM  =====
     {
         name: "CyanogenMod 6.1.0-RC1",
         summary: "Release Candidate 1",
@@ -787,7 +787,7 @@
         product: "CyanogenMod",
         incremental: 6100,
         modversion: "CyanogenMod-6.1.0-Bravo-RC1",
-        url: "http://www.tap3w0rm.com/hosted/android/desire/update-cm-6.1.0-RC1-Desire-signed.zip",
+	url: "http://mirror.teamdouche.net/get/bravo/update-cm-6.1.0-RC1-Desire-signed.zip",
         screenshots:
         [
         "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
@@ -866,7 +866,7 @@
         ]
     },
 
-    // ===== Bravo GSM  =====
+    // ===== HTC Desire CDMA  =====
     {
         name: "CyanogenMod 6.1.0-RC1",
         summary: "Release Candidate 1",
@@ -874,7 +874,7 @@
         product: "CyanogenMod",
         incremental: 6100,
         modversion: "CyanogenMod-6.1.0-Bravoc-RC1",
-        url: "http://www.tap3w0rm.com/hosted/android/bravoc/update-cm-6.1.0-RC1-BravoC-signed.zip",
+        url: "http://mirror.teamdouche.net/get/bravoc/update-cm-6.1.0-RC1-BravoC-signed.zip",
         screenshots:
         [
         "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",

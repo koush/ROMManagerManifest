@@ -821,6 +821,16 @@
         {
             droidx: true
         }
+    },
+    {
+        developer: "GFlam",
+        id: "GFlam",
+        summary: "Custom Themes for multiple roms",
+        manifest: "http://rommanagergflam.classnotesmp3.com/Livewire.js",
+        roms:
+        {
+            sholes: true
+        }
     }
     ]
 }

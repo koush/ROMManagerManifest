@@ -6,7 +6,7 @@
     manifest: "http://deodexed.com/ROMManagerManifest/deodexed_manifest.js",
     roms:
     {
-        SCH-I500-Fascinate: true
+        fascinate: true
     }
 }
 

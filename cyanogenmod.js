@@ -962,7 +962,7 @@
         device: "hero",
         product: "CyanogenMod",
         incremental: 6100,
-        modversion: "CyanogenMod-6.1.0-Heroc-RC1",
+        modversion: "CyanogenMod-6.1.0-Hero-RC1",
         url: "http://mirror.teamdouche.net/get/hero/update-cm-6.1.0-RC1-Hero-signed.zip",
         addons:
         [

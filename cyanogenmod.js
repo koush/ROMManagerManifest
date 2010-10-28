@@ -941,13 +941,13 @@
 
     // ===== Sprint Hero (heroc) ====
     {
-        name: "CyanogenMod 6.0.0-RC1",
+        name: "CyanogenMod 6.1.0-RC1",
         summary: "Release Candidate 1",
         device: "heroc",
         product: "CyanogenMod",
-        incremental: 6000,
-        modversion: "CyanogenMod-6.0.0-Heroc-RC1",
-        url: "http://darchroms.pocketdevelopers.com/cm/update-cm-6.0.0-Heroc-RC1-signed.zip",
+        incremental: 6100,
+        modversion: "CyanogenMod-6.1.0-Heroc-RC1",
+        url: "http://mirror.teamdouche.net/get/heroc/update-cm-6.1.0-RC1-Heroc-signed.zip",
         addons:
         [
         {

@@ -866,27 +866,6 @@
         }
         ]
     },
-    {
-        name: "CyanogenMod 6.0.0-RC2",
-        summary: "Release Candidate 2",
-        device: "bravo",
-        product: "CyanogenMod",
-        incremental: 0,
-        modversion: "CyanogenMod-6.0.0-Bravo-RC2",
-        url: "http://mirror.jeago.com/bravo/testing/update-cm-6.0.0-Desire-RC2-signed.zip",
-        screenshots:
-        [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
-        addons:
-        [
-        {
-            name: "Google Apps",
-            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-hdpi-20101025-signed.zip"
-        }
-        ]
-    },
 
     // ===== T-Mobile MyTouch Slide (espresso) ====
     {

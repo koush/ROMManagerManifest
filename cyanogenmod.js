@@ -779,7 +779,7 @@
         ]
     },
 
-    // ===== Bravo =====
+    // ===== Bravo GSM  =====
     {
         name: "CyanogenMod 6.1.0-RC1",
         summary: "Release Candidate 1",
@@ -852,6 +852,29 @@
         incremental: 6000,
         modversion: "CyanogenMod-6.0.0-Bravo",
         url: "http://mirror.jeago.com/bravo/stable/update-cm-6.0.0-Desire-signed.zip",
+        screenshots:
+        [
+        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
+        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-hdpi-20101025-signed.zip"
+        }
+        ]
+    },
+
+    // ===== Bravo GSM  =====
+    {
+        name: "CyanogenMod 6.1.0-RC1",
+        summary: "Release Candidate 1",
+        device: "bravoc",
+        product: "CyanogenMod",
+        incremental: 6100,
+        modversion: "CyanogenMod-6.1.0-Bravoc-RC1",
+        url: "http://www.tap3w0rm.com/hosted/android/bravoc/update-cm-6.1.0-RC1-BravoC-signed.zip",
         screenshots:
         [
         "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",

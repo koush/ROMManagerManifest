@@ -471,7 +471,23 @@
         ]
     },
 
-    // =====HTC cc (EVO 4G)====
+    // =====HTC (EVO 4G)====
+    {
+        name: "CyanogenMod 6.1.0-RC1",
+        summary: "Release Candidate",
+        device: "supersonic",
+        product: "CyanogenMod",
+        incremental: 6100,
+        modversion: "CyanogenMod-6.1.0-RC1-Supersonic",
+        url: "http://mirror.teamdouche.net/get/supersonic/update-cm-6.1.0-RC1-Supersonic-signed.zip",
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-hdpi-20101025-signed.zip"
+        }
+        ]
+    },
     {
         name: "CyanogenMod 6.0.0",
         summary: "Stable Release",
@@ -506,6 +522,22 @@
     },
 
     // =====Google Nexus One====
+    {
+        name: "CyanogenMod 6.1.0-RC1",
+        summary: "Release Candidate 1",
+        device: "passion",
+        product: "CyanogenMod",
+        incremental: 6100,
+        modversion: "CyanogenMod-6.0.0-RC1-N1",
+        url: "http://mirror.teamdouche.net/get/passion/update-cm-6.1.0-RC1-N1-signed.zip",
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-hdpi-20101025-signed.zip"
+        }
+        ]
+    },
     {
         name: "CyanogenMod 6.0.0",
         summary: "Stable Release",
@@ -578,6 +610,25 @@
     },
 
     // =====G1=====
+    {
+        name: "CyanogenMod 6.1.0-RC1",
+        summary: "Release Candidate 1",
+        device: "dream",
+        product: "CyanogenMod",
+        incremental: 6100,
+        modversion: "CyanogenMod-6.1.0-RC1-DS",
+        urls:
+        [
+        "http://mirror.teamdouche.net/get/dream_sapphire/update-cm-6.1.0-RC1-DS-signed.zip"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-tiny-20101020-signed.zip"
+        }
+        ]
+    },
     {
         name: "CyanogenMod 6.0.0",
         summary: "Stable Release",
@@ -818,6 +869,22 @@
 
     // ===== T-Mobile MyTouch Slide (espresso) ====
     {
+        name: "CyanogenMod 6.1.0-RC1",
+        summary: "Release Candidate 1",
+        device: "espresso",
+        product: "CyanogenMod",
+        incremental: 6100,
+        modversion: "CyanogenMod-6.1.0-RC1-Slide",
+        url: "http://mirror.teamdouche.net/get/espresso/update-cm-6.1.0-RC1-Slide-signed.zip",
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-20101020-signed.zip"
+        }
+        ]
+    },
+    {
         name: "CyanogenMod 6.0.0",
         summary: "Stable Release",
         device: "espresso",
@@ -869,6 +936,23 @@
     },
 
     // ===== HTC Aria (liberty) ====
+    {
+        name: "CyanogenMod 6.1.0-RC1",
+        summary: "Release Canidate 1",
+        device: "liberty",
+        product: "CyanogenMod",
+        incremental: 6100,
+        modversion: "CyanogenMod-6.1.0-RC1-liberty",
+        url: "http://mirror.teamdouche.net/get/liberty/update-cm-6.1.0-RC1-Liberty-signed.zip",
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-20101020-signed.zip"
+        }
+        ]
+    },
+       
     {
         name: "CyanogenMod 6.0.0",
         summary: "Stable Release",

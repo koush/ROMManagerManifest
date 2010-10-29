@@ -18,6 +18,27 @@
     [
     // =====HTC Incredible=====
     {
+        name: "CyanogenMod 6.1 RC1",
+        summary: "Release Candidate",
+        device: "inc",
+        product: "CyanogenModRC",
+        incremental: 6100,
+        modversion: "CyanogenMod-6.1.0-RC1-Inc",
+        file: "htc/inc/update-cm-6.1.0-RC1-Inc-signed.zip",
+        screenshots:
+        [
+        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
+        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-hdpi-20101025-signed.zip"
+        }
+        ]
+    },
+    {
         name: "CyanogenMod 6.0.2",
         summary: "Stable Release",
         device: "inc",
@@ -103,6 +124,27 @@
     },
 
     // =====Motorola Droid=====
+    {
+        name: "CyanogenMod 6.1 RC1",
+        summary: "Release Candidate",
+        device: "sholes",
+        product: "CyanogenModRC",
+        incremental: 6100,
+        modversion: "CyanogenMod-6.1.0-RC1-Droid",
+        url: "http://mirror.kanged.net/cm/stable/droid/update-cm-6.1.0-RC1-Droid-signed.zip",
+        screenshots:
+        [
+        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
+        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-hdpi-20101025-signed.zip"
+        }
+        ]
+    },
     {
         name: "CyanogenMod 6.0.0",
         summary: "Stable Release",

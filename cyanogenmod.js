@@ -131,7 +131,7 @@
         product: "CyanogenModRC",
         incremental: 6100,
         modversion: "CyanogenMod-6.1.0-RC1-Droid",
-        file: "motorola/sholes/update-cm-6.1.0-RC1-Droid-signed.zip",
+        file: "motorola/sholes/update-cm-6.1.0-RC0-Droid-signed.zip",
         screenshots:
         [
         "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",

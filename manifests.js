@@ -831,6 +831,17 @@
         {
             sholes: true
         }
+    },
+    {
+        developer: "Berzerker",
+        id: "berzerker",
+        summary: "Modifications for the HTC Incredible by Berzerker",
+        manifest: "http://fourty.net/~berzerker/rosiemod/rosiemod.js",
+        free: true,
+        roms:
+        {
+            inc: true
+        }
     }
     ]
 }

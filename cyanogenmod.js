@@ -34,7 +34,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://cyanogenmod-mirror.local.host.name/gapps/gapps-hdpi-20101025-signed.zip"
+            file: "google/gapps-hdpi-20100930-signed.zip"
         }
         ]
     },
@@ -55,7 +55,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://cyanogenmod-mirror.local.host.name/gapps/gapps-hdpi-20101025-signed.zip"
+            file: "google/gapps-hdpi-20100930-signed.zip"
         }
         ]
     },
@@ -76,7 +76,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://cyanogenmod-mirror.local.host.name/gapps/gapps-hdpi-20101025-signed.zip"
+            file: "google/gapps-hdpi-20100930-signed.zip"
         }
         ]
     },
@@ -97,7 +97,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://cyanogenmod-mirror.local.host.name/gapps/gapps-hdpi-20101025-signed.zip"
+            file: "google/gapps-hdpi-20100930-signed.zip"
         }
         ]
     },
@@ -118,7 +118,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://cyanogenmod-mirror.local.host.name/gapps/gapps-hdpi-20101025-signed.zip"
+            file: "google/gapps-hdpi-20100930-signed.zip"
         }
         ]
     },
@@ -139,7 +139,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://cyanogenmod-mirror.local.host.name/gapps/gapps-hdpi-20101025-signed.zip"
+            file: "google/gapps-hdpi-20100930-signed.zip"
         }
         ]
     },
@@ -162,7 +162,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://cyanogenmod-mirror.local.host.name/gapps/gapps-hdpi-20101025-signed.zip"
+            file: "google/gapps-hdpi-20100930-signed.zip"
         }
         ]
     },
@@ -183,7 +183,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://cyanogenmod-mirror.local.host.name/gapps/gapps-hdpi-20101025-signed.zip"
+            file: "google/gapps-hdpi-20100930-signed.zip"
         }
         ]
     },
@@ -221,7 +221,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://cyanogenmod-mirror.local.host.name/gapps/gapps-hdpi-20101025-signed.zip"
+            file: "google/gapps-hdpi-20100930-signed.zip"
         }
         ]
     },
@@ -259,7 +259,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://cyanogenmod-mirror.local.host.name/gapps/gapps-hdpi-20101025-signed.zip"
+            file: "google/gapps-hdpi-20100930-signed.zip"
         }
         ]
     },
@@ -567,7 +567,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://cyanogenmod-mirror.local.host.name/gapps/gapps-hdpi-20101025-signed.zip"
+            file: "google/gapps-hdpi-20100930-signed.zip"
         }
         ]
     },
@@ -583,7 +583,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://cyanogenmod-mirror.local.host.name/gapps/gapps-hdpi-20101025-signed.zip"
+            file: "google/gapps-hdpi-20100930-signed.zip"
         }
         ]
     },
@@ -599,7 +599,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://cyanogenmod-mirror.local.host.name/gapps/gapps-hdpi-20101025-signed.zip"
+            file: "google/gapps-hdpi-20100930-signed.zip"
         }
         ]
     },
@@ -617,7 +617,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://cyanogenmod-mirror.local.host.name/gapps/gapps-hdpi-20101025-signed.zip"
+            file: "google/gapps-hdpi-20100930-signed.zip"
         }
         ]
     },
@@ -633,7 +633,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://cyanogenmod-mirror.local.host.name/gapps/gapps-hdpi-20101025-signed.zip"
+            file: "google/gapps-hdpi-20100930-signed.zip"
         }
         ]
     },
@@ -649,7 +649,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://cyanogenmod-mirror.local.host.name/gapps/gapps-hdpi-20101025-signed.zip"
+            file: "google/gapps-hdpi-20100930-signed.zip"
         }
         ]
     },
@@ -665,7 +665,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://cyanogenmod-mirror.local.host.name/gapps/gapps-hdpi-20101025-signed.zip"
+            file: "google/gapps-hdpi-20100930-signed.zip"
         }
         ]
     },
@@ -881,7 +881,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://cyanogenmod-mirror.local.host.name/gapps/gapps-hdpi-20101025-signed.zip"
+            file: "google/gapps-hdpi-20100930-signed.zip"
         }
         ]
     },
@@ -902,7 +902,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://cyanogenmod-mirror.local.host.name/gapps/gapps-hdpi-20101025-signed.zip"
+            file: "google/gapps-hdpi-20100930-signed.zip"
         }
         ]
     },
@@ -923,7 +923,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://cyanogenmod-mirror.local.host.name/gapps/gapps-hdpi-20101025-signed.zip"
+            file: "google/gapps-hdpi-20100930-signed.zip"
         }
         ]
     },
@@ -945,7 +945,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://cyanogenmod-mirror.local.host.name/gapps/gapps-hdpi-20101025-signed.zip"
+            file: "google/gapps-hdpi-20100930-signed.zip"
         }
         ]
     },
@@ -968,7 +968,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://cyanogenmod-mirror.local.host.name/gapps/gapps-hdpi-20101025-signed.zip"
+            file: "google/gapps-hdpi-20100930-signed.zip"
         }
         ]
     },
@@ -1115,19 +1115,19 @@
         name: "Google Apps (Froyo)",
         summary: "Google Add-On",
         device: "passion",
-        url: "http://cyanogenmod-mirror.local.host.name/gapps/gapps-hdpi-20101025-signed.zip"
+        file: "google/gapps-hdpi-20100930-signed.zip"
     },
     {
         name: "Google Apps (Froyo)",
         summary: "Google Add-On",
         device: "sholes",
-        url: "http://cyanogenmod-mirror.local.host.name/gapps/gapps-hdpi-20101025-signed.zip"
+        file: "google/gapps-hdpi-20100930-signed.zip"
     },
     {
         name: "Google Apps (Froyo)",
         summary: "Google Add-On",
         device: "inc",
-        url: "http://cyanogenmod-mirror.local.host.name/gapps/gapps-hdpi-20101025-signed.zip"
+        file: "google/gapps-hdpi-20100930-signed.zip"
     },
 
     {

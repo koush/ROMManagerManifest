@@ -18,6 +18,27 @@
     [
     // =====HTC Incredible=====
     {
+        name: "CyanogenMod 6.1 RC2",
+        summary: "Release Candidate",
+        device: "inc",
+        product: "CyanogenModRC",
+        incremental: 6101,
+        modversion: "CyanogenMod-6.1.0-RC2-Inc",
+        file: "htc/inc/update-cm-6.1.0-RC2-Inc-signed.zip",
+        screenshots:
+        [
+        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
+        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://cyanogenmod-mirror.local.host.name/gapps/gapps-hdpi-20101025-signed.zip"
+        }
+        ]
+    },
+    {
         name: "CyanogenMod 6.1 RC1",
         summary: "Release Candidate",
         device: "inc",

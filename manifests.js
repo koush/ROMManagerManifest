@@ -842,6 +842,17 @@
         {
             inc: true
         }
+    },
+    {
+        developer: "jt1134",
+        id: "jt1134",
+        summary: "Super Clean ROM for Samsung Fascinate",
+        manifest: "http://deodexed.com/ROMManagerManifest/jt1134/jt1134.js",
+        free: true,
+        roms:
+        {
+            fascinate: true
+        }
     }
     ]
 }

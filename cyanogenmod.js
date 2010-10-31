@@ -1124,7 +1124,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-20101020-signed.zip"
+            url: "http://goo-inside.me/google-apps/gapps-mdpi-20101020-signed.zip"
         }
         ]
     },

@@ -194,7 +194,7 @@
         product: "CyanogenMod",
         incremental: 6000,
         modversion: "CyanogenMod-6.0.0-Droid",
-        url: "http://mirror.kanged.net/cm/stable/droid/update-cm-6.0.0-Droid-signed.zip",
+        url: "http://mirror.teamdouche.net/get/sholes/update-cm-6.0.0-Droid-signed.zip",
         choices:
         [
         {
@@ -578,7 +578,7 @@
         product: "CyanogenMod",
         incremental: 6000,
         modversion: "CyanogenMod-6.0.0-Supersonic",
-        url: "http://mirror.kanged.net/cm/stable/supersonic/update-cm-6.0.0-Supersonic-signed.zip",
+        url: "http://mirror.teamdouche.net/get/supersonic/update-cm-6.0.0-Supersonic-signed.zip",
         addons:
         [
         {
@@ -594,7 +594,7 @@
         product: "CyanogenMod",
         incremental: 0,
         modversion: "CyanogenMod-6.0.0-Supersonic-RC2",
-        url: "http://mirror.kanged.net/cm/stable/supersonic/testing/update-cm-6.0.0-Supersonic-RC2-signed.zip",
+        url: "http://mirror.teamdouche.net/get/supersonic/update-cm-6.0.0-Supersonic-RC2-signed.zip",
         addons:
         [
         {
@@ -628,7 +628,7 @@
         product: "CyanogenMod",
         incremental: 6000,
         modversion: "CyanogenMod-6.0.0-N1",
-        url: "http://mirror.kanged.net/cm/stable/nexus/update-cm-6.0.0-N1-signed.zip",
+        url: "http://mirror.teamdouche.net/get/passion/update-cm-6.0.0-N1-signed.zip",
         addons:
         [
         {
@@ -644,7 +644,7 @@
         product: "CyanogenMod",
         incremental: 0,
         modversion: "CyanogenMod-6.0.0-N1-RC3",
-        url: "http://mirror.kanged.net/cm/stable/nexus/testing/update-cm-6.0.0-N1-RC3-signed.zip",
+        url: "http://mirror.teamdouche.net/get/passion/update-cm-6.0.0-N1-RC3-signed.zip",
         addons:
         [
         {
@@ -660,7 +660,7 @@
         product: "CyanogenMod",
         incremental: 0,
         modversion: "CyanogenMod-6.0.0-N1-RC2",
-        url: "http://mirror.kanged.net/cm/stable/nexus/testing/update-cm-6.0.0-N1-RC2-signed.zip",
+        url: "http://mirror.teamdouche.net/get/passion/update-cm-6.0.0-N1-RC2-signed.zip",
         addons:
         [
         {
@@ -721,7 +721,7 @@
         modversion: "CyanogenMod-6.0.0-DS",
         urls:
         [
-        "http://mirror.kanged.net/cm/stable/update-cm-6.0.0-DS-signed.zip"
+        "http://mirror.teamdouche.net/get/dream_sapphire/update-cm-6.0.0-DS-signed.zip"
         ],
         addons:
         [
@@ -740,7 +740,7 @@
         modversion: "CyanogenMod-6.0.0-DS-RC3",
         urls:
         [
-        "http://mirror.kanged.net/cm/stable/testing/update-cm-6.0.0-DS-RC3-signed.zip"
+        "http://mirror.teamdouche.net/get/dream_sapphire/update-cm-6.0.0-DS-RC3-signed.zip"
         ],
         addons:
         [
@@ -758,7 +758,7 @@
         product: "CyanogenMod",
         incremental: 0,
         modversion: "CyanogenMod-6.0.0-DS-RC2",
-        url: "http://mirror.kanged.net/cm/stable/testing/update-cm-6.0.0-DS-RC2-signed.zip",
+        url: "http://mirror.teamdouche.net/get/dream_sapphire/update-cm-6.0.0-DS-RC2-signed.zip",
         addons:
         [
         {
@@ -798,7 +798,7 @@
         product: "CyanogenMod",
         incremental: 6000,
         modversion: "CyanogenMod-6.0.0-DS",
-        url: "http://mirror.kanged.net/cm/stable/update-cm-6.0.0-DS-signed.zip",
+        url: "http://mirror.teamdouche.net/get/dream_sapphire/update-cm-6.0.0-DS-signed.zip",
         addons:
         [
         {
@@ -814,7 +814,7 @@
         product: "CyanogenMod",
         incremental: 0,
         modversion: "CyanogenMod-6.0.0-DS-RC3",
-        url: "http://mirror.kanged.net/cm/stable/testing/update-cm-6.0.0-DS-RC3-signed.zip",
+        url: "http://mirror.teamdouche.net/get/dream_sapphire/update-cm-6.0.0-DS-RC3-signed.zip",
         addons:
         [
         {
@@ -831,7 +831,7 @@
         product: "CyanogenMod",
         incremental: 0,
         modversion: "CyanogenMod-6.0.0-DS-RC2",
-        url: "http://mirror.kanged.net/cm/stable/testing/update-cm-6.0.0-DS-RC2-signed.zip",
+        url: "http://mirror.teamdouche.net/get/dream_sapphire/update-cm-6.0.0-DS-RC2-signed.zip",
         addons:
         [
         {
@@ -892,7 +892,7 @@
         product: "CyanogenMod",
         incremental: 6020,
         modversion: "CyanogenMod-6.0.2-Bravo",
-        url: "http://mirror.kanged.net/cm/stable/bravo/update-cm-6.0.2-Desire-signed.zip",
+        url: "http://mirror.teamdouche.net/get/bravo/update-cm-6.0.2-Desire-signed.zip",
         screenshots:
         [
         "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
@@ -913,7 +913,7 @@
         product: "CyanogenMod",
         incremental: 6010,
         modversion: "CyanogenMod-6.0.1-Bravo",
-        url: "http://mirror.kanged.net/cm/stable/bravo/update-cm-6.0.1-Desire-signed.zip",
+        url: "http://mirror.teamdouche.net/get/bravo/update-cm-6.0.1-Desire-signed.zip",
         screenshots:
         [
         "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
@@ -997,23 +997,7 @@
         product: "CyanogenMod",
         incremental: 6000,
         modversion: "CyanogenMod-6.0.0-Slide",
-        url: "http://mirror.kanged.net/cm/stable/espresso/update-cm-6.0.0-Slide-signed.zip",
-        addons:
-        [
-        {
-            name: "Google Apps",
-            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-20101020-signed.zip"
-        }
-        ]
-    },
-    {
-        name: "CyanogenMod 6.0.0-RC1",
-        summary: "Release Candidate 1",
-        device: "espresso",
-        product: "CyanogenMod",
-        incremental: 0,
-        modversion: "CyanogenMod-6.0.0-Slide-RC1",
-        url: "http://mirror.kanged.net/cm/stable/espresso/testing/update-cm-6.0.0-Slide-RC1-signed.zip",
+        url: "http://mirror.teamdouche.net/get/espresso/update-cm-6.0.0-Slide-signed.zip",
         addons:
         [
         {

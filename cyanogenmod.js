@@ -852,7 +852,7 @@
         product: "CyanogenMod",
         incremental: 6100,
         modversion: "CyanogenMod-6.1.0-Bravo-RC1",
-	url: "http://mirror.teamdouche.net/get/bravo/update-cm-6.1.0-RC1-Desire-signed.zip",
+        url: "http://mirror.teamdouche.net/get/bravo/update-cm-6.1.0-RC1-Desire-signed.zip",
         screenshots:
         [
         "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
@@ -1040,7 +1040,7 @@
         }
         ]
     },
-       
+
     {
         name: "CyanogenMod 6.0.0",
         summary: "Stable Release",
@@ -1084,7 +1084,7 @@
         product: "CyanogenMod",
         incremental: 6100,
         modversion: "CyanogenMod-6.1.0-Buzz-RC1",
-	url: "http://mirror.teamdouche.net/get/buzz/update-cm-6.1.0-RC1-Buzz-signed.zip"
+        url: "http://mirror.teamdouche.net/get/buzz/update-cm-6.1.0-RC1-Buzz-signed.zip",
         addons:
         [
         {

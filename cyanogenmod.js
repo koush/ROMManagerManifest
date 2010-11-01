@@ -264,25 +264,6 @@
         ]
     },
     {
-        name: "CyanogenMod 6.0.0-RC2",
-        summary: "Stable",
-        device: "sholes",
-        product: "CyanogenMod",
-        incremental: 0,
-        modversion: "CyanogenMod-6.0.0-Droid-RC2",
-        visible: false
-    },
-    {
-        name: "CyanogenMod 6.0.0-RC1",
-        summary: "Stable",
-        device: "sholes",
-        product: "CyanogenMod",
-        incremental: 0,
-        modversion: "CyanogenMod-6.0.0-Droid-RC1",
-        visible: false
-    },
-
-    {
         name: "CyanogenMod 5.0.8",
         summary: "Stable",
         device: "sholes",

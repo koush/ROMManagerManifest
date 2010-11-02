@@ -710,7 +710,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-tiny-20101020-signed.zip"
+            url: "http://goo-inside.me/google-apps/gapps-mdpi-tiny-20101020-signed.zip"
         }
         ]
     },
@@ -729,7 +729,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-tiny-20101020-signed.zip"
+            url: "http://goo-inside.me/google-apps/gapps-mdpi-tiny-20101020-signed.zip"
         }
         ]
     },
@@ -748,7 +748,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-tiny-20101020-signed.zip"
+            url: "http://goo-inside.me/google-apps/gapps-mdpi-tiny-20101020-signed.zip"
         }
         ]
     },
@@ -765,7 +765,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-tiny-20101020-signed.zip"
+            url: "http://goo-inside.me/google-apps/gapps-mdpi-tiny-20101020-signed.zip"
         }
         ]
     },
@@ -794,6 +794,25 @@
 
     // =====32B=====
     {
+        name: "CyanogenMod 6.1.0-RC1",
+        summary: "Release Candidate 1",
+        device: "sapphire",
+        product: "CyanogenMod",
+        incremental: 6100,
+        modversion: "CyanogenMod-6.1.0-RC1-DS",
+        urls:
+        [
+        "http://mirror.teamdouche.net/get/dream_sapphire/update-cm-6.1.0-RC1-DS-signed.zip"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://goo-inside.me/google-apps/gapps-mdpi-tiny-20101020-signed.zip"
+        }
+        ]
+    },
+    {
         name: "CyanogenMod 6.0.0",
         summary: "Stable Release",
         device: "sapphire",
@@ -805,7 +824,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-tiny-20101020-signed.zip"
+            url: "http://goo-inside.me/google-apps/gapps-mdpi-tiny-20101020-signed.zip"
         }
         ]
     },
@@ -821,7 +840,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-tiny-20101020-signed.zip"
+            url: "http://goo-inside.me/google-apps/gapps-mdpi-tiny-20101020-signed.zip"
         }
         ]
     },
@@ -838,7 +857,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-tiny-20101020-signed.zip"
+            url: "http://goo-inside.me/google-apps/gapps-mdpi-tiny-20101020-signed.zip"
         }
         ]
     },

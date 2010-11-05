@@ -89,7 +89,7 @@
         init: "init.mahimahi.rc",
         key: "passion",
         name: "Google Nexus One (GSM)",
-        version: "2.5.1.0",
+        version: "2.5.1.1",
         alternate_recovery:
         {
             name: "RA Recovery v1.7.0.1",

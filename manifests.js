@@ -157,6 +157,7 @@
         roms:
         {
             sholes: true
+            inc: true
         }
     },
     {

@@ -309,6 +309,13 @@
         name: "Kyocera M6000",
         version: "2.5.1.1"
     },
+    
+    {
+        init: "init.qcom.rc",
+        key: "z71",
+        name: "Commtiva Z71 (Boston, and more)",
+        version: "2.5.1.1"
+    },
 
     {
         init: "init.mapphone_cdma.rc",

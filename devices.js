@@ -316,6 +316,13 @@
         name: "Commtiva Z71 (Boston, and more)",
         version: "2.5.1.1"
     },
+    
+    {
+        init: "init.backflip.rc",
+        key: "backlip",
+        name: "Motorola Backflip",
+        version: "2.5.1.1"
+    },
 
     {
         init: "init.mapphone_cdma.rc",

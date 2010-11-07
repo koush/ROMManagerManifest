@@ -89,7 +89,7 @@
         init: "init.mahimahi.rc",
         key: "passion",
         name: "Google Nexus One (GSM)",
-        version: "2.5.1.1",
+        version: "2.5.1.0",
         alternate_recovery:
         {
             name: "RA Recovery v1.7.0.1",
@@ -301,6 +301,13 @@
         key: "salsa",
         name: "Acer Liquid",
         version: "2.5.1.0"
+    },
+    
+    {
+        init: "init.foo.rc",
+        key: "m6000",
+        name: "Kyocera M6000",
+        version: "2.5.1.1"
     },
 
     {

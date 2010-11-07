@@ -318,7 +318,7 @@
     },
     
     {
-        init: "init.backflip.rc",
+        init: "init.motus.rc",
         key: "backlip",
         name: "Motorola Backflip",
         version: "2.5.1.1"

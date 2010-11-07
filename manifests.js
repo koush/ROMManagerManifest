@@ -156,7 +156,7 @@
         manifest: "http://froyoroms.com/files/developers/jrummy/JRummy/Rom_Manager/jared.js",
         roms:
         {
-            sholes: true
+            sholes: true,
             inc: true
         }
     },

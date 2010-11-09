@@ -870,7 +870,7 @@
         developer: "Sonofskywalker3",
         id: "Sonofskywalker3",
         summary: "Blackhole build your own ROM series, full customization",
-        manifest: "http://dl.dropbox.com/u/12873751/Sonofskywalker3%20Manifest.js",
+        manifest: "http://dl.dropbox.com/u/12873751/Sonofskywalker3_Manifest.js",
         free: true,
         roms:
         {

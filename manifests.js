@@ -154,6 +154,7 @@
         id: "JRummy16",
         summary: "Source built roms and custom themes",
         manifest: "http://froyoroms.com/files/developers/jrummy/JRummy/Rom_Manager/jared.js",
+        free: true,
         roms:
         {
             sholes: true,

@@ -24,7 +24,7 @@
         product: "Baconbits",
         incremental: 0001,
         modversion: "CyanogenMod-Baconbits .01",
-        url: "http://android.chemlab.org/android/vision/vision-baconbits.zip",
+        url: "http://android.chemlab.org/android/vision/vision-baconbits.zip"
     },
     // =====HTC Incredible=====
     {

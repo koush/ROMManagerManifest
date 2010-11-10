@@ -16,6 +16,16 @@
     // Your list of ROMs
     roms:
     [
+    // ===== HTC Vision (G2) ====
+    {
+        name: "Vision-Baconbits 0.1",
+        summary: "Baconbits Addon 0.1",
+        device: "vision",
+        product: "Baconbits",
+        incremental: 0001,
+        modversion: "CyanogenMod-Baconbits .01",
+        url: "http://android.chemlab.org/android/vision/vision-baconbits.zip",
+    },
     // =====HTC Incredible=====
     {
         name: "CyanogenMod 6.1 RC2",

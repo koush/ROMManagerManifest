@@ -329,7 +329,7 @@
         key: "vision",
         name: "HTC G2",
         version: "2.5.1.1",
-        flash_recovery: "/data/data/com.koushikdutta.rommanager/files/busybox dd if=%s of=/dev/block/mmcblk0p21 bs=262144 ; "
+        flash_recovery: "dd if=%s of=/dev/block/mmcblk0p21 bs=262144 ; "
     },
 
     {

@@ -27,6 +27,7 @@
             bravo: true,
             bravoc: true,
             espresso: true,
+            vision: true,
             supersonic: true,
             liberty: true
         }

@@ -323,6 +323,14 @@
         name: "Motorola Backflip",
         version: "2.5.1.1"
     },
+    
+    {
+        init: "init.vision.rc",
+        key: "vision",
+        name: "HTC G2",
+        version: "2.5.1.1",
+        flash_recovery: "/data/data/com.koushikdutta.rommanager/files/busybox dd if=%s of=/dev/block/mmcblk0p21 bs=262144"
+    },
 
     {
         init: "init.mapphone_cdma.rc",

@@ -339,7 +339,14 @@
         version: "2.5.1.2",
         flash_recovery: "dd if=%s of=/dev/block/mmcblk0p21 bs=262144 ; "
     },
-
+    
+    {
+        init: "init.morrison.rc",
+        key: "morrison",
+        name: "Motorola Cliq",
+        version: "2.5.1.2"
+    },
+    
     {
         init: "init.mapphone_cdma.rc",
         key: "droid2",

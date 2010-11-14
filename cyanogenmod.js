@@ -156,6 +156,27 @@
 
     // =====Motorola Droid=====
     {
+        name: "CyanogenMod 6.1 RC4",
+        summary: "Release Candidate",
+        device: "sholes",
+        product: "CyanogenModRC",
+        incremental: 6103,
+        modversion: "CyanogenMod-6.1.0-RC4-Droid",
+        url: "http://mirror.teamdouche.net/get/sholes/update-cm-6.1.0-RC4-Droid-signed.zip",
+        screenshots:
+        [
+        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
+        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://goo-inside.me/google-apps/gapps-hdpi-20101025-signed.zip"
+        }
+        ]
+    },
+    {
         name: "CyanogenMod 6.1 RC3",
         summary: "Release Candidate",
         device: "sholes",
@@ -172,7 +193,7 @@
         [
         {
             name: "Google Apps",
-            file: "google/gapps-hdpi-20100930-signed.zip"
+            url: "http://goo-inside.me/google-apps/gapps-hdpi-20101025-signed.zip"
         }
         ]
     },
@@ -193,7 +214,7 @@
         [
         {
             name: "Google Apps",
-            file: "google/gapps-hdpi-20100930-signed.zip"
+            url: "http://goo-inside.me/google-apps/gapps-hdpi-20101025-signed.zip"
         }
         ]
     },
@@ -214,7 +235,7 @@
         [
         {
             name: "Google Apps",
-            file: "google/gapps-hdpi-20100930-signed.zip"
+            url: "http://goo-inside.me/google-apps/gapps-hdpi-20101025-signed.zip"
         }
         ]
     },

@@ -154,7 +154,7 @@
         ]
     },
 
-    // =====Motorola Droid=====
+    //  =====Motorola Droid=====
     {
         name: "CyanogenMod 6.1 RC4",
         summary: "Release Candidate",

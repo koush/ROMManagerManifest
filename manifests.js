@@ -82,7 +82,8 @@
             bravoc: true,
             supersonic: true,
             heroc: true,
-            legend: true
+            legend: true,
+            vision: true,
         }
     },
     {

@@ -17,6 +17,28 @@
     roms:
     [
     // ===== HTC Vision (G2) ====
+
+{
+        name: "CyanogenMod 6.1 RC1",
+        summary: "Release Candidate",
+        device: "vision",
+        product: "CyanogenModRC",
+        incremental: 0002,
+        modversion: "CyanogenMod-6.1.0-RC1-G2",
+        url: "http://mirror.teamdouche.net/get/vision/update-cm-6.1.0-RC1-vision-signed.zip",
+        screenshots:
+        [
+        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
+        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://goo-inside.me/google-apps/gapps-hdpi-20101114-signed.zip"
+        }
+        ]
+    },
     {
         name: "Vision-Baconbits 0.1",
         summary: "Baconbits Addon 0.1",

@@ -83,7 +83,7 @@
             supersonic: true,
             heroc: true,
             legend: true,
-            vision: true,
+            vision: true
         }
     },
     {

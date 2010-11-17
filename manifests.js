@@ -645,7 +645,7 @@
         developer: "Velocity",
         id: "bryan",
         summary: "Velocity by Trident",
-        manifest: "http://dev-mob.com/trident/ROMManagerManifest/manifest.js",
+        manifest: "http://trident.noodlesoftware.com/ROMManagerManifest/manifest.js",
         free: true,
         roms:
         {

@@ -676,12 +676,13 @@
     {
         developer: "Virtuous",
         id: "virtuous",
-        summary: "Stock Sense Froyo with Essential Fixes and Enhancements",
-        manifest: "http://www.fourty.net/ftp/public/android/virtuous.js",
+        summary: "Stock Sense ROMs with Essential Fixes and Enhancements and Other Goodies by rmk.",
+        manifest: "http://files.virtuousrom.com/virtuous.js",
         free: true,
         roms:
         {
-            inc: true
+            inc: true,
+            vision: true
         }
     },
     {

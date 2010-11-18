@@ -354,6 +354,13 @@
         version: "2.5.0.8",
         reboot_recovery: "echo 1 > /data/.recovery_mode ; sync ; reboot ;",
         readonly_recovery: true
+    },
+
+    {
+        init: "init.qcom.rc",
+        key: "z71",
+        name: "Commtiva Z71, Boston, A688, Bell Blaze, XT502, etc",
+        version: "2.5.1.0"
     }
     ]
 }

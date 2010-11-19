@@ -1212,7 +1212,7 @@
     {
         name: "CyanogenMod 6.1.0-RC2",
         summary: "Release Candidate 2",
-        device: "Z71",
+        device: "z71",
         product: "CyanogenMod",
         incremental: 6102,
         modversion: "CyanogenMod-6.1.0-z71-RC2",

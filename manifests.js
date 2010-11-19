@@ -29,7 +29,8 @@
             espresso: true,
             vision: true,
             supersonic: true,
-            liberty: true
+            liberty: true,
+            z71: true
         }
     },
     {
@@ -83,7 +84,8 @@
             supersonic: true,
             heroc: true,
             legend: true,
-            vision: true
+            vision: true,
+            z71: true
         }
     },
     {

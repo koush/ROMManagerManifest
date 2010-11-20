@@ -816,7 +816,7 @@
         id: "nixmiui",
         summary: "MIUI ports by n_i_x",
         manifest: "http://rommanagermanifest.appspot.com/developer/nixmiui.js",
-	free: true,
+        free: true,
         roms:
         {
             inc: true

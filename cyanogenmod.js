@@ -16,7 +16,7 @@
     // Your list of ROMs
     roms:
     [
-    //  ===== HTC Vision (G2) ====
+    // ===== HTC Vision (G2) ====
 
 {
         name: "CyanogenMod 6.1 RC1",

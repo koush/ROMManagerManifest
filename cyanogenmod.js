@@ -1225,6 +1225,25 @@
         }
         ]
     },
+
+    // ===== HTC Legend =====
+    {
+        name: "CyanogenMod 6.1.0-RC2",
+        summary: "Release Candidate 2",
+        device: "legend",
+        product: "CyanogenMod",
+        incremental: 6102,
+        modversion: "CyanogenMod-6.1.0-Legend-RC2",
+        url: "http://www.cynicalpixels.com/cyanogenmod/legend/update-cm-6.1.0-RC2-Legend-signed.zip",
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://goo-inside.me/google-apps/gapps-mdpi-20101020-signed.zip"
+        }
+        ]
+    },
+
     // ==== Google Apps ====
     {
         name: "Google Apps (Froyo)",

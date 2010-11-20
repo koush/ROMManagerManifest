@@ -30,6 +30,7 @@
             vision: true,
             supersonic: true,
             liberty: true,
+            legend: true,
             z71: true
         }
     },

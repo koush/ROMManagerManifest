@@ -35,7 +35,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://goo-inside.me/google-apps/gapps-hdpi-20101114-signed.zip"
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-hdpi-20101114-signed.zip"
         }
         ]
     },
@@ -56,7 +56,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://goo-inside.me/google-apps/gapps-hdpi-20101114-signed.zip"
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-hdpi-20101114-signed.zip"
         }
         ]
     },
@@ -216,7 +216,7 @@
         [
         {
             name: "Google Apps - 11-14-2010",
-            url: "http://goo-inside.me/google-apps/gapps-hdpi-20101114-signed.zip"
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-hdpi-20101114-signed.zip"
         }
         ]
     },
@@ -785,7 +785,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://goo-inside.me/google-apps/gapps-mdpi-tiny-20101020-signed.zip"
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-mdpi-tiny-20101020-signed.zip"
         }
         ]
     },
@@ -804,7 +804,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://goo-inside.me/google-apps/gapps-mdpi-tiny-20101020-signed.zip"
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-mdpi-tiny-20101020-signed.zip"
         }
         ]
     },
@@ -823,7 +823,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://goo-inside.me/google-apps/gapps-mdpi-tiny-20101020-signed.zip"
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-mdpi-tiny-20101020-signed.zip"
         }
         ]
     },
@@ -840,7 +840,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://goo-inside.me/google-apps/gapps-mdpi-tiny-20101020-signed.zip"
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-mdpi-tiny-20101020-signed.zip"
         }
         ]
     },
@@ -883,7 +883,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://goo-inside.me/google-apps/gapps-mdpi-tiny-20101020-signed.zip"
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-mdpi-tiny-20101020-signed.zip"
         }
         ]
     },
@@ -899,7 +899,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://goo-inside.me/google-apps/gapps-mdpi-tiny-20101020-signed.zip"
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-mdpi-tiny-20101020-signed.zip"
         }
         ]
     },
@@ -915,7 +915,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://goo-inside.me/google-apps/gapps-mdpi-tiny-20101020-signed.zip"
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-mdpi-tiny-20101020-signed.zip"
         }
         ]
     },
@@ -932,7 +932,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://goo-inside.me/google-apps/gapps-mdpi-tiny-20101020-signed.zip"
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-mdpi-tiny-20101020-signed.zip"
         }
         ]
     },
@@ -1220,7 +1220,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://goo-inside.me/google-apps/gapps-mdpi-20101020-signed.zip"
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-mdpi-20101020-signed.zip"
         }
         ]
     },
@@ -1238,7 +1238,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://goo-inside.me/google-apps/gapps-mdpi-20101020-signed.zip"
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-mdpi-20101020-signed.zip"
         }
         ]
     },
@@ -1256,7 +1256,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://goo-inside.me/google-apps/gapps-mdpi-20101020-signed.zip"
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-mdpi-20101020-signed.zip"
         }
         ]
     },
@@ -1272,7 +1272,7 @@
         name: "Google Apps (Froyo)",
         summary: "Google Add-On - 11-14-2010",
         device: "sholes",
-        url: "http://goo-inside.me/google-apps/gapps-hdpi-20101114-signed.zip"
+        url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-hdpi-20101114-signed.zip"
     },
     {
         name: "Google Apps (Froyo)",

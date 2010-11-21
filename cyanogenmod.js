@@ -19,6 +19,27 @@
     // ===== HTC Vision (G2) ====
 
 {
+        name: "CyanogenMod 6.1 RC2",
+        summary: "Release Candidate",
+        device: "vision",
+        product: "CyanogenModRC",
+        incremental: 0003,
+        modversion: "CyanogenMod-6.1.0-RC2-G2",
+        url: "http://mirror.teamdouche.net/get/vision/update-cm-6.1.0-RC2-vision-signed.zip",
+        screenshots:
+        [
+        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
+        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://goo-inside.me/google-apps/gapps-hdpi-20101114-signed.zip"
+        }
+        ]
+    },
+    {
         name: "CyanogenMod 6.1 RC1",
         summary: "Release Candidate",
         device: "vision",
@@ -39,6 +60,7 @@
         }
         ]
     },
+
     {
         name: "Vision-Baconbits 0.1",
         summary: "Baconbits Addon 0.1",
@@ -1069,6 +1091,22 @@
     },
 
     // ===== T-Mobile MyTouch Slide (espresso) ====
+    {
+        name: "CyanogenMod 6.1.0-RC2",
+        summary: "Release Candidate 2",
+        device: "espresso",
+        product: "CyanogenMod",
+        incremental: 6101,
+        modversion: "CyanogenMod-6.1.0-RC2-Slide",
+        url: "http://mirror.teamdouche.net/get/espresso/update-cm-6.1.0-RC2-Slide-signed.zip",
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-20101020-signed.zip"
+        }
+        ]
+    },
     {
         name: "CyanogenMod 6.1.0-RC1",
         summary: "Release Candidate 1",

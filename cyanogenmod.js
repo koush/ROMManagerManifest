@@ -1233,7 +1233,7 @@
         product: "CyanogenMod",
         incremental: 6102,
         modversion: "CyanogenMod-6.1.0-z71-RC2",
-        url: "http://www.cynicalpixels.com/cyanogenmod/z71/update-cm-6.1.0-RC2-Z71-signed.zip",
+        url: "http://android.d3xt3r01.tk/cyanogen/z71/update-cm-6.1.0-RC2-Z71-signed.zip",
         addons:
         [
         {

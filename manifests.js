@@ -295,6 +295,7 @@
         manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/pershoot.js",
         roms:
         {
+	    vision: true,
             passion: true,
             sapphire: true,
             dream: true,

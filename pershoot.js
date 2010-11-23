@@ -7,10 +7,10 @@
     //**********G2**************
     //**************************************
     {
-        name: "Kernel 2.6.32.25 - OC-UV-XTRA-NEON_FP",
-        summary: "1121 - G2",
+        name: "Kernel 2.6.32.26 - OC-UV-XTRA-NEON_FP",
+        summary: "1122 - G2",
         device: "vision",
-        url: "http://droidbasement.com/g2/kernels/2632/1/boot-cm_2632.25-oc-uv-xtra-neon_fp-112110.zip"
+        url: "http://droidbasement.com/g2/kernels/2632/2/boot-cm_2632.26-oc-uv-xtra-neon_fp-112210.zip"
     },
     //**************************************
     //**********Nexus**************

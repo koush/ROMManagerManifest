@@ -16,10 +16,10 @@
     //**********Nexus**************
     //**************************************
     {
-        name: "Kernel 2.6.35.8 – OC-UV-XTRA-BTN-AUD-RAM-NEON_FP",
-        summary: "1109 - Nexus",
+        name: "Kernel 2.6.35.9 – OC-UV-XTRA-BTN-AUD-RAM-NEON_FP",
+        summary: "1123 - Nexus",
         device: "passion",
-        url: "http://droidbasement.com/nexus/kernels/ram/2635/46/boot-cm_2635.8-oc-uv-xtra-btn-aud-ram-neon_fp-110910.zip"
+        url: "http://droidbasement.com/nexus/kernels/ram/2635/47/boot-cm_2635.9-oc-uv-xtra-btn-aud-ram-neon_fp-112310.zip"
     },
     //**************************************
     //**********Dream/Sapphire**************
@@ -27,21 +27,21 @@
     //
     //32B - Dream/Sapphire
     {
-        name: "Kernel 2.6.35.8 - OC-UV-XTRA-RAM-FP",
-        summary: "1109 - Dream/Sapphire (32B)",
+        name: "Kernel 2.6.35.9 - OC-UV-XTRA-RAM-FP",
+        summary: "1123 - Dream/Sapphire (32B)",
         devices:
         [
         "dream",
         "sapphire"
         ],
-        url: "http://droidbasement.com/g1/kernels/ram/2635/10/boot-cm_2635.8_ds_32b-oc-uv-xtra-ram-fp-110910.zip"
+        url: "http://droidbasement.com/g1/kernels/ram/2635/11/boot-cm_2635.9_ds_32b-oc-uv-xtra-ram-fp-112310.zip"
     },
     //32A - Magic
     {
-        name: "Kernel 2.6.35.8 - OC-UV-XTRA-FP",
-        summary: "1109 - Dream/Sapphire (32A)",
+        name: "Kernel 2.6.35.9 - OC-UV-XTRA-FP",
+        summary: "1123 - Dream/Sapphire (32A)",
         device: "magic",
-        url: "http://droidbasement.com/g1/kernels/ram/2635/10/boot-cm_2635.8_ds_32a-oc-uv-xtra-ram-fp-110910.zip"
+        url: "http://droidbasement.com/g1/kernels/ram/2635/11/boot-cm_2635.9_ds_32a-oc-uv-xtra-ram-fp-112310.zip"
     }
     //END
     ]

@@ -8,9 +8,9 @@
     //**************************************
     {
         name: "Kernel 2.6.32.26 - OC-UV-XTRA-NEON_FP",
-        summary: "1122 - G2",
+        summary: "1123 - G2 - 23:24",
         device: "vision",
-        url: "http://droidbasement.com/g2/kernels/2632/2/boot-cm_2632.26-oc-uv-xtra-neon_fp-112210.zip"
+        url: "http://droidbasement.com/g2/kernels/2632/3/boot-cm_2632.26-oc-uv-xtra-neon_fp-112310.zip"
     },
     //**************************************
     //**********Nexus**************

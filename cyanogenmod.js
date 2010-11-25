@@ -1160,7 +1160,7 @@
         summary: "Release Canidate 2",
         device: "liberty",
         product: "CyanogenMod",
-        incremental: 6200,
+        incremental: 6102,
         modversion: "CyanogenMod-6.1.0-RC2-liberty",
         url: "http://android.d3xt3r01.tk/cyanogen/liberty/update-cm-6.1.0-RC2-Liberty-signed.zip",
         addons:

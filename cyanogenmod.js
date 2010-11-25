@@ -1156,18 +1156,18 @@
 
     // ===== HTC Aria (liberty) ====
     {
-        name: "CyanogenMod 6.1.0-RC1",
-        summary: "Release Canidate 1",
+        name: "CyanogenMod 6.1.0-RC2",
+        summary: "Release Canidate 2",
         device: "liberty",
         product: "CyanogenMod",
-        incremental: 6100,
-        modversion: "CyanogenMod-6.1.0-RC1-liberty",
-        url: "http://mirror.teamdouche.net/get/liberty/update-cm-6.1.0-RC1-Liberty-signed.zip",
+        incremental: 6200,
+        modversion: "CyanogenMod-6.1.0-RC2-liberty",
+        url: "http://android.d3xt3r01.tk/cyanogen/liberty/update-cm-6.1.0-RC2-Liberty-signed.zip",
         addons:
         [
         {
             name: "Google Apps",
-            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-20101020-signed.zip"
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-mdpi-20101020-signed.zip"
         }
         ]
     },

@@ -295,7 +295,7 @@
         manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/pershoot.js",
         roms:
         {
-	    vision: true,
+            vision: true,
             passion: true,
             sapphire: true,
             dream: true,
@@ -875,7 +875,7 @@
             fascinate: true
         }
     },
-    {    
+    {
         developer: "Sonofskywalker3",
         id: "Sonofskywalker3",
         summary: "Blackhole build your own ROM series, full customization",
@@ -885,16 +885,17 @@
         {
             fascinate: true
         }
-     {
-        developer: "DopeShiziot" ,
-	id: "DopeShiziot" ,
-	summary: "This shit is dope!" ,
-	manifest: "http://dope.appfabulo.us/RM/rom-manager-manifest.js" ,
-	roms:
-	{
-		inc: true,
-	}
-}
-     }
-  ]
+        {
+            developer: "DopeShiziot",
+            id: "DopeShiziot",
+            summary: "This shiz is dope!",
+            manifest: "http://dope.appfabulo.us/RM/rom-manager-manifest.js",
+            free: true,
+            roms:
+            {
+                inc: true
+            }
+        }
+    }
+    ]
 }

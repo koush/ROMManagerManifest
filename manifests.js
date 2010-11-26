@@ -885,6 +885,7 @@
         {
             fascinate: true
         }
+    },
         {
             developer: "DopeShiziot",
             id: "DopeShiziot",
@@ -896,6 +897,5 @@
                 inc: true
             }
         }
-    }
     ]
 }

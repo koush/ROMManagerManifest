@@ -747,10 +747,10 @@
         }
     },
     {
-        developer: "MIUI Android ROM (EVO)",
-        id: "miui",
-        summary: "Still experimental.  See http://forum.xda-developers.com/showthread.php?t=791378",
-        manifest: "http://github.com/pcmac77/MIUI-Supersonic-ROM-Manager-Manifest/raw/master/miui-supersonic-manifest.js",
+        developer: "bcnice20",
+        id: "bcnice20",
+        summary: "MIUI Android Rom for the HTC EVO",
+        manifest: "http://www.thebcblends.com/bcnice20/MIUI/bcblend.js",
         free: true,
         roms:
         {

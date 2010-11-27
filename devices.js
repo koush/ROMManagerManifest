@@ -313,8 +313,8 @@
     {
         init: "init.qcom.rc",
         key: "z71",
-        name: "Commtiva Z71 (Boston, and more)",
-        version: "2.5.1.1"
+        name: "Commtiva Z71 (Boston, Blaze, and more)",
+        version: "2.5.1.3"
     },
     
     {
@@ -358,9 +358,9 @@
 
     {
         init: "init.qcom.rc",
-        key: "z71",
-        name: "Commtiva Z71, Boston, A688, Bell Blaze, XT502, etc",
-        version: "2.5.1.0"
+        key: "one",
+        name: "Geeksphone ONE",
+        version: "2.5.1.3"
     }
     ]
 }

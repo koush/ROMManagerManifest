@@ -360,7 +360,12 @@
         init: "init.qcom.rc",
         key: "one",
         name: "Geeksphone ONE",
-        version: "2.5.1.3"
+        version: "2.5.1.3",
+        alternate_recovery:
+        {
+            name: "ONE Recovery v1.6",
+            url: "http://dl.dropbox.com/u/10355648/recovery-ONE-1_6.img"
+        }
     }
     ]
 }

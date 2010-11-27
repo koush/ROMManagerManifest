@@ -170,7 +170,7 @@
         developer: "Smoked Glass-Esque",
         id: "m3kilpat",
         summary: "Smoked glass inspired themes that can be installed over CyanogenMod",
-        manifest: "http://github.com/m3kilpat/ROMManagerManifest/raw/master/kilpat.js",
+        manifest: "http://m3kilpat.github.com/ROMManager/kilpat.js",
         roms:
         {
             sholes: true

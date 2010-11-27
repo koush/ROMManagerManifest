@@ -1227,13 +1227,13 @@
 
     // ===== Commtiva Z71 =====
     {
-        name: "CyanogenMod 6.1.0-RC2",
-        summary: "Release Candidate 2",
+        name: "CyanogenMod 6.1.0-RC3",
+        summary: "Release Candidate 3",
         device: "z71",
-        product: "CyanogenMod",
-        incremental: 6102,
-        modversion: "CyanogenMod-6.1.0-z71-RC2",
-        url: "http://android.d3xt3r01.tk/cyanogen/z71/update-cm-6.1.0-RC2-Z71-signed.zip",
+        product: "CyanogenModRC",
+        incremental: 6103,
+        modversion: "CyanogenMod-6.1.0-z71-RC3",
+        url: "http://mirror.teamdouche.net/get/z71/update-cm-6.1.0-RC3-Z71-signed.zip",
         addons:
         [
         {

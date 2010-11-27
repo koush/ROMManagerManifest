@@ -200,6 +200,27 @@
 
     //  =====Motorola Droid=====
     {
+        name: "CyanogenMod 6.1 RC5",
+        summary: "Release Candidate",
+        device: "sholes",
+        product: "CyanogenModRC",
+        incremental: 6104,
+        modversion: "CyanogenMod-6.1.0-RC5-Droid",
+        url: "http://mirror.teamdouche.net/get/sholes/update-cm-6.1.0-RC5-Droid-signed.zip",
+        screenshots:
+        [
+        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
+        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps - 11-14-2010",
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-hdpi-20101114-signed.zip"
+        }
+        ]
+    },
+    {
         name: "CyanogenMod 6.1 RC4",
         summary: "Release Candidate",
         device: "sholes",

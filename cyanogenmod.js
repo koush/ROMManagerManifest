@@ -200,6 +200,27 @@
 
     //  =====Motorola Droid=====
     {
+        name: "CyanogenMod 6.1 RC5",
+        summary: "Release Candidate",
+        device: "sholes",
+        product: "CyanogenModRC",
+        incremental: 6104,
+        modversion: "CyanogenMod-6.1.0-RC5-Droid",
+        url: "http://mirror.teamdouche.net/get/sholes/update-cm-6.1.0-RC5-Droid-signed.zip",
+        screenshots:
+        [
+        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
+        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps - 11-14-2010",
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-hdpi-20101114-signed.zip"
+        }
+        ]
+    },
+    {
         name: "CyanogenMod 6.1 RC4",
         summary: "Release Candidate",
         device: "sholes",
@@ -633,6 +654,23 @@
 
     // =====HTC (EVO 4G)====
     {
+        name: "CyanogenMod 6.1.0-RC2",
+        summary: "Release Candidate",
+        device: "supersonic",
+        product: "CyanogenMod",
+        incremental: 6101,
+        modversion: "CyanogenMod-6.1.0-RC2-Supersonic",
+        url: "http://mirror.teamdouche.net/get/supersonic/update-cm-6.1.0-RC2-Supersonic-signed.zip",
+        addons:
+        [
+        {
+            name: "Google Apps",
+            file: "google/gapps-hdpi-20100930-signed.zip"
+        }
+        ]
+    },
+
+    {
         name: "CyanogenMod 6.1.0-RC1",
         summary: "Release Candidate",
         device: "supersonic",
@@ -682,6 +720,22 @@
     },
 
     // =====Google Nexus One====
+    {
+        name: "CyanogenMod 6.1.0-RC2",
+        summary: "Release Candidate 2",
+        device: "passion",
+        product: "CyanogenMod",
+        incremental: 6101,
+        modversion: "CyanogenMod-6.0.0-RC2-N1",
+        url: "http://mirror.teamdouche.net/get/passion/update-cm-6.1.0-RC2-N1-signed.zip",
+        addons:
+        [
+        {
+            name: "Google Apps",
+            file: "google/gapps-hdpi-20100930-signed.zip"
+        }
+        ]
+    },
     {
         name: "CyanogenMod 6.1.0-RC1",
         summary: "Release Candidate 1",
@@ -1071,11 +1125,27 @@
 
     // ===== T-Mobile MyTouch Slide (espresso) ====
     {
+        name: "CyanogenMod 6.1.0-RC3",
+        summary: "Release Candidate 3",
+        device: "espresso",
+        product: "CyanogenMod",
+        incremental: 6103,
+        modversion: "CyanogenMod-6.1.0-RC3-Slide",
+        url: "http://mirror.teamdouche.net/get/espresso/update-cm-6.1.0-RC3-Slide-signed.zip",
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-20101020-signed.zip"
+        }
+        ]
+    },
+    {
         name: "CyanogenMod 6.1.0-RC2",
         summary: "Release Candidate 2",
         device: "espresso",
         product: "CyanogenMod",
-        incremental: 6101,
+        incremental: 6102,
         modversion: "CyanogenMod-6.1.0-RC2-Slide",
         url: "http://mirror.teamdouche.net/get/espresso/update-cm-6.1.0-RC2-Slide-signed.zip",
         addons:

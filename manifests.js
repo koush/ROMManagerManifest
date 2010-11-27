@@ -886,16 +886,16 @@
             fascinate: true
         }
     },
+    {
+        developer: "DopeShiziot",
+        id: "DopeShiziot",
+        summary: "This shiz is dope!",
+        manifest: "http://dope.appfabulo.us/RM/rom-manager-manifest.js",
+        free: true,
+        roms:
         {
-            developer: "DopeShiziot",
-            id: "DopeShiziot",
-            summary: "This shiz is dope!",
-            manifest: "http://dope.appfabulo.us/RM/rom-manager-manifest.js",
-            free: true,
-            roms:
-            {
-                inc: true
-            }
+            inc: true
         }
+    }
     ]
 }

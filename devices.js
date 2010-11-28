@@ -5,6 +5,7 @@
 
     legacy:
     [
+    "2.5.1.3",
     "2.5.1.1",
     "2.5.1.0",
     "2.5.0.1",
@@ -328,7 +329,7 @@
         init: "init.vision.rc",
         key: "vision",
         name: "HTC G2",
-        version: "2.5.1.2",
+        version: "2.5.1.3",
         flash_recovery: "dd if=%s of=/dev/block/mmcblk0p21 bs=262144 ; "
     },
     

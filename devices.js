@@ -341,6 +341,14 @@
     },
     
     {
+        init: "init.spade.rc",
+        key: "ace",
+        name: "HTC Desire HD",
+        version: "2.5.1.3",
+        flash_recovery: "dd if=%s of=/dev/block/mmcblk0p21 bs=262144 ; "
+    },
+    
+    {
         init: "init.morrison.rc",
         key: "morrison",
         name: "Motorola Cliq",

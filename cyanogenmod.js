@@ -1051,7 +1051,7 @@
         [
         {
             name: "Google Apps",
-            file: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-hdpi-20101114-signed.zip"
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-hdpi-20101114-signed.zip"
         }
         ]
     },
@@ -1159,7 +1159,7 @@
         [
         {
             name: "Google Apps",
-            file: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-hdpi-20101114-signed.zip"
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-hdpi-20101114-signed.zip"
         }
         ]
     },

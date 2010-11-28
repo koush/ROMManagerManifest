@@ -27,7 +27,7 @@
     //
     //32B - Dream/Sapphire - New Radio/SPL
     {
-        name: "Kernel 2.6.35.9 - OC-UV-XTRA-RAM-FP",
+        name: "Kernel 2.6.35.9 - OC-UV-XTRA-RAM-FP - Radio 2708",
         summary: "1128 - Dream/Sapphire (32B) - Radio 2708 - 12:00",
         devices:
         [

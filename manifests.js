@@ -31,7 +31,8 @@
             supersonic: true,
             liberty: true,
             legend: true,
-            z71: true
+            z71: true,
+            one: true
         }
     },
     {

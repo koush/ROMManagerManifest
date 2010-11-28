@@ -1393,6 +1393,24 @@
         ]
     },
 
+    // ===== Geeksphone ONE =====
+    {
+        name: "CyanogenMod 6.1.0-RC1",
+        summary: "Release Candidate 1",
+        device: "one",
+        product: "CyanogenModRC",
+        incremental: 6101,
+        modversion: "CyanogenMod-6.1.0-one-RC1",
+        url: "http://dl.dropbox.com/u/10355648/update-cm-6.1.0-RC1-ONE-signed.zip",
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-mdpi-tiny-20101020-signed.zip"
+        }
+        ]
+    },
+
     // ==== Google Apps ====
     {
         name: "Google Apps (Froyo)",

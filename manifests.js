@@ -32,6 +32,7 @@
             liberty: true,
             legend: true,
             z71: true
+            one: true
         }
     },
     {

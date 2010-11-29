@@ -376,6 +376,17 @@
             name: "ONE Recovery v1.6",
             url: "http://dl.dropbox.com/u/10355648/recovery-ONE-1_6.img"
         }
+    },
+    {
+        init: "init.qcom.rc",
+        key: "FM6",
+        name: "Spice MI700, Commtiva Link N700 and more)",
+        version: "2.5.1.2",
+        alternate_recovery:
+        {
+            name: "MI700 Recovery v1.6",
+            url: "http://dl.dropbox.com/u/15816725/MI700-recovery-V1_3.img"
+        }
     }
     ]
 }

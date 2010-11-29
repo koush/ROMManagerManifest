@@ -490,7 +490,7 @@
         developer: "cvpcs",
         id: "cvpcs",
         summary: "Source-based mods made by CVPCS",
-        manifest: "http://github.com/cvpcs/android_vendor_cvpcs/raw/froyo-gem/rommanager/cvpcs-rmm.js",
+        manifest: "http://cvpcs.github.com/android_vendor_cvpcs/cvpcs-rmm.js",
         free: true,
         roms:
         {

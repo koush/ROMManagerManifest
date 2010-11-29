@@ -379,7 +379,7 @@
     },
     
     {
-        init: "init.nonexistent.rc",
+        init: "init_recovery.rc",
         key: "vega",
         name: "Advent Vega",
         version: "2.5.1.4",

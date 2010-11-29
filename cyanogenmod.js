@@ -1033,14 +1033,37 @@
         ]
     },
 
-    // ===== HTC Desire GSM  =====
+    // ===== HTC Desire HD =====
+    {
+        name: "CyanogenMod 6.1.0-RC1",
+        summary: "Release Candidate 1",
+        device: "ace",
+        product: "CyanogenMod",
+        incremental: 6100,
+        modversion: "CyanogenMod-6.1.0-DesireHD-RC1",
+        url: "http://android.d3xt3r01.tk/cyanogen/ace/update-cm-6.1.0-RC1-DesireHD-signed.zip",
+        screenshots:
+        [
+        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
+        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-hdpi-20101114-signed.zip"
+        }
+        ]
+    },
+
+    // ===== HTC Desire GSM =====
     {
         name: "CyanogenMod 6.1.0-RC2",
         summary: "Release Candidate 2",
         device: "bravo",
         product: "CyanogenMod",
         incremental: 6102,
-        modversion: "CyanogenMod-6.2.0-Bravo-RC2",
+        modversion: "CyanogenMod-6.1.0-Bravo-RC2",
         url: "http://android.d3xt3r01.tk/cyanogen/bravo/update-cm-6.1.0-RC2-Desire-signed.zip",
         screenshots:
         [
@@ -1141,7 +1164,7 @@
         ]
     },
 
-    // ===== HTC Desire CDMA  =====
+    // ===== HTC Desire CDMA =====
     {
         name: "CyanogenMod 6.1.0-RC2",
         summary: "Release Candidate 2",

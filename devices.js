@@ -173,8 +173,8 @@
         version: "2.5.0.5",
         alternate_recovery:
         {
-            name: "RA_GNM Recovery v1.7.6",
-            url: "http://www.getitnowmarketing.noodlesoftware.com/recovery/recovery-RA-inc_v1.7.0.6_GNM.img"
+            name: "RA_GNM Recovery v1.8.1",
+            url: "http://www.getitnowmarketing.noodlesoftware.com/recovery/recovery-RA-inc-v1.8.1-GNM.img"
         }
     },
 
@@ -276,8 +276,8 @@
         version: "2.5.0.5",
         alternate_recovery:
         {
-            name: "RA_GNM Recovery v1.2.4",
-            url: "http://www.getitnowmarketing.noodlesoftware.com/recovery/recovery-aloha-RA_GNM_v1.2.4.img"
+            name: "RA_GNM Recovery v1.2.5",
+            url: "http://www.getitnowmarketing.noodlesoftware.com/recovery/recovery-aloha-RA-v1.2.5-GNM.img"
         }
     },
     

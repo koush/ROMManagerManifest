@@ -897,6 +897,17 @@
         {
             inc: true
         }
+    },
+    {
+        developer: "geeknik",
+        id: "geeknikbrian",
+        summary: "Kernels for Samsung Fascinate",
+        manifest: "http://totalnerdity.com/ROMManagerManifest/geeknik_manifest.js",
+        free: true,
+        roms:
+        {
+            fascinate: true
+        }
     }
     ]
 }

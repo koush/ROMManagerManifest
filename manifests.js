@@ -32,7 +32,8 @@
             liberty: true,
             legend: true,
             z71: true,
-            one: true
+            one: true,
+            ace: true
         }
     },
     {

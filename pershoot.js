@@ -17,9 +17,9 @@
     //**************************************
     {
         name: "Kernel 2.6.35.9 – OC-UV-XTRA-BTN-AUD-RAM-NEON_FP",
-        summary: "1130 - Nexus - 1:00",
+        summary: "1201 - Nexus - 19:45",
         device: "passion",
-        url: "http://droidbasement.com/nexus/kernels/ram/2635/49/boot-cm_2635.9-oc-uv-xtra-btn-aud-ram-neon_fp-113010.zip"
+        url: "http://droidbasement.com/nexus/kernels/ram/2635/50/boot-cm_2635.9-oc-uv-xtra-btn-aud-ram-neon_fp-120110.zip"
     },
     //**************************************
     //**********Dream/Sapphire**************
@@ -28,31 +28,31 @@
     //32B - Dream/Sapphire - New Radio/SPL
     {
         name: "Kernel 2.6.35.9 - OC-UV-XTRA-RAM-FP - Radio 2708",
-        summary: "1130 - Dream/Sapphire (32B) - Radio 2708 - 1:00",
+        summary: "1201 - Dream/Sapphire (32B) - Radio 2708 - 19:45",
         devices:
         [
         "dream",
         "sapphire"
         ],
-        url: "http://droidbasement.com/g1/kernels/ram/2635/13/boot-cm_2635.9_ds_32b_radio2708-oc-uv-xtra-ram-fp-113010.zip"
+        url: "http://droidbasement.com/g1/kernels/ram/2635/14/boot-cm_2635.9_ds_32b_radio2708-oc-uv-xtra-ram-fp-120110.zip"
     },
     //32B - Dream/Sapphire
     {
         name: "Kernel 2.6.35.9 - OC-UV-XTRA-RAM-FP",
-        summary: "1130 - Dream/Sapphire (32B) - 1:00",
+        summary: "1201 - Dream/Sapphire (32B) - 19:45",
         devices:
         [
         "dream",
         "sapphire"
         ],
-        url: "http://droidbasement.com/g1/kernels/ram/2635/13/boot-cm_2635.9_ds_32b-oc-uv-xtra-ram-fp-113010.zip"
+        url: "http://droidbasement.com/g1/kernels/ram/2635/14/boot-cm_2635.9_ds_32b-oc-uv-xtra-ram-fp-120110.zip"
     },
     //32A - Magic
     {
         name: "Kernel 2.6.35.9 - OC-UV-XTRA-FP",
-        summary: "1130 - Dream/Sapphire (32A) - 1:00",
+        summary: "1201 - Dream/Sapphire (32A) - 19:45",
         device: "magic",
-        url: "http://droidbasement.com/g1/kernels/ram/2635/13/boot-cm_2635.9_ds_32a-oc-uv-xtra-ram-fp-113010.zip"
+        url: "http://droidbasement.com/g1/kernels/ram/2635/14/boot-cm_2635.9_ds_32a-oc-uv-xtra-ram-fp-120110.zip"
     }
     //END
     ]

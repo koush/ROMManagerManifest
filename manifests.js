@@ -606,12 +606,13 @@
     {
         developer: "Jamezelle",
         id: "jamezelle",
-        summary: "ROMS for the Droid Eris!",
-        manifest: "http://github.com/jamezelle/ROM-Manager-Manifest/raw/master/jamezelle.js",
+        summary: "ROMS for the Droid and Droid Eris!",
+        manifest: "http://github.com/jamezelle/ROM-Manager-Manifest/raw/master/manifest.js",
         free: true,
         roms:
         {
-            desirec: true
+            desirec: true,
+            sholes: true
         }
     },
     {

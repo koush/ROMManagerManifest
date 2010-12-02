@@ -176,7 +176,7 @@
     	free: true,
     	roms:
     	{
-    		shadow: true
+    		droidx: true
     	}
     },
     {

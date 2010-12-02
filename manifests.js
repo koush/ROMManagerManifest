@@ -841,6 +841,7 @@
         id: "fabolous",
         summary: "ROMS and Themes for Droid X",
         manifest: "http://fabdroid.com/rommanager/fabolous.js",
+        free: true,
         roms:
         {
             droidx: true

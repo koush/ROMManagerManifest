@@ -169,6 +169,17 @@
         }
     },
     {
+    	developer: "JRummy16",
+    	id: "JRummy16",
+    	summary: "So awesome that Chuck Norris runs it as his daily ROM ;)",
+    	manifest: "http://froyoroms.com/files/developers/jrummy/JRummy/Rom_Manager/jrummy.js",
+    	free: true,
+    	roms:
+    	{
+    		shadow: true
+    	}
+    },
+    {
         developer: "Smoked Glass-Esque",
         id: "m3kilpat",
         summary: "Smoked glass inspired themes that can be installed over CyanogenMod",

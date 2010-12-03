@@ -618,7 +618,7 @@
         developer: "Jamezelle",
         id: "jamezelle",
         summary: "ROMS for the Droid and Droid Eris!",
-        manifest: "http://github.com/jamezelle/ROM-Manager-Manifest/raw/master/manifest.js",
+        manifest: "http://jamezelle.com/RomManagerManifest/manifest.js",
         free: true,
         roms:
         {

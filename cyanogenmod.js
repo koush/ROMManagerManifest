@@ -1056,6 +1056,27 @@
 
     // ===== HTC Desire HD =====
     {
+        name: "CyanogenMod 6.1.0-RC2",
+        summary: "Release Candidate 2",
+        device: "ace",
+        product: "CyanogenMod",
+        incremental: 6102,
+        modversion: "CyanogenMod-6.1.0-DesireHD-RC2",
+        url: "http://android.d3xt3r01.tk/cyanogen/ace/update-cm-6.1.0-RC2-DesireHD-signed.zip",
+        screenshots:
+        [
+        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
+        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-hdpi-20101114-signed.zip"
+        }
+        ]
+    },
+    {
         name: "CyanogenMod 6.1.0-RC1",
         summary: "Release Candidate 1",
         device: "ace",

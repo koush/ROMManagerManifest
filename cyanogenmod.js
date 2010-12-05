@@ -18,6 +18,27 @@
     [
     // ===== HTC Vision (G2) ====
     {
+        name: "CyanogenMod 6.1",
+        summary: "Stable Release",
+        device: "vision",
+        product: "CyanogenMod",
+        incremental: 0006,
+        modversion: "CyanogenMod-6.1.0-G2",
+        url: "http://mirror.teamdouche.net/get/vision/update-cm-6.1.0-vision-signed.zip",
+        screenshots:
+        [
+        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
+        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-hdpi-20101114-signed.zip"
+        }
+        ]
+    },
+    {
         name: "CyanogenMod 6.1 RC4",
         summary: "Release Candidate",
         device: "vision",
@@ -695,6 +716,22 @@
 
     // =====HTC (EVO 4G)====
     {
+        name: "CyanogenMod 6.1.0",
+        summary: "Stable Release",
+        device: "supersonic",
+        product: "CyanogenMod",
+        incremental: 6102,
+        modversion: "CyanogenMod-6.1.0-Supersonic",
+        url: "http://mirror.teamdouche.net/get/supersonic/update-cm-6.1.0-Supersonic-signed.zip",
+        addons:
+        [
+        {
+            name: "Google Apps",
+            file: "google/gapps-hdpi-20101114-signed.zip"
+        }
+        ]
+    },
+    {
         name: "CyanogenMod 6.1.0-RC2",
         summary: "Release Candidate",
         device: "supersonic",
@@ -761,6 +798,23 @@
     },
 
     // =====Google Nexus One====
+    {
+        name: "CyanogenMod 6.1.0",
+        summary: "Stable Release",
+        device: "passion",
+        product: "CyanogenMod",
+        incremental: 6102,
+        modversion: "CyanogenMod-6.1.0-N1",
+        url: "http://mirror.teamdouche.net/get/passion/update-cm-6.1.0-N1-signed.zip",
+        addons:
+        [
+        {
+            name: "Google Apps",
+            file: "google/gapps-hdpi-20101114-signed.zip"
+        }
+        ]
+    },
+
     {
         name: "CyanogenMod 6.1.0-RC2",
         summary: "Release Candidate 2",
@@ -866,6 +920,25 @@
 
     // =====G1=====
     {
+        name: "CyanogenMod 6.1.0",
+        summary: "Stable Release",
+        device: "dream",
+        product: "CyanogenMod",
+        incremental: 6101,
+        modversion: "CyanogenMod-6.1.0-DS",
+        urls:
+        [
+        "http://mirror.teamdouche.net/get/dream_sapphire/update-cm-6.1.0-DS-signed.zip"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-mdpi-tiny-20101020-signed.zip"
+        }
+        ]
+    },
+    {
         name: "CyanogenMod 6.1.0-RC1",
         summary: "Release Candidate 1",
         device: "dream",
@@ -963,6 +1036,26 @@
     },
 
     // =====32B=====
+    {
+        name: "CyanogenMod 6.1.0",
+        summary: "Stable Release",
+        device: "sapphire",
+        product: "CyanogenMod",
+        incremental: 6101,
+        modversion: "CyanogenMod-6.1.0-DS",
+        urls:
+        [
+        "http://mirror.teamdouche.net/get/dream_sapphire/update-cm-6.1.0-DS-signed.zip"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-mdpi-tiny-20101020-signed.zip"
+        }
+        ]
+    },
+
     {
         name: "CyanogenMod 6.1.0-RC1",
         summary: "Release Candidate 1",

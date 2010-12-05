@@ -922,6 +922,16 @@
         {
             fascinate: true
         }
+    },
+    {
+        developer: "davidjr621",
+        id: "davidjr621",
+        summary: "Axiom Sixty6 - Custom ROM for the Droid (Sholes)",
+        manifest: "http://dl.dropbox.com/u/9372031/Axiom/axiom.js",
+        roms:
+        {
+            sholes: true
+        }
     }
     ]
 }

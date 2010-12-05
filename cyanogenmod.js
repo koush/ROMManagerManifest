@@ -262,118 +262,13 @@
 
     //  =====Motorola Droid=====
     {
-        name: "CyanogenMod 6.1 RC5",
-        summary: "Release Candidate",
-        device: "sholes",
-        product: "CyanogenModRC",
-        incremental: 6104,
-        modversion: "CyanogenMod-6.1.0-RC5-Droid",
-        url: "http://mirror.teamdouche.net/get/sholes/update-cm-6.1.0-RC5-Droid-signed.zip",
-        screenshots:
-        [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
-        addons:
-        [
-        {
-            name: "Google Apps - 11-14-2010",
-            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-hdpi-20101114-signed.zip"
-        }
-        ]
-    },
-    {
-        name: "CyanogenMod 6.1 RC4",
-        summary: "Release Candidate",
-        device: "sholes",
-        product: "CyanogenModRC",
-        incremental: 6103,
-        modversion: "CyanogenMod-6.1.0-RC4-Droid",
-        url: "http://mirror.teamdouche.net/get/sholes/update-cm-6.1.0-RC4-Droid-signed.zip",
-        screenshots:
-        [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
-        addons:
-        [
-        {
-            name: "Google Apps - 11-14-2010",
-            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-hdpi-20101114-signed.zip"
-        }
-        ]
-    },
-    {
-        name: "CyanogenMod 6.1 RC3",
-        summary: "Release Candidate",
-        device: "sholes",
-        product: "CyanogenModRC",
-        incremental: 6102,
-        modversion: "CyanogenMod-6.1.0-RC3-Droid",
-        url: "http://mirror.teamdouche.net/get/sholes/update-cm-6.1.0-RC3-Droid-signed.zip",
-        screenshots:
-        [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
-        addons:
-        [
-        {
-            name: "Google Apps",
-            url: "http://goo-inside.me/google-apps/gapps-hdpi-20101025-signed.zip"
-        }
-        ]
-    },
-    {
-        name: "CyanogenMod 6.1 RC2",
-        summary: "Release Candidate",
-        device: "sholes",
-        product: "CyanogenModRC",
-        incremental: 6101,
-        modversion: "CyanogenMod-6.1.0-RC2-Droid",
-        file: "motorola/sholes/update-cm-6.1.0-RC2-Droid-signed.zip",
-        screenshots:
-        [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
-        addons:
-        [
-        {
-            name: "Google Apps",
-            url: "http://goo-inside.me/google-apps/gapps-hdpi-20101025-signed.zip"
-        }
-        ]
-    },
-    {
-        name: "CyanogenMod 6.1 RC1",
-        summary: "Release Candidate",
-        device: "sholes",
-        product: "CyanogenModRC",
-        incremental: 6100,
-        modversion: "CyanogenMod-6.1.0-RC1-Droid",
-        file: "motorola/sholes/update-cm-6.1.0-RC0-Droid-signed.zip",
-        screenshots:
-        [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
-        addons:
-        [
-        {
-            name: "Google Apps",
-            url: "http://goo-inside.me/google-apps/gapps-hdpi-20101025-signed.zip"
-        }
-        ]
-    },
-    {
-        name: "CyanogenMod 6.0.0",
+        name: "CyanogenMod 6.1.0",
         summary: "Stable Release",
         device: "sholes",
         product: "CyanogenMod",
-        incremental: 6000,
-        modversion: "CyanogenMod-6.0.0-Droid",
-        url: "http://mirror.teamdouche.net/get/sholes/update-cm-6.0.0-Droid-signed.zip",
+        incremental: 6105,
+        modversion: "CyanogenMod-6.1.0-Droid",
+        url: "http://mirror.teamdouche.net/get/sholes/update-cm-6.1.0-Droid-signed.zip",
         choices:
         [
         {
@@ -399,19 +294,19 @@
         addons:
         [
         {
-            name: "Google Apps",
-            file: "google/gapps-hdpi-20100930-signed.zip"
+            name: "Google Apps - 11-14-2010",
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-hdpi-20101114-signed.zip"
         }
         ]
     },
     {
-        name: "CyanogenMod 6.0.0-RC3",
-        summary: "Release Candidate 3",
+        name: "CyanogenMod 6.0.0",
+        summary: "Stable Release",
         device: "sholes",
         product: "CyanogenMod",
-        incremental: 0,
-        modversion: "CyanogenMod-6.0.0-Droid-RC3",
-        file: "motorola/sholes/update-cm-6.0.0-Droid-RC3-signed.zip",
+        incremental: 6000,
+        modversion: "CyanogenMod-6.0.0-Droid",
+        url: "http://mirror.teamdouche.net/get/sholes/update-cm-6.0.0-Droid-signed.zip",
         choices:
         [
         {
@@ -463,7 +358,6 @@
         }
         ]
     },
-
     {
         name: "bekit Kernels (0.8.4)",
         developer: true,

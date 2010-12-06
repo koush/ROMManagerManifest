@@ -90,6 +90,7 @@
             vision: true,
             z71: true,
             one: true
+            ace: true
         }
     },
     {

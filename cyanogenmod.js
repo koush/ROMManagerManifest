@@ -1087,6 +1087,27 @@
 
     // ===== HTC Desire GSM =====
     {
+        name: "CyanogenMod 6.1.0",
+        summary: "Stable Release",
+        device: "bravo",
+        product: "CyanogenMod",
+        incremental: 6103,
+        modversion: "CyanogenMod-6.1.0-Bravo",
+        url: "http://mirror.teamdouche.net/get/bravo/update-cm-6.1.0-Desire-signed.zip",
+        screenshots:
+        [
+        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
+        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-hdpi-20101114-signed.zip"
+        }
+        ]
+    },
+    {
         name: "CyanogenMod 6.1.0-RC2",
         summary: "Release Candidate 2",
         device: "bravo",
@@ -1195,6 +1216,27 @@
 
     // ===== HTC Desire CDMA =====
     {
+        name: "CyanogenMod 6.1.0",
+        summary: "Stable Release",
+        device: "bravoc",
+        product: "CyanogenMod",
+        incremental: 6103,
+        modversion: "CyanogenMod-6.1.0-Bravoc",
+        url: "http://mirror.teamdouche.net/get/bravoc/update-cm-6.1.0-BravoC-signed.zip",
+        screenshots:
+        [
+        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
+        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-hdpi-20101114-signed.zip"
+        }
+        ]
+    },
+    {
         name: "CyanogenMod 6.1.0-RC2",
         summary: "Release Candidate 2",
         device: "bravoc",
@@ -1238,6 +1280,22 @@
     },
 
     // ===== T-Mobile MyTouch Slide (espresso) ====
+    {
+        name: "CyanogenMod 6.1.0",
+        summary: "Stable Release",
+        device: "espresso",
+        product: "CyanogenMod",
+        incremental: 6104,
+        modversion: "CyanogenMod-6.1.0-Slide",
+        url: "http://mirror.teamdouche.net/get/espresso/update-cm-6.1.0-Slide-signed.zip",
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-20101020-signed.zip"
+        }
+        ]
+    },
     {
         name: "CyanogenMod 6.1.0-RC3",
         summary: "Release Candidate 3",

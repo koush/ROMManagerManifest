@@ -900,7 +900,8 @@
         free: true,
         roms:
         {
-            fascinate: true
+            fascinate: true,
+            vibrant: true
         }
     },
     {

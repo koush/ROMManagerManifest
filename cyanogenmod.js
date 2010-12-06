@@ -1411,6 +1411,22 @@
 
     // ===== Commtiva Z71 =====
     {
+        name: "CyanogenMod 6.1.0",
+        summary: "Stable Release",
+        device: "z71",
+        product: "CyanogenMod",
+        incremental: 6105,
+        modversion: "CyanogenMod-6.1.0-z71",
+        url: "http://mirror.teamdouche.net/get/z71/update-cm-6.1.0-Z71-signed.zip",
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-mdpi-20101020-signed.zip"
+        }
+        ]
+    },
+    {
         name: "CyanogenMod 6.1.0-RC4",
         summary: "Release Candidate 4",
         device: "z71",
@@ -1446,6 +1462,22 @@
     },
 
     // ===== Geeksphone ONE =====
+    {
+        name: "CyanogenMod 6.1.0",
+        summary: "Stable Release",
+        device: "one",
+        product: "CyanogenMod",
+        incremental: 6102,
+        modversion: "CyanogenMod-6.1.0-one",
+        url: "http://mirror.teamdouche.net/get/one/update-cm-6.1.0-ONE-signed.zip",
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-mdpi-tiny-20101020-signed.zip"
+        }
+        ]
+    },
     {
         name: "CyanogenMod 6.1.0-RC1",
         summary: "Release Candidate 1",

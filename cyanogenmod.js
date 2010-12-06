@@ -1476,6 +1476,11 @@
         incremental: 6105,
         modversion: "CyanogenMod-6.1.0-z71",
         url: "http://mirror.teamdouche.net/get/z71/update-cm-6.1.0-Z71-signed.zip",
+        screenshots:
+        [
+        "http://dl.dropbox.com/u/10355648/mdpi-ss1.png",
+        "http://dl.dropbox.com/u/10355648/mdpi-ss2.png"
+        ],
         addons:
         [
         {

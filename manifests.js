@@ -89,6 +89,7 @@
             legend: true,
             vision: true,
             z71: true
+            one: true
         }
     },
     {

@@ -1490,13 +1490,13 @@
 
     // ===== HTC Legend =====
     {
-        name: "CyanogenMod 6.1.0-RC2",
-        summary: "Release Candidate 2",
+        name: "CyanogenMod 6.1.0",
+        summary: "Stable Release",
         device: "legend",
         product: "CyanogenMod",
-        incremental: 6102,
-        modversion: "CyanogenMod-6.1.0-Legend-RC2",
-        url: "http://www.cynicalpixels.com/cyanogenmod/legend/update-cm-6.1.0-RC2-Legend-signed.zip",
+        incremental: 6103,
+        modversion: "CyanogenMod-6.1.0-Legend",
+        url: "http://mirror.teamdouche.net/get/legend/update-cm-6.1.0-Legend-signed.zip",
         addons:
         [
         {

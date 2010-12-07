@@ -1087,6 +1087,27 @@
 
     // ===== HTC Desire GSM =====
     {
+        name: "CyanogenMod 6.1.0",
+        summary: "Stable Release",
+        device: "bravo",
+        product: "CyanogenMod",
+        incremental: 6103,
+        modversion: "CyanogenMod-6.1.0-Bravo",
+        url: "http://mirror.teamdouche.net/get/bravo/update-cm-6.1.0-Desire-signed.zip",
+        screenshots:
+        [
+        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
+        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-hdpi-20101114-signed.zip"
+        }
+        ]
+    },
+    {
         name: "CyanogenMod 6.1.0-RC2",
         summary: "Release Candidate 2",
         device: "bravo",
@@ -1195,6 +1216,27 @@
 
     // ===== HTC Desire CDMA =====
     {
+        name: "CyanogenMod 6.1.0",
+        summary: "Stable Release",
+        device: "bravoc",
+        product: "CyanogenMod",
+        incremental: 6103,
+        modversion: "CyanogenMod-6.1.0-Bravoc",
+        url: "http://mirror.teamdouche.net/get/bravoc/update-cm-6.1.0-BravoC-signed.zip",
+        screenshots:
+        [
+        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
+        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-hdpi-20101114-signed.zip"
+        }
+        ]
+    },
+    {
         name: "CyanogenMod 6.1.0-RC2",
         summary: "Release Candidate 2",
         device: "bravoc",
@@ -1238,6 +1280,22 @@
     },
 
     // ===== T-Mobile MyTouch Slide (espresso) ====
+    {
+        name: "CyanogenMod 6.1.0",
+        summary: "Stable Release",
+        device: "espresso",
+        product: "CyanogenMod",
+        incremental: 6104,
+        modversion: "CyanogenMod-6.1.0-Slide",
+        url: "http://mirror.teamdouche.net/get/espresso/update-cm-6.1.0-Slide-signed.zip",
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-20101020-signed.zip"
+        }
+        ]
+    },
     {
         name: "CyanogenMod 6.1.0-RC3",
         summary: "Release Candidate 3",
@@ -1340,13 +1398,13 @@
 
     // ===== HTC Aria (liberty) ====
     {
-        name: "CyanogenMod 6.1.0-RC2",
-        summary: "Release Canidate 2",
+        name: "CyanogenMod 6.1.0",
+        summary: "Stable Release",
         device: "liberty",
         product: "CyanogenMod",
-        incremental: 6102,
-        modversion: "CyanogenMod-6.1.0-RC2-liberty",
-        url: "http://android.d3xt3r01.tk/cyanogen/liberty/update-cm-6.1.0-RC2-Liberty-signed.zip",
+        incremental: 6103,
+        modversion: "CyanogenMod-6.1.0-liberty",
+        url: "http://android.d3xt3r01.tk/cyanogen/liberty/update-cm-6.1.0-Liberty-signed.zip",
         addons:
         [
         {
@@ -1357,39 +1415,21 @@
     },
 
     {
-        name: "CyanogenMod 6.0.0",
-        summary: "Stable Release",
+        name: "CyanogenMod 6.1.0-RC2",
+        summary: "Release Canidate 2",
         device: "liberty",
         product: "CyanogenMod",
-        incremental: 6000,
-        modversion: "CyanogenMod-6.0.0-liberty",
-        url: "http://mirror.jeago.com/aria/CyanogenMod-6.0.0-liberty-signed.zip",
+        incremental: 610,
+        modversion: "CyanogenMod-6.1.0-RC2-liberty",
+        url: "http://android.d3xt3r01.tk/cyanogen/liberty/update-cm-6.1.0-RC2-Liberty-signed.zip",
         addons:
         [
         {
             name: "Google Apps",
-            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-20101020-signed.zip"
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-mdpi-20101020-signed.zip"
         }
         ]
     },
-
-    {
-        name: "CyanogenMod 6.0.2.1",
-        summary: "Stable Release",
-        device: "liberty",
-        product: "CyanogenMod",
-        incremental: 6021,
-        modversion: "CyanogenMod-6.0.2.1-liberty",
-        url: "http://www.tap3w0rm.com/hosted/android/aria/update-cm-6.0.2.1-Liberty-signed.zip",
-        addons:
-        [
-        {
-            name: "Google Apps",
-            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-20101020-signed.zip"
-        }
-        ]
-    },
-
 
     // ===== HTC Wildfire  =====
     {
@@ -1410,6 +1450,27 @@
     },
 
     // ===== Commtiva Z71 =====
+    {
+        name: "CyanogenMod 6.1.0",
+        summary: "Stable Release",
+        device: "z71",
+        product: "CyanogenMod",
+        incremental: 6105,
+        modversion: "CyanogenMod-6.1.0-z71",
+        url: "http://mirror.teamdouche.net/get/z71/update-cm-6.1.0-Z71-signed.zip",
+        screenshots:
+        [
+        "http://dl.dropbox.com/u/10355648/mdpi-ss1.png",
+        "http://dl.dropbox.com/u/10355648/mdpi-ss2.png"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-mdpi-20101020-signed.zip"
+        }
+        ]
+    },
     {
         name: "CyanogenMod 6.1.0-RC4",
         summary: "Release Candidate 4",
@@ -1446,6 +1507,22 @@
     },
 
     // ===== Geeksphone ONE =====
+    {
+        name: "CyanogenMod 6.1.0",
+        summary: "Stable Release",
+        device: "one",
+        product: "CyanogenMod",
+        incremental: 6102,
+        modversion: "CyanogenMod-6.1.0-one",
+        url: "http://mirror.teamdouche.net/get/one/update-cm-6.1.0-ONE-signed.zip",
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-mdpi-tiny-20101020-signed.zip"
+        }
+        ]
+    },
     {
         name: "CyanogenMod 6.1.0-RC1",
         summary: "Release Candidate 1",

@@ -1398,13 +1398,13 @@
 
     // ===== HTC Aria (liberty) ====
     {
-        name: "CyanogenMod 6.1.0-RC2",
-        summary: "Release Canidate 2",
+        name: "CyanogenMod 6.1.0",
+        summary: "Stable Release",
         device: "liberty",
         product: "CyanogenMod",
-        incremental: 6102,
-        modversion: "CyanogenMod-6.1.0-RC2-liberty",
-        url: "http://android.d3xt3r01.tk/cyanogen/liberty/update-cm-6.1.0-RC2-Liberty-signed.zip",
+        incremental: 6103,
+        modversion: "CyanogenMod-6.1.0-liberty",
+        url: "http://android.d3xt3r01.tk/cyanogen/liberty/update-cm-6.1.0-Liberty-signed.zip",
         addons:
         [
         {
@@ -1415,39 +1415,21 @@
     },
 
     {
-        name: "CyanogenMod 6.0.0",
-        summary: "Stable Release",
+        name: "CyanogenMod 6.1.0-RC2",
+        summary: "Release Canidate 2",
         device: "liberty",
         product: "CyanogenMod",
-        incremental: 6000,
-        modversion: "CyanogenMod-6.0.0-liberty",
-        url: "http://mirror.jeago.com/aria/CyanogenMod-6.0.0-liberty-signed.zip",
+        incremental: 610,
+        modversion: "CyanogenMod-6.1.0-RC2-liberty",
+        url: "http://android.d3xt3r01.tk/cyanogen/liberty/update-cm-6.1.0-RC2-Liberty-signed.zip",
         addons:
         [
         {
             name: "Google Apps",
-            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-20101020-signed.zip"
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-mdpi-20101020-signed.zip"
         }
         ]
     },
-
-    {
-        name: "CyanogenMod 6.0.2.1",
-        summary: "Stable Release",
-        device: "liberty",
-        product: "CyanogenMod",
-        incremental: 6021,
-        modversion: "CyanogenMod-6.0.2.1-liberty",
-        url: "http://www.tap3w0rm.com/hosted/android/aria/update-cm-6.0.2.1-Liberty-signed.zip",
-        addons:
-        [
-        {
-            name: "Google Apps",
-            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-20101020-signed.zip"
-        }
-        ]
-    },
-
 
     // ===== HTC Wildfire  =====
     {

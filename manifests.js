@@ -841,12 +841,13 @@
     {
         developer: "Fabolous",
         id: "fabolous",
-        summary: "ROMS and Themes for Droid X",
+        summary: "ROMS and Themes for Droid X/2",
         manifest: "http://fabdroid.com/rommanager/fabolous.js",
         free: true,
         roms:
         {
-            droidx: true
+            droidx: true,
+            droid2: true
         }
     },
     {

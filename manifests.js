@@ -729,18 +729,6 @@
         }
     },
     {
-        developer: "Andrizoid",
-        id: "Andrizoid",
-        summary: "All my projects can be found here",
-        manifest: "http://ken.appfabulo.us/Rom-Manager/rom-manager-manifest.js",
-        free: true,
-        roms:
-        {
-            inc: true,
-            desirec: true
-        }
-    },
-    {
         developer: "Uncommon Sense",
         id: "uncommonsense",
         summary: "Rosie like you've never seen her before.",

@@ -925,6 +925,16 @@
         {
             sholes: true
         }
+    },
+    {
+        developer: "IncROM",
+        id: "lllboredlll",
+        summary: "Making your Incredible, INCREDIBLE!!!",
+        manifest: "http://htc-tweakers.com/IncROM/IncROM.js",
+        roms:
+        {
+             inc: true
+        }
     }
     ]
 }

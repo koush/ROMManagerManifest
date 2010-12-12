@@ -33,7 +33,8 @@
             legend: true,
             z71: true,
             one: true,
-            ace: true
+            ace: true,
+            buzz: true
         }
     },
     {
@@ -90,7 +91,8 @@
             vision: true,
             z71: true,
             one: true,
-            ace: true
+            ace: true,
+            buzz: true
         }
     },
     {

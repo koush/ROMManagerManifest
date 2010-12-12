@@ -1433,6 +1433,23 @@
 
     // ===== HTC Wildfire  =====
     {
+        name: "CyanogenMod 6.1.0",
+        summary: "Stable Release",
+        device: "buzz",
+        product: "CyanogenMod",
+        incremental: 6101,
+        modversion: "CyanogenMod-6.1.0-Buzz",
+        url: "http://mirror.teamdouche.net/get/buzz/update-cm-6.1.0-buzz-signed.zip",
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-mdpi-20101020-signed.zip"
+        }
+        ]
+    },
+
+    {
         name: "CyanogenMod 6.1.0-RC1",
         summary: "Release Candidate 1",
         device: "buzz",

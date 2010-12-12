@@ -427,7 +427,7 @@
         init: "init.smdkc110.rc",
         key: "verizon_tab",
         name: "Galaxy Tab - Verizon",
-        version: "2.5.1.7",
+        version: "2.5.1.8",
         readonly_recovery: true
     },
 
@@ -435,7 +435,7 @@
         init: "init.smdkc110.rc",
         key: "att_tab",
         name: "Galaxy Tab - ATT",
-        version: "2.5.1.7",
+        version: "2.5.1.8",
         readonly_recovery: true
     },
 
@@ -443,7 +443,7 @@
         init: "init.smdkc110.rc",
         key: "tmobile_tab",
         name: "Galaxy Tab - T-Mobile",
-        version: "2.5.1.7",
+        version: "2.5.1.8",
         readonly_recovery: true
     },
 

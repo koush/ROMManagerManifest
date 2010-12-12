@@ -173,15 +173,15 @@
         }
     },
     {
-    	developer: "JRummy16",
-    	id: "JRummy16",
-    	summary: "So awesome that Chuck Norris runs it as his daily ROM ;)",
-    	manifest: "http://froyoroms.com/files/developers/jrummy/JRummy/Rom_Manager/jrummy.js",
-    	free: true,
-    	roms:
-    	{
-    		droidx: true
-    	}
+        developer: "JRummy16",
+        id: "JRummy16",
+        summary: "So awesome that Chuck Norris runs it as his daily ROM ;)",
+        manifest: "http://froyoroms.com/files/developers/jrummy/JRummy/Rom_Manager/jrummy.js",
+        free: true,
+        roms:
+        {
+            droidx: true
+        }
     },
     {
         developer: "Smoked Glass-Esque",
@@ -936,19 +936,30 @@
         free: true,
         roms:
         {
-             inc: true
+            inc: true
         }
-     },
-     {
+    },
+    {
         developer: "echo",
-    	id: "echo17",
-    	summary: "Roms for HTC Evo 4G by echo",
-    	manifest: "http://www.echoblog.net/roms/echomod.js",
-    	free: true,
-	roms:
-    	{
-             supersonic: true
-    	}
+        id: "echo17",
+        summary: "Roms for HTC Evo 4G by echo",
+        manifest: "http://www.echoblog.net/roms/echomod.js",
+        free: true,
+        roms:
+        {
+            supersonic: true
+        }
+    },
+    {
+        developer: "r2DoesInc",
+        id: "r2d2",
+        summary: "Gingerbread (Android 2.3) for your Incredible",
+        free: true,
+        manifest: "http://android.grdlock.net//index.php?action=downloadfile&filename=manifest.js&directory=HTC%20Incredible/WeDoDroid&",
+        roms:
+        {
+            inc: true
+        }
     }
     ]
 }

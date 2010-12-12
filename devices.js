@@ -385,6 +385,13 @@
         version: "2.5.1.4",
         reboot_recovery: "echo start > /proc/ota ; "
     },
+    
+    {
+        init: "init.harmony.rc",
+        key: "harmony",
+        name: "Viewsonic GTab",
+        version: "2.5.1.4"
+    },
 
     {
         init: "init.qcom.rc",

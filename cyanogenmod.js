@@ -1468,6 +1468,27 @@
 
     // ===== Commtiva Z71 =====
     {
+        name: "CyanogenMod 6.1.1",
+        summary: "Stable Release",
+        device: "z71",
+        product: "CyanogenMod",
+        incremental: 6110,
+        modversion: "CyanogenMod-6.1.1-z71",
+        url: "http://mirror.teamdouche.net/get/z71/update-cm-6.1.1-Z71-signed.zip",
+        screenshots:
+        [
+        "http://dl.dropbox.com/u/10355648/mdpi-ss1.png",
+        "http://dl.dropbox.com/u/10355648/mdpi-ss2.png"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-mdpi-20101020-signed.zip"
+        }
+        ]
+    },
+    {
         name: "CyanogenMod 6.1.0",
         summary: "Stable Release",
         device: "z71",

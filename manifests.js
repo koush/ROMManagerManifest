@@ -973,16 +973,25 @@
         }
     },
     {
-
-	developer: "Conical Roms",
-	id: "linuxmotion",
-	summary: "Source built Roms and themes from LinuxMotion",
-	manifest: "http://thelinuxmotion.org/ClockworkMod/manifest.js",
+        developer: "Conical Roms",
+        id: "linuxmotion",
+        summary: "Source built Roms and themes from LinuxMotion",
+        manifest: "http://thelinuxmotion.org/ClockworkMod/manifest.js",
         free: true,
-	roms:
-	{
-		inc: true,
-	}
+        roms:
+        {
+            inc: true
+        }
+    },
+    {
+        developer: "IncROM",
+        id: "lllboredlll",
+        summary: "Making your Incredible, INCREDIBLE!!!",
+        manifest: "http://htc-tweakers.com/IncROM/IncROM.js",
+        roms:
+        {
+            inc: true
+        }
     }
     ]
 }

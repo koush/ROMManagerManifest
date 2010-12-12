@@ -667,7 +667,18 @@
         developer: "Velocity",
         id: "bryan",
         summary: "Velocity by Trident",
-        manifest: "http://trident.noodlesoftware.com/ROMManagerManifest/manifest.js",
+        manifest: "https://github.com/bryanowens/velocity_rom_manager_manifest/raw/master/manifest.js",
+        free: true,
+        roms:
+        {
+            aloha: true
+        }
+    },
+    {
+        developer: "Assorted Ally Modifications",
+        id: "aloha",
+        summary: "Assorted ROMs, Themes, and Kernels",
+        manifest: "https://github.com/bryanowens/aloha_rom_manager_manifest/raw/master/manifest.js",
         free: true,
         roms:
         {

@@ -1,3 +1,12 @@
+2.5.1.0
+Fix NPE in tablet devices.
+Android 1.6+ devices only.
+Fix DPI issues.
+Add Tegra flash_image.
+
+2.5.0.7
+Support custom flashing commands.
+
 2.5.0.2
 Fix crash bug if SD card is not mounted.
 Associate zip files with ROM Manager.

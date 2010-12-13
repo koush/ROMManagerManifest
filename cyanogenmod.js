@@ -149,7 +149,7 @@
         [
         {
             name: "Google Apps",
-            url: "http://phaseburn.net/~pb/gapps-hdpi-20101211-signed.zip"
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-hdpi-20101114-signed.zip"
         }
         ]
     },

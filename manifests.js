@@ -938,6 +938,17 @@
         {
              inc: true
         }
+     },
+     {
+        developer: "echo",
+    	id: "echo17",
+    	summary: "Roms for HTC Evo 4G by echo",
+    	manifest: "http://www.echoblog.net/roms/echomod.js",
+    	free: true,
+	roms:
+    	{
+             supersonic: true
+    	}
     }
     ]
 }

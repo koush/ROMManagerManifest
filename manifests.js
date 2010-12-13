@@ -931,7 +931,7 @@
         id: "r2d2",
         summary: "Gingerbread (Android 2.3) for your Incredible",
         free: true,
-        manifest: "http://android.grdlock.net//index.php?action=downloadfile&filename=manifest.js&directory=HTC%20Incredible/WeDoDroid&",
+        manifest: "http://ateazepc.com/android/r2DoesInc/manifest.js",
         roms:
         {
             inc: true

@@ -938,7 +938,17 @@
         {
              inc: true
         }
+    },
+    {
+        developer: "Conical Roms",
+        id: "linuxmotion",
+        summary: "Source built Roms and themes from LinuxMotion",
+        manifest: "http://thelinuxmotion.org/ClockworkMod/manifest.js",
+        free: true,
+        roms:
+        {
+            inc: true
+        }
     }
     ]
 }
-

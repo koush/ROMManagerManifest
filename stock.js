@@ -4,7 +4,6 @@
     mirrors:
     [
     "http://droidk.macleod-web.net/",
-    "http://android.antbox.org/koush/",
     "http://www.thekilpatrickproject.com/downloads/koush/",
     "http://www.clockworkmod.com/download/",
     "http://koush.tandtgaming.com/"
@@ -39,7 +38,6 @@
         [
         "http://www.droidaftermarket.com/koush//motorola/sholes/p3droid-baseband-update.zip",
         "http://droidk.macleod-web.net//motorola/sholes/p3droid-baseband-update.zip",
-        "http://android.antbox.org/koush//motorola/sholes/p3droid-baseband-update.zip",
         "http://www.thekilpatrickproject.com/downloads/koush//motorola/sholes/p3droid-baseband-update.zip",
         "http://www.clockworkmod.com/download//motorola/sholes/p3droid-baseband-update.zip",
         "http://koush.tandtgaming.com//motorola/sholes/p3droid-baseband-update.zip"
@@ -53,7 +51,6 @@
         [
         "http://www.droidaftermarket.com/koush//motorola/sholes/before-p3droid-baseband-update.zip",
         "http://droidk.macleod-web.net//motorola/sholes/before-p3droid-baseband-update.zip",
-        "http://android.antbox.org/koush//motorola/sholes/before-p3droid-baseband-update.zip",
         "http://www.thekilpatrickproject.com/downloads/koush//motorola/sholes/before-p3droid-baseband-update.zip",
         "http://www.clockworkmod.com/download//motorola/sholes/before-p3droid-baseband-update.zip",
         "http://koush.tandtgaming.com//motorola/sholes/before-p3droid-baseband-update.zip"

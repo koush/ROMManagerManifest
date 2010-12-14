@@ -391,7 +391,7 @@
         key: "harmony",
         name: "Viewsonic GTab",
         version: "2.5.1.4",
-	flash_recovery: "tegra_flash_image recovery %s ; ",
+	flash_recovery: "/data/data/com.koushikdutta.rommanager/files/tegra_flash_image recovery %s ; ",
         alternate_recovery:
         {
             name: "Clockworkmod 2.5.1.3 (modified by bekit)",

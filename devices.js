@@ -377,7 +377,7 @@
             url: "http://dl.dropbox.com/u/10355648/recovery-ONE-1_6.img"
         }
     },
-    
+
     {
         init: "init_recovery.rc",
         key: "vega",
@@ -385,13 +385,13 @@
         version: "2.5.1.4",
         reboot_recovery: "echo start > /proc/ota ; "
     },
-    
+
     {
         init: "init.harmony.rc",
         key: "harmony",
         name: "Viewsonic GTab",
         version: "2.5.1.4",
-	flash_recovery: "/data/data/com.koushikdutta.rommanager/files/tegra_flash_image recovery %s ; ",
+        flash_recovery: "/data/data/com.koushikdutta.rommanager/files/tegra_flash_image recovery %s ; ",
         alternate_recovery:
         {
             name: "Clockworkmod 2.5.1.3 (modified by bekit)",

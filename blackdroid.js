@@ -12,7 +12,6 @@
         [
         "http://www.droidaftermarket.com/koush//motorola/sholes/udfroyobeta_update.zip",
         "http://droidk.macleod-web.net//motorola/sholes/udfroyobeta_update.zip",
-        "http://android.antbox.org/koush//motorola/sholes/udfroyobeta_update.zip",
         "http://www.thekilpatrickproject.com/downloads/koush//motorola/sholes/udfroyobeta_update.zip"
         ]
     },
@@ -28,7 +27,6 @@
         [
         "http://www.droidaftermarket.com/koush//motorola/sholes/udnewera15.zip",
         "http://droidk.macleod-web.net//motorola/sholes/udnewera15.zip",
-        "http://android.antbox.org/koush//motorola/sholes/udnewera15.zip",
         "http://www.thekilpatrickproject.com/downloads/koush//motorola/sholes/udnewera15.zip",
         "http://www.clockworkmod.com/download//motorola/sholes/udnewera15.zip",
         "http://koush.tandtgaming.com//motorola/sholes/udnewera15.zip"
@@ -50,7 +48,6 @@
             [
             "http://www.droidaftermarket.com/koush//motorola/sholes/newera_smoked.zip",
             "http://www.thekilpatrickproject.com/downloads/koush//motorola/sholes/newera_smoked.zip",
-            "http://android.antbox.org/koush//motorola/sholes/newera_smoked.zip"
             ]
         }
         ],
@@ -58,7 +55,6 @@
         [
         "http://www.droidaftermarket.com/koush//motorola/sholes/blackdroid_sholes-ota-eng.gregory.zip",
         "http://www.thekilpatrickproject.com/downloads/koush//motorola/sholes/blackdroid_sholes-ota-eng.gregory.zip",
-        "http://android.antbox.org/koush//motorola/sholes/blackdroid_sholes-ota-eng.gregory.zip"
         ]
     },
     {

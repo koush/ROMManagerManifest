@@ -390,12 +390,12 @@
         init: "init.harmony.rc",
         key: "harmony",
         name: "Viewsonic GTab",
-        version: "2.5.1.4",
+        version: "2.5.1.8",
         flash_recovery: "/data/data/com.koushikdutta.rommanager/files/tegra_flash_image recovery %s ; ",
         alternate_recovery:
         {
-            name: "Clockworkmod 2.5.1.3 (modified by bekit)",
-            url: "http://dropbox.bekit.net/Android/gtablet/recovery/clockworkmod_recovery_2.5.1.3_2010121100.img"
+            name: "ClockworkMod 2.5.1.1-bekit-0.8",
+            url: "http://dropbox.bekit.net/Android/gtablet/recovery/recovery-clockwork-2.5.1.1-bekit-0.8-harmony"
         }
     },
 

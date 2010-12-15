@@ -283,13 +283,13 @@
 
     //  =====Motorola Droid=====
     {
-        name: "CyanogenMod 6.1.1",
+        name: "CyanogenMod 6.1.2",
         summary: "Stable Release",
         device: "sholes",
         product: "CyanogenMod",
-        incremental: 6106,
-        modversion: "CyanogenMod-6.1.1-Droid",
-        url: "http://mirror.teamdouche.net/get/sholes/update-cm-6.1.1-Droid-signed.zip",
+        incremental: 6107,
+        modversion: "CyanogenMod-6.1.2-Droid",
+        url: "http://mirror.teamdouche.net/get/sholes/update-cm-6.1.2-Droid-signed.zip",
         choices:
         [
         {

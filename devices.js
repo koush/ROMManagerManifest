@@ -395,7 +395,7 @@
         alternate_recovery:
         {
             name: "ClockworkMod 2.5.1.1-bekit-0.8",
-            url: "http://dropbox.bekit.net/Android/gtablet/recovery/recovery-clockwork-2.5.1.1-bekit-0.8-harmony"
+            url: "http://dropbox.bekit.net/Android/gtablet/recovery/recovery-clockwork-2.5.1.1-bekit-0.8-harmony.img"
         }
     },
 

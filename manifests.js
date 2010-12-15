@@ -982,6 +982,17 @@
         {
             inc: true
         }
+    },
+    {
+        developer: "bekit",
+        id: "bekriebel",
+        summary: "Development ROMs and customizations for various devices",
+        manifest: "http://gh-pages.bekit.net/ROMManagerManifest-bekit/bekit-manifest.js",
+        free: true,
+        roms:
+        {
+            harmony: true
+        }
     }
     ]
 }

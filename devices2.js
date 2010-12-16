@@ -249,9 +249,7 @@
         "init": "init.qcom.rc",
         "key": "z71",
         "version": "2.5.1.3",
-        "name": "Commtiva Z71 (Boston,
- Blaze,
- and more)"
+        "name": "Commtiva Z71 (Boston, Blaze, and more)"
     },
     {
         "init": "init.motus.rc",
@@ -354,8 +352,7 @@
         },
         "key": "FM6",
         "version": "2.5.1.2",
-        "name": "Spice MI700,
- Commtiva Link N700 and more)"
+        "name": "Spice MI700, Commtiva Link N700 and more)"
     }],
     "recovery_url": "http://koush.tandtgaming.com/recoveries/recovery-clockwork-%s-%s.img",
     "legacy":

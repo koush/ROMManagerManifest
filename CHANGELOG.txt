@@ -1,3 +1,6 @@
+2.5.1.2
+Use the new ROM Manager Service (Chris Soyars)... you guys are in for a treat soon!
+
 2.5.1.1
 Fix custom flash_image command for alternate recoveries.
 

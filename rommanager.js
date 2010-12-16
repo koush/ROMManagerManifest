@@ -25,7 +25,7 @@ RomManager.all = function() {
 
 RomManager.ShowFile = function(element) {
 	$.ajax({
-		url: "http://rommanager.appspot.com/manifests/devices.js",
+		url: "http://rommanager.appspot.com/manifests/devices.js?callback=?",
 		type: "GET",
 		dataType: "jsonp",
 		error: function(req, ts, err) {

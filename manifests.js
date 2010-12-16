@@ -292,11 +292,12 @@
     {
         developer: "roberj13",
         id: "roberj13",
-        summary: "Custom Themes",
-        manifest: "http://blue.macleod-web.net/RM_Manifest/blueenergy.js",
+        summary: "Android ROMs, tweaks, hacks, and themes",
+        manifest: "http://www.droid-themes.com/rm-manifest/roberj13.js",
         roms:
         {
-            sholes: true
+            sholes: true,
+            inc: true
         }
     },
     {

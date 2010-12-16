@@ -1201,6 +1201,27 @@
 
     // ===== HTC Desire GSM =====
     {
+        name: "CyanogenMod 6.1.1",
+        summary: "Stable Release",
+        device: "bravo",
+        product: "CyanogenMod",
+        incremental: 6110,
+        modversion: "CyanogenMod-6.1.1-Bravo",
+        url: "http://mirror.teamdouche.net/get/bravo/update-cm-6.1.1-Desire-signed.zip",
+        screenshots:
+        [
+        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
+        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-hdpi-20101114-signed.zip"
+        }
+        ]
+    },
+    {
         name: "CyanogenMod 6.1.0",
         summary: "Stable Release",
         device: "bravo",
@@ -1329,6 +1350,27 @@
     },
 
     // ===== HTC Desire CDMA =====
+    {
+        name: "CyanogenMod 6.1.1",
+        summary: "Stable Release",
+        device: "bravoc",
+        product: "CyanogenMod",
+        incremental: 6110,
+        modversion: "CyanogenMod-6.1.1-Bravoc",
+        url: "http://mirror.teamdouche.net/get/bravoc/update-cm-6.1.1-BravoC-signed.zip",
+        screenshots:
+        [
+        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
+        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-hdpi-20101114-signed.zip"
+        }
+        ]
+    },
     {
         name: "CyanogenMod 6.1.0",
         summary: "Stable Release",

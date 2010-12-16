@@ -1,3 +1,14 @@
+// HEY
+// HEY YOU
+// I SEE YOU EDITING THIS FILE
+// IT IS NO LONGER USED ANYMORE
+// SO DON'T BOTHER EDITING IT
+// ONLY OLD VERSIONS USE IT
+// NEW VERSIONS OF ROM MANAGER LOOK AT http://rommanager.appspot.com/manifests/devices.js
+// THAT DEVICE LIST IS GENERATED VIA A DATABASE WHICH IS POPULATED VIA A BUILD SCRIPT
+// MANIFESTS ARE GOING AWAY TOO
+// HEHE
+
 {
     "recovery_zip_url": "http://koush.tandtgaming.com/recoveries/recovery-clockwork-%s-%s.zip",
     "devices":

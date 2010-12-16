@@ -25,9 +25,12 @@ RomManager.all = function() {
 
 RomManager.ShowFile = function(element) {
 	$.ajax({
-		url: "http://rommanager.appspot.com/manifests/devices.js",
+		url: "http://koush.github.com/ROMManagerManifest/devices.js",
 		type: "GET",
 		dataType: "json",
+		error: function(req, ts, err) {
+		  var stuff = ts;  
+		},
 		success: function(msg) {
 		    var recoveries = msg.recoveries;
 		    var devices = recoveries.devices;

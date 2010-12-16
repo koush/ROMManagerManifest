@@ -17,12 +17,33 @@
     [
     // ===== HTC Vision (G2) ====
     {
+        name: "CyanogenMod 6.1.1",
+        summary: "Stable Release",
+        device: "vision",
+        product: "CyanogenMod",
+        incremental: 0007,
+        modversion: "CyanogenMod-6.1.1-vision",
+        url: "http://mirror.teamdouche.net/get/vision/update-cm-6.1.1-vision-signed.zip",
+        screenshots:
+        [
+        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
+        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
+        ],
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-hdpi-20101114-signed.zip"
+        }
+        ]
+    },
+    {
         name: "CyanogenMod 6.1",
         summary: "Stable Release",
         device: "vision",
         product: "CyanogenMod",
         incremental: 0006,
-        modversion: "CyanogenMod-6.1.0-G2",
+        modversion: "CyanogenMod-6.1.0-vision",
         url: "http://mirror.teamdouche.net/get/vision/update-cm-6.1.0-vision-signed.zip",
         screenshots:
         [
@@ -669,6 +690,23 @@
 
     // =====HTC (EVO 4G)====
     {
+        name: "CyanogenMod 6.1.1",
+        summary: "Stable Release",
+        device: "supersonic",
+        product: "CyanogenMod",
+        incremental: 6103,
+        modversion: "CyanogenMod-6.1.1-Supersonic",
+        url: "http://mirror.teamdouche.net/get/supersonic/update-cm-6.1.1-Supersonic-signed.zip",
+        addons:
+        [
+        {
+            name: "Google Apps",
+            file: "google/gapps-hdpi-20101114-signed.zip"
+        }
+        ]
+    },
+
+    {
         name: "CyanogenMod 6.1.0",
         summary: "Stable Release",
         device: "supersonic",
@@ -751,6 +789,23 @@
     },
 
     // =====Google Nexus One====
+    {
+        name: "CyanogenMod 6.1.1",
+        summary: "Stable Release",
+        device: "passion",
+        product: "CyanogenMod",
+        incremental: 6103,
+        modversion: "CyanogenMod-6.1.1-N1",
+        url: "http://mirror.teamdouche.net/get/passion/update-cm-6.1.1-N1-signed.zip",
+        addons:
+        [
+        {
+            name: "Google Apps",
+            file: "google/gapps-hdpi-20101114-signed.zip"
+        }
+        ]
+    },
+
     {
         name: "CyanogenMod 6.1.0",
         summary: "Stable Release",
@@ -1339,6 +1394,22 @@
     },
 
     // ===== T-Mobile MyTouch Slide (espresso) ====
+    {
+        name: "CyanogenMod 6.1.1",
+        summary: "Stable Release",
+        device: "espresso",
+        product: "CyanogenMod",
+        incremental: 6105,
+        modversion: "CyanogenMod-6.1.1-Slide",
+        url: "http://mirror.teamdouche.net/get/espresso/update-cm-6.1.1-Slide-signed.zip",
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-20101020-signed.zip"
+        }
+        ]
+    },
     {
         name: "CyanogenMod 6.1.0",
         summary: "Stable Release",

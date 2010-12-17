@@ -1563,11 +1563,28 @@
         [
         {
             name: "Google Apps",
-            url: "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-20101020-signed.zip"
+            url: "http://goo-inside.me/google-apps/gapps-mdpi-20101020-signed.zip"
         }
         ]
     },
-
+    
+    {
+         name: "CyanogenMod 6.1.0",
+        summary: "Stable Release",
+        device: "hero",
+        product: "CyanogenMod",
+        incremental: 6101,
+        modversion: "CyanogenMod-6.1.0-Hero",
+        url: "http://android.d3xt3r01.tk/cyanogen/hero/update-cm-6.1.0-Hero-signed.zip",
+        addons:
+        [
+        {
+            name: "Google Apps",
+            url: "http://goo-inside.me/google-apps/gapps-mdpi-20101020-signed.zip"
+        }
+        ]
+    },
+    
     // ===== HTC Aria (liberty) ====
     {
         name: "CyanogenMod 6.1.0",

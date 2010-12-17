@@ -1,3 +1,6 @@
+2.5.1.4
+Fix ROM Manager to use gzip compression when available.
+
 2.5.1.2
 Use the new ROM Manager Service (Chris Soyars)... you guys are in for a treat soon!
 

@@ -7,7 +7,7 @@ $.getJSON("http://rommanager.appspot.com/manifests/devices.js?callback=?",
   var contents = "";
   $.each(data.devices, function(i, device) {
    var v = version;
-   if (device.verison != null && device.version > version) {
+   if (device.version != null && device.version > version) {
     v = device.version;
    }
    var readonly_recovery = device.readonly_recovery;

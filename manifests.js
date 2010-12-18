@@ -60,17 +60,6 @@
         }
     },
     {
-        developer: "CyanogenMod",
-        id: "jnwhiteh",
-        summary: "CyanogenMod for Hero by jnwhiteh",
-        manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/jnwhiteh.js",
-        free: true,
-        roms:
-        {
-            hero: true
-        }
-    },
-    {
         developer: "CyanogenMod Nightlies",
         id: "cyanogenmodnightly",
         summary: "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds.",

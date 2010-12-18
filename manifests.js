@@ -76,6 +76,7 @@
             bravoc: true,
             supersonic: true,
             heroc: true,
+            hero: true,
             legend: true,
             vision: true,
             z71: true,

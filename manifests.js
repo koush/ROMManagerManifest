@@ -34,7 +34,8 @@
             z71: true,
             one: true,
             ace: true,
-            buzz: true
+            buzz: true,
+            hero: true
         }
     },
     {

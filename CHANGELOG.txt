@@ -1,3 +1,9 @@
+2.5.1.7
+Fix PayPal
+
+2.5.1.6
+Make startup times better.
+
 2.5.1.4
 Fix ROM Manager to use gzip compression when available.
 

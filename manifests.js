@@ -34,7 +34,8 @@
             z71: true,
             one: true,
             ace: true,
-            buzz: true
+            buzz: true,
+            hero: true
         }
     },
     {
@@ -60,17 +61,6 @@
         }
     },
     {
-        developer: "CyanogenMod",
-        id: "jnwhiteh",
-        summary: "CyanogenMod for Hero by jnwhiteh",
-        manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/jnwhiteh.js",
-        free: true,
-        roms:
-        {
-            hero: true
-        }
-    },
-    {
         developer: "CyanogenMod Nightlies",
         id: "cyanogenmodnightly",
         summary: "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds.",
@@ -87,6 +77,7 @@
             bravoc: true,
             supersonic: true,
             heroc: true,
+            hero: true,
             legend: true,
             vision: true,
             z71: true,

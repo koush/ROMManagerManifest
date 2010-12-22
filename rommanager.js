@@ -19,8 +19,7 @@ function(data) {
             url = sprintf(recovery_url, v, device.key);
         }
         contents = contents + sprintf("<a href=\"%s\">%s</a><br/>", url, device.name);
-    }
+    });
     $('.rommanagermanifest').html(contents);
-    );
 }
 );

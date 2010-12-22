@@ -12,6 +12,12 @@
     roms:
     [
     {
+        name: "Nexus S 2.3.1",
+        summary: "Stable",
+        device: "crespo",
+        file: "samsung/crespo/android-2.3.1.zip"
+    },
+    {
         name: "Verizon Droid X 2.2",
         summary: "MUST HAVE 2.1 INSTALLED. Stable, stock, rooted",
         device: "droidx",

@@ -244,6 +244,7 @@
         free: true,
         roms:
         {
+            crespo: true,
             droidx: true,
             passion: true,
             sholes: true

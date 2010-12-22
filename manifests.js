@@ -959,7 +959,7 @@
         id: "r2d2",
         summary: "Gingerbread (Android 2.3) for your Incredible",
         free: true,
-        manifest: "http://ateazepc.com/android/r2DoesInc/manifest.js",
+        manifest: "http://r2doesinc.bitsurge.net/manifest.js",
         roms:
         {
             inc: true

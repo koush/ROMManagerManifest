@@ -8,7 +8,7 @@
     //**************************************
     {
         name: "Kernel 2.6.32.27 - OC-UV-XTRA-NEON_FP",
-        summary: "1220 - G2 - 19:30",
+        summary: "1221 - G2 - 21:00",
         device: "vision",
         url: "http://droidbasement.com/g2/kernels/2632/12/boot-cm_2632.27-oc-uv-xtra-neon_fp-122010.zip"
     },
@@ -17,7 +17,7 @@
     //**************************************
     {
         name: "Kernel 2.6.35.10 – OC-UV-XTRA-BTN-AUD-RAM-NEON_FP",
-        summary: "1220 - Nexus - 19:30",
+        summary: "1221 - Nexus - 21:00",
         device: "passion",
         url: "http://droidbasement.com/nexus/kernels/ram/2635/55/boot-cm_2635.10-oc-uv-xtra-btn-aud-ram-neon_fp-122010.zip"
     },

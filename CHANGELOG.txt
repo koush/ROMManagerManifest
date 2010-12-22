@@ -1,3 +1,9 @@
+3.0.0.1
+Show a download screen when a download starts.
+
+3.0.0.0
+Support for 3.0.0.0 recoveries.
+
 2.5.1.7
 Fix PayPal
 

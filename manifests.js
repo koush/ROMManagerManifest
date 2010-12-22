@@ -986,6 +986,17 @@
         {
             harmony: true
         }
+    },
+    {
+        developer: "G-TabDevs",
+        id: "gojimi",
+        summary: "G-Tablet Roms and Extras by GoJimi, Roebeet, and Rothnic",
+        manifest: "http://www.gojimi.com/gtabdevs/repo/ROMManager/gtabdevs-manifest.js",
+        free: true,
+        roms:
+        {
+            harmony: true
+        }
     }
     ]
 }

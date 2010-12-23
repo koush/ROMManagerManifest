@@ -96,6 +96,15 @@
             file: "recoveries/su-2.2-ef-signed.zip"
         }
         ]
+    },
+    {
+        name: "Tap 'n Tap build 3338",
+        summary: "Stock Tap 'n Tap update without replacing recovery",
+        device: "harmony",
+        urls:
+        [
+        "http://dropbox.bekit.net/Android/gtablet/stock/update-smb_a1002-3338-user_no-recovery.zip"
+        ]
     }
     ]
 }

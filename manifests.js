@@ -247,7 +247,8 @@
             crespo: true,
             droidx: true,
             passion: true,
-            sholes: true
+            sholes: true,
+            harmony: true
         }
     },
     {

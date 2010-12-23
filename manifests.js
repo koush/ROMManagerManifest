@@ -115,7 +115,7 @@
     {
         developer: "Onix Concepts",
         id: "mrbobrowitz",
-        summary: "Steam ROM, CleanLooks ROMs, and BlackMod ROMs",
+        summary: "Roms and Themes for D1, DX and Gtab",
         manifest: "http://www.mydroidfiles.com/mrbobrowitz/mrbobrowitzmanifest.js",
         roms:
         {

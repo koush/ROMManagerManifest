@@ -128,6 +128,9 @@
         roms:
         {
             sholes: true
+            droidx: true
+            harmony: true
+
         }
     },
     {

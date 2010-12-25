@@ -14,7 +14,7 @@
     roms:
     [
     {
-        name: "CyanogenMod 7 Alpha",
+        name: "CyanogenMod 7 Alpha 2",
         summary: "Test/Alpha",
         device: "crespo",
         urls:

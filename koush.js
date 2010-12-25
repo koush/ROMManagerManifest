@@ -19,8 +19,8 @@
         device: "crespo",
         urls:
         [
-        "http://koush.tandtgaming.com//samsung/crespo/update-cm-7.0.0-RC0-NS-signed.zip",
-        "http://koush.droid.co//samsung/crespo/update-cm-7.0.0-RC0-NS-signed.zip"
+        "http://koush.tandtgaming.com//samsung/crespo/update-cm-7.0.0-Alpha2-NS-signed.zip",
+        "http://koush.droid.co//samsung/crespo/update-cm-7.0.0-Alpha2-NS-signed.zip"
         ],
         addons:
         [

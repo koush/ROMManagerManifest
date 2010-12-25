@@ -57,6 +57,7 @@
         free: true,
         roms:
         {
+            crespo: true,
             inc: true
         }
     },

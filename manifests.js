@@ -141,8 +141,8 @@
         free: true,
         roms:
         {
-            sholes: true
-            droidx: true
+            sholes: true,
+            droidx: true,
             harmony: true
         }
     },

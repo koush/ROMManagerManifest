@@ -127,8 +127,8 @@
         manifest: "http://www.forkup.info/droidthemes/forkup.js",
         roms:
         {
-            sholes: true
-            droidx: true
+            sholes: true,
+            droidx: true,
             harmony: true
 
         }

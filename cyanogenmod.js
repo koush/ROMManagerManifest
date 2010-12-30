@@ -601,6 +601,21 @@
     },
     {
         "device": "supersonic",
+        "name": "CyanogenMod 6.1.2",
+        "modversion": "CyanogenMod-6.1.2-Supersonic",
+        "incremental": "6104",
+        "url": "http://mirror.teamdouche.net/get/supersonic/update-cm-6.1.2-Supersonic-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Stable Release",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "file": "google/gapps-hdpi-20101114-signed.zip"
+        }
+        ]
+    },
+    {
+        "device": "supersonic",
         "name": "CyanogenMod 6.1.1",
         "modversion": "CyanogenMod-6.1.1-Supersonic",
         "incremental": "6103",

@@ -136,7 +136,7 @@
     {
         developer: "Onix Concepts",
         id: "mrbobrowitz",
-        summary: "Roms and Themes for Droid, DX and Gtablet",
+        summary: "Roms, Themes and Addons for Droid, DX and Gtablet",
         manifest: "http://www.mydroidfiles.com/mrbobrowitz/mrbobrowitzmanifest.js",
         free: true,
         roms:

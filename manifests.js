@@ -1003,6 +1003,18 @@
         {
             harmony: true
         }
+    },
+    {
+        developer: "GummyJAR",
+        id: "kejar31",
+        summary: "An AOSP-Like ROM for the Droid 2/X by kejar31",
+        manifest: "http://dl.dropbox.com/u/6927558/gummyjar.js",
+	free: true,
+        roms:
+        {
+            droidx: true,
+            droid2: true
+        }
     }
     ]
 }

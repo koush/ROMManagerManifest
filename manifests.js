@@ -1009,11 +1009,43 @@
         id: "kejar31",
         summary: "An AOSP-Like ROM for the Droid 2/X by kejar31",
         manifest: "http://dl.dropbox.com/u/6927558/gummyjar.js",
-	free: true,
+        free: true,
         roms:
         {
             droidx: true,
             droid2: true
+        }
+    },
+    {
+        developer: "Insanity",
+        id: "insanity",
+        summary: "Insanity Galaxy S I9000",
+        manifest: "http://insanity.rollus.net/manifest.js",
+        roms:
+        {
+            galaxys: true,
+            sholes: true
+        }
+    },
+    {
+        developer: "Sourcery ROM",
+        id: "sourcery",
+        summary: "Source built ROM by GFlam & Eagle1967",
+        manifest: "http://www.sourceryrom.com/ROMmanager/ROMmanager.js",
+        roms:
+        {
+            sholes: true
+        }
+    },
+    {
+
+        developer: "DevsForAndroid",
+        id: "DevsForAndroid",
+        summary: "Giving you a reason, to own a phone",
+        manifest: "http://www.devsforandroid.com/ROMManagerManifest/manifest.js",
+        roms:
+        {
+            vibrant: true
         }
     }
     ]

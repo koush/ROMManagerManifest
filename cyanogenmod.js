@@ -1030,6 +1030,25 @@
     },
     {
         "device": "ace",
+        "name": "CyanogenMod 6.1.3",
+        "modversion": "CyanogenMod-6.1.3-DesireHD",
+        "incremental": "6130",
+        "screenshots": [
+        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
+        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
+        ],
+        "url": "http://mirror.teamdouche.net/get/ace/update-cm-6.1.3-DesireHD-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Stable Release",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-hdpi-20101114-signed.zip"
+        }
+        ]
+    },
+    {
+        "device": "ace",
         "name": "CyanogenMod 6.1.2",
         "modversion": "CyanogenMod-6.1.2-DesireHD",
         "incremental": "6120",

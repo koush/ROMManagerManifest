@@ -1047,6 +1047,17 @@
         {
             vibrant: true
         }
+    },
+    {
+        developer: "Tedgy",
+        id: "tedgy",
+        summary: "TedgyRom Galaxy S I9000 FR",
+        manifest: "http://www.tedgy.net/GalaxyS/tedgy.js",
+        free: true,
+        roms:
+        {
+            galaxys: true
+        }
     }
     ]
 }

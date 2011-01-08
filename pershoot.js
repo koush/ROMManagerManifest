@@ -54,22 +54,22 @@
         device: "magic",
         url: "http://droidbasement.com/g1/kernels/ram/2635/19/boot-cm_2635.10_ds_32a-oc-uv-xtra-ram-fp-122010.zip"
     },
-    //******Harmony - Gtab********
+    //******Harmony**************
     //****************************
     //
-    //Viewsonic Gtab
+    //ViewSonic Gtab
     {
         name: "Kernel 2.6.32.27 - XTRA-VFPv3_FP",
         summary: "0108 - Harmony (Gtab) - 12:00",
         device: "harmony",
-        url: "http://droidbasement.com/gtab/kernels/2632/2/boot-cm_2632.27_gtab-xtra-vfpv3_fp-010811.zip"
+        url: "http://droidbasement.com/gtab/kernels/2632/2/boot-cm_2632.27_gtab-xtra-vfpv3_fp-010810.zip"
     },
     //Malata Zpad
     {
         name: "Kernel 2.6.32.27 - XTRA-VFPv3_FP",
         summary: "0108 - Harmony (Zpad) - 12:00",
         device: "harmony",
-        url: "http://droidbasement.com/gtab/kernels/2632/2/boot-cm_2632.27_zpad-xtra-vfpv3_fp-010811.zip"
+        url: "http://droidbasement.com/gtab/kernels/2632/2/boot-cm_2632.27_zpad-xtra-vfpv3_fp-010810.zip"
     }
     //END
     ]

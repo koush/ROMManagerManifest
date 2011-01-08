@@ -310,6 +310,7 @@
         manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/pershoot.js",
         roms:
         {
+            harmony: true,
             vision: true,
             passion: true,
             sapphire: true,

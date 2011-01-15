@@ -17,9 +17,9 @@
     //**************************************
     {
         name: "Kernel 2.6.35.10 – OC-UV-XTRA-BTN-AUD-RAM-NEON_FP",
-        summary: "1221 - Nexus - 21:00",
+        summary: "0115 - Nexus - 03:00",
         device: "passion",
-        url: "http://droidbasement.com/nexus/kernels/ram/2635/55/boot-cm_2635.10-oc-uv-xtra-btn-aud-ram-neon_fp-122010.zip"
+        url: "http://droidbasement.com/nexus/kernels/ram/2635/56/boot-cm_2635.10-oc-uv-xtra-btn-aud-ram-neon_fp-011511.zip"
     },
     //**************************************
     //**********Dream/Sapphire**************

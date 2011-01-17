@@ -88,7 +88,7 @@
             ace: true,
             buzz: true,
             glacier: true,
-            crespo: true,
+            crespo: true
         }
     },
     {

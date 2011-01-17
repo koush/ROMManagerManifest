@@ -1063,6 +1063,18 @@
         {
             galaxys: true
         }
+    },
+    {
+        developer: "Insanity - Extras",
+        summary: "Extras for Insanity ROM (Themes / Addons / Kernels / Apps)",
+        id: "insanity-extras",
+        manifest: "http://www.nfye.com/manifest.js",
+        free: true,
+        roms:
+        {
+            galaxys: true,
+            sholes: true
+        }
     }
     ]
 }

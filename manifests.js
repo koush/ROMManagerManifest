@@ -37,7 +37,7 @@
             buzz: true,
             hero: true,
             glacier: true,
-            crespo: true,
+            crespo: true
         }
     },
     {

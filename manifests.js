@@ -35,7 +35,9 @@
             one: true,
             ace: true,
             buzz: true,
-            hero: true
+            hero: true,
+            glacier: true,
+            crespo: true,
         }
     },
     {
@@ -84,7 +86,9 @@
             z71: true,
             one: true,
             ace: true,
-            buzz: true
+            buzz: true,
+            glacier: true,
+            crespo: true,
         }
     },
     {

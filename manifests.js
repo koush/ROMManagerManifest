@@ -934,7 +934,9 @@
         manifest: "http://r2doesinc.bitsurge.net/manifest.js",
         roms:
         {
-            inc: true
+            inc: true,
+            supersonic: true
+
         }
     },
     ]

@@ -294,6 +294,7 @@
         id: "roberj13",
         summary: "Android ROMs, tweaks, hacks, and themes",
         manifest: "http://www.droid-themes.com/rm-manifest/roberj13.js",
+        free: true,
         roms:
         {
             sholes: true,

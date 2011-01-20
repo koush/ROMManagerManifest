@@ -506,7 +506,6 @@
         }
     },
     {
-
         developer: "cvpcs",
         id: "cvpcs",
         summary: "Source-based mods made by CVPCS",
@@ -514,6 +513,8 @@
         free: true,
         roms:
         {
+            droidx: true,
+            droid2: true,
             inc: true,
             sholes: true,
             supersonic: true

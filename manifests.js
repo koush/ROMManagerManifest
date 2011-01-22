@@ -1078,5 +1078,16 @@
             sholes: true
         }
     }
+    {
+        developer: "MIUI Ports",
+        summary: "MIUI Ports for LG Ally and Droid Incredible + Extras",
+        id: "warttack",
+        manifest: "http://android.msacomputersolutions.com/ROMManagerManifest/update.js",
+        roms:
+        {
+            aloha: true,
+            inc: true
+         }
+    }
     ]
 }

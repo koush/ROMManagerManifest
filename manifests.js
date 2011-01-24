@@ -1077,6 +1077,18 @@
             galaxys: true,
             sholes: true
         }
+    },
+    {
+        developer: "MIUI Ports",
+        summary: "MIUI Ports + Extras by Warttack ",
+        id: "warttack",
+        manifest: "http://android.msacomputersolutions.com/ROMManagerManifest/update.js",
+        free: true,
+        roms:
+        {
+            aloha: true,
+            inc: true
+        }
     }
     ]
 }

@@ -115,13 +115,12 @@
     {
         developer: "Bugless Beast",
         id: "pete",
-        summary: "Bugless Beast ROMs by Pete (@peteralfonso)",
-        manifest: "http://androidoverdrive.com/pete/ESE53/App/pete.js",
+        summary: "Bugless Beast ROMs by Pete\nwww.twitter.com/peteralfonso)",
+        manifest: "http://androidoverdrive.com/pete/Website/pete.js",
         free: true,
         roms:
         {
-            sholes: true,
-            supersonic: true
+            sholes: true
         }
     },
     {

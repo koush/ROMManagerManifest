@@ -1077,7 +1077,7 @@
             galaxys: true,
             sholes: true
         }
-    }
+    },
     {
         developer: "MIUI Ports",
         summary: "MIUI Ports + Extras by Warttack ",

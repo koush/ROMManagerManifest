@@ -956,10 +956,10 @@
         }
     },
     {
-        developer: "echo",
+        developer: "Salvage-Mod",
         id: "echo17",
-        summary: "Roms for HTC Evo 4G by echo",
-        manifest: "http://www.echoblog.net/roms/echomod.js",
+        summary: "GB source build. Group project.",
+        manifest: "http://www.salvage-mod.com/roms/echomod.js",
         free: true,
         roms:
         {

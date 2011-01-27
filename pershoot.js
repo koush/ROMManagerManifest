@@ -23,9 +23,9 @@
     //**************************************
     {
         name: "Kernel 2.6.35.10 – OC-UV-XTRA-BTN-AUD-RAM-NEON_FP",
-        summary: "0116 - Nexus - 12:00",
+        summary: "0126 - Nexus - 20:00",
         device: "passion",
-        url: "http://droidbasement.com/nexus/kernels/ram/2635/57/boot-cm_2635.10-oc-uv-xtra-btn-aud-ram-neon_fp-011611.zip"
+        url: "http://droidbasement.com/nexus/kernels/ram/2635/58/boot-cm_2635.10-oc-uv-xtra-btn-aud-ram-neon_fp-012611.zip"
     },
     //**************************************
     //**********Dream/Sapphire**************
@@ -34,31 +34,31 @@
     //32B - Dream/Sapphire - New Radio/SPL
     {
         name: "Kernel 2.6.35.10 - OC-UV-XTRA-RAM-FP - Radio 2708",
-        summary: "0116 - Dream/Sapphire (32B) - Radio 2708 - 12:00",
+        summary: "0126 - Dream/Sapphire (32B) - Radio 2708 - 20:00",
         devices:
         [
         "dream",
         "sapphire"
         ],
-        url: "http://droidbasement.com/g1/kernels/ram/2635/20/boot-cm_2635.10_ds_32b_radio2708-oc-uv-xtra-ram-fp-011611.zip"
+        url: "http://droidbasement.com/g1/kernels/ram/2635/21/boot-cm_2635.10_ds_32b_radio2708-oc-uv-xtra-ram-fp-012611.zip"
     },
     //32B - Dream/Sapphire
     {
         name: "Kernel 2.6.35.10 - OC-UV-XTRA-RAM-FP",
-        summary: "0116 - Dream/Sapphire (32B) - 12:00",
+        summary: "0126 - Dream/Sapphire (32B) - 20:00",
         devices:
         [
         "dream",
         "sapphire"
         ],
-        url: "http://droidbasement.com/g1/kernels/ram/2635/20/boot-cm_2635.10_ds_32b-oc-uv-xtra-ram-fp-011611.zip"
+        url: "http://droidbasement.com/g1/kernels/ram/2635/21/boot-cm_2635.10_ds_32b-oc-uv-xtra-ram-fp-012611.zip"
     },
     //32A - Magic
     {
         name: "Kernel 2.6.35.10 - OC-UV-XTRA-FP",
-        summary: "0116 - Dream/Sapphire (32A) - 12:00",
+        summary: "0126 - Dream/Sapphire (32A) - 20:00",
         device: "magic",
-        url: "http://droidbasement.com/g1/kernels/ram/2635/20/boot-cm_2635.10_ds_32a-oc-uv-xtra-ram-fp-011611.zip"
+        url: "http://droidbasement.com/g1/kernels/ram/2635/21/boot-cm_2635.10_ds_32a-oc-uv-xtra-ram-fp-012611.zip"
     },
     //******Harmony**************
     //****************************

@@ -137,7 +137,7 @@
         }
     },
     {
-        developer: "Onix Concepts",
+        developer: "MrBobrowitz",
         id: "mrbobrowitz",
         summary: "Roms, Themes and Addons for Droid, DX and Gtablet",
         manifest: "http://www.mydroidfiles.com/mrbobrowitz/mrbobrowitzmanifest.js",

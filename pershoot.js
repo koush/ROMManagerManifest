@@ -76,6 +76,13 @@
         summary: "0119 - Harmony (Zpad) - 21:41",
         device: "harmony",
         url: "http://droidbasement.com/gtab/kernels/2632/8/boot-cm_2632.28_zpad-xtra-vfpv3_fp-011911.zip"
+    },
+    //ViewSonic Gtab and Malata Zpad (Gingerbread)
+    {
+        name: "Kernel 2.6.32.28 - XTRA-VFPv3_FP",
+        summary: "0128 - Harmony (Gtab/Zpad - Gingerbread) - 23:00",
+        device: "harmony",
+        url: "http://droidbasement.com/gtab/kernels/2632/9/boot-cm_2632.28_gb-xtra-vfpv3_fp-012811.zip"
     }
     //END
     ]

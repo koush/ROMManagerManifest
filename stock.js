@@ -98,6 +98,15 @@
         ]
     },
     {
+        name: "Tap 'n Tap build 3588",
+        summary: "Stock Tap 'n Tap update without replacing recovery",
+        device: "harmony",
+        urls:
+        [
+        "http://dropbox.bekit.net/Android/gtablet/stock/update-smb_a1002-3588-user-no_recovery.zip"
+        ]
+    },
+    {
         name: "Tap 'n Tap build 3389",
         summary: "Stock Tap 'n Tap update without replacing recovery",
         device: "harmony",

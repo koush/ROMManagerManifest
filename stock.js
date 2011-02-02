@@ -99,7 +99,7 @@
     },
     {
         name: "Tap 'n Tap build 3588",
-        summary: "Stock Tap 'n Tap update without replacing recovery",
+        summary: "Stock Tap 'n Tap update 3588 without replacing recovery",
         device: "harmony",
         urls:
         [
@@ -108,7 +108,7 @@
     },
     {
         name: "Tap 'n Tap build 3389",
-        summary: "Stock Tap 'n Tap update without replacing recovery",
+        summary: "Stock Tap 'n Tap update 3588 without replacing recovery",
         device: "harmony",
         urls:
         [
@@ -117,4 +117,3 @@
     }
     ]
 }
-    

@@ -2,7 +2,7 @@
     developer: "ACS",
     id: "ACS",
     summary: "ACS team roms",
-    manifest: "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
+    manifest: "http://k0nane.info/rom/romlist.js",
     roms:
     {
         epic: true,

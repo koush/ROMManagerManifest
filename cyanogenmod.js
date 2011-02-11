@@ -1479,6 +1479,21 @@
         ]
     },
     {
+        "device": "Click",
+        "name": "CyanogenMod 7.0.0-RC0-11.3",
+        "modversion": "CyanogenMod-7.0.0-RC0-Click",
+        "incremental": "6101",
+        "url": "http://android.d3xt3r01.tk/cyanogen/click/update-cm-7.0.0-RC0-Click-signed-v11.3.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate 0",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-mdpi-20101020-signed.zip"
+        }
+        ]
+    },
+    {
         "device": "buzz",
         "name": "CyanogenMod 6.1.0",
         "modversion": "CyanogenMod-6.1.0-Buzz",

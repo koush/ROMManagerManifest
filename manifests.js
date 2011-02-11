@@ -34,6 +34,7 @@
             z71: true,
             one: true,
             ace: true,
+            click: true,
             buzz: true,
             hero: true,
             glacier: true,
@@ -86,6 +87,7 @@
             z71: true,
             one: true,
             ace: true,
+            click: true,
             buzz: true,
             glacier: true,
             crespo: true

@@ -158,6 +158,13 @@
         "name": "Droid Eris (CDMA)"
     },
     {
+        "init": "init.bahamas.rc",
+        "readonly_recovery": true,
+        "key": "click",
+        "version": "3.0.0.5",
+        "name": "HTC Click (Tattoo)"
+    },
+    {
         "init": "init.buzz.rc",
         "readonly_recovery": true,
         "key": "buzz",

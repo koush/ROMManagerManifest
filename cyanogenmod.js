@@ -1480,10 +1480,10 @@
     },
     {
         "device": "Click",
-        "name": "CyanogenMod 7.0.0-RC0-11.3",
+        "name": "CyanogenMod 7.0.0-RC0",
         "modversion": "CyanogenMod-7.0.0-RC0-Click",
         "incremental": "6101",
-        "url": "http://android.d3xt3r01.tk/cyanogen/click/update-cm-7.0.0-RC0-Click-signed-v11.3.zip",
+        "url": "http://android.d3xt3r01.tk/cyanogen/click/update-cm-7.0.0-RC0-Click-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 0",
         "addons": [

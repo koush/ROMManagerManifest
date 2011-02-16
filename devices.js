@@ -378,6 +378,7 @@
     "recovery_url": "http://koush.tandtgaming.com/recoveries/recovery-clockwork-%s-%s.img",
     "legacy":
     [
+    "3.0.0.5",
     "2.5.1.4",
     "2.5.1.3",
     "2.5.1.1",

@@ -1389,6 +1389,21 @@
     },
     {
         "device": "espresso",
+        "name": "CyanogenMod 7.0.0-RC1",
+        "modversion": "CyanogenMod-7.0.0-RC1-Slide",
+        "incremental": "7000",
+        "url": "http://mirror.teamdouche.net/get/espresso/update-cm-7.0.0-RC1-Slide-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://mirror.teamdouche.net/get/espresso/update-cm-7.0.0-RC1-Slide-signed.zip"
+        }
+        ]
+    },
+    {
+        "device": "espresso",
         "name": "CyanogenMod 6.1.1",
         "modversion": "CyanogenMod-6.1.1-Slide",
         "incremental": "6105",

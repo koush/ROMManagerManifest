@@ -11,6 +11,21 @@
     ],
     "roms": [
     {
+        "device": "glacier",
+        "name": "CyanogenMod 7.0.0-RC1",
+        "modversion": "CyanogenMod-7.0.0-RC1-glacier",
+        "incremental": "7000",
+        "url": "http://mirror.teamdouche.net/get/glacier/update-cm-7.0.0-RC1-glacier-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/google-apps/gapps-gb-20110120-signed.zip"
+        }
+        ]
+    },
+    {
         "device": "vision",
         "name": "CyanogenMod 6.1.1",
         "modversion": "CyanogenMod-6.1.1-vision",

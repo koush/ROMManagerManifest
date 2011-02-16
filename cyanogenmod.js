@@ -720,6 +720,21 @@
     },
     {
         "device": "passion",
+        "name": "CyanogenMod 7.0.0-RC1",
+        "modversion": "CyanogenMod-7.0.0-RC1-N1",
+        "incremental": "7000",
+        "url": "http://mirror.teamdouche.net/get/passion/update-cm-7.0.0-RC1-N1-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/google-apps/gapps-gb-20110120-signed.zip"
+        }
+        ]
+    },
+    {
+        "device": "passion",
         "name": "CyanogenMod 6.1.1",
         "modversion": "CyanogenMod-6.1.1-N1",
         "incremental": "6103",

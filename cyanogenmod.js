@@ -27,6 +27,21 @@
     },
     {
         "device": "vision",
+        "name": "CyanogenMod 7.0.0-RC1",
+        "modversion": "CyanogenMod-7.0.0-RC1-Vision",
+        "incremental": "7000",
+        "url": "http://mirror.teamdouche.net/get/vision/update-cm-7.0.0-RC1-vision-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/google-apps/gapps-gb-20110120-signed.zip"
+        }
+        ]
+    },
+    {
+        "device": "vision",
         "name": "CyanogenMod 6.1.1",
         "modversion": "CyanogenMod-6.1.1-vision",
         "incremental": "0007",
@@ -1489,6 +1504,21 @@
         {
             "name": "Google Apps",
             "url": "http://goo-inside.me/google-apps/gapps-mdpi-20101020-signed.zip"
+        }
+        ]
+    },
+    {
+        "device": "liberty",
+        "name": "CyanogenMod 7.0.0-RC1",
+        "modversion": "CyanogenMod-7.0.0-RC1-Liberty",
+        "incremental": "7000",
+        "url": "http://mirror.teamdouche.net/get/liberty/update-cm-7.0.0-RC1-Liberty-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://mirror.teamdouche.net/get/liberty/update-cm-7.0.0-RC1-Liberty-signed.zip"
         }
         ]
     },

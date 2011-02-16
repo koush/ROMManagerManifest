@@ -117,8 +117,8 @@
     {
         developer: "Bugless Beast",
         id: "pete",
-        summary: "Bugless Beast ROMs by Pete\nwww.twitter.com/peteralfonso)",
-        manifest: "http://androidoverdrive.com/pete/Website/pete.js",
+        summary: "ROMs by Peter Alfonso\nwww.twitter.com/peteralfonso",
+        manifest: "http://wonderly.com/bb/WEBSITE/pete.js",
         free: true,
         roms:
         {

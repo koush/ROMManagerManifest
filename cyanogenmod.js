@@ -601,6 +601,20 @@
     },
     {
         "device": "supersonic",
+        "name": "CyanogenMod 7.0.0-RC1",
+        "modversion": "CyanogenMod-7.0.0-RC1-Supersonic",
+        "incremental": "7000",
+        "url": "http://mirror.teamdouche.net/get/supersonic/update-cm-7.0.0-RC1-Supersonic-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/google-apps/gapps-gb-20110120-signed.zip"
+        }]
+    },
+    {
+        "device": "supersonic",
         "name": "CyanogenMod 6.1.2",
         "modversion": "CyanogenMod-6.1.2-Supersonic",
         "incremental": "6104",

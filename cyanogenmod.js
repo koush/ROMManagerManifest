@@ -1670,6 +1670,21 @@
     },
     {
         "device": "z71",
+        "name": "CyanogenMod 7.0.0-RC1",
+        "modversion": "CyanogenMod-7.0.0-RC1-Z71",
+        "incremental": "7000",
+        "url": "http://mirror.teamdouche.net/get/inc/update-cm-7.0.0-RC1-Z71-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/google-apps/gapps-gb-20110120-signed.zip"
+        }
+        ]
+    },
+    {
+        "device": "z71",
         "name": "CyanogenMod 6.1.2",
         "modversion": "CyanogenMod-6.1.2-z71",
         "incremental": "6120",
@@ -1752,6 +1767,21 @@
         {
             "name": "Google Apps",
             "url": "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-mdpi-20101020-signed.zip"
+        }
+        ]
+    },
+    {
+        "device": "one",
+        "name": "CyanogenMod 7.0.0-RC1",
+        "modversion": "CyanogenMod-7.0.0-RC1-ONE",
+        "incremental": "7000",
+        "url": "http://mirror.teamdouche.net/get/inc/update-cm-7.0.0-RC1-ONE-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/google-apps/gapps-gb-20110120-signed.zip"
         }
         ]
     },

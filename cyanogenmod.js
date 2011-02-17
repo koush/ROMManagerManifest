@@ -180,6 +180,21 @@
     },
     {
         "device": "inc",
+        "name": "CyanogenMod 7.0.0-RC1",
+        "modversion": "CyanogenMod-7.0.0-RC1-Inc",
+        "incremental": "7000",
+        "url": "http://mirror.teamdouche.net/get/inc/update-cm-7.0.0-RC1-Inc-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Canidate",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/google-apps/gapps-gb-20110120-signed.zip"
+        }
+        ]
+    },
+    {
+        "device": "inc",
         "name": "CyanogenMod 6.1",
         "modversion": "CyanogenMod-6.1.0-RC2-Inc",
         "incremental": "6100",
@@ -285,25 +300,6 @@
         "product": "CyanogenMod",
         "file": "htc/inc/update-cm-6.0.0-Inc-signed.zip",
         "summary": "Stable Release",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "file": "google/gapps-hdpi-20100930-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "inc",
-        "name": "CyanogenMod 6.0.0-RC3",
-        "modversion": "CyanogenMod-6.0.0-Inc-RC3",
-        "incremental": "0",
-        "screenshots": [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
-        "product": "CyanogenMod",
-        "file": "htc/inc/update-cm-6.0.0-Inc-RC3-signed.zip",
-        "summary": "Release Candidate 3",
         "addons": [
         {
             "name": "Google Apps",

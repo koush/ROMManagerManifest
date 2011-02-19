@@ -13,7 +13,7 @@
         url: "http://droidbasement.com/g2/kernels/2632/21/boot-cm_2632.29_gb-oc-uv-xtra-neon_fp-021811.zip"
     },
     {
-        name: "Kernel 2.6.32.28 - OC-UV-XTRA-NEON_FP",
+        name: "Kernel 2.6.32.29 - OC-UV-XTRA-NEON_FP",
         summary: "0218 - G2 (Froyo) - 15:00",
         device: "vision",
         url: "http://droidbasement.com/g2/kernels/2632/21/boot-cm_2632.29-oc-uv-xtra-neon_fp-021811.zip"
@@ -66,16 +66,16 @@
     //ViewSonic Gtab and Malata Zpad (Froyo)
     {
         name: "Kernel 2.6.32.28 - XTRA-VFPv3_FP",
-        summary: "0216 - Harmony (Gtab/Zpad - Froyo) - 23:00",
+        summary: "0218 - Harmony (Gtab/Zpad - Froyo) - 20:00",
         device: "harmony",
-        url: "http://droidbasement.com/gtab/kernels/2632/12/boot-cm_2632.28-xtra-vfpv3_fp-021611.zip"
+        url: "http://droidbasement.com/gtab/kernels/2632/13/boot-cm_2632.29-xtra-vfpv3_fp-021811.zip"
     },
     //ViewSonic Gtab and Malata Zpad (Gingerbread)
     {
         name: "Kernel 2.6.32.28 - XTRA-VFPv3_FP",
-        summary: "0216 - Harmony (Gtab/Zpad - Gingerbread) - 23:00",
+        summary: "0218 - Harmony (Gtab/Zpad - Gingerbread) - 20:00",
         device: "harmony",
-        url: "http://droidbasement.com/gtab/kernels/2632/12/boot-cm_2632.28_gb-xtra-vfpv3_fp-021611.zip"
+        url: "http://droidbasement.com/gtab/kernels/2632/13/boot-cm_2632.29_gb-xtra-vfpv3_fp-021811.zip"
     }
     //END
     ]

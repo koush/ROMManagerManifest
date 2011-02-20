@@ -1684,6 +1684,21 @@
         ]
     },
     {
+        "device": "blade",
+        "name": "CyanogenMod 7.0.0-RC1",
+        "modversion": "CyanogenMod-7.0.0-Blade-RC1",
+        "incremental": "7000",
+        "url": "http://mirror.teamdouche.net/get/blade/update-cm-7.0.0-RC1-Blade-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate 1",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/google-apps/gapps-gb-20110120-signed.zip"
+        }
+        ]
+    },
+    {
         "device": "z71",
         "name": "CyanogenMod 7.0.0-RC1",
         "modversion": "CyanogenMod-7.0.0-RC1-Z71",

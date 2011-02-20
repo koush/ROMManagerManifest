@@ -1669,6 +1669,21 @@
         ]
     },
     {
+        "device": "buzz",
+        "name": "CyanogenMod 7.0.0-RC1",
+        "modversion": "CyanogenMod-7.0.0-Buzz-RC1",
+        "incremental": "7000",
+        "url": "http://mirror.teamdouche.net/get/buzz/update-cm-7.0.0-RC1-Buzz-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate 1",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/google-apps/gapps-gb-20110120-signed.zip"
+        }
+        ]
+    },
+    {
         "device": "z71",
         "name": "CyanogenMod 7.0.0-RC1",
         "modversion": "CyanogenMod-7.0.0-RC1-Z71",

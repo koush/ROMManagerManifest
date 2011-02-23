@@ -1,3 +1,7 @@
+3.0.0.9
+Chinese translations.
+Minor bug fixes.
+
 3.0.0.2
 Show a download screen when a download starts.
 

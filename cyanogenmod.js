@@ -1624,7 +1624,7 @@
         ]
     },
     {
-        "device": "Click",
+        "device": "click",
         "name": "CyanogenMod 7.0.0-RC0",
         "modversion": "CyanogenMod-7.0.0-RC0-Click",
         "incremental": "7000",

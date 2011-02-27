@@ -1101,10 +1101,22 @@
         id: "ACS",
         summary: "Android Creative Syndicate",
         manifest: "http://holylivingfuck.com/ACS/Romlist.js",
+        free: true,
         roms:
         {
             epic: true,
             supersonic: true
+        }
+    },
+    {
+        developer: "Droidzone",
+        id: "droidzone",
+        summary: "Sense ROM for HTC Desire with Stable Data2SD",
+        manifest: "http://www.eyrie.in/Android/ROMS/ROM_Manager/manifest.js",
+        free: true,
+        roms:
+        {
+            bravo: true
         }
     }
     ]

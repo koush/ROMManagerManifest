@@ -1118,6 +1118,17 @@
         {
             bravo: true
         }
+    },
+    {
+        developer: "CoreDroid",
+        id: "coredroid",
+        summary: "Including HTC Sense, Core Droid is one of the fastest and most beautiful roms available.",
+        manifest: "http://coredroidroms.com/Roms/Desire_HD/manifest.js",
+        free: true,
+        roms:
+        {
+            ace: true
+        }
     }
     ]
 }

@@ -5,11 +5,18 @@
     [
     "http://www.thekilpatrickproject.com/downloads/koush/",
     "http://www.clockworkmod.com/download/",
-    "http://koush.tandtgaming.com/"
+    "http://koush.tandtgaming.com/",
+    "http://mirror1.kanged.net/"
     ],
 
     roms:
     [
+    {
+        name: "Nexus S 2.3.3",
+        summary: "Stable",
+        device: "crespo",
+        file: "samsung/crespo/f182cf141e6a.signed-soju-ota-102588.f182cf14.zip"
+    },
     {
         name: "Nexus S 2.3.1",
         summary: "Stable",

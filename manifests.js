@@ -1135,6 +1135,7 @@
         id: "tp4bama",
         summary: "Android Roms",
         manifest: "http://yeagsmedia.com/android/tp4bama/RomManagerManifest/manifest.js",
+        free: true,
         roms:
         {
             sholes: true
@@ -1145,6 +1146,7 @@
         id: "g4rb4g3",
         summary: "MIUI port for HTC Vision",
         manifest: "http://web15.public1.linz.at/files/miui-vision.js",
+        free: true,
         roms:
         {
             vision: true

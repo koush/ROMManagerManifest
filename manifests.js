@@ -1151,6 +1151,17 @@
         {
             vision: true
         }
+    },
+    {
+        developer: "Coolexe",
+        id: "coolexe",
+        summary: "New Sense ROM For HTC Desire",
+        manifest: "http://www.kimithemes.net/Android/manifest.js",
+        free: true,
+        roms:
+        {
+            bravo: true
+        }
     }
     ]
 }

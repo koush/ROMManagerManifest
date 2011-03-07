@@ -21,7 +21,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://goo-inside.me/google-apps/gapps-gb-20110120-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307.zip"
         }
         ]
     },
@@ -36,7 +36,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://goo-inside.me/google-apps/gapps-gb-20110120-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307.zip"
         }
         ]
     },
@@ -51,7 +51,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://goo-inside.me/google-apps/gapps-gb-20110120-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307.zip"
         }
         ]
     },
@@ -219,7 +219,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://goo-inside.me/google-apps/gapps-gb-20110120-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307.zip"
         }
         ]
     },
@@ -681,7 +681,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://goo-inside.me/google-apps/gapps-gb-20110120-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307.zip"
         }]
     },
     {
@@ -814,7 +814,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://goo-inside.me/google-apps/gapps-gb-20110120-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307.zip"
         }
         ]
     },
@@ -1183,7 +1183,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://goo-inside.me/google-apps/gapps-gb-20110120-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307.zip"
         }
         ]
     },
@@ -1289,7 +1289,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://goo-inside.me/google-apps/gapps-gb-20110120-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307.zip"
         }
         ]
     },
@@ -1528,7 +1528,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://goo-inside.me/google-apps/gapps-gb-20110120-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307.zip"
         }
         ]
     },
@@ -1783,7 +1783,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://goo-inside.me/google-apps/gapps-gb-20110120-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307.zip"
         }
         ]
     },
@@ -1798,7 +1798,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://goo-inside.me/google-apps/gapps-gb-20110120-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307.zip"
         }
         ]
     },
@@ -1813,7 +1813,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://goo-inside.me/google-apps/gapps-gb-20110120-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307.zip"
         }
         ]
     },
@@ -1828,7 +1828,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://goo-inside.me/google-apps/gapps-gb-20110120-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307.zip"
         }
         ]
     },
@@ -2016,4 +2016,3 @@
         "summary": "Google Add-On"
     }
     ]
-}

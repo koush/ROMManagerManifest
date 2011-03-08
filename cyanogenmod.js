@@ -21,7 +21,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-gb-20110307.zip"
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110120-signed.zip"
         }
         ]
     },
@@ -36,7 +36,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-gb-20110307.zip"
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110120-signed.zip"
         }
         ]
     },
@@ -66,7 +66,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://goo-inside.me/google-apps/gapps-gb-20110307-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110120-signed.zip"
         }
         ]
     },
@@ -219,7 +219,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-gb-20110307.zip"
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110120-signed.zip"
         }
         ]
     },
@@ -695,7 +695,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://goo-inside.me/google-apps/gapps-gb-20110307-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110120-signed.zip"
         }]
     },
     {
@@ -829,7 +829,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://goo-inside.me/google-apps/gapps-gb-20110307-signed.zip"
+            "url": "http://goo-inside.me/google-apps/gapps-gb-20110120-signed.zip"
         }
         ]
     },
@@ -1183,7 +1183,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-gb-20110307.zip"
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110120.zip"
         }
         ]
     },
@@ -1289,7 +1289,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-gb-20110307.zip"
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110120.zip"
         }
         ]
     },
@@ -1543,7 +1543,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://mirror.teamdouche.net/get/espresso/update-cm-7.0.0-RC1-Slide-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110120-signed.zip"
         }
         ]
     },
@@ -1558,7 +1558,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-20101020-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip"
         }
         ]
     },
@@ -1573,7 +1573,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-20101020-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip"
         }
         ]
     },
@@ -1588,7 +1588,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-20101020-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip"
         }
         ]
     },
@@ -1603,7 +1603,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-20101020-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip"
         }
         ]
     },
@@ -1618,7 +1618,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-20101020-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip"
         }
         ]
     },
@@ -1633,7 +1633,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-20101020-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip"
         }
         ]
     },
@@ -1648,7 +1648,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://www.tap3w0rm.com/hosted/android/gapps/gapps-mdpi-20101020-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip"
         }
         ]
     },
@@ -1663,7 +1663,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://goo-inside.me/google-apps/gapps-mdpi-20101020-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip"
         }
         ]
     },
@@ -1678,7 +1678,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://goo-inside.me/google-apps/gapps-mdpi-20101020-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip"
         }
         ]
     },
@@ -1693,7 +1693,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://mirror.teamdouche.net/get/liberty/update-cm-7.0.0-RC1-Liberty-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip"
         }
         ]
     },
@@ -1708,7 +1708,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-mdpi-20101020-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip"
         }
         ]
     },
@@ -1723,7 +1723,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-mdpi-20101020-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip"
         }
         ]
     },
@@ -1731,14 +1731,14 @@
         "device": "click",
         "name": "CyanogenMod 7.0.0-RC0",
         "modversion": "CyanogenMod-7.0.0-RC0-Click",
-        "incremental": "7000",
-        "url": "http://android.d3xt3r01.tk/cyanogen/click/update-cm-7.0.0-RC0-click-signed-113121.zip",
+        "incremental": "7004",
+        "url": "http://android.d3xt3r01.tk/cyanogen/click/update-cm-7.0.0-RC1-click-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 0",
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-mdpi-20101020-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
         }
         ]
     },
@@ -1753,7 +1753,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-mdpi-20101020-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip"
         }
         ]
     },
@@ -1768,7 +1768,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-mdpi-20101020-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip"
         }
         ]
     },
@@ -1783,7 +1783,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-gb-20110307.zip"
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110120-signed.zip"
         }
         ]
     },
@@ -1798,7 +1798,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-gb-20110307.zip"
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110120-signed.zip"
         }
         ]
     },
@@ -1828,7 +1828,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-gb-20110307.zip"
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110120-signed.zip"
         }
         ]
     },
@@ -1847,7 +1847,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-mdpi-20101020-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip"
         }
         ]
     },
@@ -1866,7 +1866,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-mdpi-20101020-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip"
         }
         ]
     },
@@ -1885,7 +1885,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-mdpi-20101020-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip"
         }
         ]
     },
@@ -1900,7 +1900,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-mdpi-20101020-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip"
         }
         ]
     },
@@ -1915,7 +1915,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-mdpi-20101020-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip"
         }
         ]
     },
@@ -1945,7 +1945,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://goo-inside.me/google-apps/gapps-gb-20110307-signed.zip"
+            "url": "http://goo-inside.me/google-apps/gapps-gb-20110120-signed.zip"
         }
         ]
     },

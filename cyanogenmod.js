@@ -1528,7 +1528,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://mirror.teamdouche.net/get/espresso/update-cm-7.0.0-RC2-Slide-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
         }
         ]
     },
@@ -1543,7 +1543,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://mirror.teamdouche.net/get/espresso/update-cm-7.0.0-RC1-Slide-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110120-signed.zip"
         }
         ]
     },

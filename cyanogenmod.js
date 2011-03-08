@@ -1159,6 +1159,21 @@
     },
     {
         "device": "ace",
+        "name": "CyanogenMod 7.0.0-RC2",
+        "modversion": "CyanogenMod-7.0.0-RC2-DesireHD",
+        "incremental": "7001",
+        "url": "http://mirror.teamdouche.net/get/ace/update-cm-7.0.0-RC2-DesireHD-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/google-apps/gapps-gb-20110307-signed.zip"
+        }
+        ]
+    },
+    {
+        "device": "ace",
         "name": "CyanogenMod 7.0.0-RC1",
         "modversion": "CyanogenMod-7.0.0-RC1-DesireHD",
         "incremental": "7000",
@@ -1245,6 +1260,21 @@
         {
             "name": "Google Apps",
             "url": "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-hdpi-20101114-signed.zip"
+        }
+        ]
+    },
+    {
+        "device": "bravo",
+        "name": "CyanogenMod 7.0.0-RC2",
+        "modversion": "CyanogenMod-7.0.0-RC2-Desire",
+        "incremental": "7001",
+        "url": "http://mirror.teamdouche.net/get/bravo/update-cm-7.0.0-RC2-Desire-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/google-apps/gapps-gb-20110307-signed.zip"
         }
         ]
     },
@@ -1398,16 +1428,16 @@
     },
     {
         "device": "bravoc",
-        "name": "CyanogenMod 7.0.0-RC1",
-        "modversion": "CyanogenMod-7.0.0-RC1-BravoC",
-        "incremental": "7000",
-        "url": "http://mirror.teamdouche.net/get/bravoc/update-cm-7.0.0-RC1-BravoC-signed.zip",
+        "name": "CyanogenMod 7.0.0-RC2",
+        "modversion": "CyanogenMod-7.0.0-RC2-BravoC",
+        "incremental": "7001",
+        "url": "http://mirror.teamdouche.net/get/bravoc/update-cm-7.0.0-RC2-BravoC-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate",
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://goo-inside.me/google-apps/gapps-gb-20110120-signed.zip"
+            "url": "http://goo-inside.me/google-apps/gapps-gb-20110307-signed.zip"
         }
         ]
     },

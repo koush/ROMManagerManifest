@@ -145,7 +145,7 @@
     {
         developer: "MrBobrowitz",
         id: "mrbobrowitz",
-        summary: "Roms, Themes and Addons for Droid, DX and Gtablet",
+        summary: "Roms, Themes and Addons for Droid, DX, Incredible and Gtablet",
         manifest: "http://www.mydroidfiles.com/mrbobrowitz/mrbobrowitzmanifest.js",
         free: true,
         roms:

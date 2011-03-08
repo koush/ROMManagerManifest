@@ -151,6 +151,7 @@
         roms:
         {
             sholes: true,
+            inc: true,
             droidx: true,
             harmony: true
         }

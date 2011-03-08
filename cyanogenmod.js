@@ -42,6 +42,21 @@
     },
     {
         "device": "vision",
+        "name": "CyanogenMod 7.0.0-RC2",
+        "modversion": "CyanogenMod-7.0.0-RC2-Vision",
+        "incremental": "7001",
+        "url": "http://mirror.teamdouche.net/get/vision/update-cm-7.0.0-RC2-vision-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/google-apps/gapps-gb-20110120-signed.zip"
+        }
+        ]
+    },
+    {
+        "device": "vision",
         "name": "CyanogenMod 7.0.0-RC1",
         "modversion": "CyanogenMod-7.0.0-RC1-Vision",
         "incremental": "7000",
@@ -657,6 +672,20 @@
     },
     {
         "device": "supersonic",
+        "name": "CyanogenMod 7.0.0-RC2",
+        "modversion": "CyanogenMod-7.0.0-RC2-Supersonic",
+        "incremental": "7001",
+        "url": "http://mirror.teamdouche.net/get/supersonic/update-cm-7.0.0-RC2-Supersonic-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/google-apps/gapps-gb-20110120-signed.zip"
+        }]
+    },
+    {
+        "device": "supersonic",
         "name": "CyanogenMod 7.0.0-RC1",
         "modversion": "CyanogenMod-7.0.0-RC1-Supersonic",
         "incremental": "7000",
@@ -771,6 +800,21 @@
         {
             "name": "Google Apps",
             "file": "google/gapps-hdpi-20100930-signed.zip"
+        }
+        ]
+    },
+    {
+        "device": "passion",
+        "name": "CyanogenMod 7.0.0-RC2",
+        "modversion": "CyanogenMod-7.0.0-RC2-N1",
+        "incremental": "7001",
+        "url": "http://mirror.teamdouche.net/get/passion/update-cm-7.0.0-RC2-N1-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/google-apps/gapps-gb-20110120-signed.zip"
         }
         ]
     },
@@ -1440,6 +1484,21 @@
         {
             "name": "Google Apps",
             "file": "google/gapps-hdpi-20100930-signed.zip"
+        }
+        ]
+    },
+    {
+        "device": "espresso",
+        "name": "CyanogenMod 7.0.0-RC2",
+        "modversion": "CyanogenMod-7.0.0-RC2-Slide",
+        "incremental": "7001",
+        "url": "http://mirror.teamdouche.net/get/espresso/update-cm-7.0.0-RC2-Slide-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://mirror.teamdouche.net/get/espresso/update-cm-7.0.0-RC2-Slide-signed.zip"
         }
         ]
     },

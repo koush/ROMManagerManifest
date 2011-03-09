@@ -1922,7 +1922,7 @@
         "name": "CyanogenMod 6.1.0-RC4",
         "modversion": "CyanogenMod-6.1.0-z71-RC4",
         "incremental": "6104",
-        "url": "http://dl.dropbox.com/u/10355648/update-cm-6.1.0-RC4-Z71-signed.zip",
+        "url": "http://goo-inside.me/cm/z71/rc/update-cm-6.1.0-RC4-Z71-signed.zip",
         "product": "CyanogenModRC",
         "summary": "Release Candidate 4",
         "addons": [
@@ -1997,7 +1997,7 @@
         "name": "CyanogenMod 6.1.0-RC1",
         "modversion": "CyanogenMod-6.1.0-one-RC1",
         "incremental": "6101",
-        "url": "http://dl.dropbox.com/u/10355648/update-cm-6.1.0-RC1-ONE-signed.zip",
+        "url": "http://goo-inside.me/cm/one/rc/update-cm-6.1.0-RC1-ONE-signed.zip",
         "product": "CyanogenModRC",
         "summary": "Release Candidate 1",
         "addons": [

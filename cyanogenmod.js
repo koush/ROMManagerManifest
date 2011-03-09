@@ -696,7 +696,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-gb-20110307.zip"
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
         }]
     },
     {
@@ -829,7 +829,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-gb-20110307.zip"
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
         }
         ]
     },

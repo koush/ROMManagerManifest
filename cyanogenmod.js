@@ -354,6 +354,21 @@
     },
     {
         "device": "sholes",
+        "name": "CyanogenMod 7.0.0-RC2",
+        "modversion": "CyanogenMod-7.0.0-RC2-Droid",
+        "incremental": "7001",
+        "url": "http://mirror.teamdouche.net/get/sholes/update-cm-7.0.0-RC2-Droid-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
+        }
+        ]
+    },
+    {
+        "device": "sholes",
         "name": "CyanogenMod 6.1.2",
         "modversion": "CyanogenMod-6.1.2-Droid",
         "incremental": "6107",

@@ -974,11 +974,11 @@
         }
     },
     {
-        developer: "r2DoesInc",
+        developer: "t3hh4xx0r",
         id: "r2d2",
         summary: "Gingerbread (Android 2.3) for your Incredible",
         free: true,
-        manifest: "http://r2doesinc.bitsurge.net/manifest.js",
+        manifest: "https://github.com/OMFGB/rommanager_manifest/blob/master/manifest.js",
         roms:
         {
             inc: true,

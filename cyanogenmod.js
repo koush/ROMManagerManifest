@@ -3,9 +3,7 @@
     "homepage": "http://www.cyanogenmod.com/",
     "donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3283920",
     "mirrors": [
-    "http://droidk.macleod-web.net/",
     "http://www.thekilpatrickproject.com/downloads/koush/",
-    "http://www.clockworkmod.com/download/",
     "http://koush.tandtgaming.com/",
     "http://koush.droid.co"
     ],

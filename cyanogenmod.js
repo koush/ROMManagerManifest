@@ -12,6 +12,21 @@
     "roms": [
     {
         "device": "crespo",
+        "name": "CyanogenMod 7.0.0-RC2",
+        "modversion": "CyanogenMod-7.0.0-RC2-NS",
+        "incremental": "7000",
+        "url": "http://mirror.teamdouche.net/get/update-cm-7.0.0-RC2-NS-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307.zip"
+        }
+        ]
+    },
+    {
+        "device": "crespo",
         "name": "CyanogenMod 7.0.0-RC1",
         "modversion": "CyanogenMod-7.0.0-RC1-NS",
         "incremental": "7000",

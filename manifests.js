@@ -70,7 +70,7 @@
         developer: "CyanogenMod Nightlies",
         id: "cyanogenmodnightly",
         summary: "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds.",
-        manifest: "http://mirror1.kanged.net/nightly/manifest.js",
+        manifest: "http://mirror.kanged.net/nightly/manifest.js",
         roms:
         {
             inc: true,

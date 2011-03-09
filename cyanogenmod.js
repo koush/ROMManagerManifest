@@ -1262,7 +1262,7 @@
         "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
         "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
         ],
-        "url": "http://android.d3xt3r01.tk/cyanogen/ace/update-cm-6.1.0-RC2-DesireHD-signed.zip",
+        "url": "http://goo-inside.me/cm/ace/rc/update-cm-6.1.0-RC2-DesireHD-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 2",
         "addons": [
@@ -1281,7 +1281,7 @@
         "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
         "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
         ],
-        "url": "http://android.d3xt3r01.tk/cyanogen/ace/update-cm-6.1.0-RC1-DesireHD-signed.zip",
+        "url": "http://goo-inside.me/cm/ace/rc/update-cm-6.1.0-RC1-DesireHD-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 1",
         "addons": [
@@ -1368,7 +1368,7 @@
         "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
         "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
         ],
-        "url": "http://android.d3xt3r01.tk/cyanogen/bravo/update-cm-6.1.0-RC2-Desire-signed.zip",
+        "url": "http://goo-inside.me/cm/bravo/rc/update-cm-6.1.0-RC2-Desire-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 2",
         "addons": [
@@ -1516,7 +1516,7 @@
         "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
         "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
         ],
-        "url": "http://android.d3xt3r01.tk/cyanogen/bravoc/update-cm-6.1.0-RC2-BravoC-signed.zip",
+        "url": "http://goo-inside.me/cm/bravoc/rc/update-cm-6.1.0-RC2-BravoC-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 2",
         "addons": [
@@ -1700,7 +1700,7 @@
         "name": "CyanogenMod 6.1.0",
         "modversion": "CyanogenMod-6.1.0-Hero",
         "incremental": "6101",
-        "url": "http://android.d3xt3r01.tk/cyanogen/hero/update-cm-6.1.0-Hero-signed.zip",
+        "url": "http://goo-inside.me/cm/hero/stable/update-cm-6.1.0-Hero-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
         "addons": [
@@ -1730,7 +1730,7 @@
         "name": "CyanogenMod 6.1.0",
         "modversion": "CyanogenMod-6.1.0-liberty",
         "incremental": "6103",
-        "url": "http://android.d3xt3r01.tk/cyanogen/liberty/update-cm-6.1.0-Liberty-signed.zip",
+        "url": "http://goo-inside.me/cm/liberty/stable/update-cm-6.1.0-Liberty-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
         "addons": [
@@ -1745,7 +1745,7 @@
         "name": "CyanogenMod 6.1.0-RC2",
         "modversion": "CyanogenMod-6.1.0-RC2-liberty",
         "incremental": "6102",
-        "url": "http://android.d3xt3r01.tk/cyanogen/liberty/update-cm-6.1.0-RC2-Liberty-signed.zip",
+        "url": "http://goo-inside.me/cm/liberty/rc/update-cm-6.1.0-RC2-Liberty-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Canidate 2",
         "addons": [
@@ -1760,7 +1760,7 @@
         "name": "CyanogenMod 7.0.0-RC0",
         "modversion": "CyanogenMod-7.0.0-RC0-Click",
         "incremental": "7004",
-        "url": "http://android.d3xt3r01.tk/cyanogen/click/update-cm-7.0.0-RC1-click-signed.zip",
+        "url": "http://goo-inside.me/cm/click/rc/update-cm-7.0.0-RC1-click-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 0",
         "addons": [

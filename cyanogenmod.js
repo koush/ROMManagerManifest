@@ -1022,7 +1022,7 @@
         "device": "dream",
         "name": "CyanogenMod 6.0.0",
         "urls": [
-        "http://download.cyanogenmod.com/get/dream_sapphire/update-cm-6.0.0-DS-signed.zip"
+        "http://goo-inside.me/cm/dream_sapphire/stable/update-cm-6.0.0-DS-signed.zip"
         ],
         "modversion": "CyanogenMod-6.0.0-DS",
         "incremental": "6000",
@@ -1443,7 +1443,7 @@
         "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
         "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
         ],
-        "url": "http://mirror.jeago.com/bravo/stable/update-cm-6.0.0-Desire-signed.zip",
+        "url": "http://goo-inside.me/cm/bravo/stable/update-cm-6.0.0-Desire-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
         "addons": [

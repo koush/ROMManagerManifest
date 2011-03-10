@@ -978,7 +978,7 @@
         id: "r2d2",
         summary: "Gingerbread (Android 2.3) for your Incredible",
         free: true,
-        manifest: "https://github.com/OMFGB/rommanager_manifest/blob/master/manifest.js",
+        manifest: "https://github.com/OMFGB/rommanager_manifest/raw/master/manifest.js",
         roms:
         {
             inc: true,

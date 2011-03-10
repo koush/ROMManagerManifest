@@ -4,7 +4,6 @@
     "donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3283920",
     "mirrors": [
     "http://www.thekilpatrickproject.com/downloads/koush/",
-    "http://koush.tandtgaming.com/",
     "http://koush.droid.co"
     ],
     "roms": [

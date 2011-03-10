@@ -11,7 +11,7 @@
         "device": "crespo",
         "name": "CyanogenMod 7.0.0-RC2",
         "modversion": "CyanogenMod-7.0.0-RC2-NS",
-        "incremental": "7000",
+        "incremental": "7001",
         "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC2-NS-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate",
@@ -28,6 +28,21 @@
         "modversion": "CyanogenMod-7.0.0-RC1-NS",
         "incremental": "7000",
         "url": "http://download.cyanogenmod.com/get/crespo/update-cm-7.0.0-RC1-NS-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110120-signed.zip"
+        }
+        ]
+    },
+    {
+        "device": "glacier",
+        "name": "CyanogenMod 7.0.0-RC2",
+        "modversion": "CyanogenMod-7.0.0-RC2-glacier",
+        "incremental": "7001",
+        "url": "http://download.cyanogenmod.com/get/glacier/update-cm-7.0.0-RC2-glacier-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate",
         "addons": [

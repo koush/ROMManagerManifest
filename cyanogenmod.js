@@ -820,7 +820,7 @@
         "name": "CyanogenMod 6.0.0-RC2",
         "modversion": "CyanogenMod-6.0.0-Supersonic-RC2",
         "incremental": "0",
-        "url": "http://download.cyanogenmod.com/get/supersonic/update-cm-6.0.0-Supersonic-RC2-signed.zip",
+        "url": "http://goo-inside.me/cm/supersonic/rc/update-cm-6.0.0-Supersonic-RC2-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 2",
         "addons": [
@@ -940,7 +940,7 @@
         "name": "CyanogenMod 6.0.0-RC3",
         "modversion": "CyanogenMod-6.0.0-N1-RC3",
         "incremental": "0",
-        "url": "http://download.cyanogenmod.com/get/passion/update-cm-6.0.0-N1-RC3-signed.zip",
+        "url": "http://goo-inside.me/cm/passion/rc/update-cm-6.0.0-N1-RC3-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 3",
         "addons": [
@@ -955,7 +955,7 @@
         "name": "CyanogenMod 6.0.0-RC2",
         "modversion": "CyanogenMod-6.0.0-N1-RC2",
         "incremental": "0",
-        "url": "http://download.cyanogenmod.com/get/passion/update-cm-6.0.0-N1-RC2-signed.zip",
+        "url": "http://goo-inside.me/cm/passion/rc/update-cm-6.0.0-N1-RC2-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 2",
         "addons": [

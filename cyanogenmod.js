@@ -1125,7 +1125,7 @@
         "name": "CyanogenMod 6.0.0",
         "modversion": "CyanogenMod-6.0.0-DS",
         "incremental": "6000",
-        "url": "http://download.cyanogenmod.com/get/dream_sapphire/update-cm-6.0.0-DS-signed.zip",
+        "url": "http://goo-inside.me/cm/dream_sapphire/stable/update-cm-6.0.0-DS-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
         "addons": [

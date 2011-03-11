@@ -1163,6 +1163,17 @@
         {
             bravo: true
         }
+    },
+    {
+        developer: "baadnewz",
+        id: "baadnewz",
+        summary: "DesireHD rom ported to desire.Stable and fast",
+        manifest: "http://baadnewz.lcdc.sk/rommanifest.js",
+        free: true,
+        roms:
+        {
+              bravo: true
+        }
     }
     ]
 }

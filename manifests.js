@@ -978,7 +978,7 @@
         id: "r2d2",
         summary: "Gingerbread (Android 2.3) for your Incredible",
         free: true,
-        manifest: "https://github.com/OMFGB/rommanager_manifest/blob/master/manifest.js",
+        manifest: "http://omfgb.github.com/rommanager_manifest/manifest.js",
         roms:
         {
             inc: true,
@@ -1162,6 +1162,17 @@
         roms:
         {
             bravo: true
+        }
+    },
+    {
+        developer: "baadnewz",
+        id: "baadnewz",
+        summary: "DesireHD rom ported to desire.Stable and fast",
+        manifest: "http://baadnewz.lcdc.sk/rommanifest.js",
+        free: true,
+        roms:
+        {
+              bravo: true
         }
     }
     ]

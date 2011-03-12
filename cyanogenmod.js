@@ -1830,6 +1830,21 @@
         ]
     },
     {
+        "device": "buzz",
+        "name": "CyanogenMod 7.0.0-RC2",
+        "modversion": "CyanogenMod-7.0.0-Buzz-RC2",
+        "incremental": "7000",
+        "url": "http://download.cyanogenmod.com/get/buzz/update-cm-7.0.0-RC2-Buzz-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate 2",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
+        }
+        ]
+    },
+    {
         "device": "blade",
         "name": "CyanogenMod 7.0.0-RC1",
         "modversion": "CyanogenMod-7.0.0-Blade-RC1",

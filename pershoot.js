@@ -8,15 +8,15 @@
     //**************************************
     {
         name: "Kernel 2.6.32.32 - OC-UV-XTRA-NEON_FP",
-        summary: "0312 - G2 (Gingerbread) - 20:00",
+        summary: "0313 - G2 (Gingerbread) - 18:00",
         device: "vision",
-        url: "http://droidbasement.com/g2/kernels/2632/25/boot-cm_2632.32_gb-oc-uv-xtra-neon_fp-031211.zip"
+        url: "http://droidbasement.com/g2/kernels/2632/26/boot-cm_2632.32_gb-oc-uv-xtra-neon_fp-031311.zip"
     },
     {
         name: "Kernel 2.6.32.32 - OC-UV-XTRA-NEON_FP",
-        summary: "0312 - G2 (Froyo) - 20:00",
+        summary: "0313 - G2 (Froyo) - 18:00",
         device: "vision",
-        url: "http://droidbasement.com/g2/kernels/2632/25/boot-cm_2632.32-oc-uv-xtra-neon_fp-031211.zip"
+        url: "http://droidbasement.com/g2/kernels/2632/26/boot-cm_2632.32-oc-uv-xtra-neon_fp-031311.zip"
     },
     //**************************************
     //**********Nexus**************

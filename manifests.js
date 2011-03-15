@@ -1174,6 +1174,17 @@
         {
               bravo: true
         }
+    },
+    {
+        developer: "Savaged-Zen",
+        id: "jsseidel1",
+        summary: "ROM and kernel for HTC EVO 4G",
+        manifest: "https://github.com/Savaged-Zen/RM-Manifest/raw/master/manifest.js",
+        free: true,
+        roms:
+        {
+            supersonic: true
+        }
     }
     ]
 }

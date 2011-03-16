@@ -2,10 +2,6 @@
     "version": "1",
     "homepage": "http://www.cyanogenmod.com/",
     "donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3283920",
-    "mirrors": [
-    "http://www.thekilpatrickproject.com/downloads/koush/",
-    "http://koush.droid.co"
-    ],
     "roms": [
     {
         "device": "crespo",
@@ -102,10 +98,6 @@
         "name": "CyanogenMod 6.1.1",
         "modversion": "CyanogenMod-6.1.1-vision",
         "incremental": "0007",
-        "screenshots": [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
         "url": "http://download.cyanogenmod.com/get/vision/update-cm-6.1.1-vision-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
@@ -121,10 +113,6 @@
         "name": "CyanogenMod 6.1",
         "modversion": "CyanogenMod-6.1.0-vision",
         "incremental": "0006",
-        "screenshots": [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
         "url": "http://download.cyanogenmod.com/get/vision/update-cm-6.1.0-vision-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
@@ -140,10 +128,6 @@
         "name": "CyanogenMod 6.1 RC4",
         "modversion": "CyanogenMod-6.1.0-RC4-G2",
         "incremental": "0005",
-        "screenshots": [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
         "url": "http://download.cyanogenmod.com/get/vision/update-cm-6.1.0-RC4-vision-signed.zip",
         "product": "CyanogenModRC",
         "summary": "Release Candidate",
@@ -159,10 +143,6 @@
         "name": "CyanogenMod 6.1 RC3",
         "modversion": "CyanogenMod-6.1.0-RC3-G2",
         "incremental": "0004",
-        "screenshots": [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
         "url": "http://download.cyanogenmod.com/get/vision/update-cm-6.1.0-RC3-vision-signed.zip",
         "product": "CyanogenModRC",
         "summary": "Release Candidate",
@@ -178,10 +158,6 @@
         "name": "CyanogenMod 6.1 RC2",
         "modversion": "CyanogenMod-6.1.0-RC2-G2",
         "incremental": "0003",
-        "screenshots": [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
         "url": "http://download.cyanogenmod.com/get/vision/update-cm-6.1.0-RC2-vision-signed.zip",
         "product": "CyanogenModRC",
         "summary": "Release Candidate",
@@ -197,10 +173,6 @@
         "name": "CyanogenMod 6.1 RC1",
         "modversion": "CyanogenMod-6.1.0-RC1-G2",
         "incremental": "0002",
-        "screenshots": [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
         "url": "http://download.cyanogenmod.com/get/vision/update-cm-6.1.0-RC1-vision-signed.zip",
         "product": "CyanogenModRC",
         "summary": "Release Candidate",
@@ -255,10 +227,6 @@
         "name": "CyanogenMod 6.1",
         "modversion": "CyanogenMod-6.1.0-RC2-Inc",
         "incremental": "6100",
-        "screenshots": [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
         "url": "http://download.cyanogenmod.com/get/inc/update-cm-6.1.0-Inc-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable",
@@ -274,17 +242,13 @@
         "name": "CyanogenMod 6.1 RC2",
         "modversion": "CyanogenMod-6.1.0-RC2-Inc",
         "incremental": "6101",
-        "screenshots": [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
         "product": "CyanogenModRC",
-        "file": "htc/inc/update-cm-6.1.0-RC2-Inc-signed.zip",
+        "url": "http://goo-inside.me/cm/inc/rc/update-cm-6.1.0-RC2-Inc-signed.zip",
         "summary": "Release Candidate",
         "addons": [
         {
             "name": "Google Apps",
-            "file": "google/gapps-hdpi-20100930-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
         }
         ]
     },
@@ -293,17 +257,13 @@
         "name": "CyanogenMod 6.1 RC1",
         "modversion": "CyanogenMod-6.1.0-RC1-Inc",
         "incremental": "6100",
-        "screenshots": [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
         "product": "CyanogenModRC",
-        "file": "htc/inc/update-cm-6.1.0-RC1-Inc-signed.zip",
+        "url": "http://goo-inside.me/cm/inc/rc/update-cm-6.1.0-RC1-Inc-signed.zip",
         "summary": "Release Candidate",
         "addons": [
         {
             "name": "Google Apps",
-            "file": "google/gapps-hdpi-20100930-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
         }
         ]
     },
@@ -312,17 +272,13 @@
         "name": "CyanogenMod 6.0.2",
         "modversion": "CyanogenMod-6.0.2-Inc",
         "incremental": "6020",
-        "screenshots": [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
         "product": "CyanogenMod",
-        "file": "htc/inc/update-cm-6.0.2-Inc-signed.zip",
+        "url": "http://goo-inside.me/cm/inc/stable/update-cm-6.0.2-Inc-signed.zip",
         "summary": "Stable Release",
         "addons": [
         {
             "name": "Google Apps",
-            "file": "google/gapps-hdpi-20100930-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
         }
         ]
     },
@@ -331,17 +287,13 @@
         "name": "CyanogenMod 6.0.1",
         "modversion": "CyanogenMod-6.0.1-Inc",
         "incremental": "6010",
-        "screenshots": [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
         "product": "CyanogenMod",
-        "file": "htc/inc/update-cm-6.0.1-Inc-signed.zip",
+        "url": "http://goo-inside.me/cm/inc/stable/update-cm-6.0.1-Inc-signed.zip",
         "summary": "Stable Release",
         "addons": [
         {
             "name": "Google Apps",
-            "file": "google/gapps-hdpi-20100930-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
         }
         ]
     },
@@ -350,17 +302,13 @@
         "name": "CyanogenMod 6.0.0",
         "modversion": "CyanogenMod-6.0.0-Inc",
         "incremental": "6000",
-        "screenshots": [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
         "product": "CyanogenMod",
-        "file": "htc/inc/update-cm-6.0.0-Inc-signed.zip",
+        "url": "http://goo-inside.me/cm/inc/stable/update-cm-6.0.0-Inc-signed.zip",
         "summary": "Stable Release",
         "addons": [
         {
             "name": "Google Apps",
-            "file": "google/gapps-hdpi-20100930-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
         }
         ]
     },
@@ -384,10 +332,6 @@
         "name": "CyanogenMod 6.1.2",
         "modversion": "CyanogenMod-6.1.2-Droid",
         "incremental": "6107",
-        "screenshots": [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
         "url": "http://download.cyanogenmod.com/get/sholes/update-cm-6.1.2-Droid-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
@@ -401,14 +345,14 @@
             },
             {
                 "name": "Launcher2",
-                "file": "common/Launcher2-CM6-v1.zip"
+                "url": "http://goo-inside.me/tools/Launcher2-CM6-v1.zip"
             }
             ]
         }
         ],
         "addons": [
         {
-            "name": "Google Apps - 11-14-2010",
+            "name": "Google Apps",
             "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
         }
         ]
@@ -418,10 +362,6 @@
         "name": "CyanogenMod 6.1.0",
         "modversion": "CyanogenMod-6.1.0-Droid",
         "incremental": "6105",
-        "screenshots": [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
         "url": "http://download.cyanogenmod.com/get/sholes/update-cm-6.1.0-Droid-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
@@ -435,14 +375,14 @@
             },
             {
                 "name": "Launcher2",
-                "file": "common/Launcher2-CM6-v1.zip"
+                "url": "http://goo-inside.me/tools/Launcher2-CM6-v1.zip"
             }
             ]
         }
         ],
         "addons": [
         {
-            "name": "Google Apps - 11-14-2010",
+            "name": "Google Apps",
             "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
         }
         ]
@@ -452,10 +392,6 @@
         "name": "CyanogenMod 6.0.0",
         "modversion": "CyanogenMod-6.0.0-Droid",
         "incremental": "6000",
-        "screenshots": [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
         "url": "http://download.cyanogenmod.com/get/sholes/update-cm-6.0.0-Droid-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
@@ -469,7 +405,7 @@
             },
             {
                 "name": "Launcher2",
-                "file": "common/Launcher2-CM6-v1.zip"
+                "url": "http://goo-inside.me/tools/Launcher2-CM6-v1.zip"
             }
             ]
         }
@@ -477,7 +413,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "file": "google/gapps-hdpi-20100930-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
         }
         ]
     },
@@ -486,17 +422,13 @@
         "name": "CyanogenMod 5.0.8",
         "modversion": "CyanogenMod-5.0.8-Droid",
         "incremental": "5080",
-        "screenshots": [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
         "product": "CyanogenMod",
-        "file": "motorola/sholes/update-cm-5.0.8-Droid-signed.zip",
+        "url": "http://goo-inside.me/cm/sholes/stable/update-cm-5.0.8-Droid-signed.zip",
         "summary": "Stable",
         "addons": [
         {
             "name": "Google Apps",
-            "file": "common/gapps-passion-EPF30-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-passion-EPE54B-signed.zip"
         }
         ]
     },
@@ -504,7 +436,7 @@
         "device": "sholes",
         "name": "bekit Kernels (0.8.4)",
         "developer": "true",
-        "urls": [
+        "url": [
         ""
         ],
         "summary": "Custom Clocked Kernels for CyanogenMod-5. For Advanced users only.",
@@ -514,135 +446,91 @@
             "options": [
             {
                 "name": "Stock (Default) 0.8.4",
-                "urls": [
-                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-stock.zip"
-                ]
+                "url": "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-stock.zip"
             },
             {
                 "name": "5 Slot 800MHz 0.8.4 *Standard Voltage*",
-                "urls": [
-                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-5x800SV.zip"
-                ]
+                "url": "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-5x800SV.zip"
             },
             {
                 "name": "5 Slot 1.0GHz 0.8.4 *Standard Voltage*",
-                "urls": [
-                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-5x1000SV.zip"
-                ]
+                "url": "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-5x1000SV.zip"
             },
             {
                 "name": "5 Slot 1.1GHz 0.8.4 *Standard Voltage*",
-                "urls": [
-                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-5x1100SV.zip"
-                ]
+                "url": "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-5x1100SV.zip"
             },
             {
                 "name": "5 Slot 1.2GHz 0.8.4 *Standard Voltage*",
-                "urls": [
-                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-5x1200SV.zip"
-                ]
+                "url": "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-5x1200SV.zip"
             },
             {
                 "name": "7 Slot 800MHz 0.8.4 *Standard Voltage*",
-                "urls": [
-                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-7x800SV.zip"
-                ]
+                "url": "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-7x800SV.zip"
             },
             {
                 "name": "7 Slot 1.0GHz 0.8.4 *Standard Voltage*",
-                "urls": [
-                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-7x1000SV.zip"
-                ]
+                "url": "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-7x1000SV.zip"
             },
             {
                 "name": "7 Slot 1.1GHz 0.8.4 *Standard Voltage*",
-                "urls": [
-                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-7x1100SV.zip"
-                ]
+                "url": "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-7x1100SV.zip"
             },
             {
                 "name": "7 Slot 1.2GHz 0.8.4 *Standard Voltage*",
-                "urls": [
-                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-7x1200SV.zip"
-                ]
+                "url": "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-7x1200SV.zip"
             },
             {
                 "name": "7 Slot 1.3GHz 0.8.4 *Standard Voltage*",
-                "urls": [
-                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-7x1300SV.zip"
-                ]
+                "url": "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-7x1300SV.zip"
             },
             {
                 "name": "5 Slot 800MHz 0.8.4*Low Voltage*",
-                "urls": [
-                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-5x800LV.zip"
-                ]
+                "url": "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-5x800LV.zip"
             },
             {
                 "name": "5 Slot 1.0GHz 0.8.4 *Low Voltage*",
-                "urls": [
-                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-5x1000LV.zip"
-                ]
+                "url": "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-5x1000LV.zip"
             },
             {
                 "name": "5 Slot 1.1GHz 0.8.4 *Low Voltage*",
-                "urls": [
-                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-5x1100LV.zip"
-                ]
+                "url": "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-5x1100LV.zip"
             },
             {
                 "name": "5 Slot 1.2GHz 0.8.4 *Low Voltage*",
-                "urls": [
-                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-5x1200LV.zip"
-                ]
+                "url": "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-5x1200LV.zip"
             },
             {
                 "name": "7 Slot 800MHz 0.8.4 *Low Voltage*",
-                "urls": [
-                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-7x800LV.zip"
-                ]
+                "url": "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-7x800LV.zip"
             },
             {
                 "name": "7 Slot 1.0GHz 0.8.4 *Low Voltage*",
-                "urls": [
-                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-7x1000LV.zip"
-                ]
+                "url": "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-7x1000LV.zip"
             },
             {
                 "name": "7 Slot 1.1GHz 0.8.4 *Low Voltage*",
-                "urls": [
-                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-7x1100LV.zip"
-                ]
+                "url": "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-7x1100LV.zip"
             },
             {
                 "name": "7 Slot 1.2GHz 0.8.4 *Low Voltage*",
-                "urls": [
-                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-7x1200LV.zip"
-                ]
+                "url": "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-7x1200LV.zip"
             },
             {
                 "name": "7 Slot 1.3GHz 0.8.4 *Low Voltage*",
-                "urls": [
-                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-7x1300LV.zip"
-                ]
+                "url": "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-7x1300LV.zip"
             },
             {
                 "name": "7 Slot 1.1GHz 0.8.4 *Increased Voltage*",
-                "urls": [
-                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-7x1100IV.zip"
-                ]
+                "url": "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-7x1100IV.zip"
             },
             {
                 "name": "7 Slot 1.2GHz 0.8.4 *Increased Voltage*",
-                "urls": [
-                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-7x1200IV.zip"
-                ]
+                "url": "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-7x1200IV.zip"
             },
             {
                 "name": "7 Slot 1.3GHz 0.8.4 *Increased Voltage*",
-                "urls": [
-                "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-7x1300IV.zip"
-                ]
+                "url": "http://dropbox.bekit.net/Android/bekit_kernels/0.8/bekit_boot-0.8.4-7x1300IV.zip"
             }
             ]
         }
@@ -652,9 +540,7 @@
         "device": "sholes",
         "name": "P3Droid Kernels",
         "developer": "true",
-        "urls": [
-        ""
-        ],
+        "url": "",
         "summary": "Kernels for any ECLAIR rom, using AnyUpdater from Koush by P3Droid. For Advanced users only.",
         "choices": [
         {
@@ -662,51 +548,35 @@
             "options": [
             {
                 "name": "600 - 250/300/400/450/500/550/600",
-                "urls": [
-                "http://www.p3designs.info/kernels/600_LV_Wi_USB_Tether.zip"
-                ]
+                "url": "http://www.p3designs.info/kernels/600_LV_Wi_USB_Tether.zip"
             },
             {
                 "name": "700 - 250/400/500/550/600/650/700",
-                "urls": [
-                "http://www.p3designs.info/kernels/700_LV_Wi_USB_Tether.zip"
-                ]
+                "url": "http://www.p3designs.info/kernels/700_LV_Wi_USB_Tether.zip"
             },
             {
                 "name": "800 - 250/400/500/550/600/700/800",
-                "urls": [
-                "http://www.p3designs.info/kernels/800_LV_Wi_USB_Tether.zip"
-                ]
+                "url": "http://www.p3designs.info/kernels/800_LV_Wi_USB_Tether.zip"
             },
             {
                 "name": "900 - 250/400/500/600/700/800/900",
-                "urls": [
-                "http://www.p3designs.info/kernels/900_LV_Wi_USB_Tether.zip"
-                ]
+                "url": "http://www.p3designs.info/kernels/900_LV_Wi_USB_Tether.zip"
             },
             {
                 "name": "1000 - 250/500/600/700/800/900/1000",
-                "urls": [
-                "http://www.p3designs.info/kernels/1000_LV_Wi_USB_Tether.zip"
-                ]
+                "url": "http://www.p3designs.info/kernels/1000_LV_Wi_USB_Tether.zip"
             },
             {
                 "name": "1100 - 250/500/600/700/900/1000/1100",
-                "urls": [
-                "http://www.p3designs.info/kernels/1100_LV_Wi_USB_Tether.zip"
-                ]
+                "url": "http://www.p3designs.info/kernels/1100_LV_Wi_USB_Tether.zip"
             },
             {
                 "name": "1200 - 250/500/600/700/1000/1100/1200",
-                "urls": [
-                "http://www.p3designs.info/kernels/1200_LV_Wi_USB_Tether.zip"
-                ]
+                "url": "http://www.p3designs.info/kernels/1200_LV_Wi_USB_Tether.zip"
             },
             {
                 "name": "1250 - 250/500/600/800/1100/1200/1250",
-                "urls": [
-                "http://www.p3designs.info/kernels/1250_LV_Wi_USB_Tether.zip"
-                ]
+                "url": "http://www.p3designs.info/kernels/1250_LV_Wi_USB_Tether.zip"
             }
             ]
         }
@@ -751,7 +621,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "file": "google/gapps-hdpi-20101114-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
         }
         ]
     },
@@ -766,7 +636,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "file": "google/gapps-hdpi-20101114-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
         }
         ]
     },
@@ -781,7 +651,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "file": "google/gapps-hdpi-20101114-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
         }
         ]
     },
@@ -796,7 +666,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "file": "google/gapps-hdpi-20100930-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
         }
         ]
     },
@@ -811,7 +681,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "file": "google/gapps-hdpi-20100930-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
         }
         ]
     },
@@ -826,7 +696,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "file": "google/gapps-hdpi-20100930-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
         }
         ]
     },
@@ -841,7 +711,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "file": "google/gapps-hdpi-20100930-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
         }
         ]
     },
@@ -886,7 +756,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "file": "google/gapps-hdpi-20101114-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
         }
         ]
     },
@@ -901,7 +771,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "file": "google/gapps-hdpi-20101114-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
         }
         ]
     },
@@ -916,7 +786,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "file": "google/gapps-hdpi-20100930-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
         }
         ]
     },
@@ -931,7 +801,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "file": "google/gapps-hdpi-20100930-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
         }
         ]
     },
@@ -946,7 +816,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "file": "google/gapps-hdpi-20100930-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
         }
         ]
     },
@@ -961,7 +831,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "file": "google/gapps-hdpi-20100930-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
         }
         ]
     },
@@ -976,7 +846,7 @@
         "addons": [
         {
             "name": "Google Apps",
-            "file": "google/gapps-hdpi-20100930-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
         }
         ]
     },
@@ -985,11 +855,7 @@
         "name": "CyanogenMod 5.0.8",
         "modversion": "CyanogenMod-5.0.8-N1",
         "incremental": "5080",
-        "url": "http://n0rp.chemlab.org/android/nexus/update-cm-5.0.8-N1-signed.zip",
-        "screenshots": [
-        "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot.png",
-        "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot2.png"
-        ],
+        "url": "http://goo-inside.me/cm/passion/stable/update-cm-5.0.8-N1-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable",
         "addons": [
@@ -1002,9 +868,7 @@
     {
         "device": "dream",
         "name": "CyanogenMod 6.1.0",
-        "urls": [
-        "http://download.cyanogenmod.com/get/dream_sapphire/update-cm-6.1.0-DS-signed.zip"
-        ],
+        "url": "http://download.cyanogenmod.com/get/dream_sapphire/update-cm-6.1.0-DS-signed.zip",
         "modversion": "CyanogenMod-6.1.0-DS",
         "incremental": "6101",
         "product": "CyanogenMod",
@@ -1019,9 +883,7 @@
     {
         "device": "dream",
         "name": "CyanogenMod 6.1.0-RC1",
-        "urls": [
-        "http://download.cyanogenmod.com/get/dream_sapphire/update-cm-6.1.0-RC1-DS-signed.zip"
-        ],
+        "url": "http://download.cyanogenmod.com/get/dream_sapphire/update-cm-6.1.0-RC1-DS-signed.zip",
         "modversion": "CyanogenMod-6.1.0-RC1-DS",
         "incremental": "6100",
         "product": "CyanogenMod",
@@ -1036,9 +898,7 @@
     {
         "device": "dream",
         "name": "CyanogenMod 6.0.0",
-        "urls": [
-        "http://goo-inside.me/cm/dream_sapphire/stable/update-cm-6.0.0-DS-signed.zip"
-        ],
+        "url": "http://goo-inside.me/cm/dream_sapphire/stable/update-cm-6.0.0-DS-signed.zip",
         "modversion": "CyanogenMod-6.0.0-DS",
         "incremental": "6000",
         "product": "CyanogenMod",
@@ -1053,9 +913,7 @@
     {
         "device": "dream",
         "name": "CyanogenMod 6.0.0-RC3",
-        "urls": [
-        "http://download.cyanogenmod.com/get/dream_sapphire/update-cm-6.0.0-DS-RC3-signed.zip"
-        ],
+        "url": "http://download.cyanogenmod.com/get/dream_sapphire/update-cm-6.0.0-DS-RC3-signed.zip",
         "modversion": "CyanogenMod-6.0.0-DS-RC3",
         "incremental": "0",
         "product": "CyanogenMod",
@@ -1087,26 +945,20 @@
         "name": "CyanogenMod 5.0.8",
         "modversion": "CyanogenMod-5.0.8-DS",
         "incremental": "5080",
-        "url": "http://n0rp.chemlab.org/android/update-cm-5.0.8-DS-signed.zip",
-        "screenshots": [
-        "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot.png",
-        "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot2.png"
-        ],
+        "url": "http://goo-inside.me/cm/dream_sapphire/stable/update-cm-5.0.8-DS-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable, Flashing Recovery may be broken",
         "addons": [
         {
             "name": "Google Apps",
-            "file": "/common/gapps-ds-ERE36B-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-ds-ERE36B-signed.zip"
         }
         ]
     },
     {
         "device": "sapphire",
         "name": "CyanogenMod 6.1.0",
-        "urls": [
-        "http://download.cyanogenmod.com/get/dream_sapphire/update-cm-6.1.0-DS-signed.zip"
-        ],
+        "url": "http://download.cyanogenmod.com/get/dream_sapphire/update-cm-6.1.0-DS-signed.zip",
         "modversion": "CyanogenMod-6.1.0-DS",
         "incremental": "6101",
         "product": "CyanogenMod",
@@ -1121,9 +973,7 @@
     {
         "device": "sapphire",
         "name": "CyanogenMod 6.1.0-RC1",
-        "urls": [
-        "http://download.cyanogenmod.com/get/dream_sapphire/update-cm-6.1.0-RC1-DS-signed.zip"
-        ],
+        "url": "http://download.cyanogenmod.com/get/dream_sapphire/update-cm-6.1.0-RC1-DS-signed.zip",
         "modversion": "CyanogenMod-6.1.0-RC1-DS",
         "incremental": "6100",
         "product": "CyanogenMod",
@@ -1185,17 +1035,13 @@
         "name": "CyanogenMod 5.0.8",
         "modversion": "CyanogenMod-5.0.8-DS",
         "incremental": "5080",
-        "url": "http://n0rp.chemlab.org/android/update-cm-5.0.8-DS-signed.zip",
-        "screenshots": [
-        "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot.png",
-        "http://www.droidaftermarket.com/koush//motorola/sholes/screenshot2.png"
-        ],
+        "url": "http://goo-inside.me/cm/dream_sapphire/stable/update-cm-5.0.8-DS-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable, Flashing Recovery may be broken",
         "addons": [
         {
             "name": "Google Apps",
-            "file": "/common/gapps-ds-ERE36B-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-ds-ERE36B-signed.zip"
         }
         ]
     },
@@ -1234,10 +1080,6 @@
         "name": "CyanogenMod 6.1.3",
         "modversion": "CyanogenMod-6.1.3-DesireHD",
         "incremental": "6130",
-        "screenshots": [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
         "url": "http://download.cyanogenmod.com/get/ace/update-cm-6.1.3-DesireHD-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
@@ -1253,10 +1095,6 @@
         "name": "CyanogenMod 6.1.2",
         "modversion": "CyanogenMod-6.1.2-DesireHD",
         "incremental": "6120",
-        "screenshots": [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
         "url": "http://download.cyanogenmod.com/get/ace/update-cm-6.1.2-DesireHD-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
@@ -1272,10 +1110,6 @@
         "name": "CyanogenMod 6.1.0-RC2",
         "modversion": "CyanogenMod-6.1.0-DesireHD-RC2",
         "incremental": "6102",
-        "screenshots": [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
         "url": "http://goo-inside.me/cm/ace/rc/update-cm-6.1.0-RC2-DesireHD-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 2",
@@ -1291,10 +1125,6 @@
         "name": "CyanogenMod 6.1.0-RC1",
         "modversion": "CyanogenMod-6.1.0-DesireHD-RC1",
         "incremental": "6100",
-        "screenshots": [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
         "url": "http://goo-inside.me/cm/ace/rc/update-cm-6.1.0-RC1-DesireHD-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 1",
@@ -1340,10 +1170,6 @@
         "name": "CyanogenMod 6.1.1",
         "modversion": "CyanogenMod-6.1.1-Bravo",
         "incremental": "6110",
-        "screenshots": [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
         "url": "http://download.cyanogenmod.com/get/bravo/update-cm-6.1.1-Desire-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
@@ -1359,10 +1185,6 @@
         "name": "CyanogenMod 6.1.0",
         "modversion": "CyanogenMod-6.1.0-Bravo",
         "incremental": "6103",
-        "screenshots": [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
         "url": "http://download.cyanogenmod.com/get/bravo/update-cm-6.1.0-Desire-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
@@ -1378,10 +1200,6 @@
         "name": "CyanogenMod 6.1.0-RC2",
         "modversion": "CyanogenMod-6.1.0-Bravo-RC2",
         "incremental": "6102",
-        "screenshots": [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
         "url": "http://goo-inside.me/cm/bravo/rc/update-cm-6.1.0-RC2-Desire-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 2",
@@ -1397,17 +1215,13 @@
         "name": "CyanogenMod 6.1.0-RC1",
         "modversion": "CyanogenMod-6.1.0-Bravo-RC1",
         "incremental": "6100",
-        "screenshots": [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
         "url": "http://download.cyanogenmod.com/get/bravo/update-cm-6.1.0-RC1-Desire-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 1",
         "addons": [
         {
             "name": "Google Apps",
-            "file": "google/gapps-hdpi-20100930-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
         }
         ]
     },
@@ -1416,17 +1230,13 @@
         "name": "CyanogenMod 6.0.2",
         "modversion": "CyanogenMod-6.0.2-Bravo",
         "incremental": "6020",
-        "screenshots": [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
         "url": "http://download.cyanogenmod.com/get/bravo/update-cm-6.0.2-Desire-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
         "addons": [
         {
             "name": "Google Apps",
-            "file": "google/gapps-hdpi-20100930-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
         }
         ]
     },
@@ -1435,17 +1245,13 @@
         "name": "CyanogenMod 6.0.1",
         "modversion": "CyanogenMod-6.0.1-Bravo",
         "incremental": "6010",
-        "screenshots": [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
         "url": "http://download.cyanogenmod.com/get/bravo/update-cm-6.0.1-Desire-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
         "addons": [
         {
             "name": "Google Apps",
-            "file": "google/gapps-hdpi-20100930-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
         }
         ]
     },
@@ -1454,17 +1260,13 @@
         "name": "CyanogenMod 6.0.0",
         "modversion": "CyanogenMod-6.0.0-Bravo",
         "incremental": "6000",
-        "screenshots": [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
         "url": "http://goo-inside.me/cm/bravo/stable/update-cm-6.0.0-Desire-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
         "addons": [
         {
             "name": "Google Apps",
-            "file": "google/gapps-hdpi-20100930-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
         }
         ]
     },
@@ -1488,10 +1290,6 @@
         "name": "CyanogenMod 6.1.1",
         "modversion": "CyanogenMod-6.1.1-Bravoc",
         "incremental": "6110",
-        "screenshots": [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
         "url": "http://download.cyanogenmod.com/get/bravoc/update-cm-6.1.1-BravoC-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
@@ -1507,10 +1305,6 @@
         "name": "CyanogenMod 6.1.0",
         "modversion": "CyanogenMod-6.1.0-Bravoc",
         "incremental": "6103",
-        "screenshots": [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
         "url": "http://download.cyanogenmod.com/get/bravoc/update-cm-6.1.0-BravoC-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
@@ -1526,10 +1320,6 @@
         "name": "CyanogenMod 6.1.0-RC2",
         "modversion": "CyanogenMod-6.1.0-Bravoc-RC2",
         "incremental": "6102",
-        "screenshots": [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
         "url": "http://goo-inside.me/cm/bravoc/rc/update-cm-6.1.0-RC2-BravoC-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 2",
@@ -1545,17 +1335,13 @@
         "name": "CyanogenMod 6.1.0-RC1",
         "modversion": "CyanogenMod-6.1.0-Bravoc-RC1",
         "incremental": "6100",
-        "screenshots": [
-        "http://koush.tandtgaming.com//motorola/sholes/screeshot.png",
-        "http://koush.tandtgaming.com//motorola/sholes/screenshot2.png"
-        ],
         "url": "http://download.cyanogenmod.com/get/bravoc/update-cm-6.1.0-RC1-BravoC-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 1",
         "addons": [
         {
             "name": "Google Apps",
-            "file": "google/gapps-hdpi-20100930-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
         }
         ]
     },
@@ -1804,7 +1590,7 @@
         "name": "CyanogenMod 7.0.0-RC2.1",
         "modversion": "CyanogenMod-7.0.0-RC2.1-Click",
         "incremental": "7006",
-        "url": "http://goo-inside.me/cm/click/rc/update-cm-7.0.0-RC3-click-signed.zip",
+        "url": "http://goo-inside.me/cm/click/rc/update-cm-7.0.0-RC2.1-click-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 2.1 (camera preview)",
         "addons": [
@@ -2079,42 +1865,5 @@
             "url": "http://goo-inside.me/gapps/gapps-mdpi-tiny-20101020-signed.zip"
         }
         ]
-    },
-    {
-        "device": "passion",
-        "name": "Google Apps (Froyo)",
-        "file": "google/gapps-hdpi-20100930-signed.zip",
-        "summary": "Google Add-On"
-    },
-    {
-        "device": "sholes",
-        "name": "Google Apps (Froyo)",
-        "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip",
-        "summary": "Google Add-On - 11-14-2010"
-    },
-    {
-        "device": "inc",
-        "name": "Google Apps (Froyo)",
-        "file": "google/gapps-hdpi-20100930-signed.zip",
-        "summary": "Google Add-On"
-    },
-    {
-        "device": "passion",
-        "name": "Google Apps (Eclair)",
-        "file": "common/gapps-passion-EPF30-signed.zip",
-        "summary": "Google Add-On"
-    },
-    {
-        "device": "sholes",
-        "name": "Google Apps (Eclair)",
-        "file": "common/gapps-passion-EPF30-signed.zip",
-        "summary": "Google Add-On"
-    },
-    {
-        "device": "inc",
-        "name": "Google Apps (Eclair)",
-        "file": "common/gapps-passion-EPF30-signed.zip",
-        "summary": "Google Add-On"
     }
-    ]
 }

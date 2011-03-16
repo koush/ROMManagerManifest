@@ -1590,22 +1590,7 @@
         "incremental": "7006",
         "url": "http://goo-inside.me/cm/click/rc/update-cm-7.0.0-RC2.1-click-signed.zip",
         "product": "CyanogenMod",
-        "summary": "Release Candidate 2.1 (camera FULL)",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "click",
-        "name": "CyanogenMod 7.0.0-RC2.2",
-        "modversion": "CyanogenMod-7.0.0-RC2.2-Click",
-        "incremental": "7006",
-        "url": "http://goo-inside.me/cm/click/rc/update-cm-7.0.0-RC2.2-click-signed.zip",
-        "product": "CyanogenMod",
-        "summary": "Release Candidate 2.2 (FULL EQUIP) GPS works, DroidWall Too",
+        "summary": "Release Candidate 2.1 (camera preview)",
         "addons": [
         {
             "name": "Google Apps",

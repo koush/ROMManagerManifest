@@ -436,9 +436,7 @@
         "device": "sholes",
         "name": "bekit Kernels (0.8.4)",
         "developer": "true",
-        "url": [
-        ""
-        ],
+        "url": "",
         "summary": "Custom Clocked Kernels for CyanogenMod-5. For Advanced users only.",
         "choices": [
         {

@@ -1172,7 +1172,7 @@
         free: true,
         roms:
         {
-              bravo: true
+            bravo: true
         }
     },
     {
@@ -1184,6 +1184,17 @@
         roms:
         {
             supersonic: true
+        }
+    },
+    {
+        developer: "NSCollab",
+        id: "frank707",
+        summary: "A best of both worlds rom for your Nexus S",
+        manifest: "http://studiousmedia.com/crespo/nscollab.js",
+        free: true,
+        roms:
+        {
+            crespo: true
         }
     }
     ]

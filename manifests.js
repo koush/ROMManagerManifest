@@ -345,7 +345,7 @@
         developer: "jdkernel",
         id: "vinmod",
         summary: "Custom Kickass Kernels",
-        manifest: "http://incredibleroms.com/wp-uploads/vin.js",
+        manifest: "http://vinmod.zxq.net/vin.js",
         free: true,
         roms:
         {

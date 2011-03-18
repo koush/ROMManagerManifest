@@ -340,6 +340,18 @@
             inc: true
         }
     },
+
+{
+        developer: "jdkernel",
+        id: "vinmod",
+        summary: "Custom Kickass Kernels",
+        manifest: "http://vinmod.zxq.net/vin.js",
+        free: true,
+        roms:
+        {
+            inc: true
+        }
+    },
     {
         developer: "slayher",
         id: "slayher",

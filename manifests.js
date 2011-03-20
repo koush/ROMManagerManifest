@@ -1027,6 +1027,18 @@
         },
         "summary": "A best of both worlds rom for your Nexus S",
         "visible": true
+    },
+    {
+        "developer": "Blandroid",
+        "id": "blandroid",
+        "free": "true",
+        "manifest": "http://blandroid.org/rommanager-manifest.js",
+        "roms": {
+            "passion": "true",
+            "crespo": "true",
+        },
+        "summary": "Stable AOSP-based ROM",
+        "visible": true
     }],
     "minversion": "2514"
 }

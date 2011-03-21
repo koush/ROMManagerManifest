@@ -1035,7 +1035,7 @@
         "manifest": "http://blandroid.org/rommanager-manifest.js",
         "roms": {
             "passion": "true",
-            "crespo": "true",
+            "crespo": "true"
         },
         "summary": "Stable AOSP-based ROM",
         "visible": true

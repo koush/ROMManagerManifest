@@ -27,6 +27,7 @@ for manifest in manifests:
   if manifest['visible'] then
     new_manifests << manifest
   end
+  manifest.delete('visible')
 end
 
 parsed_data['manifests'] = new_manifests

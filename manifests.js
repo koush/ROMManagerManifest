@@ -54,7 +54,7 @@
     {
         "developer": "CyanogenMod Nightlies",
         "id": "cyanogenmodnightly",
-        "manifest": "http://mirror.kanged.net/nightly/manifest.js",
+        "manifest": "http://mirrorbrain.cyanogenmod.com/cm/nightly/manifest.js",
         "roms": {
             "legend": "true",
             "ace": "true",

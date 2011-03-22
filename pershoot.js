@@ -66,16 +66,16 @@
     //ViewSonic Gtab and Malata Zpad (Froyo)
     {
         name: "Kernel 2.6.32.33 - XTRA-VFPv3_FP",
-        summary: "0319 - Harmony (Gtab/Zpad - Froyo) - 20:00",
+        summary: "0322 - Harmony (Gtab/Zpad - Froyo) - 00:30",
         device: "harmony",
-        url: "http://droidbasement.com/gtab/kernels/2632/21/boot-cm_2632.33-xtra-vfpv3_fp-031911.zip"
+        url: "http://droidbasement.com/gtab/kernels/2632/22/boot-cm_2632.33-xtra-vfpv3_fp-032211.zip"
     },
     //ViewSonic Gtab and Malata Zpad (Gingerbread)
     {
         name: "Kernel 2.6.32.33 - XTRA-VFPv3_FP",
-        summary: "0319 - Harmony (Gtab/Zpad - Gingerbread) - 20:00",
+        summary: "0322 - Harmony (Gtab/Zpad - Gingerbread) - 00:30",
         device: "harmony",
-        url: "http://droidbasement.com/gtab/kernels/2632/21/boot-cm_2632.33_gb-xtra-vfpv3_fp-031911.zip"
+        url: "http://droidbasement.com/gtab/kernels/2632/22/boot-cm_2632.33_gb-xtra-vfpv3_fp-032211.zip"
     }
     //END
     ]

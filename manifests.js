@@ -557,11 +557,11 @@
         "developer": "bcnice20",
         "free": "true",
         "id": "bcnice20",
-        "manifest": "http://www.thebcblends.com/bcnice20/MIUI/bcblend.js",
+        "manifest": "http://www.thebcblends.com/speedy/bcblend.js",
         "roms": {
-            "supersonic": "true"
+            "speedy": "true"
         },
-        "summary": "MIUI Android Rom for the HTC EVO"
+        "summary": "Roms and Kernels for the HTC EVO Shift"
     },
     {
         "developer": "WJD Designs",

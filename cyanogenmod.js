@@ -911,7 +911,7 @@
     {
         "device": "dream",
         "name": "CyanogenMod 6.0.0-RC3",
-        "url": "http://download.cyanogenmod.com/get/dream_sapphire/update-cm-6.0.0-DS-RC3-signed.zip",
+        "url": "http://goo-inside.me/cm/dream_sapphire/rc/update-cm-6.0.0-DS-RC3-signed.zip",
         "modversion": "CyanogenMod-6.0.0-DS-RC3",
         "incremental": "0",
         "product": "CyanogenMod",
@@ -928,7 +928,7 @@
         "name": "CyanogenMod 6.0.0-RC2",
         "modversion": "CyanogenMod-6.0.0-DS-RC2",
         "incremental": "0",
-        "url": "http://download.cyanogenmod.com/get/dream_sapphire/update-cm-6.0.0-DS-RC2-signed.zip",
+        "url": "http://goo-inside.me/cm/dream_sapphire/rc/update-cm-6.0.0-DS-RC2-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 2",
         "addons": [

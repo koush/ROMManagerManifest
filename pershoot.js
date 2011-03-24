@@ -7,16 +7,16 @@
     //**********G2**************
     //**************************************
     {
-        name: "Kernel 2.6.32.34 - OC-UV-XTRA-NEON_FP",
-        summary: "0323 - G2 (Gingerbread) - 23:00",
+        name: "Kernel 2.6.32.35 - OC-UV-XTRA-NEON_FP",
+        summary: "0324 - G2 (Gingerbread) - 17:00",
         device: "vision",
-        url: "http://droidbasement.com/g2/kernels/2632/29/boot-cm_2632.34_gb-oc-uv-xtra-neon_fp-032311.zip"
+        url: "http://droidbasement.com/g2/kernels/2632/30/boot-cm_2632.35_gb-oc-uv-xtra-neon_fp-032411.zip"
     },
     {
-        name: "Kernel 2.6.32.34 - OC-UV-XTRA-NEON_FP",
-        summary: "0323 - G2 (Froyo) - 23:00",
+        name: "Kernel 2.6.32.35 - OC-UV-XTRA-NEON_FP",
+        summary: "0324 - G2 (Froyo) - 17:00",
         device: "vision",
-        url: "http://droidbasement.com/g2/kernels/2632/29/boot-cm_2632.34-oc-uv-xtra-neon_fp-032311.zip"
+        url: "http://droidbasement.com/g2/kernels/2632/30/boot-cm_2632.35-oc-uv-xtra-neon_fp-032411.zip"
     },
     //**************************************
     //**********Nexus**************
@@ -65,17 +65,17 @@
     //
     //ViewSonic Gtab and Malata Zpad (Froyo)
     {
-        name: "Kernel 2.6.32.34 - XTRA-VFPv3_FP",
-        summary: "0323 - Harmony (Gtab/Zpad - Froyo) - 20:00",
+        name: "Kernel 2.6.32.35 - XTRA-VFP_FP",
+        summary: "0324 - Harmony (Gtab/Zpad - Froyo) - 17:00",
         device: "harmony",
-        url: "http://droidbasement.com/gtab/kernels/2632/23/boot-cm_2632.34-xtra-vfpv3_fp-032311.zip"
+        url: "http://droidbasement.com/gtab/kernels/2632/24/boot-cm_2632.35-xtra-vfp_fp-032411.zip"
     },
     //ViewSonic Gtab and Malata Zpad (Gingerbread)
     {
-        name: "Kernel 2.6.32.34 - XTRA-VFPv3_FP",
-        summary: "0323 - Harmony (Gtab/Zpad - Gingerbread) - 20:00",
+        name: "Kernel 2.6.32.35 - XTRA-VFP_FP",
+        summary: "0324 - Harmony (Gtab/Zpad - Gingerbread) - 17:00",
         device: "harmony",
-        url: "http://droidbasement.com/gtab/kernels/2632/23/boot-cm_2632.34_gb-xtra-vfpv3_fp-032311.zip"
+        url: "http://droidbasement.com/gtab/kernels/2632/24/boot-cm_2632.35_gb-xtra-vfp_fp-032411.zip"
     }
     //END
     ]

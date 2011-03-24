@@ -937,6 +937,26 @@
             "crespo": "true"
         },
         "summary": "Stable AOSP-based ROM"
+    },
+    {
+        "developer": "EVO Stock and Radios",
+        "free": "true",
+        "id": "drmacinyasha",
+        "manifest": "http://drmacinyasha.github.com/EVO-Stock-RM-Manifest/manifest.js",
+        "roms": {
+            "supersonic": "true"
+        },
+        "summary": "Updates for stock ROMs, radio, hboot"
+    },
+    {
+        "developer": "Google Apps",
+        "free": "true",
+        "id": "drmacinyasha",
+        "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
+        "roms": {
+            "all": "true"
+        },
+        "summary": "Add-on for ROMs like CyanogenMod"
     }],
     "minversion": "2514"
 }

@@ -1,3 +1,13 @@
+3.0.1.4
+Many translation fixes.
+Update PayPal pricing to match Android Market and Amazon pricing per their developer agreements.
+
+3.0.1.1
+Revert to old icon.
+
+3.0.1.0
+New icon.
+
 3.0.0.9
 Chinese translations.
 Minor bug fixes.

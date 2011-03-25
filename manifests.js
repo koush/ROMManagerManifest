@@ -954,9 +954,29 @@
         "id": "drmacinyasha",
         "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
         "roms": {
-            "all": "true"
+            "all": "true",
+            "harmony": "true",
+            "ace": "true",
+            "bravo": "true",
+            "bravoc": "true",
+            "inc": "true",
+            "passion": "true",
+            "sholes": "true",
+            "supersonic": "true",
+            "vision": "true",
+            "buzz": "true",
+            "espresso": "true",
+            "hero": "true",
+            "heroc": "true",
+            "legend": "true",
+            "liberty": "true",
+            "z71": "true",
+            "dream": "true",
+            "magic": "true",
+            "sapphire": "true",
+            "one": "true"
         },
-        "summary": "Add-on for ROMs like CyanogenMod"
+        "summary": "Add-on for AOSP ROMs, such as CM"
     }],
     "minversion": "2514"
 }

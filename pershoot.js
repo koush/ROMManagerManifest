@@ -66,16 +66,30 @@
     //ViewSonic Gtab and Malata Zpad (Froyo)
     {
         name: "Kernel 2.6.32.35 - XTRA-VFP_FP",
-        summary: "0324 - Harmony (Gtab/Zpad - Froyo) - 17:00",
+        summary: "0326 - Harmony (Gtab/Zpad - Froyo) - 18:00",
         device: "harmony",
-        url: "http://droidbasement.com/gtab/kernels/2632/24/boot-cm_2632.35-xtra-vfp_fp-032411.zip"
+        url: "http://droidbasement.com/gtab/kernels/2632/25/boot-cm_2632.35-xtra-vfp_fp-032611.zip"
     },
     //ViewSonic Gtab and Malata Zpad (Gingerbread)
     {
         name: "Kernel 2.6.32.35 - XTRA-VFP_FP",
-        summary: "0324 - Harmony (Gtab/Zpad - Gingerbread) - 17:00",
+        summary: "0326 - Harmony (Gtab/Zpad - Gingerbread) - 18:00",
         device: "harmony",
-        url: "http://droidbasement.com/gtab/kernels/2632/24/boot-cm_2632.35_gb-xtra-vfp_fp-032411.zip"
+        url: "http://droidbasement.com/gtab/kernels/2632/25/boot-cm_2632.35_gb-xtra-vfp_fp-032611.zip"
+    },
+    //Malata Zpad [New Bootloader] (Froyo)
+    {
+        name: "Kernel 2.6.32.35 - XTRA-VFP_FP",
+        summary: "0326 - Harmony (Zpad - Froyo) - 18:00",
+        device: "harmony",
+        url: "http://droidbasement.com/gtab/kernels/2632/25/zpad/boot-cm_2632.35_zpad_newbl-xtra-vfp_fp-032611.zip"
+    },
+    //Malata Zpad [New Bootloader] (Gingerbread)
+    {
+        name: "Kernel 2.6.32.35 - XTRA-VFP_FP",
+        summary: "0326 - Harmony (Zpad - Gingerbread) - 18:00",
+        device: "harmony",
+        url: "http://droidbasement.com/gtab/kernels/2632/25/zpad/boot-cm_2632.35_gb_zpad_newbl-xtra-vfp_fp-032611.zip"
     }
     //END
     ]

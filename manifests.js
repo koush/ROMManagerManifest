@@ -982,7 +982,8 @@
         roms:
         {
             inc: true,
-            supersonic: true
+            supersonic: true,
+            mecha: true
         }
     },
     {

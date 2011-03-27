@@ -730,6 +730,7 @@
         "id": "r2d2",
         "manifest": "http://omfgb.github.com/rommanager_manifest/manifest.js",
         "roms": {
+            "mecha": "true",
             "supersonic": "true",
             "inc": "true"
         },

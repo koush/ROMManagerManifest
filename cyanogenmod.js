@@ -1644,6 +1644,21 @@
         ]
     },
     {
+        "device": "click",
+        "name": "CyanogenMod 7.0.0-RC3",
+        "modversion": "CyanogenMod-7.0.0-RC3-Click",
+        "incremental": "7008",
+        "url": "http://mirror.teamdouche.net/get/update-cm-7.0.0-RC3-click-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate 3",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
+        }
+        ]
+    },
+    {
         "device": "buzz",
         "name": "CyanogenMod 6.1.0",
         "modversion": "CyanogenMod-6.1.0-Buzz",

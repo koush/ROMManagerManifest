@@ -1134,36 +1134,6 @@
         ]
     },
     {
-        "device": "ace",
-        "name": "CyanogenMod 6.1.0-RC2",
-        "modversion": "CyanogenMod-6.1.0-DesireHD-RC2",
-        "incremental": "6102",
-        "url": "http://goo-inside.me/cm/ace/rc/update-cm-6.1.0-RC2-DesireHD-signed.zip",
-        "product": "CyanogenMod",
-        "summary": "Release Candidate 2",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "ace",
-        "name": "CyanogenMod 6.1.0-RC1",
-        "modversion": "CyanogenMod-6.1.0-DesireHD-RC1",
-        "incremental": "6100",
-        "url": "http://goo-inside.me/cm/ace/rc/update-cm-6.1.0-RC1-DesireHD-signed.zip",
-        "product": "CyanogenMod",
-        "summary": "Release Candidate 1",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
-        }
-        ]
-    },
-    {
         "device": "bravo",
         "name": "CyanogenMod 7.0.0-RC3",
         "modversion": "CyanogenMod-7.0.0-RC3-Desire",
@@ -1231,21 +1201,6 @@
         "url": "http://download.cyanogenmod.com/get/bravo/update-cm-6.1.0-Desire-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "bravo",
-        "name": "CyanogenMod 6.1.0-RC2",
-        "modversion": "CyanogenMod-6.1.0-Bravo-RC2",
-        "incremental": "6102",
-        "url": "http://goo-inside.me/cm/bravo/rc/update-cm-6.1.0-RC2-Desire-signed.zip",
-        "product": "CyanogenMod",
-        "summary": "Release Candidate 2",
         "addons": [
         {
             "name": "Google Apps",

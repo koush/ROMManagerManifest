@@ -63,6 +63,21 @@
         }
         ]
     },
+    {              
+        "device": "vision",                  
+        "name": "CyanogenMod 7.0.0-RC3",     
+        "modversion": "CyanogenMod-7.0.0-RC3-Vision",
+        "incremental": "7002",                       
+        "url": "http://download.cyanogenmod.com/get/vision/update-cm-7.0.0-RC3-vision-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate",
+        "addons": [
+        {   
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
+        }
+        ]
+    },
     {
         "device": "vision",
         "name": "CyanogenMod 7.0.0-RC2",

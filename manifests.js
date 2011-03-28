@@ -112,6 +112,19 @@
         "summary": "ROMs by Peter Alfonso\nwww.twitter.com/peteralfonso"
     },
     {
+        "developer": "MrBobrowitz",
+        "free": "true",
+        "id": "mrbobrowitz",
+        "manifest": "http://www.onix-android.com/mrbobrowitzmanifest.js",
+        "roms": {
+            "sholes": "true",
+            "droidx": "true",
+            "harmony": "true",
+            "mecha": "true"
+        },
+        "summary": "Roms and Themes for Droid, Droid X, Gtablet and Thunderbolt"
+    },
+    {
         "developer": "forkup",
         "id": "forkup",
         "manifest": "http://www.forkup.info/droidthemes/forkup.js",

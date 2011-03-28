@@ -194,6 +194,21 @@
     },
     {
         "device": "inc",
+        "name": "CyanogenMod 7.0.0-RC3",
+        "modversion": "CyanogenMod-7.0.0-RC3-Inc",
+        "incremental": "7002",
+        "url": "http://download.cyanogenmod.com/get/inc/update-cm-7.0.0-RC3-Inc-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Canidate",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
+        }
+        ]
+    },
+    {
+        "device": "inc",
         "name": "CyanogenMod 7.0.0-RC2",
         "modversion": "CyanogenMod-7.0.0-RC2-Inc",
         "incremental": "7001",

@@ -1060,6 +1060,21 @@
     },
     {
         "device": "ace",
+        "name": "CyanogenMod 7.0.0-RC3",
+        "modversion": "CyanogenMod-7.0.0-RC3-DesireHD",
+        "incremental": "7002",
+        "url": "http://download.cyanogenmod.com/get/ace/update-cm-7.0.0-RC3-DesireHD-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
+        }
+        ]
+    },
+    {
+        "device": "ace",
         "name": "CyanogenMod 7.0.0-RC2",
         "modversion": "CyanogenMod-7.0.0-RC2-DesireHD",
         "incremental": "7001",
@@ -1145,6 +1160,21 @@
         {
             "name": "Google Apps",
             "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
+        }
+        ]
+    },
+    {
+        "device": "bravo",
+        "name": "CyanogenMod 7.0.0-RC3",
+        "modversion": "CyanogenMod-7.0.0-RC3-Desire",
+        "incremental": "7002",
+        "url": "http://download.cyanogenmod.com/get/bravo/update-cm-7.0.0-RC3-Desire-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
         }
         ]
     },

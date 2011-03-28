@@ -1687,7 +1687,8 @@
             "url": "http://goo-inside.me/gapps/gapps-gb-20110120-signed.zip"
         }
         ]
-    },{
+    },
+    {
         "device": "blade",
         "name": "CyanogenMod 7.0.0-RC2",
         "modversion": "CyanogenMod-7.0.0-Blade-RC2",
@@ -1695,6 +1696,21 @@
         "url": "http://download.cyanogenmod.com/get/blade/update-cm-7.0.0-RC2-Blade-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 2",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
+        }
+        ]
+    },
+    {
+        "device": "blade",
+        "name": "CyanogenMod 7.0.0-RC3",
+        "modversion": "CyanogenMod-7.0.0-Blade-RC3",
+        "incremental": "7000",
+        "url": "http://download.cyanogenmod.com/get/blade/update-cm-7.0.0-RC3-Blade-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate 3",
         "addons": [
         {
             "name": "Google Apps",

@@ -26,7 +26,8 @@
             "buzz": "true",
             "vision": "true",
             "inc": "true",
-            "z71": "true"
+            "z71": "true",
+            "zero": "true"
         },
         "summary": "Mods and bacon for your phone"
     },
@@ -76,7 +77,8 @@
             "vision": "true",
             "inc": "true",
             "heroc": "true",
-            "z71": "true"
+            "z71": "true",
+            "zero": "true"
         },
         "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
@@ -972,6 +974,7 @@
             "legend": "true",
             "liberty": "true",
             "z71": "true",
+            "zero": "true",
             "dream": "true",
             "magic": "true",
             "sapphire": "true",

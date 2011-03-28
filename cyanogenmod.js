@@ -1704,6 +1704,21 @@
     },
     {
         "device": "z71",
+        "name": "CyanogenMod 7.0.0-RC3",
+        "modversion": "CyanogenMod-7.0.0-RC3-Z71",
+        "incremental": "7002",
+        "url": "http://mirrorbrain.cyanogenmod.com/cm/RC/update-cm-7.0.0-RC3-Z71-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
+        }
+        ]
+    },
+    {
+        "device": "z71",
         "name": "CyanogenMod 7.0.0-RC2",
         "modversion": "CyanogenMod-7.0.0-RC2-Z71",
         "incremental": "7001",
@@ -1821,6 +1836,21 @@
     },
     {
         "device": "one",
+        "name": "CyanogenMod 7.0.0-RC3",
+        "modversion": "CyanogenMod-7.0.0-RC3-ONE",
+        "incremental": "7002",
+        "url": "http://mirrorbrain.cyanogenmod.com/cm/RC/update-cm-7.0.0-RC3-ONE-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
+        }
+        ]
+    },
+    {
+        "device": "one",
         "name": "CyanogenMod 7.0.0-RC2",
         "modversion": "CyanogenMod-7.0.0-RC2-ONE",
         "incremental": "7001",
@@ -1876,6 +1906,21 @@
         {
             "name": "Google Apps",
             "url": "http://goo-inside.me/gapps/gapps-mdpi-tiny-20101020-signed.zip"
+        }
+        ]
+    },
+    {
+        "device": "zero",
+        "name": "CyanogenMod 7.0.0-RC3",
+        "modversion": "CyanogenMod-7.0.0-RC3-ZERO",
+        "incremental": "7002",
+        "url": "http://mirrorbrain.cyanogenmod.com/cm/RC/update-cm-7.0.0-RC3-ZERO-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
         }
         ]
     }

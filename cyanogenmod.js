@@ -728,6 +728,21 @@
         }
         ]
     },
+    {              
+        "device": "passion",
+        "name": "CyanogenMod 7.0.0-RC3",
+        "modversion": "CyanogenMod-7.0.0-RC3-N1",
+        "incremental": "7002",
+        "url": "http://download.cyanogenmod.com/get/passion/update-cm-7.0.0-RC3-N1-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate",
+        "addons": [
+        {   
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
+        } 
+        ]
+    },
     {
         "device": "passion",
         "name": "CyanogenMod 7.0.0-RC2",

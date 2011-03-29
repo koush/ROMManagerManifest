@@ -633,7 +633,8 @@
         "id": "nixmiui",
         "manifest": "http://rommanagermanifest.appspot.com/developer/nixmiui.js",
         "roms": {
-            "inc": "true"
+            "inc": "true",
+            "mecha": "true"
         },
         "summary": "MIUI ports by n_i_x"
     },

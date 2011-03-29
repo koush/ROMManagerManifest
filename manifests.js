@@ -749,7 +749,8 @@
         "roms": {
             "mecha": "true",
             "supersonic": "true",
-            "inc": "true"
+            "inc": "true",
+            "desirec": "true:
         },
         "summary": "Formerly r2DoesInc, Check out the new stuff. "
     },

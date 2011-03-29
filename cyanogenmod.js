@@ -38,13 +38,28 @@
         "name": "CyanogenMod 7.0.0-RC1",
         "modversion": "CyanogenMod-7.0.0-RC1-NS",
         "incremental": "7000",
-        "url": "http://download.cyanogenmod.com/get/crespo/update-cm-7.0.0-RC1-NS-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC1-NS-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate",
         "addons": [
         {
             "name": "Google Apps",
             "url": "http://goo-inside.me/gapps/gapps-gb-20110120-signed.zip"
+        }
+        ]
+    },
+    {
+        "device": "glacier",
+        "name": "CyanogenMod 7.0.0-RC3",
+        "modversion": "CyanogenMod-7.0.0-RC3-glacier",
+        "incremental": "7002",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC3-glacier-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
         }
         ]
     },
@@ -53,13 +68,13 @@
         "name": "CyanogenMod 7.0.0-RC2",
         "modversion": "CyanogenMod-7.0.0-RC2-glacier",
         "incremental": "7001",
-        "url": "http://download.cyanogenmod.com/get/glacier/update-cm-7.0.0-RC2-glacier-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC2-glacier-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate",
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-gb-20110120-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
         }
         ]
     },
@@ -68,7 +83,7 @@
         "name": "CyanogenMod 7.0.0-RC1",
         "modversion": "CyanogenMod-7.0.0-RC1-glacier",
         "incremental": "7000",
-        "url": "http://download.cyanogenmod.com/get/glacier/update-cm-7.0.0-RC1-glacier-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC1-glacier-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate",
         "addons": [
@@ -83,7 +98,7 @@
         "name": "CyanogenMod 7.0.0-RC3",     
         "modversion": "CyanogenMod-7.0.0-RC3-Vision",
         "incremental": "7002",                       
-        "url": "http://download.cyanogenmod.com/get/vision/update-cm-7.0.0-RC3-vision-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC3-vision-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate",
         "addons": [
@@ -98,7 +113,7 @@
         "name": "CyanogenMod 7.0.0-RC2",
         "modversion": "CyanogenMod-7.0.0-RC2-Vision",
         "incremental": "7001",
-        "url": "http://download.cyanogenmod.com/get/vision/update-cm-7.0.0-RC2-vision-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC2-vision-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate",
         "addons": [
@@ -113,7 +128,7 @@
         "name": "CyanogenMod 7.0.0-RC1",
         "modversion": "CyanogenMod-7.0.0-RC1-Vision",
         "incremental": "7000",
-        "url": "http://download.cyanogenmod.com/get/vision/update-cm-7.0.0-RC1-vision-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC1-vision-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate",
         "addons": [
@@ -128,7 +143,7 @@
         "name": "CyanogenMod 6.1.1",
         "modversion": "CyanogenMod-6.1.1-vision",
         "incremental": "0007",
-        "url": "http://download.cyanogenmod.com/get/vision/update-cm-6.1.1-vision-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.1-vision-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
         "addons": [
@@ -143,7 +158,7 @@
         "name": "CyanogenMod 6.1",
         "modversion": "CyanogenMod-6.1.0-vision",
         "incremental": "0006",
-        "url": "http://download.cyanogenmod.com/get/vision/update-cm-6.1.0-vision-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-vision-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
         "addons": [
@@ -158,7 +173,7 @@
         "name": "CyanogenMod 6.1 RC4",
         "modversion": "CyanogenMod-6.1.0-RC4-G2",
         "incremental": "0005",
-        "url": "http://download.cyanogenmod.com/get/vision/update-cm-6.1.0-RC4-vision-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-RC4-vision-signed.zip",
         "product": "CyanogenModRC",
         "summary": "Release Candidate",
         "addons": [
@@ -173,7 +188,7 @@
         "name": "CyanogenMod 6.1 RC3",
         "modversion": "CyanogenMod-6.1.0-RC3-G2",
         "incremental": "0004",
-        "url": "http://download.cyanogenmod.com/get/vision/update-cm-6.1.0-RC3-vision-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-RC3-vision-signed.zip",
         "product": "CyanogenModRC",
         "summary": "Release Candidate",
         "addons": [
@@ -188,7 +203,7 @@
         "name": "CyanogenMod 6.1 RC2",
         "modversion": "CyanogenMod-6.1.0-RC2-G2",
         "incremental": "0003",
-        "url": "http://download.cyanogenmod.com/get/vision/update-cm-6.1.0-RC2-vision-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-RC2-vision-signed.zip",
         "product": "CyanogenModRC",
         "summary": "Release Candidate",
         "addons": [
@@ -203,7 +218,7 @@
         "name": "CyanogenMod 6.1 RC1",
         "modversion": "CyanogenMod-6.1.0-RC1-G2",
         "incremental": "0002",
-        "url": "http://download.cyanogenmod.com/get/vision/update-cm-6.1.0-RC1-vision-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-RC1-vision-signed.zip",
         "product": "CyanogenModRC",
         "summary": "Release Candidate",
         "addons": [
@@ -227,7 +242,7 @@
         "name": "CyanogenMod 7.0.0-RC3",
         "modversion": "CyanogenMod-7.0.0-RC3-Inc",
         "incremental": "7002",
-        "url": "http://download.cyanogenmod.com/get/inc/update-cm-7.0.0-RC3-Inc-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC3-Inc-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Canidate",
         "addons": [
@@ -242,7 +257,7 @@
         "name": "CyanogenMod 7.0.0-RC2",
         "modversion": "CyanogenMod-7.0.0-RC2-Inc",
         "incremental": "7001",
-        "url": "http://download.cyanogenmod.com/get/inc/update-cm-7.0.0-RC2-Inc-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC2-Inc-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Canidate",
         "addons": [
@@ -257,7 +272,7 @@
         "name": "CyanogenMod 7.0.0-RC1",
         "modversion": "CyanogenMod-7.0.0-RC1-Inc",
         "incremental": "7000",
-        "url": "http://download.cyanogenmod.com/get/inc/update-cm-7.0.0-RC1-Inc-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC1-Inc-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Canidate",
         "addons": [
@@ -272,7 +287,7 @@
         "name": "CyanogenMod 6.1",
         "modversion": "CyanogenMod-6.1.0-RC2-Inc",
         "incremental": "6100",
-        "url": "http://download.cyanogenmod.com/get/inc/update-cm-6.1.0-Inc-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-Inc-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable",
         "addons": [
@@ -362,7 +377,7 @@
         "name": "CyanogenMod 7.0.0-RC2",
         "modversion": "CyanogenMod-7.0.0-RC2-Droid",
         "incremental": "7001",
-        "url": "http://download.cyanogenmod.com/get/sholes/update-cm-7.0.0-RC2-Droid-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC2-Droid-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate",
         "addons": [
@@ -377,7 +392,7 @@
         "name": "CyanogenMod 6.1.2",
         "modversion": "CyanogenMod-6.1.2-Droid",
         "incremental": "6107",
-        "url": "http://download.cyanogenmod.com/get/sholes/update-cm-6.1.2-Droid-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.2-Droid-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
         "choices": [
@@ -407,7 +422,7 @@
         "name": "CyanogenMod 6.1.0",
         "modversion": "CyanogenMod-6.1.0-Droid",
         "incremental": "6105",
-        "url": "http://download.cyanogenmod.com/get/sholes/update-cm-6.1.0-Droid-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-Droid-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
         "choices": [
@@ -437,7 +452,7 @@
         "name": "CyanogenMod 6.0.0",
         "modversion": "CyanogenMod-6.0.0-Droid",
         "incremental": "6000",
-        "url": "http://download.cyanogenmod.com/get/sholes/update-cm-6.0.0-Droid-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.0.0-Droid-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
         "choices": [
@@ -580,57 +595,25 @@
         ]
     },
     {
-        "device": "sholes",
-        "name": "P3Droid Kernels",
-        "developer": "true",
-        "url": "",
-        "summary": "Kernels for any ECLAIR rom, using AnyUpdater from Koush by P3Droid. For Advanced users only.",
-        "choices": [
+        "device": "supersonic",
+        "name": "CyanogenMod 7.0.0-RC3",
+        "modversion": "CyanogenMod-7.0.0-RC3-Supersonic",
+        "incremental": "7002",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC3-Supersonic-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate",
+        "addons": [
         {
-            "name": "7 Slot - Low Voltage",
-            "options": [
-            {
-                "name": "600 - 250/300/400/450/500/550/600",
-                "url": "http://www.p3designs.info/kernels/600_LV_Wi_USB_Tether.zip"
-            },
-            {
-                "name": "700 - 250/400/500/550/600/650/700",
-                "url": "http://www.p3designs.info/kernels/700_LV_Wi_USB_Tether.zip"
-            },
-            {
-                "name": "800 - 250/400/500/550/600/700/800",
-                "url": "http://www.p3designs.info/kernels/800_LV_Wi_USB_Tether.zip"
-            },
-            {
-                "name": "900 - 250/400/500/600/700/800/900",
-                "url": "http://www.p3designs.info/kernels/900_LV_Wi_USB_Tether.zip"
-            },
-            {
-                "name": "1000 - 250/500/600/700/800/900/1000",
-                "url": "http://www.p3designs.info/kernels/1000_LV_Wi_USB_Tether.zip"
-            },
-            {
-                "name": "1100 - 250/500/600/700/900/1000/1100",
-                "url": "http://www.p3designs.info/kernels/1100_LV_Wi_USB_Tether.zip"
-            },
-            {
-                "name": "1200 - 250/500/600/700/1000/1100/1200",
-                "url": "http://www.p3designs.info/kernels/1200_LV_Wi_USB_Tether.zip"
-            },
-            {
-                "name": "1250 - 250/500/600/800/1100/1200/1250",
-                "url": "http://www.p3designs.info/kernels/1250_LV_Wi_USB_Tether.zip"
-            }
-            ]
-        }
-        ]
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
+        }]
     },
     {
         "device": "supersonic",
         "name": "CyanogenMod 7.0.0-RC2",
         "modversion": "CyanogenMod-7.0.0-RC2-Supersonic",
         "incremental": "7001",
-        "url": "http://download.cyanogenmod.com/get/supersonic/update-cm-7.0.0-RC2-Supersonic-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC2-Supersonic-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate",
         "addons": [
@@ -644,7 +627,7 @@
         "name": "CyanogenMod 7.0.0-RC1",
         "modversion": "CyanogenMod-7.0.0-RC1-Supersonic",
         "incremental": "7000",
-        "url": "http://download.cyanogenmod.com/get/supersonic/update-cm-7.0.0-RC1-Supersonic-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC1-Supersonic-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate",
         "addons": [
@@ -658,7 +641,7 @@
         "name": "CyanogenMod 6.1.2",
         "modversion": "CyanogenMod-6.1.2-Supersonic",
         "incremental": "6104",
-        "url": "http://download.cyanogenmod.com/get/supersonic/update-cm-6.1.2-Supersonic-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.2-Supersonic-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
         "addons": [
@@ -673,7 +656,7 @@
         "name": "CyanogenMod 6.1.1",
         "modversion": "CyanogenMod-6.1.1-Supersonic",
         "incremental": "6103",
-        "url": "http://download.cyanogenmod.com/get/supersonic/update-cm-6.1.1-Supersonic-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.1-Supersonic-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
         "addons": [
@@ -688,7 +671,7 @@
         "name": "CyanogenMod 6.1.0",
         "modversion": "CyanogenMod-6.1.0-Supersonic",
         "incremental": "6102",
-        "url": "http://download.cyanogenmod.com/get/supersonic/update-cm-6.1.0-Supersonic-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-Supersonic-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
         "addons": [
@@ -703,7 +686,7 @@
         "name": "CyanogenMod 6.1.0-RC2",
         "modversion": "CyanogenMod-6.1.0-RC2-Supersonic",
         "incremental": "6101",
-        "url": "http://download.cyanogenmod.com/get/supersonic/update-cm-6.1.0-RC2-Supersonic-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-RC2-Supersonic-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate",
         "addons": [
@@ -718,7 +701,7 @@
         "name": "CyanogenMod 6.1.0-RC1",
         "modversion": "CyanogenMod-6.1.0-RC1-Supersonic",
         "incremental": "6100",
-        "url": "http://download.cyanogenmod.com/get/supersonic/update-cm-6.1.0-RC1-Supersonic-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-RC1-Supersonic-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate",
         "addons": [
@@ -733,7 +716,7 @@
         "name": "CyanogenMod 6.0.0",
         "modversion": "CyanogenMod-6.0.0-Supersonic",
         "incremental": "6000",
-        "url": "http://download.cyanogenmod.com/get/supersonic/update-cm-6.0.0-Supersonic-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.0.0-Supersonic-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
         "addons": [
@@ -763,7 +746,7 @@
         "name": "CyanogenMod 7.0.0-RC3",
         "modversion": "CyanogenMod-7.0.0-RC3-N1",
         "incremental": "7002",
-        "url": "http://download.cyanogenmod.com/get/passion/update-cm-7.0.0-RC3-N1-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC3-N1-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate",
         "addons": [
@@ -778,7 +761,7 @@
         "name": "CyanogenMod 7.0.0-RC2",
         "modversion": "CyanogenMod-7.0.0-RC2-N1",
         "incremental": "7001",
-        "url": "http://download.cyanogenmod.com/get/passion/update-cm-7.0.0-RC2-N1-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC2-N1-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate",
         "addons": [
@@ -793,7 +776,7 @@
         "name": "CyanogenMod 7.0.0-RC1",
         "modversion": "CyanogenMod-7.0.0-RC1-N1",
         "incremental": "7000",
-        "url": "http://download.cyanogenmod.com/get/passion/update-cm-7.0.0-RC1-N1-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC1-N1-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate",
         "addons": [
@@ -808,7 +791,7 @@
         "name": "CyanogenMod 6.1.1",
         "modversion": "CyanogenMod-6.1.1-N1",
         "incremental": "6103",
-        "url": "http://download.cyanogenmod.com/get/passion/update-cm-6.1.1-N1-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.1-N1-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
         "addons": [
@@ -823,7 +806,7 @@
         "name": "CyanogenMod 6.1.0",
         "modversion": "CyanogenMod-6.1.0-N1",
         "incremental": "6102",
-        "url": "http://download.cyanogenmod.com/get/passion/update-cm-6.1.0-N1-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-N1-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
         "addons": [
@@ -838,7 +821,7 @@
         "name": "CyanogenMod 6.1.0-RC2",
         "modversion": "CyanogenMod-6.0.0-RC2-N1",
         "incremental": "6101",
-        "url": "http://download.cyanogenmod.com/get/passion/update-cm-6.1.0-RC2-N1-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-RC2-N1-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 2",
         "addons": [
@@ -853,7 +836,7 @@
         "name": "CyanogenMod 6.1.0-RC1",
         "modversion": "CyanogenMod-6.0.0-RC1-N1",
         "incremental": "6100",
-        "url": "http://download.cyanogenmod.com/get/passion/update-cm-6.1.0-RC1-N1-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-RC1-N1-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 1",
         "addons": [
@@ -868,7 +851,7 @@
         "name": "CyanogenMod 6.0.0",
         "modversion": "CyanogenMod-6.0.0-N1",
         "incremental": "6000",
-        "url": "http://download.cyanogenmod.com/get/passion/update-cm-6.0.0-N1-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.0.0-N1-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
         "addons": [
@@ -919,14 +902,14 @@
         "addons": [
         {
             "name": "Google Apps",
-            "url": "http://briancrook.ca/android/nexus/gapps/gapps-passion-EPF30-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-passion-EPF30-signed.zip"
         }
         ]
     },
     {
         "device": "dream",
         "name": "CyanogenMod 6.1.0",
-        "url": "http://download.cyanogenmod.com/get/dream_sapphire/update-cm-6.1.0-DS-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-DS-signed.zip",
         "modversion": "CyanogenMod-6.1.0-DS",
         "incremental": "6101",
         "product": "CyanogenMod",
@@ -941,7 +924,7 @@
     {
         "device": "dream",
         "name": "CyanogenMod 6.1.0-RC1",
-        "url": "http://download.cyanogenmod.com/get/dream_sapphire/update-cm-6.1.0-RC1-DS-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-RC1-DS-signed.zip",
         "modversion": "CyanogenMod-6.1.0-RC1-DS",
         "incremental": "6100",
         "product": "CyanogenMod",
@@ -1016,7 +999,7 @@
     {
         "device": "sapphire",
         "name": "CyanogenMod 6.1.0",
-        "url": "http://download.cyanogenmod.com/get/dream_sapphire/update-cm-6.1.0-DS-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-DS-signed.zip",
         "modversion": "CyanogenMod-6.1.0-DS",
         "incremental": "6101",
         "product": "CyanogenMod",
@@ -1031,7 +1014,7 @@
     {
         "device": "sapphire",
         "name": "CyanogenMod 6.1.0-RC1",
-        "url": "http://download.cyanogenmod.com/get/dream_sapphire/update-cm-6.1.0-RC1-DS-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-RC1-DS-signed.zip",
         "modversion": "CyanogenMod-6.1.0-RC1-DS",
         "incremental": "6100",
         "product": "CyanogenMod",
@@ -1108,7 +1091,7 @@
         "name": "CyanogenMod 7.0.0-RC3",
         "modversion": "CyanogenMod-7.0.0-RC3-DesireHD",
         "incremental": "7002",
-        "url": "http://download.cyanogenmod.com/get/ace/update-cm-7.0.0-RC3-DesireHD-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC3-DesireHD-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate",
         "addons": [
@@ -1123,7 +1106,7 @@
         "name": "CyanogenMod 7.0.0-RC2",
         "modversion": "CyanogenMod-7.0.0-RC2-DesireHD",
         "incremental": "7001",
-        "url": "http://download.cyanogenmod.com/get/ace/update-cm-7.0.0-RC2-DesireHD-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC2-DesireHD-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate",
         "addons": [
@@ -1138,7 +1121,7 @@
         "name": "CyanogenMod 7.0.0-RC1",
         "modversion": "CyanogenMod-7.0.0-RC1-DesireHD",
         "incremental": "7000",
-        "url": "http://download.cyanogenmod.com/get/ace/update-cm-7.0.0-RC1-DesireHD-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC1-DesireHD-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate",
         "addons": [
@@ -1153,7 +1136,7 @@
         "name": "CyanogenMod 6.1.3",
         "modversion": "CyanogenMod-6.1.3-DesireHD",
         "incremental": "6130",
-        "url": "http://download.cyanogenmod.com/get/ace/update-cm-6.1.3-DesireHD-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.3-DesireHD-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
         "addons": [
@@ -1168,7 +1151,7 @@
         "name": "CyanogenMod 6.1.2",
         "modversion": "CyanogenMod-6.1.2-DesireHD",
         "incremental": "6120",
-        "url": "http://download.cyanogenmod.com/get/ace/update-cm-6.1.2-DesireHD-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.2-DesireHD-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
         "addons": [
@@ -1183,7 +1166,7 @@
         "name": "CyanogenMod 7.0.0-RC3",
         "modversion": "CyanogenMod-7.0.0-RC3-Desire",
         "incremental": "7002",
-        "url": "http://download.cyanogenmod.com/get/bravo/update-cm-7.0.0-RC3-Desire-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC3-Desire-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate",
         "addons": [
@@ -1198,7 +1181,7 @@
         "name": "CyanogenMod 7.0.0-RC2",
         "modversion": "CyanogenMod-7.0.0-RC2-Desire",
         "incremental": "7001",
-        "url": "http://download.cyanogenmod.com/get/bravo/update-cm-7.0.0-RC2-Desire-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC2-Desire-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate",
         "addons": [
@@ -1213,7 +1196,7 @@
         "name": "CyanogenMod 7.0.0-RC1",
         "modversion": "CyanogenMod-7.0.0-RC1-Desire",
         "incremental": "7000",
-        "url": "http://download.cyanogenmod.com/get/bravo/update-cm-7.0.0-RC1-Desire-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC1-Desire-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate",
         "addons": [
@@ -1228,7 +1211,7 @@
         "name": "CyanogenMod 6.1.1",
         "modversion": "CyanogenMod-6.1.1-Bravo",
         "incremental": "6110",
-        "url": "http://download.cyanogenmod.com/get/bravo/update-cm-6.1.1-Desire-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.1-Desire-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
         "addons": [
@@ -1243,7 +1226,7 @@
         "name": "CyanogenMod 6.1.0",
         "modversion": "CyanogenMod-6.1.0-Bravo",
         "incremental": "6103",
-        "url": "http://download.cyanogenmod.com/get/bravo/update-cm-6.1.0-Desire-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-Desire-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
         "addons": [
@@ -1258,7 +1241,7 @@
         "name": "CyanogenMod 6.1.0-RC1",
         "modversion": "CyanogenMod-6.1.0-Bravo-RC1",
         "incremental": "6100",
-        "url": "http://download.cyanogenmod.com/get/bravo/update-cm-6.1.0-RC1-Desire-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-RC1-Desire-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 1",
         "addons": [
@@ -1273,7 +1256,7 @@
         "name": "CyanogenMod 6.0.2",
         "modversion": "CyanogenMod-6.0.2-Bravo",
         "incremental": "6020",
-        "url": "http://download.cyanogenmod.com/get/bravo/update-cm-6.0.2-Desire-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.0.2-Desire-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
         "addons": [
@@ -1288,7 +1271,7 @@
         "name": "CyanogenMod 6.0.1",
         "modversion": "CyanogenMod-6.0.1-Bravo",
         "incremental": "6010",
-        "url": "http://download.cyanogenmod.com/get/bravo/update-cm-6.0.1-Desire-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.0.1-Desire-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
         "addons": [
@@ -1318,7 +1301,7 @@
         "name": "CyanogenMod 7.0.0-RC2",
         "modversion": "CyanogenMod-7.0.0-RC2-BravoC",
         "incremental": "7001",
-        "url": "http://download.cyanogenmod.com/get/bravoc/update-cm-7.0.0-RC2-BravoC-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC2-BravoC-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate",
         "addons": [
@@ -1333,7 +1316,7 @@
         "name": "CyanogenMod 6.1.1",
         "modversion": "CyanogenMod-6.1.1-Bravoc",
         "incremental": "6110",
-        "url": "http://download.cyanogenmod.com/get/bravoc/update-cm-6.1.1-BravoC-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.1-BravoC-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
         "addons": [
@@ -1348,7 +1331,7 @@
         "name": "CyanogenMod 6.1.0",
         "modversion": "CyanogenMod-6.1.0-Bravoc",
         "incremental": "6103",
-        "url": "http://download.cyanogenmod.com/get/bravoc/update-cm-6.1.0-BravoC-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-BravoC-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
         "addons": [
@@ -1378,7 +1361,7 @@
         "name": "CyanogenMod 6.1.0-RC1",
         "modversion": "CyanogenMod-6.1.0-Bravoc-RC1",
         "incremental": "6100",
-        "url": "http://download.cyanogenmod.com/get/bravoc/update-cm-6.1.0-RC1-BravoC-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-RC1-BravoC-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 1",
         "addons": [
@@ -1390,10 +1373,25 @@
     },
     {
         "device": "espresso",
+        "name": "CyanogenMod 7.0.0-RC3",
+        "modversion": "CyanogenMod-7.0.0-RC3-Slide",
+        "incremental": "7002",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC3-Slide-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
+        }
+        ]
+    },
+    {
+        "device": "espresso",
         "name": "CyanogenMod 7.0.0-RC2",
         "modversion": "CyanogenMod-7.0.0-RC2-Slide",
         "incremental": "7001",
-        "url": "http://download.cyanogenmod.com/get/espresso/update-cm-7.0.0-RC2-Slide-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC2-Slide-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate",
         "addons": [
@@ -1408,7 +1406,7 @@
         "name": "CyanogenMod 7.0.0-RC1",
         "modversion": "CyanogenMod-7.0.0-RC1-Slide",
         "incremental": "7000",
-        "url": "http://download.cyanogenmod.com/get/espresso/update-cm-7.0.0-RC1-Slide-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC1-Slide-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate",
         "addons": [
@@ -1423,7 +1421,7 @@
         "name": "CyanogenMod 6.1.1",
         "modversion": "CyanogenMod-6.1.1-Slide",
         "incremental": "6105",
-        "url": "http://download.cyanogenmod.com/get/espresso/update-cm-6.1.1-Slide-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.1-Slide-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
         "addons": [
@@ -1438,7 +1436,7 @@
         "name": "CyanogenMod 6.1.0",
         "modversion": "CyanogenMod-6.1.0-Slide",
         "incremental": "6104",
-        "url": "http://download.cyanogenmod.com/get/espresso/update-cm-6.1.0-Slide-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-Slide-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
         "addons": [
@@ -1453,7 +1451,7 @@
         "name": "CyanogenMod 6.1.0-RC3",
         "modversion": "CyanogenMod-6.1.0-RC3-Slide",
         "incremental": "6103",
-        "url": "http://download.cyanogenmod.com/get/espresso/update-cm-6.1.0-RC3-Slide-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-RC3-Slide-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 3",
         "addons": [
@@ -1468,7 +1466,7 @@
         "name": "CyanogenMod 6.1.0-RC2",
         "modversion": "CyanogenMod-6.1.0-RC2-Slide",
         "incremental": "6102",
-        "url": "http://download.cyanogenmod.com/get/espresso/update-cm-6.1.0-RC2-Slide-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-RC2-Slide-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 2",
         "addons": [
@@ -1483,7 +1481,7 @@
         "name": "CyanogenMod 6.1.0-RC1",
         "modversion": "CyanogenMod-6.1.0-RC1-Slide",
         "incremental": "6100",
-        "url": "http://download.cyanogenmod.com/get/espresso/update-cm-6.1.0-RC1-Slide-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-RC1-Slide-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 1",
         "addons": [
@@ -1498,7 +1496,7 @@
         "name": "CyanogenMod 6.0.0",
         "modversion": "CyanogenMod-6.0.0-Slide",
         "incremental": "6000",
-        "url": "http://download.cyanogenmod.com/get/espresso/update-cm-6.0.0-Slide-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.0.0-Slide-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
         "addons": [
@@ -1510,10 +1508,55 @@
     },
     {
         "device": "heroc",
+        "name": "CyanogenMod 7.0.0-RC3",
+        "modversion": "CyanogenMod-7.0.0-RC3-HeroC",
+        "incremental": "7002",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC3-heroc-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
+        }
+        ]
+    },
+    {
+        "device": "heroc",
+        "name": "CyanogenMod 7.0.0-RC2",
+        "modversion": "CyanogenMod-7.0.0-RC2-HeroC",
+        "incremental": "7001",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC2-heroc-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
+        }
+        ]
+    },
+    {
+        "device": "heroc",
+        "name": "CyanogenMod 6.1.0",
+        "modversion": "CyanogenMod-6.1.0-Heroc-RC1",
+        "incremental": "6101",
+        "url": "http://goo-inside.me/cm/heroc/stable/update-cm-6.1.0-Heroc-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Stable Release",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip"
+        }
+        ]
+    },	
+    {
+        "device": "heroc",
         "name": "CyanogenMod 6.1.0-RC1",
         "modversion": "CyanogenMod-6.1.0-Heroc-RC1",
         "incremental": "6100",
-        "url": "http://download.cyanogenmod.com/get/heroc/update-cm-6.1.0-RC1-Heroc-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-RC1-Heroc-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 1",
         "addons": [
@@ -1528,7 +1571,7 @@
         "name": "CyanogenMod 6.1.0-RC1",
         "modversion": "CyanogenMod-6.1.0-Hero-RC1",
         "incremental": "6100",
-        "url": "http://download.cyanogenmod.com/get/hero/update-cm-6.1.0-RC1-Hero-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-RC1-Hero-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 1",
         "addons": [
@@ -1558,7 +1601,7 @@
         "name": "CyanogenMod 7.0.0-RC1",
         "modversion": "CyanogenMod-7.0.0-RC1-Liberty",
         "incremental": "7000",
-        "url": "http://download.cyanogenmod.com/get/liberty/update-cm-7.0.0-RC1-Liberty-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC1-Liberty-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate",
         "addons": [
@@ -1663,7 +1706,7 @@
         "name": "CyanogenMod 7.0.0-RC3",
         "modversion": "CyanogenMod-7.0.0-RC3-Click",
         "incremental": "7008",
-        "url": "http://mirror.teamdouche.net/get/update-cm-7.0.0-RC3-click-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC3-click-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 3",
         "addons": [
@@ -1678,7 +1721,7 @@
         "name": "CyanogenMod 6.1.0",
         "modversion": "CyanogenMod-6.1.0-Buzz",
         "incremental": "6101",
-        "url": "http://download.cyanogenmod.com/get/buzz/update-cm-6.1.0-buzz-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-buzz-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
         "addons": [
@@ -1693,7 +1736,7 @@
         "name": "CyanogenMod 6.1.0-RC1",
         "modversion": "CyanogenMod-6.1.0-Buzz-RC1",
         "incremental": "6100",
-        "url": "http://download.cyanogenmod.com/get/buzz/update-cm-6.1.0-RC1-Buzz-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-RC1-Buzz-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 1",
         "addons": [
@@ -1708,7 +1751,7 @@
         "name": "CyanogenMod 7.0.0-RC1",
         "modversion": "CyanogenMod-7.0.0-Buzz-RC1",
         "incremental": "7000",
-        "url": "http://download.cyanogenmod.com/get/buzz/update-cm-7.0.0-RC1-Buzz-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC1-Buzz-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 1",
         "addons": [
@@ -1723,7 +1766,7 @@
         "name": "CyanogenMod 7.0.0-RC2",
         "modversion": "CyanogenMod-7.0.0-Buzz-RC2",
         "incremental": "7000",
-        "url": "http://download.cyanogenmod.com/get/buzz/update-cm-7.0.0-RC2-Buzz-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC2-Buzz-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 2",
         "addons": [
@@ -1738,7 +1781,7 @@
         "name": "CyanogenMod 7.0.0-RC3",
         "modversion": "CyanogenMod-7.0.0-Buzz-RC3",
         "incremental": "7000",
-        "url": "http://download.cyanogenmod.com/get/buzz/update-cm-7.0.0-RC3-Buzz-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC3-Buzz-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 3",
         "addons": [
@@ -1753,7 +1796,7 @@
         "name": "CyanogenMod 7.0.0-RC1",
         "modversion": "CyanogenMod-7.0.0-Blade-RC1",
         "incremental": "7000",
-        "url": "http://download.cyanogenmod.com/get/blade/update-cm-7.0.0-RC1-Blade-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC1-Blade-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 1",
         "addons": [
@@ -1768,7 +1811,7 @@
         "name": "CyanogenMod 7.0.0-RC2",
         "modversion": "CyanogenMod-7.0.0-Blade-RC2",
         "incremental": "7000",
-        "url": "http://download.cyanogenmod.com/get/blade/update-cm-7.0.0-RC2-Blade-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC2-Blade-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 2",
         "addons": [
@@ -1783,7 +1826,7 @@
         "name": "CyanogenMod 7.0.0-RC3",
         "modversion": "CyanogenMod-7.0.0-Blade-RC3",
         "incremental": "7000",
-        "url": "http://download.cyanogenmod.com/get/blade/update-cm-7.0.0-RC3-Blade-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC3-Blade-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 3",
         "addons": [
@@ -1798,7 +1841,7 @@
         "name": "CyanogenMod 7.0.0-RC3",
         "modversion": "CyanogenMod-7.0.0-RC3-Z71",
         "incremental": "7002",
-        "url": "http://mirrorbrain.cyanogenmod.com/cm/RC/update-cm-7.0.0-RC3-Z71-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC3-Z71-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate",
         "addons": [
@@ -1828,7 +1871,7 @@
         "name": "CyanogenMod 7.0.0-RC1",
         "modversion": "CyanogenMod-7.0.0-RC1-Z71",
         "incremental": "7000",
-        "url": "http://download.cyanogenmod.com/get/inc/update-cm-7.0.0-RC1-Z71-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC1-Z71-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate",
         "addons": [
@@ -1847,7 +1890,7 @@
         "http://dl.dropbox.com/u/10355648/mdpi-ss1.png",
         "http://dl.dropbox.com/u/10355648/mdpi-ss2.png"
         ],
-        "url": "http://download.cyanogenmod.com/get/z71/update-cm-6.1.2-Z71-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.2-Z71-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
         "addons": [
@@ -1866,7 +1909,7 @@
         "http://dl.dropbox.com/u/10355648/mdpi-ss1.png",
         "http://dl.dropbox.com/u/10355648/mdpi-ss2.png"
         ],
-        "url": "http://download.cyanogenmod.com/get/z71/update-cm-6.1.1-Z71-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.1-Z71-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
         "addons": [
@@ -1885,7 +1928,7 @@
         "http://dl.dropbox.com/u/10355648/mdpi-ss1.png",
         "http://dl.dropbox.com/u/10355648/mdpi-ss2.png"
         ],
-        "url": "http://download.cyanogenmod.com/get/z71/update-cm-6.1.0-Z71-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-Z71-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
         "addons": [
@@ -1912,10 +1955,55 @@
     },
     {
         "device": "legend",
+        "name": "CyanogenMod 7.0.0-RC3",
+        "modversion": "CyanogenMod-7.0.0-RC3-Legend",
+        "incremental": "7002",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC3-Legend-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
+        }
+        ]
+    },
+    {
+        "device": "legend",
+        "name": "CyanogenMod 7.0.0-RC2",
+        "modversion": "CyanogenMod-7.0.0-RC2-Legend",
+        "incremental": "7001",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC2-Legend-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
+        }
+        ]
+    },
+    {
+        "device": "legend",
+        "name": "CyanogenMod 7.0.0-RC1",
+        "modversion": "CyanogenMod-7.0.0-RC1-Legend",
+        "incremental": "7000",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC1-Legend-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110120-signed.zip"
+        }
+        ]
+    },
+    {
+        "device": "legend",
         "name": "CyanogenMod 6.1.0",
         "modversion": "CyanogenMod-6.1.0-Legend",
         "incremental": "6103",
-        "url": "http://download.cyanogenmod.com/get/legend/update-cm-6.1.0-Legend-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-Legend-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
         "addons": [
@@ -1930,7 +2018,7 @@
         "name": "CyanogenMod 7.0.0-RC3",
         "modversion": "CyanogenMod-7.0.0-RC3-ONE",
         "incremental": "7002",
-        "url": "http://mirrorbrain.cyanogenmod.com/cm/RC/update-cm-7.0.0-RC3-ONE-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC3-ONE-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate",
         "addons": [
@@ -1960,7 +2048,7 @@
         "name": "CyanogenMod 7.0.0-RC1",
         "modversion": "CyanogenMod-7.0.0-RC1-ONE",
         "incremental": "7000",
-        "url": "http://download.cyanogenmod.com/get/inc/update-cm-7.0.0-RC1-ONE-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC1-ONE-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate",
         "addons": [
@@ -1975,7 +2063,7 @@
         "name": "CyanogenMod 6.1.0",
         "modversion": "CyanogenMod-6.1.0-one",
         "incremental": "6102",
-        "url": "http://download.cyanogenmod.com/get/one/update-cm-6.1.0-ONE-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-ONE-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
         "addons": [
@@ -2005,7 +2093,7 @@
         "name": "CyanogenMod 7.0.0-RC3",
         "modversion": "CyanogenMod-7.0.0-RC3-ZERO",
         "incremental": "7002",
-        "url": "http://mirrorbrain.cyanogenmod.com/cm/RC/update-cm-7.0.0-RC3-ZERO-signed.zip",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC3-ZERO-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate",
         "addons": [

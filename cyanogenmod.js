@@ -2088,6 +2088,49 @@
         }
         ]
     },
+
+    {
+        "device": "Leo",
+        "name": "CyanogenMod 7.0.0-RC3",
+        "modversion": "CyanogenMod-7.0.0-LEO-RC3",
+        "incremental": "7003",
+        "url": "http://fitsnugly.euroskank.com/gigglebread/leo/update-cm-7.0.0-RC3-LEO-signed.zip",
+        "product": "CyanogenModRC",
+        "summary": "Release Candidate 3",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-gb-20110307-signed.zip"
+        }
+        {
+            "name": "CLK",
+            "url": "www.fitsnugly.euroskank.com/gigglebread/leo/CLKRC3Update.zip"
+        }
+
+        ]
+    },
+    {
+        "device": "Leo",
+        "name": "CyanogenMod 7.0.0-RC2",
+        "modversion": "CyanogenMod-7.0.0-LEO-RC2",
+        "incremental": "7002",
+        "url": "http://fitsnugly.euroskank.com/gigglebread/leo/update-cm-7.0.0-RC2-LEO-signed.zip",
+        "product": "CyanogenModRC",
+        "summary": "Release Candidate 2",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-gb-20110307-signed.zip"
+        }
+        {
+            "name": "CLK",
+            "url": "www.fitsnugly.euroskank.com/gigglebread/leo/CLKRC2Update.zip"
+        }
+
+        ]
+    },
+
+
     {
         "device": "zero",
         "name": "CyanogenMod 7.0.0-RC3",

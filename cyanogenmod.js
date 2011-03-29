@@ -2016,7 +2016,7 @@
         }
         {
             "name": "CLK",
-            "url": "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-gb-20110307-signed.zip"
+            "url": "www.fitsnugly.euroskank.com/gigglebread/leo/CLKRC3Update.zip"
         }
 
         ]
@@ -2036,7 +2036,7 @@
         }
         {
             "name": "CLK",
-            "url": "http://android.d3xt3r01.tk/cyanogen/gapps/gapps-gb-20110307-signed.zip"
+            "url": "www.fitsnugly.euroskank.com/gigglebread/leo/CLKRC2Update.zip"
         }
 
         ]

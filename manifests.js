@@ -967,6 +967,16 @@
         "summary": "Updates for stock ROMs, radio, hboot"
     },
     {
+        "developer": "RetroKid223",
+        "free": "true",
+        "id": "retrokid",
+        "manifest": "http://dl.dropbox.com/u/13751851/retrokid.js",
+        "roms": {
+            "mecha": "true"
+        },
+        "summary": "Themes for Sense Roms for Thunderbolt"
+    },
+    {
         "developer": "Google Apps",
         "free": "true",
         "id": "drmacinyasha",

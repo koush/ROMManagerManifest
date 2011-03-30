@@ -750,7 +750,7 @@
             "mecha": "true",
             "supersonic": "true",
             "inc": "true",
-            "desirec": "true":
+            "desirec": "true"
         },
         "summary": "Formerly r2DoesInc, Check out the new stuff. "
     },

@@ -954,9 +954,10 @@
         "id": "jsseidel1",
         "manifest": "https://github.com/Savaged-Zen/RM-Manifest/raw/master/manifest.js",
         "roms": {
-            "supersonic": "true"
+            "supersonic": "true",
+            "inc": "true"
         },
-        "summary": "ROM and kernel for HTC EVO 4G"
+        "summary": "ROMs & kernels for HTC EVO 4G, Droid Incredible"
     },
     {
         "developer": "NSCollab",
@@ -1036,7 +1037,8 @@
             "dream": "true",
             "magic": "true",
             "sapphire": "true",
-            "one": "true"
+            "one": "true",
+            "leo": "true"
         },
         "summary": "Add-on for AOSP ROMs, such as CM"
     }],

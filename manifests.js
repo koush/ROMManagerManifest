@@ -287,7 +287,8 @@
         "id": "jdlfg",
         "manifest": "http://dl.dropbox.com/u/6011176/jdlfg.js",
         "roms": {
-            "sholes": "true"
+            "sholes": "true",
+            "mecha": "true"
         },
         "summary": "Kernels for any ROM by jdlfg"
     },

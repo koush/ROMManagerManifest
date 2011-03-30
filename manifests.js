@@ -122,7 +122,7 @@
             "harmony": "true",
             "mecha": "true"
         },
-        "summary": "Roms and Themes for Droid, Droid X, Gtablet and Thunderbolt"
+        "summary": "Roms Kernels, and Themes for Droid, Droid X, Gtablet and Thunderbolt"
     },
     {
         "developer": "forkup",

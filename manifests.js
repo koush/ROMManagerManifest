@@ -1038,7 +1038,8 @@
             "magic": "true",
             "sapphire": "true",
             "one": "true",
-            "leo": "true"
+            "leo": "true",
+            "desirec": "true"
         },
         "summary": "Add-on for AOSP ROMs, such as CM"
     }],

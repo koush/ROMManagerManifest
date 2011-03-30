@@ -122,7 +122,7 @@
             "harmony": "true",
             "mecha": "true"
         },
-        "summary": "Roms and Themes for Droid, Droid X, Gtablet and Thunderbolt"
+        "summary": "Roms Kernels, and Themes for Droid, Droid X, Gtablet and Thunderbolt"
     },
     {
         "developer": "forkup",
@@ -287,7 +287,8 @@
         "id": "jdlfg",
         "manifest": "http://dl.dropbox.com/u/6011176/jdlfg.js",
         "roms": {
-            "sholes": "true"
+            "sholes": "true",
+            "mecha": "true"
         },
         "summary": "Kernels for any ROM by jdlfg"
     },

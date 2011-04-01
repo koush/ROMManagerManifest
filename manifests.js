@@ -105,7 +105,7 @@
         "developer": "IncPacker",
         "free": "true",
         "id": "incpacker",
-        "manifest": "http://",
+        "manifest": "http://incpacker.gofreeserve.com/incpacker.js",
         "roms": {
             "inc": "true"
            "mecha": "true"   

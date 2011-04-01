@@ -101,6 +101,17 @@
         },
         "summary": "Cool stuffs."
     },
+ {
+        "developer": "IncPacker",
+        "free": "true",
+        "id": "incpacker",
+        "manifest": "http://",
+        "roms": {
+            "inc": "true"
+           "mecha": "true"   
+        },
+        "summary": "Hacks for your phone :P"
+    },
     {
         "developer": "Bugless Beast",
         "free": "true",

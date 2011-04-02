@@ -294,6 +294,16 @@
         "summary": "Kernels for any ROM by jdlfg"
     },
     {
+        "developer": "jcase",
+        "free": "true",
+        "id": "jcase",
+        "manifest": "http://cunninglogic.com/android/jcasemanifest.js",
+        "roms": {
+            "mecha": "true"
+        },
+        "summary": "Bits and pieces from jcase"
+    },
+    {
         "developer": "Fresh",
         "free": "true",
         "id": "flipz",

@@ -284,6 +284,7 @@
     },
     {
         "developer": "jdlfg",
+        "free": "true",
         "id": "jdlfg",
         "manifest": "http://dl.dropbox.com/u/6011176/jdlfg.js",
         "roms": {

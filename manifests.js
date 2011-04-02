@@ -978,6 +978,16 @@
         },
         "summary": "Updates for stock ROMs, radio, hboot"
     },
+  {
+        "developer": "Trock79",
+        "free": "true",
+        "id": "trock79",
+        "manifest": "http://dl.dropbox.com/12845382/trock.js",
+        "roms": {
+            "inc": "true"
+        },
+        "summary": "Custom ROM's by trock79"
+    },
     {
         "developer": "RetroKid223",
         "free": "true",

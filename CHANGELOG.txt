@@ -1,3 +1,7 @@
+3.0.1.5
+Updated translations.
+Report statistics ROM Manager license purchase location (Market vs Amazon vs Paypal).
+
 3.0.1.4
 Many translation fixes.
 Update PayPal pricing to match Android Market and Amazon pricing per their developer agreements.

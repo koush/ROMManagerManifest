@@ -1837,24 +1837,9 @@
     },
     {
         "device": "click",
-        "name": "CyanogenMod 7.0.0-RC4",
-        "modversion": "CyanogenMod-7.0.0-RC4-Click",
-        "incremental": "7004",
-        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC1-click-signed.zip",
-        "product": "CyanogenMod",
-        "summary": "Release Candidate",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "click",
         "name": "CyanogenMod 7.0.0-RC0",
         "modversion": "CyanogenMod-7.0.0-RC0-Click",
-        "incremental": "7004",
+        "incremental": "7000",
         "url": "http://goo-inside.me/cm/click/rc/update-cm-7.0.0-RC1-click-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 0",
@@ -1869,7 +1854,7 @@
         "device": "click",
         "name": "CyanogenMod 7.0.0-RC2",
         "modversion": "CyanogenMod-7.0.0-RC2-Click",
-        "incremental": "7005",
+        "incremental": "7001",
         "url": "http://goo-inside.me/cm/click/rc/update-cm-7.0.0-RC2-click-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 2 (first camera preview)",
@@ -1884,7 +1869,7 @@
         "device": "click",
         "name": "CyanogenMod 7.0.0-RC2.1",
         "modversion": "CyanogenMod-7.0.0-RC2.1-Click",
-        "incremental": "7006",
+        "incremental": "7002",
         "url": "http://goo-inside.me/cm/click/rc/update-cm-7.0.0-RC2.1-click-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 2.1 (camera FULL)",
@@ -1899,7 +1884,7 @@
         "device": "click",
         "name": "CyanogenMod 7.0.0-RC2.2",
         "modversion": "CyanogenMod-7.0.0-RC2.2-Click",
-        "incremental": "7007",
+        "incremental": "7003",
         "url": "http://goo-inside.me/cm/click/rc/update-cm-7.0.0-RC2.2-click-signed.zip",
         "product": "CyanogenMod",
         "summary": "Release Candidate 2.2 (FULL EQUIP) GPS works, DroidWall Too",
@@ -1914,10 +1899,40 @@
         "device": "click",
         "name": "CyanogenMod 7.0.0-RC3",
         "modversion": "CyanogenMod-7.0.0-RC3-Click",
-        "incremental": "7008",
+        "incremental": "7004",
         "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC3-click-signed.zip",
         "product": "CyanogenMod",
-        "summary": "Release Candidate 3",
+        "summary": "Release Candidate",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
+        }
+        ]
+    },
+    {
+        "device": "click",
+        "name": "CyanogenMod 7.0.0-RC4",
+        "modversion": "CyanogenMod-7.0.0-RC4-Click",
+        "incremental": "7005",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC1-click-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate",
+        "addons": [
+        {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
+        }
+        ]
+    },
+    {
+        "device": "click",
+        "name": "CyanogenMod 7.0.0-RC4.1",
+        "modversion": "CyanogenMod-7.0.0-RC4.1-click",
+        "incremental": "7006",
+        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-RC4.1-click-signed.zip",
+        "product": "CyanogenMod",
+        "summary": "Release Candidate",
         "addons": [
         {
             "name": "Google Apps",

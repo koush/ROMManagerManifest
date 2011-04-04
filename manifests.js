@@ -22,6 +22,7 @@
             "sapphire": "true",
             "supersonic": "true",
             "click": "true",
+            "leo": "true",            
             "crespo": "true",
             "buzz": "true",
             "vision": "true",

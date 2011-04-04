@@ -994,7 +994,7 @@
         "developer": "Trock79",
         "free": "true",
         "id": "trock79",
-        "manifest": "http://dl.dropbox.com/12845382/trock.js",
+        "manifest": "http://dl.dropbox.com/u/12845382/trock.js",
         "roms": {
             "inc": "true"
         },

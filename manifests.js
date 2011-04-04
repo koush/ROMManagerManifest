@@ -107,7 +107,7 @@
         "id": "incpacker",
         "manifest": "http://incpacker.gofreeserve.com/incpacker.js",
         "roms": {
-            "inc": "true"
+            "inc": "true",
            "mecha": "true"   
         },
         "summary": "Hacks for your phone :P"

@@ -101,7 +101,7 @@
         },
         "summary": "Cool stuffs."
     },
- {
+    {
         "developer": "IncPacker",
         "free": "true",
         "id": "incpacker",

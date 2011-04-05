@@ -215,72 +215,12 @@
     },
     {
         "device": "vision",
-        "name": "CyanogenMod 6.1 RC4",
-        "modversion": "CyanogenMod-6.1.0-RC4-G2",
-        "incremental": "0005",
-        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-RC4-vision-signed.zip",
-        "product": "CyanogenModRC",
-        "summary": "Release Candidate",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "vision",
-        "name": "CyanogenMod 6.1 RC3",
-        "modversion": "CyanogenMod-6.1.0-RC3-G2",
-        "incremental": "0004",
-        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-RC3-vision-signed.zip",
-        "product": "CyanogenModRC",
-        "summary": "Release Candidate",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "vision",
-        "name": "CyanogenMod 6.1 RC2",
-        "modversion": "CyanogenMod-6.1.0-RC2-G2",
+        "name": "Vision-Baconbits 0.3",
+        "modversion": "CyanogenMod-Baconbits .03",
         "incremental": "0003",
-        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-RC2-vision-signed.zip",
-        "product": "CyanogenModRC",
-        "summary": "Release Candidate",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "vision",
-        "name": "CyanogenMod 6.1 RC1",
-        "modversion": "CyanogenMod-6.1.0-RC1-G2",
-        "incremental": "0002",
-        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-RC1-vision-signed.zip",
-        "product": "CyanogenModRC",
-        "summary": "Release Candidate",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "vision",
-        "name": "Vision-Baconbits 0.1",
-        "modversion": "CyanogenMod-Baconbits .01",
-        "incremental": "0001",
-        "url": "http://android.chemlab.org/android/vision/vision-baconbits.zip",
+        "url": "http://n0rp.chemlab.org/android/vision/vision-baconbits-0.3.zip",
         "product": "Baconbits",
-        "summary": "Baconbits Addon 0.1"
+        "summary": "Baconbits Addon 0.3"
     },
     {
         "device": "inc",
@@ -350,36 +290,6 @@
         "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-Inc-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "inc",
-        "name": "CyanogenMod 6.1 RC2",
-        "modversion": "CyanogenMod-6.1.0-RC2-Inc",
-        "incremental": "6101",
-        "product": "CyanogenModRC",
-        "url": "http://goo-inside.me/cm/inc/rc/update-cm-6.1.0-RC2-Inc-signed.zip",
-        "summary": "Release Candidate",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "inc",
-        "name": "CyanogenMod 6.1 RC1",
-        "modversion": "CyanogenMod-6.1.0-RC1-Inc",
-        "incremental": "6100",
-        "product": "CyanogenModRC",
-        "url": "http://goo-inside.me/cm/inc/rc/update-cm-6.1.0-RC1-Inc-signed.zip",
-        "summary": "Release Candidate",
         "addons": [
         {
             "name": "Google Apps",
@@ -772,57 +682,12 @@
     },
     {
         "device": "supersonic",
-        "name": "CyanogenMod 6.1.0-RC2",
-        "modversion": "CyanogenMod-6.1.0-RC2-Supersonic",
-        "incremental": "6101",
-        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-RC2-Supersonic-signed.zip",
-        "product": "CyanogenMod",
-        "summary": "Release Candidate",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "supersonic",
-        "name": "CyanogenMod 6.1.0-RC1",
-        "modversion": "CyanogenMod-6.1.0-RC1-Supersonic",
-        "incremental": "6100",
-        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-RC1-Supersonic-signed.zip",
-        "product": "CyanogenMod",
-        "summary": "Release Candidate",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "supersonic",
         "name": "CyanogenMod 6.0.0",
         "modversion": "CyanogenMod-6.0.0-Supersonic",
         "incremental": "6000",
         "url": "http://download.cyanogenmod.com/get/update-cm-6.0.0-Supersonic-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "supersonic",
-        "name": "CyanogenMod 6.0.0-RC2",
-        "modversion": "CyanogenMod-6.0.0-Supersonic-RC2",
-        "incremental": "0",
-        "url": "http://goo-inside.me/cm/supersonic/rc/update-cm-6.0.0-Supersonic-RC2-signed.zip",
-        "product": "CyanogenMod",
-        "summary": "Release Candidate 2",
         "addons": [
         {
             "name": "Google Apps",
@@ -922,72 +787,12 @@
     },
     {
         "device": "passion",
-        "name": "CyanogenMod 6.1.0-RC2",
-        "modversion": "CyanogenMod-6.0.0-RC2-N1",
-        "incremental": "6101",
-        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-RC2-N1-signed.zip",
-        "product": "CyanogenMod",
-        "summary": "Release Candidate 2",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "passion",
-        "name": "CyanogenMod 6.1.0-RC1",
-        "modversion": "CyanogenMod-6.0.0-RC1-N1",
-        "incremental": "6100",
-        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-RC1-N1-signed.zip",
-        "product": "CyanogenMod",
-        "summary": "Release Candidate 1",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "passion",
         "name": "CyanogenMod 6.0.0",
         "modversion": "CyanogenMod-6.0.0-N1",
         "incremental": "6000",
         "url": "http://download.cyanogenmod.com/get/update-cm-6.0.0-N1-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "passion",
-        "name": "CyanogenMod 6.0.0-RC3",
-        "modversion": "CyanogenMod-6.0.0-N1-RC3",
-        "incremental": "0",
-        "url": "http://goo-inside.me/cm/passion/rc/update-cm-6.0.0-N1-RC3-signed.zip",
-        "product": "CyanogenMod",
-        "summary": "Release Candidate 3",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "passion",
-        "name": "CyanogenMod 6.0.0-RC2",
-        "modversion": "CyanogenMod-6.0.0-N1-RC2",
-        "incremental": "0",
-        "url": "http://goo-inside.me/cm/passion/rc/update-cm-6.0.0-N1-RC2-signed.zip",
-        "product": "CyanogenMod",
-        "summary": "Release Candidate 2",
         "addons": [
         {
             "name": "Google Apps",
@@ -1027,57 +832,12 @@
     },
     {
         "device": "dream",
-        "name": "CyanogenMod 6.1.0-RC1",
-        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-RC1-DS-signed.zip",
-        "modversion": "CyanogenMod-6.1.0-RC1-DS",
-        "incremental": "6100",
-        "product": "CyanogenMod",
-        "summary": "Release Candidate 1",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-mdpi-tiny-20101020-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "dream",
         "name": "CyanogenMod 6.0.0",
         "url": "http://goo-inside.me/cm/dream_sapphire/stable/update-cm-6.0.0-DS-signed.zip",
         "modversion": "CyanogenMod-6.0.0-DS",
         "incremental": "6000",
         "product": "CyanogenMod",
         "summary": "Stable Release",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-mdpi-tiny-20101020-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "dream",
-        "name": "CyanogenMod 6.0.0-RC3",
-        "url": "http://goo-inside.me/cm/dream_sapphire/rc/update-cm-6.0.0-DS-RC3-signed.zip",
-        "modversion": "CyanogenMod-6.0.0-DS-RC3",
-        "incremental": "0",
-        "product": "CyanogenMod",
-        "summary": "Release Candidate 3",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-mdpi-tiny-20101020-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "dream",
-        "name": "CyanogenMod 6.0.0-RC2",
-        "modversion": "CyanogenMod-6.0.0-DS-RC2",
-        "incremental": "0",
-        "url": "http://goo-inside.me/cm/dream_sapphire/rc/update-cm-6.0.0-DS-RC2-signed.zip",
-        "product": "CyanogenMod",
-        "summary": "Release Candidate 2",
         "addons": [
         {
             "name": "Google Apps",
@@ -1117,57 +877,12 @@
     },
     {
         "device": "sapphire",
-        "name": "CyanogenMod 6.1.0-RC1",
-        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-RC1-DS-signed.zip",
-        "modversion": "CyanogenMod-6.1.0-RC1-DS",
-        "incremental": "6100",
-        "product": "CyanogenMod",
-        "summary": "Release Candidate 1",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-mdpi-tiny-20101020-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "sapphire",
         "name": "CyanogenMod 6.0.0",
         "modversion": "CyanogenMod-6.0.0-DS",
         "incremental": "6000",
         "url": "http://goo-inside.me/cm/dream_sapphire/stable/update-cm-6.0.0-DS-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-mdpi-tiny-20101020-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "sapphire",
-        "name": "CyanogenMod 6.0.0-RC3",
-        "modversion": "CyanogenMod-6.0.0-DS-RC3",
-        "incremental": "0",
-        "url": "http://goo-inside.me/cm/dream_sapphire/rc/update-cm-6.0.0-DS-RC3-signed.zip",
-        "product": "CyanogenMod",
-        "summary": "Release Candidate 3",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-mdpi-tiny-20101020-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "sapphire",
-        "name": "CyanogenMod 6.0.0-RC2",
-        "modversion": "CyanogenMod-6.0.0-DS-RC2",
-        "incremental": "0",
-        "url": "http://goo-inside.me/cm/dream_sapphire/rc/update-cm-6.0.0-DS-RC2-signed.zip",
-        "product": "CyanogenMod",
-        "summary": "Release Candidate 2",
         "addons": [
         {
             "name": "Google Apps",
@@ -1372,21 +1087,6 @@
     },
     {
         "device": "bravo",
-        "name": "CyanogenMod 6.1.0-RC1",
-        "modversion": "CyanogenMod-6.1.0-Bravo-RC1",
-        "incremental": "6100",
-        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-RC1-Desire-signed.zip",
-        "product": "CyanogenMod",
-        "summary": "Release Candidate 1",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "bravo",
         "name": "CyanogenMod 6.0.2",
         "modversion": "CyanogenMod-6.0.2-Bravo",
         "incremental": "6020",
@@ -1491,36 +1191,6 @@
         ]
     },
     {
-        "device": "bravoc",
-        "name": "CyanogenMod 6.1.0-RC2",
-        "modversion": "CyanogenMod-6.1.0-Bravoc-RC2",
-        "incremental": "6102",
-        "url": "http://goo-inside.me/cm/bravoc/rc/update-cm-6.1.0-RC2-BravoC-signed.zip",
-        "product": "CyanogenMod",
-        "summary": "Release Candidate 2",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "bravoc",
-        "name": "CyanogenMod 6.1.0-RC1",
-        "modversion": "CyanogenMod-6.1.0-Bravoc-RC1",
-        "incremental": "6100",
-        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-RC1-BravoC-signed.zip",
-        "product": "CyanogenMod",
-        "summary": "Release Candidate 1",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip"
-        }
-        ]
-    },
-    {
         "device": "espresso",
         "name": "CyanogenMod 7.0.0-RC4",
         "modversion": "CyanogenMod-7.0.0-RC4-Slide",
@@ -1612,51 +1282,6 @@
     },
     {
         "device": "espresso",
-        "name": "CyanogenMod 6.1.0-RC3",
-        "modversion": "CyanogenMod-6.1.0-RC3-Slide",
-        "incremental": "6103",
-        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-RC3-Slide-signed.zip",
-        "product": "CyanogenMod",
-        "summary": "Release Candidate 3",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "espresso",
-        "name": "CyanogenMod 6.1.0-RC2",
-        "modversion": "CyanogenMod-6.1.0-RC2-Slide",
-        "incremental": "6102",
-        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-RC2-Slide-signed.zip",
-        "product": "CyanogenMod",
-        "summary": "Release Candidate 2",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "espresso",
-        "name": "CyanogenMod 6.1.0-RC1",
-        "modversion": "CyanogenMod-6.1.0-RC1-Slide",
-        "incremental": "6100",
-        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-RC1-Slide-signed.zip",
-        "product": "CyanogenMod",
-        "summary": "Release Candidate 1",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "espresso",
         "name": "CyanogenMod 6.0.0",
         "modversion": "CyanogenMod-6.0.0-Slide",
         "incremental": "6000",
@@ -1731,36 +1356,6 @@
         ]
     },	
     {
-        "device": "heroc",
-        "name": "CyanogenMod 6.1.0-RC1",
-        "modversion": "CyanogenMod-6.1.0-Heroc-RC1",
-        "incremental": "6100",
-        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-RC1-Heroc-signed.zip",
-        "product": "CyanogenMod",
-        "summary": "Release Candidate 1",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "hero",
-        "name": "CyanogenMod 6.1.0-RC1",
-        "modversion": "CyanogenMod-6.1.0-Hero-RC1",
-        "incremental": "6100",
-        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-RC1-Hero-signed.zip",
-        "product": "CyanogenMod",
-        "summary": "Release Candidate 1",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip"
-        }
-        ]
-    },
-    {
         "device": "hero",
         "name": "CyanogenMod 6.1.0",
         "modversion": "CyanogenMod-6.1.0-Hero",
@@ -1817,81 +1412,6 @@
         {
             "name": "Google Apps",
             "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "liberty",
-        "name": "CyanogenMod 6.1.0-RC2",
-        "modversion": "CyanogenMod-6.1.0-RC2-liberty",
-        "incremental": "6102",
-        "url": "http://goo-inside.me/cm/liberty/rc/update-cm-6.1.0-RC2-Liberty-signed.zip",
-        "product": "CyanogenMod",
-        "summary": "Release Canidate 2",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "click",
-        "name": "CyanogenMod 7.0.0-RC0",
-        "modversion": "CyanogenMod-7.0.0-RC0-Click",
-        "incremental": "7000",
-        "url": "http://goo-inside.me/cm/click/rc/update-cm-7.0.0-RC1-click-signed.zip",
-        "product": "CyanogenMod",
-        "summary": "Release Candidate 0",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "click",
-        "name": "CyanogenMod 7.0.0-RC2",
-        "modversion": "CyanogenMod-7.0.0-RC2-Click",
-        "incremental": "7001",
-        "url": "http://goo-inside.me/cm/click/rc/update-cm-7.0.0-RC2-click-signed.zip",
-        "product": "CyanogenMod",
-        "summary": "Release Candidate 2 (first camera preview)",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "click",
-        "name": "CyanogenMod 7.0.0-RC2.1",
-        "modversion": "CyanogenMod-7.0.0-RC2.1-Click",
-        "incremental": "7002",
-        "url": "http://goo-inside.me/cm/click/rc/update-cm-7.0.0-RC2.1-click-signed.zip",
-        "product": "CyanogenMod",
-        "summary": "Release Candidate 2.1 (camera FULL)",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "click",
-        "name": "CyanogenMod 7.0.0-RC2.2",
-        "modversion": "CyanogenMod-7.0.0-RC2.2-Click",
-        "incremental": "7003",
-        "url": "http://goo-inside.me/cm/click/rc/update-cm-7.0.0-RC2.2-click-signed.zip",
-        "product": "CyanogenMod",
-        "summary": "Release Candidate 2.2 (FULL EQUIP) GPS works, DroidWall Too",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
         }
         ]
     },
@@ -1963,21 +1483,6 @@
         "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-buzz-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "buzz",
-        "name": "CyanogenMod 6.1.0-RC1",
-        "modversion": "CyanogenMod-6.1.0-Buzz-RC1",
-        "incremental": "6100",
-        "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-RC1-Buzz-signed.zip",
-        "product": "CyanogenMod",
-        "summary": "Release Candidate 1",
         "addons": [
         {
             "name": "Google Apps",
@@ -2208,21 +1713,6 @@
         ]
     },
     {
-        "device": "z71",
-        "name": "CyanogenMod 6.1.0-RC4",
-        "modversion": "CyanogenMod-6.1.0-z71-RC4",
-        "incremental": "6104",
-        "url": "http://goo-inside.me/cm/z71/rc/update-cm-6.1.0-RC4-Z71-signed.zip",
-        "product": "CyanogenModRC",
-        "summary": "Release Candidate 4",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip"
-        }
-        ]
-    },
-    {
         "device": "legend",
         "name": "CyanogenMod 7.0.0-RC4",
         "modversion": "CyanogenMod-7.0.0-RC4-Legend",
@@ -2365,21 +1855,6 @@
         "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-ONE-signed.zip",
         "product": "CyanogenMod",
         "summary": "Stable Release",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-mdpi-tiny-20101020-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "one",
-        "name": "CyanogenMod 6.1.0-RC1",
-        "modversion": "CyanogenMod-6.1.0-one-RC1",
-        "incremental": "6101",
-        "url": "http://goo-inside.me/cm/one/rc/update-cm-6.1.0-RC1-ONE-signed.zip",
-        "product": "CyanogenModRC",
-        "summary": "Release Candidate 1",
         "addons": [
         {
             "name": "Google Apps",

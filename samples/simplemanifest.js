@@ -35,4 +35,6 @@
         "url": "http://www.droidaftermarket.com/koush/motorola/sholes/cyanogen_sholes-ota-eng.koush_5.0.4.zip"
     }
     ]
+    // Remember to delete all comment lines for JSON compliance, and the blank
+    // lines that some editors stick at the end of files.
 }

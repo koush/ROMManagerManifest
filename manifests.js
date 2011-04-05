@@ -42,17 +42,6 @@
         "summary": "Mods and bacon for your phone"
     },
     {
-        "developer": "Koush",
-        "free": "true",
-        "id": "koush",
-        "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/koush.js",
-        "roms": {
-            "crespo": "true",
-            "inc": "true"
-        },
-        "summary": "Random prerelease stuff and goodies"
-    },
-    {
         "developer": "CyanogenMod Nightlies",
         "id": "cyanogenmodnightly",
         "manifest": "http://mirrorbrain.cyanogenmod.com/cm/nightly/manifest.js",

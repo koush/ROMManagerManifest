@@ -218,16 +218,6 @@
         "summary": "Revert back to stock phone images."
     },
     {
-        "developer": "Kmobs Kernel",
-        "free": "true",
-        "id": "kmobs",
-        "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/kmobs.js",
-        "roms": {
-            "passion": "true"
-        },
-        "summary": "Undervolted Kernels for the Nexus One"
-    },
-    {
         "developer": "KrazyKrivda",
         "id": "krazykrivda",
         "manifest": "http://mydroidfiles.com/krazykrivda/manifest.js",

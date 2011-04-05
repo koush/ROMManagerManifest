@@ -1043,5 +1043,5 @@
         },
         "summary": "Add-on for AOSP ROMs, such as CM"
     }],
-    "minversion": "2514"
+    "minversion": "3017"
 }

@@ -941,7 +941,7 @@
         "developer": "Savaged-Zen",
         "free": "true",
         "id": "jsseidel1",
-        "manifest": "https://github.com/Savaged-Zen/RM-Manifest/raw/master/manifest.js",
+        "manifest": "http://savaged-zen.github.com/RM-Manifest/manifest.js"
         "roms": {
             "supersonic": "true",
             "inc": "true"

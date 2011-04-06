@@ -15,6 +15,7 @@
             "espresso": "true",
             "sholes": "true",
             "bravoc": "true",
+            "leo": "true",
             "dream": "true",
             "glacier": "true",
             "blade": "true",

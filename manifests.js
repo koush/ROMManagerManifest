@@ -565,7 +565,7 @@
         "developer": "myn",
         "free": "true",
         "id": "myn",
-        "manifest": "http://sdx-downloads.com/EVO/devs/myn/RomManager/manifest.js",
+        "manifest": "http://drmacinyasha.github.com/MynROMManagerManifest/manifest.js",
         "roms": {
             "supersonic": "true"
         },

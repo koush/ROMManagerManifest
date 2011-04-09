@@ -991,7 +991,7 @@
         "summary": "Themes for Sense Roms for Thunderbolt"
     },
     {
-        "developer": "pongster",
+        "developer": "HyperDroid",
         "free": "true",
         "id": "hyperdroid",
         "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",

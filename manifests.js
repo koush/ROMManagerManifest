@@ -991,6 +991,16 @@
         "summary": "Themes for Sense Roms for Thunderbolt"
     },
     {
+        "developer": "pongster",
+        "free": "true",
+        "id": "hyperdroid",
+        "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
+        "roms": {
+            "leo": "true"
+        },
+        "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
+    },
+    {
         "developer": "Google Apps",
         "free": "true",
         "id": "drmacinyasha",

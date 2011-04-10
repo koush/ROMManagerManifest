@@ -906,7 +906,7 @@
         "roms": {
             "vision": "true"
         },
-        "summary": "MIUI port for HTC Vision"
+        "summary": "MIUI for HTC Vision"
     },
     {
         "developer": "Coolexe",

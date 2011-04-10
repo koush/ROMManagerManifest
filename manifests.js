@@ -243,11 +243,11 @@
     {
         "developer": "Droid Concepts",
         "id": "woodyman",
-        "manifest": "http://www.forkup.info/succulentdesire/woody.js",
+        "manifest": "http://droidconcepts.macleod-web.net/Public_FTP/RomManager/woody.js",
         "roms": {
             "sholes": "true"
         },
-        "summary": "Custom ROMs, Themes, and Live Wallpapers"
+        "summary": "Custom ROMs for the Motorola Droid"
     },
     {
         "developer": "Pershoot",

@@ -980,6 +980,7 @@
         "developer": "EVO Stock and Radios",
         "free": "true",
         "id": "drmacinyasha",
+        "icon": "http://drmacinyasha.github.com/EVO-Stock-RM-Manifest/evo.png",
         "manifest": "http://drmacinyasha.github.com/EVO-Stock-RM-Manifest/manifest.js",
         "roms": {
             "supersonic": "true"
@@ -1031,7 +1032,7 @@
         "developer": "Google Apps",
         "free": "true",
         "id": "drmacinyasha",
-        "icon": "http://mirror.kanged.net//test/google.png",
+        "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/google.png",
         "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
         "roms": {
             "all": "true",

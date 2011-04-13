@@ -1027,6 +1027,7 @@
         "developer": "Google Apps",
         "free": "true",
         "id": "drmacinyasha",
+        "icon": "http://mirror.kanged.net//test/google.png",
         "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
         "roms": {
             "all": "true",

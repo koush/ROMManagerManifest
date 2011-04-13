@@ -1059,5 +1059,5 @@
         },
         "summary": "Add-on for AOSP ROMs, such as CM"
     }],
-    "minversion": "3017"
+    "minversion": "2000"
 }

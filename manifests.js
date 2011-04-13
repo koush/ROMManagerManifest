@@ -220,6 +220,7 @@
     {
         "developer": "Stock Images",
         "free": "true",
+        "icon": "http://mirror.kanged.net/test/n1.png",
         "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/stock.js",
         "roms": {
             "passion": "true",

@@ -1,3 +1,14 @@
+3.0.2.2
+The ROM Manager redesign has started! Let @clockworkmod know what you think!
+
+HTC users: the charge mode bug has been fixed on most phones!
+
+ROM Manager has been testing various ad networks the past few months. AdMob
+was removed in this release, and have switched back to AdSense. AdMob was slow
+and required GPS permissions (the permissions requirements has been removed.
+The ad network testing will help decide if the next app (underway) will be paid
+or free/ad supported.
+
 3.0.1.5
 Updated translations.
 Report statistics ROM Manager license purchase location (Market vs Amazon vs Paypal).

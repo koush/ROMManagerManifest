@@ -538,6 +538,7 @@
         "developer": "Virtuous",
         "free": "true",
         "id": "virtuous",
+        "icon: "http://files.virtuousrom.com/icon.png",
         "manifest": "http://files.virtuousrom.com/virtuous.js",
         "roms": {
             "vision": "true",

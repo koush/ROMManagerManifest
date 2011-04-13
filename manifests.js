@@ -23,7 +23,6 @@
             "inc": "true",
             "glacier": "true",
             "liberty": "true",
-            "leo": "true",
             "legend": "true",
             "one": "true",
             "sapphire": "true",
@@ -70,7 +69,6 @@
             "inc": "true",
             "glacier": "true",
             "liberty": "true",
-            "leo": "true",
             "legend": "true",
             "one": "true",
             "sapphire": "true",
@@ -989,7 +987,7 @@
         "roms": {
             "leo": "true"
         },
-        "summary": Mods and Bacon for your phone"
+        "summary": "Mods and Bacon for your phone"
     },
     {
         "developer": "EVO Stock and Radios",

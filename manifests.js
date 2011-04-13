@@ -4,7 +4,7 @@
         "developer": "CyanogenMod",
         "free": "true",
         "id": "cyanogenmod",
-        "icon": "http://mirror.kanged.net//test/cm.png",
+        "icon": "http://mirror.kanged.net//test/cm2.png",
         "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
         "roms": {
             "ace": "true",
@@ -41,7 +41,7 @@
         "developer": "CyanogenMod",
         "free": "true",
         "id": "cyanogenmod",
-        "icon": "http://mirror.kanged.net//test/cm.png",
+        "icon": "http://mirror.kanged.net//test/cm2.png",
         "manifest": "http://briancrook.ca/RM.php",
         "roms": {
             "magic": "true"
@@ -87,6 +87,7 @@
     {
         "developer": "CyanogenMod Nightlies",
         "id": "cyanogenmodnightly",
+        "icon": "http://mirror.kanged.net//test/cm2.png",
         "manifest": "http://briancrook.ca/RM_nightly.php",
         "roms": {
             "magic": "true"

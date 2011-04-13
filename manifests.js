@@ -969,6 +969,7 @@
         "free": "true",
         "id": "blandroid",
         "manifest": "http://blandroid.org/rommanager-manifest.js",
+        "icon": "http://blandroid.org/rommanager-icon.png",
         "roms": {
             "passion": "true",
             "crespo": "true"

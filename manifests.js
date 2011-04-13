@@ -38,6 +38,7 @@
     },
     {
         "developer": "CyanogenMod",
+        "icon": "http://mirror.kanged.net//test/cm.png",
         "free": "true",
         "id": "cyanogenmod",
         "manifest": "http://briancrook.ca/RM.php",

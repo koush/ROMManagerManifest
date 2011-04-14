@@ -754,8 +754,8 @@
         "developer": "Salvage-Mod",
         "free": "true",
         "id": "echo17",
-        "icon": "http://www.salvage-mod.com/roms/smlogo2.png",
-        "manifest": "http://www.salvage-mod.com/roms/echomod.js",
+        "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
+        "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
         "roms": {
             "supersonic": "true"
         },

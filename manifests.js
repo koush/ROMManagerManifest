@@ -550,6 +550,7 @@
         "developer": "Baked Snack",
         "free": "true",
         "id": "jdubzisfaded",
+		"icon": "https://github.com/pcmac77/Baked-Snack-Manifest-for-ROM-Manager/raw/master/bs.png",
         "manifest": "https://github.com/pcmac77/Baked-Snack-Manifest-for-ROM-Manager/raw/master/bs_manifest.js",
         "roms": {
             "supersonic": "true"

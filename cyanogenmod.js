@@ -831,21 +831,6 @@
     },
     {
         "device": "hero",
-        "name": "CyanogenMod 7.0.0",
-        "modversion": "CyanogenMod-7.0.0-Hero",
-        "incremental": "7005",
-        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-hero-signed.zip",
-        "product": "CyanogenMod",
-        "summary": "Stable Release",
-        "addons": [
-        {
-            "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
-        }
-        ]
-    },
-    {
-        "device": "hero",
         "name": "CyanogenMod 6.1.0",
         "modversion": "CyanogenMod-6.1.0-Hero",
         "incremental": "6101",

@@ -752,6 +752,7 @@
         "developer": "Salvage-Mod",
         "free": "true",
         "id": "echo17",
+        "icon": "http://www.salvage-mod.com/roms/smlogo2.png"
         "manifest": "http://www.salvage-mod.com/roms/echomod.js",
         "roms": {
             "supersonic": "true"

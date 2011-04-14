@@ -130,6 +130,7 @@
         "developer": "MrBobrowitz",
         "free": "true",
         "id": "mrbobrowitz",
+        "icon": "http://www.onix-android.com/rmpic.png",
         "manifest": "http://www.onix-android.com/mrbobrowitzmanifest.js",
         "roms": {
             "sholes": "true",

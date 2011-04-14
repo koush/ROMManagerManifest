@@ -23,7 +23,6 @@
             "inc": "true",
             "glacier": "true",
             "liberty": "true",
-            "leo": "true",
             "legend": "true",
             "one": "true",
             "sapphire": "true",
@@ -70,7 +69,6 @@
             "inc": "true",
             "glacier": "true",
             "liberty": "true",
-            "leo": "true",
             "legend": "true",
             "one": "true",
             "sapphire": "true",
@@ -980,6 +978,17 @@
             "crespo": "true"
         },
         "summary": "Stable AOSP-based ROM"
+    },
+ {
+        "developer": "charansingh",
+        "free": "true",
+        "id": "cyanogenmod",
+        "icon": "http://fitsnugly.euroskank.com/gigglebread/leo/cm.png",
+        "manifest": "http://fitsnugly.euroskank.com/gigglebread/leo/leocyanogenmod.js",
+        "roms": {
+            "leo": "true"
+        },
+        "summary": "Mods and Bacon for your phone"
     },
     {
         "developer": "EVO Stock and Radios",

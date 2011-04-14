@@ -538,7 +538,6 @@
         "developer": "Virtuous",
         "free": "true",
         "id": "virtuous",
-        "icon": "http://files.virtuousrom.com/icon.png",
         "manifest": "http://files.virtuousrom.com/virtuous.js",
         "roms": {
             "vision": "true",
@@ -948,6 +947,7 @@
         "developer": "Savaged-Zen",
         "free": "true",
         "id": "jsseidel1",
+        "icon": "http://savaged-zen.github.com/RM-Manifest/icon.png",
         "manifest": "http://savaged-zen.github.com/RM-Manifest/manifest.js",
         "roms": {
             "supersonic": "true",
@@ -981,7 +981,7 @@
         "developer": "EVO Stock and Radios",
         "free": "true",
         "id": "drmacinyasha",
-        "icon": "http://drmacinyasha.github.com/EVO-Stock-RM-Manifest/evo.png",
+        "icon": "http://drmacinyasha.github.com/EVO-Stock-RM-Manifest/icon.png",
         "manifest": "http://drmacinyasha.github.com/EVO-Stock-RM-Manifest/manifest.js",
         "roms": {
             "supersonic": "true"
@@ -1033,7 +1033,7 @@
         "developer": "Google Apps",
         "free": "true",
         "id": "drmacinyasha",
-        "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/google.png",
+        "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
         "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
         "roms": {
             "all": "true",

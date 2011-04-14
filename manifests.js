@@ -581,6 +581,7 @@
         "developer": "myn",
         "free": "true",
         "id": "myn",
+        "icon": "http://drmacinyasha.github.com/MynROMManagerManifest/icon.png",
         "manifest": "http://drmacinyasha.github.com/MynROMManagerManifest/manifest.js",
         "roms": {
             "supersonic": "true"

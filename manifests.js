@@ -103,7 +103,7 @@
         },
         "summary": "Cool stuffs."
     },
- {
+    {
         "developer": "IncPacker",
         "free": "true",
         "id": "incpacker",
@@ -257,6 +257,7 @@
     {
         "developer": "Droid Concepts",
         "id": "woodyman",
+        "icon": "http://droidconcepts.macleod-web.net/Public_FTP/RomManager/droidconcepts_icon.png",
         "manifest": "http://droidconcepts.macleod-web.net/Public_FTP/RomManager/woody.js",
         "roms": {
             "sholes": "true"
@@ -534,7 +535,7 @@
         "summary": "DroidX Roms"
     },
     {
-        "developer": "Virtuous",
+        "developer": "suous",
         "free": "true",
         "id": "virtuous",
         "manifest": "http://files.virtuousrom.com/virtuous.js",
@@ -549,7 +550,7 @@
         "developer": "Baked Snack",
         "free": "true",
         "id": "jdubzisfaded",
-		"icon": "https://github.com/pcmac77/Baked-Snack-Manifest-for-ROM-Manager/raw/master/bs.png",
+        "icon": "https://github.com/pcmac77/Baked-Snack-Manifest-for-ROM-Manager/raw/master/bs.png",
         "manifest": "https://github.com/pcmac77/Baked-Snack-Manifest-for-ROM-Manager/raw/master/bs_manifest.js",
         "roms": {
             "supersonic": "true"
@@ -981,7 +982,7 @@
         },
         "summary": "Stable AOSP-based ROM"
     },
- {
+    {
         "developer": "charansingh",
         "free": "true",
         "id": "cyanogenmod",
@@ -1003,7 +1004,7 @@
         },
         "summary": "Updates for stock ROMs, radio, hboot"
     },
-  {
+    {
         "developer": "Trock79",
         "free": "true",
         "id": "trock79",
@@ -1043,7 +1044,6 @@
         },
         "summary": "TeamRC RCMixHD Beamingly Blazing HTC Sense Roms"
     },
-
     {
         "developer": "Google Apps",
         "free": "true",

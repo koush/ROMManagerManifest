@@ -538,6 +538,7 @@
         "free": "true",
         "id": "virtuous",
         "manifest": "http://files.virtuousrom.com/virtuous.js",
+        "icon": "http://files.virtuousrom.com/icon.png",
         "roms": {
             "vision": "true",
             "inc": "true"

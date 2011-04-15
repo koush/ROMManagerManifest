@@ -961,6 +961,7 @@
         "developer": "NSCollab",
         "free": "true",
         "id": "frank707",
+        "icon": "http://studiousmedia.com/crespo/nscollabrm.png",
         "manifest": "http://studiousmedia.com/crespo/nscollab.js",
         "roms": {
             "crespo": "true"

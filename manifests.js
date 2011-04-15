@@ -535,7 +535,7 @@
         "summary": "DroidX Roms"
     },
     {
-        "developer": "suous",
+        "developer": "Virtuous",
         "free": "true",
         "id": "virtuous",
         "manifest": "http://files.virtuousrom.com/virtuous.js",

@@ -303,6 +303,7 @@
         "developer": "jcase",
         "free": "true",
         "id": "jcase",
+        "icon": "http://www.cunninglogic.com/android/jcase.png",
         "manifest": "http://cunninglogic.com/android/jcasemanifest.js",
         "roms": {
             "mecha": "true"

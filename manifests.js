@@ -911,6 +911,7 @@
         "developer": "Tp4bama",
         "free": "true",
         "id": "tp4bama",
+        "icon": "http://yeagsmedia.com/android/tp4bama/RomManagerManifest/tpavatar2.png",
         "manifest": "http://yeagsmedia.com/android/tp4bama/RomManagerManifest/manifest.js",
         "roms": {
             "sholes": "true"

@@ -767,6 +767,7 @@
         "developer": "t3hh4xx0r",
         "free": "true",
         "id": "r2d2",
+        "icon": "http://omfgb.github.com/rommanager_manifest/icon.png",
         "manifest": "http://omfgb.github.com/rommanager_manifest/manifest.js",
         "roms": {
             "mecha": "true",

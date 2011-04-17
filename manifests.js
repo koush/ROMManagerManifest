@@ -199,7 +199,7 @@
             "sholes": "true",
             "droidx": "true"
         },
-        "summary": "Additional themes and updates for Sapphire."
+        "summary": "Themes, goodies, and add-ons."
     },
     {
         "developer": "ChevyNo1",

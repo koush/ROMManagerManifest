@@ -1049,6 +1049,16 @@
         "summary": "TeamRC RCMixHD Beamingly Blazing HTC Sense Roms"
     },
     {
+        "developer": "gtg465x",
+        "free": "true",
+        "id": "gtg465x",
+        "manifest": "http://www.prism.gatech.edu/~gtg465x/ROMManagerManifest/gtg465x.js",
+        "roms": {
+            "ace": "true"
+        },
+        "summary": "ROMs and hax for your Inspire 4G"
+    },
+    {
         "developer": "Google Apps",
         "free": "true",
         "id": "drmacinyasha",

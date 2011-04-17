@@ -353,16 +353,6 @@
         "summary": "ROM's for HTC Desire and extras"
     },
     {
-        "developer": "RvU Team",
-        "free": "true",
-        "id": "rvu",
-        "manifest": "http://www.fleshdroid.com/RvU/manifest1.js",
-        "roms": {
-            "supersonic": "true"
-        },
-        "summary": "Custom ROM for the HTC Evo 4G"
-    },
-    {
         "developer": "OMJ",
         "free": "true",
         "id": "OMJ",

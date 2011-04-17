@@ -18,7 +18,7 @@ devices["devices"].each do |device|
   data = JSON.parse(data)
   data.each do |kernel|
     rmk = {
-      :modversion => kernel["kernel"],
+      :modversion => kernel["file"],
       :device => key,
       :url => "http://kernels.teamw.in/files/" + kernel["file"],
       :name => kernel["kernel"],

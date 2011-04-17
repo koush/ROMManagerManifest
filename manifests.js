@@ -95,7 +95,7 @@
     {
         "developer": "Extras",
         "free": "true",
-        "id": "cyanogenmod",
+        "id": "extras",
         "icon": "http://mirror.kanged.net/test/extras.png",
         "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
         "roms": {

@@ -1052,6 +1052,7 @@
         "developer": "gtg465x",
         "free": "true",
         "id": "gtg465x",
+        "icon": "http://www.prism.gatech.edu/~gtg465x/ROMManagerManifest/icon.png",
         "manifest": "http://www.prism.gatech.edu/~gtg465x/ROMManagerManifest/gtg465x.js",
         "roms": {
             "ace": "true"

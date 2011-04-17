@@ -21,7 +21,7 @@ devices["devices"].each do |device|
       :modversion => kernel["kernel"],
       :device => key,
       :url => "http://kernels.teamw.in/files/" + kernel["file"],
-      :name => kernel["shortdesc"],
+      :name => kernel["kernel"],
       :summary => kernel["desc"] + "\n\nAndroid Version: " + kernel["androidversion"] + "\n\nLinux Kernel Version: " + kernel["lnxkernelver"] + "\n\nOS Type: " + kernel["ostype"]
     }
   

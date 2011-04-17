@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "homepage": "market://details?id=com.teamwin.kernelmanager.free",
+  "homepage": "https://market.android.com/details?id=com.teamwin.kernelmanager.free",
   "donate": "http://bit.ly/hVLp6l",
   "roms": [
     {

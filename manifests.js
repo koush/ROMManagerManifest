@@ -663,17 +663,6 @@
         "summary": "MIUI ports by n_i_x"
     },
     {
-        "developer": "Fabolous",
-        "free": "true",
-        "id": "fabolous",
-        "manifest": "http://fabdroid.com/rommanager/fabolous.js",
-        "roms": {
-            "droid2": "true",
-            "droidx": "true"
-        },
-        "summary": "ROMS and Themes for Droid X/2"
-    },
-    {
         "developer": "Berzerker",
         "free": "true",
         "id": "berzerker",
@@ -838,15 +827,6 @@
             "sholes": "true"
         },
         "summary": "Source built ROM by GFlam & Eagle1967"
-    },
-    {
-        "developer": "DevsForAndroid",
-        "id": "DevsForAndroid",
-        "manifest": "http://www.devsforandroid.com/ROMManagerManifest/manifest.js",
-        "roms": {
-            "vibrant": "true"
-        },
-        "summary": "Giving you a reason, to own a phone"
     },
     {
         "developer": "Tedgy",

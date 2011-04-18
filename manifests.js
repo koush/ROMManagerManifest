@@ -481,6 +481,7 @@
         "developer": "Jamezelle",
         "free": "true",
         "id": "jamezelle",
+        "icon": "http://jamezelle.com/RomManagerManifest/jamezelle-RMicon.jpg",
         "manifest": "http://jamezelle.com/RomManagerManifest/manifest.js",
         "roms": {
             "mecha": "true"

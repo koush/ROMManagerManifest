@@ -1000,16 +1000,6 @@
         "summary": "Custom ROM's by trock79"
     },
     {
-        "developer": "RetroKid223",
-        "free": "true",
-        "id": "retrokid",
-        "manifest": "http://dl.dropbox.com/u/13751851/retrokid.js",
-        "roms": {
-            "mecha": "true"
-        },
-        "summary": "Themes for Sense Roms for Thunderbolt"
-    },
-    {
         "developer": "HyperDroid",
         "free": "true",
         "id": "hyperdroid",

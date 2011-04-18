@@ -483,10 +483,9 @@
         "id": "jamezelle",
         "manifest": "http://jamezelle.com/RomManagerManifest/manifest.js",
         "roms": {
-            "desirec": "true",
-            "sholes": "true"
+            "mecha": "true"
         },
-        "summary": "ROMS for the Droid and Droid Eris!"
+        "summary": "ROMS and more for the Thunderbolt!"
     },
     {
         "developer": "Pinkolin - Pinky Desire",

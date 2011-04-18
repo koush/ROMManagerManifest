@@ -462,7 +462,7 @@
         "free": "true",
         "id": "ihtfp69",
         "icon": "http://www.skyraider.us/images/icon.png",
-        "manifest": "http://pcjock.com/SkyRaider/manifest/skyraider.js",
+        "manifest": "http://www.skyraider.us/manifest/skyraider.js",
         "roms": {
             "inc": "true"
         },

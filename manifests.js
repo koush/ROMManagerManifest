@@ -886,6 +886,7 @@
         "developer": "CoreDroid",
         "free": "true",
         "id": "coredroid",
+        "icon": "http://coredroidroms.com/Roms/Desire_HD/CDLogo.png", 
         "manifest": "http://coredroidroms.com/Roms/Desire_HD/manifest.js",
         "roms": {
             "ace": "true"

@@ -461,6 +461,7 @@
         "developer": "Ihtfp69",
         "free": "true",
         "id": "ihtfp69",
+        "icon": "http://www.skyraider.us/images/icon.png",
         "manifest": "http://pcjock.com/SkyRaider/manifest/skyraider.js",
         "roms": {
             "inc": "true"

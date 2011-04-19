@@ -915,7 +915,8 @@
         roms:
         {
             fascinate: true,
-            vibrant: true
+            vibrant: true,
+            mecha: true
         }
     },
     {

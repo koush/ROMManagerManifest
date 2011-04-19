@@ -61,6 +61,20 @@
     },
     {
       "device": "supersonic",
+      "modversion": "200-SavagedZen-2.0.0-CFS-HAVS-WiMAX-GB-signed.zip",
+      "url": "http://kernels.teamw.in/files/200-SavagedZen-2.0.0-CFS-HAVS-WiMAX-GB-signed.zip",
+      "name": "Savaged-Zen .38 CFS",
+      "summary": "Custom AOSP Kernel for the Supersonic 4G. This kernel comes with HAVS w/sysfs interface, SBC w/sysfs interface, Undervolting and various other tweaks. First .38 Kernel released for Evo4G, and first kernel to have newly implemented the SBC sysfs interface, this means you can turn on/off SBC on the fly.\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.38.3\n\nOS Type: AOSP, MIUI"
+    },
+    {
+      "device": "supersonic",
+      "modversion": "201-SavagedZen-2.0.0-BFS-HAVS-WiMAX-GB-signed.zip",
+      "url": "http://kernels.teamw.in/files/201-SavagedZen-2.0.0-BFS-HAVS-WiMAX-GB-signed.zip",
+      "name": "Savaged-Zen .38 BFS",
+      "summary": "Custom AOSP Kernel for the Supersonic 4G. This kernel comes with HAVS w/sysfs interface, SBC w/sysfs interface, Undervolting and various other tweaks. First .38 Kernel released for Evo4G, and first kernel to have newly implemented the SBC sysfs interface, this means you can turn on/off SBC on the fly.\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.38.3\n\nOS Type: AOSP, MIUI"
+    },
+    {
+      "device": "supersonic",
       "modversion": "105-netarchy-toastmod-4.3.4-cfs-nohavs-suv-nosbc-uni-kman.zip",
       "url": "http://kernels.teamw.in/files/105-netarchy-toastmod-4.3.4-cfs-nohavs-suv-nosbc-uni-kman.zip",
       "name": "Netarchy Toastmod 4.3.4-cfs-nohavs-suv-nosbc",
@@ -147,7 +161,7 @@
       "device": "bravo",
       "modversion": "174-Tiamat_Desire-v3.3.7.zip",
       "url": "http://kernels.teamw.in/files/174-Tiamat_Desire-v3.3.7.zip",
-      "name": "Tiamat_Desire",
+      "name": "Tiamat_Bravo",
       "summary": "Based on the CyanogenMod's cm-kernel, Tiamat includes undervolting, unrestricted overclocking, Hybrid Adaptive Voltage Scaling, default smartass governor and various other improvements.\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.37.6\n\nOS Type: AOSP, MIUI"
     },
     {
@@ -168,7 +182,7 @@
       "device": "bravoc",
       "modversion": "175-Tiamat_DesireC-v3.3.7.zip",
       "url": "http://kernels.teamw.in/files/175-Tiamat_DesireC-v3.3.7.zip",
-      "name": "Tiamat_DesireC",
+      "name": "Tiamat_BravoC",
       "summary": "Based on the CyanogenMod's cm-kernel, Tiamat includes undervolting, unrestricted overclocking, Hybrid Adaptive Voltage Scaling, default smartass governor and various other improvements.\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.37.6\n\nOS Type: AOSP, MIUI"
     },
     {
@@ -191,6 +205,20 @@
       "url": "http://kernels.teamw.in/files/166-jdkernel_8_inc.zip",
       "name": "jdkernel",
       "summary": "Features:\r\n10mV Undervolt\r\nSBC Trickle Charge\r\nHAVS\r\nOverclockable! to 1.19ghz\r\nPatched to .37.6\r\nAll governors ( no smartass) \r\nOther misc fixes.\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.37.6\n\nOS Type: AOSP, Miui, Ging"
+    },
+    {
+      "device": "inc",
+      "modversion": "202-2.6.32.26-invisiblek-28-signed.zip",
+      "url": "http://kernels.teamw.in/files/202-2.6.32.26-invisiblek-28-signed.zip",
+      "name": "invisiblek #28",
+      "summary": "This is for aosp-based froyo roms only!\r\n\r\nHAVS, TinyRCU, smartass governor\n\nAndroid Version: 2.2\n\nLinux Kernel Version: 2.6.32\n\nOS Type: any aosp"
+    },
+    {
+      "device": "inc",
+      "modversion": "203-invisiblek-2.6.37.2-signed.zip",
+      "url": "http://kernels.teamw.in/files/203-invisiblek-2.6.37.2-signed.zip",
+      "name": "invisiblek gingerbread",
+      "summary": "This is for aosp-based gingerbread roms only!\r\n\r\nHAVS, smartass, nodebug\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.37\n\nOS Type: any aosp"
     },
     {
       "device": "liberty",
@@ -228,6 +256,55 @@
       "summary": "What it is?\r\nAll I did was to compile Speedmod (To be honest, I'm clueless what gizmos are sitting there, but its great)\r\nCredit should go to hardcore. He is author of this kernel, I'm responsible for breaking it and making bugs.\r\n\r\nWhat did you break?\r\n+ OC/UV features (this might fry your device)\r\n+ some clock changes to keep it stick more to 100mhz (should be at least)\n\nAndroid Version: 2.2\n\nLinux Kernel Version: 2.6.32.9\n\nOS Type: AOSP"
     },
     {
+      "device": "fascinate",
+      "modversion": "214-0415_imnuts_sv_voodoo.zip",
+      "url": "http://kernels.teamw.in/files/214-0415_imnuts_sv_voodoo.zip",
+      "name": "PeanutButta Jelly Time SV",
+      "summary": "Stock Voltage Voodoo Kernel\r\n\r\nChanges from previous Version:\r\nSimple IO Scheduler\r\nMoved SD Card speed tweak to init.d script so users can change the value\r\n-> Default value is 4096\r\nUpdated source to ED01 from Samsung\r\nBuilt with 2010q1 toolchain, updated from 2009q3\n\nAndroid Version: 2.2\n\nLinux Kernel Version: 2.6.32.9\n\nOS Type: TouchWiz"
+    },
+    {
+      "device": "fascinate",
+      "modversion": "215-0415_imnuts_50_voodoo.zip",
+      "url": "http://kernels.teamw.in/files/215-0415_imnuts_50_voodoo.zip",
+      "name": "PeanutButta Jelly Time 50V",
+      "summary": "50 Undervolt Voodoo Kernel\r\n75mV under stock voltage at 100/200MHz\r\n50mV under stock voltage at 400/800/1000MHz\r\n\r\nChanges from previous Version:\r\nSimple IO Scheduler\r\nMoved SD Card speed tweak to init.d script so users can change the value\r\n-> Default value is 4096\r\nUpdated source to ED01 from Samsung\r\nBuilt with 2010q1 toolchain, updated from 2009q3\n\nAndroid Version: 2.2\n\nLinux Kernel Version: 2.6.32.9\n\nOS Type: TouchWiz"
+    },
+    {
+      "device": "fascinate",
+      "modversion": "216-0415_imnuts_100_voodoo.zip",
+      "url": "http://kernels.teamw.in/files/216-0415_imnuts_100_voodoo.zip",
+      "name": "PeanutButta Jelly Time 100V",
+      "summary": "100 Undervolt Voodoo Kernel\r\n125mV under stock voltage at 100/200MHz\r\n100mV under stock voltage at 400/800MHz\r\n75 mV under stock voltage at 1000MHz\r\n\r\nChanges from previous Version:\r\nSimple IO Scheduler\r\nMoved SD Card speed tweak to init.d script so users can change the value\r\n-> Default value is 4096\r\nUpdated source to ED01 from Samsung\r\nBuilt with 2010q1 toolchain, updated from 2009q3\n\nAndroid Version: 2.2\n\nLinux Kernel Version: 2.6.32.9\n\nOS Type: TouchWiz"
+    },
+    {
+      "device": "fascinate",
+      "modversion": "211-0415_aosp_sv_voodoo.zip",
+      "url": "http://kernels.teamw.in/files/211-0415_aosp_sv_voodoo.zip",
+      "name": "PeanutButta Jelly Time AOSP SV",
+      "summary": "Stock Voltage AOSP Voodoo Kernel\r\n\r\nChanges from previous Version:\r\nSimple IO Scheduler\r\nMoved SD Card speed tweak to init.d script so users can change the value\r\n-> Default value is 4096\r\nUpdated source to ED01 from Samsung\r\nBuilt with 2010q1 toolchain, updated from 2009q3\n\nAndroid Version: 2.2\n\nLinux Kernel Version: 2.6.32.9\n\nOS Type: AOSP"
+    },
+    {
+      "device": "fascinate",
+      "modversion": "212-0415_aosp_50_voodoo.zip",
+      "url": "http://kernels.teamw.in/files/212-0415_aosp_50_voodoo.zip",
+      "name": "PeanutButta Jelly Time AOSP 50V",
+      "summary": "50 Undervolt AOSP Voodoo Kernel\r\n75mV under stock voltage at 100/200MHz\r\n50mV under stock voltage at 400/800/1000MHz\r\n\r\nChanges from previous Version:\r\nSimple IO Scheduler\r\nMoved SD Card speed tweak to init.d script so users can change the value\r\n-> Default value is 4096\r\nUpdated source to ED01 from Samsung\r\nBuilt with 2010q1 toolchain, updated from 2009q3\n\nAndroid Version: 2.2\n\nLinux Kernel Version: 2.6.32.9\n\nOS Type: AOSP"
+    },
+    {
+      "device": "fascinate",
+      "modversion": "213-0415_aosp_100_voodoo.zip",
+      "url": "http://kernels.teamw.in/files/213-0415_aosp_100_voodoo.zip",
+      "name": "PeanutButta Jelly Time AOSP 100V",
+      "summary": "100 Undervolt AOSP Voodoo Kernel\r\n125mV under stock voltage at 100/200MHz\r\n100mV under stock voltage at 400/800MHz\r\n75 mV under stock voltage at 1000MHz\r\n\r\nChanges from previous Version:\r\nSimple IO Scheduler\r\nMoved SD Card speed tweak to init.d script so users can change the value\r\n-> Default value is 4096\r\nUpdated source to ED01 from Samsung\r\nBuilt with 2010q1 toolchain, updated from 2009q3\n\nAndroid Version: 2.2\n\nLinux Kernel Version: 2.6.32.9\n\nOS Type: AOSP"
+    },
+    {
+      "device": "captivate",
+      "modversion": "196-TridentTestBuild.zip",
+      "url": "http://kernels.teamw.in/files/196-TridentTestBuild.zip",
+      "name": "Trident Test-Do not flash!",
+      "summary": "This kernel is overclock capable up to 1500 MHz and undervolt capable as well.  It has the Voodoo fixes (e.g. Sound, Color) and BLN.\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.35.11\n\nOS Type: CyanogenMod"
+    },
+    {
       "device": "ace",
       "modversion": "164-lordmodV3.0.3-CFS.zip",
       "url": "http://kernels.teamw.in/files/164-lordmodV3.0.3-CFS.zip",
@@ -236,8 +313,8 @@
     },
     {
       "device": "ace",
-      "modversion": "48-leppie-cm7-ace-0.1.zip",
-      "url": "http://kernels.teamw.in/files/48-leppie-cm7-ace-0.1.zip",
+      "modversion": "206-leppie-cm7-ace-0.2.zip",
+      "url": "http://kernels.teamw.in/files/206-leppie-cm7-ace-0.2.zip",
       "name": "leppie",
       "summary": "Dont use if you have ATMEL touchscreen. This kernel will not work for you.\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.32.28\n\nOS Type: CM7"
     },
@@ -289,13 +366,6 @@
       "url": "http://kernels.teamw.in/files/94-netarchy-nexus-1.3.0.2-bfs-2.3.3-kmanager.zip",
       "name": "Netarchy Nexus 1.3.0.2-bfs-AOSP",
       "summary": "Netarchy Nexus, a custom kernel for the Nexus-S\r\n\r\nCurrent Change List vs the stock kernel:\r\n- BFS (Courtesy of work by Con Kolivas) *In builds as marked*\r\n- Overclocking up to 1.4ghz enabled *overclocking not active by default, use a tool such as SetCPU or CM7's cpu performance settings to overclock* (Remember kids, not all phones tolerate overclocking equally)\r\n- BFQ (Courtesy of work by Paolo Valente)\r\n- Voodoo Sound driver - Courtesy of Project Voodoo\r\n- Voodoo Color (as of 1.2.4) - Courtesy of Project Voodoo\r\n- CIFS support\r\n- TUN support\r\n- NFS support (as of 1.2.4)\r\n- Kernel base 2.6.35.11 (as of 1.2.3)\r\n- Cpu policy fix to avoid crashes with SetCPU and screen off profiles (Courtesy of work by coolbho3000)\r\n- EXT4 performance boost\r\n- 1000hz\r\n- Interactive Governor (Use a tool such as SetCPU to change governors if you want to use it *still in need of some tuning*)\r\n- BLN (As of 1.3.0.1) Thanks to work by Neldar.\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.35.11\n\nOS Type: AOSP"
-    },
-    {
-      "device": "encore",
-      "modversion": "128-update-CM7-dalingrin-OC-emmc-041311A.zip",
-      "url": "http://kernels.teamw.in/files/128-update-CM7-dalingrin-OC-emmc-041311A.zip",
-      "name": "Test Kernel for Eyeballer",
-      "summary": "This is only a test. Regular users should ignore this.\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.32\n\nOS Type: CM"
     },
     {
       "device": "speedy",

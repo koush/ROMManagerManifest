@@ -257,10 +257,10 @@
     },
     {
       "device": "ace",
-      "modversion": "191-lordmodV4.0-BFS.zip",
-      "url": "http://kernels.teamw.in/files/191-lordmodV4.0-BFS.zip",
-      "name": "LorDmod V4.0 BFS",
-      "summary": "  KERNEL (for CM7 only, apparently works great for MIUI):\r\n\r\n        Kali-'s kernel 2.6.32.28\r\n        Battery drain fix included - by teamdesire (allready implemented in CM7)\r\n        Disabled BFQ scheduler and implemented Simple I/O scheduler\r\n        New Adreno 205 drivers like in nightly kernels\r\n        Kernel patched to 2.6.32.38\r\n        SMARTASS governor added and tweaked\r\n        CPU freq table totaly rewriten with lower voltages\r\n        OC up to 1990 MHz, min 122 MHz – DON'T GO OVER 1800MHz EXCEPT FOR SHOWOFF AT THE BAR I AM IN NO WAY RESPONSABLE FOR DHD SMOKING!!!\r\n        Volume boost 20%\r\n        SLQB slab memory allocator added\r\n        CFS (4.0) or BFS v363 (4.0) - difference for noobs\r\n        VDD user interface - usage\r\n        Patched libsqlite.so to disable db loops – thanx to ownhere\r\n        Under volt editions, UUV edition might not work for all.. use -25mV edition\r\n        Tiny RCU subsystem, Bloatware edition\r\n        Low level memory tweaks and fixes\r\n\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.32.38\n\nOS Type: CM7,AOSP,MIUI"
+      "modversion": "198-lordmodV4.1-BFS.zip",
+      "url": "http://kernels.teamw.in/files/198-lordmodV4.1-BFS.zip",
+      "name": "LorDmod V4.1 BFS",
+      "summary": "  KERNEL (for CM7 only, apparently works great for MIUI):\r\n\r\n        Kali-'s kernel 2.6.32.28\r\n        Battery drain fix included - by teamdesire (allready implemented in CM7)\r\n        Disabled BFQ scheduler and implemented Simple I/O scheduler\r\n        New Adreno 205 drivers like in nightly kernels\r\n        Kernel patched to 2.6.32.38\r\n        SMARTASS governor added and tweaked\r\n        CPU freq table totaly rewriten with lower voltages\r\n        OC up to 1990 MHz, min 122 MHz – DON'T GO OVER 1800MHz EXCEPT FOR SHOWOFF AT THE BAR I AM IN NO WAY RESPONSABLE FOR DHD SMOKING!!!\r\n        Volume boost 20%\r\n        SLQB slab memory allocator added\r\n        CFS (4.0) or BFS v400 (4.1) - difference for noobs\r\n        VDD user interface - usage\r\n        Patched libsqlite.so to disable db loops – thanx to ownhere\r\n        Under volt editions, UUV edition might not work for all.. use -25mV edition\r\n        Tiny RCU subsystem, Bloatware edition\r\n        Low level memory tweaks and fixes\r\n\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.32.38\n\nOS Type: CM7,AOSP,MIUI"
     },
     {
       "device": "crespo",

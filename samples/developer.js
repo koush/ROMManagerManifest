@@ -8,7 +8,8 @@
         // This would ideally be your Github id, so when you send me your manifest
         // I can verify who you are. But it can be anything really.
         "id": "cyanogenmod",
-        // The icon you want to show up next to your section
+        // The icon you want to show up next to your section. Make sure it is a
+        // 128x128 PNG. Transparency is OK.
         "icon": "http://mirror.kanged.net//test/cm.png",
         // The location of the developer's manifest.
         "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",

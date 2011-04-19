@@ -1055,6 +1055,18 @@
             "all": "true"
         },
         "summary": "Add-on for AOSP ROMs, such as CM"
-    }],
+    },
+    {
+        "developer": "Einherjar Dev Team",
+        "free": "true",
+        "id": "einherjar",
+        "icon": "http://edtdev.com/rom_manager/edt_128.png",
+        "manifest": "http://edtdev.com/rom_manager/edtmanifest.js",
+        "roms": {
+            "vibrant": "true"
+        },
+        "summary": "Vibrant ROMs, kernels, themes, and more!"
+    }
+    ],
     "minversion": "2000"
 }

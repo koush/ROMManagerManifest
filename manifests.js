@@ -646,6 +646,7 @@
     {
         "developer": "SnkBitten",
         "id": "SnkBitten",
+        "icon": "http://android.snkbitten.com/ROMManagerManifest/SnkBitten.png",
         "manifest": "http://android.snkbitten.com/ROMManagerManifest/SnkBitten.js",
         "roms": {
             "sholes": "true"

@@ -700,6 +700,7 @@
         "id": "Sonofskywalker3",
         "manifest": "http://www.androiddoes.net/~sonofskywalker3/Manifest/Sonofskywalker3_Manifest.js",
         "roms": {
+            "mecha": "true",
             "fascinate": "true",
             "vibrant": "true"
         },

@@ -90,7 +90,7 @@
         "alternate_recovery": {
             "url": "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-supersonic-v2.3.img",
             "clockwork": false,
-            "name": "RA Recovery v2.2.2"
+            "name": "RA Recovery v2.3"
         },
         "name": "HTC Evo (CDMA)",
         "init": "init.supersonic.rc",

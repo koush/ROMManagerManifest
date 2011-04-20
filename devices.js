@@ -459,6 +459,24 @@
         "key": "speedy"
     },
     {
+        "name": "Captivate (MTD)",
+        "init": "init.aries.rc",
+        "key": "captivatemtd",
+        "officially_supported": false
+    },
+    {
+        "name": "Vibrant (MTD)",
+        "init": "init.aries.rc",
+        "key": "vibrantmtd",
+        "officially_supported": false
+    },
+    {
+        "name": "i9000 (MTD)",
+        "init": "init.aries.rc",
+        "key": "i9000mtd",
+        "officially_supported": false
+    },
+    {
         "name": "Epic4G",
         "init": "init.smdkc110.rc",
         "key": "epic4g",

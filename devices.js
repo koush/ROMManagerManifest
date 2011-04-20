@@ -462,9 +462,8 @@
         "legacy_versions": ["3.0.2.4", "3.0.1.4"],
         "name": "Epic4G",
         "init": "init.smdkc110.rc",
-        "version": "3.0.2.4",
         "key": "epic4g",
-        "readonly_recovery": true
+        "officially_supported": false
     },
     {
         "legacy_versions": ["3.0.2.0", "3.0.1.9", "3.0.1.8", "3.0.1.7"],

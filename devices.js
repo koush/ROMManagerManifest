@@ -459,7 +459,6 @@
         "key": "speedy"
     },
     {
-        "legacy_versions": ["3.0.2.4", "3.0.1.4"],
         "name": "Epic4G",
         "init": "init.smdkc110.rc",
         "key": "epic4g",

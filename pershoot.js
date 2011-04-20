@@ -72,30 +72,30 @@
     //ViewSonic Gtab and Malata Zpad (Froyo)
     {
         "name": "Kernel 2.6.32.38 - OC-UV-XTRA-VFP_FP",
-        "summary": "0415 - Harmony (Gtab/Zpad - Froyo) - 20:00",
+        "summary": "0419 - Harmony (Gtab/Zpad - Froyo) - 23:00",
         "device": "harmony",
-        "url": "http://droidbasement.com/gtab/kernels/2632/31/boot-cm_2632.38-oc-uv-xtra-vfp_fp-041511.zip"
+        "url": "http://droidbasement.com/gtab/kernels/2632/32/boot-cm_2632.38-oc-uv-xtra-vfp_fp-041911.zip"
     },
     //ViewSonic Gtab and Malata Zpad (Gingerbread)
     {
         "name": "Kernel 2.6.32.38 - OC-UV-XTRA-VFP_FP",
-        "summary": "0415 - Harmony (Gtab/Zpad - Gingerbread) - 20:00",
+        "summary": "0419 - Harmony (Gtab/Zpad - Gingerbread) - 23:00",
         "device": "harmony",
-        "url": "http://droidbasement.com/gtab/kernels/2632/31/boot-cm_2632.38_gb-oc-uv-xtra-vfp_fp-041511.zip"
+        "url": "http://droidbasement.com/gtab/kernels/2632/32/boot-cm_2632.38_gb-oc-uv-xtra-vfp_fp-041911.zip"
     },
     //Malata Zpad [New Bootloader] (Froyo)
     {
         "name": "Kernel 2.6.32.38 - OC-UV-XTRA-VFP_FP",
-        "summary": "0415 - Harmony (Zpad - Froyo) - 19:00",
+        "summary": "0419 - Harmony (Zpad - Froyo) - 23:00",
         "device": "harmony",
-        "url": "http://droidbasement.com/gtab/kernels/2632/31/zpad/boot-cm_2632.38_zpad_newbl-oc-uv-xtra-vfp_fp-041511.zip"
+        "url": "http://droidbasement.com/gtab/kernels/2632/32/zpad/boot-cm_2632.38_zpad_newbl-oc-uv-xtra-vfp_fp-041911.zip"
     },
     //Malata Zpad [New Bootloader] (Gingerbread)
     {
         "name": "Kernel 2.6.32.38 - OC-UV-XTRA-VFP_FP",
-        "summary": "0415 - Harmony (Zpad - Gingerbread) - 20:00",
+        "summary": "0419 - Harmony (Zpad - Gingerbread) - 23:00",
         "device": "harmony",
-        "url": "http://droidbasement.com/gtab/kernels/2632/31/zpad/boot-cm_2632.38_gb_zpad_newbl-oc-uv-xtra-vfp_fp-041511.zip"
+        "url": "http://droidbasement.com/gtab/kernels/2632/32/zpad/boot-cm_2632.38_gb_zpad_newbl-oc-uv-xtra-vfp_fp-041911.zip"
     }
     //END
     ]

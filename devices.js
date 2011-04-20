@@ -462,7 +462,8 @@
         "name": "Captivate (MTD)",
         "init": "init.aries.rc",
         "key": "captivatemtd",
-        "officially_supported": false
+        "version": "3.0.2.5",
+        "readonly_recovery": true
     },
     {
         "name": "Vibrant (MTD)",

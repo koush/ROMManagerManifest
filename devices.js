@@ -187,7 +187,7 @@
     {
         "legacy_versions": ["2.5.1.2", "2.5.1.4", "2.5.1.3", "2.5.1.1"],
         "name": "Galaxy S i9000",
-        "init": "init.smdkc110.rc",
+        "init": "lpm.rc",
         "version": "2.5.1.2",
         "key": "galaxys",
         "readonly_recovery": true

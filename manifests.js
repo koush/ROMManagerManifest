@@ -1071,7 +1071,7 @@
             "sapphire": "true",
             "magic": "true" 
         },
-          "summary": "A AOSP(using the latest CM/EzGB sources)rom for D/S (supporting Ebi0,2708,Ebi1 devices")
+        "summary": "An AOSP ROM using the latest CM/EzGB sources for D/S, supporting EBI0, 2708, EBI1 devices"
     }
     ],
     "minversion": "2000"

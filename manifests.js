@@ -1076,7 +1076,7 @@
         "free": "true",
         "id": "roalex",
         "icon": "http://k002.kiwi6.com/hotlink/1x4h2gin4z/cos_ds.png",
-        "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
+        "manifest": "http://dl.dropbox.com/u/14294263/cos-ds.js",
         "roms": {
             "dream": "true",
             "sapphire": "true",

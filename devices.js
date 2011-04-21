@@ -481,6 +481,7 @@
         "name": "LG Optimus One",
         "init": "init.rc",
         "key": "optimusone",
+        "reboot_recovery": "echo boot-recovery | dd of=/dev/block/mmcblk0p3 bs=1 seek=6144 && reboot ; ",
         "officially_supported": false
     },
     {

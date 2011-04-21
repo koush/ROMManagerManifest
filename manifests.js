@@ -520,13 +520,15 @@
         "summary": "Senseless deodexed Rom for Droid Incredible with couple of twists"
     },
     {
-        "developer": "LiQuID FroZeN YoGurT",
+        "developer": "Liquid Smooth Roms",
+        "free": "true",
         "id": "LiquID",
-        "manifest": "http://android.markjohnston.us/DL/LFY/ROMGR/manifest.js",
+        "manifest": "http://jbroom.com/android/rommanager/manifest.js",
         "roms": {
             "sholes": "true"
+            "mecha": "true"
         },
-        "summary": "Source Built FRG22 Froyo Roms and Themes"
+        "summary": "Source Built Gingerbread Roms and Themes"
     },
     {
         "developer": "birdman",

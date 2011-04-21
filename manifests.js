@@ -523,7 +523,7 @@
         "developer": "Liquid Smooth Roms",
         "free": "true",
         "id": "LiquID",
-        "manifest": "http://jbroom.com/android/rommanager/manifest.js",
+        "manifest": "http://android.jbroom.com/rommanager/manifest.js",
         "roms": {
             "sholes": "true"
             "mecha": "true"

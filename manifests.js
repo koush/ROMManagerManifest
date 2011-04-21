@@ -1079,7 +1079,8 @@
         "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
         "roms": {
             "dream": "true",
-            "sapphire": "true" 
+            "sapphire": "true",
+            "magic": "true" 
         },
           "summary": "A AOSP(using the latest CM/EzGB sources)rom for D/S (supporting Ebi0,2708,Ebi1 devices")
     }

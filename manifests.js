@@ -1028,6 +1028,7 @@
         "developer": "TeamRC",
         "free": "true",
         "id": "capychimp",
+        "icon": "http://capychimp.dk/rcmix/rc.png",
         "manifest": "http://capychimp.dk/rcmix/rcmix.js",
         "roms": {
             "ace": "true"

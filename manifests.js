@@ -525,8 +525,9 @@
         "id": "LiquID",
         "manifest": "http://android.jbroom.com/rommanager/manifest.js",
         "roms": {
-            "sholes": "true"
-            "mecha": "true"
+            "sholes": "true",
+            "mecha": "true",
+            "crespo": "true"
         },
         "summary": "Source Built Gingerbread Roms and Themes"
     },

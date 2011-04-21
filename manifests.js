@@ -1039,17 +1039,6 @@
         "summary": "ROMs and hax for your Inspire 4G"
     },
     {
-        "developer": "Google Apps",
-        "free": "true",
-        "id": "drmacinyasha",
-        "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
-        "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
-        "roms": {
-            "all": "true"
-        },
-        "summary": "Add-on for AOSP ROMs, such as CM"
-    },
-    {
         "developer": "Einherjar Dev Team",
         "free": "true",
         "id": "einherjar",
@@ -1072,6 +1061,17 @@
             "magic": "true" 
         },
         "summary": "An AOSP ROM using the latest CM/EzGB sources for D/S, supporting EBI0, 2708, EBI1 devices"
+    },
+    {
+        "developer": "Google Apps",
+        "free": "true",
+        "id": "drmacinyasha",
+        "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
+        "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
+        "roms": {
+            "all": "true"
+        },
+        "summary": "Add-on for AOSP ROMs, such as CM"
     }
     ],
     "minversion": "2000"

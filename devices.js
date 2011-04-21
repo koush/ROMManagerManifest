@@ -478,6 +478,12 @@
         "officially_supported": false
     },
     {
+        "name": "LG Optimus One",
+        "init": "init.rc",
+        "key": "optimusone",
+        "officially_supported": false
+    },
+    {
         "name": "Epic4G",
         "init": "init.smdkc110.rc",
         "key": "epic4g",

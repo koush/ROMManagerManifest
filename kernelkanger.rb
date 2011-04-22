@@ -9,6 +9,8 @@ headers = { "Content-Type" => "application/x-www-form-urlencoded" }
 devices = JSON.parse(open("http://rommanager.appspot.com/manifests/devices.js").read)
 kernels = []
 
+supported = {}
+
 devices["devices"].each do |device|
   key = device["key"]
   puts key
@@ -17,6 +19,7 @@ devices["devices"].each do |device|
 
   data = JSON.parse(data)
   data.each do |kernel|
+    supported[key] = true
     rmk = {
       :modversion => kernel["file"],
       :device => key,
@@ -38,3 +41,13 @@ wrapper = {
 }
 
 File.open("kernelmanager.js", "w").write(JSON.pretty_generate(wrapper))
+
+manifest = JSON.parse(File.open("manifests.js").read)
+
+manifest["manifests"].each do |developer|
+  if developer["id"] == "teamwin" then
+    developer["roms"] = supported
+  end
+end
+
+File.open("manifests.js", "w").write(JSON.pretty_generate(manifest))

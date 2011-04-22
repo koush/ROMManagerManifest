@@ -26,7 +26,7 @@ if found_device == nil then
   found_device["key"] = key
   found_device["init"] = "init." + key + ".rc"
   name = "key"
-  devices.push found_device
+  devices["devices"].push found_device
 end
 
 if found_device["version"] != nil then

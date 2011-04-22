@@ -798,6 +798,7 @@
     },
     {
       "name": "HTC Desire S",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=262144 ; ",
       "version": "3.0.2.6",
       "init": "init.saga.rc",
       "key": "saga"

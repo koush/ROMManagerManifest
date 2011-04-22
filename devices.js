@@ -479,7 +479,7 @@
     },
     {
         "name": "LG Optimus One",
-        "init": "init.rc",
+        "init": "init.thunderg.rc",
         "key": "optimusone",
         "officially_supported": false
     },

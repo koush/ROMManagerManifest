@@ -18,19 +18,22 @@ found_device = nil
 devices["devices"].each do |device|
   if device["key"] == key then
     found_device = device["key"]
-    legacy_version = device["version"]
-    if legacy_version != nil then
-      if device["legacy_versions"] == nil then
-        device["legacy_versions"] = []
-      end
-      device["legacy_versions"].push legacy_version
-    end
-    device["version"] = version
   end
 end
 
 if found_device == nil then
-  puts "Could not find device"
+  found_device = {}
+  found_device["key"] = key
+  found_device["init"] = "init." + key + ".rc"
+  name = "key"
 end
+
+if found_device["version"] != nil then
+  if found_device["legacy_versions"] == nil then
+    found_device["legacy_versions"] = []
+  end
+  found_device["legacy_versions"].push found_device["version"]
+end
+found_device["version"] = version
 
 File.open("devices.js", "w").write(JSON.pretty_generate(devices))

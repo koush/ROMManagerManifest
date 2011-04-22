@@ -790,11 +790,11 @@
       "key": "zeppelin"
     },
     {
-      "name": "key",
+      "name": "HTC Incredible S",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=262144 ; ",
       "version": "3.0.2.6",
       "init": "init.vivo.rc",
-      "key": "HTC Incredible S"
+      "key": "incs"
     }
   ],
   "version": "2.5.0.1",

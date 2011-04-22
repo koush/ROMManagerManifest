@@ -25,7 +25,7 @@ if found_device == nil then
   found_device = {}
   found_device["key"] = key
   found_device["init"] = "init." + key + ".rc"
-  found_device["name"] = "key"
+  found_device["name"] = key
   devices["devices"].push found_device
 end
 

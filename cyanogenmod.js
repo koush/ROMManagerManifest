@@ -635,12 +635,6 @@
         ]
     },
     {
-        "device": "crespo",
-        "name": "testing",
-        "modversion": "testing",
-        "summary": "Release Candidate"
-    },
-    {
         "device": "dream",
         "name": "CyanogenMod 6.1.0",
         "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-DS-signed.zip",

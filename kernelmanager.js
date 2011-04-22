@@ -12,38 +12,66 @@
     },
     {
       "device": "passion",
-      "modversion": "197-2.6.38.3_AVS-950mV-CM7_CFS_20110417_2257.zip",
-      "url": "http://kernels.teamw.in/files/197-2.6.38.3_AVS-950mV-CM7_CFS_20110417_2257.zip",
+      "modversion": "234-2.6.38.3_AVS-950mV-CM7_CFS_20110419_0012.zip",
+      "url": "http://kernels.teamw.in/files/234-2.6.38.3_AVS-950mV-CM7_CFS_20110419_0012.zip",
       "name": "ReDSTaR Karnal",
-      "summary": "Based off intersectRaven, with Bacon Cooking power from Cyanogen\r\n\r\nCompiled using the 'Mjolnir Toolchain' and comes full of lucky charms.\r\n\r\nWorks well with any bacon... :)\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.38.3\n\nOS Type: Cyanogen"
+      "summary": "Based off intersectRaven, with Bacon Cooking power from Cyanogen\r\n\r\nCompiled using the 'Mjolnir Toolchain' and comes full of lucky charms.\r\n\r\nWorks well with any bacon... :)\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.38.3\n\nOS Type: CM"
     },
     {
       "device": "passion",
       "modversion": "139-2.6.38.3_AVS-950mV-CM7-OC_1152_CFS_20110415_1433.zip",
       "url": "http://kernels.teamw.in/files/139-2.6.38.3_AVS-950mV-CM7-OC_1152_CFS_20110415_1433.zip",
       "name": "ReDSTaR Karnal - OC 1152MHz",
-      "summary": "Based off intersectRaven, with Bacon Cooking power from Cyanogen\r\n\r\nCompiled using the 'Mjolnir Toolchain' and comes full of lucky charms.\r\n\r\nWorks well with any bacon... :)\r\n\r\nAllows overclocking to 1152MHz\r\nYou are flashing this kernel at your own risk!\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.38.3\n\nOS Type: Cyanogen"
+      "summary": "Based off intersectRaven, with Bacon Cooking power from Cyanogen\r\n\r\nCompiled using the 'Mjolnir Toolchain' and comes full of lucky charms.\r\n\r\nWorks well with any bacon... :)\r\n\r\nAllows overclocking to 1152MHz\r\nYou are flashing this kernel at your own risk!\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.38.3\n\nOS Type: CM"
     },
     {
       "device": "passion",
       "modversion": "140-2.6.38.3_AVS-950mV-CM7-NOBOOST_CFS_20110415_1436.zip",
       "url": "http://kernels.teamw.in/files/140-2.6.38.3_AVS-950mV-CM7-NOBOOST_CFS_20110415_1436.zip",
       "name": "ReDSTaR Karnal - NOBOOST",
-      "summary": "Based off intersectRaven, with Bacon Cooking power from Cyanogen\r\n\r\nCompiled using the 'Mjolnir Toolchain' and comes full of lucky charms.\r\n\r\nWorks well with any bacon... :)\r\n\r\nNon-Audio-Boost Kernel\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.38.3\n\nOS Type: Cyanogen"
+      "summary": "Based off intersectRaven, with Bacon Cooking power from Cyanogen\r\n\r\nCompiled using the 'Mjolnir Toolchain' and comes full of lucky charms.\r\n\r\nWorks well with any bacon... :)\r\n\r\nNon-Audio-Boost Kernel\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.38.3\n\nOS Type: CM"
     },
     {
       "device": "passion",
       "modversion": "141-2.6.38.3_AVS-950mV-CM7-OC_1190_EXTREME_CFS_20110415_1439.zip",
       "url": "http://kernels.teamw.in/files/141-2.6.38.3_AVS-950mV-CM7-OC_1190_EXTREME_CFS_20110415_1439.zip",
       "name": "ReDSTaR Karnal - OC 1190MHz",
-      "summary": "Based off intersectRaven, with Bacon Cooking power from Cyanogen\r\n\r\nCompiled using the 'Mjolnir Toolchain' and comes full of lucky charms.\r\n\r\nWorks well with any bacon... :)\r\n\r\nBy flashing this kernel you take full responsibility for what happens!\r\nI will not be liable for damage caused by overclocking!\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.38.3\n\nOS Type: Cyanogen"
+      "summary": "Based off intersectRaven, with Bacon Cooking power from Cyanogen\r\n\r\nCompiled using the 'Mjolnir Toolchain' and comes full of lucky charms.\r\n\r\nWorks well with any bacon... :)\r\n\r\nBy flashing this kernel you take full responsibility for what happens!\r\nI will not be liable for damage caused by overclocking!\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.38.3\n\nOS Type: CM"
+    },
+    {
+      "device": "passion",
+      "modversion": "235-2.6.38.3_AVS-950mV-CM7_BFS_20110419_0016.zip",
+      "url": "http://kernels.teamw.in/files/235-2.6.38.3_AVS-950mV-CM7_BFS_20110419_0016.zip",
+      "name": "ReDSTaR Karnal - BFS",
+      "summary": "Based off intersectRaven, with Bacon Cooking power from Cyanogen\r\n\r\nCompiled using the 'Mjolnir Toolchain' and comes full of lucky charms.\r\n\r\nWorks well with any bacon... :)\r\n\r\nThis kernel includes the Brain Fuck Scheduler! :D\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.38.3\n\nOS Type: CM"
+    },
+    {
+      "device": "passion",
+      "modversion": "244-CM7-N1-kernel.zip",
+      "url": "http://kernels.teamw.in/files/244-CM7-N1-kernel.zip",
+      "name": "Official CyanogenMod 7 Kernel",
+      "summary": "This is the CM7 kernel from the 7.0-final build.\r\n\r\nVery stable kernel that includes overclocking. No other special features, in order to maintain the stability.\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.37\n\nOS Type: CM"
+    },
+    {
+      "device": "hero",
+      "modversion": "252-CM7-hero-kernel.zip",
+      "url": "http://kernels.teamw.in/files/252-CM7-hero-kernel.zip",
+      "name": "Official CyanogenMod 7 Kernel",
+      "summary": "This is the CM7 kernel from the 7.0-final build.\r\n\r\nVery stable kernel that includes overclocking. No other special features, in order to maintain the stability.\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.37\n\nOS Type: CM"
+    },
+    {
+      "device": "heroc",
+      "modversion": "249-CM7-heroc-kernel.zip",
+      "url": "http://kernels.teamw.in/files/249-CM7-heroc-kernel.zip",
+      "name": "Official CyanogenMod 7 Kernel",
+      "summary": "This is the CM7 kernel from the 7.0-final build.\r\n\r\nVery stable kernel that includes overclocking. No other special features, in order to maintain the stability.\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.37\n\nOS Type: CM"
     },
     {
       "device": "supersonic",
-      "modversion": "121-cyanogenmod-2.6.37.zip",
-      "url": "http://kernels.teamw.in/files/121-cyanogenmod-2.6.37.zip",
-      "name": "CyanogenMod Kernel",
-      "summary": "This is the CM kernel pulled from CyanogenMod nightly 36. Doesn't have a lot of the \"features\" but it is super stable.\n\nAndroid Version: 2.3\n\nLinux Kernel Version: \n\nOS Type: CM"
+      "modversion": "253-CM7-kernel-supersonic.zip",
+      "url": "http://kernels.teamw.in/files/253-CM7-kernel-supersonic.zip",
+      "name": "Official CyanogenMod 7 Kernel",
+      "summary": "This is the CM7 kernel from the 7.0-final build.\r\n\r\nVery stable kernel that includes overclocking. No other special features, in order to maintain the stability.\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.37\n\nOS Type: CM"
     },
     {
       "device": "supersonic",
@@ -144,6 +172,20 @@
       "summary": "HTC Stock Kernel for System version 3.70.651.1\n\nAndroid Version: 2.2\n\nLinux Kernel Version: 2.6.34\n\nOS Type: Sense"
     },
     {
+      "device": "supersonic",
+      "modversion": "224-3.70.651.1_SBC.zip",
+      "url": "http://kernels.teamw.in/files/224-3.70.651.1_SBC.zip",
+      "name": "HTC Stock Kernel (w/SBC) 3.70.651.1",
+      "summary": "HTC Stock Kernel for System version 3.70.651.1, includes SBC mod.\n\nAndroid Version: 2.2\n\nLinux Kernel Version: 2.6.32\n\nOS Type: Sense"
+    },
+    {
+      "device": "legend",
+      "modversion": "247-CM7-legend-kernel.zip",
+      "url": "http://kernels.teamw.in/files/247-CM7-legend-kernel.zip",
+      "name": "Official CyanogenMod 7 Kernel",
+      "summary": "This is the CM7 kernel from the 7.0-final build.\r\n\r\nVery stable kernel that includes overclocking. No other special features, in order to maintain the stability.\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.37\n\nOS Type: CM"
+    },
+    {
       "device": "bravo",
       "modversion": "88-vorkKernel-720p-SVS-CFS.zip",
       "url": "http://kernels.teamw.in/files/88-vorkKernel-720p-SVS-CFS.zip",
@@ -177,6 +219,13 @@
       "url": "http://kernels.teamw.in/files/53-ManU-1.4-GB-HAVS-128-CFS.zip",
       "name": "ManU Gingerbread HAVS",
       "summary": "2.6.35 based kernel for optimized battery usage.\r\nHAVS  sysfs interface for controlling the voltages at different clock speeds\r\n\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.35\n\nOS Type: AOSP"
+    },
+    {
+      "device": "bravo",
+      "modversion": "238-official-cm7-kernel-desire.zip",
+      "url": "http://kernels.teamw.in/files/238-official-cm7-kernel-desire.zip",
+      "name": "Official CyanogenMod 7 Kernel",
+      "summary": "This is the CM7 kernel from the 7.0-final build.\r\n\r\nVery stable kernel that includes overclocking. No other special features, in order to maintain the stability.\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.37\n\nOS Type: CM"
     },
     {
       "device": "bravoc",
@@ -221,11 +270,32 @@
       "summary": "This is for aosp-based gingerbread roms only!\r\n\r\nHAVS, smartass, nodebug\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.37\n\nOS Type: any aosp"
     },
     {
-      "device": "liberty",
-      "modversion": "168-drowningkernel_6-7.zip",
-      "url": "http://kernels.teamw.in/files/168-drowningkernel_6-7.zip",
-      "name": "Drowning Kernel 7",
-      "summary": "Based off of the CM kernel.\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.32\n\nOS Type: CM"
+      "device": "inc",
+      "modversion": "250-CM7-inc-kernel.zip",
+      "url": "http://kernels.teamw.in/files/250-CM7-inc-kernel.zip",
+      "name": "Official CyanogenMod 7 Kernel",
+      "summary": "This is the CM7 kernel from the 7.0-final build.\r\n\r\nVery stable kernel that includes overclocking. No other special features, in order to maintain the stability.\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.37\n\nOS Type: CM"
+    },
+    {
+      "device": "buzz",
+      "modversion": "241-official-cm7-kernel-buzz.zip",
+      "url": "http://kernels.teamw.in/files/241-official-cm7-kernel-buzz.zip",
+      "name": "Official CyanogenMod 7 Kernel",
+      "summary": "This is the CM7 kernel from the 7.0-final build.\r\n\r\nVery stable kernel that includes overclocking. No other special features, in order to maintain the stability.\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.37\n\nOS Type: CM"
+    },
+    {
+      "device": "buzz",
+      "modversion": "242-official-htc-kernel-buzz.zip",
+      "url": "http://kernels.teamw.in/files/242-official-htc-kernel-buzz.zip",
+      "name": "Stock HTC Kernel",
+      "summary": "This is the stock HTC kernel.\r\n\r\nVery stable kernel. No special features.\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.37\n\nOS Type: CM"
+    },
+    {
+      "device": "espresso",
+      "modversion": "245-official-cm7-kernel-espresso.zip",
+      "url": "http://kernels.teamw.in/files/245-official-cm7-kernel-espresso.zip",
+      "name": "Official CyanogenMod 7 Kernel",
+      "summary": "This is the CM7 kernel from the 7.0-final build.\r\n\r\nVery stable kernel that includes overclocking. No other special features, in order to maintain the stability.\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.37\n\nOS Type: CM"
     },
     {
       "device": "galaxys",
@@ -299,10 +369,24 @@
     },
     {
       "device": "captivate",
-      "modversion": "196-TridentTestBuild.zip",
-      "url": "http://kernels.teamw.in/files/196-TridentTestBuild.zip",
-      "name": "Trident Test-Do not flash!",
-      "summary": "This kernel is overclock capable up to 1500 MHz and undervolt capable as well.  It has the Voodoo fixes (e.g. Sound, Color) and BLN.\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.35.11\n\nOS Type: CyanogenMod"
+      "modversion": "254-Trident.zip",
+      "url": "http://kernels.teamw.in/files/254-Trident.zip",
+      "name": "trident, but its a super secret test build that doesn't work... ",
+      "summary": "This kernel is overclock capable up to 1500 MHz and undervolt capable as well.  It has the Voodoo fixes (e.g. Sound, Color) and BLN.\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.35.11\n\nOS Type: CM"
+    },
+    {
+      "device": "vision",
+      "modversion": "239-CM7-vision-kernel.zip",
+      "url": "http://kernels.teamw.in/files/239-CM7-vision-kernel.zip",
+      "name": "Official CyanogenMod 7 Kernel",
+      "summary": "This is the CM7 kernel from the 7.0-final build.\r\n\r\nVery stable kernel that includes overclocking. No other special features, in order to maintain the stability.\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.37\n\nOS Type: CM"
+    },
+    {
+      "device": "glacier",
+      "modversion": "246-official-cm7-kernel-glacier.zip",
+      "url": "http://kernels.teamw.in/files/246-official-cm7-kernel-glacier.zip",
+      "name": "Official CyanogenMod 7 Kernel",
+      "summary": "This is the CM7 kernel from the 7.0-final build.\r\n\r\nVery stable kernel that includes overclocking. No other special features, in order to maintain the stability.\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.32\n\nOS Type: CM"
     },
     {
       "device": "ace",
@@ -313,8 +397,8 @@
     },
     {
       "device": "ace",
-      "modversion": "206-leppie-cm7-ace-0.2.zip",
-      "url": "http://kernels.teamw.in/files/206-leppie-cm7-ace-0.2.zip",
+      "modversion": "222-leppie-cm7-ace-0.2.zip",
+      "url": "http://kernels.teamw.in/files/222-leppie-cm7-ace-0.2.zip",
       "name": "leppie",
       "summary": "Dont use if you have ATMEL touchscreen. This kernel will not work for you.\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.32.28\n\nOS Type: CM7"
     },
@@ -338,6 +422,20 @@
       "url": "http://kernels.teamw.in/files/198-lordmodV4.1-BFS.zip",
       "name": "LorDmod V4.1 BFS",
       "summary": "  KERNEL (for CM7 only, apparently works great for MIUI):\r\n\r\n        Kali-'s kernel 2.6.32.28\r\n        Battery drain fix included - by teamdesire (allready implemented in CM7)\r\n        Disabled BFQ scheduler and implemented Simple I/O scheduler\r\n        New Adreno 205 drivers like in nightly kernels\r\n        Kernel patched to 2.6.32.38\r\n        SMARTASS governor added and tweaked\r\n        CPU freq table totaly rewriten with lower voltages\r\n        OC up to 1990 MHz, min 122 MHz – DON'T GO OVER 1800MHz EXCEPT FOR SHOWOFF AT THE BAR I AM IN NO WAY RESPONSABLE FOR DHD SMOKING!!!\r\n        Volume boost 20%\r\n        SLQB slab memory allocator added\r\n        CFS (4.0) or BFS v400 (4.1) - difference for noobs\r\n        VDD user interface - usage\r\n        Patched libsqlite.so to disable db loops – thanx to ownhere\r\n        Under volt editions, UUV edition might not work for all.. use -25mV edition\r\n        Tiny RCU subsystem, Bloatware edition\r\n        Low level memory tweaks and fixes\r\n\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.32.38\n\nOS Type: CM7,AOSP,MIUI"
+    },
+    {
+      "device": "ace",
+      "modversion": "236-official-CM7-desire-hd.zip",
+      "url": "http://kernels.teamw.in/files/236-official-CM7-desire-hd.zip",
+      "name": "Official CyanogenMod 7 Kernel",
+      "summary": "This is the CM7 kernel from the 7.0-final build.\r\n\r\nVery stable kernel that includes overclocking. No other special features, in order to maintain the stability.\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.37\n\nOS Type: CM"
+    },
+    {
+      "device": "harmony",
+      "modversion": "248-official-cm7-kernel-harmony.zip",
+      "url": "http://kernels.teamw.in/files/248-official-cm7-kernel-harmony.zip",
+      "name": "Official CyanogenMod 7 Kernel",
+      "summary": "This is the CM7 kernel from the 7.0-final build.\r\n\r\nVery stable kernel that includes overclocking. No other special features, in order to maintain the stability.\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.37\n\nOS Type: CM"
     },
     {
       "device": "crespo",
@@ -366,6 +464,20 @@
       "url": "http://kernels.teamw.in/files/94-netarchy-nexus-1.3.0.2-bfs-2.3.3-kmanager.zip",
       "name": "Netarchy Nexus 1.3.0.2-bfs-AOSP",
       "summary": "Netarchy Nexus, a custom kernel for the Nexus-S\r\n\r\nCurrent Change List vs the stock kernel:\r\n- BFS (Courtesy of work by Con Kolivas) *In builds as marked*\r\n- Overclocking up to 1.4ghz enabled *overclocking not active by default, use a tool such as SetCPU or CM7's cpu performance settings to overclock* (Remember kids, not all phones tolerate overclocking equally)\r\n- BFQ (Courtesy of work by Paolo Valente)\r\n- Voodoo Sound driver - Courtesy of Project Voodoo\r\n- Voodoo Color (as of 1.2.4) - Courtesy of Project Voodoo\r\n- CIFS support\r\n- TUN support\r\n- NFS support (as of 1.2.4)\r\n- Kernel base 2.6.35.11 (as of 1.2.3)\r\n- Cpu policy fix to avoid crashes with SetCPU and screen off profiles (Courtesy of work by coolbho3000)\r\n- EXT4 performance boost\r\n- 1000hz\r\n- Interactive Governor (Use a tool such as SetCPU to change governors if you want to use it *still in need of some tuning*)\r\n- BLN (As of 1.3.0.1) Thanks to work by Neldar.\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.35.11\n\nOS Type: AOSP"
+    },
+    {
+      "device": "crespo",
+      "modversion": "243-official-cm7-kernel-crespo.zip",
+      "url": "http://kernels.teamw.in/files/243-official-cm7-kernel-crespo.zip",
+      "name": "Official CyanogenMod 7 Kernel",
+      "summary": "This is the CM7 kernel from the 7.0-final build.\r\n\r\nVery stable kernel that includes overclocking. No other special features, in order to maintain the stability.\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.37\n\nOS Type: CM"
+    },
+    {
+      "device": "encore",
+      "modversion": "204-update-CM7-dalingrin-OC-emmc-041811.zip",
+      "url": "http://kernels.teamw.in/files/204-update-CM7-dalingrin-OC-emmc-041811.zip",
+      "name": "Dalingrin's CM7 1.1ghz Overclock Kernel",
+      "summary": "-****Small overvolt**** compared to the stock 3621 specs. This is running at the same voltage as the omap3630 which is very similar to our CPU.\r\n-Available clock speeds: 300mhz, 600mhz, 800mhz, 1000mhz, 1100mhz\r\n-Increased volume on external speaker and headphones\r\n-Touchscreen workarounds for sluggish response on first boot. This is a workaround/hack from deeper-blue, please thank him for his work!\r\n-Partial fix for strange touchscreen edge behavior also brought to you by deeper-blue.\r\n-Various performance tweaks.\r\n-Interactive Governor\r\n-Debug removed\r\n-Cifs, TUN, Netfilter/iptables support\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.29\n\nOS Type: CM"
     },
     {
       "device": "speedy",
@@ -414,7 +526,7 @@
       "modversion": "99-x99kernel-cm7-20110414.zip",
       "url": "http://kernels.teamw.in/files/99-x99kernel-cm7-20110414.zip",
       "name": "x99kernel-CM7",
-      "summary": "Overclocked, underclocked, and undervolted.\r\n\r\nThis kernel, by default, will run between 184MHz and 1.2GHz using the smartass governor.  It can be scaled as high as 1.8GHz if you prefer performance over battery life.\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.32.36\n\nOS Type: CM7, AOSP"
+      "summary": "Overclocked, underclocked, and undervolted.\r\n\r\nThis kernel, by default, will run between 184MHz and 1.2GHz using the smartass governor.  It can be scaled as high as 1.8GHz if you prefer performance over battery life.\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.32.36\n\nOS Type: AOSP"
     },
     {
       "device": "speedy",
@@ -431,32 +543,53 @@
       "summary": "This is pulled from a stock 2.2 Evo Shift. Pulled the day I got the phone. It is 100% stock.\n\nAndroid Version: 2.2\n\nLinux Kernel Version: 2.6.32\n\nOS Type: Sense"
     },
     {
-      "device": "mecha",
-      "modversion": "159-imoseyon_leanKernel_extreme_v1.0.zip",
-      "url": "http://kernels.teamw.in/files/159-imoseyon_leanKernel_extreme_v1.0.zip",
-      "name": "leanKernel_extreme",
-      "summary": "-------------------------\r\n1.41Ghz, undervolted/overclocked (may not work for everyone)\r\n-------------------------\r\n\r\nUPDATE: introducing interactiveX governor (interactive + my own suspend code), heavily optimized smartass code (again), undervolted 1.92X a little more at the top end, removed conservative governor, made interactiveX default, went back to deadline i/o scheduler (was causing issues with 1.92 overclock).\r\n\r\nFeatures:\r\n[*] Completely reworked on-demand governor (backported from linux-2.6.39-rc2) for better performance and power efficiency. \r\n[*] Heavily modified/optimized smartass code (based on erasmux's latest git).\r\n[*] InteractiveX governor! Took CM's interactive code and added my own suspend code to make the phone lock at lowest clock speed when screen is off. No need for sleep setcpu profile anymore.\r\n[*] Automatic process group scheduling, a variation of CFS (this patch dramatically speeds up desktop linux - not sure how much effect on android phone).\r\n[*] My [URL=\"http://forum.xda-developers.com/showthread.php?t=1008470\"]kernel tweaks[/URL] directly applied to kernel and ramdisk via code changes. ie. vm, minfree, etc.  No more sysctl and init.d shenanigans! :)\r\n[*] No EXT2, TUN, FUSE, YAFFS/2, etc. Stripped down and lean!\r\n[*] backported 2.6.35 wifi driver which includes low power mode!\r\n[*] *SIX* cpufreq slots for simple management and less governer transitions (8 slots for the 1.92 version)\r\n[*] Undervolted *drastically* for longer battery life.\r\n[*] [URL=\"http://www.imoseyon.com/2011/04/why-swap.html\"]SWAP[/URL] enabled.\r\n[*] Increased readahead buffer to 1024KB\r\n[*] init.d enabled in ramdisk\r\n[*] filesystem speedup in ramdisk\r\n[*] reworked slab allocator (backported from 2.6.39-rc2), \r\n\r\nhttp://imoseyon.com\n\nAndroid Version: 2.2\n\nLinux Kernel Version: 2.6.32\n\nOS Type: sense"
+      "device": "speedy",
+      "modversion": "232-aosp-SIO-tinyRCU.zip",
+      "url": "http://kernels.teamw.in/files/232-aosp-SIO-tinyRCU.zip",
+      "name": "bcblend SIO tinyRCU v1.0",
+      "summary": "*overclockable up to 1.8ghz \r\n*simple io scheduler set to default\r\n*tiny RCU added and set as default RCU subsystem\r\n* slightly undervolted\r\n*new vidc drivers\r\n*HW3D enabled\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.32.38\n\nOS Type: AOSP"
+    },
+    {
+      "device": "speedy",
+      "modversion": "233-aosp-VR-tinyRCU.zip",
+      "url": "http://kernels.teamw.in/files/233-aosp-VR-tinyRCU.zip",
+      "name": "bcblend VR tinyRCU v1.0",
+      "summary": "*overclockable up to 1.8ghz \r\n*VR io scheduler set to default\r\n*tiny RCU added and set as default RCU subsystem\r\n* slightly undervolted\r\n*new vidc drivers\r\n*HW3D enabled\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.32.38\n\nOS Type: AOSP"
+    },
+    {
+      "device": "speedy",
+      "modversion": "240-CM7-speedy-kernel.zip",
+      "url": "http://kernels.teamw.in/files/240-CM7-speedy-kernel.zip",
+      "name": "Official CyanogenMod 7 Kernel",
+      "summary": "This is the CM7 kernel from the 7.0-final build.\r\n\r\nVery stable kernel that includes overclocking. No other special features, in order to maintain the stability.\n\nAndroid Version: 2.3\n\nLinux Kernel Version: 2.6.37\n\nOS Type: CM"
     },
     {
       "device": "mecha",
-      "modversion": "160-imoseyon_leanKernel_normal_v1.0.zip",
-      "url": "http://kernels.teamw.in/files/160-imoseyon_leanKernel_normal_v1.0.zip",
-      "name": "leanKernel_normal",
-      "summary": "---------------------------------\r\n1.41Ghz, overclocked, less undervolted than the extreme (should work for everyone)\r\n---------------------------------\r\n\r\nUPDATE: introducing interactiveX governor (interactive + my own suspend code), heavily optimized smartass code (again), undervolted 1.92X a little more at the top end, removed conservative governor, made interactiveX default, went back to deadline i/o scheduler (was causing issues with 1.92 overclock).\r\n\r\nFeatures:\r\n[*] Completely reworked on-demand governor (backported from linux-2.6.39-rc2) for better performance and power efficiency. \r\n[*] Heavily modified/optimized smartass code (based on erasmux's latest git).\r\n[*] InteractiveX governor! Took CM's interactive code and added my own suspend code to make the phone lock at lowest clock speed when screen is off. No need for sleep setcpu profile anymore.\r\n[*] Automatic process group scheduling, a variation of CFS (this patch dramatically speeds up desktop linux - not sure how much effect on android phone).\r\n[*] My [URL=\"http://forum.xda-developers.com/showthread.php?t=1008470\"]kernel tweaks[/URL] directly applied to kernel and ramdisk via code changes. ie. vm, minfree, etc.  No more sysctl and init.d shenanigans! :)\r\n[*] No EXT2, TUN, FUSE, YAFFS/2, etc. Stripped down and lean!\r\n[*] backported 2.6.35 wifi driver which includes low power mode!\r\n[*] *SIX* cpufreq slots for simple management and less governer transitions (8 slots for the 1.92 version)\r\n[*] Undervolted *drastically* for longer battery life.\r\n[*] [URL=\"http://www.imoseyon.com/2011/04/why-swap.html\"]SWAP[/URL] enabled.\r\n[*] Increased readahead buffer to 1024KB\r\n[*] init.d enabled in ramdisk\r\n[*] filesystem speedup in ramdisk\r\n[*] reworked slab allocator (backported from 2.6.39-rc2)\r\n\r\nhttp://imoseyon.com\n\nAndroid Version: 2.2\n\nLinux Kernel Version: 2.6.32\n\nOS Type: sense"
+      "modversion": "217-imoseyon_leanKernel_extreme_v1.11.zip",
+      "url": "http://kernels.teamw.in/files/217-imoseyon_leanKernel_extreme_v1.11.zip",
+      "name": "leanKernel extreme",
+      "summary": "-------------------------\r\n1.41Ghz, undervolted/overclocked (may not work for everyone)\r\n-------------------------\r\nThis is a minimalistic Thunderbolt kernel based on the HTC source (mecha-2.6.32-gb05544a), but a lot of the code was backported from 2.6.39 (latest linux) and 2.6.35 (Incredible S).\r\n\r\nUPDATE:\r\nv1.1 (4/18/11) - ondemandX governor (ondemand + my own suspend code to keep phone under 369Mhz when screen is off), modified interactiveX and smartass governors to prevent unnecessary spikes over 1.8Ghz to stabilize my 1.92 builds, extreme/1.92X/battsaver now all share the same VDDs at and below 1024Mhz, OC/UV code re-written again to smooth out transitions and reduce random reboots, and added one more slot to 1.92 builds.\r\nv1.11 (4/19/11) - fixed smartass to suspend properly\r\n\r\nFeatures:\r\n[*] Completely reworked on-demand governor (backported from linux-2.6.39-rc2) for better performance and power efficiency. \r\n[*] Heavily modified/optimized smartass code (based on erasmux's latest git).\r\n[*] InteractiveX governor! Took CM's interactive code and added my own suspend code to make the phone lock at lowest clock speed when screen is off. No need for sleep setcpu profile anymore.\r\n[*] Automatic process group scheduling, a variation of CFS (this patch dramatically speeds up desktop linux - not sure how much effect on android phone).\r\n[*] My [URL=\"http://forum.xda-developers.com/showthread.php?t=1008470\"]kernel tweaks[/URL] directly applied to kernel and ramdisk via code changes. ie. vm, minfree, etc.  No more sysctl and init.d shenanigans! :)\r\n[*] No EXT2, TUN, FUSE, YAFFS/2, etc. Stripped down and lean!\r\n[*] backported 2.6.35 wifi driver which includes low power mode!\r\n[*] *SIX* cpufreq slots for simple management and less governer transitions (8 slots for the 1.92 version)\r\n[*] Undervolted *drastically* for longer battery life.\r\n[*] [URL=\"http://www.imoseyon.com/2011/04/why-swap.html\"]SWAP[/URL] enabled.\r\n[*] Increased readahead buffer to 1024KB\r\n[*] init.d enabled in ramdisk\r\n[*] filesystem speedup in ramdisk\r\n[*] reworked slab allocator (backported from 2.6.39-rc2), \r\n\r\nhttp://imoseyon.com\n\nAndroid Version: 2.2\n\nLinux Kernel Version: 2.6.32\n\nOS Type: Sense"
     },
     {
       "device": "mecha",
-      "modversion": "161-imoseyon_leanKernel_1.92X_v1.0.zip",
-      "url": "http://kernels.teamw.in/files/161-imoseyon_leanKernel_1.92X_v1.0.zip",
-      "name": "leanKernel_1.92X",
-      "summary": "--------------------\r\n1.92Ghz: extreme+1.92, super-undervolted *and* super-overclocked (will probably run reliably for the lucky few)\r\n---------------------\r\n\r\nUPDATE: introducing interactiveX governor (interactive + my own suspend code), heavily optimized smartass code (again), undervolted 1.92X a little more at the top end, removed conservative governor, made interactiveX default, went back to deadline i/o scheduler (was causing issues with 1.92 overclock).\r\n\r\nFeatures:\r\n[*] Completely reworked on-demand governor (backported from linux-2.6.39-rc2) for better performance and power efficiency. \r\n[*] Heavily modified/optimized smartass code (based on erasmux's latest git).\r\n[*] InteractiveX governor! Took CM's interactive code and added my own suspend code to make the phone lock at lowest clock speed when screen is off. No need for sleep setcpu profile anymore.\r\n[*] Automatic process group scheduling, a variation of CFS (this patch dramatically speeds up desktop linux - not sure how much effect on android phone).\r\n[*] My [URL=\"http://forum.xda-developers.com/showthread.php?t=1008470\"]kernel tweaks[/URL] directly applied to kernel and ramdisk via code changes. ie. vm, minfree, etc.  No more sysctl and init.d shenanigans! :)\r\n[*] No EXT2, TUN, FUSE, YAFFS/2, etc. Stripped down and lean!\r\n[*] backported 2.6.35 wifi driver which includes low power mode!\r\n[*] *SIX* cpufreq slots for simple management and less governer transitions (8 slots for the 1.92 version)\r\n[*] Undervolted *drastically* for longer battery life.\r\n[*] [URL=\"http://www.imoseyon.com/2011/04/why-swap.html\"]SWAP[/URL] enabled.\r\n[*] Increased readahead buffer to 1024KB\r\n[*] init.d enabled in ramdisk\r\n[*] filesystem speedup in ramdisk\r\n[*] reworked slab allocator (backported from 2.6.39-rc2)\r\n\r\nhttp://imoseyon.com\n\nAndroid Version: 2.2\n\nLinux Kernel Version: 2.6.32\n\nOS Type: sense"
+      "modversion": "218-imoseyon_leanKernel_normal_v1.11.zip",
+      "url": "http://kernels.teamw.in/files/218-imoseyon_leanKernel_normal_v1.11.zip",
+      "name": "leanKernel normal",
+      "summary": "---------------------------------\r\n1.41Ghz, overclocked, less undervolted than the extreme (should work for everyone)\r\n---------------------------------\r\nThis is a minimalistic Thunderbolt kernel based on the HTC source (mecha-2.6.32-gb05544a), but a lot of the code was backported from 2.6.39 (latest linux) and 2.6.35 (Incredible S).\r\n\r\nUPDATE:\r\nv1.1 (4/18/11) - ondemandX governor (ondemand + my own suspend code to keep phone under 369Mhz when screen is off), modified interactiveX and smartass governors to prevent unnecessary spikes over 1.8Ghz to stabilize my 1.92 builds, extreme/1.92X/battsaver now all share the same VDDs at and below 1024Mhz, OC/UV code re-written again to smooth out transitions and reduce random reboots, and added one more slot to 1.92 builds.\r\nv1.11 (4/19/11) - fixed smartass to suspend properly\r\n\r\nFeatures:\r\n[*] Completely reworked on-demand governor (backported from linux-2.6.39-rc2) for better performance and power efficiency. \r\n[*] Heavily modified/optimized smartass code (based on erasmux's latest git).\r\n[*] InteractiveX governor! Took CM's interactive code and added my own suspend code to make the phone lock at lowest clock speed when screen is off. No need for sleep setcpu profile anymore.\r\n[*] Automatic process group scheduling, a variation of CFS (this patch dramatically speeds up desktop linux - not sure how much effect on android phone).\r\n[*] My [URL=\"http://forum.xda-developers.com/showthread.php?t=1008470\"]kernel tweaks[/URL] directly applied to kernel and ramdisk via code changes. ie. vm, minfree, etc.  No more sysctl and init.d shenanigans! :)\r\n[*] No EXT2, TUN, FUSE, YAFFS/2, etc. Stripped down and lean!\r\n[*] backported 2.6.35 wifi driver which includes low power mode!\r\n[*] *SIX* cpufreq slots for simple management and less governer transitions (8 slots for the 1.92 version)\r\n[*] Undervolted *drastically* for longer battery life.\r\n[*] [URL=\"http://www.imoseyon.com/2011/04/why-swap.html\"]SWAP[/URL] enabled.\r\n[*] Increased readahead buffer to 1024KB\r\n[*] init.d enabled in ramdisk\r\n[*] filesystem speedup in ramdisk\r\n[*] reworked slab allocator (backported from 2.6.39-rc2)\r\n\r\nhttp://imoseyon.com\n\nAndroid Version: 2.2\n\nLinux Kernel Version: 2.6.32\n\nOS Type: Sense"
     },
     {
       "device": "mecha",
-      "modversion": "162-imoseyon_leanKernel_battsaver_v1.0.zip",
-      "url": "http://kernels.teamw.in/files/162-imoseyon_leanKernel_battsaver_v1.0.zip",
-      "name": "leanKernel_battsaver",
-      "summary": "----------------\r\nultra low volt (775-1000 VDD), stock speeds (will not work for everyone)\r\n----------------\r\n\r\nUPDATE: introducing interactiveX governor (interactive + my own suspend code), heavily optimized smartass code (again), removed conservative governor, made interactiveX default, went back to deadline i/o scheduler (was causing issues with 1.92 overclock).\r\n\r\nFeatures:\r\n[*] Completely reworked on-demand governor (backported from linux-2.6.39-rc2) for better performance and power efficiency. \r\n[*] Heavily modified/optimized smartass code (based on erasmux's latest git).\r\n[*] InteractiveX governor! Took CM's interactive code and added my own suspend code to make the phone lock at lowest clock speed when screen is off. No need for sleep setcpu profile anymore.\r\n[*] Automatic process group scheduling, a variation of CFS (this patch dramatically speeds up desktop linux - not sure how much effect on android phone).\r\n[*] My [URL=\"http://forum.xda-developers.com/showthread.php?t=1008470\"]kernel tweaks[/URL] directly applied to kernel and ramdisk via code changes. ie. vm, minfree, etc.  No more sysctl and init.d shenanigans! :)\r\n[*] No EXT2, TUN, FUSE, YAFFS/2, etc. Stripped down and lean!\r\n[*] backported 2.6.35 wifi driver which includes low power mode!\r\n[*] *SIX* cpufreq slots for simple management and less governer transitions (8 slots for the 1.92 version)\r\n[*] Undervolted *drastically* for longer battery life.\r\n[*] [URL=\"http://www.imoseyon.com/2011/04/why-swap.html\"]SWAP[/URL] enabled.\r\n[*] Increased readahead buffer to 1024KB\r\n[*] init.d enabled in ramdisk\r\n[*] filesystem speedup in ramdisk\r\n[*] reworked slab allocator (backported from 2.6.39-rc2)\r\n\r\nhttp://imoseyon.com\n\nAndroid Version: 2.2\n\nLinux Kernel Version: 2.6.32\n\nOS Type: sense"
+      "modversion": "220-imoseyon_leanKernel_1.92X_v1.11.zip",
+      "url": "http://kernels.teamw.in/files/220-imoseyon_leanKernel_1.92X_v1.11.zip",
+      "name": "leanKernel 1.92X",
+      "summary": "--------------------\r\n1.92Ghz: extreme+1.92, super-undervolted *and* super-overclocked (will probably run reliably for the lucky few)\r\n---------------------\r\n\r\nThis is a minimalistic Thunderbolt kernel based on the HTC source (mecha-2.6.32-gb05544a), but a lot of the code was backported from 2.6.39 (latest linux) and 2.6.35 (Incredible S).\r\n\r\nUPDATE:\r\nv1.1 (4/18/11) - ondemandX governor (ondemand + my own suspend code to keep phone under 369Mhz when screen is off), modified interactiveX and smartass governors to prevent unnecessary spikes over 1.8Ghz to stabilize my 1.92 builds, extreme/1.92X/battsaver now all share the same VDDs at and below 1024Mhz, OC/UV code re-written again to smooth out transitions and reduce random reboots, and added one more slot to 1.92 builds.\r\nv1.11 (4/19/11) - fixed smartass to suspend properly\r\n\r\nFeatures:\r\n[*] Completely reworked on-demand governor (backported from linux-2.6.39-rc2) for better performance and power efficiency. \r\n[*] Heavily modified/optimized smartass code (based on erasmux's latest git).\r\n[*] InteractiveX governor! Took CM's interactive code and added my own suspend code to make the phone lock at lowest clock speed when screen is off. No need for sleep setcpu profile anymore.\r\n[*] Automatic process group scheduling, a variation of CFS (this patch dramatically speeds up desktop linux - not sure how much effect on android phone).\r\n[*] My [URL=\"http://forum.xda-developers.com/showthread.php?t=1008470\"]kernel tweaks[/URL] directly applied to kernel and ramdisk via code changes. ie. vm, minfree, etc.  No more sysctl and init.d shenanigans! :)\r\n[*] No EXT2, TUN, FUSE, YAFFS/2, etc. Stripped down and lean!\r\n[*] backported 2.6.35 wifi driver which includes low power mode!\r\n[*] *SIX* cpufreq slots for simple management and less governer transitions (8 slots for the 1.92 version)\r\n[*] Undervolted *drastically* for longer battery life.\r\n[*] [URL=\"http://www.imoseyon.com/2011/04/why-swap.html\"]SWAP[/URL] enabled.\r\n[*] Increased readahead buffer to 1024KB\r\n[*] init.d enabled in ramdisk\r\n[*] filesystem speedup in ramdisk\r\n[*] reworked slab allocator (backported from 2.6.39-rc2)\r\n\r\nhttp://imoseyon.com\n\nAndroid Version: 2.2\n\nLinux Kernel Version: 2.6.32\n\nOS Type: Sense"
+    },
+    {
+      "device": "mecha",
+      "modversion": "219-imoseyon_leanKernel_battsaver_v1.11.zip",
+      "url": "http://kernels.teamw.in/files/219-imoseyon_leanKernel_battsaver_v1.11.zip",
+      "name": "leanKernel battsaver",
+      "summary": "----------------\r\nultra low volt (775-1000 VDD), stock speeds (will not work for everyone)\r\n----------------\r\n\r\nThis is a minimalistic Thunderbolt kernel based on the HTC source (mecha-2.6.32-gb05544a), but a lot of the code was backported from 2.6.39 (latest linux) and 2.6.35 (Incredible S).\r\n\r\nUPDATE:\r\nv1.1 (4/18/11) - ondemandX governor (ondemand + my own suspend code to keep phone under 369Mhz when screen is off), modified interactiveX and smartass governors to prevent unnecessary spikes over 1.8Ghz to stabilize my 1.92 builds, extreme/1.92X/battsaver now all share the same VDDs at and below 1024Mhz, OC/UV code re-written again to smooth out transitions and reduce random reboots, and added one more slot to 1.92 builds.\r\nv1.11 (4/19/11) - fixed smartass to suspend properly\r\n\r\nFeatures:\r\n[*] Completely reworked on-demand governor (backported from linux-2.6.39-rc2) for better performance and power efficiency. \r\n[*] Heavily modified/optimized smartass code (based on erasmux's latest git).\r\n[*] InteractiveX governor! Took CM's interactive code and added my own suspend code to make the phone lock at lowest clock speed when screen is off. No need for sleep setcpu profile anymore.\r\n[*] Automatic process group scheduling, a variation of CFS (this patch dramatically speeds up desktop linux - not sure how much effect on android phone).\r\n[*] My [URL=\"http://forum.xda-developers.com/showthread.php?t=1008470\"]kernel tweaks[/URL] directly applied to kernel and ramdisk via code changes. ie. vm, minfree, etc.  No more sysctl and init.d shenanigans! :)\r\n[*] No EXT2, TUN, FUSE, YAFFS/2, etc. Stripped down and lean!\r\n[*] backported 2.6.35 wifi driver which includes low power mode!\r\n[*] *SIX* cpufreq slots for simple management and less governer transitions (8 slots for the 1.92 version)\r\n[*] Undervolted *drastically* for longer battery life.\r\n[*] [URL=\"http://www.imoseyon.com/2011/04/why-swap.html\"]SWAP[/URL] enabled.\r\n[*] Increased readahead buffer to 1024KB\r\n[*] init.d enabled in ramdisk\r\n[*] filesystem speedup in ramdisk\r\n[*] reworked slab allocator (backported from 2.6.39-rc2)\r\n\r\nhttp://imoseyon.com\n\nAndroid Version: 2.2\n\nLinux Kernel Version: 2.6.32\n\nOS Type: Sense"
     },
     {
       "device": "mecha",
@@ -555,6 +688,20 @@
       "url": "http://kernels.teamw.in/files/187-jdlfg-v1.0-1800lv.zip",
       "name": "jdlfg-v1.0-1800lv",
       "summary": "Low voltage oc'd to 1800 with a min freq of 300 for a quicker wake up.Built from initial HTC source drop. All source is on git. Although my device handled this kernel well on a stock build it is possible it may not run as smooth on some of the modified builds. \n\nAndroid Version: 2.2\n\nLinux Kernel Version: 2.6.32.21\n\nOS Type: SENSE"
+    },
+    {
+      "device": "mecha",
+      "modversion": "231-stock_1.13.605.7.zip",
+      "url": "http://kernels.teamw.in/files/231-stock_1.13.605.7.zip",
+      "name": "Stock 1.13.605.7",
+      "summary": "No changes except adb rooted and init.d support.\n\nAndroid Version: 2.2\n\nLinux Kernel Version: 2.6.32.31\n\nOS Type: Sense"
+    },
+    {
+      "device": "stingray",
+      "modversion": "221-Tiamat_Xoom-v1.3.2.zip",
+      "url": "http://kernels.teamw.in/files/221-Tiamat_Xoom-v1.3.2.zip",
+      "name": "Tiamat Xoom Kernel 1.3.2",
+      "summary": "Overclocked to 1.5 Ghz\r\nSD Card support.  See XDA thread for more details\r\nUpgraded to 2.6.36.4 Thanks Cybertronicx\r\nMerged several branches from Kcrudup into Tiamat Xoom master branch\r\nRemoved debugging bloat from modules\n\nAndroid Version: 3.0\n\nLinux Kernel Version: 2.6.36.4\n\nOS Type: Honeycomb"
     }
   ]
 }

@@ -93,17 +93,6 @@
         "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
     {
-        "developer": "Kernel Manager",
-        "free": "true",
-        "id": "teamwin",
-        "icon": "http://mirror.kanged.net//test/kernelmanager.png",
-        "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/kernelmanager.js",
-        "roms": {
-            "all": "true"
-        },
-        "summary": "Kernel Manager, by Team Win! Go get it off the Market!"
-    },
-    {
         "developer": "Extras",
         "free": "true",
         "id": "extras",
@@ -520,13 +509,16 @@
         "summary": "Senseless deodexed Rom for Droid Incredible with couple of twists"
     },
     {
-        "developer": "LiQuID FroZeN YoGurT",
+        "developer": "Liquid Smooth Roms",
+        "free": "true",
         "id": "LiquID",
-        "manifest": "http://android.markjohnston.us/DL/LFY/ROMGR/manifest.js",
+        "manifest": "http://android.jbroom.com/rommanager/manifest.js",
         "roms": {
-            "sholes": "true"
+            "sholes": "true",
+            "mecha": "true",
+            "crespo": "true"
         },
-        "summary": "Source Built FRG22 Froyo Roms and Themes"
+        "summary": "Source Built Gingerbread Roms and Themes"
     },
     {
         "developer": "birdman",
@@ -1047,17 +1039,6 @@
         "summary": "ROMs and hax for your Inspire 4G"
     },
     {
-        "developer": "Google Apps",
-        "free": "true",
-        "id": "drmacinyasha",
-        "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
-        "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
-        "roms": {
-            "all": "true"
-        },
-        "summary": "Add-on for AOSP ROMs, such as CM"
-    },
-    {
         "developer": "Einherjar Dev Team",
         "free": "true",
         "id": "einherjar",
@@ -1067,6 +1048,30 @@
             "vibrant": "true"
         },
         "summary": "Vibrant ROMs, kernels, themes, and more!"
+    },
+    {
+        "developer": "roalex",
+        "free": "true",
+        "id": "roalex",
+        "icon": "http://k002.kiwi6.com/hotlink/1x4h2gin4z/cos_ds.png",
+        "manifest": "http://dl.dropbox.com/u/14294263/cos-ds.js",
+        "roms": {
+            "dream": "true",
+            "sapphire": "true",
+            "magic": "true" 
+        },
+        "summary": "An AOSP ROM using the latest CM/EzGB sources for D/S, supporting EBI0, 2708, EBI1 devices"
+    },
+    {
+        "developer": "Google Apps",
+        "free": "true",
+        "id": "drmacinyasha",
+        "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
+        "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
+        "roms": {
+            "all": "true"
+        },
+        "summary": "Add-on for AOSP ROMs, such as CM"
     }
     ],
     "minversion": "2000"

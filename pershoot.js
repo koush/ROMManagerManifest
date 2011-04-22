@@ -7,10 +7,10 @@
     //**********G2**************
     //**************************************
     {
-        "name": "Kernel 2.6.32.38 - OC-UV-XTRA-NEON_FP",
-        "summary": "0415 - G2 (Gingerbread) - 21:00",
+        "name": "Kernel 2.6.32.39 - OC-UV-XTRA-NEON_FP",
+        "summary": "0422 - G2 (Gingerbread) - 16:00",
         "device": "vision",
-        "url": "http://droidbasement.com/g2/kernels/2632/33/boot-cm_2632.38_gb-oc-uv-xtra-neon_fp-041511.zip"
+        "url": "http://droidbasement.com/g2/kernels/2632/34/boot-cm_2632.39_gb-oc-uv-xtra-neon_fp-042211.zip"
     },
     {
         "name": "Kernel 2.6.32.35 - OC-UV-XTRA-NEON_FP",
@@ -71,31 +71,31 @@
     //
     //ViewSonic Gtab and Malata Zpad (Froyo)
     {
-        "name": "Kernel 2.6.32.38 - OC-UV-XTRA-VFP_FP",
-        "summary": "0420 - Harmony (Gtab/Zpad - Froyo) - 23:00",
+        "name": "Kernel 2.6.32.39 - OC-UV-XTRA-VFP_FP",
+        "summary": "0422 - Harmony (Gtab/Zpad - Froyo) - 16:00",
         "device": "harmony",
-        "url": "http://droidbasement.com/gtab/kernels/2632/33/boot-cm_2632.38-oc-uv-xtra-vfp_fp-042011.zip"
+        "url": "http://droidbasement.com/gtab/kernels/2632/34/boot-cm_2632.39-oc-uv-xtra-vfp_fp-042211.zip"
     },
     //ViewSonic Gtab and Malata Zpad (Gingerbread)
     {
-        "name": "Kernel 2.6.32.38 - OC-UV-XTRA-VFP_FP",
-        "summary": "0420 - Harmony (Gtab/Zpad - Gingerbread) - 23:00",
+        "name": "Kernel 2.6.32.39 - OC-UV-XTRA-VFP_FP",
+        "summary": "0422 - Harmony (Gtab/Zpad - Gingerbread) - 16:00",
         "device": "harmony",
-        "url": "http://droidbasement.com/gtab/kernels/2632/33/boot-cm_2632.38_gb-oc-uv-xtra-vfp_fp-042011.zip"
+        "url": "http://droidbasement.com/gtab/kernels/2632/34/boot-cm_2632.39_gb-oc-uv-xtra-vfp_fp-042211.zip"
     },
     //Malata Zpad [New Bootloader] (Froyo)
     {
-        "name": "Kernel 2.6.32.38 - OC-UV-XTRA-VFP_FP",
-        "summary": "0420 - Harmony (Zpad - Froyo) - 23:00",
+        "name": "Kernel 2.6.32.39 - OC-UV-XTRA-VFP_FP",
+        "summary": "0422 - Harmony (Zpad - Froyo) - 16:00",
         "device": "harmony",
-        "url": "http://droidbasement.com/gtab/kernels/2632/33/zpad/boot-cm_2632.38_zpad_newbl-oc-uv-xtra-vfp_fp-042011.zip"
+        "url": "http://droidbasement.com/gtab/kernels/2632/34/zpad/boot-cm_2632.39_zpad_newbl-oc-uv-xtra-vfp_fp-042211.zip"
     },
     //Malata Zpad [New Bootloader] (Gingerbread)
     {
-        "name": "Kernel 2.6.32.38 - OC-UV-XTRA-VFP_FP",
-        "summary": "0420 - Harmony (Zpad - Gingerbread) - 23:00",
+        "name": "Kernel 2.6.32.39 - OC-UV-XTRA-VFP_FP",
+        "summary": "0422 - Harmony (Zpad - Gingerbread) - 16:00",
         "device": "harmony",
-        "url": "http://droidbasement.com/gtab/kernels/2632/33/zpad/boot-cm_2632.38_gb_zpad_newbl-oc-uv-xtra-vfp_fp-042011.zip"
+        "url": "http://droidbasement.com/gtab/kernels/2632/34/zpad/boot-cm_2632.39_gb_zpad_newbl-oc-uv-xtra-vfp_fp-042211.zip"
     }
     //END
     ]

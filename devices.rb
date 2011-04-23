@@ -17,7 +17,7 @@ devices = JSON.parse(File.open("devices.js").read)
 found_device = nil
 devices["devices"].each do |device|
   if device["key"] == key then
-    found_device = device["key"]
+    found_device = device
   end
 end
 

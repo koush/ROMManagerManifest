@@ -750,6 +750,16 @@
         "summary": "GB source build. Group project."
     },
     {
+        "developer": "Salvage-Mod Nightlies",
+        "id": "echo17",
+        "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
+        "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
+        "roms": {
+            "supersonic": "true"
+        },
+        "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
+    },
+    {
         "developer": "t3hh4xx0r",
         "free": "true",
         "id": "r2d2",

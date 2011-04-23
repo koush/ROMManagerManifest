@@ -816,9 +816,9 @@
       "key": "p999"
     },
     {
-      "name": "p990",
+      "name": "LG Optimus 2X",
       "version": "3.0.2.7",
-      "init": "init.p990.rc",
+      "init": "init_recovery.rc",
       "readonly_recovery": true,
       "reboot_recovery": "echo 'boot-recovery' | dd of=/dev/block/mmcblk0p3 seek=6144 bs=1 ; reboot ; ",
       "key": "p990"

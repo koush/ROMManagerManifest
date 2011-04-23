@@ -806,6 +806,22 @@
       "version": "3.0.2.6",
       "init": "init.saga.rc",
       "key": "saga"
+    },
+    {
+      "name": "T-Mobile G2X",
+      "version": "3.0.2.7",
+      "init": "init_recovery.rc",
+      "readonly_recovery": true,
+      "reboot_recovery": "echo 'boot-recovery' | dd of=/dev/block/mmcblk0p3 seek=6144 bs=1 ; reboot ; ",
+      "key": "p999"
+    },
+    {
+      "name": "p990",
+      "version": "3.0.2.7",
+      "init": "init.p990.rc",
+      "readonly_recovery": true,
+      "reboot_recovery": "echo 'boot-recovery' | dd of=/dev/block/mmcblk0p3 seek=6144 bs=1 ; reboot ; ",
+      "key": "p990"
     }
   ],
   "version": "2.5.0.1",

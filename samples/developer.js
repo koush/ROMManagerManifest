@@ -25,5 +25,6 @@
         // The display summary. Two lines max.
         "summary": "Mods and bacon for your phone"
         // Remember to delete all comment lines for JSON compliance, and the blank
-        // lines that some editors stick at the end of files.
+        // lines that some editors stick at the end of files. Finally, be sure to
+        // run your file through www.jsonlint.com to catch any whitespace or syntax errors.
     },

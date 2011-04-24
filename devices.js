@@ -12,7 +12,7 @@
       ],
       "alternate_recovery": {
         "name": "SPRecovery 0.99.3b",
-        "url": "http://downloads.droidmod.org/recovery-0.99.3b.img",
+        "url": "http://mirror.kanged.net//recoveries/sprecovery.img",
         "clockwork": false
       },
       "key": "sholes"

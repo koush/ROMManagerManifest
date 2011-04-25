@@ -396,6 +396,7 @@
         "developer": "cvpcs",
         "free": "true",
         "id": "cvpcs",
+        "icon": "http://cvpcs.github.com/android_vendor_cvpcs/icon.png",
         "manifest": "http://cvpcs.github.com/android_vendor_cvpcs/cvpcs-rmm.js",
         "roms": {
             "droid2": "true",

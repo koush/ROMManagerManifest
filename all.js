@@ -13,13 +13,6 @@
         "summary": "Eclair/Froyo/Gingerbread",
         "device": "all",
         "url": "http://goo-inside.me/superuser/su-2.3.6.1-ef-signed.zip"
-    },        
-    {
-        "name": "test",
-        "summary": "Eclair/Froyo/Gingerbread",
-        "device": "all",
-        "modversion": "ratingtest",
-        "url": "http://goo-inside.me/superuser/su-2.3.6.1-ef-signed.zip"
     }    
     ]
 }

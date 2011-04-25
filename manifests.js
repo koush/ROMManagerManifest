@@ -1075,12 +1075,12 @@
         "summary": "An AOSP ROM using the latest CM/EzGB sources for D/S, supporting EBI0, 2708, EBI1 devices"
     },
     {
-    "developer": "Hamsterbread",
-    "free": "true",
-    "id": "hamsterbread",
-    "manifest": "https://github.com/Hamsterkacke/Hamsterbread-Rom-Manager-Stuff/blob/master/manifest.js",
-    "roms": {
-        "galaxys": "true" 
+        "developer": "Hamsterbread",
+        "free": "true",
+        "id": "hamsterbread",
+        "manifest": "https://github.com/Hamsterkacke/Hamsterbread-Rom-Manager-Stuff/blob/master/manifest.js",
+        "roms": {
+            "galaxys": "true" 
          },
          "summary": "Some Hamster Love for your phone!" 
     },

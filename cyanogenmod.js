@@ -95,6 +95,21 @@
         },
         {
             "device": "bravo",
+            "name": "CyanogenMod 7.0.2.1",
+            "modversion": "CyanogenMod-7.0.2.1-Desire",
+            "incremental": "7021",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.0.2.1-Desire-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "bravo",
             "name": "CyanogenMod 7.0.2",
             "modversion": "CyanogenMod-7.0.2-Desire",
             "incremental": "7020",
@@ -195,6 +210,21 @@
                 {
                     "name": "Google Apps",
                     "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "bravoc",
+            "name": "CyanogenMod 7.0.2.1",
+            "modversion": "CyanogenMod-7.0.2.1-BravoC",
+            "incremental": "7021",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.0.2.1-BravoC-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -600,6 +630,21 @@
                 {
                     "name": "Google Apps",
                     "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "inc",
+            "name": "CyanogenMod 7.0.2.1",
+            "modversion": "CyanogenMod-7.0.2.1-Inc",
+            "incremental": "7021",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.0.2.1-Inc-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -1085,6 +1130,21 @@
         },
         {
             "device": "supersonic",
+            "name": "CyanogenMod 7.0.2.1",
+            "modversion": "CyanogenMod-7.0.2.1-Supersonic",
+            "incremental": "7021",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.0.2.1-Supersonic-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "supersonic",
             "name": "CyanogenMod 7.0.2",
             "modversion": "CyanogenMod-7.0.2-Supersonic",
             "incremental": "7020",
@@ -1170,6 +1230,21 @@
                 {
                     "name": "Google Apps",
                     "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "passion",
+            "name": "CyanogenMod 7.0.2.1",
+            "modversion": "CyanogenMod-7.0.2.1-N1",
+            "incremental": "7021",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.0.2.1-N1-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },

@@ -561,13 +561,6 @@
     },
     {
         "device": "crespo",
-        "name": "test",
-        "modversion": "crepsotest",
-        "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-NS-signed.zip",
-        "summary": "Stable Release"
-    },
-    {
-        "device": "crespo",
         "name": "CyanogenMod 7.0.0",
         "modversion": "CyanogenMod-7.0.0-NS",
         "incremental": "7005",

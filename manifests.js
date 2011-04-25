@@ -1078,12 +1078,12 @@
     "developer": "Hamsterbread",
     "free": "true",
     "id": "hamsterbread",
-    "manifest": "https://github.com/Hamsterkacke/Hamsterbread-Rom-Manager-Stuff/blob/master/manifest.js",
+    "manifest": "https://github.com/Hamsterkacke/hamsterbread/raw/master/manifest.js",
     "roms": {
         "galaxys": "true" 
-         },
-         "summary": "Some Hamster Love for your phone!" 
-    },
+        },
+        "summary": "Some Hamster Love for your phone!" 
+     },
     {
         "developer": "Google Apps",
         "free": "true",

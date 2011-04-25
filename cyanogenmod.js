@@ -562,7 +562,7 @@
     {
         "device": "crespo",
         "name": "test",
-        "modversion": "crepsotest222",
+        "modversion": "crepsotest2223434",
         "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-NS-signed.zip",
         "summary": "Stable Release"
     },

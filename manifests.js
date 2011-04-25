@@ -1078,6 +1078,7 @@
     "developer": "Hamsterbread",
     "free": "true",
     "id": "hamsterbread",
+    "icon": "http://dl.dropbox.com/u/10693833/Hamsters%20Rom/iconhamsterbread.png",
     "manifest": "https://github.com/Hamsterkacke/hamsterbread/raw/master/manifest.js",
     "roms": {
         "galaxys": "true" 

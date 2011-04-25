@@ -511,14 +511,15 @@
     {
         "developer": "Liquid Smooth Roms",
         "free": "true",
-        "id": "LiquID",
+        "id": "Liquid",
+        "icon": "http://android.jbroom.com/rommanager/LSRICON.png",
         "manifest": "http://android.jbroom.com/rommanager/manifest.js",
         "roms": {
             "sholes": "true",
             "mecha": "true",
             "crespo": "true"
         },
-        "summary": "Source Built Gingerbread Roms and Themes"
+        "summary": "Source Built Gingerbread and Custom Tbolt Roms"
     },
     {
         "developer": "birdman",

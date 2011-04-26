@@ -1099,7 +1099,7 @@
     {
         "developer": "Google Apps",
         "free": "true",
-        "id": "drmacinyasha",
+        "id": "google",
         "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
         "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
         "roms": {

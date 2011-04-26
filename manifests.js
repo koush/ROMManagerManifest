@@ -723,16 +723,6 @@
         "summary": "Kernels for Samsung Fascinate"
     },
     {
-        "developer": "davidjr621",
-        "free": "true",
-        "id": "davidjr621",
-        "manifest": "http://dl.dropbox.com/u/9372031/Axiom/axiom.js",
-        "roms": {
-            "sholes": "true"
-        },
-        "summary": "Axiom Sixty6 - Custom ROM for the Droid (Sholes)"
-    },
-    {
         "developer": "IncROM",
         "free": "true",
         "id": "lllboredlll",

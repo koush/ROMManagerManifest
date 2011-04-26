@@ -192,8 +192,8 @@
       "version": "3.0.0.8",
       "init": "init.inc.rc",
       "alternate_recovery": {
-        "name": "RA_GNM Recovery v1.8.1",
-        "url": "http://www.getitnowmarketing.noodlesoftware.com/recovery/recovery-RA-inc-v1.8.1-GNM.img",
+        "name": "RA_GNM Recovery v2.2.1",
+        "url": "http://www.getitnowmarketing.noodlesoftware.com/recovery/recovery-RA-inc-v2.2.1-GNM.img",
         "clockwork": false
       },
       "legacy_versions": [
@@ -342,8 +342,8 @@
       "version": "2.5.0.7",
       "init": "init.aloha.rc",
       "alternate_recovery": {
-        "name": "RA_GNM Recovery v1.2.5",
-        "url": "http://www.getitnowmarketing.noodlesoftware.com/recovery/recovery-aloha-RA-v1.2.5-GNM.img",
+        "name": "RA_GNM Recovery v2.2.1",
+        "url": "http://www.getitnowmarketing.noodlesoftware.com/recovery/recovery-aloha-RA-v2.2.1-GNM.img",
         "clockwork": false
       },
       "legacy_versions": [

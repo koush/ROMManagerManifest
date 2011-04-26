@@ -93,17 +93,6 @@
         "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
     {
-        "developer": "Kernel Manager",
-        "free": "true",
-        "id": "teamwin",
-        "icon": "http://mirror.kanged.net//test/kernelmanager.png",
-        "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/kernelmanager.js",
-        "roms": {
-            "all": "true"
-        },
-        "summary": "Kernel Manager, by Team Win! Go get it off the Market!"
-    },
-    {
         "developer": "Extras",
         "free": "true",
         "id": "extras",

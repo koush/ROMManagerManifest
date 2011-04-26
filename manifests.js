@@ -1088,6 +1088,17 @@
          "summary": "Some Hamster Love for your phone!" 
     },
     {
+        "developer": "dhemke17",
+        "free": "true",
+        "id": "DhE17roms",
+        "icon": "http://dhe17roms.github.com/Roms/auburn-university.jpg",
+        "manifest": "http://dhe17roms.github.com/Roms/lightningrom.js",
+        "roms": {
+            "mecha": "true" 
+         },
+         "summary": "Roms and Extras" 
+    },
+    {
         "developer": "Google Apps",
         "free": "true",
         "id": "google",

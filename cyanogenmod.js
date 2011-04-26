@@ -1495,6 +1495,21 @@
             ] 
         },
         {
+            "device": "zeppelin",
+            "name": "CyanogenMod 7.0.2-RC1",
+            "modversion": "CyanogenMod-7.0.2-RC1-CLIQXT",
+            "incremental": "7021",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.0.2-RC1-CLIQXT-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Release Candidate",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                } 
+            ] 
+        },
+        {
             "device": "zero",
             "name": "CyanogenMod 7.0.2",
             "modversion": "CyanogenMod-7.0.2-ZERO",

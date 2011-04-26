@@ -32,6 +32,7 @@
             "passion": "true",
             "vision": "true",
             "z71": "true",
+            "zeppelin": "true",
             "zero": "true"
         },
         "summary": "Mods and bacon for your phone"
@@ -78,6 +79,7 @@
             "passion": "true",
             "vision": "true",
             "z71": "true",
+            "zeppelin": "true",
             "zero": "true"
         },
         "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."

@@ -502,6 +502,7 @@
     },
     {
       "name": "Advent Vega",
+      "flash_recovery": "/data/data/com.koushikdutta.rommanager/files/tegra_flash_image recovery %s ; ",
       "reboot_recovery": "echo start > /proc/ota ; ",
       "version": "3.0.2.7",
       "init": "init_recovery.rc",

@@ -695,6 +695,7 @@
         "free": "true",
         "id": "Sonofskywalker3",
         "manifest": "http://www.androiddoes.net/~sonofskywalker3/Manifest/Sonofskywalker3_Manifest.js",
+        "icon": "http://www.trangtriblog.com/avatar/movies/Luke-with-Lightsaber.jpg",
         "roms": {
             "mecha": "true",
             "fascinate": "true",

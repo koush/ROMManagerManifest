@@ -1101,6 +1101,17 @@
         "summary": "ROMs by FrostIncredible"
     },
     {
+        "developer": "Amethyst",
+        "free": "true",
+        "id": "amethyst",
+        "icon": "http://download.renandroid.com/amethyst_icon.png",
+        "manifest": "http://download.renandroid.com/amethyst_manifest.js",
+        "roms": {
+            "crespo" : "true"
+        },
+        "summary": "Clean and fast AOSP ROM with some CM tweaks"
+    },
+    {
         "developer": "Google Apps",
         "free": "true",
         "id": "google",

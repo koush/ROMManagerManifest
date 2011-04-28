@@ -1069,6 +1069,17 @@
             "summary": "An AOSP ROM using the latest CM/EzGB sources for D/S, supporting EBI0, 2708, EBI1 devices" 
         },
         {
+            "developer": "roalex",
+            "free": "true",
+            "id": "roalex-bravo",
+            "icon": "http://k002.kiwi6.com/hotlink/55tg5zo8bk/cos_bravo.png",
+            "manifest": "http://dl.dropbox.com/u/14294263/cos-bravo.js",
+            "roms": {
+                "bravo": "true"
+            },
+            "summary": "CM HBOOT:COS-Bravo:AOSP/CM sources based rom featuring native A2sdext support/Customized Sense Roms" 
+        },   
+        {
             "developer": "Hamsterbread",
             "free": "true",
             "id": "hamsterbread",

@@ -813,7 +813,7 @@
         {
             "developer": "Insanity",
             "id": "insanity",
-            "manifest": "http://insanity.rollus.net/manifest.js",
+            "manifest": "http://insanity.nfye.com/manifest.js",
             "roms": {
                 "galaxys": "true",
                 "sholes": "true" 

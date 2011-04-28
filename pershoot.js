@@ -23,9 +23,9 @@
     //**************************************
     {
         "name": "Kernel 2.6.38.4 – OC-UV-XTRA-BTN-AUD-RAM-NEON_FP",
-        "summary": "0421 - Nexus (Gingerbread) - 23:00",
+        "summary": "0428 - Nexus (Gingerbread) - 09:00",
         "device": "passion",
-        "url": "http://droidbasement.com/nexus/kernels/2638/2/boot-cm_2638.4_gb-oc-uv-xtra-btn-aud-ram-neon_fp-042111.zip"
+        "url": "http://droidbasement.com/nexus/kernels/2638/3/boot-cm_2638.4_gb-oc-uv-xtra-btn-aud-ram-neon_fp-042811.zip"
     },
     {
         "name": "Kernel 2.6.35.11 – OC-UV-XTRA-BTN-AUD-RAM-NEON_FP",

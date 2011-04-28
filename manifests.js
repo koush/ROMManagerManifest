@@ -813,7 +813,7 @@
         {
             "developer": "Insanity",
             "id": "insanity",
-            "manifest": "http://insanity.rollus.net/manifest.js",
+            "manifest": "http://insanity.nfye.com/manifest.js",
             "roms": {
                 "galaxys": "true",
                 "sholes": "true" 
@@ -1069,6 +1069,17 @@
             "summary": "An AOSP ROM using the latest CM/EzGB sources for D/S, supporting EBI0, 2708, EBI1 devices" 
         },
         {
+            "developer": "roalex",
+            "free": "true",
+            "id": "roalex-bravo",
+            "icon": "http://k002.kiwi6.com/hotlink/55tg5zo8bk/cos_bravo.png",
+            "manifest": "http://dl.dropbox.com/u/14294263/cos-bravo.js",
+            "roms": {
+                "bravo": "true"
+            },
+            "summary": "CM HBOOT:COS-Bravo:AOSP/CM sources based rom featuring native A2sdext support/Customized Sense Roms" 
+        },   
+        {
             "developer": "Hamsterbread",
             "free": "true",
             "id": "hamsterbread",
@@ -1122,6 +1133,17 @@
                 "bravo" : "true" 
             },
             "summary": "Finest ports ever!" 
+        },
+        {
+            "developer": "infin1ty",
+            "free": "true",
+            "id": "jonathongrigg",
+            "icon": "http://www.jonathongrigg.com/infin1ty/128x128logo.png",
+            "manifest": "http://www.jonathongrigg.com/infin1ty/ROMManagerManifest.js",
+            "roms": {
+                "crespo": "true"
+            },
+            "summary": "no limits AOSP based ROM with loads of tweaks"
         },
         {
             "developer": "Google Apps",

@@ -1124,6 +1124,17 @@
             "summary": "Finest ports ever!" 
         },
         {
+            "developer": "infin1ty",
+            "free": "true",
+            "id": "jonathongrigg",
+            "icon": "http://www.jonathongrigg.com/infin1ty/128x128logo.png",
+            "manifest": "http://www.jonathongrigg.com/infin1ty/ROMManagerManifest.js",
+            "roms": {
+                "crespo": "true"
+            },
+            "summary": "no limits AOSP based ROM with loads of tweaks"
+        },
+        {
             "developer": "Google Apps",
             "free": "true",
             "id": "google",

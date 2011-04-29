@@ -1152,10 +1152,10 @@
             "icon": "http://android.saraev.ca/download/rommanager/icon.png",
             "manifest": "http://android.saraev.ca/download/rommanager/manifest.js",
             "roms": {
-            "ace": "true"
+                "ace": "true"
             },
             "summary": "ROMs for your HTC Desire HD"
-        }
+        },
         {
             "developer": "Google Apps",
             "free": "true",

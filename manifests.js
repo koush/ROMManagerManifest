@@ -925,16 +925,6 @@
             "summary": "New Sense ROM For HTC Desire" 
         },
         {
-            "developer": "baadnewz",
-            "free": "true",
-            "id": "baadnewz",
-            "manifest": "http://baadnewz.lcdc.sk/rommanifest.js",
-            "roms": {
-                "bravo": "true" 
-            },
-            "summary": "DesireHD rom ported to desire.Stable and fast" 
-        },
-        {
             "developer": "Savaged-Zen",
             "free": "true",
             "id": "jsseidel1",

@@ -1146,6 +1146,17 @@
             "summary": "no limits AOSP based ROM with loads of tweaks"
         },
         {
+            "developer": "seo",
+            "free": "true",
+            "id": "seo",
+            "icon": "http://android.saraev.ca/download/rommanager/icon.png",
+            "manifest": "http://android.saraev.ca/download/rommanager/manifest.js",
+            "roms": {
+            "ace": "true"
+            },
+            "summary": "ROMs for your HTC Desire HD"
+        }
+        {
             "developer": "Google Apps",
             "free": "true",
             "id": "google",

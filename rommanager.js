@@ -1,6 +1,6 @@
 $.getJSON("http://pipes.yahoo.com/pipes/pipe.run?_id=332d9216d8910ba39e6c2577fd321a6a&_render=json&u=http%3A%2F%2Frommanager.appspot.com%2Fmanifests%2Fdevices.js&_callback=?",
 function(data) {
-    data = data.values.items[0];
+    data = data.value.items[0];
     var version = data.version;
     var recovery_url = data.recovery_url;
     var recovery_zip_url = data.recovery_zip_url;

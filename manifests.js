@@ -73,6 +73,7 @@
                 "liberty": "true",
                 "legend": "true",
                 "one": "true",
+                "p999": "true",
                 "sapphire": "true",
                 "sholes": "true",
                 "speedy": "true",

@@ -779,9 +779,10 @@
     },
     {
       "name": "HTC HD2",
-      "version": "3.0.2.5",
+      "version": "3.0.2.8",
       "init": "init.leo.rc",
       "legacy_versions": [
+        "3.0.2.8",
         "3.0.2.5",
         "3.0.2.4"
       ],

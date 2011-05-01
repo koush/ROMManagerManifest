@@ -1,4 +1,4 @@
-$.getJSON("http://pipes.yahoo.com/pipes/pipe.run?_id=332d9216d8910ba39e6c2577fd321a6a&_render=json&u=http%3A%2F%2Frommanager.appspot.com%2Fmanifests%2Fdevices.js&_callback=?",
+$.getJSON("http://pipes.yahoo.com/pipes/pipe.run?_id=332d9216d8910ba39e6c2577fd321a6a&_render=json&u=http%3A%2F%2Fkoush.github.com%2FROMManagerManifest%2Fdevices.js&_callback=?",
 function(data) {
     data = data.value.items[0];
     var version = data.version;

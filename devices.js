@@ -832,6 +832,6 @@
     }
   ],
   "version": "2.5.0.1",
-  "recovery_zip_url": "http://mirrorbrain.cyanogenmod.com/cm/recoveries/recovery-clockwork-%s-%s.zip",
-  "recovery_url": "http://mirrorbrain.cyanogenmod.com/cm/recoveries/recovery-clockwork-%s-%s.img"
+  "recovery_zip_url": "http://mirror.sea.tdrevolution.net/cm/recoveries/recovery-clockwork-%s-%s.zip",
+  "recovery_url": "http://mirror.sea.tdrevolution.net/cm/recoveries/recovery-clockwork-%s-%s.img"
 }

@@ -1126,7 +1126,7 @@
             "summary": "no limits AOSP based ROM with loads of tweaks"
         },
         {
-            "developer": "seo",
+            "developer": "TB Roms",
             "free": "true",
             "id": "seo",
             "icon": "http://android.saraev.ca/download/rommanager/icon.png",

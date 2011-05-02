@@ -1158,7 +1158,18 @@
                 "all": "true" 
             },
             "summary": "Add-on for AOSP ROMs, such as CM" 
-        } 
+        },
+        { 
+            "developer": "das BAMF", 
+            "free": "true", 
+            "id": "dsb9938", 
+            "icon": "http://www.onix-android.com/thatdudebutch/rommgr/burrito.png", 
+            "manifest": "http://www.onix-android.com/thatdudebutch/rommgr/Long%20Manifest.1.0.js", 
+            "roms": { 
+                "mecha": "true"
+            }, 
+            "summary": "das BAMF ROM for Thunderbolt from Adrynalyne and ThatDudeButch" 
+        }		
     ],
     "minversion": "2000"
 }

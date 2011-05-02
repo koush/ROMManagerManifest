@@ -109,17 +109,6 @@
             "summary": "Cool stuffs." 
         },
         {
-            "developer": "IncPacker",
-            "free": "true",
-            "id": "incpacker",
-            "manifest": "http://incpacker.gofreeserve.com/incpacker.js",
-            "roms": {
-                "inc": "true",
-                "mecha": "true" 
-            },
-            "summary": "Hacks for your phone :P" 
-        },
-        {
             "developer": "Bugless Beast",
             "free": "true",
             "id": "pete",
@@ -480,7 +469,7 @@
             "icon": "http://jamezelle.com/RomManagerManifest/jamezelle-RMicon.jpg",
             "manifest": "http://jamezelle.com/RomManagerManifest/manifest.js",
             "roms": {
-                "mecha": "true" 
+                "sholes": "true"
             },
             "summary": "ROMS and more for the Thunderbolt!" 
         },
@@ -658,8 +647,7 @@
             "id": "nixmiui",
             "manifest": "http://rommanagermanifest.appspot.com/developer/nixmiui.js",
             "roms": {
-                "inc": "true",
-                "mecha": "true" 
+                "inc": "true"
             },
             "summary": "MIUI ports by n_i_x" 
         },

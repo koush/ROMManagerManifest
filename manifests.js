@@ -721,7 +721,7 @@
             "icon": "http://www.htc-tweaker.com/IncROM/rm_icon.gif",
             "manifest": "http://htc-tweaker.com/IncROM/IncROM.js",
             "roms": {
-                "inc": "true"
+                "inc": "true",
                 "mecha": "true" 
             },
             "summary": "Creator of IncROM and ThunderROM"

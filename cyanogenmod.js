@@ -329,7 +329,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip" 
+                    "url": "http://goo-inside.me/gapps/gapps-mdpi-20110501-signed.zip" 
                 } 
             ] 
         },
@@ -509,7 +509,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip" 
+                    "url": "http://goo-inside.me/gapps/gapps-mdpi-20110501-signed.zip" 
                 } 
             ] 
         },
@@ -524,7 +524,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip" 
+                    "url": "http://goo-inside.me/gapps/gapps-mdpi-20110501-signed.zip" 
                 } 
             ] 
         },
@@ -539,7 +539,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip" 
+                    "url": "http://goo-inside.me/gapps/gapps-mdpi-20110501-signed.zip" 
                 } 
             ] 
         },
@@ -584,7 +584,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip" 
+                    "url": "http://goo-inside.me/gapps/gapps-mdpi-20110501-signed.zip" 
                 } 
             ] 
         },
@@ -629,7 +629,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip" 
+                    "url": "http://goo-inside.me/gapps/gapps-mdpi-20110501-signed.zip" 
                 } 
             ] 
         },
@@ -809,7 +809,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip" 
+                    "url": "http://goo-inside.me/gapps/gapps-mdpi-20110501-signed.zip" 
                 } 
             ] 
         },
@@ -854,7 +854,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip" 
+                    "url": "http://goo-inside.me/gapps/gapps-mdpi-20110501-signed.zip" 
                 } 
             ] 
         },
@@ -1467,7 +1467,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip" 
+                    "url": "http://goo-inside.me/gapps/gapps-mdpi-20110501-signed.zip" 
                 } 
             ] 
         },
@@ -1486,7 +1486,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip" 
+                    "url": "http://goo-inside.me/gapps/gapps-mdpi-20110501-signed.zip" 
                 } 
             ] 
         },
@@ -1505,7 +1505,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-mdpi-20110301-signed.zip" 
+                    "url": "http://goo-inside.me/gapps/gapps-mdpi-20110501-signed.zip" 
                 } 
             ] 
         },

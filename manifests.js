@@ -212,7 +212,7 @@
             "roms": { 
                 "mecha": "true"
             }, 
-            "summary": "das BAMF ROM for Thunderbolt from Adrynalyne and ThatDudeButch" 
+            "summary": "BAMF for Thunderbolt by Adrynalyne, ThatDudeButch, Trident, and dsb9938" 
         },
         {
             "developer": "ArmyRanger251",

@@ -545,21 +545,6 @@
         },
         {
             "device": "encore",
-            "name": "CyanogenMod 7.0.3",
-            "modversion": "CyanogenMod-7.0.3-encore",
-            "incremental": "7030",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.0.3-encore-signed.zip",
-            "product": "CyanogenMod",
-            "summary": "Stable Release",
-            "addons": [
-                {
-                    "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
-                } 
-            ] 
-        },
-        {
-            "device": "encore",
             "name": "CyanogenMod 7.0.2",
             "modversion": "CyanogenMod-7.0.2-encore",
             "incremental": "7020",

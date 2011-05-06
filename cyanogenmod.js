@@ -1325,6 +1325,21 @@
         },
         {
             "device": "speedy",
+            "name": "CyanogenMod 7.0.3.1",
+            "modversion": "CyanogenMod-7.0.3.1-speedy",
+            "incremental": "7031",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.0.3.1-speedy-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "speedy",
             "name": "CyanogenMod 7.0.2.1",
             "modversion": "CyanogenMod-7.0.2.1-speedy",
             "incremental": "7021",
@@ -1359,6 +1374,21 @@
             "modversion": "CyanogenMod-7.0.0-speedy",
             "incremental": "7005",
             "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-speedy-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "supersonic",
+            "name": "CyanogenMod 7.0.3.1",
+            "modversion": "CyanogenMod-7.0.3.1-Supersonic",
+            "incremental": "7031",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.0.3.1-Supersonic-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [

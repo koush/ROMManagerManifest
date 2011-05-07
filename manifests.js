@@ -1180,7 +1180,7 @@
             "roms": {
                 "harmony": "true"
             },
-            "summary": "For P10AN01 compatible tablets with integrated 3G modem"
+            "summary": "For P10AN01 compatible tablets (Advent Vega, Viewsonic Viewpad 100s, Smartbook Surfer 360, pov Mobii, ...) with integrated 3G modem"
         },
     ],
     "minversion": "2000"

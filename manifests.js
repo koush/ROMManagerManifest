@@ -204,7 +204,7 @@
             "summary": "Themes for multiple ROMs" 
         },
 		{ 
-            "developer": "das BAMF", 
+            "developer": "dasBAMF", 
             "free": "true", 
             "id": "dsb9938", 
             "icon": "http://www.onix-android.com/thatdudebutch/rommgr/burrito.png", 

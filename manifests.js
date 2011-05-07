@@ -1170,7 +1170,18 @@
                 "vision": "true"
             },
             "summary": "Teh ROMs by the TDT"
-        }
+        },
+        {
+            "developer": "BeeGee_Tokyo",
+            "free": "true",
+            "id": "beegee_tokyo",
+            "icon": "http://desire.giesecke.tk/images/Japanese-small.png",
+            "manifest": "http://desire.giesecke.tk/images/ganbarou.js",
+            "roms": {
+                "harmony": "true"
+            },
+            "summary": "For P10AN01 compatible tablets with integrated 3G modem"
+        },
     ],
     "minversion": "2000"
 }

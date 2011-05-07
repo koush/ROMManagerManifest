@@ -705,21 +705,21 @@
     {
       "name": "Captivate (MTD)",
       "version": "3.0.2.5",
-      "reboot_recovery": "reboot recovery ;",
+      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "officially_supported": false,
       "init": "init.aries.rc",
       "key": "captivatemtd"
     },
     {
       "name": "Vibrant (MTD)",
-      "reboot_recovery": "reboot recovery ;",
+      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "init": "init.aries.rc",
       "officially_supported": false,
       "key": "vibrantmtd"
     },
     {
       "name": "i9000 (MTD)",
-      "reboot_recovery": "reboot recovery ;",
+      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "init": "init.aries.rc",
       "officially_supported": false,
       "key": "i9000mtd"

@@ -203,6 +203,17 @@
             },
             "summary": "Themes for multiple ROMs" 
         },
+		{ 
+            "developer": "dasBAMF", 
+            "free": "true", 
+            "id": "dsb9938", 
+            "icon": "http://www.onix-android.com/thatdudebutch/rommgr/burrito.png", 
+            "manifest": "http://www.onix-android.com/thatdudebutch/rommgr/Long%20Manifest.1.0.js", 
+            "roms": { 
+                "mecha": "true"
+            }, 
+            "summary": "BAMF for Thunderbolt by Adrynalyne, ThatDudeButch, Trident, and dsb9938" 
+        },
         {
             "developer": "ArmyRanger251",
             "id": "ArmyRanger251",
@@ -715,14 +726,16 @@
             "summary": "Kernels for Samsung Fascinate" 
         },
         {
-            "developer": "IncROM",
+            "developer": "lllboredlll",
             "free": "true",
             "id": "lllboredlll",
+            "icon": "http://www.htc-tweaker.com/IncROM/rm_icon.gif",
             "manifest": "http://htc-tweaker.com/IncROM/IncROM.js",
             "roms": {
-                "inc": "true" 
+                "inc": "true",
+                "mecha": "true" 
             },
-            "summary": "Making your Incredible, INCREDIBLE!!!" 
+            "summary": "Creator of IncROM and ThunderROM"
         },
         {
             "developer": "Salvage-Mod",
@@ -1147,17 +1160,17 @@
             },
             "summary": "Add-on for AOSP ROMs, such as CM" 
         },
-        { 
-            "developer": "das BAMF", 
-            "free": "true", 
-            "id": "dsb9938", 
-            "icon": "http://www.onix-android.com/thatdudebutch/rommgr/burrito.png", 
-            "manifest": "http://www.onix-android.com/thatdudebutch/rommgr/Long%20Manifest.1.0.js", 
-            "roms": { 
-                "mecha": "true"
-            }, 
-            "summary": "das BAMF ROM for Thunderbolt from Adrynalyne and ThatDudeButch" 
-        }		
+        {
+            "developer": "Troll Dev Team",
+            "free": "true",
+            "id": "DanWilson",
+            "icon": "http://img651.imageshack.us/img651/9139/trollfaced.png",
+            "manifest": "http://dl.dropbox.com/u/7700554/TrollogenMOD.js",
+            "roms": {
+                "vision": "true"
+            },
+            "summary": "Teh ROMs by the TDT"
+        }
     ],
     "minversion": "2000"
 }

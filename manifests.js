@@ -1150,17 +1150,6 @@
             "summary": "ROMs for your HTC Desire HD"
         },
         {
-            "developer": "Google Apps",
-            "free": "true",
-            "id": "google",
-            "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
-            "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
-            "roms": {
-                "all": "true" 
-            },
-            "summary": "Add-on for AOSP ROMs, such as CM" 
-        },
-        {
             "developer": "Troll Dev Team",
             "free": "true",
             "id": "DanWilson",
@@ -1170,6 +1159,28 @@
                 "vision": "true"
             },
             "summary": "Teh ROMs by the TDT"
+        },
+        {
+            "developer": "BeeGee_Tokyo",
+            "free": "true",
+            "id": "beegee_tokyo",
+            "icon": "http://desire.giesecke.tk/images/Japanese-small.png",
+            "manifest": "http://desire.giesecke.tk/images/ganbarou.js",
+            "roms": {
+                "harmony": "true"
+            },
+            "summary": "For P10AN01 compatible tablets (Advent Vega, Viewsonic Viewpad 100s, Smartbook Surfer 360, pov Mobii, ...) with integrated 3G modem"
+        },
+        {
+            "developer": "Google Apps",
+            "free": "true",
+            "id": "google",
+            "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
+            "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
+            "roms": {
+                "all": "true" 
+            },
+            "summary": "Add-on for AOSP ROMs, such as CM" 
         }
     ],
     "minversion": "2000"

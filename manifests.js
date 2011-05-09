@@ -1191,6 +1191,16 @@
         "vibrant": true
       },
       "summary": "Vibrant ROMs"
+    },
+    {
+      "name": "davidjr621",
+      "icon": "1c5e965d78ec41f64a79490bb2534c8e.png",
+      "id": "davidjr621",
+      "manifest": "http://romshare.deployfu.com/developer/davidjr621/manifest",
+      "roms": {
+        "sholes": true
+      },
+      "summary": "Themes and Other Bacon for Multiple ROMs and Phones"
     }
   ],
   "minversion": "2000"

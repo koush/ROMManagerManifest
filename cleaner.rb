@@ -2,7 +2,7 @@ require 'rubygems'
 require 'json'
 require 'open-uri'
 
-data = File.open('manifests.js').read
+data = File.open('manual_manifests.js').read
 parsed_data = JSON.parse(data)
 manifests = parsed_data['manifests']
 
@@ -34,4 +34,4 @@ end
 
 parsed_data['manifests'] = new_manifests
 
-File.open('manifests.js', 'w').write(JSON.pretty_generate(parsed_data))
+File.open('manual_manifests.js', 'w').write(JSON.pretty_generate(parsed_data))

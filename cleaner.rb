@@ -26,10 +26,12 @@ new_manifests = []
 for manifest in manifests:
   if manifest['visible'] then
     new_manifests << manifest
+    manifest.delete('visible')
+  else
+    puts "Nuking: " + manifest['developer'] + " " + manifest['manifest']
   end
-  manifest.delete('visible')
 end
 
 parsed_data['manifests'] = new_manifests
 
-puts JSON.dump(parsed_data)
+File.open('manifests.js', 'w').write(JSON.pretty_generate(parsed_data))

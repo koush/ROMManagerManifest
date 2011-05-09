@@ -1184,7 +1184,6 @@
     },
     {
       "name": "Roman",
-      "icon": null,
       "id": "einherjar",
       "manifest": "http://romshare.deployfu.com/developer/einherjar/manifest",
       "roms": {
@@ -1194,7 +1193,7 @@
     },
     {
       "name": "davidjr621",
-      "icon": "1c5e965d78ec41f64a79490bb2534c8e.png",
+      "icon": "http://romshare.deployfu.com/downloads/38/1c5e965d78ec41f64a79490bb2534c8e.png",
       "id": "davidjr621",
       "manifest": "http://romshare.deployfu.com/developer/davidjr621/manifest",
       "roms": {

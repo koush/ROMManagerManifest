@@ -1184,6 +1184,7 @@
     },
     {
       "developer": "Roman",
+      "free": true,
       "id": "einherjar",
       "manifest": "http://romshare.deployfu.com/developer/einherjar/manifest",
       "roms": {
@@ -1193,6 +1194,7 @@
     },
     {
       "developer": "davidjr621",
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/38/1c5e965d78ec41f64a79490bb2534c8e.png",
       "id": "davidjr621",
       "manifest": "http://romshare.deployfu.com/developer/davidjr621/manifest",
@@ -1203,6 +1205,7 @@
     },
     {
       "developer": "Magiman7",
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/42/99378819a6629ebb98f0aa8921ccec9f.png",
       "id": "magiman7",
       "manifest": "http://romshare.deployfu.com/developer/magiman7/manifest",

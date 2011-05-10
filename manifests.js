@@ -1200,6 +1200,16 @@
         "sholes": true
       },
       "summary": "Themes and Other Bacon for Multiple ROMs and Phones"
+    },
+    {
+      "name": "Magiman7",
+      "icon": "http://romshare.deployfu.com/downloads/42/99378819a6629ebb98f0aa8921ccec9f.png",
+      "id": "magiman7",
+      "manifest": "http://romshare.deployfu.com/developer/magiman7/manifest",
+      "roms": {
+        "sholes": true
+      },
+      "summary": "Miui.us Ports for Droid"
     }
   ],
   "minversion": "2000"

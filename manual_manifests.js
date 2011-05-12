@@ -1162,6 +1162,17 @@
             "summary": "For P10AN01 compatible tablets (Advent Vega, Viewsonic Viewpad 100s, Smartbook Surfer 360, pov Mobii, ...) with integrated 3G modem"
         },
         {
+            "developer": "DeltaProject",
+            "free": "true",
+            "id": "deltaproject",
+            "icon": "http://deltarom.ru/roms/logo.png",
+            "manifest": "http://deltarom.ru/roms/deltaprodesires.js",
+            "roms": {
+                "bravo": "true"
+            },
+            "summary": "The best firmware on Android 2.3"
+        },
+        {
             "developer": "Google Apps",
             "free": "true",
             "id": "google",

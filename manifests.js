@@ -1246,7 +1246,7 @@
       "summary": "Custom ROMs for MT4G/Glacier"
     },
     {
-      "developer": "DrewGaren Roms",
+      "developer": "DrewGaren Nightlies",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
       "id": "drewg29@gmail.com",
@@ -1254,7 +1254,7 @@
       "roms": {
         "droidx": true
       },
-      "summary": "Roms and more for your Droid X"
+      "summary": "DrewGaren Beta Roms Nightly Builds!"
     }
   ],
   "minversion": "2000"

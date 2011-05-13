@@ -704,10 +704,10 @@
     },
     {
       "name": "Captivate (MTD)",
-      "version": "3.0.2.5",
       "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
-      "officially_supported": false,
+      "version": "3.0.2.5",
       "init": "init.aries.rc",
+      "officially_supported": false,
       "key": "captivatemtd"
     },
     {
@@ -723,12 +723,6 @@
       "init": "init.aries.rc",
       "officially_supported": false,
       "key": "i9000mtd"
-    },
-    {
-      "name": "LG Optimus One",
-      "init": "init.thunderg.rc",
-      "officially_supported": false,
-      "key": "optimusone"
     },
     {
       "name": "Epic4G",
@@ -833,6 +827,18 @@
         "3.0.2.7"
       ],
       "key": "p990"
+    },
+    {
+      "name": "Nexus S 4G",
+      "version": "3.1.0.0",
+      "init": "init.p3.rc",
+      "key": "crespo4g"
+    },
+    {
+      "name": "LG Optimus One",
+      "version": "3.1.0.0",
+      "init": "init.thunderg.rc",
+      "key": "thunderg"
     }
   ],
   "version": "2.5.0.1",

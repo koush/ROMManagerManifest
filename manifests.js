@@ -1322,14 +1322,15 @@
       "summary": "foschi@gmail.com"
     },
     {
-      "developer": "kaiyaxxx@gmail.com",
+      "developer": "Kaiya215",
       "free": true,
-      "id": "kaiyaxxx@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/kaiyaxxx@gmail.com/manifest",
+      "icon": "http://romshare.deployfu.com/downloads/150/11ec826ebbb6d6a9a7a929145eafc1ef.xcf",
+      "id": "Kaiya215",
+      "manifest": "http://romshare.deployfu.com/developer/Kaiya215/manifest",
       "roms": {
         "crespo": true
       },
-      "summary": "kaiyaxxx@gmail.com"
+      "summary": "former eris developer... now developing for the nexus s. fastest gingerbread roms available."
     }
   ],
   "minversion": "2000"

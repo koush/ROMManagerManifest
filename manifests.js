@@ -1277,6 +1277,59 @@
         "sholes": true
       },
       "summary": "Miui.us Ports for Droid"
+    },
+    {
+      "developer": "DarkyROM",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/124/e975fb9db2047ee42b84d4d65f612fcd.png",
+      "id": "darkyy92@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/darkyy92@gmail.com/manifest",
+      "roms": {
+        "galaxys": true
+      },
+      "summary": "Clean, fast & customizable Samsung Galaxy S ROM."
+    },
+    {
+      "developer": "E-XtremeMod",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/132/3bea45cb0d900947ae2ceb5399b617f3.png",
+      "id": "kenmood@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/kenmood@gmail.com/manifest",
+      "roms": {
+        "passion": true
+      },
+      "summary": "CM7 based mod with performance and graphic enhancements."
+    },
+    {
+      "developer": "TyphooN CyanogenMod",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/146/24fb59de6489c544c6fd683b6a43e491.png",
+      "id": "tyween",
+      "manifest": "http://romshare.deployfu.com/developer/tyween/manifest",
+      "roms": {
+        "leo": true
+      },
+      "summary": "The latest stock CyanogenMod 7 Desire (bravo) base ported to HD2 with the minimal amount of changes required.  No custom apps are included.  Visit the ROM's thread @ xda: http://forum.xda-developers.com/showthread.php?t=933951 ."
+    },
+    {
+      "developer": "foschi@gmail.com",
+      "free": true,
+      "id": "foschi@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/foschi@gmail.com/manifest",
+      "roms": {
+        "thunderg": true
+      },
+      "summary": "foschi@gmail.com"
+    },
+    {
+      "developer": "kaiyaxxx@gmail.com",
+      "free": true,
+      "id": "kaiyaxxx@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/kaiyaxxx@gmail.com/manifest",
+      "roms": {
+        "crespo": true
+      },
+      "summary": "kaiyaxxx@gmail.com"
     }
   ],
   "minversion": "2000"

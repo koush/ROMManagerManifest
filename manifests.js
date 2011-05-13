@@ -1266,6 +1266,17 @@
         "droidx": true
       },
       "summary": "DrewGaren Beta Roms Nightly Builds!"
+    },
+    {
+      "developer": "IcarusMod",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/30/62ad92ed964f39999dc2627cd538d1a6.png",
+      "id": "icarusmod",
+      "manifest": "http://romshare.deployfu.com/developer/icarusmod/manifest",
+      "roms": {
+        "ascend": true
+      },
+      "summary": "A clean, mostly vanilla port of CM7"
     }
   ],
   "minversion": "2000"

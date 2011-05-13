@@ -1265,7 +1265,7 @@
       "roms": {
         "ascend": true
       },
-      "summary": "A clean, mostly vanilla port of CyanogenMod 7"
+      "summary": "A clean, mostly vanilla port of CyanogenMod 7. These are very experimental."
     },
     {
       "developer": "Magiman7",
@@ -1331,6 +1331,16 @@
         "crespo": true
       },
       "summary": "former eris developer... now developing for the nexus s. fastest gingerbread roms available."
+    },
+    {
+      "developer": "Dalingrin's Test Builds",
+      "free": true,
+      "id": "ehardesty@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/ehardesty@gmail.com/manifest",
+      "roms": {
+        "encore": true
+      },
+      "summary": "CM7 test builds"
     }
   ],
   "minversion": "2000"

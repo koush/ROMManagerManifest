@@ -1172,6 +1172,17 @@
       "summary": "For P10AN01 compatible tablets (Advent Vega, Viewsonic Viewpad 100s, Smartbook Surfer 360, pov Mobii, ...) with integrated 3G modem"
     },
     {
+      "developer": "DeltaProject",
+      "icon": "http://deltarom.ru/roms/logo.png",
+      "id": "deltaproject",
+      "free": "true",
+      "manifest": "http://deltarom.ru/roms/deltaprodesires.js",
+      "roms": {
+        "bravo": "true"
+      },
+      "summary": "The best firmware on Android 2.3"
+    },
+    {
       "developer": "Google Apps",
       "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
       "id": "google",
@@ -1249,8 +1260,8 @@
       "developer": "DrewGaren Nightlies",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
-      "id": "drewg29@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/drewg29@gmail.com/manifest",
+      "id": "drewgarennightly",
+      "manifest": "http://romshare.deployfu.com/developer/drewgarennightly/manifest",
       "roms": {
         "droidx": true
       },

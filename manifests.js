@@ -1244,6 +1244,17 @@
         "glacier": true
       },
       "summary": "Custom ROMs for MT4G/Glacier"
+    },
+    {
+      "developer": "DrewGaren Roms",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/70/1ecad5e57d8f813dd8b981a42c154095.jpeg",
+      "id": "drewg29@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/drewg29@gmail.com/manifest",
+      "roms": {
+        "droidx": true
+      },
+      "summary": "Roms and more for your Droid X"
     }
   ],
   "minversion": "2000"

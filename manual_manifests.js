@@ -623,6 +623,16 @@
             "summary": "rubiX ROMs for DroidX" 
         },
         {
+            "developer": "DrewGaren",
+            "free": "true",
+            "id": "drewgaren",
+            "manifest": "http://drewgaren.com/manifest.js",
+            "roms": {
+                "droidx": "true" 
+            },
+            "summary": "Roms and More, Must have Froyo Installed Prior" 
+        },
+        {
             "developer": "Steel Droid",
             "free": "true",
             "id": "chevycam94",

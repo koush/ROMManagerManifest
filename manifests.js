@@ -1259,7 +1259,7 @@
     {
       "developer": "IcarusMod",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/30/62ad92ed964f39999dc2627cd538d1a6.png",
+      "icon": "http://romshare.deployfu.com/downloads/30/c979e8b3907bd1bce28bbc43f561a97a.png",
       "id": "icarusmod",
       "manifest": "http://romshare.deployfu.com/developer/icarusmod/manifest",
       "roms": {
@@ -1322,9 +1322,9 @@
       "summary": "foschi@gmail.com"
     },
     {
-      "developer": "Kaiya215",
+      "developer": "NexBreed",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/150/11ec826ebbb6d6a9a7a929145eafc1ef.xcf",
+      "icon": "http://romshare.deployfu.com/downloads/150/06f5d36ced5f4795548d594dc9388435.jpg",
       "id": "Kaiya215",
       "manifest": "http://romshare.deployfu.com/developer/Kaiya215/manifest",
       "roms": {

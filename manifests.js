@@ -1238,7 +1238,7 @@
     {
       "developer": "DrewGaren Roms",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/70/1ecad5e57d8f813dd8b981a42c154095.jpeg",
+      "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
       "id": "drewg29@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/drewg29@gmail.com/manifest",
       "roms": {

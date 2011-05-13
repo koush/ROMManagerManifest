@@ -1235,17 +1235,6 @@
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken."
     },
     {
-      "developer": "Magiman7",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/42/70d519969f6c857c9e5b7c1cfb147ae9.png",
-      "id": "magiman7",
-      "manifest": "http://romshare.deployfu.com/developer/magiman7/manifest",
-      "roms": {
-        "sholes": true
-      },
-      "summary": "Miui.us Ports for Droid"
-    },
-    {
       "developer": "Faux123 MT4G Glacier ROMs",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/65/458f8e1774c14317e04210d456d579e0.gif",
@@ -1276,7 +1265,18 @@
       "roms": {
         "ascend": true
       },
-      "summary": "A clean, mostly vanilla port of CM7"
+      "summary": "A clean, mostly vanilla port of CyanogenMod 7"
+    },
+    {
+      "developer": "Magiman7",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/42/70d519969f6c857c9e5b7c1cfb147ae9.png",
+      "id": "magiman7",
+      "manifest": "http://romshare.deployfu.com/developer/magiman7/manifest",
+      "roms": {
+        "sholes": true
+      },
+      "summary": "Miui.us Ports for Droid"
     }
   ],
   "minversion": "2000"

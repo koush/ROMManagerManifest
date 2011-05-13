@@ -1341,6 +1341,17 @@
         "encore": true
       },
       "summary": "CM7 test builds"
+    },
+    {
+      "developer": "SnakeBiteZZ",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/178/75a44ae18b10c58a76c785cbf245f3f0.jpg",
+      "id": "SnakeBiteZZ",
+      "manifest": "http://romshare.deployfu.com/developer/SnakeBiteZZ/manifest",
+      "roms": {
+        "glacier": true
+      },
+      "summary": "The small Pieces"
     }
   ],
   "minversion": "2000"

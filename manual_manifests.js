@@ -274,7 +274,7 @@
             "developer": "Pershoot",
             "free": "true",
             "id": "pershoot",
-            "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/pershoot.js",
+            "manifest": "http://pershoot.github.com/ROMManagerManifest/pershoot.js",
             "roms": {
                 "passion": "true",
                 "magic": "true",

@@ -1194,7 +1194,7 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
-      "developer": "Einherjar Dev Team",
+      "developer": "birgertime",
       "free": true,
       "id": "einherjar",
       "manifest": "http://romshare.deployfu.com/developer/einherjar/manifest",

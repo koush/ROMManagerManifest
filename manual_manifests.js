@@ -109,14 +109,16 @@
             "summary": "Cool stuffs." 
         },
         {
-            "developer": "Bugless Beast",
+            "developer": "Peter Alfonso",
+            "icon": "http://wonderly.com/bb/WEBSITE/pete.jpg",
             "free": "true",
             "id": "pete",
             "manifest": "http://wonderly.com/bb/WEBSITE/pete.js",
             "roms": {
-                "sholes": "true" 
+                "sholes": "true",
+                "crespo4g": "true" 
             },
-            "summary": "ROMs by Peter Alfonso\nwww.twitter.com/peteralfonso" 
+            "summary": "www.peteralfonso.com\nwww.twitter.com/peteralfonso"
         },
         {
             "developer": "MrBobrowitz",

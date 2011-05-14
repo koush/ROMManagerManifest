@@ -1243,6 +1243,7 @@
       "id": "Faux123",
       "manifest": "http://romshare.deployfu.com/developer/Faux123/manifest",
       "roms": {
+        "p999": true,
         "glacier": true
       },
       "summary": "Custom ROMs for MT4G/Glacier"
@@ -1358,7 +1359,7 @@
     {
       "developer": "Rafyvitto",
       "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/177/02f8f4cf6c9b218bf5ae4342d9e72391.png",
+      "icon": "http://romshare.deployfu.com/downloads/177/700bcfbb335a940d5d43aab2894d058d.jpg",
       "id": "Android-Maisters",
       "manifest": "http://romshare.deployfu.com/developer/Android-Maisters/manifest",
       "roms": {

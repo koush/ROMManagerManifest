@@ -1354,6 +1354,17 @@
         "glacier": true
       },
       "summary": "The small Pieces"
+    },
+    {
+      "developer": "Rafyvitto",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/177/02f8f4cf6c9b218bf5ae4342d9e72391.png",
+      "id": "Android-Maisters",
+      "manifest": "http://romshare.deployfu.com/developer/Android-Maisters/manifest",
+      "roms": {
+        "glacier": true
+      },
+      "summary": "Android-Maisters Roms latest and greatest!"
     }
   ],
   "minversion": "2000"

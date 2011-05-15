@@ -1374,7 +1374,8 @@
       "id": "zachs@zachspong.com",
       "manifest": "http://romshare.deployfu.com/developer/zachs@zachspong.com/manifest",
       "roms": {
-        "morrison": true
+        "morrison": true,
+        "sholes": true
       },
       "summary": "ZachsAndroidApps makes custom themes and roms upon request."
     },

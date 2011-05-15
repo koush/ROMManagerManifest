@@ -1412,11 +1412,11 @@
       "summary": "stiffspliff@gmail.com"
     },
     {
-      "developer": "atinm.dev@gmail.com",
+      "developer": "Teamhacksung",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/5/e37442e1c9d8f4dde5ceb57f51967029.png",
-      "id": "teamhacksung",
-      "manifest": "http://romshare.deployfu.com/developer/teamhacksung/manifest",
+      "id": "atinm",
+      "manifest": "http://romshare.deployfu.com/developer/atinm/manifest",
       "roms": {
         "vibrantmtd": true,
         "captivate": true,

@@ -1366,6 +1366,47 @@
         "glacier": true
       },
       "summary": "Android-Maisters Roms latest and greatest!"
+    },
+    {
+      "developer": "ZachsAndroidApps",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/200/b38c693479f1a705a87a9503c18f7cc0.gif",
+      "id": "zachs@zachspong.com",
+      "manifest": "http://romshare.deployfu.com/developer/zachs@zachspong.com/manifest",
+      "roms": {
+        "morrison": true
+      },
+      "summary": "ZachsAndroidApps makes custom themes and roms upon request."
+    },
+    {
+      "developer": "siulmagic",
+      "free": false,
+      "id": "siulmagic@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/siulmagic@gmail.com/manifest",
+      "roms": {
+        "vision": true
+      },
+      "summary": "Quality Releases"
+    },
+    {
+      "developer": "Bugfixes for CM7",
+      "free": false,
+      "id": "plasma",
+      "manifest": "http://romshare.deployfu.com/developer/plasma/manifest",
+      "roms": {
+        "p990": true
+      },
+      "summary": "Bugfixes for Cyanogenmod 7 Rom‘s"
+    },
+    {
+      "developer": "victorrivero15@gmail.com",
+      "free": false,
+      "id": "victorrivero15@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/victorrivero15@gmail.com/manifest",
+      "roms": {
+        "ascend": true
+      },
+      "summary": "victorrivero15@gmail.com"
     }
   ],
   "minversion": "2000"

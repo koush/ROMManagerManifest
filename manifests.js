@@ -1418,22 +1418,14 @@
       "id": "atinm",
       "manifest": "http://romshare.deployfu.com/developer/atinm/manifest",
       "roms": {
+        "galaxys": true,
         "vibrantmtd": true,
         "captivate": true,
         "vibrant": true,
-        "captivatemtd": true
+        "captivatemtd": true,
+        "i9000mtd": true
       },
       "summary": "CyanogenMod 7 for SGS"
-    },
-    {
-      "developer": "CyanogenMod 7",
-      "free": false,
-      "id": "daniel.hillenbrand@codeworkx.de",
-      "manifest": "http://romshare.deployfu.com/developer/daniel.hillenbrand@codeworkx.de/manifest",
-      "roms": {
-        "galaxys": true
-      },
-      "summary": "CyanogenMod 7 INITIAL build. For use with Froyo + CWM."
     }
   ],
   "minversion": "2000"

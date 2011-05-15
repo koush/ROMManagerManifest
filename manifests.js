@@ -1227,16 +1227,6 @@
       "summary": "CyanogenMod 7 with few tweaks for better performance on the OG Droid and pulls from gerrit.  "
     },
     {
-      "developer": "CyanogenMod Nightlies",
-      "free": false,
-      "id": "daniel.hillenbrand@codeworkx.de",
-      "manifest": "http://romshare.deployfu.com/developer/daniel.hillenbrand@codeworkx.de/manifest",
-      "roms": {
-        "i9000mtd": true
-      },
-      "summary": "CyanogenMod Nightly builds. Very experimental and probably broken."
-    },
-    {
       "developer": "Faux123 MT4G Glacier ROMs",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/65/458f8e1774c14317e04210d456d579e0.gif",
@@ -1399,7 +1389,7 @@
       "roms": {
         "p990": true
       },
-      "summary": "Bugfixes for Cyanogenmod 7 Rom‘s"
+      "summary": "Bugfixes for Cyanogenmod 7"
     },
     {
       "developer": "Humo0915",
@@ -1410,6 +1400,40 @@
         "ascend": true
       },
       "summary": "Custom CM7 for humo0915"
+    },
+    {
+      "developer": "stiffspliff@gmail.com",
+      "free": false,
+      "id": "stiffspliff@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/stiffspliff@gmail.com/manifest",
+      "roms": {
+        "supersonic": true
+      },
+      "summary": "stiffspliff@gmail.com"
+    },
+    {
+      "developer": "atinm.dev@gmail.com",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/5/e37442e1c9d8f4dde5ceb57f51967029.png",
+      "id": "teamhacksung",
+      "manifest": "http://romshare.deployfu.com/developer/teamhacksung/manifest",
+      "roms": {
+        "vibrantmtd": true,
+        "captivate": true,
+        "vibrant": true,
+        "captivatemtd": true
+      },
+      "summary": "CyanogenMod 7 for SGS"
+    },
+    {
+      "developer": "CyanogenMod 7",
+      "free": false,
+      "id": "daniel.hillenbrand@codeworkx.de",
+      "manifest": "http://romshare.deployfu.com/developer/daniel.hillenbrand@codeworkx.de/manifest",
+      "roms": {
+        "galaxys": true
+      },
+      "summary": "CyanogenMod 7 INITIAL build. For use with Froyo + CWM."
     }
   ],
   "minversion": "2000"

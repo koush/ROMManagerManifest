@@ -287,19 +287,6 @@
       "key": "galaxys"
     },
     {
-      "name": "Galaxy S i9000B",
-      "version": "2.5.1.2",
-      "readonly_recovery": true,
-      "init": "lpm.rc",
-      "legacy_versions": [
-        "2.5.1.2",
-        "2.5.1.4",
-        "2.5.1.3",
-        "2.5.1.1"
-      ],
-      "key": "galaxysb"
-    },
-    {
       "name": "Galaxy S Fascinate",
       "version": "3.0.0.8",
       "readonly_recovery": true,
@@ -736,13 +723,6 @@
       "init": "init.aries.rc",
       "officially_supported": false,
       "key": "i9000mtd"
-    },
-    {
-      "name": "i9000B (MTD)",
-      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
-      "init": "init.aries.rc",
-      "officially_supported": false,
-      "key": "i9000bmtd"
     },
     {
       "name": "Epic4G",

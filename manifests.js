@@ -1410,22 +1410,6 @@
         "supersonic": true
       },
       "summary": "stiffspliff@gmail.com"
-    },
-    {
-      "developer": "Teamhacksung",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/5/e37442e1c9d8f4dde5ceb57f51967029.png",
-      "id": "atinm",
-      "manifest": "http://romshare.deployfu.com/developer/atinm/manifest",
-      "roms": {
-        "galaxys": true,
-        "vibrantmtd": true,
-        "captivate": true,
-        "vibrant": true,
-        "captivatemtd": true,
-        "i9000mtd": true
-      },
-      "summary": "CyanogenMod 7 for SGS"
     }
   ],
   "minversion": "2000"

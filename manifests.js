@@ -1255,6 +1255,7 @@
       "id": "drewgarennightly",
       "manifest": "http://romshare.deployfu.com/developer/drewgarennightly/manifest",
       "roms": {
+        "encore": true,
         "droidx": true
       },
       "summary": "DrewGaren Beta Roms Nightly Builds!"
@@ -1382,6 +1383,7 @@
     {
       "developer": "siulmagic",
       "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/198/8e366a4e34c56d2a83c384b8cff73b88.jpg",
       "id": "siulmagic@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/siulmagic@gmail.com/manifest",
       "roms": {
@@ -1400,14 +1402,14 @@
       "summary": "Bugfixes for Cyanogenmod 7 Rom‘s"
     },
     {
-      "developer": "victorrivero15@gmail.com",
+      "developer": "Humo0915",
       "free": false,
-      "id": "victorrivero15@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/victorrivero15@gmail.com/manifest",
+      "id": "Humo0915",
+      "manifest": "http://romshare.deployfu.com/developer/Humo0915/manifest",
       "roms": {
         "ascend": true
       },
-      "summary": "victorrivero15@gmail.com"
+      "summary": "Custom CM7 for humo0915"
     }
   ],
   "minversion": "2000"

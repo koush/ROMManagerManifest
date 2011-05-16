@@ -1405,6 +1405,17 @@
         "i9000mtd": true
       },
       "summary": "CyanogenMod 7 for SGS"
+    },
+    {
+      "developer": "Team Whiskey",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/217/1f014e3a34997c82b915902c05ba2005.png",
+      "id": "Krylon360",
+      "manifest": "http://romshare.deployfu.com/developer/Krylon360/manifest",
+      "roms": {
+        "p999": true
+      },
+      "summary": "TeamWhiskey Bionix Roms for the LG G2x and Samsung Vibrant "
     }
   ],
   "minversion": "2000"

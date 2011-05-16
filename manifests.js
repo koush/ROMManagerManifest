@@ -1392,16 +1392,6 @@
       "summary": "Bugfixes for Cyanogenmod 7"
     },
     {
-      "developer": "Humo0915",
-      "free": false,
-      "id": "Humo0915",
-      "manifest": "http://romshare.deployfu.com/developer/Humo0915/manifest",
-      "roms": {
-        "ascend": true
-      },
-      "summary": "Custom CM7 for humo0915"
-    },
-    {
       "developer": "stiffspliff@gmail.com",
       "free": false,
       "id": "stiffspliff@gmail.com",

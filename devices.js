@@ -831,7 +831,7 @@
     {
       "name": "Nexus S 4G",
       "version": "3.1.0.1",
-      "init": "init.p3.rc",
+      "init": "init.herring.rc",
       "legacy_versions": [
         "3.1.0.0",
         "3.1.0.0"

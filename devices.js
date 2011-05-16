@@ -830,8 +830,12 @@
     },
     {
       "name": "Nexus S 4G",
-      "version": "3.1.0.0",
+      "version": "3.1.0.1",
       "init": "init.p3.rc",
+      "legacy_versions": [
+        "3.1.0.0",
+        "3.1.0.0"
+      ],
       "key": "crespo4g"
     },
     {

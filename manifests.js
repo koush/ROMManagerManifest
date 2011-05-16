@@ -1197,7 +1197,7 @@
     },
     {
       "developer": "birgertime",
-      "free": false,
+      "free": true,
       "id": "einherjar",
       "manifest": "http://romshare.deployfu.com/developer/einherjar/manifest",
       "roms": {
@@ -1207,7 +1207,7 @@
     },
     {
       "developer": "davidjr621",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/38/1c5e965d78ec41f64a79490bb2534c8e.png",
       "id": "davidjr621",
       "manifest": "http://romshare.deployfu.com/developer/davidjr621/manifest",
@@ -1218,7 +1218,7 @@
     },
     {
       "developer": "winner00",
-      "free": false,
+      "free": true,
       "id": "toverturf@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/toverturf@gmail.com/manifest",
       "roms": {
@@ -1228,7 +1228,7 @@
     },
     {
       "developer": "Faux123 MT4G Glacier ROMs",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/65/458f8e1774c14317e04210d456d579e0.gif",
       "id": "Faux123",
       "manifest": "http://romshare.deployfu.com/developer/Faux123/manifest",
@@ -1240,7 +1240,7 @@
     },
     {
       "developer": "DrewGaren Nightlies",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
       "id": "drewgarennightly",
       "manifest": "http://romshare.deployfu.com/developer/drewgarennightly/manifest",
@@ -1252,7 +1252,7 @@
     },
     {
       "developer": "IcarusMod",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/30/c979e8b3907bd1bce28bbc43f561a97a.png",
       "id": "icarusmod",
       "manifest": "http://romshare.deployfu.com/developer/icarusmod/manifest",
@@ -1263,7 +1263,7 @@
     },
     {
       "developer": "Magiman7",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/42/70d519969f6c857c9e5b7c1cfb147ae9.png",
       "id": "magiman7",
       "manifest": "http://romshare.deployfu.com/developer/magiman7/manifest",
@@ -1274,7 +1274,7 @@
     },
     {
       "developer": "DarkyROM",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/124/e975fb9db2047ee42b84d4d65f612fcd.png",
       "id": "darkyy92@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/darkyy92@gmail.com/manifest",
@@ -1285,7 +1285,7 @@
     },
     {
       "developer": "E-XtremeMod",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/132/3bea45cb0d900947ae2ceb5399b617f3.png",
       "id": "kenmood@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/kenmood@gmail.com/manifest",
@@ -1296,7 +1296,7 @@
     },
     {
       "developer": "TyphooN CyanogenMod",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/146/24fb59de6489c544c6fd683b6a43e491.png",
       "id": "tyween",
       "manifest": "http://romshare.deployfu.com/developer/tyween/manifest",
@@ -1307,7 +1307,7 @@
     },
     {
       "developer": "foschi@gmail.com",
-      "free": false,
+      "free": true,
       "id": "foschi@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/foschi@gmail.com/manifest",
       "roms": {
@@ -1317,7 +1317,7 @@
     },
     {
       "developer": "NexBreed",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/150/06f5d36ced5f4795548d594dc9388435.jpg",
       "id": "Kaiya215",
       "manifest": "http://romshare.deployfu.com/developer/Kaiya215/manifest",
@@ -1328,7 +1328,7 @@
     },
     {
       "developer": "Dalingrin's Test Builds",
-      "free": false,
+      "free": true,
       "id": "ehardesty@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/ehardesty@gmail.com/manifest",
       "roms": {
@@ -1338,7 +1338,7 @@
     },
     {
       "developer": "SnakeBiteZZ",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/178/75a44ae18b10c58a76c785cbf245f3f0.jpg",
       "id": "SnakeBiteZZ",
       "manifest": "http://romshare.deployfu.com/developer/SnakeBiteZZ/manifest",
@@ -1349,7 +1349,7 @@
     },
     {
       "developer": "Rafyvitto",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/177/700bcfbb335a940d5d43aab2894d058d.jpg",
       "id": "Android-Maisters",
       "manifest": "http://romshare.deployfu.com/developer/Android-Maisters/manifest",
@@ -1360,7 +1360,7 @@
     },
     {
       "developer": "ZachsAndroidApps",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/200/b38c693479f1a705a87a9503c18f7cc0.gif",
       "id": "zachs@zachspong.com",
       "manifest": "http://romshare.deployfu.com/developer/zachs@zachspong.com/manifest",
@@ -1372,7 +1372,7 @@
     },
     {
       "developer": "siulmagic",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/198/8e366a4e34c56d2a83c384b8cff73b88.jpg",
       "id": "siulmagic@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/siulmagic@gmail.com/manifest",
@@ -1383,23 +1383,13 @@
     },
     {
       "developer": "Bugfixes for CM7",
-      "free": false,
+      "free": true,
       "id": "plasma",
       "manifest": "http://romshare.deployfu.com/developer/plasma/manifest",
       "roms": {
         "p990": true
       },
       "summary": "Bugfixes for Cyanogenmod 7"
-    },
-    {
-      "developer": "stiffspliff@gmail.com",
-      "free": false,
-      "id": "stiffspliff@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/stiffspliff@gmail.com/manifest",
-      "roms": {
-        "supersonic": true
-      },
-      "summary": "stiffspliff@gmail.com"
     }
   ],
   "minversion": "2000"

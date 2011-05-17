@@ -1442,6 +1442,7 @@
     {
       "developer": "CorCor67",
       "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/208/1a50ab91ddac2b2ef3829b8e4c7a3664.png",
       "id": "corcor67@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/corcor67@gmail.com/manifest",
       "roms": {

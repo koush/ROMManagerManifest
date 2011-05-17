@@ -1459,7 +1459,8 @@
       "manifest": "http://romshare.deployfu.com/developer/phiredrop/manifest",
       "roms": {
         "vibrant": true,
-        "nookcolor": true
+        "nookcolor": true,
+        "encore": true
       },
       "summary": "Modified CM - bringing you the best of Android."
     }

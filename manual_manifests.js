@@ -420,7 +420,7 @@
             "id": "jpameli",
             "manifest": "http://android.jpameli.de/paysroms.js",
             "roms": {
-                "desire": "true" 
+                "bravo": "true" 
             },
             "summary": "Stable HTC Desire / Bravo ROMs with the latest addons and patches" 
         },
@@ -872,7 +872,7 @@
             "id": "ACS",
             "manifest": "http://holylivingfuck.com/ACS/Romlist.js",
             "roms": {
-                "epic": "true",
+                "epic4g": "true",
                 "supersonic": "true" 
             },
             "summary": "Android Creative Syndicate" 

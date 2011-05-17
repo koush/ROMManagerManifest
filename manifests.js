@@ -1416,6 +1416,17 @@
         "p999": true
       },
       "summary": "TeamWhiskey Bionix Roms for the LG G2x and Samsung Vibrant "
+    },
+    {
+      "developer": "Cyanogenmod",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/220/67a6b509cd40321f4743cf903c6ca72a.jpg",
+      "id": "Kernelzilla",
+      "manifest": "http://romshare.deployfu.com/developer/Kernelzilla/manifest",
+      "roms": {
+        "backflip": true
+      },
+      "summary": "Ports of Cyanogenmod for the Backflip"
     }
   ],
   "minversion": "2000"

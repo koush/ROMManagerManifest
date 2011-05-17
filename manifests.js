@@ -1413,7 +1413,8 @@
       "id": "Krylon360",
       "manifest": "http://romshare.deployfu.com/developer/Krylon360/manifest",
       "roms": {
-        "p999": true
+        "p999": true,
+        "vibrant": true
       },
       "summary": "TeamWhiskey Bionix Roms for the LG G2x and Samsung Vibrant "
     },
@@ -1449,6 +1450,18 @@
         "sholes": true
       },
       "summary": "OC Kernels for the Droid"
+    },
+    {
+      "developer": "phiremod",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/234/8f79ee0e2a11ff0e735d220dca4d1525.gif",
+      "id": "phiredrop",
+      "manifest": "http://romshare.deployfu.com/developer/phiredrop/manifest",
+      "roms": {
+        "vibrant": true,
+        "nookcolor": true
+      },
+      "summary": "Modified CM - bringing you the best of Android."
     }
   ],
   "minversion": "2000"

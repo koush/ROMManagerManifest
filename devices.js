@@ -612,18 +612,6 @@
       "key": "droidpro"
     },
     {
-      "name": "Nook Color (old)",
-      "reboot_recovery": "dd if=/dev/zero of=/rom/bcb bs=64 count=1 ; echo 'recovery' >> /rom/bcb ; reboot ;",
-      "flash_recovery": "busybox mount -orw,remount / ; mkdir /boot ; busybox mount /dev/block/mmcblk0p1 /boot ; cat %s > /boot/uRecRam ; busybox umount /boot ;",
-      "version": "3.0.0.5",
-      "init": "env.txt",
-      "legacy_versions": [
-        "3.0.0.5",
-        "3.0.0.2"
-      ],
-      "key": "nookcolor"
-    },
-    {
       "name": "Huawei Ascend",
       "version": "3.0.0.5",
       "init": "init.qcom.rc",

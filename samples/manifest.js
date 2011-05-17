@@ -17,17 +17,18 @@
         "device": "sholes",
         // Product name of the mod. Product names should stay the same between versions of the mod.
         "product": "CyanogenMod",
-        // Numerical version of the mod. This allows the OTA system to figure out
-        // when an upgrade is available. So, if the current version is 5.0.5.0,
-        // you can set "incremental" to 5050. And when you have an upgrade available,
-        // set the "incremental" of that ROM to 5051 (or any number higher than 5050).
-        // ROM Manager will then figure out that an upgrade is available and let
-        // the user know.
-        "incremental": "5050",
-        // The value of ro.modversion in /system/build.prop. Your ROM should set this
+        // The "modversion" is the value of ro.modversion in /system/build.prop. Your ROM should set this
         // in that build.prop so that ROM Manager can figure out what ROM is currently running.
         // This is optional however, you don't need this line here or in /system/build.prop
         // if you don't want to use OTA updates.
+        // ROM Manager then uses this modversion to compare it to other modversions in the list of
+        // ROMs, and determine which is the newest version by using an alphabetical sort.
+        // For example, if the user is running "CyanogenMod-5.0.5-Droid" and there
+        // are roms with modversion "CyanogenMod-5.0.7-Droid" and "CyanogenMod-5.0.6-Droid",
+        // ROM Manager will upgrade the user to "CyanogenMod-5.0.7-Droid".
+        // Please note, that "CyanogenMod-5.1-Droid" would be considered a DOWNGRADE
+        // to "CyanogenMod-5.0.5-Droid" due to how it is sorted alphabetically.
+        // The proper version for such an upgrade would be: "CyanogenMod-5.1.0-Droid".
         "modversion": "CyanogenMod-5.0.5-Droid",
         // Some Screenshots that show off the ROM!
         "screenshots":

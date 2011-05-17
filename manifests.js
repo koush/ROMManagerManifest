@@ -1427,6 +1427,27 @@
         "backflip": true
       },
       "summary": "Ports of Cyanogenmod for the Backflip"
+    },
+    {
+      "developer": "MIUI",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/223/4b9a814afaba733a6d3b4a47f29436de.png",
+      "id": "MIUI Dev",
+      "manifest": "http://romshare.deployfu.com/developer/MIUI Dev/manifest",
+      "roms": {
+        "bravoc": true
+      },
+      "summary": "MIUI Uploads from our hardworking Developers"
+    },
+    {
+      "developer": "CorCor67",
+      "free": true,
+      "id": "corcor67@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/corcor67@gmail.com/manifest",
+      "roms": {
+        "sholes": true
+      },
+      "summary": "OC Kernels for the Droid"
     }
   ],
   "minversion": "2000"

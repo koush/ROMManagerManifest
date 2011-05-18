@@ -12,7 +12,7 @@ for manifest in manifests:
   threads  << Thread.new(manifest) { |myManifest|
     url = myManifest['manifest']
     begin
-      test = open(url).read
+      test = open('http://dirtyjson.deployfu.com?url=' + url).read
       parsed_test = JSON.parse(test)
       myManifest['visible'] = true
     rescue

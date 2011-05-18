@@ -16,6 +16,7 @@ for manifest in manifests:
       parsed_test = JSON.parse(test)
       myManifest['visible'] = true
     rescue
+      puts url + ' failed to parse'
       myManifest['visible'] = false
     end
   }

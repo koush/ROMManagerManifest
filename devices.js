@@ -706,11 +706,11 @@
       "key": "vibrantmtd"
     },
     {
-      "name": "i9000 (MTD)",
+      "name": "GalaxyS i9000 (MTD)",
       "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "init": "init.aries.rc",
       "officially_supported": false,
-      "key": "i9000mtd"
+      "key": "galaxysmtd"
     },
     {
       "name": "Epic4G",

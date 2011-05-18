@@ -1298,8 +1298,8 @@
       "developer": "TyphooN CyanogenMod",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/146/24fb59de6489c544c6fd683b6a43e491.png",
-      "id": "tyween",
-      "manifest": "http://romshare.deployfu.com/developer/tyween/manifest",
+      "id": "cyanogenmodnightly",
+      "manifest": "http://romshare.deployfu.com/developer/cyanogenmodnightly/manifest",
       "roms": {
         "leo": true
       },

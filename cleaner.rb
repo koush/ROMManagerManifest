@@ -13,6 +13,7 @@ for manifest in manifests:
     url = myManifest['manifest']
     begin
       test = open(url).read
+      parsed_test = JSON.parse(test)
       myManifest['visible'] = true
     rescue
       myManifest['visible'] = false

@@ -12,12 +12,18 @@ for manifest in manifests:
   threads  << Thread.new(manifest) { |myManifest|
     url = myManifest['manifest']
     begin
-      test = open('http://dirtyjson.deployfu.com?url=' + url).read
+      test = open(url).read
       parsed_test = JSON.parse(test)
       myManifest['visible'] = true
     rescue
-      puts url + ' failed to parse'
-      myManifest['visible'] = false
+      begin
+        test = open('http://dirtyjson.deployfu.com?url=' + url).read
+        parsed_test = JSON.parse(test)
+        myManifest['visible'] = true
+      rescue
+        puts url + ' failed to parse'
+        myManifest['visible'] = false
+      end
     end
   }
 end

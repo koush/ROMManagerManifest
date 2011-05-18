@@ -1202,6 +1202,16 @@
                 "all": "true" 
             },
             "summary": "Add-on for AOSP ROMs, such as CM" 
+        },
+        {
+          "developer": "CM7 Nightlies",
+          "icon": "http://mirror.kanged.net/test/tdr.png",
+          "id": "cyanogenmodleonightly",
+          "manifest": "http://arif.homelinux.com/RM.js",
+          "roms": {
+            "leo": "true"
+          },
+          "summary": "CM7 Nightly builds, unofficially built by charansingh, AirforcPrductions and arif-ali. Very experimental and probably broken. Do not report bugs for these builds."
         }
     ],
     "minversion": "2000"

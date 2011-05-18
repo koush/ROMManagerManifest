@@ -217,17 +217,6 @@
       "summary": "CM HBOOT:COS-Bravo:AOSP/CM sources based rom featuring native A2sdext support/Customized Sense Roms"
     },
     {
-      "developer": "Baadnewz",
-      "icon": "http://insertcoin.dataninja.net/rommanager/logo.png",
-      "id": "baadnewz",
-      "free": "true",
-      "manifest": "http://insertcoin.dataninja.net/rommanager/manifest.js",
-      "roms": {
-        "bravo": "true"
-      },
-      "summary": "Finest ports ever!"
-    },
-    {
       "developer": "DeltaProject",
       "icon": "http://deltarom.ru/roms/logo.png",
       "id": "deltaproject",

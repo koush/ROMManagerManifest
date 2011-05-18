@@ -1127,17 +1127,6 @@
       "summary": "Clean and fast AOSP ROM with some CM tweaks"
     },
     {
-      "developer": "Baadnewz",
-      "icon": "http://insertcoin.dataninja.net/rommanager/logo.png",
-      "id": "baadnewz",
-      "free": "true",
-      "manifest": "http://insertcoin.dataninja.net/rommanager/manifest.js",
-      "roms": {
-        "bravo": "true"
-      },
-      "summary": "Finest ports ever!"
-    },
-    {
       "developer": "infin1ty",
       "icon": "http://www.jonathongrigg.com/infin1ty/128x128logo.png",
       "id": "jonathongrigg",

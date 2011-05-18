@@ -1208,6 +1208,7 @@
           "icon": "http://mirror.kanged.net/test/tdr.png",
           "id": "cyanogenmodleonightly",
           "manifest": "http://arif.homelinux.com/RM.js",
+          "free": "true",
           "roms": {
             "leo": "true"
           },

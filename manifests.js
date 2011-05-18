@@ -1205,6 +1205,7 @@
     },
     {
       "developer": "CM7 Nightlies",
+      "free": "true",
       "id": "cyanogenmodleonightly",
       "icon": "http://mirror.kanged.net/test/tdr.png",
       "manifest": "http://arif.homelinux.com/RM.js",

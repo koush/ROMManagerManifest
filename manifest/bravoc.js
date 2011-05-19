@@ -16,6 +16,7 @@
         "passion": "true",
         "bravo": "true",
         "ace": "true",
+        "u8220": "true",
         "sholes": "true",
         "hero": "true",
         "espresso": "true",
@@ -57,6 +58,7 @@
         "passion": "true",
         "bravo": "true",
         "ace": "true",
+        "u8220": "true",
         "sholes": "true",
         "hero": "true",
         "espresso": "true",
@@ -124,7 +126,9 @@
       "manifest": "http://romshare.deployfu.com/developer/GreenRomProject/manifest",
       "roms": {
         "sholes": true,
-        "bravoc": true
+        "bravoc": true,
+        "glacier": true,
+        "harmony": true
       },
       "summary": "STABLE Super Fast ROM; ANDROID 2.3.4"
     }

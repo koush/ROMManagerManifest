@@ -78,7 +78,7 @@
         "vibrant": true,
         "encore": true
       },
-      "summary": "Modified CM - bringing you the best of Android."
+      "summary": "Bringing you the best of Android."
     }
   ],
   "minversion": "2000"

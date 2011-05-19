@@ -692,22 +692,18 @@
     },
     {
       "name": "Captivate (MTD)",
-      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
-      "version": "3.0.2.5",
       "init": "init.smdkc110.rc",
       "officially_supported": false,
       "key": "captivatemtd"
     },
     {
       "name": "Vibrant (MTD)",
-      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "init": "init.smdkc110.rc",
       "officially_supported": false,
       "key": "vibrantmtd"
     },
     {
       "name": "GalaxyS i9000 (MTD)",
-      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "init": "lpm.rc",
       "officially_supported": false,
       "key": "galaxysmtd"
@@ -715,7 +711,6 @@
     {
       "name": "Captivate (MTD)",
       "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
-      "version": "3.0.2.5",
       "init": "init.aries.rc",
       "officially_supported": false,
       "key": "captivatemtd"

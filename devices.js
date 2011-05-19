@@ -691,6 +691,45 @@
       "key": "speedy"
     },
     {
+      "name": "GalaxyS i9000 (MTD)",
+      "version": "2.5.1.2",
+      "readonly_recovery": true,
+      "init": "lpm.rc",
+      "legacy_versions": [
+        "2.5.1.2",
+        "2.5.1.4",
+        "2.5.1.3",
+        "2.5.1.1"
+      ],
+      "key": "galaxysmtd"
+    },
+    {
+      "name": "Vibrant (MTD)",
+      "version": "2.5.1.2",
+      "readonly_recovery": true,
+      "init": "init.smdkc110.rc",
+      "legacy_versions": [
+        "2.5.1.2",
+        "2.5.1.4",
+        "2.5.1.3",
+        "2.5.1.1"
+      ],
+      "key": "vibrantmtd"
+    },
+    {
+      "name": "Captivate (MTD)",
+      "version": "2.5.1.2",
+      "readonly_recovery": true,
+      "init": "init.smdkc110.rc",
+      "legacy_versions": [
+        "2.5.1.2",
+        "2.5.1.4",
+        "2.5.1.3",
+        "2.5.1.1"
+      ],
+      "key": "captivatemtd"
+    },
+    {
       "name": "Captivate (MTD)",
       "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "version": "3.0.2.5",

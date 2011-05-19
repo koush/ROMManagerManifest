@@ -25,12 +25,12 @@
     {
       "developer": "foschi@gmail.com",
       "free": true,
-      "id": "foschi@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/foschi@gmail.com/manifest",
+      "id": "crimescene",
+      "manifest": "http://romshare.deployfu.com/developer/crimescene/manifest",
       "roms": {
         "thunderg": true
       },
-      "summary": "foschi@gmail.com"
+      "summary": "don't forget to patrition your sd card swap 0 ext4 512 or more"
     }
   ],
   "minversion": "2000"

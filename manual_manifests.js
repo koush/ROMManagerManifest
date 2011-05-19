@@ -1202,6 +1202,17 @@
             "leo": "true"
           },
           "summary": "CM7 Nightly builds, unofficially built by charansingh, AirforcPrductions and arif-ali. Very experimental and probably broken. Do not report bugs for these builds."
+        },
+        {
+            "developer": "-=MDJ's ViVO Sense=-",
+            "free": "true",
+            "id": "spartach",
+            "icon": "http://mdeejay.vpnonline.org/RomManagerManifest/logo.png",
+            "manifest": "http://mdeejay.vpnonline.org/RomManagerManifest/mdeejaymod.js",
+            "roms": {
+                "ace": "true"
+            },
+            "summary": "Mods and bacon for DHD"
         }
     ],
     "minversion": "2000"

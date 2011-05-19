@@ -32,6 +32,17 @@
         "morrison": true
       },
       "summary": "ZachsAndroidApps makes custom themes and roms upon request."
+    },
+    {
+      "developer": "TeamRogue",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/255/71f1524eff4ee52bb94b5bc838ca113c.png",
+      "id": "TeamRogue",
+      "manifest": "http://romshare.deployfu.com/developer/TeamRogue/manifest",
+      "roms": {
+        "morrison": true
+      },
+      "summary": "CyanogenMod 7 for the Motorola Cliq. Everything works but Vibrator switch and Screen off animation. Minor bugs"
     }
   ],
   "minversion": "2000"

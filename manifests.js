@@ -1204,6 +1204,17 @@
       "summary": "CM7 Nightly builds, unofficially built by charansingh, AirforcPrductions and arif-ali. Very experimental and probably broken. Do not report bugs for these builds."
     },
     {
+      "developer": "-=MDJ's ViVO Sense=-",
+      "icon": "http://mdeejay.vpnonline.org/RomManagerManifest/logo.png",
+      "id": "spartach",
+      "free": "true",
+      "manifest": "http://mdeejay.vpnonline.org/RomManagerManifest/mdeejaymod.js",
+      "roms": {
+        "ace": "true"
+      },
+      "summary": "Mods and bacon for DHD"
+    },
+    {
       "developer": "birgertime",
       "free": true,
       "id": "einherjar",
@@ -1316,12 +1327,12 @@
     {
       "developer": "foschi@gmail.com",
       "free": true,
-      "id": "foschi@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/foschi@gmail.com/manifest",
+      "id": "crimescene",
+      "manifest": "http://romshare.deployfu.com/developer/crimescene/manifest",
       "roms": {
         "thunderg": true
       },
-      "summary": "foschi@gmail.com"
+      "summary": "don't forget to patrition your sd card swap 0 ext4 512 or more"
     },
     {
       "developer": "NexBreed",
@@ -1483,6 +1494,29 @@
         "captivatemtd": true
       },
       "summary": "ROMs by Koush"
+    },
+    {
+      "developer": "GreenRomProject",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
+      "id": "GreenRomProject",
+      "manifest": "http://romshare.deployfu.com/developer/GreenRomProject/manifest",
+      "roms": {
+        "sholes": true,
+        "bravoc": true
+      },
+      "summary": "STABLE Super Fast ROM; ANDROID 2.3.4"
+    },
+    {
+      "developer": "TeamRogue",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/255/71f1524eff4ee52bb94b5bc838ca113c.png",
+      "id": "TeamRogue",
+      "manifest": "http://romshare.deployfu.com/developer/TeamRogue/manifest",
+      "roms": {
+        "morrison": true
+      },
+      "summary": "CyanogenMod 7 for the Motorola Cliq. Everything works but Vibrator switch and Screen off animation. Minor bugs"
     }
   ],
   "minversion": "2000"

@@ -148,6 +148,17 @@
         "all": "true"
       },
       "summary": "Add-on for AOSP ROMs, such as CM"
+    },
+    {
+      "developer": "-=MDJ's ViVO Sense=-",
+      "icon": "http://mdeejay.vpnonline.org/RomManagerManifest/logo.png",
+      "id": "spartach",
+      "free": "true",
+      "manifest": "http://mdeejay.vpnonline.org/RomManagerManifest/mdeejaymod.js",
+      "roms": {
+        "ace": "true"
+      },
+      "summary": "Mods and bacon for DHD"
     }
   ],
   "minversion": "2000"

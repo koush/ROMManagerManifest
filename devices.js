@@ -853,9 +853,9 @@
       "key": "thunderg"
     },
     {
-      "name": "u8220",
+      "name": "Huawei U8220/U8230",
       "version": "3.1.0.1",
-      "init": "init.u8220.rc",
+      "init": "init.qcom.rc",
       "key": "u8220"
     }
   ],

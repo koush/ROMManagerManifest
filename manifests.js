@@ -1270,17 +1270,6 @@
       "summary": "DrewGaren Beta Roms Nightly Builds!"
     },
     {
-      "developer": "IcarusMod",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/30/c979e8b3907bd1bce28bbc43f561a97a.png",
-      "id": "icarusmod",
-      "manifest": "http://romshare.deployfu.com/developer/icarusmod/manifest",
-      "roms": {
-        "ascend": true
-      },
-      "summary": "A clean, mostly vanilla port of CyanogenMod 7. These are very experimental."
-    },
-    {
       "developer": "Magiman7",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/42/70d519969f6c857c9e5b7c1cfb147ae9.png",
@@ -1323,16 +1312,6 @@
         "leo": true
       },
       "summary": "The latest stock CyanogenMod 7 Desire (bravo) base ported to HD2 with the minimal amount of changes required.  No custom apps are included.  Visit the ROM's thread @ xda: http://forum.xda-developers.com/showthread.php?t=933951 ."
-    },
-    {
-      "developer": "foschi@gmail.com",
-      "free": true,
-      "id": "crimescene",
-      "manifest": "http://romshare.deployfu.com/developer/crimescene/manifest",
-      "roms": {
-        "thunderg": true
-      },
-      "summary": "don't forget to patrition your sd card swap 0 ext4 512 or more"
     },
     {
       "developer": "NexBreed",
@@ -1378,6 +1357,17 @@
       "summary": "Android-Maisters Roms latest and greatest!"
     },
     {
+      "developer": "IcarusMod",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/30/c979e8b3907bd1bce28bbc43f561a97a.png",
+      "id": "icarusmod",
+      "manifest": "http://romshare.deployfu.com/developer/icarusmod/manifest",
+      "roms": {
+        "ascend": true
+      },
+      "summary": "A clean, mostly vanilla port of CyanogenMod 7. These are very experimental."
+    },
+    {
       "developer": "ZachsAndroidApps",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/200/b38c693479f1a705a87a9503c18f7cc0.gif",
@@ -1408,22 +1398,6 @@
         "p990": true
       },
       "summary": "Bugfixes for Cyanogenmod 7"
-    },
-    {
-      "developer": "TeamHacksung",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/5/e37442e1c9d8f4dde5ceb57f51967029.png",
-      "id": "atinm",
-      "manifest": "http://romshare.deployfu.com/developer/atinm/manifest",
-      "roms": {
-        "vibrantmtd": true,
-        "galaxys": true,
-        "captivate": true,
-        "vibrant": true,
-        "captivatemtd": true,
-        "i9000mtd": true
-      },
-      "summary": "CyanogenMod 7 for SGS"
     },
     {
       "developer": "Team Whiskey",
@@ -1478,7 +1452,6 @@
       "manifest": "http://romshare.deployfu.com/developer/phiredrop/manifest",
       "roms": {
         "vibrant": true,
-        "nookcolor": true,
         "encore": true
       },
       "summary": "Modified CM - bringing you the best of Android."
@@ -1490,8 +1463,8 @@
       "id": "koush",
       "manifest": "http://romshare.deployfu.com/developer/koush/manifest",
       "roms": {
-        "crespo4g": true,
-        "captivatemtd": true
+        "captivatemtd": true,
+        "crespo4g": true
       },
       "summary": "ROMs by Koush"
     },
@@ -1506,6 +1479,16 @@
         "bravoc": true
       },
       "summary": "STABLE Super Fast ROM; ANDROID 2.3.4"
+    },
+    {
+      "developer": "foschi@gmail.com",
+      "free": true,
+      "id": "crimescene",
+      "manifest": "http://romshare.deployfu.com/developer/crimescene/manifest",
+      "roms": {
+        "thunderg": true
+      },
+      "summary": "don't forget to patrition your sd card swap 0 ext4 512 or more"
     },
     {
       "developer": "TeamRogue",

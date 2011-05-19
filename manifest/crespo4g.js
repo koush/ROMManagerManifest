@@ -41,8 +41,8 @@
       "id": "koush",
       "manifest": "http://romshare.deployfu.com/developer/koush/manifest",
       "roms": {
-        "crespo4g": true,
-        "captivatemtd": true
+        "captivatemtd": true,
+        "crespo4g": true
       },
       "summary": "ROMs by Koush"
     }

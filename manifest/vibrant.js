@@ -57,22 +57,6 @@
       "summary": "Vibrant ROMs"
     },
     {
-      "developer": "TeamHacksung",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/5/e37442e1c9d8f4dde5ceb57f51967029.png",
-      "id": "atinm",
-      "manifest": "http://romshare.deployfu.com/developer/atinm/manifest",
-      "roms": {
-        "vibrantmtd": true,
-        "galaxys": true,
-        "captivate": true,
-        "vibrant": true,
-        "captivatemtd": true,
-        "i9000mtd": true
-      },
-      "summary": "CyanogenMod 7 for SGS"
-    },
-    {
       "developer": "Team Whiskey",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/217/1f014e3a34997c82b915902c05ba2005.png",
@@ -92,7 +76,6 @@
       "manifest": "http://romshare.deployfu.com/developer/phiredrop/manifest",
       "roms": {
         "vibrant": true,
-        "nookcolor": true,
         "encore": true
       },
       "summary": "Modified CM - bringing you the best of Android."

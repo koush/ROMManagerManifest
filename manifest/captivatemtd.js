@@ -120,6 +120,17 @@
         "i9000mtd": true
       },
       "summary": "CyanogenMod 7 for SGS"
+    },
+    {
+      "developer": "Koush",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/1/e72d3e57fa319e3ae9ecb9f78e68228b.png",
+      "id": "koush",
+      "manifest": "http://romshare.deployfu.com/developer/koush/manifest",
+      "roms": {
+        "captivatemtd": true
+      },
+      "summary": "ROMs by Koush"
     }
   ],
   "minversion": "2000"

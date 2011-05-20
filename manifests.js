@@ -1503,7 +1503,7 @@
       "roms": {
         "morrison": true
       },
-      "summary": "CyanogenMod 7 for the Motorola Cliq. Everything works but Vibrator switch and Screen off animation. Minor bugs"
+      "summary": "CyanogenMod 7 for the Motorola Cliq/Dext. Please remember DO NOT BACKUP ROM OR WIPE DATA/FACTORY RESET THROUGH ROM MANAGER! "
     }
   ],
   "minversion": "2000"

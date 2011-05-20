@@ -947,7 +947,8 @@
             "manifest": "http://savaged-zen.github.com/RM-Manifest/manifest.js",
             "roms": {
                 "supersonic": "true",
-                "inc": "true" 
+                "inc": "true", 
+                "glacier": "true" 
             },
             "summary": "ROMs & kernels for HTC EVO 4G, Droid Incredible" 
         },

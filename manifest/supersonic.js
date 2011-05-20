@@ -217,6 +217,7 @@
       "free": "true",
       "manifest": "http://savaged-zen.github.com/RM-Manifest/manifest.js",
       "roms": {
+        "glacier": "true",
         "inc": "true",
         "supersonic": "true"
       },

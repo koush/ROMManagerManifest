@@ -97,6 +97,19 @@
       "summary": "Cool stuffs."
     },
     {
+      "developer": "Savaged-Zen",
+      "icon": "http://savaged-zen.github.com/RM-Manifest/icon.png",
+      "id": "jsseidel1",
+      "free": "true",
+      "manifest": "http://savaged-zen.github.com/RM-Manifest/manifest.js",
+      "roms": {
+        "glacier": "true",
+        "inc": "true",
+        "supersonic": "true"
+      },
+      "summary": "ROMs & kernels for HTC EVO 4G, Droid Incredible"
+    },
+    {
       "developer": "Google Apps",
       "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
       "id": "google",

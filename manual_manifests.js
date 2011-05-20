@@ -13,6 +13,7 @@
                 "bravo": "true",
                 "bravoc": "true",
                 "buzz": "true",
+                "captivatemtd": "true",
                 "click": "true",
                 "crespo": "true",
                 "dream": "true",
@@ -22,15 +23,20 @@
                 "hero": "true",
                 "heroc": "true",
                 "inc": "true",
+                "galaxysmtd": "true",
                 "glacier": "true",
                 "liberty": "true",
                 "legend": "true",
                 "one": "true",
+                "p990": "true",
+                "p999": "true",
                 "sapphire": "true",
                 "sholes": "true",
                 "speedy": "true",
                 "supersonic": "true",
                 "passion": "true",
+                "u8220": "true",
+                "vibrantmtd": "true",
                 "vision": "true",
                 "z71": "true",
                 "zeppelin": "true",
@@ -60,6 +66,7 @@
                 "bravo": "true",
                 "bravoc": "true",
                 "buzz": "true",
+                "captivatemtd": "true",
                 "click": "true",
                 "crespo": "true",
                 "dream": "true",
@@ -69,6 +76,7 @@
                 "hero": "true",
                 "heroc": "true",
                 "inc": "true",
+                "galaxysmtd": "true",
                 "glacier": "true",
                 "liberty": "true",
                 "legend": "true",
@@ -80,6 +88,8 @@
                 "speedy": "true",
                 "supersonic": "true",
                 "passion": "true",
+                "u8220": "true",
+                "vibrantmtd": "true",
                 "vision": "true",
                 "z71": "true",
                 "zeppelin": "true",
@@ -420,7 +430,7 @@
             "id": "jpameli",
             "manifest": "http://android.jpameli.de/paysroms.js",
             "roms": {
-                "desire": "true" 
+                "bravo": "true" 
             },
             "summary": "Stable HTC Desire / Bravo ROMs with the latest addons and patches" 
         },
@@ -872,7 +882,7 @@
             "id": "ACS",
             "manifest": "http://holylivingfuck.com/ACS/Romlist.js",
             "roms": {
-                "epic": "true",
+                "epic4g": "true",
                 "supersonic": "true" 
             },
             "summary": "Android Creative Syndicate" 
@@ -1119,17 +1129,6 @@
             "summary": "Clean and fast AOSP ROM with some CM tweaks" 
         },
         {
-            "developer": "Baadnewz",
-            "free": "true",
-            "id": "baadnewz",
-            "icon": "http://insertcoin.dataninja.net/rommanager/logo.png",
-            "manifest": "http://insertcoin.dataninja.net/rommanager/manifest.js",
-            "roms": {
-                "bravo" : "true" 
-            },
-            "summary": "Finest ports ever!" 
-        },
-        {
             "developer": "infin1ty",
             "free": "true",
             "id": "jonathongrigg",
@@ -1194,6 +1193,28 @@
                 "all": "true" 
             },
             "summary": "Add-on for AOSP ROMs, such as CM" 
+        },
+        {
+          "developer": "CM7 Nightlies",
+          "icon": "http://mirror.kanged.net/test/tdr.png",
+          "id": "cyanogenmodleonightly",
+          "manifest": "http://arif.homelinux.com/RM.js",
+          "free": "true",
+          "roms": {
+            "leo": "true"
+          },
+          "summary": "CM7 Nightly builds, unofficially built by charansingh, AirforcPrductions and arif-ali. Very experimental and probably broken. Do not report bugs for these builds."
+        },
+        {
+            "developer": "-=MDJ's ViVO Sense=-",
+            "free": "true",
+            "id": "spartach",
+            "icon": "http://mdeejay.vpnonline.org/RomManagerManifest/logo.png",
+            "manifest": "http://mdeejay.vpnonline.org/RomManagerManifest/mdeejaymod.js",
+            "roms": {
+                "ace": "true"
+            },
+            "summary": "Mods and bacon for DHD"
         }
     ],
     "minversion": "2000"

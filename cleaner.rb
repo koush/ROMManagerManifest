@@ -13,9 +13,17 @@ for manifest in manifests:
     url = myManifest['manifest']
     begin
       test = open(url).read
+      parsed_test = JSON.parse(test)
       myManifest['visible'] = true
     rescue
-      myManifest['visible'] = false
+      begin
+        test = open('http://dirtyjson.deployfu.com?url=' + url).read
+        parsed_test = JSON.parse(test)
+        myManifest['visible'] = true
+      rescue
+        puts url + ' failed to parse'
+        myManifest['visible'] = false
+      end
     end
   }
 end

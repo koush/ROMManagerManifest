@@ -8,12 +8,16 @@
       "free": "true",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
       "roms": {
+        "p999": "true",
         "zeppelin": "true",
         "liberty": "true",
+        "p990": "true",
         "legend": "true",
+        "vibrantmtd": "true",
         "passion": "true",
         "bravo": "true",
         "ace": "true",
+        "u8220": "true",
         "sholes": "true",
         "hero": "true",
         "espresso": "true",
@@ -22,10 +26,12 @@
         "sapphire": "true",
         "one": "true",
         "glacier": "true",
+        "captivatemtd": "true",
         "blade": "true",
         "speedy": "true",
         "vision": "true",
         "supersonic": "true",
+        "galaxysmtd": "true",
         "inc": "true",
         "harmony": "true",
         "encore": "true",
@@ -60,9 +66,11 @@
         "liberty": "true",
         "p990": "true",
         "legend": "true",
+        "vibrantmtd": "true",
         "passion": "true",
         "bravo": "true",
         "ace": "true",
+        "u8220": "true",
         "sholes": "true",
         "hero": "true",
         "espresso": "true",
@@ -71,10 +79,12 @@
         "sapphire": "true",
         "one": "true",
         "glacier": "true",
+        "captivatemtd": "true",
         "blade": "true",
         "speedy": "true",
         "vision": "true",
         "supersonic": "true",
+        "galaxysmtd": "true",
         "inc": "true",
         "harmony": "true",
         "encore": "true",
@@ -420,7 +430,7 @@
       "free": "true",
       "manifest": "http://android.jpameli.de/paysroms.js",
       "roms": {
-        "desire": "true"
+        "bravo": "true"
       },
       "summary": "Stable HTC Desire / Bravo ROMs with the latest addons and patches"
     },
@@ -872,7 +882,7 @@
       "free": "true",
       "manifest": "http://holylivingfuck.com/ACS/Romlist.js",
       "roms": {
-        "epic": "true",
+        "epic4g": "true",
         "supersonic": "true"
       },
       "summary": "Android Creative Syndicate"
@@ -1119,17 +1129,6 @@
       "summary": "Clean and fast AOSP ROM with some CM tweaks"
     },
     {
-      "developer": "Baadnewz",
-      "icon": "http://insertcoin.dataninja.net/rommanager/logo.png",
-      "id": "baadnewz",
-      "free": "true",
-      "manifest": "http://insertcoin.dataninja.net/rommanager/manifest.js",
-      "roms": {
-        "bravo": "true"
-      },
-      "summary": "Finest ports ever!"
-    },
-    {
       "developer": "infin1ty",
       "icon": "http://www.jonathongrigg.com/infin1ty/128x128logo.png",
       "id": "jonathongrigg",
@@ -1196,6 +1195,28 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
+      "developer": "CM7 Nightlies",
+      "free": "true",
+      "id": "cyanogenmodleonightly",
+      "icon": "http://mirror.kanged.net/test/tdr.png",
+      "manifest": "http://arif.homelinux.com/RM.js",
+      "roms": {
+        "leo": "true"
+      },
+      "summary": "CM7 Nightly builds, unofficially built by charansingh, AirforcPrductions and arif-ali. Very experimental and probably broken. Do not report bugs for these builds."
+    },
+    {
+      "developer": "-=MDJ's ViVO Sense=-",
+      "icon": "http://mdeejay.vpnonline.org/RomManagerManifest/logo.png",
+      "id": "spartach",
+      "free": "true",
+      "manifest": "http://mdeejay.vpnonline.org/RomManagerManifest/mdeejaymod.js",
+      "roms": {
+        "ace": "true"
+      },
+      "summary": "Mods and bacon for DHD"
+    },
+    {
       "developer": "birgertime",
       "free": true,
       "id": "einherjar",
@@ -1251,17 +1272,6 @@
       "summary": "DrewGaren Beta Roms Nightly Builds!"
     },
     {
-      "developer": "IcarusMod",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/30/c979e8b3907bd1bce28bbc43f561a97a.png",
-      "id": "icarusmod",
-      "manifest": "http://romshare.deployfu.com/developer/icarusmod/manifest",
-      "roms": {
-        "ascend": true
-      },
-      "summary": "A clean, mostly vanilla port of CyanogenMod 7. These are very experimental."
-    },
-    {
       "developer": "Magiman7",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/42/70d519969f6c857c9e5b7c1cfb147ae9.png",
@@ -1298,22 +1308,12 @@
       "developer": "TyphooN CyanogenMod",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/146/24fb59de6489c544c6fd683b6a43e491.png",
-      "id": "tyween",
-      "manifest": "http://romshare.deployfu.com/developer/tyween/manifest",
+      "id": "cyanogenmodnightly",
+      "manifest": "http://romshare.deployfu.com/developer/cyanogenmodnightly/manifest",
       "roms": {
         "leo": true
       },
       "summary": "The latest stock CyanogenMod 7 Desire (bravo) base ported to HD2 with the minimal amount of changes required.  No custom apps are included.  Visit the ROM's thread @ xda: http://forum.xda-developers.com/showthread.php?t=933951 ."
-    },
-    {
-      "developer": "foschi@gmail.com",
-      "free": true,
-      "id": "foschi@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/foschi@gmail.com/manifest",
-      "roms": {
-        "thunderg": true
-      },
-      "summary": "foschi@gmail.com"
     },
     {
       "developer": "NexBreed",
@@ -1359,14 +1359,24 @@
       "summary": "Android-Maisters Roms latest and greatest!"
     },
     {
+      "developer": "IcarusMod",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/30/c979e8b3907bd1bce28bbc43f561a97a.png",
+      "id": "icarusmod",
+      "manifest": "http://romshare.deployfu.com/developer/icarusmod/manifest",
+      "roms": {
+        "ascend": true
+      },
+      "summary": "A clean, mostly vanilla port of CyanogenMod 7. These are very experimental."
+    },
+    {
       "developer": "ZachsAndroidApps",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/200/b38c693479f1a705a87a9503c18f7cc0.gif",
       "id": "zachs@zachspong.com",
       "manifest": "http://romshare.deployfu.com/developer/zachs@zachspong.com/manifest",
       "roms": {
-        "morrison": true,
-        "sholes": true
+        "morrison": true
       },
       "summary": "ZachsAndroidApps makes custom themes and roms upon request."
     },
@@ -1390,6 +1400,110 @@
         "p990": true
       },
       "summary": "Bugfixes for Cyanogenmod 7"
+    },
+    {
+      "developer": "Team Whiskey",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/217/1f014e3a34997c82b915902c05ba2005.png",
+      "id": "Krylon360",
+      "manifest": "http://romshare.deployfu.com/developer/Krylon360/manifest",
+      "roms": {
+        "p999": true,
+        "vibrant": true
+      },
+      "summary": "TeamWhiskey Bionix Roms for the LG G2x and Samsung Vibrant "
+    },
+    {
+      "developer": "Cyanogenmod",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/220/67a6b509cd40321f4743cf903c6ca72a.jpg",
+      "id": "Kernelzilla",
+      "manifest": "http://romshare.deployfu.com/developer/Kernelzilla/manifest",
+      "roms": {
+        "backflip": true
+      },
+      "summary": "Ports of Cyanogenmod for the Backflip"
+    },
+    {
+      "developer": "MIUI",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/223/4b9a814afaba733a6d3b4a47f29436de.png",
+      "id": "MIUI Dev",
+      "manifest": "http://romshare.deployfu.com/developer/MIUI Dev/manifest",
+      "roms": {
+        "bravoc": true
+      },
+      "summary": "MIUI Uploads from our hardworking Developers"
+    },
+    {
+      "developer": "CorCor67",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/208/1a50ab91ddac2b2ef3829b8e4c7a3664.png",
+      "id": "corcor67@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/corcor67@gmail.com/manifest",
+      "roms": {
+        "sholes": true
+      },
+      "summary": "OC Kernels for the Droid"
+    },
+    {
+      "developer": "phiremod",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/234/8f79ee0e2a11ff0e735d220dca4d1525.gif",
+      "id": "phiredrop",
+      "manifest": "http://romshare.deployfu.com/developer/phiredrop/manifest",
+      "roms": {
+        "vibrant": true,
+        "encore": true
+      },
+      "summary": "Bringing you the best of Android."
+    },
+    {
+      "developer": "Koush",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/1/e72d3e57fa319e3ae9ecb9f78e68228b.png",
+      "id": "koush",
+      "manifest": "http://romshare.deployfu.com/developer/koush/manifest",
+      "roms": {
+        "captivatemtd": true,
+        "crespo4g": true
+      },
+      "summary": "ROMs by Koush"
+    },
+    {
+      "developer": "GreenRomProject",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
+      "id": "GreenRomProject",
+      "manifest": "http://romshare.deployfu.com/developer/GreenRomProject/manifest",
+      "roms": {
+        "sholes": true,
+        "bravoc": true,
+        "glacier": true,
+        "harmony": true
+      },
+      "summary": "STABLE Super Fast ROM; ANDROID 2.3.4"
+    },
+    {
+      "developer": "foschi@gmail.com",
+      "free": true,
+      "id": "crimescene",
+      "manifest": "http://romshare.deployfu.com/developer/crimescene/manifest",
+      "roms": {
+        "thunderg": true
+      },
+      "summary": "don't forget to patrition your sd card swap 0 ext4 512 or more"
+    },
+    {
+      "developer": "TeamRogue",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/255/71f1524eff4ee52bb94b5bc838ca113c.png",
+      "id": "TeamRogue",
+      "manifest": "http://romshare.deployfu.com/developer/TeamRogue/manifest",
+      "roms": {
+        "morrison": true
+      },
+      "summary": "CyanogenMod 7 for the Motorola Cliq. Everything works but Vibrator switch and Screen off animation. Minor bugs"
     }
   ],
   "minversion": "2000"

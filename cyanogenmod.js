@@ -680,21 +680,6 @@
         },
         {
             "device": "harmony",
-            "name": "CyanogenMod 7.0.4",
-            "modversion": "CyanogenMod-7.0.4-harmony",
-            "incremental": "7040",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.0.4-harmony-signed.zip",
-            "product": "CyanogenMod",
-            "summary": "Stable Release",
-            "addons": [
-                {
-                    "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
-                } 
-            ] 
-        },
-        {
-            "device": "harmony",
             "name": "CyanogenMod 7.0.3",
             "modversion": "CyanogenMod-7.0.3-harmony",
             "incremental": "7030",
@@ -1520,21 +1505,6 @@
         },
         {
             "device": "passion",
-            "name": "CyanogenMod 7.0.4",
-            "modversion": "CyanogenMod-7.0.4-N1",
-            "incremental": "7040",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.0.4-N1-signed.zip",
-            "product": "CyanogenMod",
-            "summary": "Stable Release",
-            "addons": [
-                {
-                    "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
-                } 
-            ] 
-        },
-        {
-            "device": "passion",
             "name": "CyanogenMod 7.0.3",
             "modversion": "CyanogenMod-7.0.3-N1",
             "incremental": "7030",
@@ -1862,21 +1832,6 @@
             "url": "http://download.cyanogenmod.com/get/update-cm-7.0.2-RC1-CLIQXT-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
-            "addons": [
-                {
-                    "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
-                } 
-            ] 
-        },
-        {
-            "device": "zero",
-            "name": "CyanogenMod 7.0.4",
-            "modversion": "CyanogenMod-7.0.4-ZERO",
-            "incremental": "7040",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.0.4-ZERO-signed.zip",
-            "product": "CyanogenMod",
-            "summary": "Stable Release",
             "addons": [
                 {
                     "name": "Google Apps",

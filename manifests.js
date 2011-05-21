@@ -1505,6 +1505,17 @@
         "morrison": true
       },
       "summary": "CyanogenMod 7 for the Motorola Cliq/Dext. Please remember DO NOT BACKUP ROM OR WIPE DATA/FACTORY RESET THROUGH ROM MANAGER! "
+    },
+    {
+      "developer": "ACSyndicate",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/272/f1369e30d685f847faa5fd8129e9c330.png",
+      "id": "ACS",
+      "manifest": "http://romshare.deployfu.com/developer/ACS/manifest",
+      "roms": {
+        "epic4g": true
+      },
+      "summary": "Here you will find all of ACSyndicates Latest and older releases."
     }
   ],
   "minversion": "2000"

@@ -109,7 +109,7 @@
     },
     {
       "developer": "Faux123 MT4G Glacier ROMs",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/65/458f8e1774c14317e04210d456d579e0.gif",
       "id": "Faux123",
       "manifest": "http://romshare.deployfu.com/developer/Faux123/manifest",
@@ -121,7 +121,7 @@
     },
     {
       "developer": "Team Whiskey",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/217/1f014e3a34997c82b915902c05ba2005.png",
       "id": "Krylon360",
       "manifest": "http://romshare.deployfu.com/developer/Krylon360/manifest",

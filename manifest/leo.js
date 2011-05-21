@@ -56,7 +56,7 @@
     },
     {
       "developer": "TyphooN CyanogenMod",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/146/24fb59de6489c544c6fd683b6a43e491.png",
       "id": "cyanogenmodnightly",
       "manifest": "http://romshare.deployfu.com/developer/cyanogenmodnightly/manifest",

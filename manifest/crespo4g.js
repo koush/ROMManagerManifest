@@ -36,7 +36,7 @@
     },
     {
       "developer": "Koush",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/1/e72d3e57fa319e3ae9ecb9f78e68228b.png",
       "id": "koush",
       "manifest": "http://romshare.deployfu.com/developer/koush/manifest",

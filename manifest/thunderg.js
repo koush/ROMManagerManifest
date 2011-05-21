@@ -24,7 +24,7 @@
     },
     {
       "developer": "foschi@gmail.com",
-      "free": true,
+      "free": false,
       "id": "crimescene",
       "manifest": "http://romshare.deployfu.com/developer/crimescene/manifest",
       "roms": {

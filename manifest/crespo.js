@@ -182,7 +182,7 @@
     },
     {
       "developer": "NexBreed",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/150/06f5d36ced5f4795548d594dc9388435.jpg",
       "id": "Kaiya215",
       "manifest": "http://romshare.deployfu.com/developer/Kaiya215/manifest",

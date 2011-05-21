@@ -122,7 +122,7 @@
     },
     {
       "developer": "Faux123 MT4G Glacier ROMs",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/65/458f8e1774c14317e04210d456d579e0.gif",
       "id": "Faux123",
       "manifest": "http://romshare.deployfu.com/developer/Faux123/manifest",
@@ -134,7 +134,7 @@
     },
     {
       "developer": "SnakeBiteZZ",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/178/75a44ae18b10c58a76c785cbf245f3f0.jpg",
       "id": "SnakeBiteZZ",
       "manifest": "http://romshare.deployfu.com/developer/SnakeBiteZZ/manifest",
@@ -145,7 +145,7 @@
     },
     {
       "developer": "Rafyvitto",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/177/700bcfbb335a940d5d43aab2894d058d.jpg",
       "id": "Android-Maisters",
       "manifest": "http://romshare.deployfu.com/developer/Android-Maisters/manifest",
@@ -156,13 +156,12 @@
     },
     {
       "developer": "GreenRomProject",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
       "id": "GreenRomProject",
       "manifest": "http://romshare.deployfu.com/developer/GreenRomProject/manifest",
       "roms": {
         "sholes": true,
-        "bravoc": true,
         "glacier": true,
         "harmony": true
       },

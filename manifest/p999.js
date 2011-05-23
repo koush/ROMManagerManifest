@@ -108,18 +108,6 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
-      "developer": "Faux123 MT4G Glacier ROMs",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/65/458f8e1774c14317e04210d456d579e0.gif",
-      "id": "Faux123",
-      "manifest": "http://romshare.deployfu.com/developer/Faux123/manifest",
-      "roms": {
-        "p999": true,
-        "glacier": true
-      },
-      "summary": "Custom ROMs for MT4G/Glacier"
-    },
-    {
       "developer": "Team Whiskey",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/217/1f014e3a34997c82b915902c05ba2005.png",
@@ -130,6 +118,18 @@
         "vibrant": true
       },
       "summary": "TeamWhiskey Bionix Roms for the LG G2x and Samsung Vibrant "
+    },
+    {
+      "developer": "Faux123 Custom ROMs",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/65/458f8e1774c14317e04210d456d579e0.gif",
+      "id": "faux123",
+      "manifest": "http://romshare.deployfu.com/developer/faux123/manifest",
+      "roms": {
+        "p999": true,
+        "glacier": true
+      },
+      "summary": "Custom ROMs for MT4G & G2x"
     }
   ],
   "minversion": "2000"

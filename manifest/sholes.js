@@ -396,9 +396,10 @@
       "id": "toverturf@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/toverturf@gmail.com/manifest",
       "roms": {
-        "sholes": true
+        "sholes": true,
+        "inc": true
       },
-      "summary": "CyanogenMod 7 with few tweaks for better performance on the OG Droid and pulls from gerrit.  "
+      "summary": "CyanogenMod 7 with few tweaks for better performance on the OG Droid, Incredible, and pulls from gerrit.  "
     },
     {
       "developer": "Magiman7",

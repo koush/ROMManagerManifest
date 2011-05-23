@@ -31,6 +31,17 @@
         "thunderg": true
       },
       "summary": "don't forget to patrition your sd card swap 0 ext4 512 or more"
+    },
+    {
+      "developer": "mik_os",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/280/90f44cfd3ec66b7485bbf1d464651da5.gif",
+      "id": "kiril.mik.os@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/kiril.mik.os@gmail.com/manifest",
+      "roms": {
+        "thunderg": true
+      },
+      "summary": "kiril.mik.os@gmail.com"
     }
   ],
   "minversion": "2000"

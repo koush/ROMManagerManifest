@@ -121,18 +121,6 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
-      "developer": "Faux123 MT4G Glacier ROMs",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/65/458f8e1774c14317e04210d456d579e0.gif",
-      "id": "Faux123",
-      "manifest": "http://romshare.deployfu.com/developer/Faux123/manifest",
-      "roms": {
-        "p999": true,
-        "glacier": true
-      },
-      "summary": "Custom ROMs for MT4G/Glacier"
-    },
-    {
       "developer": "SnakeBiteZZ",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/178/75a44ae18b10c58a76c785cbf245f3f0.jpg",
@@ -152,7 +140,7 @@
       "roms": {
         "glacier": true
       },
-      "summary": "Android-Maisters Roms latest and greatest!"
+      "summary": "http://android-maisters.thedevboard.com Roms latest and greatest!"
     },
     {
       "developer": "GreenRomProject",
@@ -166,6 +154,18 @@
         "harmony": true
       },
       "summary": "STABLE Super Fast ROM; ANDROID 2.3.4"
+    },
+    {
+      "developer": "Faux123 Custom ROMs",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/65/458f8e1774c14317e04210d456d579e0.gif",
+      "id": "faux123",
+      "manifest": "http://romshare.deployfu.com/developer/faux123/manifest",
+      "roms": {
+        "p999": true,
+        "glacier": true
+      },
+      "summary": "Custom ROMs for MT4G & G2x"
     }
   ],
   "minversion": "2000"

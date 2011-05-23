@@ -1244,21 +1244,10 @@
       "id": "toverturf@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/toverturf@gmail.com/manifest",
       "roms": {
-        "sholes": true
+        "sholes": true,
+        "inc": true
       },
-      "summary": "CyanogenMod 7 with few tweaks for better performance on the OG Droid and pulls from gerrit.  "
-    },
-    {
-      "developer": "Faux123 MT4G Glacier ROMs",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/65/458f8e1774c14317e04210d456d579e0.gif",
-      "id": "Faux123",
-      "manifest": "http://romshare.deployfu.com/developer/Faux123/manifest",
-      "roms": {
-        "p999": true,
-        "glacier": true
-      },
-      "summary": "Custom ROMs for MT4G/Glacier"
+      "summary": "CyanogenMod 7 with few tweaks for better performance on the OG Droid, Incredible, and pulls from gerrit.  "
     },
     {
       "developer": "DrewGaren Nightlies",
@@ -1317,15 +1306,15 @@
       "summary": "The latest stock CyanogenMod 7 Desire (bravo) base ported to HD2 with the minimal amount of changes required.  No custom apps are included.  Visit the ROM's thread @ xda: http://forum.xda-developers.com/showthread.php?t=933951 ."
     },
     {
-      "developer": "NexBreed",
+      "developer": "NexBreed ROMs",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/150/06f5d36ced5f4795548d594dc9388435.jpg",
-      "id": "Kaiya215",
-      "manifest": "http://romshare.deployfu.com/developer/Kaiya215/manifest",
+      "id": "kaiya215",
+      "manifest": "http://romshare.deployfu.com/developer/kaiya215/manifest",
       "roms": {
         "crespo": true
       },
-      "summary": "former eris developer... now developing for the nexus s. fastest gingerbread roms available."
+      "summary": "fastest gingerbread roms available for the nexus s."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -1357,7 +1346,7 @@
       "roms": {
         "glacier": true
       },
-      "summary": "Android-Maisters Roms latest and greatest!"
+      "summary": "http://android-maisters.thedevboard.com Roms latest and greatest!"
     },
     {
       "developer": "IcarusMod",
@@ -1515,6 +1504,29 @@
         "epic4g": true
       },
       "summary": "Here you will find all of ACSyndicates Latest and older releases."
+    },
+    {
+      "developer": "Faux123 Custom ROMs",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/65/458f8e1774c14317e04210d456d579e0.gif",
+      "id": "faux123",
+      "manifest": "http://romshare.deployfu.com/developer/faux123/manifest",
+      "roms": {
+        "p999": true,
+        "glacier": true
+      },
+      "summary": "Custom ROMs for MT4G & G2x"
+    },
+    {
+      "developer": "mik_os",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/280/90f44cfd3ec66b7485bbf1d464651da5.gif",
+      "id": "kiril.mik.os@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/kiril.mik.os@gmail.com/manifest",
+      "roms": {
+        "thunderg": true
+      },
+      "summary": "kiril.mik.os@gmail.com"
     }
   ],
   "minversion": "2000"

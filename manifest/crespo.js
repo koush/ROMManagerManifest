@@ -181,15 +181,15 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
-      "developer": "NexBreed",
+      "developer": "NexBreed ROMs",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/150/06f5d36ced5f4795548d594dc9388435.jpg",
-      "id": "Kaiya215",
-      "manifest": "http://romshare.deployfu.com/developer/Kaiya215/manifest",
+      "id": "kaiya215",
+      "manifest": "http://romshare.deployfu.com/developer/kaiya215/manifest",
       "roms": {
         "crespo": true
       },
-      "summary": "former eris developer... now developing for the nexus s. fastest gingerbread roms available."
+      "summary": "fastest gingerbread roms available for the nexus s."
     }
   ],
   "minversion": "2000"

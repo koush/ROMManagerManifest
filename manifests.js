@@ -1455,6 +1455,7 @@
       "id": "koush",
       "manifest": "http://romshare.deployfu.com/developer/koush/manifest",
       "roms": {
+        "sholes": true,
         "captivatemtd": true,
         "crespo4g": true
       },
@@ -1527,6 +1528,17 @@
         "thunderg": true
       },
       "summary": "kiril.mik.os@gmail.com"
+    },
+    {
+      "developer": "DesignGears Roms",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/271/3ee39ba3530e8d858bbbfdbbb1ae2bea.png",
+      "id": "DesignGears",
+      "manifest": "http://romshare.deployfu.com/developer/DesignGears/manifest",
+      "roms": {
+        "captivate": true
+      },
+      "summary": "Roms for the Samsung Captivate"
     }
   ],
   "minversion": "2000"

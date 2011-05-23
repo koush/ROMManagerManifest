@@ -24,7 +24,7 @@
     },
     {
       "developer": "Cyanogenmod",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/220/67a6b509cd40321f4743cf903c6ca72a.jpg",
       "id": "Kernelzilla",
       "manifest": "http://romshare.deployfu.com/developer/Kernelzilla/manifest",

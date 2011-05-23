@@ -24,7 +24,7 @@
     },
     {
       "developer": "IcarusMod",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/30/c979e8b3907bd1bce28bbc43f561a97a.png",
       "id": "icarusmod",
       "manifest": "http://romshare.deployfu.com/developer/icarusmod/manifest",

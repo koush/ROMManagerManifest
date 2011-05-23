@@ -24,7 +24,7 @@
     },
     {
       "developer": "foschi@gmail.com",
-      "free": false,
+      "free": true,
       "id": "crimescene",
       "manifest": "http://romshare.deployfu.com/developer/crimescene/manifest",
       "roms": {
@@ -34,7 +34,7 @@
     },
     {
       "developer": "mik_os",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/280/90f44cfd3ec66b7485bbf1d464651da5.gif",
       "id": "kiril.mik.os@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/kiril.mik.os@gmail.com/manifest",

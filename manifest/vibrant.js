@@ -48,7 +48,7 @@
     },
     {
       "developer": "birgertime",
-      "free": false,
+      "free": true,
       "id": "einherjar",
       "manifest": "http://romshare.deployfu.com/developer/einherjar/manifest",
       "roms": {
@@ -58,7 +58,7 @@
     },
     {
       "developer": "Team Whiskey",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/217/1f014e3a34997c82b915902c05ba2005.png",
       "id": "Krylon360",
       "manifest": "http://romshare.deployfu.com/developer/Krylon360/manifest",
@@ -70,7 +70,7 @@
     },
     {
       "developer": "phiremod",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/234/8f79ee0e2a11ff0e735d220dca4d1525.gif",
       "id": "phiredrop",
       "manifest": "http://romshare.deployfu.com/developer/phiredrop/manifest",

@@ -109,7 +109,7 @@
     },
     {
       "developer": "Bugfixes for CM7",
-      "free": false,
+      "free": true,
       "id": "plasma",
       "manifest": "http://romshare.deployfu.com/developer/plasma/manifest",
       "roms": {

@@ -11,7 +11,7 @@ romshare_manifests = JSON.parse(open('http://romshare.deployfu.com/manifest').re
 threads = []
 
 for manifest in romshare_manifests['manifests']:
-  manifest['free'] = false
+  #manifest['free'] = false
   manifests << manifest
 end
 

@@ -79,6 +79,17 @@
         "encore": true
       },
       "summary": "Bringing you the best of Android."
+    },
+    {
+      "developer": "Br1cK'd",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/288/75bcc580df6cb4e59690993fcb904ecc.jpg",
+      "id": "bossdj523@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/bossdj523@gmail.com/manifest",
+      "roms": {
+        "vibrant": true
+      },
+      "summary": "Slim, fast, stable Samsung Vibrant Roms"
     }
   ],
   "minversion": "2000"

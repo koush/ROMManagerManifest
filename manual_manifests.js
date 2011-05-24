@@ -16,6 +16,7 @@
                 "captivatemtd": "true",
                 "click": "true",
                 "crespo": "true",
+                "crespo4g": "true",
                 "dream": "true",
                 "encore": "true",
                 "espresso": "true",

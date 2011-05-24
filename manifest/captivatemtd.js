@@ -25,6 +25,7 @@
         "sapphire": "true",
         "one": "true",
         "glacier": "true",
+        "crespo4g": "true",
         "captivatemtd": "true",
         "blade": "true",
         "speedy": "true",
@@ -106,19 +107,6 @@
         "all": "true"
       },
       "summary": "Add-on for AOSP ROMs, such as CM"
-    },
-    {
-      "developer": "Koush",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/1/e72d3e57fa319e3ae9ecb9f78e68228b.png",
-      "id": "koush",
-      "manifest": "http://romshare.deployfu.com/developer/koush/manifest",
-      "roms": {
-        "sholes": true,
-        "captivatemtd": true,
-        "crespo4g": true
-      },
-      "summary": "ROMs by Koush"
     }
   ],
   "minversion": "2000"

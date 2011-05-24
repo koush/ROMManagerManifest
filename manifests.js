@@ -26,6 +26,7 @@
         "sapphire": "true",
         "one": "true",
         "glacier": "true",
+        "crespo4g": "true",
         "captivatemtd": "true",
         "blade": "true",
         "speedy": "true",
@@ -1449,32 +1450,6 @@
       "summary": "Bringing you the best of Android."
     },
     {
-      "developer": "Koush",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/1/e72d3e57fa319e3ae9ecb9f78e68228b.png",
-      "id": "koush",
-      "manifest": "http://romshare.deployfu.com/developer/koush/manifest",
-      "roms": {
-        "sholes": true,
-        "captivatemtd": true,
-        "crespo4g": true
-      },
-      "summary": "ROMs by Koush"
-    },
-    {
-      "developer": "GreenRomProject",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
-      "id": "GreenRomProject",
-      "manifest": "http://romshare.deployfu.com/developer/GreenRomProject/manifest",
-      "roms": {
-        "sholes": true,
-        "glacier": true,
-        "harmony": true
-      },
-      "summary": "STABLE Super Fast ROM; ANDROID 2.3.4"
-    },
-    {
       "developer": "foschi@gmail.com",
       "free": true,
       "id": "crimescene",
@@ -1493,7 +1468,21 @@
       "roms": {
         "morrison": true
       },
-      "summary": "CyanogenMod 7 for the Motorola Cliq/Dext. Please remember DO NOT BACKUP ROM OR WIPE DATA/FACTORY RESET THROUGH ROM MANAGER! "
+      "summary": "CyanogenMod 7 for the Motorola Cliq/Dext. DO NOT WIPE DATA/CACHE. Our ROM's have a wipe patch included. If you wipe, reinstall without wiping. Please remember DO NOT BACKUP ROM OR WIPE DATA/FACTORY RESET THROUGH ROM MANAGER! "
+    },
+    {
+      "developer": "GreenRomProject",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
+      "id": "GreenRomProject",
+      "manifest": "http://romshare.deployfu.com/developer/GreenRomProject/manifest",
+      "roms": {
+        "desirec": true,
+        "magic": true,
+        "sholes": true,
+        "harmony": true
+      },
+      "summary": "STABLE Super Fast ROM; ANDROID 2.3.4"
     },
     {
       "developer": "ACSyndicate",
@@ -1539,6 +1528,27 @@
         "captivate": true
       },
       "summary": "Roms for the Samsung Captivate"
+    },
+    {
+      "developer": "Br1cK'd",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/288/75bcc580df6cb4e59690993fcb904ecc.jpg",
+      "id": "bossdj523@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/bossdj523@gmail.com/manifest",
+      "roms": {
+        "vibrant": true
+      },
+      "summary": "Slim, fast, stable Samsung Vibrant Roms"
+    },
+    {
+      "developer": "yohshua@gmail.com",
+      "free": true,
+      "id": "yohshua@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/yohshua@gmail.com/manifest",
+      "roms": {
+        "dream": true
+      },
+      "summary": "yohshua@gmail.com"
     }
   ],
   "minversion": "2000"

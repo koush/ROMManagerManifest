@@ -25,6 +25,7 @@
         "sapphire": "true",
         "one": "true",
         "glacier": "true",
+        "crespo4g": "true",
         "captivatemtd": "true",
         "blade": "true",
         "speedy": "true",
@@ -200,8 +201,9 @@
       "id": "GreenRomProject",
       "manifest": "http://romshare.deployfu.com/developer/GreenRomProject/manifest",
       "roms": {
+        "desirec": true,
+        "magic": true,
         "sholes": true,
-        "glacier": true,
         "harmony": true
       },
       "summary": "STABLE Super Fast ROM; ANDROID 2.3.4"

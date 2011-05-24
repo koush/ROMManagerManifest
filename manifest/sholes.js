@@ -25,6 +25,7 @@
         "sapphire": "true",
         "one": "true",
         "glacier": "true",
+        "crespo4g": "true",
         "captivatemtd": "true",
         "blade": "true",
         "speedy": "true",
@@ -424,27 +425,15 @@
       "summary": "OC Kernels for the Droid"
     },
     {
-      "developer": "Koush",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/1/e72d3e57fa319e3ae9ecb9f78e68228b.png",
-      "id": "koush",
-      "manifest": "http://romshare.deployfu.com/developer/koush/manifest",
-      "roms": {
-        "sholes": true,
-        "captivatemtd": true,
-        "crespo4g": true
-      },
-      "summary": "ROMs by Koush"
-    },
-    {
       "developer": "GreenRomProject",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
       "id": "GreenRomProject",
       "manifest": "http://romshare.deployfu.com/developer/GreenRomProject/manifest",
       "roms": {
+        "desirec": true,
+        "magic": true,
         "sholes": true,
-        "glacier": true,
         "harmony": true
       },
       "summary": "STABLE Super Fast ROM; ANDROID 2.3.4"

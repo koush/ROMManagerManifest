@@ -25,6 +25,7 @@
         "sapphire": "true",
         "one": "true",
         "glacier": "true",
+        "crespo4g": "true",
         "captivatemtd": "true",
         "blade": "true",
         "speedy": "true",
@@ -141,19 +142,6 @@
         "glacier": true
       },
       "summary": "http://android-maisters.thedevboard.com Roms latest and greatest!"
-    },
-    {
-      "developer": "GreenRomProject",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
-      "id": "GreenRomProject",
-      "manifest": "http://romshare.deployfu.com/developer/GreenRomProject/manifest",
-      "roms": {
-        "sholes": true,
-        "glacier": true,
-        "harmony": true
-      },
-      "summary": "STABLE Super Fast ROM; ANDROID 2.3.4"
     },
     {
       "developer": "Faux123 Custom ROMs",

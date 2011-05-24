@@ -80,6 +80,7 @@
       "developer": "Salvage-Mod Nightlies",
       "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
       "id": "echo17",
+      "free": "true",
       "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
       "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
     },

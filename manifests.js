@@ -766,6 +766,7 @@
       "developer": "Salvage-Mod Nightlies",
       "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
       "id": "echo17",
+      "free": "true",
       "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
       "roms": {
         "supersonic": "true"

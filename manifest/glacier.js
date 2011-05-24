@@ -149,6 +149,8 @@
       "id": "GreenRomProject",
       "manifest": "http://romshare.deployfu.com/developer/GreenRomProject/manifest",
       "roms": {
+        "desirec": true,
+        "magic": true,
         "sholes": true,
         "glacier": true,
         "harmony": true

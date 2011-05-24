@@ -134,6 +134,16 @@
         "all": "true"
       },
       "summary": "Add-on for AOSP ROMs, such as CM"
+    },
+    {
+      "developer": "yohshua@gmail.com",
+      "free": true,
+      "id": "yohshua@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/yohshua@gmail.com/manifest",
+      "roms": {
+        "dream": true
+      },
+      "summary": "yohshua@gmail.com"
     }
   ],
   "minversion": "2000"

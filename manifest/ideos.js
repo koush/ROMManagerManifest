@@ -1,16 +1,5 @@
 {
   "manifests": [
-   {
-      "developer": "Ideos Dev Team",
-      "free": "true",
-      "id": "tilal6991",
-      "icon": "http://ideosdevteam.sourceforge.net/icon.png",
-      "manifest": "http://ideosdevteam.sourceforge.net/manifest.js",
-      "roms": {
-        "ideos": "true"
-      },
-      "summary": "ROMs for the Huawei Ideos U8150 from the Ideos Dev Team"
-    },
     {
       "developer": "Extras",
       "icon": "http://mirror.kanged.net/test/extras.png",

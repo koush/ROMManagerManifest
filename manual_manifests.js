@@ -1208,6 +1208,17 @@
           "summary": "CM7 Nightly builds, unofficially built by charansingh, AirforcPrductions and arif-ali. Very experimental and probably broken. Do not report bugs for these builds."
         },
         {
+          "developer": "Ideos Dev Team",
+          "free": "true",
+          "id": "tilal6991",
+          "icon": "http://ideosdevteam.sourceforge.net/icon.png",
+          "manifest": "http://ideosdevteam.sourceforge.net/manifest.js",
+          "roms": {
+            "ideos": "true"
+           },
+           "summary": "ROMs for the Huawei Ideos U8150 from the Ideos Dev Team"
+        },
+        {
             "developer": "-=MDJ's ViVO Sense=-",
             "free": "true",
             "id": "spartach",

@@ -6,9 +6,6 @@
       "id": "extras",
       "free": "true",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
-      "roms": {
-        "all": "true"
-      },
       "summary": "Cool stuffs."
     },
     {
@@ -17,12 +14,6 @@
       "id": "r2d2",
       "free": "true",
       "manifest": "http://omfgb.github.com/rommanager_manifest/manifest.js",
-      "roms": {
-        "desirec": "true",
-        "mecha": "true",
-        "inc": "true",
-        "supersonic": "true"
-      },
       "summary": "Formerly r2DoesInc, Check out the new stuff. "
     },
     {
@@ -31,9 +22,6 @@
       "id": "google",
       "free": "true",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
-      "roms": {
-        "all": "true"
-      },
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
@@ -42,13 +30,6 @@
       "icon": "http://romshare.deployfu.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
       "id": "GreenRomProject",
       "manifest": "http://romshare.deployfu.com/developer/GreenRomProject/manifest",
-      "roms": {
-        "desirec": true,
-        "magic": true,
-        "sholes": true,
-        "glacier": true,
-        "harmony": true
-      },
       "summary": "STABLE Super Fast ROM; ANDROID 2.3.4"
     }
   ],

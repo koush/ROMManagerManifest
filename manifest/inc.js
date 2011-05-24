@@ -6,41 +6,6 @@
       "id": "cyanogenmod",
       "free": "true",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
-      "roms": {
-        "p999": "true",
-        "zeppelin": "true",
-        "liberty": "true",
-        "p990": "true",
-        "legend": "true",
-        "vibrantmtd": "true",
-        "passion": "true",
-        "bravo": "true",
-        "ace": "true",
-        "u8220": "true",
-        "sholes": "true",
-        "hero": "true",
-        "espresso": "true",
-        "dream": "true",
-        "bravoc": "true",
-        "sapphire": "true",
-        "one": "true",
-        "glacier": "true",
-        "captivatemtd": "true",
-        "blade": "true",
-        "speedy": "true",
-        "vision": "true",
-        "supersonic": "true",
-        "galaxysmtd": "true",
-        "inc": "true",
-        "harmony": "true",
-        "encore": "true",
-        "crespo": "true",
-        "click": "true",
-        "buzz": "true",
-        "z71": "true",
-        "heroc": "true",
-        "zero": "true"
-      },
       "summary": "Mods and bacon for your phone"
     },
     {
@@ -48,41 +13,6 @@
       "icon": "http://mirror.kanged.net//test/tdr.png",
       "id": "cyanogenmodnightly",
       "manifest": "http://mirrorbrain.cyanogenmod.com/cm/nightly/manifest.js",
-      "roms": {
-        "p999": "true",
-        "zeppelin": "true",
-        "liberty": "true",
-        "p990": "true",
-        "legend": "true",
-        "vibrantmtd": "true",
-        "passion": "true",
-        "bravo": "true",
-        "ace": "true",
-        "u8220": "true",
-        "sholes": "true",
-        "hero": "true",
-        "espresso": "true",
-        "dream": "true",
-        "bravoc": "true",
-        "sapphire": "true",
-        "one": "true",
-        "glacier": "true",
-        "captivatemtd": "true",
-        "blade": "true",
-        "speedy": "true",
-        "vision": "true",
-        "supersonic": "true",
-        "galaxysmtd": "true",
-        "inc": "true",
-        "harmony": "true",
-        "encore": "true",
-        "crespo": "true",
-        "click": "true",
-        "buzz": "true",
-        "z71": "true",
-        "heroc": "true",
-        "zero": "true"
-      },
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
     {
@@ -91,9 +21,6 @@
       "id": "extras",
       "free": "true",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
-      "roms": {
-        "all": "true"
-      },
       "summary": "Cool stuffs."
     },
     {
@@ -101,10 +28,6 @@
       "id": "JRummy16",
       "free": "true",
       "manifest": "http://froyoroms.com/files/developers/jrummy/JRummy/Rom_Manager/jared.js",
-      "roms": {
-        "sholes": "true",
-        "inc": "true"
-      },
       "summary": "Source built roms and custom themes"
     },
     {
@@ -113,13 +36,6 @@
       "id": "cvpcs",
       "free": "true",
       "manifest": "http://cvpcs.github.com/android_vendor_cvpcs/cvpcs-rmm.js",
-      "roms": {
-        "droid2": "true",
-        "sholes": "true",
-        "inc": "true",
-        "droidx": "true",
-        "supersonic": "true"
-      },
       "summary": "Source-based mods made by CVPCS"
     },
     {
@@ -128,9 +44,6 @@
       "id": "ihtfp69",
       "free": "true",
       "manifest": "http://www.skyraider.us/manifest/skyraider.js",
-      "roms": {
-        "inc": "true"
-      },
       "summary": "Mods and bacon for the Droid Incredible"
     },
     {
@@ -138,9 +51,6 @@
       "id": "CaptJager",
       "free": "true",
       "manifest": "http://www.igotjaked.com/jagerrom.js",
-      "roms": {
-        "inc": "true"
-      },
       "summary": "Senseless deodexed Rom for Droid Incredible with couple of twists"
     },
     {
@@ -149,10 +59,6 @@
       "id": "virtuous",
       "free": "true",
       "manifest": "http://files.virtuousrom.com/virtuous.js",
-      "roms": {
-        "inc": "true",
-        "vision": "true"
-      },
       "summary": "Stock Sense ROMs with Essential Fixes and Enhancements and Other Goodies by rmk."
     },
     {
@@ -160,9 +66,6 @@
       "id": "uncommonsense",
       "free": "true",
       "manifest": "http://www.pcjock.com/uncommon/ROMManagerManifest/uncommon.js",
-      "roms": {
-        "inc": "true"
-      },
       "summary": "Rosie like you've never seen her before."
     },
     {
@@ -170,9 +73,6 @@
       "id": "nixmiui",
       "free": "true",
       "manifest": "http://rommanagermanifest.appspot.com/developer/nixmiui.js",
-      "roms": {
-        "inc": "true"
-      },
       "summary": "MIUI ports by n_i_x"
     },
     {
@@ -180,9 +80,6 @@
       "id": "berzerker",
       "free": "true",
       "manifest": "http://fourty.net/~berzerker/rosiemod/rosiemod.js",
-      "roms": {
-        "inc": "true"
-      },
       "summary": "Modifications for the HTC Incredible by Berzerker"
     },
     {
@@ -190,9 +87,6 @@
       "id": "DopeShiziot",
       "free": "true",
       "manifest": "http://dope.appfabulo.us/RM/rom-manager-manifest.js",
-      "roms": {
-        "inc": "true"
-      },
       "summary": "This shiz is dope!"
     },
     {
@@ -201,10 +95,6 @@
       "id": "lllboredlll",
       "free": "true",
       "manifest": "http://htc-tweaker.com/IncROM/IncROM.js",
-      "roms": {
-        "mecha": "true",
-        "inc": "true"
-      },
       "summary": "Creator of IncROM and ThunderROM"
     },
     {
@@ -213,12 +103,6 @@
       "id": "r2d2",
       "free": "true",
       "manifest": "http://omfgb.github.com/rommanager_manifest/manifest.js",
-      "roms": {
-        "desirec": "true",
-        "mecha": "true",
-        "inc": "true",
-        "supersonic": "true"
-      },
       "summary": "Formerly r2DoesInc, Check out the new stuff. "
     },
     {
@@ -226,9 +110,6 @@
       "id": "linuxmotion",
       "free": "true",
       "manifest": "http://thelinuxmotion.org/ClockworkMod/manifest.js",
-      "roms": {
-        "inc": "true"
-      },
       "summary": "Source built Roms and themes from LinuxMotion"
     },
     {
@@ -236,10 +117,6 @@
       "id": "warttack",
       "free": "true",
       "manifest": "http://android.msacomputersolutions.com/ROMManagerManifest/update.js",
-      "roms": {
-        "inc": "true",
-        "aloha": "true"
-      },
       "summary": "MIUI Ports + Extras by Warttack "
     },
     {
@@ -248,11 +125,6 @@
       "id": "jsseidel1",
       "free": "true",
       "manifest": "http://savaged-zen.github.com/RM-Manifest/manifest.js",
-      "roms": {
-        "glacier": "true",
-        "inc": "true",
-        "supersonic": "true"
-      },
       "summary": "ROMs & kernels for HTC EVO 4G, Droid Incredible"
     },
     {
@@ -260,9 +132,6 @@
       "id": "trock79",
       "free": "true",
       "manifest": "http://dl.dropbox.com/u/12845382/trock.js",
-      "roms": {
-        "inc": "true"
-      },
       "summary": "Custom ROM's by trock79"
     },
     {
@@ -271,9 +140,6 @@
       "id": "frostincredible",
       "free": "true",
       "manifest": "https://github.com/fsufrosty/FrostBlur-Repo/raw/master/frostincredible.js",
-      "roms": {
-        "inc": "true"
-      },
       "summary": "ROMs by FrostIncredible"
     },
     {
@@ -282,9 +148,6 @@
       "id": "google",
       "free": "true",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
-      "roms": {
-        "all": "true"
-      },
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
@@ -292,10 +155,6 @@
       "free": true,
       "id": "toverturf@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/toverturf@gmail.com/manifest",
-      "roms": {
-        "sholes": true,
-        "inc": true
-      },
       "summary": "CyanogenMod 7 with few tweaks for better performance on the OG Droid, Incredible, and pulls from gerrit.  "
     }
   ],

@@ -43,6 +43,7 @@ for manifest in manifests:
       device_manifest['manifests'] << manifest
     end
   end
+  manifest.delete 'roms'
 end
 
 for device in device_manifests.keys:

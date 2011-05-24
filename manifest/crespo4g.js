@@ -6,9 +6,6 @@
       "id": "extras",
       "free": "true",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
-      "roms": {
-        "all": "true"
-      },
       "summary": "Cool stuffs."
     },
     {
@@ -17,10 +14,6 @@
       "free": "true",
       "icon": "http://wonderly.com/bb/WEBSITE/pete.jpg",
       "manifest": "http://wonderly.com/bb/WEBSITE/pete.js",
-      "roms": {
-        "sholes": "true",
-        "crespo4g": "true"
-      },
       "summary": "www.peteralfonso.com\nwww.twitter.com/peteralfonso"
     },
     {
@@ -29,9 +22,6 @@
       "id": "google",
       "free": "true",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
-      "roms": {
-        "all": "true"
-      },
       "summary": "Add-on for AOSP ROMs, such as CM"
     }
   ],

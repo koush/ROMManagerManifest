@@ -1467,7 +1467,7 @@
       "roms": {
         "morrison": true
       },
-      "summary": "CyanogenMod 7 for the Motorola Cliq/Dext. Please remember DO NOT BACKUP ROM OR WIPE DATA/FACTORY RESET THROUGH ROM MANAGER! "
+      "summary": "CyanogenMod 7 for the Motorola Cliq/Dext. DO NOT WIPE DATA/CACHE. Our ROM's have a wipe patch included. If you wipe, reinstall without wiping. Please remember DO NOT BACKUP ROM OR WIPE DATA/FACTORY RESET THROUGH ROM MANAGER! "
     },
     {
       "developer": "GreenRomProject",
@@ -1479,7 +1479,6 @@
         "desirec": true,
         "magic": true,
         "sholes": true,
-        "glacier": true,
         "harmony": true
       },
       "summary": "STABLE Super Fast ROM; ANDROID 2.3.4"

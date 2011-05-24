@@ -6,41 +6,6 @@
       "id": "cyanogenmod",
       "free": "true",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
-      "roms": {
-        "p999": "true",
-        "zeppelin": "true",
-        "liberty": "true",
-        "p990": "true",
-        "legend": "true",
-        "vibrantmtd": "true",
-        "passion": "true",
-        "bravo": "true",
-        "ace": "true",
-        "u8220": "true",
-        "sholes": "true",
-        "hero": "true",
-        "espresso": "true",
-        "dream": "true",
-        "bravoc": "true",
-        "sapphire": "true",
-        "one": "true",
-        "glacier": "true",
-        "captivatemtd": "true",
-        "blade": "true",
-        "speedy": "true",
-        "vision": "true",
-        "supersonic": "true",
-        "galaxysmtd": "true",
-        "inc": "true",
-        "harmony": "true",
-        "encore": "true",
-        "crespo": "true",
-        "click": "true",
-        "buzz": "true",
-        "z71": "true",
-        "heroc": "true",
-        "zero": "true"
-      },
       "summary": "Mods and bacon for your phone"
     },
     {
@@ -48,41 +13,6 @@
       "icon": "http://mirror.kanged.net//test/tdr.png",
       "id": "cyanogenmodnightly",
       "manifest": "http://mirrorbrain.cyanogenmod.com/cm/nightly/manifest.js",
-      "roms": {
-        "p999": "true",
-        "zeppelin": "true",
-        "liberty": "true",
-        "p990": "true",
-        "legend": "true",
-        "vibrantmtd": "true",
-        "passion": "true",
-        "bravo": "true",
-        "ace": "true",
-        "u8220": "true",
-        "sholes": "true",
-        "hero": "true",
-        "espresso": "true",
-        "dream": "true",
-        "bravoc": "true",
-        "sapphire": "true",
-        "one": "true",
-        "glacier": "true",
-        "captivatemtd": "true",
-        "blade": "true",
-        "speedy": "true",
-        "vision": "true",
-        "supersonic": "true",
-        "galaxysmtd": "true",
-        "inc": "true",
-        "harmony": "true",
-        "encore": "true",
-        "crespo": "true",
-        "click": "true",
-        "buzz": "true",
-        "z71": "true",
-        "heroc": "true",
-        "zero": "true"
-      },
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
     {
@@ -91,9 +21,6 @@
       "id": "extras",
       "free": "true",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
-      "roms": {
-        "all": "true"
-      },
       "summary": "Cool stuffs."
     },
     {
@@ -101,10 +28,6 @@
       "id": "flipz",
       "free": "true",
       "manifest": "http://geekfor.me/clockwork/fresh.js",
-      "roms": {
-        "supersonic": "true",
-        "heroc": "true"
-      },
       "summary": "Fresh Rom for Evo and HeroC by flipz"
     },
     {
@@ -112,9 +35,6 @@
       "id": "OMJ",
       "free": "true",
       "manifest": "http://vegasden.net/OMJ/ROMmanifest/omj.js",
-      "roms": {
-        "supersonic": "true"
-      },
       "summary": "OMJ's HTC EVO ROMs"
     },
     {
@@ -122,9 +42,6 @@
       "id": "joeykrim",
       "free": "true",
       "manifest": "http://www.joeyconway.me/evo/ROMManagerManifest/manifest.js",
-      "roms": {
-        "supersonic": "true"
-      },
       "summary": "Refinements and tools bundled together for the HTC EVO"
     },
     {
@@ -133,13 +50,6 @@
       "id": "cvpcs",
       "free": "true",
       "manifest": "http://cvpcs.github.com/android_vendor_cvpcs/cvpcs-rmm.js",
-      "roms": {
-        "droid2": "true",
-        "sholes": "true",
-        "inc": "true",
-        "droidx": "true",
-        "supersonic": "true"
-      },
       "summary": "Source-based mods made by CVPCS"
     },
     {
@@ -148,9 +58,6 @@
       "id": "jdubzisfaded",
       "free": "true",
       "manifest": "https://github.com/pcmac77/Baked-Snack-Manifest-for-ROM-Manager/raw/master/bs_manifest.js",
-      "roms": {
-        "supersonic": "true"
-      },
       "summary": "Froyo ROM with Sense by Hero_Over.  See http://bakedsnackshack.com for more info."
     },
     {
@@ -159,9 +66,6 @@
       "id": "myn",
       "free": "true",
       "manifest": "http://drmacinyasha.github.com/MynROMManagerManifest/manifest.js",
-      "roms": {
-        "supersonic": "true"
-      },
       "summary": "Warm treats for Android"
     },
     {
@@ -170,9 +74,6 @@
       "id": "echo17",
       "free": "true",
       "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
-      "roms": {
-        "supersonic": "true"
-      },
       "summary": "GB source build. Group project."
     },
     {
@@ -180,9 +81,6 @@
       "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
       "id": "echo17",
       "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
-      "roms": {
-        "supersonic": "true"
-      },
       "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
     },
     {
@@ -191,12 +89,6 @@
       "id": "r2d2",
       "free": "true",
       "manifest": "http://omfgb.github.com/rommanager_manifest/manifest.js",
-      "roms": {
-        "desirec": "true",
-        "mecha": "true",
-        "inc": "true",
-        "supersonic": "true"
-      },
       "summary": "Formerly r2DoesInc, Check out the new stuff. "
     },
     {
@@ -204,10 +96,6 @@
       "id": "ACS",
       "free": "true",
       "manifest": "http://holylivingfuck.com/ACS/Romlist.js",
-      "roms": {
-        "epic4g": "true",
-        "supersonic": "true"
-      },
       "summary": "Android Creative Syndicate"
     },
     {
@@ -216,11 +104,6 @@
       "id": "jsseidel1",
       "free": "true",
       "manifest": "http://savaged-zen.github.com/RM-Manifest/manifest.js",
-      "roms": {
-        "glacier": "true",
-        "inc": "true",
-        "supersonic": "true"
-      },
       "summary": "ROMs & kernels for HTC EVO 4G, Droid Incredible"
     },
     {
@@ -229,9 +112,6 @@
       "id": "SinisterTensai",
       "free": "true",
       "manifest": "http://sinister.tensailabs.com/Sinister_Rom/Romlist.js",
-      "roms": {
-        "supersonic": "true"
-      },
       "summary": "Sinister Speeds, Sinister Looks"
     },
     {
@@ -240,9 +120,6 @@
       "id": "drmacinyasha",
       "free": "true",
       "manifest": "http://drmacinyasha.github.com/EVO-Stock-RM-Manifest/manifest.js",
-      "roms": {
-        "supersonic": "true"
-      },
       "summary": "Updates for stock ROMs, radio, hboot"
     },
     {
@@ -251,9 +128,6 @@
       "id": "google",
       "free": "true",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
-      "roms": {
-        "all": "true"
-      },
       "summary": "Add-on for AOSP ROMs, such as CM"
     }
   ],

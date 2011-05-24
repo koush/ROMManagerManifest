@@ -6,9 +6,6 @@
       "id": "extras",
       "free": "true",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
-      "roms": {
-        "all": "true"
-      },
       "summary": "Cool stuffs."
     },
     {
@@ -17,13 +14,6 @@
       "id": "cvpcs",
       "free": "true",
       "manifest": "http://cvpcs.github.com/android_vendor_cvpcs/cvpcs-rmm.js",
-      "roms": {
-        "droid2": "true",
-        "sholes": "true",
-        "inc": "true",
-        "droidx": "true",
-        "supersonic": "true"
-      },
       "summary": "Source-based mods made by CVPCS"
     },
     {
@@ -31,10 +21,6 @@
       "id": "Beesley",
       "free": "true",
       "manifest": "http://beesley.droid.co/beesley.js",
-      "roms": {
-        "droid2": "true",
-        "droidx": "true"
-      },
       "summary": "All Build.prop Mods to Date"
     },
     {
@@ -42,10 +28,6 @@
       "id": "kejar31",
       "free": "true",
       "manifest": "http://dl.dropbox.com/u/6927558/gummyjar.js",
-      "roms": {
-        "droid2": "true",
-        "droidx": "true"
-      },
       "summary": "An AOSP-Like ROM for the Droid 2/X by kejar31"
     },
     {
@@ -54,9 +36,6 @@
       "id": "google",
       "free": "true",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
-      "roms": {
-        "all": "true"
-      },
       "summary": "Add-on for AOSP ROMs, such as CM"
     }
   ],

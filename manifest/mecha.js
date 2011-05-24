@@ -6,9 +6,6 @@
       "id": "extras",
       "free": "true",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
-      "roms": {
-        "all": "true"
-      },
       "summary": "Cool stuffs."
     },
     {
@@ -17,12 +14,6 @@
       "id": "mrbobrowitz",
       "free": "true",
       "manifest": "http://www.onix-android.com/mrbobrowitzmanifest.js",
-      "roms": {
-        "sholes": "true",
-        "mecha": "true",
-        "harmony": "true",
-        "droidx": "true"
-      },
       "summary": "Roms Kernels, and Themes for Droid, Droid X, Gtablet and Thunderbolt"
     },
     {
@@ -31,9 +22,6 @@
       "id": "dsb9938",
       "free": "true",
       "manifest": "http://www.onix-android.com/thatdudebutch/rommgr/Long%20Manifest.1.0.js",
-      "roms": {
-        "mecha": "true"
-      },
       "summary": "BAMF for Thunderbolt by Adrynalyne, ThatDudeButch, Trident, and dsb9938"
     },
     {
@@ -41,10 +29,6 @@
       "id": "jdlfg",
       "free": "true",
       "manifest": "http://dl.dropbox.com/u/6011176/jdlfg.js",
-      "roms": {
-        "sholes": "true",
-        "mecha": "true"
-      },
       "summary": "Kernels for any ROM by jdlfg"
     },
     {
@@ -53,9 +37,6 @@
       "id": "jcase",
       "free": "true",
       "manifest": "http://cunninglogic.com/android/jcasemanifest.js",
-      "roms": {
-        "mecha": "true"
-      },
       "summary": "Bits and pieces from jcase"
     },
     {
@@ -64,11 +45,6 @@
       "id": "Liquid",
       "free": "true",
       "manifest": "http://android.jbroom.com/rommanager/manifest.js",
-      "roms": {
-        "sholes": "true",
-        "mecha": "true",
-        "crespo": "true"
-      },
       "summary": "Source Built Gingerbread and Custom Tbolt Roms"
     },
     {
@@ -77,11 +53,6 @@
       "id": "Sonofskywalker3",
       "free": "true",
       "manifest": "http://www.androiddoes.net/~sonofskywalker3/Manifest/Sonofskywalker3_Manifest.js",
-      "roms": {
-        "fascinate": "true",
-        "vibrant": "true",
-        "mecha": "true"
-      },
       "summary": "Blackhole build your own ROM series, full customization"
     },
     {
@@ -90,10 +61,6 @@
       "id": "lllboredlll",
       "free": "true",
       "manifest": "http://htc-tweaker.com/IncROM/IncROM.js",
-      "roms": {
-        "mecha": "true",
-        "inc": "true"
-      },
       "summary": "Creator of IncROM and ThunderROM"
     },
     {
@@ -102,12 +69,6 @@
       "id": "r2d2",
       "free": "true",
       "manifest": "http://omfgb.github.com/rommanager_manifest/manifest.js",
-      "roms": {
-        "desirec": "true",
-        "mecha": "true",
-        "inc": "true",
-        "supersonic": "true"
-      },
       "summary": "Formerly r2DoesInc, Check out the new stuff. "
     },
     {
@@ -116,9 +77,6 @@
       "id": "DhE17roms",
       "free": "true",
       "manifest": "http://dhe17roms.github.com/Roms/lightningrom.js",
-      "roms": {
-        "mecha": "true"
-      },
       "summary": "Roms and Extras"
     },
     {
@@ -127,9 +85,6 @@
       "id": "google",
       "free": "true",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
-      "roms": {
-        "all": "true"
-      },
       "summary": "Add-on for AOSP ROMs, such as CM"
     }
   ],

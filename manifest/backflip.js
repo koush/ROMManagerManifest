@@ -6,9 +6,6 @@
       "id": "extras",
       "free": "true",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
-      "roms": {
-        "all": "true"
-      },
       "summary": "Cool stuffs."
     },
     {
@@ -17,9 +14,6 @@
       "id": "google",
       "free": "true",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
-      "roms": {
-        "all": "true"
-      },
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
@@ -28,9 +22,6 @@
       "icon": "http://romshare.deployfu.com/downloads/220/67a6b509cd40321f4743cf903c6ca72a.jpg",
       "id": "Kernelzilla",
       "manifest": "http://romshare.deployfu.com/developer/Kernelzilla/manifest",
-      "roms": {
-        "backflip": true
-      },
       "summary": "Ports of Cyanogenmod for the Backflip"
     }
   ],

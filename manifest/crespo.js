@@ -6,41 +6,6 @@
       "id": "cyanogenmod",
       "free": "true",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
-      "roms": {
-        "p999": "true",
-        "zeppelin": "true",
-        "liberty": "true",
-        "p990": "true",
-        "legend": "true",
-        "vibrantmtd": "true",
-        "passion": "true",
-        "bravo": "true",
-        "ace": "true",
-        "u8220": "true",
-        "sholes": "true",
-        "hero": "true",
-        "espresso": "true",
-        "dream": "true",
-        "bravoc": "true",
-        "sapphire": "true",
-        "one": "true",
-        "glacier": "true",
-        "captivatemtd": "true",
-        "blade": "true",
-        "speedy": "true",
-        "vision": "true",
-        "supersonic": "true",
-        "galaxysmtd": "true",
-        "inc": "true",
-        "harmony": "true",
-        "encore": "true",
-        "crespo": "true",
-        "click": "true",
-        "buzz": "true",
-        "z71": "true",
-        "heroc": "true",
-        "zero": "true"
-      },
       "summary": "Mods and bacon for your phone"
     },
     {
@@ -48,41 +13,6 @@
       "icon": "http://mirror.kanged.net//test/tdr.png",
       "id": "cyanogenmodnightly",
       "manifest": "http://mirrorbrain.cyanogenmod.com/cm/nightly/manifest.js",
-      "roms": {
-        "p999": "true",
-        "zeppelin": "true",
-        "liberty": "true",
-        "p990": "true",
-        "legend": "true",
-        "vibrantmtd": "true",
-        "passion": "true",
-        "bravo": "true",
-        "ace": "true",
-        "u8220": "true",
-        "sholes": "true",
-        "hero": "true",
-        "espresso": "true",
-        "dream": "true",
-        "bravoc": "true",
-        "sapphire": "true",
-        "one": "true",
-        "glacier": "true",
-        "captivatemtd": "true",
-        "blade": "true",
-        "speedy": "true",
-        "vision": "true",
-        "supersonic": "true",
-        "galaxysmtd": "true",
-        "inc": "true",
-        "harmony": "true",
-        "encore": "true",
-        "crespo": "true",
-        "click": "true",
-        "buzz": "true",
-        "z71": "true",
-        "heroc": "true",
-        "zero": "true"
-      },
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
     {
@@ -91,9 +21,6 @@
       "id": "extras",
       "free": "true",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
-      "roms": {
-        "all": "true"
-      },
       "summary": "Cool stuffs."
     },
     {
@@ -102,13 +29,6 @@
       "icon": "http://mirror.kanged.net/test/n1.png",
       "free": "true",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/stock.js",
-      "roms": {
-        "passion": "true",
-        "sholes": "true",
-        "crespo": "true",
-        "harmony": "true",
-        "droidx": "true"
-      },
       "summary": "Revert back to stock phone images."
     },
     {
@@ -117,11 +37,6 @@
       "id": "Liquid",
       "free": "true",
       "manifest": "http://android.jbroom.com/rommanager/manifest.js",
-      "roms": {
-        "sholes": "true",
-        "mecha": "true",
-        "crespo": "true"
-      },
       "summary": "Source Built Gingerbread and Custom Tbolt Roms"
     },
     {
@@ -130,9 +45,6 @@
       "id": "frank707",
       "free": "true",
       "manifest": "http://studiousmedia.com/crespo/nscollab.js",
-      "roms": {
-        "crespo": "true"
-      },
       "summary": "A best of both worlds rom for your Nexus S"
     },
     {
@@ -141,10 +53,6 @@
       "id": "blandroid",
       "free": "true",
       "manifest": "http://blandroid.org/rommanager-manifest.js",
-      "roms": {
-        "passion": "true",
-        "crespo": "true"
-      },
       "summary": "Stable AOSP-based ROM"
     },
     {
@@ -153,9 +61,6 @@
       "id": "amethyst",
       "free": "true",
       "manifest": "http://download.renandroid.com/amethyst_manifest.js",
-      "roms": {
-        "crespo": "true"
-      },
       "summary": "Clean and fast AOSP ROM with some CM tweaks"
     },
     {
@@ -164,9 +69,6 @@
       "id": "jonathongrigg",
       "free": "true",
       "manifest": "http://www.jonathongrigg.com/infin1ty/ROMManagerManifest.js",
-      "roms": {
-        "crespo": "true"
-      },
       "summary": "no limits AOSP based ROM with loads of tweaks"
     },
     {
@@ -175,9 +77,6 @@
       "id": "google",
       "free": "true",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
-      "roms": {
-        "all": "true"
-      },
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
@@ -186,9 +85,6 @@
       "icon": "http://romshare.deployfu.com/downloads/150/06f5d36ced5f4795548d594dc9388435.jpg",
       "id": "kaiya215",
       "manifest": "http://romshare.deployfu.com/developer/kaiya215/manifest",
-      "roms": {
-        "crespo": true
-      },
       "summary": "fastest gingerbread roms available for the nexus s."
     }
   ],

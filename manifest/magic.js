@@ -6,9 +6,6 @@
       "id": "cyanogenmod",
       "free": "true",
       "manifest": "http://briancrook.ca/RM.php",
-      "roms": {
-        "magic": "true"
-      },
       "summary": "Mods and bacon for your phone"
     },
     {
@@ -16,9 +13,6 @@
       "icon": "http://mirror.kanged.net//test/cm2.png",
       "id": "cyanogenmodnightly",
       "manifest": "http://briancrook.ca/RM_nightly.php",
-      "roms": {
-        "magic": "true"
-      },
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
     {
@@ -27,9 +21,6 @@
       "id": "extras",
       "free": "true",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
-      "roms": {
-        "all": "true"
-      },
       "summary": "Cool stuffs."
     },
     {
@@ -37,14 +28,6 @@
       "id": "pershoot",
       "free": "true",
       "manifest": "http://pershoot.github.com/ROMManagerManifest/pershoot.js",
-      "roms": {
-        "passion": "true",
-        "magic": "true",
-        "dream": "true",
-        "sapphire": "true",
-        "vision": "true",
-        "harmony": "true"
-      },
       "summary": "Custom kernels and other awesomeness"
     },
     {
@@ -53,11 +36,6 @@
       "id": "roalex",
       "free": "true",
       "manifest": "http://dl.dropbox.com/u/14294263/cos-ds.js",
-      "roms": {
-        "magic": "true",
-        "dream": "true",
-        "sapphire": "true"
-      },
       "summary": "An AOSP ROM using the latest CM/EzGB sources for D/S, supporting EBI0, 2708, EBI1 devices"
     },
     {
@@ -66,9 +44,6 @@
       "id": "google",
       "free": "true",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
-      "roms": {
-        "all": "true"
-      },
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
@@ -77,13 +52,6 @@
       "icon": "http://romshare.deployfu.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
       "id": "GreenRomProject",
       "manifest": "http://romshare.deployfu.com/developer/GreenRomProject/manifest",
-      "roms": {
-        "desirec": true,
-        "magic": true,
-        "sholes": true,
-        "glacier": true,
-        "harmony": true
-      },
       "summary": "STABLE Super Fast ROM; ANDROID 2.3.4"
     }
   ],

@@ -62,6 +62,13 @@
       "id": "faux123",
       "manifest": "http://romshare.deployfu.com/developer/faux123/manifest",
       "summary": "Custom ROMs for MT4G & G2x"
+    },
+    {
+      "developer": "Jivany09",
+      "free": true,
+      "id": "jivanylaureano@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/jivanylaureano@gmail.com/manifest",
+      "summary": "aosp"
     }
   ],
   "minversion": "2000"

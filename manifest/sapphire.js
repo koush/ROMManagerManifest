@@ -45,6 +45,13 @@
       "free": "true",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
+    },
+    {
+      "developer": "yohshua@gmail.com",
+      "free": true,
+      "id": "yohshua@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/yohshua@gmail.com/manifest",
+      "summary": "yohshua@gmail.com"
     }
   ],
   "minversion": "2000"

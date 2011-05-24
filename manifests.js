@@ -1559,9 +1559,20 @@
       "id": "yohshua@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/yohshua@gmail.com/manifest",
       "roms": {
-        "dream": true
+        "dream": true,
+        "sapphire": true
       },
       "summary": "yohshua@gmail.com"
+    },
+    {
+      "developer": "Jivany09",
+      "free": true,
+      "id": "jivanylaureano@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/jivanylaureano@gmail.com/manifest",
+      "roms": {
+        "glacier": true
+      },
+      "summary": "aosp"
     }
   ],
   "minversion": "2000"

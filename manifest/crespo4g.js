@@ -1,6 +1,21 @@
 {
   "manifests": [
     {
+      "developer": "CyanogenMod",
+      "icon": "http://mirror.kanged.net//test/cm2.png",
+      "id": "cyanogenmod",
+      "free": "true",
+      "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
+      "summary": "Mods and bacon for your phone"
+    },
+    {
+      "developer": "CyanogenMod Nightlies",
+      "icon": "http://mirror.kanged.net//test/tdr.png",
+      "id": "cyanogenmodnightly",
+      "manifest": "http://mirrorbrain.cyanogenmod.com/cm/nightly/manifest.js",
+      "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
+    },
+    {
       "developer": "Extras",
       "icon": "http://mirror.kanged.net/test/extras.png",
       "id": "extras",

@@ -859,8 +859,9 @@
       "key": "u8220"
     },
     {
-      "name": "charge",
+      "name": "Samsung Charge",
       "version": "3.1.0.1",
+      "readonly_recovery": true,
       "init": "init.charge.rc",
       "key": "charge"
     }

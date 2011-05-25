@@ -1568,14 +1568,15 @@
       "summary": "all the ginger yoshi roms "
     },
     {
-      "developer": "Jivany09",
+      "developer": "Jivany",
       "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/54/b2fbc8d78d1603ad3ce1c5db727a4b68.jpg",
       "id": "jivanylaureano@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/jivanylaureano@gmail.com/manifest",
       "roms": {
         "glacier": true
       },
-      "summary": "aosp"
+      "summary": "Rom Ports and custom gapps"
     }
   ],
   "minversion": "2000"

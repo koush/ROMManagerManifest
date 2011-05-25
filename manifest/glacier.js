@@ -56,6 +56,14 @@
       "summary": "http://android-maisters.thedevboard.com Roms latest and greatest!"
     },
     {
+      "developer": "GreenRomProject",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
+      "id": "GreenRomProject",
+      "manifest": "http://romshare.deployfu.com/developer/GreenRomProject/manifest",
+      "summary": "STABLE Super Fast ROM; ANDROID 2.3.4"
+    },
+    {
       "developer": "Faux123 Custom ROMs",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/65/458f8e1774c14317e04210d456d579e0.gif",

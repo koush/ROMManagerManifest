@@ -47,11 +47,12 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
-      "developer": "yohshua@gmail.com",
+      "developer": "Ginger yoshi ^_^",
       "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/294/b0c8e3dee633ac3d0f6ce3352389943b.png",
       "id": "yohshua@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/yohshua@gmail.com/manifest",
-      "summary": "yohshua@gmail.com"
+      "summary": "all the ginger yoshi roms "
     }
   ],
   "minversion": "2000"

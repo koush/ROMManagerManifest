@@ -1463,6 +1463,22 @@
       "summary": "Bringing you the best of Android."
     },
     {
+      "developer": "GreenRomProject",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
+      "id": "GreenRomProject",
+      "manifest": "http://romshare.deployfu.com/developer/GreenRomProject/manifest",
+      "roms": {
+        "desirec": true,
+        "magic": true,
+        "sholes": true,
+        "glacier": true,
+        "inc": true,
+        "harmony": true
+      },
+      "summary": "STABLE Super Fast ROM; ANDROID 2.3.4"
+    },
+    {
       "developer": "foschi@gmail.com",
       "free": true,
       "id": "crimescene",
@@ -1482,20 +1498,6 @@
         "morrison": true
       },
       "summary": "CyanogenMod 7 for the Motorola Cliq/Dext. DO NOT WIPE DATA/CACHE. Our ROM's have a wipe patch included. If you wipe, reinstall without wiping. Please remember DO NOT BACKUP ROM OR WIPE DATA/FACTORY RESET THROUGH ROM MANAGER! "
-    },
-    {
-      "developer": "GreenRomProject",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
-      "id": "GreenRomProject",
-      "manifest": "http://romshare.deployfu.com/developer/GreenRomProject/manifest",
-      "roms": {
-        "desirec": true,
-        "magic": true,
-        "sholes": true,
-        "harmony": true
-      },
-      "summary": "STABLE Super Fast ROM; ANDROID 2.3.4"
     },
     {
       "developer": "ACSyndicate",
@@ -1554,15 +1556,16 @@
       "summary": "Slim, fast, stable Samsung Vibrant Roms"
     },
     {
-      "developer": "yohshua@gmail.com",
+      "developer": "Ginger yoshi ^_^",
       "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/294/b0c8e3dee633ac3d0f6ce3352389943b.png",
       "id": "yohshua@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/yohshua@gmail.com/manifest",
       "roms": {
         "dream": true,
         "sapphire": true
       },
-      "summary": "yohshua@gmail.com"
+      "summary": "all the ginger yoshi roms "
     },
     {
       "developer": "Jivany09",

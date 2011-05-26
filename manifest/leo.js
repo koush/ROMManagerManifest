@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "Extras",
-      "icon": "http://mirror.kanged.net/test/extras.png",
+      "icon": "http://koush.kanged.net/test/extras.png",
       "id": "extras",
       "free": "true",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
@@ -35,7 +35,7 @@
       "developer": "CM7 Nightlies",
       "free": "true",
       "id": "cyanogenmodleonightly",
-      "icon": "http://mirror.kanged.net/test/tdr.png",
+      "icon": "http://koush.kanged.net/test/tdr.png",
       "manifest": "http://arif.homelinux.com/RM.js",
       "summary": "CM7 Nightly builds, unofficially built by charansingh, AirforcPrductions and arif-ali. Very experimental and probably broken. Do not report bugs for these builds."
     },

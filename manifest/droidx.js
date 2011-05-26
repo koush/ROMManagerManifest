@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "Extras",
-      "icon": "http://mirror.kanged.net/test/extras.png",
+      "icon": "http://koush.kanged.net/test/extras.png",
       "id": "extras",
       "free": "true",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
@@ -39,7 +39,7 @@
     {
       "developer": "Stock Images",
       "id": "stock",
-      "icon": "http://mirror.kanged.net/test/n1.png",
+      "icon": "http://koush.kanged.net/test/n1.png",
       "free": "true",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/stock.js",
       "summary": "Revert back to stock phone images."

@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "CyanogenMod",
-      "icon": "http://koush.kanged.net/test/cm2.png",
+      "icon": "http://koush.kanged.net/cm/test/cm2.png",
       "id": "cyanogenmod",
       "free": "true",
       "manifest": "http://briancrook.ca/RM.php",
@@ -10,14 +10,14 @@
     },
     {
       "developer": "CyanogenMod Nightlies",
-      "icon": "http://koush.kanged.net/test/cm2.png",
+      "icon": "http://koush.kanged.net/cm/test/cm2.png",
       "id": "cyanogenmodnightly",
       "manifest": "http://briancrook.ca/RM_nightly.php",
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
     {
       "developer": "Extras",
-      "icon": "http://koush.kanged.net/test/extras.png",
+      "icon": "http://koush.kanged.net/cm/test/extras.png",
       "id": "extras",
       "free": "true",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",

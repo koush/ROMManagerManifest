@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "CyanogenMod",
-      "icon": "http://koush.kanged.net/test/cm2.png",
+      "icon": "http://koush.kanged.net/cm/test/cm2.png",
       "id": "cyanogenmod",
       "free": "true",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
@@ -10,14 +10,14 @@
     },
     {
       "developer": "CyanogenMod Nightlies",
-      "icon": "http://koush.kanged.net/test/tdr.png",
+      "icon": "http://koush.kanged.net/cm/test/tdr.png",
       "id": "cyanogenmodnightly",
       "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
     {
       "developer": "Extras",
-      "icon": "http://koush.kanged.net/test/extras.png",
+      "icon": "http://koush.kanged.net/cm/test/extras.png",
       "id": "extras",
       "free": "true",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
@@ -26,7 +26,7 @@
     {
       "developer": "Stock Images",
       "id": "stock",
-      "icon": "http://koush.kanged.net/test/n1.png",
+      "icon": "http://koush.kanged.net/cm/test/n1.png",
       "free": "true",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/stock.js",
       "summary": "Revert back to stock phone images."

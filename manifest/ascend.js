@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "Extras",
-      "icon": "http://koush.kanged.net/test/extras.png",
+      "icon": "http://koush.kanged.net/cm/test/extras.png",
       "id": "extras",
       "free": "true",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",

@@ -1230,6 +1230,19 @@
                 "ace": "true"
             },
             "summary": "Mods and bacon for DHD"
+        },
+        {
+            "developer": "EzTerry",
+            "free": "true",
+            "id": "ezterry",
+            "icon": "http://sandbox.devnull.name/android/rommanager/zapped.png",
+            "manifest": "http://sandbox.devnull.name/android/rommanager/manifest.js",
+            "roms": {
+                "dream": "true",
+                "sapphire": "true",
+                "magic": "true"
+            },
+            "summary": "ezterry @ xda's Dream/Sapphire Roms and Kernels"
         }
     ],
     "minversion": "2000"

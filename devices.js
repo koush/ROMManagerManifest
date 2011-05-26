@@ -2,7 +2,7 @@
   "devices": [
     {
       "name": "Motorola Droid (CDMA)",
-      "version": "2.5.0.1",
+      "version": "3.1.0.2",
       "init": "init.sholes.rc",
       "alternate_recovery": {
         "name": "SPRecovery 0.99.3b",
@@ -13,7 +13,8 @@
         "2.5.0.1",
         "2.5.1.4",
         "2.5.1.3",
-        "2.5.1.1"
+        "2.5.1.1",
+        "2.5.0.1"
       ],
       "key": "sholes"
     },
@@ -356,14 +357,15 @@
     },
     {
       "name": "Motorola Milestone",
-      "version": "2.5.0.7",
+      "version": "3.1.0.2",
       "readonly_recovery": true,
       "init": "init.mapphone_cdma.rc",
       "legacy_versions": [
         "2.5.0.7",
         "2.5.1.4",
         "2.5.1.3",
-        "2.5.1.1"
+        "2.5.1.1",
+        "2.5.0.7"
       ],
       "key": "milestone"
     },

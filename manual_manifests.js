@@ -60,7 +60,7 @@
             "developer": "CyanogenMod Nightlies",
             "id": "cyanogenmodnightly",
             "icon": "http://mirror.kanged.net//test/tdr.png",
-            "manifest": "http://mirrorbrain.cyanogenmod.com/cm/nightly/manifest.js",
+            "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
             "roms": {
                 "ace": "true",
                 "blade": "true",

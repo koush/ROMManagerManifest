@@ -60,7 +60,7 @@
       "developer": "CyanogenMod Nightlies",
       "icon": "http://mirror.kanged.net//test/tdr.png",
       "id": "cyanogenmodnightly",
-      "manifest": "http://mirrorbrain.cyanogenmod.com/cm/nightly/manifest.js",
+      "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
       "roms": {
         "p999": "true",
         "zeppelin": "true",

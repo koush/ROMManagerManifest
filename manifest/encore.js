@@ -12,7 +12,7 @@
       "developer": "CyanogenMod Nightlies",
       "icon": "http://mirror.kanged.net//test/tdr.png",
       "id": "cyanogenmodnightly",
-      "manifest": "http://mirrorbrain.cyanogenmod.com/cm/nightly/manifest.js",
+      "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
     {

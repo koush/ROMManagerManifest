@@ -47,6 +47,14 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
+      "developer": "EzTerry",
+      "icon": "http://sandbox.devnull.name/android/rommanager/zapped.png",
+      "id": "ezterry",
+      "free": "true",
+      "manifest": "http://sandbox.devnull.name/android/rommanager/manifest.js",
+      "summary": "ezterry @ xda's Dream/Sapphire Roms and Kernels"
+    },
+    {
       "developer": "GreenRomProject",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",

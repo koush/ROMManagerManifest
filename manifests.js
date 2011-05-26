@@ -1232,6 +1232,19 @@
       "summary": "Mods and bacon for DHD"
     },
     {
+      "developer": "EzTerry",
+      "icon": "http://sandbox.devnull.name/android/rommanager/zapped.png",
+      "id": "ezterry",
+      "free": "true",
+      "manifest": "http://sandbox.devnull.name/android/rommanager/manifest.js",
+      "roms": {
+        "magic": "true",
+        "dream": "true",
+        "sapphire": "true"
+      },
+      "summary": "ezterry @ xda's Dream/Sapphire Roms and Kernels"
+    },
+    {
       "developer": "birgertime",
       "free": true,
       "id": "einherjar",
@@ -1577,6 +1590,17 @@
         "glacier": true
       },
       "summary": "Rom Ports and custom gapps"
+    },
+    {
+      "developer": "htcclay",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/307/5076662d1617430aa6ad3f6ad73136aa.jpg",
+      "id": "SuperCM7 G2",
+      "manifest": "http://romshare.deployfu.com/developer/SuperCM7 G2/manifest",
+      "roms": {
+        "vision": true
+      },
+      "summary": "Go Go Go!"
     }
   ],
   "minversion": "2000"

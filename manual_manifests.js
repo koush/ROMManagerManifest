@@ -667,14 +667,34 @@
             "summary": "An AOSP Motorola Droid ROM with some extras" 
         },
         {
-            "developer": "MIUI",
+            "developer": "MIUI.us",
+            "id": "miuius",
+            "icon": "http://roms.miui.us/images/miuius.png",
             "free": "true",
-            "id": "nixmiui",
-            "manifest": "http://rommanagermanifest.appspot.com/developer/nixmiui.js",
+            "manifest": "http://roms.miui.us/manifest/rommanager.js",
             "roms": {
-                "inc": "true"
+                "ace": "true",
+                "bravo": "true",
+                "bravoc": "true",
+                "captivate": "true",
+                "crespo": "true",
+                "crespo4g": "true",
+                "defy": "true",
+                "epic4g": "true",
+                "fascinate": "true",
+                "galaxys": "true",
+                "glacier": "true",
+                "inc": "true",
+                "leo": "true",
+                "passion": "true",
+                "sholes": "true",
+                "speedy": "true",
+                "supersonic": "true",
+                "umts_jordan": "true",
+                "vibrant": "true",
+                "vision": "true"
             },
-            "summary": "MIUI ports by n_i_x" 
+            "summary": "MIUI releases by MIUI.us"
         },
         {
             "developer": "Berzerker",

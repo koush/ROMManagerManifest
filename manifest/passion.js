@@ -58,6 +58,14 @@
       "summary": "Custom kernels and other awesomeness"
     },
     {
+      "developer": "MIUI.us",
+      "free": "true",
+      "icon": "http://roms.miui.us/images/miuius.png",
+      "id": "miuius",
+      "manifest": "http://roms.miui.us/manifest/rommanager.js",
+      "summary": "MIUI releases by MIUI.us"
+    },
+    {
       "developer": "Blandroid",
       "icon": "http://blandroid.org/rommanager-icon.png",
       "id": "blandroid",

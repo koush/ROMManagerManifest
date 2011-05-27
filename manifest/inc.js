@@ -69,11 +69,12 @@
       "summary": "Rosie like you've never seen her before."
     },
     {
-      "developer": "MIUI",
-      "id": "nixmiui",
+      "developer": "MIUI.us",
       "free": "true",
-      "manifest": "http://rommanagermanifest.appspot.com/developer/nixmiui.js",
-      "summary": "MIUI ports by n_i_x"
+      "icon": "http://roms.miui.us/images/miuius.png",
+      "id": "miuius",
+      "manifest": "http://roms.miui.us/manifest/rommanager.js",
+      "summary": "MIUI releases by MIUI.us"
     },
     {
       "developer": "Berzerker",

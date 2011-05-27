@@ -24,6 +24,14 @@
       "summary": "Cool stuffs."
     },
     {
+      "developer": "MIUI.us",
+      "free": "true",
+      "icon": "http://roms.miui.us/images/miuius.png",
+      "id": "miuius",
+      "manifest": "http://roms.miui.us/manifest/rommanager.js",
+      "summary": "MIUI releases by MIUI.us"
+    },
+    {
       "developer": "CoreDroid",
       "icon": "http://coredroidroms.com/Roms/Desire_HD/CDLogo.png",
       "id": "coredroid",

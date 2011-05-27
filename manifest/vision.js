@@ -39,6 +39,14 @@
       "summary": "Stock Sense ROMs with Essential Fixes and Enhancements and Other Goodies by rmk."
     },
     {
+      "developer": "MIUI.us",
+      "free": "true",
+      "icon": "http://roms.miui.us/images/miuius.png",
+      "id": "miuius",
+      "manifest": "http://roms.miui.us/manifest/rommanager.js",
+      "summary": "MIUI releases by MIUI.us"
+    },
+    {
       "developer": "MIUI",
       "id": "g4rb4g3",
       "free": "true",

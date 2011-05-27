@@ -40,14 +40,6 @@
       "summary": "Source Built Gingerbread and Custom Tbolt Roms"
     },
     {
-      "developer": "MIUI.us",
-      "free": "true",
-      "icon": "http://roms.miui.us/images/miuius.png",
-      "id": "miuius",
-      "manifest": "http://roms.miui.us/manifest/rommanager.js",
-      "summary": "MIUI releases by MIUI.us"
-    },
-    {
       "developer": "NSCollab",
       "icon": "http://studiousmedia.com/crespo/nscollabrm.png",
       "id": "frank707",

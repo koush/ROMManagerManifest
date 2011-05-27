@@ -69,14 +69,6 @@
       "summary": "Warm treats for Android"
     },
     {
-      "developer": "MIUI.us",
-      "free": "true",
-      "icon": "http://roms.miui.us/images/miuius.png",
-      "id": "miuius",
-      "manifest": "http://roms.miui.us/manifest/rommanager.js",
-      "summary": "MIUI releases by MIUI.us"
-    },
-    {
       "developer": "Salvage-Mod",
       "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
       "id": "echo17",

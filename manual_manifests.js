@@ -673,26 +673,7 @@
             "free": "true",
             "manifest": "http://roms.miui.us/manifest/rommanager.js",
             "roms": {
-                "ace": "true",
-                "bravo": "true",
-                "bravoc": "true",
-                "captivate": "true",
-                "crespo": "true",
-                "crespo4g": "true",
-                "defy": "true",
-                "epic4g": "true",
-                "fascinate": "true",
-                "galaxys": "true",
-                "glacier": "true",
-                "inc": "true",
-                "leo": "true",
-                "passion": "true",
-                "sholes": "true",
-                "speedy": "true",
-                "supersonic": "true",
-                "umts_jordan": "true",
-                "vibrant": "true",
-                "vision": "true"
+                "passion": "true"
             },
             "summary": "MIUI releases by MIUI.us"
         },

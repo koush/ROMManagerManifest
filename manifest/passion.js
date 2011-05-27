@@ -77,8 +77,8 @@
       "developer": "E-XtremeMod",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/132/3bea45cb0d900947ae2ceb5399b617f3.png",
-      "id": "kenmood@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/kenmood@gmail.com/manifest",
+      "id": "extrememod",
+      "manifest": "http://romshare.deployfu.com/developer/extrememod/manifest",
       "summary": "CM7 based mod with performance and graphic enhancements."
     }
   ],

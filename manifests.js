@@ -1314,8 +1314,8 @@
       "developer": "E-XtremeMod",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/132/3bea45cb0d900947ae2ceb5399b617f3.png",
-      "id": "kenmood@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/kenmood@gmail.com/manifest",
+      "id": "extrememod",
+      "manifest": "http://romshare.deployfu.com/developer/extrememod/manifest",
       "roms": {
         "passion": true
       },
@@ -1483,8 +1483,8 @@
       "manifest": "http://romshare.deployfu.com/developer/GreenRomProject/manifest",
       "roms": {
         "desirec": true,
-        "magic": true,
         "sholes": true,
+        "sapphire": true,
         "glacier": true,
         "inc": true,
         "harmony": true
@@ -1612,16 +1612,6 @@
         "backflip": true
       },
       "summary": "ROMs & Mods."
-    },
-    {
-      "developer": "DJGHOSTS3V3N",
-      "free": true,
-      "id": "DJGHOSTS3V3N",
-      "manifest": "http://romshare.deployfu.com/developer/DJGHOSTS3V3N/manifest",
-      "roms": {
-        "zeppelin": true
-      },
-      "summary": "FaKeGinGeR"
     },
     {
       "developer": "Clark44",

@@ -69,6 +69,14 @@
       "summary": "Rosie like you've never seen her before."
     },
     {
+      "developer": "MIUI.us",
+      "free": "true",
+      "icon": "http://roms.miui.us/images/miuius.png",
+      "id": "miuius",
+      "manifest": "http://roms.miui.us/manifest/rommanager.js",
+      "summary": "MIUI releases by MIUI.us"
+    },
+    {
       "developer": "Berzerker",
       "id": "berzerker",
       "free": "true",

@@ -9,6 +9,14 @@
       "summary": "Cool stuffs."
     },
     {
+      "developer": "MIUI.us",
+      "free": "true",
+      "icon": "http://roms.miui.us/images/miuius.png",
+      "id": "miuius",
+      "manifest": "http://roms.miui.us/manifest/rommanager.js",
+      "summary": "MIUI releases by MIUI.us"
+    },
+    {
       "developer": "Insanity",
       "id": "insanity",
       "manifest": "http://insanity.nfye.com/manifest.js",

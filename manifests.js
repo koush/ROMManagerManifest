@@ -3,7 +3,7 @@
   "manifests": [
     {
       "developer": "CyanogenMod",
-      "icon": "http://mirror.kanged.net//test/cm2.png",
+      "icon": "http://koush.kanged.net/cm/test/cm2.png",
       "id": "cyanogenmod",
       "free": "true",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
@@ -47,7 +47,7 @@
     },
     {
       "developer": "CyanogenMod",
-      "icon": "http://mirror.kanged.net//test/cm2.png",
+      "icon": "http://koush.kanged.net/cm/test/cm2.png",
       "id": "cyanogenmod",
       "free": "true",
       "manifest": "http://briancrook.ca/RM.php",
@@ -58,7 +58,7 @@
     },
     {
       "developer": "CyanogenMod Nightlies",
-      "icon": "http://mirror.kanged.net//test/tdr.png",
+      "icon": "http://koush.kanged.net/cm/test/tdr.png",
       "id": "cyanogenmodnightly",
       "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
       "roms": {
@@ -101,7 +101,7 @@
     },
     {
       "developer": "CyanogenMod Nightlies",
-      "icon": "http://mirror.kanged.net//test/cm2.png",
+      "icon": "http://koush.kanged.net/cm/test/cm2.png",
       "id": "cyanogenmodnightly",
       "manifest": "http://briancrook.ca/RM_nightly.php",
       "roms": {
@@ -111,7 +111,7 @@
     },
     {
       "developer": "Extras",
-      "icon": "http://mirror.kanged.net/test/extras.png",
+      "icon": "http://koush.kanged.net/cm/test/extras.png",
       "id": "extras",
       "free": "true",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
@@ -240,7 +240,7 @@
     {
       "developer": "Stock Images",
       "id": "stock",
-      "icon": "http://mirror.kanged.net/test/n1.png",
+      "icon": "http://koush.kanged.net/cm/test/n1.png",
       "free": "true",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/stock.js",
       "roms": {
@@ -1202,7 +1202,7 @@
       "developer": "CM7 Nightlies",
       "free": "true",
       "id": "cyanogenmodleonightly",
-      "icon": "http://mirror.kanged.net/test/tdr.png",
+      "icon": "http://koush.kanged.net/cm/test/tdr.png",
       "manifest": "http://arif.homelinux.com/RM.js",
       "roms": {
         "leo": "true"

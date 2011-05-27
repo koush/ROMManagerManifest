@@ -5,7 +5,7 @@
             "developer": "CyanogenMod",
             "free": "true",
             "id": "cyanogenmod",
-            "icon": "http://mirror.kanged.net//test/cm2.png",
+            "icon": "http://koush.kanged.net/cm/test/cm2.png",
             "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
             "roms": {
                 "ace": "true",
@@ -49,7 +49,7 @@
             "developer": "CyanogenMod",
             "free": "true",
             "id": "cyanogenmod",
-            "icon": "http://mirror.kanged.net//test/cm2.png",
+            "icon": "http://koush.kanged.net/cm/test/cm2.png",
             "manifest": "http://briancrook.ca/RM.php",
             "roms": {
                 "magic": "true" 
@@ -59,7 +59,7 @@
         {
             "developer": "CyanogenMod Nightlies",
             "id": "cyanogenmodnightly",
-            "icon": "http://mirror.kanged.net//test/tdr.png",
+            "icon": "http://koush.kanged.net/cm/test/tdr.png",
             "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
             "roms": {
                 "ace": "true",
@@ -102,7 +102,7 @@
         {
             "developer": "CyanogenMod Nightlies",
             "id": "cyanogenmodnightly",
-            "icon": "http://mirror.kanged.net//test/cm2.png",
+            "icon": "http://koush.kanged.net/cm/test/cm2.png",
             "manifest": "http://briancrook.ca/RM_nightly.php",
             "roms": {
                 "magic": "true" 
@@ -113,7 +113,7 @@
             "developer": "Extras",
             "free": "true",
             "id": "extras",
-            "icon": "http://mirror.kanged.net/test/extras.png",
+            "icon": "http://koush.kanged.net/cm/test/extras.png",
             "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
             "roms": {
                 "all": "true" 
@@ -240,7 +240,7 @@
         {
             "developer": "Stock Images",
             "free": "true",
-            "icon": "http://mirror.kanged.net/test/n1.png",
+            "icon": "http://koush.kanged.net/cm/test/n1.png",
             "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/stock.js",
             "id": "stock",
             "roms": {
@@ -1200,7 +1200,7 @@
         },
         {
           "developer": "CM7 Nightlies",
-          "icon": "http://mirror.kanged.net/test/tdr.png",
+          "icon": "http://koush.kanged.net/cm/test/tdr.png",
           "id": "cyanogenmodleonightly",
           "manifest": "http://arif.homelinux.com/RM.js",
           "free": "true",

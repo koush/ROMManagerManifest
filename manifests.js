@@ -1601,6 +1601,38 @@
         "vision": true
       },
       "summary": "Go Go Go!"
+    },
+    {
+      "developer": "j_r0dd",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/313/5d8c31631389ae04193f1a75584c60a1",
+      "id": "jree2kx@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/jree2kx@gmail.com/manifest",
+      "roms": {
+        "backflip": true
+      },
+      "summary": "ROMs & Mods."
+    },
+    {
+      "developer": "DJGHOSTS3V3N",
+      "free": true,
+      "id": "DJGHOSTS3V3N",
+      "manifest": "http://romshare.deployfu.com/developer/DJGHOSTS3V3N/manifest",
+      "roms": {
+        "zeppelin": true
+      },
+      "summary": "FaKeGinGeR"
+    },
+    {
+      "developer": "Clark44",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/315/fa526fadb52216d09110cf18e5fd5047.jpg",
+      "id": "Clark44",
+      "manifest": "http://romshare.deployfu.com/developer/Clark44/manifest",
+      "roms": {
+        "supersonic": true
+      },
+      "summary": "Average Rom DEV"
     }
   ],
   "minversion": "2000"

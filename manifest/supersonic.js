@@ -130,6 +130,14 @@
       "free": "true",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
+    },
+    {
+      "developer": "Clark44",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/315/fa526fadb52216d09110cf18e5fd5047.jpg",
+      "id": "Clark44",
+      "manifest": "http://romshare.deployfu.com/developer/Clark44/manifest",
+      "summary": "Average Rom DEV"
     }
   ],
   "minversion": "2000"

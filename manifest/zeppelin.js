@@ -30,6 +30,13 @@
       "free": "true",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
+    },
+    {
+      "developer": "DJGHOSTS3V3N",
+      "free": true,
+      "id": "DJGHOSTS3V3N",
+      "manifest": "http://romshare.deployfu.com/developer/DJGHOSTS3V3N/manifest",
+      "summary": "FaKeGinGeR"
     }
   ],
   "minversion": "2000"

@@ -6,7 +6,7 @@
       "init": "init.sholes.rc",
       "alternate_recovery": {
         "name": "SPRecovery 0.99.3b",
-        "url": "http://mirror.kanged.net//recoveries/sprecovery.img",
+        "url": "http://koush.kanged.net/cm/recoveries/sprecovery.img",
         "clockwork": false
       },
       "legacy_versions": [

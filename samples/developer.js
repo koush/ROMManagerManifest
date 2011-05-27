@@ -10,7 +10,7 @@
         "id": "cyanogenmod",
         // The icon you want to show up next to your section. Make sure it is a
         // 128x128 PNG. Transparency is OK.
-        "icon": "http://mirror.kanged.net//test/cm.png",
+        "icon": "http://koush.kanged.net/cm/test/cm.png",
         // The location of the developer's manifest.
         "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
         // The list of devices that this developer's ROMs support.

@@ -71,7 +71,7 @@
     },
     {
       "developer": "siulmagic",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/198/8e366a4e34c56d2a83c384b8cff73b88.jpg",
       "id": "siulmagic@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/siulmagic@gmail.com/manifest",
@@ -79,7 +79,7 @@
     },
     {
       "developer": "htcclay",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/307/5076662d1617430aa6ad3f6ad73136aa.jpg",
       "id": "SuperCM7 G2",
       "manifest": "http://romshare.deployfu.com/developer/SuperCM7 G2/manifest",

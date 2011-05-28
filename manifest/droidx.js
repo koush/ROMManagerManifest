@@ -111,7 +111,7 @@
     },
     {
       "developer": "DrewGaren Nightlies",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
       "id": "drewgarennightly",
       "manifest": "http://romshare.deployfu.com/developer/drewgarennightly/manifest",

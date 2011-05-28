@@ -43,8 +43,8 @@
     {
       "developer": "birgertime",
       "free": false,
-      "id": "einherjar",
-      "manifest": "http://romshare.deployfu.com/developer/einherjar/manifest",
+      "id": "birgertime",
+      "manifest": "http://romshare.deployfu.com/developer/birgertime/manifest",
       "summary": "Vibrant ROMs"
     },
     {

@@ -72,6 +72,14 @@
       "summary": "STABLE Super Fast ROM; ANDROID 2.3.4"
     },
     {
+      "developer": "Jivany",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/54/b2fbc8d78d1603ad3ce1c5db727a4b68.jpg",
+      "id": "jivanylaureano@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/jivanylaureano@gmail.com/manifest",
+      "summary": "Rom Ports and custom gapps"
+    },
+    {
       "developer": "Faux123 Custom ROMs",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/65/458f8e1774c14317e04210d456d579e0.gif",
@@ -80,12 +88,11 @@
       "summary": "Custom ROMs for MT4G & G2x"
     },
     {
-      "developer": "Jivany",
+      "developer": "reids073105@gmail.com",
       "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/54/b2fbc8d78d1603ad3ce1c5db727a4b68.jpg",
-      "id": "jivanylaureano@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/jivanylaureano@gmail.com/manifest",
-      "summary": "Rom Ports and custom gapps"
+      "id": "reids073105@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/reids073105@gmail.com/manifest",
+      "summary": "reids073105@gmail.com"
     }
   ],
   "minversion": "2000"

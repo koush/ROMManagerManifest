@@ -1267,8 +1267,8 @@
     {
       "developer": "birgertime",
       "free": false,
-      "id": "einherjar",
-      "manifest": "http://romshare.deployfu.com/developer/einherjar/manifest",
+      "id": "birgertime",
+      "manifest": "http://romshare.deployfu.com/developer/birgertime/manifest",
       "roms": {
         "vibrant": true
       },
@@ -1533,18 +1533,6 @@
       "summary": "Here you will find all of ACSyndicates Latest and older releases."
     },
     {
-      "developer": "Faux123 Custom ROMs",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/65/458f8e1774c14317e04210d456d579e0.gif",
-      "id": "faux123",
-      "manifest": "http://romshare.deployfu.com/developer/faux123/manifest",
-      "roms": {
-        "p999": true,
-        "glacier": true
-      },
-      "summary": "Custom ROMs for MT4G & G2x"
-    },
-    {
       "developer": "mik_os",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/280/90f44cfd3ec66b7485bbf1d464651da5.gif",
@@ -1612,6 +1600,18 @@
       "summary": "Go Go Go!"
     },
     {
+      "developer": "Faux123 Custom ROMs",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/65/458f8e1774c14317e04210d456d579e0.gif",
+      "id": "faux123",
+      "manifest": "http://romshare.deployfu.com/developer/faux123/manifest",
+      "roms": {
+        "p999": true,
+        "glacier": true
+      },
+      "summary": "Custom ROMs for MT4G & G2x"
+    },
+    {
       "developer": "j_r0dd",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/313/5d8c31631389ae04193f1a75584c60a1",
@@ -1654,6 +1654,27 @@
         "zeppelin": true
       },
       "summary": "FaKeGinGeR"
+    },
+    {
+      "developer": "reids073105@gmail.com",
+      "free": false,
+      "id": "reids073105@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/reids073105@gmail.com/manifest",
+      "roms": {
+        "glacier": true
+      },
+      "summary": "reids073105@gmail.com"
+    },
+    {
+      "developer": "ThunderStick",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/325/1575a289262456ccfa37e3b3c7c79770.gif",
+      "id": "ThunderStick",
+      "manifest": "http://romshare.deployfu.com/developer/ThunderStick/manifest",
+      "roms": {
+        "mecha": true
+      },
+      "summary": "They call it a ThunderStick"
     }
   ],
   "minversion": "2000"

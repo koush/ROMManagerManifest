@@ -1637,13 +1637,13 @@
       "developer": "aosp",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/322/c97732b0067d16ccf420f20f78b8f36a.png",
-      "id": "aospcmod",
-      "manifest": "http://romshare.deployfu.com/developer/aospcmod/manifest",
+      "id": "aospmod",
+      "manifest": "http://romshare.deployfu.com/developer/aospmod/manifest",
       "roms": {
         "thunderg": true,
         "heroc": true
       },
-      "summary": "AOSP 2.3.4 / CM7+ (Gingerbread)"
+      "summary": "AOSP / CMod builds by aosp"
     },
     {
       "developer": "DJGHOSTS3V3N",

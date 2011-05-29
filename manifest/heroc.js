@@ -42,9 +42,9 @@
       "developer": "aosp",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/322/c97732b0067d16ccf420f20f78b8f36a.png",
-      "id": "aospcmod",
-      "manifest": "http://romshare.deployfu.com/developer/aospcmod/manifest",
-      "summary": "AOSP 2.3.4 / CM7+ (Gingerbread)"
+      "id": "aospmod",
+      "manifest": "http://romshare.deployfu.com/developer/aospmod/manifest",
+      "summary": "AOSP / CMod builds by aosp"
     }
   ],
   "minversion": "2000"

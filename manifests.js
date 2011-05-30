@@ -1645,6 +1645,16 @@
       "summary": "FaKeGinGeR"
     },
     {
+      "developer": "reids073105@gmail.com",
+      "free": false,
+      "id": "reids073105@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/reids073105@gmail.com/manifest",
+      "roms": {
+        "glacier": true
+      },
+      "summary": "reids073105@gmail.com"
+    },
+    {
       "developer": "ThunderStick",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/325/1575a289262456ccfa37e3b3c7c79770.gif",
@@ -1665,16 +1675,6 @@
         "captivate": true
       },
       "summary": "Roms for the Samsung Captivate"
-    },
-    {
-      "developer": "reids073105@gmail.com",
-      "free": false,
-      "id": "reids073105@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/reids073105@gmail.com/manifest",
-      "roms": {
-        "glacier": true
-      },
-      "summary": "reids073105@gmail.com"
     }
   ],
   "minversion": "2000"

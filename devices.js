@@ -869,6 +869,12 @@
       "init": "init.smdkc110.rc",
       "key": "charge"
     }
+    {
+      "name": "Motorola Defy",
+      "init": "init.mapphone_umts.rc",
+      "officially_supported": false,
+      "key": "umts_jordan"
+    }
   ],
   "version": "2.5.0.1",
   "recovery_url": "http://mirror.sea.tdrevolution.net/cm/recoveries/recovery-clockwork-%s-%s.img",

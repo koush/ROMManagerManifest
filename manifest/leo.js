@@ -41,10 +41,10 @@
     },
     {
       "developer": "CM7 Nightlies",
-      "free": "true",
-      "id": "cyanogenmodleonightly",
       "icon": "http://koush.kanged.net/cm/test/tdr.png",
-      "manifest": "http://arif.homelinux.com/RM.js",
+      "id": "cyanogenmodleonightly",
+      "free": "true",
+      "manifest": "http://dl.dropbox.com/u/26430630/RM.js",
       "summary": "CM7 Nightly builds, unofficially built by charansingh, AirforcPrductions and arif-ali. Very experimental and probably broken. Do not report bugs for these builds."
     },
     {

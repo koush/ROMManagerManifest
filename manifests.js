@@ -1220,10 +1220,10 @@
     },
     {
       "developer": "CM7 Nightlies",
-      "free": "true",
-      "id": "cyanogenmodleonightly",
       "icon": "http://koush.kanged.net/cm/test/tdr.png",
-      "manifest": "http://arif.homelinux.com/RM.js",
+      "id": "cyanogenmodleonightly",
+      "free": "true",
+      "manifest": "http://dl.dropbox.com/u/26430630/RM.js",
       "roms": {
         "leo": "true"
       },

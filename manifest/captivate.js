@@ -26,7 +26,7 @@
     },
     {
       "developer": "DesignGears Roms",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/271/3ee39ba3530e8d858bbbfdbbb1ae2bea.png",
       "id": "DesignGears",
       "manifest": "http://romshare.deployfu.com/developer/DesignGears/manifest",

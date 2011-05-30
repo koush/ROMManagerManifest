@@ -873,7 +873,7 @@
       "name": "Motorola Defy",
       "init": "init.mapphone_umts.rc",
       "officially_supported": false,
-      "key": "umts_jordan"
+      "key": "defy"
     }
   ],
   "version": "2.5.0.1",

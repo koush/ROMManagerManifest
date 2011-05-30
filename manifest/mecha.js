@@ -89,7 +89,7 @@
     },
     {
       "developer": "ThunderStick",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/325/1575a289262456ccfa37e3b3c7c79770.gif",
       "id": "ThunderStick",
       "manifest": "http://romshare.deployfu.com/developer/ThunderStick/manifest",

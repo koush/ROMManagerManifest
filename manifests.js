@@ -1544,17 +1544,6 @@
       "summary": "kiril.mik.os@gmail.com"
     },
     {
-      "developer": "DesignGears Roms",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/271/3ee39ba3530e8d858bbbfdbbb1ae2bea.png",
-      "id": "DesignGears",
-      "manifest": "http://romshare.deployfu.com/developer/DesignGears/manifest",
-      "roms": {
-        "captivate": true
-      },
-      "summary": "Roms for the Samsung Captivate"
-    },
-    {
       "developer": "Br1cK'd",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/288/75bcc580df6cb4e59690993fcb904ecc.jpg",
@@ -1589,7 +1578,7 @@
       "summary": "Rom Ports and custom gapps"
     },
     {
-      "developer": "htcclay",
+      "developer": "Htcclay",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/307/5076662d1617430aa6ad3f6ad73136aa.jpg",
       "id": "SuperCM7 G2",
@@ -1656,16 +1645,6 @@
       "summary": "FaKeGinGeR"
     },
     {
-      "developer": "reids073105@gmail.com",
-      "free": false,
-      "id": "reids073105@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/reids073105@gmail.com/manifest",
-      "roms": {
-        "glacier": true
-      },
-      "summary": "reids073105@gmail.com"
-    },
-    {
       "developer": "ThunderStick",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/325/1575a289262456ccfa37e3b3c7c79770.gif",
@@ -1675,6 +1654,27 @@
         "mecha": true
       },
       "summary": "They call it a ThunderStick"
+    },
+    {
+      "developer": "DesignGears Roms",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/271/3ee39ba3530e8d858bbbfdbbb1ae2bea.png",
+      "id": "DesignGears",
+      "manifest": "http://romshare.deployfu.com/developer/DesignGears/manifest",
+      "roms": {
+        "captivate": true
+      },
+      "summary": "Roms for the Samsung Captivate"
+    },
+    {
+      "developer": "reids073105@gmail.com",
+      "free": false,
+      "id": "reids073105@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/reids073105@gmail.com/manifest",
+      "roms": {
+        "glacier": true
+      },
+      "summary": "reids073105@gmail.com"
     }
   ],
   "minversion": "2000"

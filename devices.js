@@ -868,7 +868,7 @@
       "readonly_recovery": true,
       "init": "init.smdkc110.rc",
       "key": "charge"
-    }
+    },
     {
       "name": "Motorola Defy",
       "init": "init.mapphone_umts.rc",

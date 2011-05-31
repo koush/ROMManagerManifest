@@ -679,7 +679,7 @@
                 "captivate": "true",
                 "crespo": "true",
                 "crespo4g": "true",
-                "defy": "true",
+                "umts_jordan": "true",
                 "epic4g": "true",
                 "fascinate": "true",
                 "galaxys": "true",

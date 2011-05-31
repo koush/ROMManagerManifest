@@ -674,10 +674,9 @@
       "manifest": "http://roms.miui.us/manifest/rommanager.js",
       "roms": {
         "leo": "true",
-        "defy": "true",
-        "umts_jordan": "true",
         "passion": "true",
         "galaxys": "true",
+        "umts_jordan": "true",
         "bravo": "true",
         "ace": "true",
         "sholes": "true",

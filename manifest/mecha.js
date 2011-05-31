@@ -90,9 +90,9 @@
     {
       "developer": "ThunderStick",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/325/1575a289262456ccfa37e3b3c7c79770.gif",
+      "icon": "http://www.igottadroid.com/Roms/RomManagerManifest/ThunderStick-Avatar.png",
       "id": "ThunderStick",
-      "manifest": "http://romshare.deployfu.com/developer/ThunderStick/manifest",
+      "manifest": "http://www.igottadroid.com/Roms/RomManagerManifest/ThunderStick-RMM.js",
       "summary": "They call it a ThunderStick"
     }
   ],

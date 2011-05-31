@@ -93,6 +93,14 @@
       "id": "reids073105@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/reids073105@gmail.com/manifest",
       "summary": "reids073105@gmail.com"
+    },
+    {
+      "developer": "GazaIan's ROMs",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/296/cd3509e2cff156bd174cb32481dfbe33.jpg",
+      "id": "gazaian13@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/gazaian13@gmail.com/manifest",
+      "summary": "My own ROMs, probably half assed, but functional :3"
     }
   ],
   "minversion": "2000"

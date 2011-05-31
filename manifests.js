@@ -1581,9 +1581,10 @@
       "developer": "Htcclay",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/307/5076662d1617430aa6ad3f6ad73136aa.jpg",
-      "id": "SuperCM7-G2",
-      "manifest": "http://romshare.deployfu.com/developer/SuperCM7-G2/manifest",
+      "id": "htcclay",
+      "manifest": "http://romshare.deployfu.com/developer/htcclay/manifest",
       "roms": {
+        "vibrantmtd": true,
         "vision": true
       },
       "summary": "Go Go Go!"
@@ -1655,15 +1656,15 @@
       "summary": "reids073105@gmail.com"
     },
     {
-      "developer": "ThunderStick",
+      "developer": "GazaIan's ROMs",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/325/1575a289262456ccfa37e3b3c7c79770.gif",
-      "id": "ThunderStick",
-      "manifest": "http://romshare.deployfu.com/developer/ThunderStick/manifest",
+      "icon": "http://romshare.deployfu.com/downloads/296/cd3509e2cff156bd174cb32481dfbe33.jpg",
+      "id": "gazaian13@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/gazaian13@gmail.com/manifest",
       "roms": {
-        "mecha": true
+        "glacier": true
       },
-      "summary": "They call it a ThunderStick"
+      "summary": "My own ROMs, probably half assed, but functional :3"
     },
     {
       "developer": "DesignGears Roms",

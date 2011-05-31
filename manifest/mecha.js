@@ -86,14 +86,6 @@
       "free": "true",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
-    },
-    {
-      "developer": "ThunderStick",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/325/1575a289262456ccfa37e3b3c7c79770.gif",
-      "id": "ThunderStick",
-      "manifest": "http://romshare.deployfu.com/developer/ThunderStick/manifest",
-      "summary": "They call it a ThunderStick"
     }
   ],
   "minversion": "2000"

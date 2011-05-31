@@ -1656,14 +1656,14 @@
     },
     {
       "developer": "ThunderStick",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/325/1575a289262456ccfa37e3b3c7c79770.gif",
+      "free": "true",
+      "icon": "http://www.igottadroid.com/Roms/RomManagerManifest/ThunderStick-Avatar.png",
       "id": "ThunderStick",
-      "manifest": "http://romshare.deployfu.com/developer/ThunderStick/manifest",
+      "manifest": "http://www.igottadroid.com/Roms/RomManagerManifest/ThunderStick-RMM.js",
       "roms": {
-        "mecha": true
+          "mecha": "true"
       },
-      "summary": "They call it a ThunderStick"
+      "summary": "That's why they call it ThunderStick..."
     },
     {
       "developer": "DesignGears Roms",

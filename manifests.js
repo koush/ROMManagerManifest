@@ -1675,6 +1675,17 @@
         "captivate": true
       },
       "summary": "Roms for the Samsung Captivate"
+    },
+    {
+      "developer": "RTFPeSSoa",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/339/f6a41127e16e31ff95b54b3212e87647.png",
+      "id": "rtfrodrigo@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/rtfrodrigo@gmail.com/manifest",
+      "roms": {
+        "galaxys": true
+      },
+      "summary": "New Stable Rom for Our Galaxy S I9000. Based ond Official ZSJV5"
     }
   ],
   "minversion": "2000"

@@ -1285,17 +1285,6 @@
       "summary": "Themes and Other Bacon for Multiple ROMs and Phones"
     },
     {
-      "developer": "winner00",
-      "free": true,
-      "id": "toverturf@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/toverturf@gmail.com/manifest",
-      "roms": {
-        "sholes": true,
-        "inc": true
-      },
-      "summary": "CyanogenMod 7 with few tweaks for better performance on the OG Droid, Incredible, and pulls from gerrit.  "
-    },
-    {
       "developer": "DrewGaren Nightlies",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1543,6 +1532,28 @@
       "summary": "kiril.mik.os@gmail.com"
     },
     {
+      "developer": "winner00",
+      "free": true,
+      "id": "toverturf@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/toverturf@gmail.com/manifest",
+      "roms": {
+        "sholes": true,
+        "inc": true
+      },
+      "summary": "CyanogenMod 7 with few tweaks for better performance on the OG Droid, Incredible, and pulls from gerrit.  "
+    },
+    {
+      "developer": "DesignGears Roms",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/271/3ee39ba3530e8d858bbbfdbbb1ae2bea.png",
+      "id": "DesignGears",
+      "manifest": "http://romshare.deployfu.com/developer/DesignGears/manifest",
+      "roms": {
+        "captivate": true
+      },
+      "summary": "Roms for the Samsung Captivate"
+    },
+    {
       "developer": "Br1cK'd",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/288/75bcc580df6cb4e59690993fcb904ecc.jpg",
@@ -1574,7 +1585,7 @@
       "roms": {
         "glacier": true
       },
-      "summary": "Rom Ports and custom gapps"
+      "summary": "Roms, Ports, and custom gapps"
     },
     {
       "developer": "Htcclay",
@@ -1645,14 +1656,14 @@
       "summary": "FaKeGinGeR"
     },
     {
-      "developer": "reids073105@gmail.com",
+      "developer": "PureH2O ROM Development",
       "free": true,
       "id": "reids073105@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/reids073105@gmail.com/manifest",
       "roms": {
         "glacier": true
       },
-      "summary": "reids073105@gmail.com"
+      "summary": "PureH2O ROMs are well tested built from scratch AOSP Source ROMs, You might even find some Sense ROMs that I cooked up!"
     },
     {
       "developer": "GazaIan's ROMs",
@@ -1666,17 +1677,6 @@
       "summary": "My own ROMs, probably half assed, but functional :3"
     },
     {
-      "developer": "DesignGears Roms",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/271/3ee39ba3530e8d858bbbfdbbb1ae2bea.png",
-      "id": "DesignGears",
-      "manifest": "http://romshare.deployfu.com/developer/DesignGears/manifest",
-      "roms": {
-        "captivate": true
-      },
-      "summary": "Roms for the Samsung Captivate"
-    },
-    {
       "developer": "RTFPeSSoa",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/339/f6a41127e16e31ff95b54b3212e87647.png",
@@ -1685,7 +1685,18 @@
       "roms": {
         "galaxys": true
       },
-      "summary": "New Stable Rom for Our Galaxy S I9000. Based ond Official ZSJV5"
+      "summary": "New ROM and THEME for Our Galaxy S I9000. Very Fast, include all the usual tweaks and much more..."
+    },
+    {
+      "developer": "JassyCliq's Kernels",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/371/019f0cf30da21534293b2c6d03105be3.png",
+      "id": "JassyCliq",
+      "manifest": "http://romshare.deployfu.com/developer/JassyCliq/manifest",
+      "roms": {
+        "morrison": true
+      },
+      "summary": "Custom Kernels for CM7"
     }
   ],
   "minversion": "2000"

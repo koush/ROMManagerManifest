@@ -66,7 +66,7 @@
       "icon": "http://romshare.deployfu.com/downloads/339/f6a41127e16e31ff95b54b3212e87647.png",
       "id": "rtfrodrigo@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/rtfrodrigo@gmail.com/manifest",
-      "summary": "New Stable Rom for Our Galaxy S I9000. Based ond Official ZSJV5"
+      "summary": "New ROM and THEME for Our Galaxy S I9000. Very Fast, include all the usual tweaks and much more..."
     }
   ],
   "minversion": "2000"

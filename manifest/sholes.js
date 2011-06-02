@@ -220,13 +220,6 @@
       "summary": "Themes and Other Bacon for Multiple ROMs and Phones"
     },
     {
-      "developer": "winner00",
-      "free": true,
-      "id": "toverturf@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/toverturf@gmail.com/manifest",
-      "summary": "CyanogenMod 7 with few tweaks for better performance on the OG Droid, Incredible, and pulls from gerrit.  "
-    },
-    {
       "developer": "Magiman7",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/42/70d519969f6c857c9e5b7c1cfb147ae9.png",
@@ -249,6 +242,13 @@
       "id": "GreenRomProject",
       "manifest": "http://romshare.deployfu.com/developer/GreenRomProject/manifest",
       "summary": "STABLE Super Fast ROM; ANDROID 2.3.4"
+    },
+    {
+      "developer": "winner00",
+      "free": true,
+      "id": "toverturf@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/toverturf@gmail.com/manifest",
+      "summary": "CyanogenMod 7 with few tweaks for better performance on the OG Droid, Incredible, and pulls from gerrit.  "
     }
   ],
   "minversion": "2000"

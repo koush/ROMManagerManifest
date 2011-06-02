@@ -31,6 +31,14 @@
       "id": "TeamRogue",
       "manifest": "http://romshare.deployfu.com/developer/TeamRogue/manifest",
       "summary": "CyanogenMod 7 for the Motorola Cliq/Dext. DO NOT WIPE DATA/CACHE. Our ROM's have a wipe patch included. If you wipe, reinstall without wiping. Please remember DO NOT BACKUP ROM OR WIPE DATA/FACTORY RESET THROUGH ROM MANAGER! "
+    },
+    {
+      "developer": "JassyCliq's Kernels",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/371/019f0cf30da21534293b2c6d03105be3.png",
+      "id": "JassyCliq",
+      "manifest": "http://romshare.deployfu.com/developer/JassyCliq/manifest",
+      "summary": "Custom Kernels for CM7"
     }
   ],
   "minversion": "2000"

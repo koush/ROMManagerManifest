@@ -77,7 +77,7 @@
       "icon": "http://romshare.deployfu.com/downloads/54/b2fbc8d78d1603ad3ce1c5db727a4b68.jpg",
       "id": "jivanylaureano@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/jivanylaureano@gmail.com/manifest",
-      "summary": "Rom Ports and custom gapps"
+      "summary": "Roms, Ports, and custom gapps"
     },
     {
       "developer": "Faux123 Custom ROMs",
@@ -88,11 +88,11 @@
       "summary": "Custom ROMs for MT4G & G2x"
     },
     {
-      "developer": "reids073105@gmail.com",
+      "developer": "PureH2O ROM Development",
       "free": true,
       "id": "reids073105@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/reids073105@gmail.com/manifest",
-      "summary": "reids073105@gmail.com"
+      "summary": "PureH2O ROMs are well tested built from scratch AOSP Source ROMs, You might even find some Sense ROMs that I cooked up!"
     },
     {
       "developer": "GazaIan's ROMs",

@@ -1243,7 +1243,7 @@
         {
             "developer": "-=MDJ's ViVO Sense=-",
             "free": "true",
-            "id": "spartach",
+            "id": "mdj",
             "icon": "http://mdeejay.vpnonline.org/RomManagerManifest/logo.png",
             "manifest": "http://mdeejay.vpnonline.org/RomManagerManifest/mdeejaymod.js",
             "roms": {

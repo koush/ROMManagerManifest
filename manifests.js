@@ -1068,9 +1068,10 @@
       "free": "true",
       "manifest": "http://www.prism.gatech.edu/~gtg465x/ROMManagerManifest/gtg465x.js",
       "roms": {
-        "ace": "true"
+        "ace": "true",
+        "galaxys": "true"
       },
-      "summary": "ROMs and hax for your Inspire 4G"
+      "summary": "ROMs and hax by gtg465x"
     },
     {
       "developer": "Einherjar Dev Team",

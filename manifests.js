@@ -1068,9 +1068,10 @@
       "free": "true",
       "manifest": "http://www.prism.gatech.edu/~gtg465x/ROMManagerManifest/gtg465x.js",
       "roms": {
+        "galaxys": "true",
         "ace": "true"
       },
-      "summary": "ROMs and hax for your Inspire 4G"
+      "summary": "ROMs and hax by gtg465x"
     },
     {
       "developer": "Einherjar Dev Team",
@@ -1686,17 +1687,6 @@
         "galaxys": true
       },
       "summary": "New ROM and THEME for Our Galaxy S I9000. Very Fast, include all the usual tweaks and much more..."
-    },
-    {
-      "developer": "JassyCliq's Kernels",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/371/019f0cf30da21534293b2c6d03105be3.png",
-      "id": "JassyCliq",
-      "manifest": "http://romshare.deployfu.com/developer/JassyCliq/manifest",
-      "roms": {
-        "morrison": true
-      },
-      "summary": "Custom Kernels for CM7"
     }
   ],
   "minversion": "2000"

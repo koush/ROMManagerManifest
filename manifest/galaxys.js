@@ -37,6 +37,14 @@
       "summary": "Extras for Insanity ROM (Themes / Addons / Kernels / Apps)"
     },
     {
+      "developer": "gtg465x",
+      "icon": "http://www.prism.gatech.edu/~gtg465x/ROMManagerManifest/icon.png",
+      "id": "gtg465x",
+      "free": "true",
+      "manifest": "http://www.prism.gatech.edu/~gtg465x/ROMManagerManifest/gtg465x.js",
+      "summary": "ROMs and hax by gtg465x"
+    },
+    {
       "developer": "Hamsterbread",
       "icon": "http://dl.dropbox.com/u/10693833/Hamsters%20Rom/iconhamsterbread.png",
       "id": "hamsterbread",

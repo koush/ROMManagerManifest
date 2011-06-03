@@ -37,7 +37,7 @@
       "icon": "http://romshare.deployfu.com/downloads/322/c97732b0067d16ccf420f20f78b8f36a.png",
       "id": "aospmod",
       "manifest": "http://romshare.deployfu.com/developer/aospmod/manifest",
-      "summary": "AOSP / CMod builds by aosp"
+      "summary": "aosp4u@gmail.com"
     }
   ],
   "minversion": "2000"

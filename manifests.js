@@ -1643,7 +1643,7 @@
         "thunderg": true,
         "heroc": true
       },
-      "summary": "AOSP / CMod builds by aosp"
+      "summary": "aosp4u@gmail.com"
     },
     {
       "developer": "DJGHOSTS3V3N",

@@ -71,7 +71,7 @@
     },
     {
       "developer": "siulmagic",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/198/8e366a4e34c56d2a83c384b8cff73b88.jpg",
       "id": "siulmagic@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/siulmagic@gmail.com/manifest",
@@ -79,11 +79,19 @@
     },
     {
       "developer": "Htcclay",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/307/5076662d1617430aa6ad3f6ad73136aa.jpg",
       "id": "htcclay",
       "manifest": "http://romshare.deployfu.com/developer/htcclay/manifest",
       "summary": "Go Go Go!"
+    },
+    {
+      "developer": "PyroMod Roms",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/289/f50f109fd0e925ebc88d9d0d350411c1.jpg",
+      "id": "blahbl4hblah",
+      "manifest": "http://romshare.deployfu.com/developer/blahbl4hblah/manifest",
+      "summary": "PyroMod roms are fast and clean "
     }
   ],
   "minversion": "2000"

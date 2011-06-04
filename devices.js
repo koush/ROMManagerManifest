@@ -639,14 +639,16 @@
       "name": "Nook Color",
       "flash_recovery": "busybox mount -orw,remount / ; mkdir /boot ; busybox mount /dev/block/mmcblk0p1 /boot ; busybox unzip -p %1$s ramdisk-recovery.img > /boot/uRecRam ; busybox unzip -p %1$s kernel > /boot/uRecImg ; busybox umount /boot ; rmdir /boot; busybox mount -oro,remount / ; ",
       "reboot_recovery": "dd if=/dev/zero of=/rom/bcb bs=64 count=1 ; echo 'recovery' >> /rom/bcb ; reboot ;",
-      "version": "3.0.2.8",
+      "version": "3.2.0.0",
       "init": "env.txt",
       "legacy_versions": [
         "3.0.1.0",
         "3.0.0.9",
         "3.0.0.8",
         "3.0.0.6",
-        "3.0.1.0"
+        "3.0.1.0",
+        "3.0.2.8",
+        "3.2.0.0"
       ],
       "key": "encore"
     },
@@ -879,8 +881,8 @@
       "name": "Samsung Galaxy S 4G",
       "version": "3.2.0.0",
       "init": "init.galaxys4g.rc",
-      "key": "galaxys4g",
-      "readonly_recovery": true
+      "readonly_recovery": true,
+      "key": "galaxys4g"
     }
   ],
   "version": "2.5.0.1",

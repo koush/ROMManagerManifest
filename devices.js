@@ -886,6 +886,6 @@
     }
   ],
   "version": "2.5.0.1",
-  "recovery_zip_url": "http://koush.kanged.net/cm/recoveries/recovery-clockwork-%s-%s.zip",
-  "recovery_url": "http://koush.kanged.net/cm/recoveries/recovery-clockwork-%s-%s.img"
+  "recovery_zip_url": "http://download.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.zip",
+  "recovery_url": "http://download.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.img"
 }

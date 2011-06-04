@@ -1698,6 +1698,28 @@
         "vision": true
       },
       "summary": "PyroMod roms are fast and clean "
+    },
+    {
+      "developer": "Cubed ROM",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/66/24fcf796e1e1fc870f868d35e7cf0207.png",
+      "id": "dsb9938",
+      "manifest": "http://romshare.deployfu.com/developer/dsb9938/manifest",
+      "roms": {
+        "mecha": true
+      },
+      "summary": "dsb9938 from XDA"
+    },
+    {
+      "developer": "Giorgio Andronico",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/295/c2853b405da4af549b78b60b2a6ceeca.jpeg",
+      "id": "ciaox",
+      "manifest": "http://romshare.deployfu.com/developer/ciaox/manifest",
+      "roms": {
+        "epic4g": true
+      },
+      "summary": "I'm a dev that works on making your phones better."
     }
   ],
   "minversion": "2000"

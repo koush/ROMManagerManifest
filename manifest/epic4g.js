@@ -38,14 +38,6 @@
       "id": "ACS",
       "manifest": "http://romshare.deployfu.com/developer/ACS/manifest",
       "summary": "Here you will find all of ACSyndicates Latest and older releases."
-    },
-    {
-      "developer": "Giorgio Andronico",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/295/c2853b405da4af549b78b60b2a6ceeca.jpeg",
-      "id": "ciaox",
-      "manifest": "http://romshare.deployfu.com/developer/ciaox/manifest",
-      "summary": "I'm a dev that works on making your phones better."
     }
   ],
   "minversion": "2000"

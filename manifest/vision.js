@@ -92,6 +92,13 @@
       "id": "blahbl4hblah",
       "manifest": "http://romshare.deployfu.com/developer/blahbl4hblah/manifest",
       "summary": "PyroMod roms are fast and clean "
+    },
+    {
+      "developer": "mjybarr@gmail.com",
+      "free": false,
+      "id": "mjybarr@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/mjybarr@gmail.com/manifest",
+      "summary": "mjybarr@gmail.com"
     }
   ],
   "minversion": "2000"

@@ -1711,15 +1711,25 @@
       "summary": "dsb9938 from XDA"
     },
     {
-      "developer": "Giorgio Andronico",
+      "developer": "mjybarr@gmail.com",
       "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/295/c2853b405da4af549b78b60b2a6ceeca.jpeg",
-      "id": "ciaox",
-      "manifest": "http://romshare.deployfu.com/developer/ciaox/manifest",
+      "id": "mjybarr@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/mjybarr@gmail.com/manifest",
       "roms": {
-        "epic4g": true
+        "vision": true
       },
-      "summary": "I'm a dev that works on making your phones better."
+      "summary": "mjybarr@gmail.com"
+    },
+    {
+      "developer": "JMCyanbreadMod ROM´s",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/396/7ae8f2d05f548d98ec4f60a8ae9df3af.jpg",
+      "id": "jacob.mueller.elz@googlemail.com",
+      "manifest": "http://romshare.deployfu.com/developer/jacob.mueller.elz@googlemail.com/manifest",
+      "roms": {
+        "p990": true
+      },
+      "summary": "JMCyanbreadMod ROM´s are based on CM7 Nightlys or Kangs. All system apps are modded in cyan."
     }
   ],
   "minversion": "2000"

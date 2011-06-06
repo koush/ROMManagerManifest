@@ -49,7 +49,7 @@
     },
     {
       "developer": "SnakeBiteZZ",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/178/75a44ae18b10c58a76c785cbf245f3f0.jpg",
       "id": "SnakeBiteZZ",
       "manifest": "http://romshare.deployfu.com/developer/SnakeBiteZZ/manifest",
@@ -57,7 +57,7 @@
     },
     {
       "developer": "Rafyvitto",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/177/700bcfbb335a940d5d43aab2894d058d.jpg",
       "id": "Android-Maisters",
       "manifest": "http://romshare.deployfu.com/developer/Android-Maisters/manifest",
@@ -65,7 +65,7 @@
     },
     {
       "developer": "GreenRomProject",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
       "id": "GreenRomProject",
       "manifest": "http://romshare.deployfu.com/developer/GreenRomProject/manifest",
@@ -73,7 +73,7 @@
     },
     {
       "developer": "Jivany",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/54/b2fbc8d78d1603ad3ce1c5db727a4b68.jpg",
       "id": "jivanylaureano@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/jivanylaureano@gmail.com/manifest",
@@ -81,22 +81,23 @@
     },
     {
       "developer": "Faux123 Custom ROMs",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/65/458f8e1774c14317e04210d456d579e0.gif",
       "id": "faux123",
       "manifest": "http://romshare.deployfu.com/developer/faux123/manifest",
       "summary": "Custom ROMs for MT4G & G2x"
     },
     {
-      "developer": "PureH2O ROM Development",
-      "free": false,
+      "developer": "Mass Murder ROM Development",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/318/4d920040eea5943ebb36a41ae1d3943a.jpg",
       "id": "reids073105@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/reids073105@gmail.com/manifest",
-      "summary": "PureH2O ROMs are well tested built from scratch AOSP Source ROMs, You might even find some Sense ROMs that I cooked up!"
+      "summary": "Mass Murder ROMs are either Faux123, CM7, or HTC Sense Source ROMs Built from scratch using the developers respected Source Github. I also will be throwing in a few cooked ROMs later down the Road. ALL Mass Murder ROMs will have a theme built into the Fram"
     },
     {
       "developer": "GazaIan's ROMs",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/296/cd3509e2cff156bd174cb32481dfbe33.jpg",
       "id": "gazaian13@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/gazaian13@gmail.com/manifest",

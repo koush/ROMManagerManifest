@@ -33,7 +33,7 @@
     },
     {
       "developer": "ACSyndicate",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/272/f1369e30d685f847faa5fd8129e9c330.png",
       "id": "ACS",
       "manifest": "http://romshare.deployfu.com/developer/ACS/manifest",

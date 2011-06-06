@@ -33,14 +33,14 @@
     },
     {
       "developer": "Bugfixes for CM7",
-      "free": false,
+      "free": true,
       "id": "plasma",
       "manifest": "http://romshare.deployfu.com/developer/plasma/manifest",
       "summary": "Bugfixes for Cyanogenmod 7"
     },
     {
       "developer": "JMCyanbreadMod ROM´s",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/396/7ae8f2d05f548d98ec4f60a8ae9df3af.jpg",
       "id": "jacob.mueller.elz@googlemail.com",
       "manifest": "http://romshare.deployfu.com/developer/jacob.mueller.elz@googlemail.com/manifest",

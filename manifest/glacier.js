@@ -88,20 +88,20 @@
       "summary": "Custom ROMs for MT4G & G2x"
     },
     {
-      "developer": "Mass Murder ROM Development",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/318/4d920040eea5943ebb36a41ae1d3943a.jpg",
-      "id": "reids073105@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/reids073105@gmail.com/manifest",
-      "summary": "Mass Murder ROMs are either Faux123, CM7, or HTC Sense Source ROMs Built from scratch using the developers respected Source Github. I also will be throwing in a few cooked ROMs later down the Road. ALL Mass Murder ROMs will have a theme built into the Fram"
-    },
-    {
       "developer": "GazaIan's ROMs",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/296/cd3509e2cff156bd174cb32481dfbe33.jpg",
       "id": "gazaian13@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/gazaian13@gmail.com/manifest",
       "summary": "My own ROMs, probably half assed, but functional :3"
+    },
+    {
+      "developer": "Mass Murder ROM Development",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/318/4d920040eea5943ebb36a41ae1d3943a.jpg",
+      "id": "reids073105@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/reids073105@gmail.com/manifest",
+      "summary": "Mass Murder ROMs are either Faux123, CM7, or HTC Sense Source ROMs Built from scratch using the developers respected Source Github. I also will be throwing in a few cooked ROMs later down the Road. ALL Mass Murder ROMs will have a theme built into the Fram"
     }
   ],
   "minversion": "2000"

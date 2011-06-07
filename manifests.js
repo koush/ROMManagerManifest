@@ -1733,6 +1733,17 @@
         "vision": true
       },
       "summary": "Compiled Android 2.3.4 from CM Github with eye candy, speed, and tons of tweaks for performance/battery life/OC-UV-Smarta**-Compcache Kernel."
+    },
+    {
+      "developer": "Fabolous",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/337/d2c1bf150b52364eca4dcba86135ff9d.png",
+      "id": "fabolous",
+      "manifest": "http://romshare.deployfu.com/developer/fabolous/manifest",
+      "roms": {
+        "droidx": true
+      },
+      "summary": "ApeX for DX/D2"
     }
   ],
   "minversion": "2000"

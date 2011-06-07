@@ -61,7 +61,7 @@
       "icon": "http://romshare.deployfu.com/downloads/177/700bcfbb335a940d5d43aab2894d058d.jpg",
       "id": "Android-Maisters",
       "manifest": "http://romshare.deployfu.com/developer/Android-Maisters/manifest",
-      "summary": "http://android-maisters.thedevboard.com Roms latest and greatest!"
+      "summary": "http://android-maisters.ddns.net Roms latest and greatest!"
     },
     {
       "developer": "GreenRomProject",

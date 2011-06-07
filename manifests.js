@@ -1382,7 +1382,7 @@
       "roms": {
         "glacier": true
       },
-      "summary": "http://android-maisters.thedevboard.com Roms latest and greatest!"
+      "summary": "http://android-maisters.ddns.net Roms latest and greatest!"
     },
     {
       "developer": "ZachsAndroidApps",
@@ -1404,7 +1404,7 @@
       "roms": {
         "vision": true
       },
-      "summary": "Quality Releases"
+      "summary": "http://android-maisters.ddns.net"
     },
     {
       "developer": "Bugfixes for CM7",

@@ -897,5 +897,6 @@
   ],
   "version": "2.5.0.1",
   "recovery_url": "http://download.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.img",
-  "recovery_zip_url": "http://download.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.zip"
+  "recovery_zip_url": "http://download.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.zip",
+  "use_in_app": false
 }

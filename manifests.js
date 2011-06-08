@@ -1407,16 +1407,6 @@
       "summary": "http://android-maisters.ddns.net"
     },
     {
-      "developer": "Bugfixes for CM7",
-      "free": true,
-      "id": "plasma",
-      "manifest": "http://romshare.deployfu.com/developer/plasma/manifest",
-      "roms": {
-        "p990": true
-      },
-      "summary": "Bugfixes for Cyanogenmod 7"
-    },
-    {
       "developer": "Team Whiskey",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/217/1f014e3a34997c82b915902c05ba2005.png",

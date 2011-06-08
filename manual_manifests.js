@@ -559,6 +559,7 @@
             "icon": "http://files.virtuousrom.com/icon.png",
             "roms": {
                 "vision": "true",
+                "ace": "true",
                 "inc": "true" 
             },
             "summary": "Stock Sense ROMs with Essential Fixes and Enhancements and Other Goodies by rmk." 

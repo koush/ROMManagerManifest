@@ -786,11 +786,17 @@
     {
       "name": "Motorola XOOM",
       "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-name/recovery bs=4096 ; ",
-      "version": "4.0.0.0",
+      "version": "4.0.0.1",
       "init": "init.stingray.rc",
       "legacy_versions": [
         "3.0.2.5",
-        "3.0.2.5"
+        "3.0.2.5",
+        "4.0.0.0",
+        "4.0.0.0",
+        "4.0.0.0",
+        "4.0.0.0",
+        "4.0.0.0",
+        "4.0.0.0"
       ],
       "key": "stingray"
     },

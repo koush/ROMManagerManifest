@@ -24,6 +24,14 @@
       "summary": "Cool stuffs."
     },
     {
+      "developer": "Virtuous",
+      "icon": "http://files.virtuousrom.com/icon.png",
+      "id": "virtuous",
+      "free": "true",
+      "manifest": "http://files.virtuousrom.com/virtuous.js",
+      "summary": "Stock Sense ROMs with Essential Fixes and Enhancements and Other Goodies by rmk."
+    },
+    {
       "developer": "MIUI.us",
       "free": "true",
       "icon": "http://roms.miui.us/images/miuius.png",

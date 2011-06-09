@@ -558,6 +558,7 @@
       "free": "true",
       "manifest": "http://files.virtuousrom.com/virtuous.js",
       "roms": {
+        "ace": "true",
         "inc": "true",
         "vision": "true"
       },
@@ -1586,6 +1587,7 @@
       "manifest": "http://romshare.deployfu.com/developer/htcclay/manifest",
       "roms": {
         "vibrantmtd": true,
+        "crespo": true,
         "vision": true
       },
       "summary": "Go Go Go!"
@@ -1734,6 +1736,16 @@
         "droidx": true
       },
       "summary": "ApeX for DX/D2"
+    },
+    {
+      "developer": "Kejar31",
+      "free": true,
+      "id": "Kejar31",
+      "manifest": "http://romshare.deployfu.com/developer/Kejar31/manifest",
+      "roms": {
+        "charge": true
+      },
+      "summary": "Kejar31"
     }
   ],
   "minversion": "2000"

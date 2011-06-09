@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    $.get("http://jsonp.deployfu.com/clean/" + encodeURIComponent("http://gh-pages.clockworkmod.com/ROMManagerManifest/devices.js"),
+    $.getJSON("http://jsonp.deployfu.com/clean/" + encodeURIComponent("http://gh-pages.clockworkmod.com/ROMManagerManifest/devices.js") + "?callback=?",
         function(data) {
             var version = data.version;
             var recovery_url = data.recovery_url;
@@ -22,6 +22,5 @@ $(document).ready(function() {
                 contents = contents + sprintf("<a href=\"%s\">%s</a><br/>", url, device.name);
             });
             $('.rommanagermanifest').html(contents);
-        },
-        "jsonp");
+        });
 });

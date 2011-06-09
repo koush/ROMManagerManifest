@@ -1455,7 +1455,7 @@
     {
       "developer": "phiremod",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/234/8f79ee0e2a11ff0e735d220dca4d1525.gif",
+      "icon": "http://romshare.deployfu.com/downloads/234/49168358de7756efa2aab68b0a3919d6.jpg",
       "id": "phiredrop",
       "manifest": "http://romshare.deployfu.com/developer/phiredrop/manifest",
       "roms": {

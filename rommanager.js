@@ -24,4 +24,4 @@ $(document).ready(function() {
             $('.rommanagermanifest').html(contents);
         },
         "jsonp");
-}
+});

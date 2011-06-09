@@ -1,7 +1,6 @@
 $(document).ready(function() {
-    $.getJSON("http://pipes.yahoo.com/pipes/pipe.run?_id=332d9216d8910ba39e6c2577fd321a6a&_render=json&u=http%3A%2F%2Fkoush.github.com%2FROMManagerManifest%2Fdevices.js&_callback=?",
+    $.get("http://jsonp.deployfu.com/clean/" + encodeURIComponent("http://gh-pages.clockworkmod.com/ROMManagerManifest/devices.js"),
         function(data) {
-            data = data.value.items[0];
             var version = data.version;
             var recovery_url = data.recovery_url;
             var recovery_zip_url = data.recovery_zip_url;
@@ -23,5 +22,6 @@ $(document).ready(function() {
                 contents = contents + sprintf("<a href=\"%s\">%s</a><br/>", url, device.name);
             });
             $('.rommanagermanifest').html(contents);
-        });
+        },
+        "jsonp");
 });

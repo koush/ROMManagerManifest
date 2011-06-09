@@ -885,7 +885,7 @@
     {
       "name": "Samsung Galaxy S 4G",
       "version": "3.2.0.0",
-      "init": "init.galaxys4g.rc",
+      "init": "init.smdkc110.rc",
       "readonly_recovery": true,
       "key": "galaxys4g"
     },

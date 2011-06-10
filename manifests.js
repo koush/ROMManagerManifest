@@ -1671,17 +1671,6 @@
       "summary": "My own ROMs, probably half assed, but functional :3"
     },
     {
-      "developer": "RTFPeSSoa",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/339/f6a41127e16e31ff95b54b3212e87647.png",
-      "id": "rtfrodrigo@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/rtfrodrigo@gmail.com/manifest",
-      "roms": {
-        "galaxys": true
-      },
-      "summary": "New ROM and THEME for Our Galaxy S I9000. Very Fast, include all the usual tweaks and much more..."
-    },
-    {
       "developer": "PyroMod Roms",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/289/f50f109fd0e925ebc88d9d0d350411c1.jpg",
@@ -1759,17 +1748,6 @@
       "summary": "Kejar31"
     },
     {
-      "developer": "ThunderStick",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/325/1575a289262456ccfa37e3b3c7c79770.gif",
-      "id": "ThunderStick",
-      "manifest": "http://romshare.deployfu.com/developer/ThunderStick/manifest",
-      "roms": {
-        "mecha": true
-      },
-      "summary": "They call it a ThunderStick"
-    },
-    {
       "developer": "metickone@gmail.com",
       "free": true,
       "id": "metickone@gmail.com",
@@ -1778,6 +1756,17 @@
         "sholes": true
       },
       "summary": "metickone@gmail.com"
+    },
+    {
+      "developer": "RTFPeSSoa",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/339/f6a41127e16e31ff95b54b3212e87647.png",
+      "id": "rtfrodrigo@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/rtfrodrigo@gmail.com/manifest",
+      "roms": {
+        "galaxys": true
+      },
+      "summary": "New ROM and THEME for Our Galaxy S I9000. Very Fast, include all the usual tweaks and much more...(FIRST BOOT CAN TAKE 10 MINUTES OR EVEN MORE BE PATIENTE)"
     }
   ],
   "minversion": "2000"

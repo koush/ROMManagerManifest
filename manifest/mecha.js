@@ -110,14 +110,6 @@
       "id": "reids073105@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/reids073105@gmail.com/manifest",
       "summary": "Custom ROMs Built from Scratch for the HTC Thunderbolt and Mytouch 4G."
-    },
-    {
-      "developer": "ThunderStick",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/325/1575a289262456ccfa37e3b3c7c79770.gif",
-      "id": "ThunderStick",
-      "manifest": "http://romshare.deployfu.com/developer/ThunderStick/manifest",
-      "summary": "They call it a ThunderStick"
     }
   ],
   "minversion": "2000"

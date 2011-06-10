@@ -249,6 +249,13 @@
       "id": "toverturf@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/toverturf@gmail.com/manifest",
       "summary": "CyanogenMod 7 with few tweaks for better performance on the OG Droid, Incredible, and pulls from gerrit.  "
+    },
+    {
+      "developer": "metickone@gmail.com",
+      "free": true,
+      "id": "metickone@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/metickone@gmail.com/manifest",
+      "summary": "metickone@gmail.com"
     }
   ],
   "minversion": "2000"

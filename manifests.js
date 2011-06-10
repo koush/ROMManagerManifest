@@ -1266,6 +1266,17 @@
       "summary": "ezterry @ xda's Dream/Sapphire Roms and Kernels"
     },
     {
+      "developer": "ThunderStick",
+      "icon": "http://www.igottadroid.com/Roms/RomManagerManifest/ThunderStick-Avatar.png",
+      "id": "ThunderStick",
+      "free": "true",
+      "manifest": "http://www.igottadroid.com/Roms/RomManagerManifest/ThunderStick-RMM.js",
+      "roms": {
+        "mecha": "true"
+      },
+      "summary": "Ready to run roms..."
+    },
+    {
       "developer": "birgertime",
       "free": true,
       "id": "birgertime",
@@ -1693,18 +1704,6 @@
       "summary": "dsb9938 from XDA"
     },
     {
-      "developer": "Mass Murderer Custom ROM's",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/318/4d920040eea5943ebb36a41ae1d3943a.jpg",
-      "id": "reids073105@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/reids073105@gmail.com/manifest",
-      "roms": {
-        "mecha": true,
-        "glacier": true
-      },
-      "summary": "Custom ROMs Built from Scratch for the HTC Thunderbolt and Mytouch 4G."
-    },
-    {
       "developer": "JMCyanbreadMod ROM´s",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/396/7ae8f2d05f548d98ec4f60a8ae9df3af.jpg",
@@ -1727,6 +1726,18 @@
       "summary": "Compiled Android 2.3.4 from CM Github with eye candy, speed, and tons of tweaks for performance/battery life/OC-UV-Smarta**-Compcache Kernel."
     },
     {
+      "developer": "Mass Murderer Custom ROM's",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/318/4d920040eea5943ebb36a41ae1d3943a.jpg",
+      "id": "reids073105@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/reids073105@gmail.com/manifest",
+      "roms": {
+        "glacier": true,
+        "mecha": true
+      },
+      "summary": "Custom ROMs Built from Scratch for the HTC Thunderbolt and Mytouch 4G."
+    },
+    {
       "developer": "Fabolous",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/337/d2c1bf150b52364eca4dcba86135ff9d.png",
@@ -1746,6 +1757,27 @@
         "charge": true
       },
       "summary": "Kejar31"
+    },
+    {
+      "developer": "ThunderStick",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/325/1575a289262456ccfa37e3b3c7c79770.gif",
+      "id": "ThunderStick",
+      "manifest": "http://romshare.deployfu.com/developer/ThunderStick/manifest",
+      "roms": {
+        "mecha": true
+      },
+      "summary": "They call it a ThunderStick"
+    },
+    {
+      "developer": "metickone@gmail.com",
+      "free": true,
+      "id": "metickone@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/metickone@gmail.com/manifest",
+      "roms": {
+        "sholes": true
+      },
+      "summary": "metickone@gmail.com"
     }
   ],
   "minversion": "2000"

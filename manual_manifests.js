@@ -1265,7 +1265,7 @@
                 "magic": "true"
             },
             "summary": "ezterry @ xda's Dream/Sapphire Roms and Kernels"
-        }
+        },
         {
             "developer": "ThunderStick",
             "free": "true",

@@ -1266,6 +1266,17 @@
             },
             "summary": "ezterry @ xda's Dream/Sapphire Roms and Kernels"
         }
+        {
+            "developer": "ThunderStick",
+            "free": "true",
+            "id": "ThunderStick",
+            "icon": "http://www.igottadroid.com/Roms/RomManagerManifest/ThunderStick-Avatar.png",
+            "manifest": "http://www.igottadroid.com/Roms/RomManagerManifest/ThunderStick-RMM.js",
+            "roms": {
+                "mecha": "true"
+            },
+            "summary": "Ready to run roms..."
+        }
     ],
     "minversion": "2000"
 }

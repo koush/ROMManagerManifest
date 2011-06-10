@@ -1287,17 +1287,6 @@
       "summary": "Vibrant ROMs"
     },
     {
-      "developer": "davidjr621",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/38/1c5e965d78ec41f64a79490bb2534c8e.png",
-      "id": "davidjr621",
-      "manifest": "http://romshare.deployfu.com/developer/davidjr621/manifest",
-      "roms": {
-        "sholes": true
-      },
-      "summary": "Themes and Other Bacon for Multiple ROMs and Phones"
-    },
-    {
       "developer": "DrewGaren Nightlies",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1767,6 +1756,17 @@
         "galaxys": true
       },
       "summary": "New ROM and THEME for Our Galaxy S I9000. Very Fast, include all the usual tweaks and much more...(FIRST BOOT CAN TAKE 10 MINUTES OR EVEN MORE BE PATIENTE)"
+    },
+    {
+      "developer": "MIUI Captivate",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/86/345e1b28c2bd1e72d9db93788701c417.png",
+      "id": "jmcgraw159@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/jmcgraw159@gmail.com/manifest",
+      "roms": {
+        "captivatemtd": true
+      },
+      "summary": "MIUI for the Samsung Captivate"
     }
   ],
   "minversion": "2000"

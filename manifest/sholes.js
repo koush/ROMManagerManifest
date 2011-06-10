@@ -212,14 +212,6 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
-      "developer": "davidjr621",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/38/1c5e965d78ec41f64a79490bb2534c8e.png",
-      "id": "davidjr621",
-      "manifest": "http://romshare.deployfu.com/developer/davidjr621/manifest",
-      "summary": "Themes and Other Bacon for Multiple ROMs and Phones"
-    },
-    {
       "developer": "Magiman7",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/42/70d519969f6c857c9e5b7c1cfb147ae9.png",

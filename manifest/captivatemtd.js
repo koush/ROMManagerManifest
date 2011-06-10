@@ -30,6 +30,14 @@
       "free": "true",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
+    },
+    {
+      "developer": "MIUI Captivate",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/86/345e1b28c2bd1e72d9db93788701c417.png",
+      "id": "jmcgraw159@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/jmcgraw159@gmail.com/manifest",
+      "summary": "MIUI for the Samsung Captivate"
     }
   ],
   "minversion": "2000"

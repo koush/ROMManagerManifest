@@ -33,7 +33,7 @@
     },
     {
       "developer": "MIUI Captivate",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/86/345e1b28c2bd1e72d9db93788701c417.png",
       "id": "jmcgraw159@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/jmcgraw159@gmail.com/manifest",

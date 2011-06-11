@@ -37,6 +37,13 @@
       "free": "true",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
+    },
+    {
+      "developer": "metiCkOne",
+      "free": false,
+      "id": "metiCkOne",
+      "manifest": "http://romshare.deployfu.com/developer/metiCkOne/manifest",
+      "summary": "Clean, fast & Stable roms for the D1 & D2"
     }
   ],
   "minversion": "2000"

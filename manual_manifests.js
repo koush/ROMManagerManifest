@@ -1276,7 +1276,18 @@
                 "mecha": "true"
             },
             "summary": "Ready to run roms..."
-        }
+        },
+        {
+            "developer": "TeamGTP",
+            "free": "true",
+            "id": "TeamGTP",
+            "icon": "http://public.gtpdevs.com/RomManager/rommanager.png",
+            "manifest": "http://public.gtpdevs.com/Rommanager/manifest.js",
+            "roms": {
+                "mecha": "true",        
+            },
+            "summary": "Supercharged Roms"    
+    }
     ],
     "minversion": "2000"
 }

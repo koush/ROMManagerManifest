@@ -1284,10 +1284,10 @@
             "icon": "http://public.gtpdevs.com/RomManager/rommanager.png",
             "manifest": "http://public.gtpdevs.com/Rommanager/manifest.js",
             "roms": {
-                "mecha": "true",        
+                "mecha": "true"
             },
             "summary": "Supercharged Roms"    
-    }
+        }
     ],
     "minversion": "2000"
 }

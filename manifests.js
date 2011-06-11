@@ -1277,6 +1277,17 @@
       "summary": "Ready to run roms..."
     },
     {
+      "developer": "TeamGTP",
+      "icon": "http://public.gtpdevs.com/RomManager/rommanager.png",
+      "id": "TeamGTP",
+      "free": "true",
+      "manifest": "http://public.gtpdevs.com/Rommanager/manifest.js",
+      "roms": {
+        "mecha": "true"
+      },
+      "summary": "Supercharged Roms"
+    },
+    {
       "developer": "birgertime",
       "free": false,
       "id": "birgertime",
@@ -1759,7 +1770,7 @@
       "summary": "New ROM and THEME for Our Galaxy S I9000. Very Fast, include all the usual tweaks and much more...(FIRST BOOT CAN TAKE 10 MINUTES OR EVEN MORE BE PATIENTE)"
     },
     {
-      "developer": "MIUI Captivate",
+      "developer": "MIUI",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/86/345e1b28c2bd1e72d9db93788701c417.png",
       "id": "jmcgraw159@gmail.com",

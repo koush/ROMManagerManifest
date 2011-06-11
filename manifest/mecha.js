@@ -96,6 +96,14 @@
       "summary": "Ready to run roms..."
     },
     {
+      "developer": "TeamGTP",
+      "icon": "http://public.gtpdevs.com/RomManager/rommanager.png",
+      "id": "TeamGTP",
+      "free": "true",
+      "manifest": "http://public.gtpdevs.com/Rommanager/manifest.js",
+      "summary": "Supercharged Roms"
+    },
+    {
       "developer": "Cubed ROM",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/66/24fcf796e1e1fc870f868d35e7cf0207.png",

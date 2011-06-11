@@ -243,11 +243,11 @@
       "summary": "CyanogenMod 7 with few tweaks for better performance on the OG Droid, Incredible, and pulls from gerrit.  "
     },
     {
-      "developer": "metickone@gmail.com",
+      "developer": "metiCkOne",
       "free": true,
-      "id": "metickone@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/metickone@gmail.com/manifest",
-      "summary": "metickone@gmail.com"
+      "id": "metiCkOne",
+      "manifest": "http://romshare.deployfu.com/developer/metiCkOne/manifest",
+      "summary": "Clean, fast & Stable roms for the D1 & D2"
     }
   ],
   "minversion": "2000"

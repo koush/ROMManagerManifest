@@ -1737,14 +1737,14 @@
       "summary": "Kejar31"
     },
     {
-      "developer": "metickone@gmail.com",
+      "developer": "metiCkOne",
       "free": true,
-      "id": "metickone@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/metickone@gmail.com/manifest",
+      "id": "metiCkOne",
+      "manifest": "http://romshare.deployfu.com/developer/metiCkOne/manifest",
       "roms": {
         "sholes": true
       },
-      "summary": "metickone@gmail.com"
+      "summary": "Clean, fast & Stable roms for the D1 & D2"
     },
     {
       "developer": "RTFPeSSoa",

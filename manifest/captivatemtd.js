@@ -34,7 +34,7 @@
     {
       "developer": "MIUI",
       "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/86/345e1b28c2bd1e72d9db93788701c417.png",
+      "icon": "http://romshare.deployfu.com/downloads/86/54d8a283453bed9540509a4d36b024ae.png",
       "id": "jmcgraw159@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/jmcgraw159@gmail.com/manifest",
       "summary": "MIUI for the Samsung Captivate"

@@ -1524,17 +1524,6 @@
       "summary": "Here you will find all of ACSyndicates Latest and older releases."
     },
     {
-      "developer": "mik_os",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/280/90f44cfd3ec66b7485bbf1d464651da5.gif",
-      "id": "kiril.mik.os@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/kiril.mik.os@gmail.com/manifest",
-      "roms": {
-        "thunderg": true
-      },
-      "summary": "kiril.mik.os@gmail.com"
-    },
-    {
       "developer": "winner00",
       "free": false,
       "id": "toverturf@gmail.com",
@@ -1660,6 +1649,17 @@
       "summary": "FaKeGinGeR"
     },
     {
+      "developer": "mik_os",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/280/90f44cfd3ec66b7485bbf1d464651da5.gif",
+      "id": "kiril.mik.os@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/kiril.mik.os@gmail.com/manifest",
+      "roms": {
+        "thunderg": true
+      },
+      "summary": "kiril.mik.os@gmail.com"
+    },
+    {
       "developer": "GazaIan's ROMs",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/296/cd3509e2cff156bd174cb32481dfbe33.jpg",
@@ -1772,7 +1772,7 @@
     {
       "developer": "MIUI",
       "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/86/345e1b28c2bd1e72d9db93788701c417.png",
+      "icon": "http://romshare.deployfu.com/downloads/86/54d8a283453bed9540509a4d36b024ae.png",
       "id": "jmcgraw159@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/jmcgraw159@gmail.com/manifest",
       "roms": {

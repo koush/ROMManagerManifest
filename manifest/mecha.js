@@ -105,7 +105,7 @@
     },
     {
       "developer": "Cubed ROM",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/66/24fcf796e1e1fc870f868d35e7cf0207.png",
       "id": "dsb9938",
       "manifest": "http://romshare.deployfu.com/developer/dsb9938/manifest",
@@ -113,7 +113,7 @@
     },
     {
       "developer": "Mass Murderer Custom ROM's",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/318/4d920040eea5943ebb36a41ae1d3943a.jpg",
       "id": "reids073105@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/reids073105@gmail.com/manifest",

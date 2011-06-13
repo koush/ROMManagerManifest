@@ -39,8 +39,16 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
+      "developer": "Fabolous",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/337/d2c1bf150b52364eca4dcba86135ff9d.png",
+      "id": "fabolous",
+      "manifest": "http://romshare.deployfu.com/developer/fabolous/manifest",
+      "summary": "ApeX for DX/D2"
+    },
+    {
       "developer": "metiCkOne",
-      "free": false,
+      "free": true,
       "id": "metiCkOne",
       "manifest": "http://romshare.deployfu.com/developer/metiCkOne/manifest",
       "summary": "Clean, fast & Stable roms for the D1 & D2"

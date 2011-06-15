@@ -935,7 +935,7 @@
       "key": "sidekick4g"
     }
   ],
-  "ad_network": "adsense",
+  "ad_network": "admob",
   "use_in_app": false,
   "version": "2.5.0.1",
   "recovery_url": "http://download.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.img",

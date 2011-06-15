@@ -15,6 +15,14 @@
       "free": "true",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
+    },
+    {
+      "developer": "DesignGears Roms",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/271/3ee39ba3530e8d858bbbfdbbb1ae2bea.png",
+      "id": "DesignGears",
+      "manifest": "http://romshare.deployfu.com/developer/DesignGears/manifest",
+      "summary": "Roms for the Samsung Galaxy S2"
     }
   ],
   "minversion": "2000"

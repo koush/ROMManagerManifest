@@ -926,7 +926,7 @@
     {
       "name": "Samsung Sidekick 4G",
       "version": "4.0.0.2",
-      "init": "init.sidekick4g.rc",
+      "init": "init.smdkc110.rc",
       "readonly_recovery": true,
       "key": "sidekick4g"
     }

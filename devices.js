@@ -908,13 +908,15 @@
     {
       "name": "Samsung Galaxy Tab 10.1",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p2 bs=262144 ; ",
-      "version": "4.0.0.2",
+      "version": "4.0.0.4",
       "init": "ueventd.p3.rc",
       "legacy_versions": [
         "3.2.0.1",
         "3.2.0.2",
         "3.2.0.2",
-        "4.0.0.2"
+        "4.0.0.2",
+        "4.0.0.2",
+        "4.0.0.3"
       ],
       "key": "p7100"
     },

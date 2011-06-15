@@ -61,7 +61,7 @@
       "icon": "http://romshare.deployfu.com/downloads/438/78caffafdc3e80824888eeb57532067b.JPG",
       "id": "DeanoSoft_UK",
       "manifest": "http://romshare.deployfu.com/developer/DeanoSoft_UK/manifest",
-      "summary": "Compiled from CyanogenMod-7 Bravo/Desire Base with tweaks! Visit my XDA Developers project page for more information: http://forum.xda-developers.com/showthread.php?t=1121921"
+      "summary": "Compiled from CyanogenMod-7 Bravo/Desire Base with tweaks! Visit my XDA Developers project page for more information: http://forum.xda-developers.com/showpost.php?p=14676068"
     }
   ],
   "minversion": "2000"

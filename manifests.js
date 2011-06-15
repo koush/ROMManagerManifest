@@ -1504,7 +1504,7 @@
     {
       "developer": "TeamRogue",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/255/71f1524eff4ee52bb94b5bc838ca113c.png",
+      "icon": "http://romshare.deployfu.com/downloads/255/eef30cd10645b17f89e2f65186bfb915.png",
       "id": "TeamRogue",
       "manifest": "http://romshare.deployfu.com/developer/TeamRogue/manifest",
       "roms": {
@@ -1541,7 +1541,8 @@
       "id": "DesignGears",
       "manifest": "http://romshare.deployfu.com/developer/DesignGears/manifest",
       "roms": {
-        "captivate": true
+        "captivate": true,
+        "galaxys2": true
       },
       "summary": "Roms for the Samsung Captivate"
     },
@@ -1791,6 +1792,17 @@
         "speedy": true
       },
       "summary": "CM7 Roms and Kernels for HTC Evo Shift"
+    },
+    {
+      "developer": "HardDroid2",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/438/78caffafdc3e80824888eeb57532067b.JPG",
+      "id": "DeanoSoft_UK",
+      "manifest": "http://romshare.deployfu.com/developer/DeanoSoft_UK/manifest",
+      "roms": {
+        "leo": true
+      },
+      "summary": "Complied from CyanogenMod-7 Base with available tweaks as requested. Visit my project page for more information: http://forum.xda-developers.com/showthread.php?t=1121921"
     }
   ],
   "minversion": "2000"

@@ -1544,7 +1544,7 @@
         "captivate": true,
         "galaxys2": true
       },
-      "summary": "Roms for the Samsung Captivate"
+      "summary": "Roms & Mods by DesignGears"
     },
     {
       "developer": "Br1cK'd",
@@ -1802,7 +1802,7 @@
       "roms": {
         "leo": true
       },
-      "summary": "Complied from CyanogenMod-7 Base with available tweaks as requested. Visit my project page for more information: http://forum.xda-developers.com/showthread.php?t=1121921"
+      "summary": "Compiled from CyanogenMod-7 Bravo/Desire Base with tweaks! Visit my XDA Developers project page for more information: http://forum.xda-developers.com/showthread.php?t=1121921"
     }
   ],
   "minversion": "2000"

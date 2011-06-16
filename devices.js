@@ -936,6 +936,7 @@
     }
   ],
   "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/manifests.js",
+  "manifest_signature": "BldsA9GZojes7RgBh5s640UIDl1S3oBTBmvMDfgWjoDc8JPK58qhMNASRXHBYSLH5rRIhKaPU/S6TY9hKHdAPozxebcsJZSK5uEbwjhTLq777KrbLn7ACOkZ1M/h3f3M3PQ5o7YLuRFckL6S1HytvFdAajVY/XPSaxGdJnKl8/s=",
   "ad_network": "adsense",
   "use_in_app": false,
   "version": "2.5.0.1",

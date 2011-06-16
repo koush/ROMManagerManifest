@@ -1,5 +1,4 @@
 {
-  "malformed": true,
   "manifests": [
     {
       "developer": "CyanogenMod",

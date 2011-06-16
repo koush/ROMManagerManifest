@@ -935,6 +935,7 @@
       "key": "sidekick4g"
     }
   ],
+  "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/manifests.js",
   "ad_network": "adsense",
   "use_in_app": false,
   "version": "2.5.0.1",

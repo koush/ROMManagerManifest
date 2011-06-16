@@ -1796,7 +1796,7 @@
     {
       "developer": "HardDroid2",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/438/78caffafdc3e80824888eeb57532067b.JPG",
+      "icon": "http://romshare.deployfu.com/downloads/438/f53d887254ceaf5ef2f76c48d903df2e.JPG",
       "id": "DeanoSoft_UK",
       "manifest": "http://romshare.deployfu.com/developer/DeanoSoft_UK/manifest",
       "roms": {

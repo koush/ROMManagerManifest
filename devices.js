@@ -386,7 +386,7 @@
     },
     {
       "name": "Droid X (2nd-init)",
-      "reboot_recovery": "echo 1 > /data/.recovery_mode ; sync ; reboot ;",
+      "reboot_recovery": "rm /cache/recovery/command ; dd if=/cache/update.zip of=/preinstall/recovery/recovery.zip ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
       "version": "4.0.0.4",
       "init": "init.mapphone_cdma.rc",
       "readonly_recovery": true,

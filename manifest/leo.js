@@ -58,7 +58,7 @@
     {
       "developer": "HardDroid2",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/438/f53d887254ceaf5ef2f76c48d903df2e.JPG",
+      "icon": "http://romshare.deployfu.com/downloads/438/21a895f66fddad535cf84ed37ccb425c.JPG",
       "id": "DeanoSoft_UK",
       "manifest": "http://romshare.deployfu.com/developer/DeanoSoft_UK/manifest",
       "summary": "Compiled from CyanogenMod-7 Bravo/Desire Base with tweaks! Visit my XDA Developers project page for more information: http://forum.xda-developers.com/showpost.php?p=14676068"

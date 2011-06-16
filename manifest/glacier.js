@@ -94,14 +94,6 @@
       "id": "gazaian13@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/gazaian13@gmail.com/manifest",
       "summary": "My own ROMs, probably half assed, but functional :3"
-    },
-    {
-      "developer": "Mass Murderer Custom ROM's",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/318/4d920040eea5943ebb36a41ae1d3943a.jpg",
-      "id": "reids073105@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/reids073105@gmail.com/manifest",
-      "summary": "Custom ROMs Built from Scratch for the HTC Thunderbolt and Mytouch 4G."
     }
   ],
   "minversion": "2000"

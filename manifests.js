@@ -1705,18 +1705,6 @@
       "summary": "Compiled Android 2.3.4 from CM Github with eye candy, speed, and tons of tweaks for performance/battery life/OC-UV-Smarta**-Compcache Kernel."
     },
     {
-      "developer": "Mass Murderer Custom ROM's",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/318/4d920040eea5943ebb36a41ae1d3943a.jpg",
-      "id": "reids073105@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/reids073105@gmail.com/manifest",
-      "roms": {
-        "glacier": true,
-        "mecha": true
-      },
-      "summary": "Custom ROMs Built from Scratch for the HTC Thunderbolt and Mytouch 4G."
-    },
-    {
       "developer": "Fabolous",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/337/d2c1bf150b52364eca4dcba86135ff9d.png",
@@ -1796,7 +1784,7 @@
     {
       "developer": "HardDroid2",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/438/f53d887254ceaf5ef2f76c48d903df2e.JPG",
+      "icon": "http://romshare.deployfu.com/downloads/438/21a895f66fddad535cf84ed37ccb425c.JPG",
       "id": "DeanoSoft_UK",
       "manifest": "http://romshare.deployfu.com/developer/DeanoSoft_UK/manifest",
       "roms": {

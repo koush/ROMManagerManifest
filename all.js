@@ -3,16 +3,16 @@
     "roms":
     [
     {
-        "name": "Superuser 2.3.6.2 cd",
+        "name": "Superuser 2.3.6.3 cd",
         "summary": "Cupcake and Donut",
         "device": "all",
-        "url": "http://goo-inside.me/superuser/su-2.3.6.2-cd-signed.zip"
+        "url": "http://goo-inside.me/superuser/su-2.3.6.3-cd-signed.zip"
     },
     {
-        "name": "Superuser 2.3.6.2 efgh",
+        "name": "Superuser 2.3.6.3 efgh",
         "summary": "Eclair, Froyo, Gingerbread, and Honeycomb",
         "device": "all",
-        "url": "http://goo-inside.me/superuser/su-2.3.6.2-efgh-signed.zip"
+        "url": "http://goo-inside.me/superuser/su-2.3.6.3-efgh-signed.zip"
     }    
     ]
 }

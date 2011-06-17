@@ -23,6 +23,13 @@
       "id": "DesignGears",
       "manifest": "http://romshare.deployfu.com/developer/DesignGears/manifest",
       "summary": "Roms & Mods by DesignGears"
+    },
+    {
+      "developer": "Novek",
+      "free": true,
+      "id": "trondkevin@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/trondkevin@gmail.com/manifest",
+      "summary": "A random XDA'er"
     }
   ],
   "minversion": "2000"

@@ -1779,6 +1779,16 @@
         "leo": true
       },
       "summary": "Compiled from CyanogenMod-7 Bravo/Desire Base with tweaks! Visit my XDA Developers project page for more information: http://forum.xda-developers.com/showpost.php?p=14676068"
+    },
+    {
+      "developer": "Novek",
+      "free": true,
+      "id": "trondkevin@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/trondkevin@gmail.com/manifest",
+      "roms": {
+        "galaxys2": true
+      },
+      "summary": "A random XDA'er"
     }
   ],
   "minversion": "2000"

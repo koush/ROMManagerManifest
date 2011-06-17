@@ -11,6 +11,7 @@
         "zeppelin": "true",
         "liberty": "true",
         "p990": "true",
+        "morrison": "true",
         "legend": "true",
         "vibrantmtd": "true",
         "passion": "true",

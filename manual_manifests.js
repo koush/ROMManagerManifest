@@ -27,6 +27,7 @@
                 "glacier": "true",
                 "liberty": "true",
                 "legend": "true",
+                "morrison": "true",
                 "one": "true",
                 "p990": "true",
                 "p999": "true",

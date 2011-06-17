@@ -9,6 +9,13 @@
       "summary": "Mods and bacon for your phone"
     },
     {
+      "developer": "CyanogenMod Nightlies",
+      "icon": "http://koush.kanged.net/cm/test/tdr.png",
+      "id": "cyanogenmodnightly",
+      "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
+      "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
+    },
+    {
       "developer": "Extras",
       "icon": "http://koush.kanged.net/cm/test/extras.png",
       "id": "extras",

@@ -87,6 +87,7 @@
                 "p990": "true",
                 "p999": "true",
                 "sapphire": "true",
+                "shadow": "true",
                 "sholes": "true",
                 "speedy": "true",
                 "supersonic": "true",

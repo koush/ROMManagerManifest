@@ -65,6 +65,7 @@
         "p999": "true",
         "zeppelin": "true",
         "liberty": "true",
+        "shadow": "true",
         "p990": "true",
         "morrison": "true",
         "legend": "true",

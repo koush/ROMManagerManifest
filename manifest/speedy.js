@@ -48,12 +48,12 @@
     },
     {
       "developer": "SparksCo",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/293/b6c183f7deb2729a2821649ddbe563e3.jpg",
       "id": "SparksCo",
       "manifest": "http://romshare.deployfu.com/developer/SparksCo/manifest",
       "summary": "CM7 Roms and Kernels for HTC Evo Shift"
     }
   ],
-  "minversion": "2000"
+  "minversion": "4322"
 }

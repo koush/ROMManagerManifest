@@ -88,5 +88,5 @@
       "summary": "Mods and bacon for DHD"
     }
   ],
-  "minversion": "2000"
+  "minversion": "4322"
 }

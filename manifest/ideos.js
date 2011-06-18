@@ -25,5 +25,5 @@
       "summary": "ROMs for the Huawei Ideos U8150 from the Ideos Dev Team"
     }
   ],
-  "minversion": "2000"
+  "minversion": "4322"
 }

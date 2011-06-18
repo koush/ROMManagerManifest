@@ -33,7 +33,7 @@
     },
     {
       "developer": "ZachsAndroidApps",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/200/b38c693479f1a705a87a9503c18f7cc0.gif",
       "id": "zachs@zachspong.com",
       "manifest": "http://romshare.deployfu.com/developer/zachs@zachspong.com/manifest",
@@ -41,12 +41,12 @@
     },
     {
       "developer": "TeamRogue",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/255/eef30cd10645b17f89e2f65186bfb915.png",
       "id": "TeamRogue",
       "manifest": "http://romshare.deployfu.com/developer/TeamRogue/manifest",
       "summary": "CyanogenMod 7 for the Motorola Cliq/Dext. DO NOT WIPE DATA/CACHE. Our ROM's have a wipe patch included. If you wipe, reinstall without wiping. Please remember DO NOT BACKUP ROM OR WIPE DATA/FACTORY RESET THROUGH ROM MANAGER! "
     }
   ],
-  "minversion": "2000"
+  "minversion": "4322"
 }

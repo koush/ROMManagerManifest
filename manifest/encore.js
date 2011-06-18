@@ -33,7 +33,7 @@
     },
     {
       "developer": "DrewGaren Nightlies",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
       "id": "drewgarennightly",
       "manifest": "http://romshare.deployfu.com/developer/drewgarennightly/manifest",
@@ -41,19 +41,19 @@
     },
     {
       "developer": "Dalingrin's Test Builds",
-      "free": true,
+      "free": false,
       "id": "ehardesty@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/ehardesty@gmail.com/manifest",
       "summary": "CM7 test builds"
     },
     {
       "developer": "phiremod",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/234/49168358de7756efa2aab68b0a3919d6.jpg",
       "id": "phiredrop",
       "manifest": "http://romshare.deployfu.com/developer/phiredrop/manifest",
       "summary": "Bringing you the best of Android."
     }
   ],
-  "minversion": "2000"
+  "minversion": "4322"
 }

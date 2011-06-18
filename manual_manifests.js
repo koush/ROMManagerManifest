@@ -1291,5 +1291,5 @@
             "summary": "Supercharged Roms"    
         }
     ],
-    "minversion": "2000"
+    "minversion": "4322"
 }

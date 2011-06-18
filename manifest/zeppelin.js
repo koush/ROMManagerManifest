@@ -33,11 +33,11 @@
     },
     {
       "developer": "DJGHOSTS3V3N",
-      "free": true,
+      "free": false,
       "id": "DJGHOSTS3V3N",
       "manifest": "http://romshare.deployfu.com/developer/DJGHOSTS3V3N/manifest",
       "summary": "FaKeGinGeR"
     }
   ],
-  "minversion": "2000"
+  "minversion": "4322"
 }

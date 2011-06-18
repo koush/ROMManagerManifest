@@ -83,12 +83,12 @@
     },
     {
       "developer": "E-XtremeMod",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/132/3bea45cb0d900947ae2ceb5399b617f3.png",
       "id": "extrememod",
       "manifest": "http://romshare.deployfu.com/developer/extrememod/manifest",
       "summary": "CM7 based mod with performance and graphic enhancements."
     }
   ],
-  "minversion": "2000"
+  "minversion": "4322"
 }

@@ -55,5 +55,5 @@
       "summary": "ezterry @ xda's Dream/Sapphire Roms and Kernels"
     }
   ],
-  "minversion": "2000"
+  "minversion": "4322"
 }

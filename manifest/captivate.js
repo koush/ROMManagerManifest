@@ -26,12 +26,12 @@
     },
     {
       "developer": "DesignGears Roms",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/271/3ee39ba3530e8d858bbbfdbbb1ae2bea.png",
       "id": "DesignGears",
       "manifest": "http://romshare.deployfu.com/developer/DesignGears/manifest",
       "summary": "Roms & Mods by DesignGears"
     }
   ],
-  "minversion": "2000"
+  "minversion": "4322"
 }

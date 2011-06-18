@@ -41,12 +41,12 @@
     },
     {
       "developer": "MIUI",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/223/4b9a814afaba733a6d3b4a47f29436de.png",
       "id": "MIUI Dev",
       "manifest": "http://romshare.deployfu.com/developer/MIUI Dev/manifest",
       "summary": "MIUI Uploads from our hardworking Developers"
     }
   ],
-  "minversion": "2000"
+  "minversion": "4322"
 }

@@ -18,11 +18,11 @@
     },
     {
       "developer": "Kejar31",
-      "free": true,
+      "free": false,
       "id": "Kejar31",
       "manifest": "http://romshare.deployfu.com/developer/Kejar31/manifest",
       "summary": "Kejar31"
     }
   ],
-  "minversion": "2000"
+  "minversion": "4322"
 }

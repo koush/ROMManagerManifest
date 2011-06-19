@@ -1234,10 +1234,10 @@
     },
     {
       "developer": "Ideos Dev Team",
-      "icon": "http://ideosdevteam.sourceforge.net/icon.png",
+      "icon": "http://ideosdevteamrom.sourceforge.net/icon.png",
       "id": "tilal6991",
       "free": "true",
-      "manifest": "http://ideosdevteam.sourceforge.net/manifest.js",
+      "manifest": "http://ideosdevteamrom.sourceforge.net/manifest.js",
       "roms": {
         "ideos": "true"
       },

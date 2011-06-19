@@ -1237,8 +1237,8 @@
           "developer": "Ideos Dev Team",
           "free": "true",
           "id": "tilal6991",
-          "icon": "http://ideosdevteam.sourceforge.net/icon.png",
-          "manifest": "http://ideosdevteam.sourceforge.net/manifest.js",
+          "icon": "http://ideosdevteamrom.sourceforge.net/icon.png",
+          "manifest": "http://ideosdevteamrom.sourceforge.net/manifest.js",
           "roms": {
             "ideos": "true"
            },

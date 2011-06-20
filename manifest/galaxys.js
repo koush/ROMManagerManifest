@@ -62,7 +62,7 @@
     },
     {
       "developer": "DarkyROM",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/124/e975fb9db2047ee42b84d4d65f612fcd.png",
       "id": "darkyy92@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/darkyy92@gmail.com/manifest",
@@ -70,7 +70,7 @@
     },
     {
       "developer": "RTFPeSSoa",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/339/f6a41127e16e31ff95b54b3212e87647.png",
       "id": "rtfrodrigo@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/rtfrodrigo@gmail.com/manifest",

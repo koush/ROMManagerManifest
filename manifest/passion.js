@@ -83,7 +83,7 @@
     },
     {
       "developer": "E-XtremeMod",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/132/3bea45cb0d900947ae2ceb5399b617f3.png",
       "id": "extrememod",
       "manifest": "http://romshare.deployfu.com/developer/extrememod/manifest",

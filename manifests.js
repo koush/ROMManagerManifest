@@ -1796,7 +1796,7 @@
     {
       "developer": "LeeDrOiD",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/464/99e87c8a9f2ca009d2bb424ac1124c20.gif",
+      "icon": "http://romshare.deployfu.com/downloads/464/d7ce43cf266990cb4111c62e022d838d.png",
       "id": "LeeDrOiD",
       "manifest": "http://romshare.deployfu.com/developer/LeeDrOiD/manifest",
       "roms": {

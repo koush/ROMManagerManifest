@@ -68,6 +68,7 @@
         "zeppelin": "true",
         "liberty": "true",
         "shadow": "true",
+	"incs": "true",
         "p990": "true",
         "morrison": "true",
         "legend": "true",

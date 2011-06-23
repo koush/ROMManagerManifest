@@ -8,6 +8,8 @@
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
       "roms": {
         "p999": "true",
+	"shadow": "true",
+	"incs": "true",
         "zeppelin": "true",
         "liberty": "true",
         "p990": "true",

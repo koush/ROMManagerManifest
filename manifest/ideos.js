@@ -23,6 +23,13 @@
       "free": "true",
       "manifest": "http://ideosdevteamrom.sourceforge.net/manifest.js",
       "summary": "ROMs for the Huawei Ideos U8150 from the Ideos Dev Team"
+    },
+    {
+      "developer": "xscosxteam.yeje16@gmail.com",
+      "free": true,
+      "id": "xscosxteam.yeje16@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/xscosxteam.yeje16@gmail.com/manifest",
+      "summary": "xscosxteam.yeje16@gmail.com"
     }
   ],
   "minversion": "4322"

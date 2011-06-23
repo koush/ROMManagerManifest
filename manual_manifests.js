@@ -78,6 +78,7 @@
                 "hero": "true",
                 "heroc": "true",
                 "inc": "true",
+                "incs": "true",
                 "galaxysmtd": "true",
                 "glacier": "true",
                 "liberty": "true",

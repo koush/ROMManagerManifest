@@ -8,8 +8,6 @@
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
       "roms": {
         "p999": "true",
-	"shadow": "true",
-	"incs": "true",
         "zeppelin": "true",
         "liberty": "true",
         "p990": "true",
@@ -67,8 +65,8 @@
         "p999": "true",
         "zeppelin": "true",
         "liberty": "true",
+        "incs": "true",
         "shadow": "true",
-	"incs": "true",
         "p990": "true",
         "morrison": "true",
         "legend": "true",
@@ -1806,6 +1804,16 @@
         "ace": true
       },
       "summary": "LeeDrOiD Sense roms & Kernels"
+    },
+    {
+      "developer": "xscosxteam.yeje16@gmail.com",
+      "free": true,
+      "id": "xscosxteam.yeje16@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/xscosxteam.yeje16@gmail.com/manifest",
+      "roms": {
+        "ideos": true
+      },
+      "summary": "xscosxteam.yeje16@gmail.com"
     }
   ],
   "minversion": "4322"

@@ -1784,17 +1784,6 @@
       "summary": "A random XDA'er"
     },
     {
-      "developer": "LeeDrOiD",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/464/87b95692eef5d1ffc5796c9ce66b81f9.png",
-      "id": "LeeDrOiD",
-      "manifest": "http://romshare.deployfu.com/developer/LeeDrOiD/manifest",
-      "roms": {
-        "ace": true
-      },
-      "summary": "LeeDrOiD Sense roms & Kernels"
-    },
-    {
       "developer": "Jalen",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/475/83b1212e420f39b900d6011fda66ad4c.jpg",

@@ -1290,6 +1290,18 @@
                 "mecha": "true"
             },
             "summary": "Supercharged Roms"    
+        },
+        {
+            "developer": "LeeDrOiD",
+            "free": "true",
+            "id": "LeeDrOiD",
+            "icon": "http://leedroid.ftp.rshost.eu/Images/avatar_small.png",
+            "manifest": "http://leedroid.ftp.rshost.eu/LeeDrOiD.js",
+            "roms": {
+              "bravo": "true",
+                "ace": "true"
+            },
+              "summary": "Sense Rom's, Kernel's & Goodie's"
         }
     ],
     "minversion": "4322"

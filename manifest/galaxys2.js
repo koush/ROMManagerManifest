@@ -18,7 +18,7 @@
     },
     {
       "developer": "DesignGears Roms",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/271/3ee39ba3530e8d858bbbfdbbb1ae2bea.png",
       "id": "DesignGears",
       "manifest": "http://romshare.deployfu.com/developer/DesignGears/manifest",
@@ -26,7 +26,7 @@
     },
     {
       "developer": "Novek",
-      "free": true,
+      "free": false,
       "id": "trondkevin@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/trondkevin@gmail.com/manifest",
       "summary": "A random XDA'er"

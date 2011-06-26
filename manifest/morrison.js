@@ -32,16 +32,8 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
-      "developer": "ZachsAndroidApps",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/200/b38c693479f1a705a87a9503c18f7cc0.gif",
-      "id": "zachs@zachspong.com",
-      "manifest": "http://romshare.deployfu.com/developer/zachs@zachspong.com/manifest",
-      "summary": "ZachsAndroidApps makes custom themes and roms upon request."
-    },
-    {
       "developer": "TeamRogue",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/255/eef30cd10645b17f89e2f65186bfb915.png",
       "id": "TeamRogue",
       "manifest": "http://romshare.deployfu.com/developer/TeamRogue/manifest",

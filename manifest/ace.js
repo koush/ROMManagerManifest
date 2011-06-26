@@ -89,8 +89,8 @@
     },
     {
       "developer": "LeeDrOiD",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/464/d7ce43cf266990cb4111c62e022d838d.png",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/464/87b95692eef5d1ffc5796c9ce66b81f9.png",
       "id": "LeeDrOiD",
       "manifest": "http://romshare.deployfu.com/developer/LeeDrOiD/manifest",
       "summary": "LeeDrOiD Sense roms & Kernels"

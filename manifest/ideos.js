@@ -25,11 +25,12 @@
       "summary": "ROMs for the Huawei Ideos U8150 from the Ideos Dev Team"
     },
     {
-      "developer": "xscosxteam.yeje16@gmail.com",
-      "free": true,
-      "id": "xscosxteam.yeje16@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/xscosxteam.yeje16@gmail.com/manifest",
-      "summary": "xscosxteam.yeje16@gmail.com"
+      "developer": "Jalen",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/475/83b1212e420f39b900d6011fda66ad4c.jpg",
+      "id": "x SCOS x Elite",
+      "manifest": "http://romshare.deployfu.com/developer/x SCOS x Elite/manifest",
+      "summary": "Best Rom's Compilation"
     }
   ],
   "minversion": "4322"

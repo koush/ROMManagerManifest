@@ -634,21 +634,6 @@
             ] 
         },
         {
-            "device": "desirec",
-            "name": "CyanogenMod 7.1.0-RC1",
-            "modversion": "CyanogenMod-7.1.0-RC1-Eris",
-            "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-eris-signed.zip",
-            "product": "CyanogenMod",
-            "summary": "Release Candidate",
-            "addons": [
-                {
-                    "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
-                } 
-            ] 
-        },
-        {
             "device": "dream",
             "name": "CyanogenMod 6.1.0",
             "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-DS-signed.zip",

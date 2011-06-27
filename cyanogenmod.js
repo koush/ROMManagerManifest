@@ -2143,21 +2143,6 @@
             "summary": "Baconbits Addon 0.3" 
         },
         {
-            "device": "vivo",
-            "name": "CyanogenMod 7.1.0-RC1",
-            "modversion": "CyanogenMod-7.1.0-RC1-IncS",
-            "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-IncS-signed.zip",
-            "product": "CyanogenMod",
-            "summary": "Release Candidate",
-            "addons": [
-                {
-                    "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
-                } 
-            ] 
-        },
-        {
             "device": "z71",
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-Z71",

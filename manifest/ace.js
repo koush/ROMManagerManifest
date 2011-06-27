@@ -86,6 +86,14 @@
       "free": "true",
       "manifest": "http://mdeejay.vpnonline.org/RomManagerManifest/mdeejaymod.js",
       "summary": "Mods and bacon for DHD"
+    },
+    {
+      "developer": "LeeDrOiD",
+      "icon": "http://leedroid.ftp.rshost.eu/Images/avatar_small.png",
+      "id": "LeeDrOiD",
+      "free": "true",
+      "manifest": "http://leedroid.ftp.rshost.eu/LeeDrOiD.js",
+      "summary": "Sense Rom's, Kernel's & Goodie's"
     }
   ],
   "minversion": "4322"

@@ -7,14 +7,18 @@
       "free": "true",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
       "roms": {
+        "smb_a1002": "true",
         "p999": "true",
         "zeppelin": "true",
         "liberty": "true",
+        "incs": "true",
         "p990": "true",
         "morrison": "true",
         "legend": "true",
+        "vivo": "true",
         "vibrantmtd": "true",
         "passion": "true",
+        "desirec": "true",
         "bravo": "true",
         "ace": "true",
         "u8220": "true",
@@ -32,9 +36,9 @@
         "speedy": "true",
         "vision": "true",
         "supersonic": "true",
-        "galaxysmtd": "true",
         "inc": "true",
         "harmony": "true",
+        "galaxysmtd": "true",
         "encore": "true",
         "crespo": "true",
         "click": "true",
@@ -62,6 +66,7 @@
       "id": "cyanogenmodnightly",
       "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
       "roms": {
+        "smb_a1002": "true",
         "p999": "true",
         "zeppelin": "true",
         "liberty": "true",
@@ -70,8 +75,10 @@
         "p990": "true",
         "morrison": "true",
         "legend": "true",
+        "vivo": "true",
         "vibrantmtd": "true",
         "passion": "true",
+        "desirec": "true",
         "bravo": "true",
         "ace": "true",
         "u8220": "true",
@@ -89,9 +96,9 @@
         "speedy": "true",
         "vision": "true",
         "supersonic": "true",
-        "galaxysmtd": "true",
         "inc": "true",
         "harmony": "true",
+        "galaxysmtd": "true",
         "encore": "true",
         "crespo": "true",
         "click": "true",
@@ -1289,6 +1296,18 @@
         "mecha": "true"
       },
       "summary": "Supercharged Roms"
+    },
+    {
+      "developer": "LeeDrOiD",
+      "icon": "http://leedroid.ftp.rshost.eu/Images/avatar_small.png",
+      "id": "LeeDrOiD",
+      "free": "true",
+      "manifest": "http://leedroid.ftp.rshost.eu/LeeDrOiD.js",
+      "roms": {
+        "ace": "true",
+        "bravo": "true"
+      },
+      "summary": "Sense Rom's, Kernel's & Goodie's"
     },
     {
       "developer": "birgertime",

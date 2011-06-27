@@ -942,6 +942,7 @@
     },
     {
       "name": "HTC Incredible S",
+      "version": "4.0.0.5",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=262144 ; ",
       "init": "init.vivo.rc",
       "key": "vivo"

@@ -1814,6 +1814,16 @@
         "ascend": true
       },
       "summary": "playfulgod@gmail.com"
+    },
+    {
+      "developer": "jbbandos",
+      "free": false,
+      "id": "jbbandos",
+      "manifest": "http://romshare.deployfu.com/developer/jbbandos/manifest",
+      "roms": {
+        "passion": true
+      },
+      "summary": "José Bernardo Bandos Rodrigues"
     }
   ],
   "minversion": "4322"

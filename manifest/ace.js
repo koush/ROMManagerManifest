@@ -86,14 +86,6 @@
       "free": "true",
       "manifest": "http://mdeejay.vpnonline.org/RomManagerManifest/mdeejaymod.js",
       "summary": "Mods and bacon for DHD"
-    },
-    {
-      "developer": "LeeDrOiD",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/464/87b95692eef5d1ffc5796c9ce66b81f9.png",
-      "id": "LeeDrOiD",
-      "manifest": "http://romshare.deployfu.com/developer/LeeDrOiD/manifest",
-      "summary": "LeeDrOiD Sense roms & Kernels"
     }
   ],
   "minversion": "4322"

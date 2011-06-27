@@ -88,6 +88,13 @@
       "id": "extrememod",
       "manifest": "http://romshare.deployfu.com/developer/extrememod/manifest",
       "summary": "CM7 based mod with performance and graphic enhancements."
+    },
+    {
+      "developer": "jbbandos",
+      "free": false,
+      "id": "jbbandos",
+      "manifest": "http://romshare.deployfu.com/developer/jbbandos/manifest",
+      "summary": "José Bernardo Bandos Rodrigues"
     }
   ],
   "minversion": "4322"

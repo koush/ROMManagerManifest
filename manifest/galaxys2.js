@@ -18,7 +18,7 @@
     },
     {
       "developer": "DesignGears Roms",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/271/3ee39ba3530e8d858bbbfdbbb1ae2bea.png",
       "id": "DesignGears",
       "manifest": "http://romshare.deployfu.com/developer/DesignGears/manifest",
@@ -26,10 +26,10 @@
     },
     {
       "developer": "Novek",
-      "free": false,
+      "free": true,
       "id": "trondkevin@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/trondkevin@gmail.com/manifest",
-      "summary": "A random XDA'er"
+      "summary": "Happy XDA'er"
     }
   ],
   "minversion": "4322"

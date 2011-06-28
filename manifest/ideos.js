@@ -26,7 +26,7 @@
     },
     {
       "developer": "Jalen",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/475/83b1212e420f39b900d6011fda66ad4c.jpg",
       "id": "x SCOS x Elite",
       "manifest": "http://romshare.deployfu.com/developer/x SCOS x Elite/manifest",

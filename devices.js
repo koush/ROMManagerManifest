@@ -909,6 +909,10 @@
       "name": "LG Optimus V",
       "version": "3.2.0.0",
       "init": "init.cappuccino.rc",
+      "alternate_recovery": {
+        "name": "aospCWMod VM670 20110531",        
+        "url": "http://download218.mediafire.com/o72bof248dlg/w7i63039n8a7zb2/aospCWMod-VM670-20110531.img",
+        "clockwork": false      },
       "key": "vm670"
     },
     {

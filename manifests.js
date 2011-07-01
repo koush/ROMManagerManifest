@@ -1844,7 +1844,7 @@
       "roms": {
         "passion": true
       },
-      "summary": "José Bernardo Bandos Rodrigues"
+      "summary": "Multi-language MIUI ROMs. No theme change, 3G, bluetooth and other tunings. Lean and fast."
     }
   ],
   "minversion": "4322"

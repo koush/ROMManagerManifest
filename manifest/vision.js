@@ -71,7 +71,7 @@
     },
     {
       "developer": "siulmagic",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/198/8e366a4e34c56d2a83c384b8cff73b88.jpg",
       "id": "siulmagic@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/siulmagic@gmail.com/manifest",
@@ -79,7 +79,7 @@
     },
     {
       "developer": "Htcclay",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/307/5076662d1617430aa6ad3f6ad73136aa.jpg",
       "id": "htcclay",
       "manifest": "http://romshare.deployfu.com/developer/htcclay/manifest",
@@ -87,7 +87,7 @@
     },
     {
       "developer": "PyroMod Roms",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/289/f50f109fd0e925ebc88d9d0d350411c1.jpg",
       "id": "blahbl4hblah",
       "manifest": "http://romshare.deployfu.com/developer/blahbl4hblah/manifest",
@@ -95,7 +95,7 @@
     },
     {
       "developer": "meXdroidMod rOmS",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/394/991fd69a0f32e66d8026b35c3a914259.jpg",
       "id": "mjybarr@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/mjybarr@gmail.com/manifest",

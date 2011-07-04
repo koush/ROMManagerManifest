@@ -32,11 +32,11 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
-      "developer": "DJGHOSTS3V3N",
-      "free": false,
-      "id": "DJGHOSTS3V3N",
-      "manifest": "http://romshare.deployfu.com/developer/DJGHOSTS3V3N/manifest",
-      "summary": "FaKeGinGeR"
+      "developer": "ProyectAOSP",
+      "free": true,
+      "id": "Phoenixsong6 & DJGHOSTS3V3N",
+      "manifest": "http://romshare.deployfu.com/developer/Phoenixsong6 & DJGHOSTS3V3N/manifest",
+      "summary": "Phoenixsong6 & DJGHOSTS3V3N: ProyectAOSP! Very fast series of ROMs, our goal is to compile every version of Android into a phone!"
     }
   ],
   "minversion": "4322"

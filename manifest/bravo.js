@@ -52,11 +52,12 @@
       "summary": "Fast and clean rom for HTC Desire"
     },
     {
-      "developer": "AdamG - OpenDesire",
+      "developer": "Oxygen",
+      "icon": "http://download.oxygen.im/roms/ROMManagerManifest/icon.png",
       "id": "adamg",
       "free": "true",
-      "manifest": "http://android.adamg.co.uk/bravo/roms/rommanager_manifest.js",
-      "summary": "OpenDesire for HTC Desire"
+      "manifest": "http://download.oxygen.im/roms/ROMManagerManifest/oxygen.js",
+      "summary": "Oxygen, clean and simple AOSP ROM"
     },
     {
       "developer": "Pay87",

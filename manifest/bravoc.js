@@ -46,6 +46,14 @@
       "id": "MIUI Dev",
       "manifest": "http://romshare.deployfu.com/developer/MIUI Dev/manifest",
       "summary": "MIUI Uploads from our hardworking Developers"
+    },
+    {
+      "developer": "Oxygen",
+      "icon": "http://download.oxygen.im/roms/ROMManagerManifest/icon.png",
+      "id": "adamg",
+      "free": "true",
+      "manifest": "http://download.oxygen.im/roms/ROMManagerManifest/oxygen.js",
+      "summary": "Oxygen, clean and simple AOSP ROM"
     }
   ],
   "minversion": "4322"

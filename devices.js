@@ -942,6 +942,13 @@
         "key": "vivo"
     },
     {
+        "name": "HTC Incredible 2",
+        "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=262144 ; ",
+        "version": "4.0.0.4",
+        "init": "init.vivow.rc",
+        "key": "vivow"
+    },
+    {
         "name": "LG Optimus V",
         "version": "3.2.0.1",
         "init": "init.cappuccino.rc",

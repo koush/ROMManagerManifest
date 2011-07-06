@@ -102,6 +102,14 @@
       "id": "htcclay",
       "manifest": "http://romshare.deployfu.com/developer/htcclay/manifest",
       "summary": "Go Go Go!"
+    },
+    {
+      "developer": "Oxygen",
+      "icon": "http://download.oxygen.im/roms/ROMManagerManifest/icon.png",
+      "id": "adamg",
+      "free": "true",
+      "manifest": "http://download.oxygen.im/roms/ROMManagerManifest/oxygen.js",
+      "summary": "Oxygen, clean and simple AOSP ROM"
     }
   ],
   "minversion": "4322"

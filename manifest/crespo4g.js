@@ -40,6 +40,14 @@
       "summary": "MIUI releases by MIUI.us"
     },
     {
+      "developer": "Oxygen",
+      "icon": "http://download.oxygen.im/roms/ROMManagerManifest/icon.png",
+      "id": "adamg",
+      "free": "true",
+      "manifest": "http://download.oxygen.im/roms/ROMManagerManifest/oxygen.js",
+      "summary": "Oxygen, clean and simple AOSP ROM"
+    },
+    {
       "developer": "Google Apps",
       "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
       "id": "google",

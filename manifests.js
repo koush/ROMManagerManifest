@@ -11,14 +11,13 @@
         "p999": "true",
         "zeppelin": "true",
         "liberty": "true",
-        "incs": "true",
         "p990": "true",
         "morrison": "true",
         "legend": "true",
         "droid2": "true",
-        "vivo": "true",
         "vibrantmtd": "true",
         "passion": "true",
+        "vivo": "true",
         "desirec": "true",
         "bravo": "true",
         "ace": "true",
@@ -71,15 +70,14 @@
         "p999": "true",
         "zeppelin": "true",
         "liberty": "true",
-        "incs": "true",
         "shadow": "true",
         "p990": "true",
         "morrison": "true",
         "legend": "true",
         "droid2": "true",
-        "vivo": "true",
         "vibrantmtd": "true",
         "passion": "true",
+        "vivo": "true",
         "desirec": "true",
         "bravo": "true",
         "ace": "true",
@@ -1111,17 +1109,6 @@
       "summary": "An AOSP ROM using the latest CM/EzGB sources for D/S, supporting EBI0, 2708, EBI1 devices"
     },
     {
-      "developer": "roalex",
-      "icon": "http://k002.kiwi6.com/hotlink/55tg5zo8bk/cos_bravo.png",
-      "id": "roalex-bravo",
-      "free": "true",
-      "manifest": "http://dl.dropbox.com/u/14294263/cos-bravo.js",
-      "roms": {
-        "bravo": "true"
-      },
-      "summary": "CM HBOOT:COS-Bravo:AOSP/CM sources based rom featuring native A2sdext support/Customized Sense Roms"
-    },
-    {
       "developer": "Hamsterbread",
       "icon": "http://dl.dropbox.com/u/10693833/Hamsters%20Rom/iconhamsterbread.png",
       "id": "hamsterbread",
@@ -1846,6 +1833,17 @@
         "vision": true
       },
       "summary": "Compiled Android 2.3.4 from CM Github with eye candy, speed, and tons of tweaks for performance/battery life/OC-UV-Smarta**-Compcache Kernel."
+    },
+    {
+      "developer": "roalex",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/107/236f3ca6074ca5d999aef037aae94244.png",
+      "id": "roalex-bravo",
+      "manifest": "http://romshare.deployfu.com/developer/roalex-bravo/manifest",
+      "roms": {
+        "bravo": true
+      },
+      "summary": "AOSP Desire builds & Custom HTC Sense bhulds"
     }
   ],
   "minversion": "4322"

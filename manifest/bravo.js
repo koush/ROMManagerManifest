@@ -109,14 +109,6 @@
       "summary": "New Sense ROM For HTC Desire"
     },
     {
-      "developer": "roalex",
-      "icon": "http://k002.kiwi6.com/hotlink/55tg5zo8bk/cos_bravo.png",
-      "id": "roalex-bravo",
-      "free": "true",
-      "manifest": "http://dl.dropbox.com/u/14294263/cos-bravo.js",
-      "summary": "CM HBOOT:COS-Bravo:AOSP/CM sources based rom featuring native A2sdext support/Customized Sense Roms"
-    },
-    {
       "developer": "DeltaProject",
       "icon": "http://deltarom.ru/roms/logo.png",
       "id": "deltaproject",
@@ -139,6 +131,14 @@
       "free": "true",
       "manifest": "http://leedroid.ftp.rshost.eu/LeeDrOiD.js",
       "summary": "Sense Rom's, Kernel's & Goodie's"
+    },
+    {
+      "developer": "roalex",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/107/236f3ca6074ca5d999aef037aae94244.png",
+      "id": "roalex-bravo",
+      "manifest": "http://romshare.deployfu.com/developer/roalex-bravo/manifest",
+      "summary": "AOSP Desire builds & Custom HTC Sense bhulds"
     }
   ],
   "minversion": "4322"

@@ -420,6 +420,7 @@
       "roms": {
         "bravo": "true",
         "bravoc": "true",
+        "crespo4g": "true",
         "crespo": "true"
       },
       "summary": "Oxygen, clean and simple AOSP ROM"
@@ -1846,7 +1847,7 @@
       "roms": {
         "bravo": true
       },
-      "summary": "AOSP Desire builds & Custom HTC Sense bhulds"
+      "summary": "AOSP/CM Desire builds & Custom HTC Sense builds"
     }
   ],
   "minversion": "4322"

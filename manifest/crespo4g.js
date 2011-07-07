@@ -32,20 +32,20 @@
       "summary": "www.peteralfonso.com\nwww.twitter.com/peteralfonso"
     },
     {
-      "developer": "MIUI.us",
-      "free": "true",
-      "icon": "http://roms.miui.us/images/miuius.png",
-      "id": "miuius",
-      "manifest": "http://roms.miui.us/manifest/rommanager.js",
-      "summary": "MIUI releases by MIUI.us"
-    },
-    {
       "developer": "Oxygen",
       "icon": "http://download.oxygen.im/roms/ROMManagerManifest/icon.png",
       "id": "adamg",
       "free": "true",
       "manifest": "http://download.oxygen.im/roms/ROMManagerManifest/oxygen.js",
       "summary": "Oxygen, clean and simple AOSP ROM"
+    },
+    {
+      "developer": "MIUI.us",
+      "free": "true",
+      "icon": "http://roms.miui.us/images/miuius.png",
+      "id": "miuius",
+      "manifest": "http://roms.miui.us/manifest/rommanager.js",
+      "summary": "MIUI releases by MIUI.us"
     },
     {
       "developer": "Google Apps",

@@ -936,22 +936,24 @@
     {
       "name": "HTC Incredible S",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=262144 ; ",
-      "version": "4.0.0.7",
+      "version": "4.0.0.8",
       "init": "init.vivo.rc",
       "legacy_versions": [
         "4.0.0.4",
-        "4.0.0.6"
+        "4.0.0.6",
+        "4.0.0.7"
       ],
       "key": "vivo"
     },
     {
       "name": "HTC Incredible 2",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=262144 ; ",
-      "version": "4.0.0.7",
+      "version": "4.0.0.8",
       "init": "init.vivow.rc",
       "legacy_versions": [
         "4.0.0.4",
-        "4.0.0.6"
+        "4.0.0.6",
+        "4.0.0.7"
       ],
       "key": "vivow"
     },
@@ -963,10 +965,10 @@
     },
     {
       "name": "LGE Optimus 3D",
-      "version": "4.0.0.7",
-      "init": "init.p920.rc",
       "reboot_recovery": "echo '518 R 1' > /sys/kernel/kobject_lge_nvdata/dynamic_nvdata_raw_write ; reboot ; ",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 bs=4096 ; ",
+      "version": "4.0.0.7",
+      "init": "init.p920.rc",
       "key": "p920"
     }
   ],

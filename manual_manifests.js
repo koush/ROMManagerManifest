@@ -422,7 +422,8 @@
             "roms": {
                 "bravo": "true",
                 "bravoc": "true",
-                "crespo": "true"
+                "crespo": "true",
+                "crespo4g": "true"
             },
             "summary": "Oxygen, clean and simple AOSP ROM" 
         },

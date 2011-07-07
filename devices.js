@@ -962,9 +962,11 @@
       "key": "thunderc"
     },
     {
-      "name": "p920",
+      "name": "LGE Optimus 3D",
       "version": "4.0.0.7",
       "init": "init.p920.rc",
+      "reboot_recovery": "echo '518 R 1' > /sys/kernel/kobject_lge_nvdata/dynamic_nvdata_raw_write ; reboot ; ",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 bs=4096 ; ",
       "key": "p920"
     }
   ],

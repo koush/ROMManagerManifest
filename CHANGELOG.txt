@@ -1,3 +1,12 @@
+4.3.0.0
+Bug fixes. Updates to PayPal, AdMob, Adsense, and In App billing.
+
+4.1.0.0
+Switch ROM: Allow backing up your current ROM before restoring another (easy switching).
+
+4.0.0.0
+ROM Manager redesign complete. ROMs support comments, ratings, and download counts.
+
 3.0.2.2
 The ROM Manager redesign has started! Let @clockworkmod know what you think!
 

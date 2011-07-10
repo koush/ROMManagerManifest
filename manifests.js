@@ -689,6 +689,7 @@
       "manifest": "http://roms.miui.us/manifest/rommanager.js",
       "roms": {
         "leo": "true",
+        "vivow": "true",
         "passion": "true",
         "galaxys": "true",
         "umts_jordan": "true",
@@ -706,6 +707,7 @@
         "vision": "true",
         "supersonic": "true",
         "inc": "true",
+        "encore": "true",
         "crespo": "true"
       },
       "summary": "MIUI releases by MIUI.us"
@@ -901,17 +903,6 @@
         "sholes": "true"
       },
       "summary": "Extras for Insanity ROM (Themes / Addons / Kernels / Apps)"
-    },
-    {
-      "developer": "MIUI Ports",
-      "id": "warttack",
-      "free": "true",
-      "manifest": "http://android.msacomputersolutions.com/ROMManagerManifest/update.js",
-      "roms": {
-        "inc": "true",
-        "aloha": "true"
-      },
-      "summary": "MIUI Ports + Extras by Warttack "
     },
     {
       "developer": "ACS",

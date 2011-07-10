@@ -9,13 +9,6 @@
       "summary": "Cool stuffs."
     },
     {
-      "developer": "MIUI Ports",
-      "id": "warttack",
-      "free": "true",
-      "manifest": "http://android.msacomputersolutions.com/ROMManagerManifest/update.js",
-      "summary": "MIUI Ports + Extras by Warttack "
-    },
-    {
       "developer": "Google Apps",
       "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
       "id": "google",

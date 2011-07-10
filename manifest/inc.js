@@ -114,13 +114,6 @@
       "summary": "Source built Roms and themes from LinuxMotion"
     },
     {
-      "developer": "MIUI Ports",
-      "id": "warttack",
-      "free": "true",
-      "manifest": "http://android.msacomputersolutions.com/ROMManagerManifest/update.js",
-      "summary": "MIUI Ports + Extras by Warttack "
-    },
-    {
       "developer": "Savaged-Zen",
       "icon": "http://savaged-zen.github.com/RM-Manifest/icon.png",
       "id": "jsseidel1",

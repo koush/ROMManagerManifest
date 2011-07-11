@@ -41,7 +41,7 @@
     },
     {
       "developer": "Team Whiskey",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/217/1f014e3a34997c82b915902c05ba2005.png",
       "id": "Krylon360",
       "manifest": "http://romshare.deployfu.com/developer/Krylon360/manifest",
@@ -49,7 +49,7 @@
     },
     {
       "developer": "Faux123 Custom ROMs",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/65/458f8e1774c14317e04210d456d579e0.gif",
       "id": "faux123",
       "manifest": "http://romshare.deployfu.com/developer/faux123/manifest",

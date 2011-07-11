@@ -1087,11 +1087,13 @@
             "free": "true",
             "id": "einherjar",
             "icon": "http://edtdev.com/rom_manager/edt_128.png",
-            "manifest": "http://edtdev.com/rom_manager/edtmanifest.js",
+            "manifest": "http://romanbb.github.com/ROM-Manager-Manifest/manifest.js",
             "roms": {
-                "vibrant": "true" 
+                "vibrant": "true",
+                "vibrantmtd": "true",
+                "p999": "true"
             },
-            "summary": "Vibrant ROMs, kernels, themes, and more!" 
+            "summary": "ROMs, kernels, and metal." 
         },
         {
             "developer": "roalex",

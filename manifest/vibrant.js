@@ -29,8 +29,8 @@
       "icon": "http://edtdev.com/rom_manager/edt_128.png",
       "id": "einherjar",
       "free": "true",
-      "manifest": "http://edtdev.com/rom_manager/edtmanifest.js",
-      "summary": "Vibrant ROMs, kernels, themes, and more!"
+      "manifest": "http://romanbb.github.com/ROM-Manager-Manifest/manifest.js",
+      "summary": "ROMs, kernels, and metal."
     },
     {
       "developer": "Google Apps",
@@ -39,13 +39,6 @@
       "free": "true",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
-    },
-    {
-      "developer": "birgertime",
-      "free": false,
-      "id": "birgertime",
-      "manifest": "http://romshare.deployfu.com/developer/birgertime/manifest",
-      "summary": "Vibrant ROMs"
     },
     {
       "developer": "Team Whiskey",

@@ -24,6 +24,14 @@
       "summary": "Cool stuffs."
     },
     {
+      "developer": "Einherjar Dev Team",
+      "icon": "http://edtdev.com/rom_manager/edt_128.png",
+      "id": "einherjar",
+      "free": "true",
+      "manifest": "http://romanbb.github.com/ROM-Manager-Manifest/manifest.js",
+      "summary": "ROMs, kernels, and metal."
+    },
+    {
       "developer": "Google Apps",
       "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
       "id": "google",

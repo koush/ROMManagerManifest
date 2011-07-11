@@ -1084,11 +1084,13 @@
       "icon": "http://edtdev.com/rom_manager/edt_128.png",
       "id": "einherjar",
       "free": "true",
-      "manifest": "http://edtdev.com/rom_manager/edtmanifest.js",
+      "manifest": "http://romanbb.github.com/ROM-Manager-Manifest/manifest.js",
       "roms": {
+        "p999": "true",
+        "vibrantmtd": "true",
         "vibrant": "true"
       },
-      "summary": "Vibrant ROMs, kernels, themes, and more!"
+      "summary": "ROMs, kernels, and metal."
     },
     {
       "developer": "roalex",
@@ -1292,16 +1294,6 @@
         "bravo": "true"
       },
       "summary": "Sense Rom's, Kernel's & Goodie's"
-    },
-    {
-      "developer": "birgertime",
-      "free": false,
-      "id": "birgertime",
-      "manifest": "http://romshare.deployfu.com/developer/birgertime/manifest",
-      "roms": {
-        "vibrant": true
-      },
-      "summary": "Vibrant ROMs"
     },
     {
       "developer": "DrewGaren Nightlies",

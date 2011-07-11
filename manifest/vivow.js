@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+      "developer": "CyanogenMod",
+      "icon": "http://koush.kanged.net/cm/test/cm2.png",
+      "id": "cyanogenmod",
+      "free": "true",
+      "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
+      "summary": "Mods and bacon for your phone"
+    },
+    {
       "developer": "Extras",
       "icon": "http://koush.kanged.net/cm/test/extras.png",
       "id": "extras",

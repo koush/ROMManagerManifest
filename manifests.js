@@ -11,6 +11,7 @@
         "p999": "true",
         "zeppelin": "true",
         "liberty": "true",
+        "vivow": "true",
         "p990": "true",
         "morrison": "true",
         "legend": "true",
@@ -1790,16 +1791,6 @@
       "summary": "playfulgod@gmail.com"
     },
     {
-      "developer": "jbbandos",
-      "free": true,
-      "id": "jbbandos",
-      "manifest": "http://romshare.deployfu.com/developer/jbbandos/manifest",
-      "roms": {
-        "passion": true
-      },
-      "summary": "Multi-language MIUI ROMs. No theme change, 3G, bluetooth and other tunings. Lean and fast."
-    },
-    {
       "developer": "ProyectAOSP",
       "free": true,
       "id": "Phoenixsong6 & DJGHOSTS3V3N",
@@ -1820,6 +1811,16 @@
         "vision": true
       },
       "summary": "Compiled Android 2.3.4 from CM Github with eye candy, speed, and tons of tweaks for performance/battery life/OC-UV-Smarta**-Compcache Kernel."
+    },
+    {
+      "developer": "jbbandos",
+      "free": true,
+      "id": "jbbandos",
+      "manifest": "http://romshare.deployfu.com/developer/jbbandos/manifest",
+      "roms": {
+        "passion": true
+      },
+      "summary": "Multi-language MIUI ROMs. No theme change, 3G, bluetooth and other tunings. Lean and fast."
     },
     {
       "developer": "roalex",

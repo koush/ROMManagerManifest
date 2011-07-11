@@ -106,6 +106,7 @@
                 "vibrantmtd": "true",
                 "vision": "true",
                 "vivo": "true",
+                "vivow": "true",
                 "z71": "true",
                 "zeppelin": "true",
                 "zero": "true" 

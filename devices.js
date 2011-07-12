@@ -978,6 +978,7 @@
     },
     {
       "name": "Samsung Galaxy Ace",
+      "flash_recovery": "/data/data/com.koushikdutta.rommanager/files/flash_image recoveryonly %s ; ",
       "version": "4.0.0.9",
       "init": "init.galaxyace.rc",
       "key": "galaxyace"

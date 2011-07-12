@@ -851,11 +851,12 @@
       "name": "LG Optimus 2X",
       "reboot_recovery": "echo 'boot-recovery' | dd of=/dev/block/mmcblk0p3 seek=6144 bs=1 ; reboot ; ",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p7 bs=4096 ; ",
-      "version": "3.0.2.8",
+      "version": "4.0.0.9",
       "init": "init_recovery.rc",
       "legacy_versions": [
         "3.0.2.7",
-        "3.0.2.7"
+        "3.0.2.7",
+        "3.0.2.8"
       ],
       "key": "p990"
     },
@@ -967,8 +968,11 @@
       "name": "LGE Optimus 3D",
       "reboot_recovery": "echo '518 R 1' > /sys/kernel/kobject_lge_nvdata/dynamic_nvdata_raw_write ; reboot ; ",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 bs=4096 ; ",
-      "version": "4.0.0.7",
+      "version": "4.0.0.9",
       "init": "init.p920.rc",
+      "legacy_versions": [
+        "4.0.0.7"
+      ],
       "key": "p920"
     }
   ],

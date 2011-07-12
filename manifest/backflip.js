@@ -18,7 +18,7 @@
     },
     {
       "developer": "Cyanogenmod",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/220/67a6b509cd40321f4743cf903c6ca72a.jpg",
       "id": "kernelzilla",
       "manifest": "http://romshare.deployfu.com/developer/kernelzilla/manifest",
@@ -26,7 +26,7 @@
     },
     {
       "developer": "j_r0dd",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/313/5d8c31631389ae04193f1a75584c60a1",
       "id": "jree2kx@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/jree2kx@gmail.com/manifest",

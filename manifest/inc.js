@@ -114,13 +114,6 @@
       "summary": "Source built Roms and themes from LinuxMotion"
     },
     {
-      "developer": "MIUI Ports",
-      "id": "warttack",
-      "free": "true",
-      "manifest": "http://android.msacomputersolutions.com/ROMManagerManifest/update.js",
-      "summary": "MIUI Ports + Extras by Warttack "
-    },
-    {
       "developer": "Savaged-Zen",
       "icon": "http://savaged-zen.github.com/RM-Manifest/icon.png",
       "id": "jsseidel1",
@@ -153,7 +146,7 @@
     },
     {
       "developer": "GreenRomProject",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
       "id": "GreenRomProject",
       "manifest": "http://romshare.deployfu.com/developer/GreenRomProject/manifest",
@@ -161,7 +154,7 @@
     },
     {
       "developer": "winner00",
-      "free": false,
+      "free": true,
       "id": "toverturf@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/toverturf@gmail.com/manifest",
       "summary": "CyanogenMod 7 with few tweaks for better performance on the OG Droid, Incredible, and pulls from gerrit.  "

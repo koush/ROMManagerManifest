@@ -33,7 +33,7 @@
     },
     {
       "developer": "TeamRogue",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/255/eef30cd10645b17f89e2f65186bfb915.png",
       "id": "TeamRogue",
       "manifest": "http://romshare.deployfu.com/developer/TeamRogue/manifest",
@@ -41,7 +41,7 @@
     },
     {
       "developer": "ProyectAOSP",
-      "free": false,
+      "free": true,
       "id": "Phoenixsong6 & DJGHOSTS3V3N",
       "manifest": "http://romshare.deployfu.com/developer/Phoenixsong6 & DJGHOSTS3V3N/manifest",
       "summary": "Phoenixsong6 & DJGHOSTS3V3N: ProyectAOSP! Very fast series of ROMs, our goal is to compile every version of Android into a phone!"

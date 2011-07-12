@@ -1833,6 +1833,17 @@
         "bravo": true
       },
       "summary": "AOSP/CM Desire builds & Custom HTC Sense builds"
+    },
+    {
+      "developer": "birgertime",
+      "free": true,
+      "id": "birgertime",
+      "manifest": "http://romanbb.github.com/ROM-Manager-Manifest/manifest.js",
+      "roms": {
+        "vibrantmtd": true,
+        "vibrant": true
+      },
+      "summary": "Top notch 7zip ROMs!"
     }
   ],
   "minversion": "4322"

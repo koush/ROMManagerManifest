@@ -63,6 +63,13 @@
       "id": "bossdj523@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/bossdj523@gmail.com/manifest",
       "summary": "Slim, fast, stable Samsung Vibrant Roms"
+    },
+    {
+      "developer": "birgertime",
+      "free": true,
+      "id": "birgertime",
+      "manifest": "http://romanbb.github.com/ROM-Manager-Manifest/manifest.js",
+      "summary": "Top notch 7zip ROMs!"
     }
   ],
   "minversion": "4322"

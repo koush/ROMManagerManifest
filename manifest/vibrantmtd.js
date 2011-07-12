@@ -46,6 +46,13 @@
       "id": "htcclay",
       "manifest": "http://romshare.deployfu.com/developer/htcclay/manifest",
       "summary": "Go Go Go!"
+    },
+    {
+      "developer": "birgertime",
+      "free": true,
+      "id": "birgertime",
+      "manifest": "http://romanbb.github.com/ROM-Manager-Manifest/manifest.js",
+      "summary": "Top notch 7zip ROMs!"
     }
   ],
   "minversion": "4322"

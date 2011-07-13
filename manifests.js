@@ -528,7 +528,9 @@
         "roms": {
             "sholes": "true",
             "mecha": "true",
-            "crespo": "true"
+            "crespo": "true",
+            "droidx": "true",
+            "droid2": "true"
         },
         "summary": "Source Built Gingerbread and Custom Tbolt Roms"
     },

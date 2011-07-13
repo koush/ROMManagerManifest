@@ -989,5 +989,6 @@
   "recovery_zip_url": "http://download.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.zip",
   "recovery_url": "http://download.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.img",
   "ad_network": "admob",
-  "manifest_signature": "NpjbRgtJ8oEuTkuFok+Gy5q1lzTvJ+wVSdzMcJA8VD4mdDG45cUc5rOHrMpvmepTDM+9/rcrM5oEzc3zhqedjJkFuway+lo5Xu33ELQafOXDs8VMTuNfjeAH7x8pNXl4UwiH3Ht51kaZBF0KGJHJVuuFUSiIcZkrP8J5yObS1NY="
+  "manifest_signature": "NpjbRgtJ8oEuTkuFok+Gy5q1lzTvJ+wVSdzMcJA8VD4mdDG45cUc5rOHrMpvmepTDM+9/rcrM5oEzc3zhqedjJkFuway+lo5Xu33ELQafOXDs8VMTuNfjeAH7x8pNXl4UwiH3Ht51kaZBF0KGJHJVuuFUSiIcZkrP8J5yObS1NY=",
+  "keywords": "phone accessories,droid,gadgets,bluetooth headset,car charger,sd card"
 }

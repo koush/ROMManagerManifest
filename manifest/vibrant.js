@@ -25,14 +25,6 @@
       "summary": "Blackhole build your own ROM series, full customization"
     },
     {
-      "developer": "Einherjar Dev Team",
-      "icon": "http://edtdev.com/rom_manager/edt_128.png",
-      "id": "einherjar",
-      "free": "true",
-      "manifest": "http://romanbb.github.com/ROM-Manager-Manifest/manifest.js",
-      "summary": "ROMs, kernels, and metal."
-    },
-    {
       "developer": "Google Apps",
       "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
       "id": "google",
@@ -65,10 +57,11 @@
       "summary": "Slim, fast, stable Samsung Vibrant Roms"
     },
     {
-      "developer": "birgertime",
+      "developer": "Einherjar Dev",
       "free": true,
-      "id": "birgertime",
-      "manifest": "http://romanbb.github.com/ROM-Manager-Manifest/manifest.js",
+      "icon": "http://romshare.deployfu.com/downloads/25/31d8c04d2622249a93100ffc1ed40a17.png",
+      "id": "einherjar",
+      "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
       "summary": "Top notch 7zip ROMs!"
     }
   ],

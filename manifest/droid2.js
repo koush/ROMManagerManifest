@@ -32,6 +32,14 @@
       "summary": "Source-based mods made by CVPCS"
     },
     {
+      "developer": "Liquid Smooth Roms",
+      "icon": "http://android.jbroom.com/rommanager/LSRICON.png",
+      "id": "Liquid",
+      "free": "true",
+      "manifest": "http://android.jbroom.com/rommanager/manifest.js",
+      "summary": "Source Built Gingerbread and Custom Tbolt Roms"
+    },
+    {
       "developer": "Beesley's Build.Props",
       "id": "Beesley",
       "free": "true",

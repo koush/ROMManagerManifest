@@ -551,8 +551,10 @@
       "free": "true",
       "manifest": "http://android.jbroom.com/rommanager/manifest.js",
       "roms": {
+        "droid2": "true",
         "sholes": "true",
         "mecha": "true",
+        "droidx": "true",
         "crespo": "true"
       },
       "summary": "Source Built Gingerbread and Custom Tbolt Roms"
@@ -1080,19 +1082,6 @@
         "ace": "true"
       },
       "summary": "ROMs and hax by gtg465x"
-    },
-    {
-      "developer": "Einherjar Dev Team",
-      "icon": "http://edtdev.com/rom_manager/edt_128.png",
-      "id": "einherjar",
-      "free": "true",
-      "manifest": "http://romanbb.github.com/ROM-Manager-Manifest/manifest.js",
-      "roms": {
-        "p999": "true",
-        "vibrantmtd": "true",
-        "vibrant": "true"
-      },
-      "summary": "ROMs, kernels, and metal."
     },
     {
       "developer": "roalex",
@@ -1835,11 +1824,13 @@
       "summary": "AOSP/CM Desire builds & Custom HTC Sense builds"
     },
     {
-      "developer": "birgertime",
+      "developer": "Einherjar Dev",
       "free": true,
-      "id": "birgertime",
-      "manifest": "http://romanbb.github.com/ROM-Manager-Manifest/manifest.js",
+      "icon": "http://romshare.deployfu.com/downloads/25/31d8c04d2622249a93100ffc1ed40a17.png",
+      "id": "einherjar",
+      "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
       "roms": {
+        "p999": true,
         "vibrantmtd": true,
         "vibrant": true
       },

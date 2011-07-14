@@ -3,7 +3,7 @@
     {
       "developer": "CyanogenMod",
       "icon": "http://koush.kanged.net/cm/test/cm2.png",
-      "id": "cyanogenmod",
+      "id": "cyanogenmodmagic",
       "free": "true",
       "manifest": "http://briancrook.ca/RM.php",
       "summary": "Mods and bacon for your phone"
@@ -11,7 +11,7 @@
     {
       "developer": "CyanogenMod Nightlies",
       "icon": "http://koush.kanged.net/cm/test/cm2.png",
-      "id": "cyanogenmodnightly",
+      "id": "cyanogenmodnightlymagic",
       "manifest": "http://briancrook.ca/RM_nightly.php",
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },

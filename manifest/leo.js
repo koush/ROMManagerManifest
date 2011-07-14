@@ -19,7 +19,7 @@
     {
       "developer": "charansingh",
       "icon": "http://fitsnugly.euroskank.com/gigglebread/leo/cm.png",
-      "id": "cyanogenmod",
+      "id": "charansingh",
       "free": "true",
       "manifest": "http://fitsnugly.euroskank.com/gigglebread/leo/leocyanogenmod.js",
       "summary": "Mods and Bacon for your phone"

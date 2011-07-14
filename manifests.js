@@ -53,7 +53,7 @@
     {
       "developer": "CyanogenMod",
       "icon": "http://koush.kanged.net/cm/test/cm2.png",
-      "id": "cyanogenmod",
+      "id": "cyanogenmodmagic",
       "free": "true",
       "manifest": "http://briancrook.ca/RM.php",
       "roms": {
@@ -114,7 +114,7 @@
     {
       "developer": "CyanogenMod Nightlies",
       "icon": "http://koush.kanged.net/cm/test/cm2.png",
-      "id": "cyanogenmodnightly",
+      "id": "cyanogenmodnightlymagic",
       "manifest": "http://briancrook.ca/RM_nightly.php",
       "roms": {
         "magic": "true"
@@ -1010,7 +1010,7 @@
     {
       "developer": "charansingh",
       "icon": "http://fitsnugly.euroskank.com/gigglebread/leo/cm.png",
-      "id": "cyanogenmod",
+      "id": "charansingh",
       "free": "true",
       "manifest": "http://fitsnugly.euroskank.com/gigglebread/leo/leocyanogenmod.js",
       "roms": {

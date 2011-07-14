@@ -1085,19 +1085,6 @@
             "summary": "ROMs and hax by gtg465x" 
         },
         {
-            "developer": "Einherjar Dev Team",
-            "free": "true",
-            "id": "einherjar",
-            "icon": "http://edtdev.com/rom_manager/edt_128.png",
-            "manifest": "http://romanbb.github.com/ROM-Manager-Manifest/manifest.js",
-            "roms": {
-                "vibrant": "true",
-                "vibrantmtd": "true",
-                "p999": "true"
-            },
-            "summary": "ROMs, kernels, and metal." 
-        },
-        {
             "developer": "roalex",
             "free": "true",
             "id": "roalex",

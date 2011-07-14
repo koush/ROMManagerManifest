@@ -1773,8 +1773,8 @@
       "developer": "playfulgod@gmail.com",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/480/046c8e21484dc21189721004ec151520.png",
-      "id": "cyanogenmod",
-      "manifest": "http://romshare.deployfu.com/developer/cyanogenmod/manifest",
+      "id": "playfulgod",
+      "manifest": "http://romshare.deployfu.com/developer/playfulgod/manifest",
       "roms": {
         "ascend": true
       },

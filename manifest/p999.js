@@ -53,7 +53,7 @@
       "icon": "http://romshare.deployfu.com/downloads/25/31d8c04d2622249a93100ffc1ed40a17.png",
       "id": "einherjar",
       "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
-      "summary": "Top notch 7zip ROMs!"
+      "summary": "ROMs, with a side of metal."
     }
   ],
   "minversion": "4322"

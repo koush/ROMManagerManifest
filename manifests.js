@@ -1824,15 +1824,15 @@
       "summary": "AOSP/CM Desire builds & Custom HTC Sense builds"
     },
     {
-      "developer": "CyanogenDefy",
+      "developer": "CyanogenMod Nightlies",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/541/e54eabca146dc177cd6af0b3baf7ead9.png",
+      "icon": "http://romshare.deployfu.com/downloads/541/19a6378b84a2561433b275a480eaeeed.png",
       "id": "tanguy.pruvot@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/tanguy.pruvot@gmail.com/manifest",
       "roms": {
         "umts_jordan": true
       },
-      "summary": "CyanogenMod Nighly builds. Experimental"
+      "summary": "CyanogenMod Nighly builds. tpruvot@github"
     },
     {
       "developer": "Einherjar Dev",
@@ -1845,7 +1845,7 @@
         "vibrantmtd": true,
         "vibrant": true
       },
-      "summary": "Top notch 7zip ROMs!"
+      "summary": "ROMs, with a side of metal."
     }
   ],
   "minversion": "4322"

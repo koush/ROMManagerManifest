@@ -25,12 +25,12 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
-      "developer": "CyanogenDefy",
+      "developer": "CyanogenMod Nightlies",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/541/e54eabca146dc177cd6af0b3baf7ead9.png",
+      "icon": "http://romshare.deployfu.com/downloads/541/19a6378b84a2561433b275a480eaeeed.png",
       "id": "tanguy.pruvot@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/tanguy.pruvot@gmail.com/manifest",
-      "summary": "CyanogenMod Nighly builds. Experimental"
+      "summary": "CyanogenMod Nighly builds. tpruvot@github"
     }
   ],
   "minversion": "4322"

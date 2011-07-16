@@ -94,6 +94,14 @@
       "free": "true",
       "manifest": "http://leedroid.ftp.rshost.eu/LeeDrOiD.js",
       "summary": "Sense Rom's, Kernel's & Goodie's"
+    },
+    {
+      "developer": "cstayton",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/546/7489780bf323b88233ae310c1c65a08e.png",
+      "id": "castayton@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/castayton@gmail.com/manifest",
+      "summary": "developer of StarDroid ROMS"
     }
   ],
   "minversion": "4322"

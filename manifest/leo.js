@@ -49,15 +49,15 @@
     },
     {
       "developer": "TyphooN CyanogenMod",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/146/24fb59de6489c544c6fd683b6a43e491.png",
-      "id": "cyanogenmodnightly",
-      "manifest": "http://romshare.deployfu.com/developer/cyanogenmodnightly/manifest",
+      "id": "do-not-use-cyanogenmod-nightly",
+      "manifest": "http://romshare.deployfu.com/developer/do-not-use-cyanogenmod-nightly/manifest",
       "summary": "The latest stock CyanogenMod 7 Desire (bravo) base ported to HD2 with the minimal amount of changes required.  No custom apps are included.  Visit the ROM's thread @ xda: http://forum.xda-developers.com/showthread.php?t=933951 ."
     },
     {
       "developer": "HardDroid2",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/438/21a895f66fddad535cf84ed37ccb425c.JPG",
       "id": "DeanoSoft_UK",
       "manifest": "http://romshare.deployfu.com/developer/DeanoSoft_UK/manifest",

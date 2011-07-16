@@ -26,11 +26,11 @@
     },
     {
       "developer": "CyanogenMod Nightlies",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/541/19a6378b84a2561433b275a480eaeeed.png",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/541/238d17d263165eb447d1c89d7d5bd891.png",
       "id": "tanguy.pruvot@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/tanguy.pruvot@gmail.com/manifest",
-      "summary": "CyanogenMod Nighly builds. tpruvot@github"
+      "summary": "CyanogenMod Nightly builds. tpruvot@github"
     }
   ],
   "minversion": "4322"

@@ -984,7 +984,7 @@
     },
     {
       "name": "Motorola Atrix 4G",
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p11 bs=4096 ; ",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p10 bs=4096 ; ",
       "version": "4.0.1.0",
       "init": "init_prep_keypad.sh",
       "key": "olympus"

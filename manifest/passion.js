@@ -83,7 +83,7 @@
     },
     {
       "developer": "DrewGaren Nightlies",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
       "id": "drewgarennightly",
       "manifest": "http://romshare.deployfu.com/developer/drewgarennightly/manifest",
@@ -91,7 +91,7 @@
     },
     {
       "developer": "E-XtremeMod",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/132/3bea45cb0d900947ae2ceb5399b617f3.png",
       "id": "extrememod",
       "manifest": "http://romshare.deployfu.com/developer/extrememod/manifest",
@@ -99,7 +99,7 @@
     },
     {
       "developer": "jbbandos",
-      "free": false,
+      "free": true,
       "id": "jbbandos",
       "manifest": "http://romshare.deployfu.com/developer/jbbandos/manifest",
       "summary": "Multi-language MIUI ROMs. No theme change, 3G, bluetooth and other tunings. Lean and fast."

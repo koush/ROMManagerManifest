@@ -97,7 +97,7 @@
     },
     {
       "developer": "cstayton",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/546/7489780bf323b88233ae310c1c65a08e.png",
       "id": "castayton@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/castayton@gmail.com/manifest",

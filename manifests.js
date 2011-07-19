@@ -1804,16 +1804,6 @@
       "summary": "Compiled Android 2.3.4 from CM Github with eye candy, speed, and tons of tweaks for performance/battery life/OC-UV-Smarta**-Compcache Kernel."
     },
     {
-      "developer": "jbbandos",
-      "free": false,
-      "id": "jbbandos",
-      "manifest": "http://romshare.deployfu.com/developer/jbbandos/manifest",
-      "roms": {
-        "passion": true
-      },
-      "summary": "Multi-language MIUI ROMs. No theme change, 3G, bluetooth and other tunings. Lean and fast."
-    },
-    {
       "developer": "roalex",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/107/236f3ca6074ca5d999aef037aae94244.png",
@@ -1825,15 +1815,14 @@
       "summary": "AOSP/CM Desire builds & Custom HTC Sense builds"
     },
     {
-      "developer": "CyanogenMod Nightlies",
+      "developer": "jbbandos",
       "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/541/238d17d263165eb447d1c89d7d5bd891.png",
-      "id": "tanguy.pruvot@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/tanguy.pruvot@gmail.com/manifest",
+      "id": "jbbandos",
+      "manifest": "http://romshare.deployfu.com/developer/jbbandos/manifest",
       "roms": {
-        "umts_jordan": true
+        "passion": true
       },
-      "summary": "CyanogenMod Nightly builds. tpruvot@github"
+      "summary": "Multi-language MIUI ROMs. No theme change, 3G, bluetooth and other tunings. Lean and fast."
     },
     {
       "developer": "cstayton",
@@ -1844,7 +1833,28 @@
       "roms": {
         "ace": true
       },
-      "summary": "developer of StarDroid ROMS"
+      "summary": "developer of StarDroid ROMS for your HTC Inspire and Desire HD"
+    },
+    {
+      "developer": "ldrifta@gmail.com",
+      "free": false,
+      "id": "ldrifta@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/ldrifta@gmail.com/manifest",
+      "roms": {
+        "dream": true
+      },
+      "summary": "ldrifta@gmail.com"
+    },
+    {
+      "developer": "aefreshkid97@gmail.com",
+      "free": false,
+      "id": "aefreshkid97@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/aefreshkid97@gmail.com/manifest",
+      "roms": {
+        "galaxys4g": true,
+        "olympus": true
+      },
+      "summary": "aefreshkid97@gmail.com"
     },
     {
       "developer": "Einherjar Dev",
@@ -1858,6 +1868,17 @@
         "vibrant": true
       },
       "summary": "ROMs, with a side of metal."
+    },
+    {
+      "developer": "CyanogenMod Nightlies",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/541/4158e7edc75c600607f05a3b063ffba1.png",
+      "id": "tanguy.pruvot@gmail.com",
+      "manifest": "http://defy.tanguy.tk/rm/custom.js",
+      "roms": {
+        "umts_jordan": true
+      },
+      "summary": "CyanogenMod Nightly builds. tpruvot@github"
     }
   ],
   "minversion": "4322"

@@ -61,6 +61,13 @@
       "id": "yohshua",
       "manifest": "http://romshare.deployfu.com/developer/yohshua/manifest",
       "summary": "all the ginger yoshi roms "
+    },
+    {
+      "developer": "ldrifta@gmail.com",
+      "free": false,
+      "id": "ldrifta@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/ldrifta@gmail.com/manifest",
+      "summary": "ldrifta@gmail.com"
     }
   ],
   "minversion": "4322"

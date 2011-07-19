@@ -101,7 +101,7 @@
       "icon": "http://romshare.deployfu.com/downloads/546/7489780bf323b88233ae310c1c65a08e.png",
       "id": "castayton@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/castayton@gmail.com/manifest",
-      "summary": "developer of StarDroid ROMS"
+      "summary": "developer of StarDroid ROMS for your HTC Inspire and Desire HD"
     }
   ],
   "minversion": "4322"

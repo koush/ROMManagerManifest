@@ -111,7 +111,9 @@
                 "zeppelin": "true",
                 "zero": "true" 
             },
-            "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds." 
+            "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these 
+
+builds." 
         },
         {
             "developer": "CyanogenMod Nightlies",
@@ -121,7 +123,9 @@
             "roms": {
                 "magic": "true" 
             },
-            "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds." 
+            "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these 
+
+builds." 
         },
         {
             "developer": "Extras",
@@ -1061,7 +1065,9 @@
             "roms": {
                 "leo": "true" 
             },
-            "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!" 
+            "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away 
+
+with Awesomeness!" 
         },
         {
             "developer": "TeamRC",
@@ -1185,7 +1191,9 @@
             "roms": {
                 "harmony": "true"
             },
-            "summary": "For P10AN01 compatible tablets (Advent Vega, Viewsonic Viewpad 100s, Smartbook Surfer 360, pov Mobii, ...) with integrated 3G modem"
+            "summary": "For P10AN01 compatible tablets (Advent Vega, Viewsonic Viewpad 100s, Smartbook Surfer 360, pov 
+
+Mobii, ...) with integrated 3G modem"
         },
         {
             "developer": "DeltaProject",
@@ -1215,7 +1223,9 @@
           "id": "cyanogenmodleonightly",
           "icon": "http://koush.kanged.net/cm/test/tdr.png",
           "manifest": "http://dl.dropbox.com/u/26430630/RM.js",
-          "summary": "CM7 Nightly builds, unofficially built by charansingh, AirforcPrductions and arif-ali. Very experimental and probably broken. Do not report bugs for these builds.",
+          "summary": "CM7 Nightly builds, unofficially built by charansingh, AirforcPrductions and arif-ali. Very 
+
+experimental and probably broken. Do not report bugs for these builds.",
           "roms": {
             "leo": "true"
           }
@@ -1288,6 +1298,17 @@
                 "ace": "true"
             },
               "summary": "Sense Rom's, Kernel's & Goodie's"
+        },
+	{
+            "developer": "AmbrosialROMs",
+    	    "free": "true",
+            "id": "RealPariah",
+            "icon": "http://www.ambrosialpariah.com/ambrosialcm7/images/rm.logo.png",
+            "manifest": "http://www.ambrosialpariah.com/ambrosialcm7/files/rom.man/acm.js",
+            "roms": {
+              "zeppelin": "true"
+            },
+              "summary": "ambrosialROMs: Adding the sizzle to the Bacon!"
         }
     ],
     "minversion": "4322"

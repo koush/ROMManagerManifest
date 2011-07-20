@@ -32,6 +32,14 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
+      "developer": "AmbrosialROMs",
+      "icon": "http://www.ambrosialpariah.com/ambrosialcm7/images/rm.logo.png",
+      "id": "RealPariah",
+      "free": "true",
+      "manifest": "http://www.ambrosialpariah.com/ambrosialcm7/files/rom.man/acm.js",
+      "summary": "ambrosialROMs: Adding the sizzle to the Bacon!"
+    },
+    {
       "developer": "ProyectAOSP",
       "free": true,
       "id": "Phoenixsong6 & DJGHOSTS3V3N",

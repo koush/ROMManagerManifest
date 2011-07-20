@@ -1287,6 +1287,17 @@
       "summary": "Sense Rom's, Kernel's & Goodie's"
     },
     {
+      "developer": "AmbrosialROMs",
+      "icon": "http://www.ambrosialpariah.com/ambrosialcm7/images/rm.logo.png",
+      "id": "RealPariah",
+      "free": "true",
+      "manifest": "http://www.ambrosialpariah.com/ambrosialcm7/files/rom.man/acm.js",
+      "roms": {
+        "zeppelin": "true"
+      },
+      "summary": "ambrosialROMs: Adding the sizzle to the Bacon!"
+    },
+    {
       "developer": "DrewGaren Nightlies",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1857,6 +1868,17 @@
       "summary": "aefreshkid97@gmail.com"
     },
     {
+      "developer": "SamCripp",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/550/6d520d99859e134dd32cd4132a8ac3d5.png",
+      "id": "samuel.r.rivera@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/samuel.r.rivera@gmail.com/manifest",
+      "roms": {
+        "olympus": true
+      },
+      "summary": "Atrix Roms"
+    },
+    {
       "developer": "Einherjar Dev",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/25/31d8c04d2622249a93100ffc1ed40a17.png",
@@ -1868,17 +1890,6 @@
         "vibrant": true
       },
       "summary": "ROMs, with a side of metal."
-    },
-    {
-      "developer": "CyanogenMod Nightlies",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/541/4158e7edc75c600607f05a3b063ffba1.png",
-      "id": "tanguy.pruvot@gmail.com",
-      "manifest": "http://defy.tanguy.tk/rm/custom.js",
-      "roms": {
-        "umts_jordan": true
-      },
-      "summary": "CyanogenMod Nightly builds. tpruvot@github"
     }
   ],
   "minversion": "4322"

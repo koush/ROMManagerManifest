@@ -38,13 +38,6 @@
       "free": "true",
       "manifest": "http://www.ambrosialpariah.com/ambrosialcm7/files/rom.man/acm.js",
       "summary": "ambrosialROMs: Adding the sizzle to the Bacon!"
-    },
-    {
-      "developer": "ProyectAOSP",
-      "free": true,
-      "id": "Phoenixsong6 & DJGHOSTS3V3N",
-      "manifest": "http://romshare.deployfu.com/developer/Phoenixsong6 & DJGHOSTS3V3N/manifest",
-      "summary": "Phoenixsong6 & DJGHOSTS3V3N: ProyectAOSP! Very fast series of ROMs, our goal is to compile every version of Android into a phone!"
     }
   ],
   "minversion": "4322"

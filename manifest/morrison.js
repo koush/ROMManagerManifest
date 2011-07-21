@@ -38,13 +38,6 @@
       "id": "TeamRogue",
       "manifest": "http://romshare.deployfu.com/developer/TeamRogue/manifest",
       "summary": "CyanogenMod 7 for the Motorola Cliq/Dext. DO NOT WIPE DATA/CACHE. Our ROM's have a wipe patch included. If you wipe, reinstall without wiping. Please remember DO NOT BACKUP ROM OR WIPE DATA/FACTORY RESET THROUGH ROM MANAGER! "
-    },
-    {
-      "developer": "ProyectAOSP",
-      "free": true,
-      "id": "Phoenixsong6 & DJGHOSTS3V3N",
-      "manifest": "http://romshare.deployfu.com/developer/Phoenixsong6 & DJGHOSTS3V3N/manifest",
-      "summary": "Phoenixsong6 & DJGHOSTS3V3N: ProyectAOSP! Very fast series of ROMs, our goal is to compile every version of Android into a phone!"
     }
   ],
   "minversion": "4322"

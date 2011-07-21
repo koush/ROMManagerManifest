@@ -1304,6 +1304,7 @@
       "id": "drewgarennightly",
       "manifest": "http://romshare.deployfu.com/developer/drewgarennightly/manifest",
       "roms": {
+        "shadow": true,
         "passion": true,
         "encore": true,
         "droidx": true
@@ -1793,17 +1794,6 @@
       "summary": "playfulgod@gmail.com"
     },
     {
-      "developer": "ProyectAOSP",
-      "free": true,
-      "id": "Phoenixsong6 & DJGHOSTS3V3N",
-      "manifest": "http://romshare.deployfu.com/developer/Phoenixsong6 & DJGHOSTS3V3N/manifest",
-      "roms": {
-        "zeppelin": true,
-        "morrison": true
-      },
-      "summary": "Phoenixsong6 & DJGHOSTS3V3N: ProyectAOSP! Very fast series of ROMs, our goal is to compile every version of Android into a phone!"
-    },
-    {
       "developer": "meXdroidMod rOmS",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/394/991fd69a0f32e66d8026b35c3a914259.jpg",
@@ -1877,6 +1867,27 @@
         "olympus": true
       },
       "summary": "Atrix Roms"
+    },
+    {
+      "developer": "Solstice",
+      "free": true,
+      "id": "laszlo.david@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/laszlo.david@gmail.com/manifest",
+      "roms": {
+        "bravo": true
+      },
+      "summary": "Simple AOSP ROM"
+    },
+    {
+      "developer": "CyanogenMod Nightlies",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/541/4158e7edc75c600607f05a3b063ffba1.png",
+      "id": "tanguy.pruvot@gmail.com",
+      "manifest": "http://defy.tanguy.tk/rm/custom.js",
+      "roms": {
+        "umts_jordan": true
+      },
+      "summary": "CyanogenMod Nightly builds. tpruvot@github"
     },
     {
       "developer": "Einherjar Dev",

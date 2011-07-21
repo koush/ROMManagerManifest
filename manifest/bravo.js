@@ -140,6 +140,13 @@
       "id": "roalex-bravo",
       "manifest": "http://romshare.deployfu.com/developer/roalex-bravo/manifest",
       "summary": "AOSP/CM Desire builds & Custom HTC Sense builds"
+    },
+    {
+      "developer": "Solstice",
+      "free": true,
+      "id": "laszlo.david@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/laszlo.david@gmail.com/manifest",
+      "summary": "Simple AOSP ROM"
     }
   ],
   "minversion": "4322"

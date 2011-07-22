@@ -1225,7 +1225,7 @@
           "free": "true",
           "id": "tilal6991",
           "icon": "http://ideosdevteamrom.sourceforge.net/icon.png",
-          "manifest": "http://ideosdevteamrom.sourceforge.net/manifest.js",
+          "manifest": "http://cloud.github.com/downloads/tilal6991/android_device_huawei_u8150/manifest.js",
           "roms": {
             "ideos": "true"
            },

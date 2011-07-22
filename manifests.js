@@ -1455,18 +1455,6 @@
       "summary": "OC Kernels for the Droid"
     },
     {
-      "developer": "phiremod",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/234/49168358de7756efa2aab68b0a3919d6.jpg",
-      "id": "phiredrop",
-      "manifest": "http://romshare.deployfu.com/developer/phiredrop/manifest",
-      "roms": {
-        "vibrant": true,
-        "encore": true
-      },
-      "summary": "Bringing you the best of Android."
-    },
-    {
       "developer": "GreenRomProject",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
@@ -1640,6 +1628,18 @@
         "mecha": true
       },
       "summary": "dsb9938 from XDA"
+    },
+    {
+      "developer": "phiremod",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/234/49168358de7756efa2aab68b0a3919d6.jpg",
+      "id": "phiredrop",
+      "manifest": "http://romshare.deployfu.com/developer/phiredrop/manifest",
+      "roms": {
+        "vibrant": true,
+        "encore": true
+      },
+      "summary": "Bringing you the best of Android."
     },
     {
       "developer": "JMCyanbreadMod ROM´s",
@@ -1879,17 +1879,6 @@
       "summary": "Simple AOSP ROM"
     },
     {
-      "developer": "CyanogenMod Nightlies",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/541/4158e7edc75c600607f05a3b063ffba1.png",
-      "id": "tanguy.pruvot@gmail.com",
-      "manifest": "http://defy.tanguy.tk/rm/custom.js",
-      "roms": {
-        "umts_jordan": true
-      },
-      "summary": "CyanogenMod Nightly builds. tpruvot@github"
-    },
-    {
       "developer": "Einherjar Dev",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/25/31d8c04d2622249a93100ffc1ed40a17.png",
@@ -1901,6 +1890,17 @@
         "vibrant": true
       },
       "summary": "ROMs, with a side of metal."
+    },
+    {
+      "developer": "CyanogenMod Nightlies",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/541/4158e7edc75c600607f05a3b063ffba1.png",
+      "id": "tanguy.pruvot@gmail.com",
+      "manifest": "http://defy.tanguy.tk/rm/custom.js",
+      "roms": {
+        "umts_jordan": true
+      },
+      "summary": "CyanogenMod Nightly builds. tpruvot@github"
     }
   ],
   "minversion": "4322"

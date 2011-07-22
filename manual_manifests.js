@@ -1221,17 +1221,6 @@
           }
         },
         {
-          "developer": "Ideos Dev Team",
-          "free": "true",
-          "id": "tilal6991",
-          "icon": "http://ideosdevteamrom.sourceforge.net/icon.png",
-          "manifest": "http://ideosdevteamrom.sourceforge.net/manifest.js",
-          "roms": {
-            "ideos": "true"
-           },
-           "summary": "ROMs for the Huawei Ideos U8150 from the Ideos Dev Team"
-        },
-        {
             "developer": "-=MDJ's ViVO Sense=-",
             "free": "true",
             "id": "mdj",

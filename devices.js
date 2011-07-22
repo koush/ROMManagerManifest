@@ -929,13 +929,6 @@
       "key": "galaxys2"
     },
     {
-      "name": "Samsung Galaxy S2 (CM7)",
-      "version": "4.0.1.4",
-      "init": "init.smdkv310.rc",
-      "readonly_recovery": true,
-      "key": "galaxys2"
-    },
-    {
       "name": "Samsung Sidekick 4G",
       "version": "4.0.0.2",
       "init": "init.smdkc110.rc",

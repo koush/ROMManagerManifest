@@ -46,7 +46,8 @@
         "buzz": "true",
         "z71": "true",
         "heroc": "true",
-        "zero": "true"
+        "zero": "true",
+        "galaxys2": "true"
       },
       "summary": "Mods and bacon for your phone"
     },
@@ -107,7 +108,8 @@
         "buzz": "true",
         "z71": "true",
         "heroc": "true",
-        "zero": "true"
+        "zero": "true",
+        "galaxys2": "true"
       },
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },

@@ -1218,17 +1218,6 @@
       "summary": "CM7 Nightly builds, unofficially built by charansingh, AirforcPrductions and arif-ali. Very experimental and probably broken. Do not report bugs for these builds."
     },
     {
-      "developer": "Ideos Dev Team",
-      "icon": "http://ideosdevteamrom.sourceforge.net/icon.png",
-      "id": "tilal6991",
-      "free": "true",
-      "manifest": "http://ideosdevteamrom.sourceforge.net/manifest.js",
-      "roms": {
-        "ideos": "true"
-      },
-      "summary": "ROMs for the Huawei Ideos U8150 from the Ideos Dev Team"
-    },
-    {
       "developer": "-=MDJ's ViVO Sense=-",
       "icon": "http://mdeejay.vpnonline.org/RomManagerManifest/logo.png",
       "id": "mdj",
@@ -1890,6 +1879,17 @@
         "vibrant": true
       },
       "summary": "ROMs, with a side of metal."
+    },
+    {
+      "developer": "tilal6991",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/250/ba66421c10863d65957a42c5a3dddf51.png",
+      "id": "tilal6991",
+      "manifest": "http://cloud.github.com/downloads/tilal6991/android_device_huawei_u8150/manifest.js",
+      "roms": {
+        "ideos": true
+      },
+      "summary": "lalitmaganti@gmail.com"
     },
     {
       "developer": "CyanogenMod Nightlies",

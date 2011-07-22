@@ -1881,7 +1881,7 @@
       "summary": "ROMs, with a side of metal."
     },
     {
-      "developer": "tilal6991",
+      "developer": "Ideos Dev Team ROMs",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/250/ba66421c10863d65957a42c5a3dddf51.png",
       "id": "tilal6991",
@@ -1889,7 +1889,7 @@
       "roms": {
         "ideos": true
       },
-      "summary": "lalitmaganti@gmail.com"
+      "summary": "ROMs for the Huawei U8150 Ideos from the Ideos Dev Team"
     },
     {
       "developer": "CyanogenMod Nightlies",

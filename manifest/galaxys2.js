@@ -52,7 +52,7 @@
       "icon": "http://romshare.deployfu.com/downloads/339/8dd093a4462d8bdde073c89f6d21d978.png",
       "id": "rtfrodrigo@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/rtfrodrigo@gmail.com/manifest",
-      "summary": "Smoothest, Fastest, Gorgeous all the best stuff in one rom. Try and let us know your feedback"
+      "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback"
     }
   ],
   "minversion": "4322"

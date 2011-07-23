@@ -1867,7 +1867,7 @@
         "galaxys2": true,
         "galaxysmtd": true
       },
-      "summary": "Smoothest, Fastest, Gorgeous all the best stuff in one rom. Try and let us know your feedback"
+      "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback"
     },
     {
       "developer": "Einherjar Dev",
@@ -1881,6 +1881,16 @@
         "vibrant": true
       },
       "summary": "ROMs, with a side of metal."
+    },
+    {
+      "developer": "Solstice",
+      "free": false,
+      "id": "laszlo.david@gmail.com",
+      "manifest": "http://dlaszlo.github.com/ROMManagerManifest/manifest.js",
+      "roms": {
+        "bravo": true
+      },
+      "summary": "Simple AOSP ROM"
     },
     {
       "developer": "Ideos Dev Team ROMs",

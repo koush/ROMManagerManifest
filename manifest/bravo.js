@@ -144,6 +144,7 @@
     {
       "developer": "Solstice",
       "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/530/b3d811a94f5dee773a77b2ebb02dce4e.png",
       "id": "laszlo.david@gmail.com",
       "manifest": "http://dlaszlo.github.com/ROMManagerManifest/manifest.js",
       "summary": "Simple AOSP ROM"

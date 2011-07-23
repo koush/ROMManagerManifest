@@ -1904,15 +1904,15 @@
       "summary": "ROMs for the Huawei U8150 Ideos from the Ideos Dev Team"
     },
     {
-      "developer": "LoveBoatCaptain",
+      "developer": "ClearDroid",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/571/2746980bc7f0809f512d0b20e608fcc0.png",
-      "id": "loveboatcaptain",
-      "manifest": "http://ota.saga-lbc-mod.de/rommanager/manifest.js",
+      "icon": "http://romshare.deployfu.com/downloads/572/bf87a0b19367bf4eaeb51057e455b2eb.png",
+      "id": "ClearD",
+      "manifest": "http://www.techsupporteverything.com/download/manifest.js",
       "roms": {
-        "saga": true
+        "ace": true
       },
-      "summary": "Saga LBC Mod - Android Development"
+      "summary": "ClearDroid ROM for Inspire 4G. The most stable ROM available for the Inspire."
     },
     {
       "developer": "CyanogenMod Nightlies",

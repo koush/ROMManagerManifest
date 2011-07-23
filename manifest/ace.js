@@ -102,6 +102,14 @@
       "id": "castayton@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/castayton@gmail.com/manifest",
       "summary": "developer of StarDroid ROMS for your HTC Inspire and Desire HD"
+    },
+    {
+      "developer": "ClearDroid",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/572/bf87a0b19367bf4eaeb51057e455b2eb.png",
+      "id": "ClearD",
+      "manifest": "http://www.techsupporteverything.com/download/manifest.js",
+      "summary": "ClearDroid ROM for Inspire 4G. The most stable ROM available for the Inspire."
     }
   ],
   "minversion": "4322"

@@ -1924,7 +1924,18 @@
         "umts_jordan": true
       },
       "summary": "CyanogenMod Nightly builds. tpruvot@github"
-    }
+    },
+    {
+      "developer": "LoveBoatCaptain",
+      "free": "true",
+      "id": "loveboatcaptain",
+      "icon": "http://ota.saga-lbc-mod.de/rommanager/icon.png",
+      "manifest": "http://ota.saga-lbc-mod.de/rommanager/manifest.js",
+      "roms": {
+        "saga": "true"
+      },
+      "summary": "Saga LBC Mod for HTC Desire S"
+     }
   ],
   "minversion": "4322"
 }

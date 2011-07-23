@@ -15,7 +15,15 @@
       "free": "true",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
-    }
+    },
+    {
+      "developer": "LoveBoatCaptain",
+      "free": "true",
+      "id": "loveboatcaptain",
+      "icon": "http://ota.saga-lbc-mod.de/rommanager/icon.png",
+      "manifest": "http://ota.saga-lbc-mod.de/rommanager/manifest.js",
+      "summary": "Saga LBC Mod for HTC Desire S"
+     },
   ],
   "minversion": "4322"
 }

@@ -143,7 +143,7 @@
     },
     {
       "developer": "Solstice",
-      "free": false,
+      "free": true,
       "id": "laszlo.david@gmail.com",
       "manifest": "http://dlaszlo.github.com/ROMManagerManifest/manifest.js",
       "summary": "Simple AOSP ROM"

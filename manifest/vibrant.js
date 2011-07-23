@@ -58,7 +58,7 @@
     },
     {
       "developer": "Einherjar Dev",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/25/31d8c04d2622249a93100ffc1ed40a17.png",
       "id": "einherjar",
       "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",

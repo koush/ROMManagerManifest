@@ -26,7 +26,7 @@
     },
     {
       "developer": "Ideos Dev Team ROMs",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/250/ba66421c10863d65957a42c5a3dddf51.png",
       "id": "tilal6991",
       "manifest": "http://cloud.github.com/downloads/tilal6991/android_device_huawei_u8150/manifest.js",

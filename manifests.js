@@ -1871,7 +1871,7 @@
     },
     {
       "developer": "Solstice",
-      "free": false,
+      "free": true,
       "id": "laszlo.david@gmail.com",
       "manifest": "http://dlaszlo.github.com/ROMManagerManifest/manifest.js",
       "roms": {
@@ -1881,7 +1881,7 @@
     },
     {
       "developer": "Einherjar Dev",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/25/31d8c04d2622249a93100ffc1ed40a17.png",
       "id": "einherjar",
       "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
@@ -1893,19 +1893,8 @@
       "summary": "ROMs, with a side of metal."
     },
     {
-      "developer": "LoveBoatCaptain",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/571/2746980bc7f0809f512d0b20e608fcc0.png",
-      "id": "loveboatcaptain",
-      "manifest": "http://ota.saga-lbc-mod.de/rommanager/manifest.js",
-      "roms": {
-        "saga": true
-      },
-      "summary": "Saga LBC Mod - Android Development"
-    },
-    {
       "developer": "Ideos Dev Team ROMs",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/250/ba66421c10863d65957a42c5a3dddf51.png",
       "id": "tilal6991",
       "manifest": "http://cloud.github.com/downloads/tilal6991/android_device_huawei_u8150/manifest.js",
@@ -1915,8 +1904,19 @@
       "summary": "ROMs for the Huawei U8150 Ideos from the Ideos Dev Team"
     },
     {
+      "developer": "LoveBoatCaptain",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/571/2746980bc7f0809f512d0b20e608fcc0.png",
+      "id": "loveboatcaptain",
+      "manifest": "http://ota.saga-lbc-mod.de/rommanager/manifest.js",
+      "roms": {
+        "saga": true
+      },
+      "summary": "Saga LBC Mod - Android Development"
+    },
+    {
       "developer": "CyanogenMod Nightlies",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/541/4158e7edc75c600607f05a3b063ffba1.png",
       "id": "tanguy.pruvot@gmail.com",
       "manifest": "http://defy.tanguy.tk/rm/custom.js",

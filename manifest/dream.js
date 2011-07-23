@@ -56,7 +56,7 @@
     },
     {
       "developer": "Ginger yoshi ^_^",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/294/b0c8e3dee633ac3d0f6ce3352389943b.png",
       "id": "yohshua",
       "manifest": "http://romshare.deployfu.com/developer/yohshua/manifest",
@@ -64,7 +64,7 @@
     },
     {
       "developer": "ldrifta@gmail.com",
-      "free": true,
+      "free": false,
       "id": "ldrifta@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/ldrifta@gmail.com/manifest",
       "summary": "ldrifta@gmail.com"

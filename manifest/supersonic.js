@@ -141,7 +141,7 @@
     },
     {
       "developer": "Clark44",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/315/fa526fadb52216d09110cf18e5fd5047.jpg",
       "id": "Clark44",
       "manifest": "http://romshare.deployfu.com/developer/Clark44/manifest",

@@ -22,14 +22,6 @@
       "free": "true",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
-    },
-    {
-      "developer": "DrewGaren Nightlies",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
-      "id": "drewgarennightly",
-      "manifest": "http://romshare.deployfu.com/developer/drewgarennightly/manifest",
-      "summary": "DrewGaren Beta Roms Nightly Builds!"
     }
   ],
   "minversion": "4322"

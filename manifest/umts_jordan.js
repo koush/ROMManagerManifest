@@ -26,7 +26,7 @@
     },
     {
       "developer": "CyanogenMod Nightlies",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/541/4158e7edc75c600607f05a3b063ffba1.png",
       "id": "tanguy.pruvot@gmail.com",
       "manifest": "http://defy.tanguy.tk/rm/custom.js",

@@ -62,19 +62,11 @@
     },
     {
       "developer": "DarkyROM",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/124/e975fb9db2047ee42b84d4d65f612fcd.png",
       "id": "darkyy92@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/darkyy92@gmail.com/manifest",
       "summary": "Clean, fast & customizable Samsung Galaxy S ROM."
-    },
-    {
-      "developer": "RTFPeSSoa",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/339/f6a41127e16e31ff95b54b3212e87647.png",
-      "id": "rtfrodrigo@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/rtfrodrigo@gmail.com/manifest",
-      "summary": "New ROM and THEME for Our Galaxy S I9000. Very Fast, include all the usual tweaks and much more...(FIRST BOOT CAN TAKE 10 MINUTES OR EVEN MORE BE PATIENTE)"
     }
   ],
   "minversion": "4322"

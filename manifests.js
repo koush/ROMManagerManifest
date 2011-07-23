@@ -1870,6 +1870,16 @@
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback"
     },
     {
+      "developer": "Solstice",
+      "free": false,
+      "id": "laszlo.david@gmail.com",
+      "manifest": "http://dlaszlo.github.com/ROMManagerManifest/manifest.js",
+      "roms": {
+        "bravo": true
+      },
+      "summary": "Simple AOSP ROM"
+    },
+    {
       "developer": "Einherjar Dev",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/25/31d8c04d2622249a93100ffc1ed40a17.png",
@@ -1883,16 +1893,6 @@
       "summary": "ROMs, with a side of metal."
     },
     {
-      "developer": "Solstice",
-      "free": false,
-      "id": "laszlo.david@gmail.com",
-      "manifest": "http://dlaszlo.github.com/ROMManagerManifest/manifest.js",
-      "roms": {
-        "bravo": true
-      },
-      "summary": "Simple AOSP ROM"
-    },
-    {
       "developer": "Ideos Dev Team ROMs",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/250/ba66421c10863d65957a42c5a3dddf51.png",
@@ -1902,6 +1902,17 @@
         "ideos": true
       },
       "summary": "ROMs for the Huawei U8150 Ideos from the Ideos Dev Team"
+    },
+    {
+      "developer": "LoveBoatCaptain",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/571/ee60f4446a3f08e536b407dd304afdea.png",
+      "id": "loveboatcaptain",
+      "manifest": "http://ota.saga-lbc-mod.de/rommanager/manifest.js",
+      "roms": {
+        "saga": true
+      },
+      "summary": "Saga LBC Mod - Android Development"
     },
     {
       "developer": "CyanogenMod Nightlies",

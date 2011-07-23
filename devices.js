@@ -923,9 +923,13 @@
     },
     {
       "name": "Samsung Galaxy S2",
-      "version": "4.0.1.4",
+      "version": "4.0.1.5",
       "init": "init.smdkc210.rc",
       "readonly_recovery": true,
+      "legacy_versions": [
+        "4.0.1.4",
+        "v4.0.1.4"
+      ],
       "key": "galaxys2"
     },
     {

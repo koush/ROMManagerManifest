@@ -1893,6 +1893,17 @@
       "summary": "ROMs, with a side of metal."
     },
     {
+      "developer": "LoveBoatCaptain",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/571/2746980bc7f0809f512d0b20e608fcc0.png",
+      "id": "loveboatcaptain",
+      "manifest": "http://ota.saga-lbc-mod.de/rommanager/manifest.js",
+      "roms": {
+        "saga": true
+      },
+      "summary": "Saga LBC Mod - Android Development"
+    },
+    {
       "developer": "Ideos Dev Team ROMs",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/250/ba66421c10863d65957a42c5a3dddf51.png",
@@ -1902,17 +1913,6 @@
         "ideos": true
       },
       "summary": "ROMs for the Huawei U8150 Ideos from the Ideos Dev Team"
-    },
-    {
-      "developer": "LoveBoatCaptain",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/571/ee60f4446a3f08e536b407dd304afdea.png",
-      "id": "loveboatcaptain",
-      "manifest": "http://ota.saga-lbc-mod.de/rommanager/manifest.js",
-      "roms": {
-        "saga": true
-      },
-      "summary": "Saga LBC Mod - Android Development"
     },
     {
       "developer": "CyanogenMod Nightlies",

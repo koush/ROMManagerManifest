@@ -19,7 +19,7 @@
     {
       "developer": "LoveBoatCaptain",
       "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/571/ee60f4446a3f08e536b407dd304afdea.png",
+      "icon": "http://romshare.deployfu.com/downloads/571/2746980bc7f0809f512d0b20e608fcc0.png",
       "id": "loveboatcaptain",
       "manifest": "http://ota.saga-lbc-mod.de/rommanager/manifest.js",
       "summary": "Saga LBC Mod - Android Development"

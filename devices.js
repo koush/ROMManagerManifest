@@ -740,6 +740,20 @@
       "officially_supported": false
     },
     {
+      "name": "Showcase (MTD)",
+      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
+      "init": "init.aries.rc",
+      "key": "showcasemtd",
+      "officially_supported": false
+    },
+    {
+      "name": "Mesmerize (MTD)",
+      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
+      "init": "init.aries.rc",
+      "key": "mesmerizemtd",
+      "officially_supported": false
+    },
+      {
       "name": "Fascinate (MTD)",
       "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "init": "init.aries.rc",

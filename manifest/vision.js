@@ -100,6 +100,14 @@
       "id": "mjybarr@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/mjybarr@gmail.com/manifest",
       "summary": "Compiled Android 2.3.4 from CM Github with eye candy, speed, and tons of tweaks for performance/battery life/OC-UV-Smarta**-Compcache Kernel."
+    },
+    {
+      "developer": "markhedley1980@gmail.com",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
+      "id": "markhedley1980@gmail.com",
+      "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
+      "summary": "markhedley1980@gmail.com"
     }
   ],
   "minversion": "4322"

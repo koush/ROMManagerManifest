@@ -1852,17 +1852,6 @@
       "summary": "random stuffs"
     },
     {
-      "developer": "MIUI-PT",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
-      "id": "miuiportugal@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/miuiportugal@gmail.com/manifest",
-      "roms": {
-        "galaxysmtd": true
-      },
-      "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
-    },
-    {
       "developer": "cstayton",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/546/7489780bf323b88233ae310c1c65a08e.png",
@@ -1909,6 +1898,51 @@
       "summary": "ROMs, with a side of metal."
     },
     {
+      "developer": "Ideos Dev Team ROMs",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/250/ba66421c10863d65957a42c5a3dddf51.png",
+      "id": "tilal6991",
+      "manifest": "http://cloud.github.com/downloads/tilal6991/android_device_huawei_u8150/manifest.js",
+      "roms": {
+        "ideos": true
+      },
+      "summary": "ROMs for the Huawei U8150 Ideos from the Ideos Dev Team"
+    },
+    {
+      "developer": "ClearDroid",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/572/bf87a0b19367bf4eaeb51057e455b2eb.png",
+      "id": "ClearD",
+      "manifest": "http://www.techsupporteverything.com/download/manifest.js",
+      "roms": {
+        "ace": true
+      },
+      "summary": "ClearDroid ROM for Inspire 4G. Inspire-based, with the choice of a stock feel or the ClearDroid ModPack. The most stable ROM available for the Inspire."
+    },
+    {
+      "developer": "Saga LBC Mod",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/573/8bf50ca36993e1e97aa0bf47bcc8f043.png",
+      "id": "loveboatcaptain",
+      "manifest": "http://ota.saga-lbc-mod.de/rommanager/manifest.js",
+      "roms": {
+        "saga": true
+      },
+      "summary": "LoveBoatCaptain - Android Development"
+    },
+    {
+      "developer": "MIUI-PT",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
+      "id": "miuiportugal@gmail.com",
+      "manifest": "http://www.files.miui-pt.com/files/roms/1.7.22/simplemanifest.js",
+      "roms": {
+        "one": true,
+        "galaxysmtd": true
+      },
+      "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
+    },
+    {
       "developer": "AmbrosialROMs",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/558/8206d5091d0ed4afc3f0bf148e9b4191.png",
@@ -1926,53 +1960,19 @@
       "id": "markhedley1980@gmail.com",
       "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
       "roms": {
-        "ace": true
+        "leo": true,
+        "vibrantmtd": true,
+        "passion": true,
+        "galaxys": true,
+        "bravo": true,
+        "umts_jordan": true,
+        "ace": true,
+        "captivatemtd": true,
+        "crespo": true,
+        "vision": true,
+        "umts_sholes": true
       },
       "summary": "markhedley1980@gmail.com"
-    },
-    {
-      "developer": "Saga LBC Mod",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/573/8bf50ca36993e1e97aa0bf47bcc8f043.png",
-      "id": "loveboatcaptain",
-      "manifest": "http://ota.saga-lbc-mod.de/rommanager/manifest.js",
-      "roms": {
-        "saga": true
-      },
-      "summary": "LoveBoatCaptain - Android Development"
-    },
-    {
-      "developer": "ClearDroid",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/572/bf87a0b19367bf4eaeb51057e455b2eb.png",
-      "id": "ClearD",
-      "manifest": "http://www.techsupporteverything.com/download/manifest.js",
-      "roms": {
-        "ace": true
-      },
-      "summary": "ClearDroid ROM for Inspire 4G. Inspire-based, with the choice of a stock feel or the ClearDroid ModPack. The most stable ROM available for the Inspire."
-    },
-    {
-      "developer": "CyanogenMod Nightlies",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/541/4158e7edc75c600607f05a3b063ffba1.png",
-      "id": "tanguy.pruvot@gmail.com",
-      "manifest": "http://defy.tanguy.tk/rm/custom.js",
-      "roms": {
-        "umts_jordan": true
-      },
-      "summary": "CyanogenMod Nightly builds. tpruvot@github"
-    },
-    {
-      "developer": "Ideos Dev Team ROMs",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/250/ba66421c10863d65957a42c5a3dddf51.png",
-      "id": "tilal6991",
-      "manifest": "http://cloud.github.com/downloads/tilal6991/android_device_huawei_u8150/manifest.js",
-      "roms": {
-        "ideos": true
-      },
-      "summary": "ROMs for the Huawei U8150 Ideos from the Ideos Dev Team"
     }
   ],
   "minversion": "4322"

@@ -25,12 +25,12 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
-      "developer": "CyanogenMod Nightlies",
+      "developer": "markhedley1980@gmail.com",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/541/4158e7edc75c600607f05a3b063ffba1.png",
-      "id": "tanguy.pruvot@gmail.com",
-      "manifest": "http://defy.tanguy.tk/rm/custom.js",
-      "summary": "CyanogenMod Nightly builds. tpruvot@github"
+      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
+      "id": "markhedley1980@gmail.com",
+      "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
+      "summary": "markhedley1980@gmail.com"
     }
   ],
   "minversion": "4322"

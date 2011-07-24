@@ -30,6 +30,14 @@
       "free": "true",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
+    },
+    {
+      "developer": "MIUI-PT",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
+      "id": "miuiportugal@gmail.com",
+      "manifest": "http://www.files.miui-pt.com/files/roms/1.7.22/simplemanifest.js",
+      "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
     }
   ],
   "minversion": "4322"

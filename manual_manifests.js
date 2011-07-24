@@ -711,7 +711,7 @@
                 "glacier": "true",
                 "inc": "true",
                 "leo": "true",
-                "mesmerizemtd", "true",
+                "mesmerizemtd": "true",
                 "passion": "true",
                 "shadow": "true",
                 "sholes": "true",

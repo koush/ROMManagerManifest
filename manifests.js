@@ -1854,14 +1854,35 @@
     {
       "developer": "MIUI-PT",
       "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/339/8dd093a4462d8bdde073c89f6d21d978.png",
-      "id": "rtfrodrigo@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/rtfrodrigo@gmail.com/manifest",
+      "icon": "http://romshare.deployfu.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
+      "id": "miuiportugal@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/miuiportugal@gmail.com/manifest",
       "roms": {
-        "galaxys2": true,
         "galaxysmtd": true
       },
-      "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback"
+      "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
+    },
+    {
+      "developer": "cstayton",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/546/7489780bf323b88233ae310c1c65a08e.png",
+      "id": "castayton@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/castayton@gmail.com/manifest",
+      "roms": {
+        "ace": true
+      },
+      "summary": "developer of StarDroid ROMS for your HTC Inspire and Desire HD"
+    },
+    {
+      "developer": "Solstice",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/530/d45f727409f37121864a24391106b1f0.png",
+      "id": "laszlo.david@gmail.com",
+      "manifest": "http://dlaszlo.github.com/ROMManagerManifest/manifest.js",
+      "roms": {
+        "bravo": true
+      },
+      "summary": "Simple AOSP ROM"
     },
     {
       "developer": "Einherjar Dev",
@@ -1877,15 +1898,15 @@
       "summary": "ROMs, with a side of metal."
     },
     {
-      "developer": "Solstice",
+      "developer": "Ideos Dev Team ROMs",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/530/b3d811a94f5dee773a77b2ebb02dce4e.png",
-      "id": "laszlo.david@gmail.com",
-      "manifest": "http://dlaszlo.github.com/ROMManagerManifest/manifest.js",
+      "icon": "http://romshare.deployfu.com/downloads/250/ba66421c10863d65957a42c5a3dddf51.png",
+      "id": "tilal6991",
+      "manifest": "http://cloud.github.com/downloads/tilal6991/android_device_huawei_u8150/manifest.js",
       "roms": {
-        "bravo": true
+        "ideos": true
       },
-      "summary": "Simple AOSP ROM"
+      "summary": "ROMs for the Huawei U8150 Ideos from the Ideos Dev Team"
     },
     {
       "developer": "ClearDroid",
@@ -1896,7 +1917,7 @@
       "roms": {
         "ace": true
       },
-      "summary": "ClearDroid ROM for Inspire 4G. The most stable ROM available for the Inspire."
+      "summary": "ClearDroid ROM for Inspire 4G. Inspire-based, with the choice of a stock feel or the ClearDroid ModPack. The most stable ROM available for the Inspire."
     },
     {
       "developer": "Saga LBC Mod",
@@ -1910,17 +1931,6 @@
       "summary": "LoveBoatCaptain - Android Development"
     },
     {
-      "developer": "Ideos Dev Team ROMs",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/250/ba66421c10863d65957a42c5a3dddf51.png",
-      "id": "tilal6991",
-      "manifest": "http://cloud.github.com/downloads/tilal6991/android_device_huawei_u8150/manifest.js",
-      "roms": {
-        "ideos": true
-      },
-      "summary": "ROMs for the Huawei U8150 Ideos from the Ideos Dev Team"
-    },
-    {
       "developer": "CyanogenMod Nightlies",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/541/4158e7edc75c600607f05a3b063ffba1.png",
@@ -1930,6 +1940,17 @@
         "umts_jordan": true
       },
       "summary": "CyanogenMod Nightly builds. tpruvot@github"
+    },
+    {
+      "developer": "AmbrosialROMs",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/558/8206d5091d0ed4afc3f0bf148e9b4191.png",
+      "id": "RealPariah",
+      "manifest": "http://www.ambrosialpariah.com/ambrosialcm7/files/rom.man/acm.js",
+      "roms": {
+        "zeppelin": true
+      },
+      "summary": "AmbrosialROMS: Bringing More Sizzle to the Bacon!"
     }
   ],
   "minversion": "4322"

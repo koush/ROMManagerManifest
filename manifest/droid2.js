@@ -47,6 +47,14 @@
       "summary": "All Build.prop Mods to Date"
     },
     {
+      "developer": "MIUI.us",
+      "free": "true",
+      "icon": "http://roms.miui.us/images/miuius.png",
+      "id": "miuius",
+      "manifest": "http://roms.miui.us/manifest/rommanager.js",
+      "summary": "MIUI releases by MIUI.us"
+    },
+    {
       "developer": "GummyJAR",
       "id": "kejar31",
       "free": "true",

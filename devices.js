@@ -740,6 +740,13 @@
       "officially_supported": false
     },
     {
+      "name": "Fascinate (MTD)",
+      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
+      "init": "init.aries.rc",
+      "key": "fascinatemtd",
+      "officially_supported": false
+    },
+    {
       "name": "Vibrant (MTD)",
       "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "init": "init.aries.rc",

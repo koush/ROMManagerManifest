@@ -696,6 +696,9 @@
       "roms": {
         "leo": "true",
         "vivow": "true",
+        "shadow": "true",
+        "droid2": "true",
+        "vivo": "true",
         "passion": "true",
         "galaxys": "true",
         "umts_jordan": "true",
@@ -714,7 +717,9 @@
         "supersonic": "true",
         "inc": "true",
         "encore": "true",
-        "crespo": "true"
+        "crespo": "true",
+        "showcasemtd": "true",
+        "mesmerizemtd": "true"
       },
       "summary": "MIUI releases by MIUI.us"
     },
@@ -1805,17 +1810,6 @@
       "summary": "Multi-language MIUI ROMs. No theme change, 3G, bluetooth and other tunings. Lean and fast."
     },
     {
-      "developer": "cstayton",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/546/7489780bf323b88233ae310c1c65a08e.png",
-      "id": "castayton@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/castayton@gmail.com/manifest",
-      "roms": {
-        "ace": true
-      },
-      "summary": "developer of StarDroid ROMS for your HTC Inspire and Desire HD"
-    },
-    {
       "developer": "ldrifta@gmail.com",
       "free": false,
       "id": "ldrifta@gmail.com",
@@ -1883,6 +1877,17 @@
       "summary": "ROMs, with a side of metal."
     },
     {
+      "developer": "Solstice",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/530/b3d811a94f5dee773a77b2ebb02dce4e.png",
+      "id": "laszlo.david@gmail.com",
+      "manifest": "http://dlaszlo.github.com/ROMManagerManifest/manifest.js",
+      "roms": {
+        "bravo": true
+      },
+      "summary": "Simple AOSP ROM"
+    },
+    {
       "developer": "Saga LBC Mod",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/573/8bf50ca36993e1e97aa0bf47bcc8f043.png",
@@ -1894,15 +1899,15 @@
       "summary": "LoveBoatCaptain - Android Development"
     },
     {
-      "developer": "Ideos Dev Team ROMs",
+      "developer": "ClearDroid",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/250/ba66421c10863d65957a42c5a3dddf51.png",
-      "id": "tilal6991",
-      "manifest": "http://cloud.github.com/downloads/tilal6991/android_device_huawei_u8150/manifest.js",
+      "icon": "http://romshare.deployfu.com/downloads/572/bf87a0b19367bf4eaeb51057e455b2eb.png",
+      "id": "ClearD",
+      "manifest": "http://www.techsupporteverything.com/download/manifest.js",
       "roms": {
-        "ideos": true
+        "ace": true
       },
-      "summary": "ROMs for the Huawei U8150 Ideos from the Ideos Dev Team"
+      "summary": "ClearDroid ROM for Inspire 4G. The most stable ROM available for the Inspire."
     },
     {
       "developer": "CyanogenMod Nightlies",
@@ -1916,26 +1921,15 @@
       "summary": "CyanogenMod Nightly builds. tpruvot@github"
     },
     {
-      "developer": "Solstice",
+      "developer": "Ideos Dev Team ROMs",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/530/b3d811a94f5dee773a77b2ebb02dce4e.png",
-      "id": "laszlo.david@gmail.com",
-      "manifest": "http://dlaszlo.github.com/ROMManagerManifest/manifest.js",
+      "icon": "http://romshare.deployfu.com/downloads/250/ba66421c10863d65957a42c5a3dddf51.png",
+      "id": "tilal6991",
+      "manifest": "http://cloud.github.com/downloads/tilal6991/android_device_huawei_u8150/manifest.js",
       "roms": {
-        "bravo": true
+        "ideos": true
       },
-      "summary": "Simple AOSP ROM"
-    },
-    {
-      "developer": "ClearDroid",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/572/bf87a0b19367bf4eaeb51057e455b2eb.png",
-      "id": "ClearD",
-      "manifest": "http://www.techsupporteverything.com/download/manifest.js",
-      "roms": {
-        "ace": true
-      },
-      "summary": "ClearDroid ROM for Inspire 4G. The most stable ROM available for the Inspire."
+      "summary": "ROMs for the Huawei U8150 Ideos from the Ideos Dev Team"
     }
   ],
   "minversion": "4322"

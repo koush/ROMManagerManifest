@@ -1874,6 +1874,17 @@
       "summary": "developer of StarDroid ROMS for your HTC Inspire and Desire HD"
     },
     {
+      "developer": "Codeworkx",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/51/b1939ede73c42c69d8e2c3f1f34f3265.png",
+      "id": "daniel.hillenbrand@codeworkx.de",
+      "manifest": "http://romshare.deployfu.com/developer/daniel.hillenbrand@codeworkx.de/manifest",
+      "roms": {
+        "galaxys2": true
+      },
+      "summary": "Usefull Stuff for Galaxy S Phones"
+    },
+    {
       "developer": "Solstice",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/530/d45f727409f37121864a24391106b1f0.png",
@@ -1898,26 +1909,26 @@
       "summary": "ROMs, with a side of metal."
     },
     {
-      "developer": "Ideos Dev Team ROMs",
+      "developer": "AmbrosialROMs",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/250/ba66421c10863d65957a42c5a3dddf51.png",
-      "id": "tilal6991",
-      "manifest": "http://cloud.github.com/downloads/tilal6991/android_device_huawei_u8150/manifest.js",
+      "icon": "http://romshare.deployfu.com/downloads/558/8206d5091d0ed4afc3f0bf148e9b4191.png",
+      "id": "RealPariah",
+      "manifest": "http://www.ambrosialpariah.com/ambrosialcm7/files/rom.man/acm.js",
       "roms": {
-        "ideos": true
+        "zeppelin": true
       },
-      "summary": "ROMs for the Huawei U8150 Ideos from the Ideos Dev Team"
+      "summary": "AmbrosialROMS: Bringing More Sizzle to the Bacon!"
     },
     {
-      "developer": "ClearDroid",
+      "developer": "markhedley1980@gmail.com",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/572/bf87a0b19367bf4eaeb51057e455b2eb.png",
-      "id": "ClearD",
-      "manifest": "http://www.techsupporteverything.com/download/manifest.js",
+      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
+      "id": "markhedley1980@gmail.com",
+      "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
       "roms": {
         "ace": true
       },
-      "summary": "ClearDroid ROM for Inspire 4G. Inspire-based, with the choice of a stock feel or the ClearDroid ModPack. The most stable ROM available for the Inspire."
+      "summary": "markhedley1980@gmail.com"
     },
     {
       "developer": "Saga LBC Mod",
@@ -1931,6 +1942,17 @@
       "summary": "LoveBoatCaptain - Android Development"
     },
     {
+      "developer": "ClearDroid",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/572/bf87a0b19367bf4eaeb51057e455b2eb.png",
+      "id": "ClearD",
+      "manifest": "http://www.techsupporteverything.com/download/manifest.js",
+      "roms": {
+        "ace": true
+      },
+      "summary": "ClearDroid ROM for Inspire 4G. Inspire-based, with the choice of a stock feel or the ClearDroid ModPack. The most stable ROM available for the Inspire."
+    },
+    {
       "developer": "CyanogenMod Nightlies",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/541/4158e7edc75c600607f05a3b063ffba1.png",
@@ -1942,15 +1964,15 @@
       "summary": "CyanogenMod Nightly builds. tpruvot@github"
     },
     {
-      "developer": "AmbrosialROMs",
+      "developer": "Ideos Dev Team ROMs",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/558/8206d5091d0ed4afc3f0bf148e9b4191.png",
-      "id": "RealPariah",
-      "manifest": "http://www.ambrosialpariah.com/ambrosialcm7/files/rom.man/acm.js",
+      "icon": "http://romshare.deployfu.com/downloads/250/ba66421c10863d65957a42c5a3dddf51.png",
+      "id": "tilal6991",
+      "manifest": "http://cloud.github.com/downloads/tilal6991/android_device_huawei_u8150/manifest.js",
       "roms": {
-        "zeppelin": true
+        "ideos": true
       },
-      "summary": "AmbrosialROMS: Bringing More Sizzle to the Bacon!"
+      "summary": "ROMs for the Huawei U8150 Ideos from the Ideos Dev Team"
     }
   ],
   "minversion": "4322"

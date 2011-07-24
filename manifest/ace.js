@@ -104,6 +104,14 @@
       "summary": "developer of StarDroid ROMS for your HTC Inspire and Desire HD"
     },
     {
+      "developer": "markhedley1980@gmail.com",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
+      "id": "markhedley1980@gmail.com",
+      "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
+      "summary": "markhedley1980@gmail.com"
+    },
+    {
       "developer": "ClearDroid",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/572/bf87a0b19367bf4eaeb51057e455b2eb.png",

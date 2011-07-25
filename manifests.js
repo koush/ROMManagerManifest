@@ -1885,15 +1885,15 @@
       "summary": "ROMs, with a side of metal."
     },
     {
-      "developer": "Ideos Dev Team ROMs",
+      "developer": "ClearDroid",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/250/ba66421c10863d65957a42c5a3dddf51.png",
-      "id": "tilal6991",
-      "manifest": "http://cloud.github.com/downloads/tilal6991/android_device_huawei_u8150/manifest.js",
+      "icon": "http://romshare.deployfu.com/downloads/572/bf87a0b19367bf4eaeb51057e455b2eb.png",
+      "id": "ClearD",
+      "manifest": "http://www.techsupporteverything.com/download/manifest.js",
       "roms": {
-        "ideos": true
+        "ace": true
       },
-      "summary": "ROMs for the Huawei U8150 Ideos from the Ideos Dev Team"
+      "summary": "ClearDroid ROM for Inspire 4G. Inspire-based, with the choice of a stock feel or the ClearDroid ModPack. The most stable ROM available for the Inspire."
     },
     {
       "developer": "Solstice",
@@ -1907,15 +1907,26 @@
       "summary": "Simple AOSP ROM"
     },
     {
-      "developer": "MIUI-PT",
+      "developer": "Ideos Dev Team ROMs",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
-      "id": "miuiportugal",
-      "manifest": "http://www.files.miui-pt.com/manifest/miuipt.js",
+      "icon": "http://romshare.deployfu.com/downloads/250/ba66421c10863d65957a42c5a3dddf51.png",
+      "id": "tilal6991",
+      "manifest": "http://cloud.github.com/downloads/tilal6991/android_device_huawei_u8150/manifest.js",
       "roms": {
-        "galaxys2": true
+        "ideos": true
       },
-      "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
+      "summary": "ROMs for the Huawei U8150 Ideos from the Ideos Dev Team"
+    },
+    {
+      "developer": "CyanogenMod Nightlies",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/541/4158e7edc75c600607f05a3b063ffba1.png",
+      "id": "tanguy.pruvot@gmail.com",
+      "manifest": "http://defy.tanguy.tk/rm/custom.js",
+      "roms": {
+        "umts_jordan": true
+      },
+      "summary": "CyanogenMod Nightly builds. tpruvot@github"
     },
     {
       "developer": "MIUI Android",
@@ -1940,6 +1951,30 @@
       "summary": "The original English MIUI ROM by MIUI Android"
     },
     {
+      "developer": "MIUI-PT",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
+      "id": "miuiportugal",
+      "manifest": "http://www.files.miui-pt.com/manifest/miuipt.js",
+      "roms": {
+        "leo": true,
+        "p990": true,
+        "vibrantmtd": true,
+        "ace": true,
+        "bravo": true,
+        "umts_jordan": true,
+        "passion": true,
+        "galaxys": true,
+        "captivatemtd": true,
+        "crespo": true,
+        "vision": true,
+        "galaxys2": true,
+        "galaxysmtd": true,
+        "umts_sholes": true
+      },
+      "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
+    },
+    {
       "developer": "Saga LBC Mod",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/573/8bf50ca36993e1e97aa0bf47bcc8f043.png",
@@ -1949,28 +1984,6 @@
         "saga": true
       },
       "summary": "LoveBoatCaptain - Android Development"
-    },
-    {
-      "developer": "CyanogenMod Nightlies",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/541/4158e7edc75c600607f05a3b063ffba1.png",
-      "id": "tanguy.pruvot@gmail.com",
-      "manifest": "http://defy.tanguy.tk/rm/custom.js",
-      "roms": {
-        "umts_jordan": true
-      },
-      "summary": "CyanogenMod Nightly builds. tpruvot@github"
-    },
-    {
-      "developer": "ClearDroid",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/572/bf87a0b19367bf4eaeb51057e455b2eb.png",
-      "id": "ClearD",
-      "manifest": "http://www.techsupporteverything.com/download/manifest.js",
-      "roms": {
-        "ace": true
-      },
-      "summary": "ClearDroid ROM for Inspire 4G. Inspire-based, with the choice of a stock feel or the ClearDroid ModPack. The most stable ROM available for the Inspire."
     },
     {
       "developer": "AmbrosialROMs",

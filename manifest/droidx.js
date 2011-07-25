@@ -119,7 +119,7 @@
     },
     {
       "developer": "DrewGaren Nightlies",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
       "id": "drewgarennightly",
       "manifest": "http://romshare.deployfu.com/developer/drewgarennightly/manifest",
@@ -127,11 +127,18 @@
     },
     {
       "developer": "Fabolous",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/337/d2c1bf150b52364eca4dcba86135ff9d.png",
       "id": "fabolous",
       "manifest": "http://romshare.deployfu.com/developer/fabolous/manifest",
       "summary": "ApeX for DX/D2"
+    },
+    {
+      "developer": "notna659@gmail.com",
+      "free": true,
+      "id": "notna659@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/notna659@gmail.com/manifest",
+      "summary": "notna659@gmail.com"
     }
   ],
   "minversion": "4322"

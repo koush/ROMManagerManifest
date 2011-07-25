@@ -18,14 +18,14 @@
     },
     {
       "developer": "aefreshkid97@gmail.com",
-      "free": false,
+      "free": true,
       "id": "aefreshkid97@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/aefreshkid97@gmail.com/manifest",
       "summary": "aefreshkid97@gmail.com"
     },
     {
       "developer": "SamCripp",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/550/6d520d99859e134dd32cd4132a8ac3d5.png",
       "id": "samuel.r.rivera@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/samuel.r.rivera@gmail.com/manifest",

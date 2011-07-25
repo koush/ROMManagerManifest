@@ -38,14 +38,6 @@
       "free": "true",
       "manifest": "http://www.ambrosialpariah.com/ambrosialcm7/files/rom.man/acm.js",
       "summary": "ambrosialROMs: Adding the sizzle to the Bacon!"
-    },
-    {
-      "developer": "AmbrosialROMs",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/558/8206d5091d0ed4afc3f0bf148e9b4191.png",
-      "id": "RealPariah",
-      "manifest": "http://www.ambrosialpariah.com/ambrosialcm7/files/rom.man/acm.js",
-      "summary": "AmbrosialROMS: Bringing More Sizzle to the Bacon!"
     }
   ],
   "minversion": "4322"

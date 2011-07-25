@@ -36,7 +36,7 @@
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
       "id": "miuiportugal@gmail.com",
-      "manifest": "http://www.files.miui-pt.com/files/roms/1.7.22/simplemanifest.js",
+      "manifest": "http://www.files.miui-pt.com/manifest/miuipt.js",
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
     }
   ],

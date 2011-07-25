@@ -53,6 +53,14 @@
       "id": "daniel.hillenbrand@codeworkx.de",
       "manifest": "http://romshare.deployfu.com/developer/daniel.hillenbrand@codeworkx.de/manifest",
       "summary": "Usefull Stuff for Galaxy S Phones"
+    },
+    {
+      "developer": "MIUI-PT",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
+      "id": "miuiportugal@gmail.com",
+      "manifest": "http://www.files.miui-pt.com/manifest/miuipt.js",
+      "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
     }
   ],
   "minversion": "4322"

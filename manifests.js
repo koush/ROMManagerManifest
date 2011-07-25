@@ -1692,17 +1692,6 @@
       "summary": "Clean, fast & Stable roms for the D1 & D2"
     },
     {
-      "developer": "MIUI",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/86/54d8a283453bed9540509a4d36b024ae.png",
-      "id": "jmcgraw159@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/jmcgraw159@gmail.com/manifest",
-      "roms": {
-        "captivatemtd": true
-      },
-      "summary": "MIUI for the Samsung Captivate"
-    },
-    {
       "developer": "mik_os",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/280/90f44cfd3ec66b7485bbf1d464651da5.gif",
@@ -1874,17 +1863,6 @@
       "summary": "Usefull Stuff for Galaxy S Phones"
     },
     {
-      "developer": "Ideos Dev Team ROMs",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/250/ba66421c10863d65957a42c5a3dddf51.png",
-      "id": "tilal6991",
-      "manifest": "http://cloud.github.com/downloads/tilal6991/android_device_huawei_u8150/manifest.js",
-      "roms": {
-        "ideos": true
-      },
-      "summary": "ROMs for the Huawei U8150 Ideos from the Ideos Dev Team"
-    },
-    {
       "developer": "Einherjar Dev",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/25/31d8c04d2622249a93100ffc1ed40a17.png",
@@ -1898,17 +1876,6 @@
       "summary": "ROMs, with a side of metal."
     },
     {
-      "developer": "Saga LBC Mod",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/573/8bf50ca36993e1e97aa0bf47bcc8f043.png",
-      "id": "loveboatcaptain",
-      "manifest": "http://ota.saga-lbc-mod.de/rommanager/manifest.js",
-      "roms": {
-        "saga": true
-      },
-      "summary": "LoveBoatCaptain - Android Development"
-    },
-    {
       "developer": "Solstice",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/530/d45f727409f37121864a24391106b1f0.png",
@@ -1920,27 +1887,15 @@
       "summary": "Simple AOSP ROM"
     },
     {
-      "developer": "MIUI-PT",
+      "developer": "Saga LBC Mod",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
-      "id": "miuiportugal@gmail.com",
-      "manifest": "http://www.files.miui-pt.com/files/roms/1.7.22/simplemanifest.js",
+      "icon": "http://romshare.deployfu.com/downloads/573/8bf50ca36993e1e97aa0bf47bcc8f043.png",
+      "id": "loveboatcaptain",
+      "manifest": "http://ota.saga-lbc-mod.de/rommanager/manifest.js",
       "roms": {
-        "one": true,
-        "galaxysmtd": true
+        "saga": true
       },
-      "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
-    },
-    {
-      "developer": "AmbrosialROMs",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/558/8206d5091d0ed4afc3f0bf148e9b4191.png",
-      "id": "RealPariah",
-      "manifest": "http://www.ambrosialpariah.com/ambrosialcm7/files/rom.man/acm.js",
-      "roms": {
-        "zeppelin": true
-      },
-      "summary": "AmbrosialROMS: Bringing More Sizzle to the Bacon!"
+      "summary": "LoveBoatCaptain - Android Development"
     },
     {
       "developer": "MIUI Android",
@@ -1973,6 +1928,41 @@
         "ace": true
       },
       "summary": "ClearDroid ROM for Inspire 4G. Inspire-based, with the choice of a stock feel or the ClearDroid ModPack. The most stable ROM available for the Inspire."
+    },
+    {
+      "developer": "Ideos Dev Team ROMs",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/250/ba66421c10863d65957a42c5a3dddf51.png",
+      "id": "tilal6991",
+      "manifest": "http://cloud.github.com/downloads/tilal6991/android_device_huawei_u8150/manifest.js",
+      "roms": {
+        "ideos": true
+      },
+      "summary": "ROMs for the Huawei U8150 Ideos from the Ideos Dev Team"
+    },
+    {
+      "developer": "MIUI-PT",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
+      "id": "miuiportugal@gmail.com",
+      "manifest": "http://www.files.miui-pt.com/manifest/miuipt.js",
+      "roms": {
+        "leo": true,
+        "jordan_emara": true,
+        "vibrantmtd": true,
+        "ace": true,
+        "bravo": true,
+        "passion": true,
+        "galaxys": true,
+        "jordan": true,
+        "captivatemtd": true,
+        "crespo": true,
+        "vision": true,
+        "galaxys2": true,
+        "galaxysmtd": true,
+        "umts_sholes": true
+      },
+      "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
     }
   ],
   "minversion": "4322"

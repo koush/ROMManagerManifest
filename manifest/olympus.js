@@ -30,6 +30,14 @@
       "id": "samuel.r.rivera@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/samuel.r.rivera@gmail.com/manifest",
       "summary": "Atrix Roms"
+    },
+    {
+      "developer": "Diviance",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/591/bb41cb6540f79fe9208a84a04af56bfe.png",
+      "id": "diviance@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/diviance@gmail.com/manifest",
+      "summary": "Diviance"
     }
   ],
   "minversion": "4322"

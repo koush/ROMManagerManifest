@@ -112,12 +112,6 @@
       "summary": "Custom ROMs for the Motorola Droid"
     },
     {
-      "developer": "slayher",
-      "id": "slayher",
-      "manifest": "http://android.antbox.org/slayher/manifest.js",
-      "summary": "Complete ROMs Themed by slayher"
-    },
-    {
       "developer": "jdlfg",
       "id": "jdlfg",
       "free": "true",

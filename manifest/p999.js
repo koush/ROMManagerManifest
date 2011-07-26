@@ -54,6 +54,14 @@
       "id": "einherjar",
       "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
       "summary": "ROMs, with a side of metal."
+    },
+    {
+      "developer": "MIUI Android",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
+      "id": "miuiandroid",
+      "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
+      "summary": "The original English MIUI ROM by MIUI Android"
     }
   ],
   "minversion": "4322"

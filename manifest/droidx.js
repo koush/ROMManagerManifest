@@ -139,6 +139,14 @@
       "id": "notna659@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/notna659@gmail.com/manifest",
       "summary": "notna659@gmail.com"
+    },
+    {
+      "developer": "TeamChargeDev",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/589/341ad33f92b005d705f1557ae861b23e.png",
+      "id": "Smyers1012",
+      "manifest": "http://romshare.deployfu.com/developer/Smyers1012/manifest",
+      "summary": "TeamChargeDev ROM, MOD, BUILD, and TWEAK Releases."
     }
   ],
   "minversion": "4322"

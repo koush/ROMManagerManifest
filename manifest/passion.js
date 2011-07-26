@@ -58,14 +58,6 @@
       "summary": "Custom kernels and other awesomeness"
     },
     {
-      "developer": "MIUI.us",
-      "free": "true",
-      "icon": "http://roms.miui.us/images/miuius.png",
-      "id": "miuius",
-      "manifest": "http://roms.miui.us/manifest/rommanager.js",
-      "summary": "MIUI releases by MIUI.us"
-    },
-    {
       "developer": "Blandroid",
       "icon": "http://blandroid.org/rommanager-icon.png",
       "id": "blandroid",
@@ -105,12 +97,12 @@
       "summary": "Multi-language MIUI ROMs. No theme change, 3G, bluetooth and other tunings. Lean and fast."
     },
     {
-      "developer": "MIUI-PT",
+      "developer": "MIUI.us",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
-      "id": "miuiportugal",
-      "manifest": "http://www.files.miui-pt.com/manifest/miuipt.js",
-      "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
+      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
+      "id": "miuius",
+      "manifest": "http://roms.miui.us/manifest/rommanager.js",
+      "summary": "MIUI English releases by MIUI.us"
     },
     {
       "developer": "MIUI Android",
@@ -119,6 +111,14 @@
       "id": "miuiandroid",
       "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
       "summary": "The original English MIUI ROM by MIUI Android"
+    },
+    {
+      "developer": "MIUI-PT",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
+      "id": "miuiportugal",
+      "manifest": "http://www.files.miui-pt.com/manifest/miuipt.js",
+      "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
     }
   ],
   "minversion": "4322"

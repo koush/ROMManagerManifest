@@ -32,14 +32,6 @@
       "summary": "Oxygen, clean and simple AOSP ROM"
     },
     {
-      "developer": "MIUI.us",
-      "free": "true",
-      "icon": "http://roms.miui.us/images/miuius.png",
-      "id": "miuius",
-      "manifest": "http://roms.miui.us/manifest/rommanager.js",
-      "summary": "MIUI releases by MIUI.us"
-    },
-    {
       "developer": "Google Apps",
       "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
       "id": "google",
@@ -54,6 +46,14 @@
       "id": "MIUI Dev",
       "manifest": "http://romshare.deployfu.com/developer/MIUI Dev/manifest",
       "summary": "MIUI Uploads from our hardworking Developers"
+    },
+    {
+      "developer": "MIUI.us",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
+      "id": "miuius",
+      "manifest": "http://roms.miui.us/manifest/rommanager.js",
+      "summary": "MIUI English releases by MIUI.us"
     }
   ],
   "minversion": "4322"

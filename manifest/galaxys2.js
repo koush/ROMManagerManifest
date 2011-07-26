@@ -32,6 +32,14 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
+      "developer": "Radio Images",
+      "free": true,
+      "icon": "http://teamhacksung.github.com/rommanager/galaxys2/radios/radio_icon.png",
+      "id": "TeamHacksung",
+      "manifest": "http://teamhacksung.github.com/rommanager/galaxys2/radios/manifest.js",
+      "summary": "CWM-flashable Radio Images"
+    },
+    {
       "developer": "DesignGears Roms",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/271/3ee39ba3530e8d858bbbfdbbb1ae2bea.png",

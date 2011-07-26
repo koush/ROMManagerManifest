@@ -1339,6 +1339,51 @@
             ] 
         },
         {
+            "device": "mecha",
+            "name": "CyanogenMod 7.1.0-RC1.3",
+            "modversion": "CyanogenMod-7.1.0-RC-1-Thunderbolt-KANG",
+            "incremental": "7103",
+            "url": "http://goo-inside.me/cm/mecha/rc/update-cm-7.1.0-RC1.3-Thunderbolt-MR-2-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Release Candidate\u000aMR2 Radio Only",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "mecha",
+            "name": "CyanogenMod 7.1.0-RC1.2 MR2",
+            "modversion": "CyanogenMod-7.1.0-RC-1-Thunderbolt-KANG",
+            "incremental": "7102",
+            "url": "http://goo-inside.me/cm/mecha/rc/update-cm-7.1.0-RC1.2-Thunderbolt-MR-2-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Release Candidate\u000aMR2 Radio Only",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "mecha",
+            "name": "CyanogenMod 7.1.0-RC1.2 MR1",
+            "modversion": "CyanogenMod-7.1.0-RC-1-Thunderbolt-KANG",
+            "incremental": "7102",
+            "url": "http://goo-inside.me/cm/mecha/rc/update-cm-7.1.0-RC1.2-Thunderbolt-MR-1-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Release Candidate\u000aMR1 Radio Only",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                } 
+            ] 
+        },
+        {
             "device": "morrison",
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-CLIQ",

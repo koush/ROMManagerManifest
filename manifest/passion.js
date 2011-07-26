@@ -105,20 +105,20 @@
       "summary": "Multi-language MIUI ROMs. No theme change, 3G, bluetooth and other tunings. Lean and fast."
     },
     {
-      "developer": "MIUI Android",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
-      "id": "miuiandroid",
-      "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
-      "summary": "The original English MIUI ROM by MIUI Android"
-    },
-    {
       "developer": "MIUI-PT",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
       "id": "miuiportugal",
       "manifest": "http://www.files.miui-pt.com/manifest/miuipt.js",
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
+    },
+    {
+      "developer": "MIUI Android",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
+      "id": "miuiandroid",
+      "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
+      "summary": "The original English MIUI ROM by MIUI Android"
     }
   ],
   "minversion": "4322"

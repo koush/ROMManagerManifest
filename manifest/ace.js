@@ -104,12 +104,12 @@
       "summary": "developer of StarDroid ROMS for your HTC Inspire and Desire HD"
     },
     {
-      "developer": "ClearDroid",
+      "developer": "MIUI-PT",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/572/bf87a0b19367bf4eaeb51057e455b2eb.png",
-      "id": "ClearD",
-      "manifest": "http://www.techsupporteverything.com/download/manifest.js",
-      "summary": "ClearDroid ROM for Inspire 4G. Inspire-based, with the choice of a stock feel or the ClearDroid ModPack. The most stable ROM available for the Inspire."
+      "icon": "http://romshare.deployfu.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
+      "id": "miuiportugal",
+      "manifest": "http://www.files.miui-pt.com/manifest/miuipt.js",
+      "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
     },
     {
       "developer": "MIUI Android",
@@ -120,12 +120,12 @@
       "summary": "The original English MIUI ROM by MIUI Android"
     },
     {
-      "developer": "MIUI-PT",
+      "developer": "ClearDroid",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
-      "id": "miuiportugal",
-      "manifest": "http://www.files.miui-pt.com/manifest/miuipt.js",
-      "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
+      "icon": "http://romshare.deployfu.com/downloads/572/bf87a0b19367bf4eaeb51057e455b2eb.png",
+      "id": "ClearD",
+      "manifest": "http://www.techsupporteverything.com/download/manifest.js",
+      "summary": "ClearDroid ROM for Inspire 4G. Inspire-based, with the choice of a stock feel or the ClearDroid ModPack. The most stable ROM available for the Inspire."
     }
   ],
   "minversion": "4322"

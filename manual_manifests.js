@@ -31,6 +31,7 @@
                 "vivo": "true",
                 "liberty": "true",
                 "legend": "true",
+                "mecha": "true",
                 "morrison": "true",
                 "one": "true",
                 "p990": "true",
@@ -93,6 +94,7 @@
                 "vivo": "true",
                 "legend": "true",
                 "liberty": "true",
+                "mecha": "true",
                 "morrison": "true",
                 "one": "true",
                 "p990": "true",
@@ -314,15 +316,6 @@
                 "vision": "true" 
             },
             "summary": "Custom kernels and other awesomeness" 
-        },
-        {
-            "developer": "slayher",
-            "id": "slayher",
-            "manifest": "http://android.antbox.org/slayher/manifest.js",
-            "roms": {
-                "sholes": "true" 
-            },
-            "summary": "Complete ROMs Themed by slayher" 
         },
         {
             "developer": "jdlfg",

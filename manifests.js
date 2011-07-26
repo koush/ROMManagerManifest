@@ -30,6 +30,7 @@
         "bravoc": "true",
         "sapphire": "true",
         "one": "true",
+        "mecha": "true",
         "glacier": "true",
         "crespo4g": "true",
         "captivatemtd": "true",
@@ -92,6 +93,7 @@
         "bravoc": "true",
         "sapphire": "true",
         "one": "true",
+        "mecha": "true",
         "glacier": "true",
         "crespo4g": "true",
         "captivatemtd": "true",
@@ -312,15 +314,6 @@
         "harmony": "true"
       },
       "summary": "Custom kernels and other awesomeness"
-    },
-    {
-      "developer": "slayher",
-      "id": "slayher",
-      "manifest": "http://android.antbox.org/slayher/manifest.js",
-      "roms": {
-        "sholes": "true"
-      },
-      "summary": "Complete ROMs Themed by slayher"
     },
     {
       "developer": "jdlfg",
@@ -1883,17 +1876,6 @@
       "summary": "TeamChargeDev ROM, MOD, BUILD, and TWEAK Releases."
     },
     {
-      "developer": "Diviance",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/591/bb41cb6540f79fe9208a84a04af56bfe.png",
-      "id": "diviance@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/diviance@gmail.com/manifest",
-      "roms": {
-        "olympus": true
-      },
-      "summary": "Diviance"
-    },
-    {
       "developer": "Solstice",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/530/d45f727409f37121864a24391106b1f0.png",
@@ -1918,17 +1900,6 @@
       "summary": "ROMs, with a side of metal."
     },
     {
-      "developer": "ClearDroid",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/572/bf87a0b19367bf4eaeb51057e455b2eb.png",
-      "id": "ClearD",
-      "manifest": "http://www.techsupporteverything.com/download/manifest.js",
-      "roms": {
-        "ace": true
-      },
-      "summary": "ClearDroid ROM for Inspire 4G. Inspire-based, with the choice of a stock feel or the ClearDroid ModPack. The most stable ROM available for the Inspire."
-    },
-    {
       "developer": "Ideos Dev Team ROMs",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/250/ba66421c10863d65957a42c5a3dddf51.png",
@@ -1940,27 +1911,26 @@
       "summary": "ROMs for the Huawei U8150 Ideos from the Ideos Dev Team"
     },
     {
-      "developer": "MIUI Android",
+      "developer": "CyanogenMod Nightlies",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
-      "id": "miuiandroid",
-      "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
+      "icon": "http://romshare.deployfu.com/downloads/541/4158e7edc75c600607f05a3b063ffba1.png",
+      "id": "tanguy.pruvot@gmail.com",
+      "manifest": "http://defy.tanguy.tk/rm/custom.js",
       "roms": {
-        "p999": true,
-        "leo": true,
-        "p990": true,
-        "vibrantmtd": true,
-        "passion": true,
-        "galaxys": true,
-        "bravo": true,
-        "umts_jordan": true,
-        "ace": true,
-        "captivatemtd": true,
-        "crespo": true,
-        "vision": true,
-        "umts_sholes": true
+        "umts_jordan": true
       },
-      "summary": "The original English MIUI ROM by MIUI Android"
+      "summary": "CyanogenMod Nightly builds. tpruvot@github"
+    },
+    {
+      "developer": "AmbrosialROMs",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/558/8206d5091d0ed4afc3f0bf148e9b4191.png",
+      "id": "RealPariah",
+      "manifest": "http://www.ambrosialpariah.com/ambrosialcm7/files/rom.man/acm.js",
+      "roms": {
+        "zeppelin": true
+      },
+      "summary": "AmbrosialROMS: Bringing More Sizzle to the Bacon!"
     },
     {
       "developer": "Saga LBC Mod",
@@ -1972,17 +1942,6 @@
         "saga": true
       },
       "summary": "LoveBoatCaptain - Android Development"
-    },
-    {
-      "developer": "CyanogenMod Nightlies",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/541/4158e7edc75c600607f05a3b063ffba1.png",
-      "id": "tanguy.pruvot@gmail.com",
-      "manifest": "http://defy.tanguy.tk/rm/custom.js",
-      "roms": {
-        "umts_jordan": true
-      },
-      "summary": "CyanogenMod Nightly builds. tpruvot@github"
     },
     {
       "developer": "MIUI-PT",
@@ -2011,15 +1970,38 @@
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
     },
     {
-      "developer": "AmbrosialROMs",
+      "developer": "MIUI Android",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/558/8206d5091d0ed4afc3f0bf148e9b4191.png",
-      "id": "RealPariah",
-      "manifest": "http://www.ambrosialpariah.com/ambrosialcm7/files/rom.man/acm.js",
+      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
+      "id": "miuiandroid",
+      "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
       "roms": {
-        "zeppelin": true
+        "p999": true,
+        "leo": true,
+        "p990": true,
+        "vibrantmtd": true,
+        "passion": true,
+        "galaxys": true,
+        "bravo": true,
+        "umts_jordan": true,
+        "ace": true,
+        "captivatemtd": true,
+        "crespo": true,
+        "vision": true,
+        "umts_sholes": true
       },
-      "summary": "AmbrosialROMS: Bringing More Sizzle to the Bacon!"
+      "summary": "The original English MIUI ROM by MIUI Android"
+    },
+    {
+      "developer": "ClearDroid",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/572/bf87a0b19367bf4eaeb51057e455b2eb.png",
+      "id": "ClearD",
+      "manifest": "http://www.techsupporteverything.com/download/manifest.js",
+      "roms": {
+        "ace": true
+      },
+      "summary": "ClearDroid ROM for Inspire 4G. Inspire-based, with the choice of a stock feel or the ClearDroid ModPack. The most stable ROM available for the Inspire."
     }
   ],
   "minversion": "4322"

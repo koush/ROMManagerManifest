@@ -25,14 +25,6 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
-      "developer": "MIUI Android",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
-      "id": "miuiandroid",
-      "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
-      "summary": "The original English MIUI ROM by MIUI Android"
-    },
-    {
       "developer": "CyanogenMod Nightlies",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/541/4158e7edc75c600607f05a3b063ffba1.png",
@@ -47,6 +39,14 @@
       "id": "miuiportugal",
       "manifest": "http://www.files.miui-pt.com/manifest/miuipt.js",
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
+    },
+    {
+      "developer": "MIUI Android",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
+      "id": "miuiandroid",
+      "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
+      "summary": "The original English MIUI ROM by MIUI Android"
     }
   ],
   "minversion": "4322"

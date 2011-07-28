@@ -76,6 +76,14 @@
       "id": "tvall43@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/tvall43@gmail.com/manifest",
       "summary": "random stuffs"
+    },
+    {
+      "developer": "SlashDW",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/567/b1f21e36d21b94a782be20b894dda7e4.jpeg",
+      "id": "SlashDW",
+      "manifest": "http://romshare.deployfu.com/developer/SlashDW/manifest",
+      "summary": "Stable and superfast ROM build from Cyanogenmod sources."
     }
   ],
   "minversion": "4322"

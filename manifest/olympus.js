@@ -38,6 +38,14 @@
       "id": "diviance@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/diviance@gmail.com/manifest",
       "summary": "Diviance"
+    },
+    {
+      "developer": "Navalynt Roms (3.14 Series)",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/596/5a7d89b16d54be204e888a7f5e5ed390.png",
+      "id": "Navalynt",
+      "manifest": "http://romshare.deployfu.com/developer/Navalynt/manifest",
+      "summary": "Roms, themes, and more!"
     }
   ],
   "minversion": "4322"

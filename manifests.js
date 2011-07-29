@@ -1849,7 +1849,7 @@
       "roms": {
         "sapphire": true
       },
-      "summary": "Stable and superfast ROM build from Cyanogenmod sources."
+      "summary": "Stable and Superfast ROM's built from Cyanogenmod sources for Dream/Sapphire."
     },
     {
       "developer": "Diviance",
@@ -1874,6 +1874,16 @@
       "summary": "Roms, themes, and more!"
     },
     {
+      "developer": "johnkenney02@gmail.com",
+      "free": true,
+      "id": "johnkenney02@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/johnkenney02@gmail.com/manifest",
+      "roms": {
+        "blade": true
+      },
+      "summary": "johnkenney02@gmail.com"
+    },
+    {
       "developer": "Ideos Dev Team ROMs",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/250/ba66421c10863d65957a42c5a3dddf51.png",
@@ -1885,15 +1895,39 @@
       "summary": "ROMs for the Huawei U8150 Ideos from the Ideos Dev Team"
     },
     {
-      "developer": "AmbrosialROMs",
+      "developer": "Solstice",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/558/8206d5091d0ed4afc3f0bf148e9b4191.png",
-      "id": "RealPariah",
-      "manifest": "http://www.ambrosialpariah.com/ambrosialcm7/files/rom.man/acm.js",
+      "icon": "http://romshare.deployfu.com/downloads/530/d45f727409f37121864a24391106b1f0.png",
+      "id": "laszlo.david@gmail.com",
+      "manifest": "http://solsticerom.github.com/ROMManagerManifest/manifest.js",
       "roms": {
-        "zeppelin": true
+        "bravo": true
       },
-      "summary": "AmbrosialROMS: Bringing More Sizzle to the Bacon!"
+      "summary": "Simple AOSP ROM"
+    },
+    {
+      "developer": "Einherjar Dev",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/25/31d8c04d2622249a93100ffc1ed40a17.png",
+      "id": "einherjar",
+      "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
+      "roms": {
+        "p999": true,
+        "vibrantmtd": true,
+        "vibrant": true
+      },
+      "summary": "ROMs, with a side of metal."
+    },
+    {
+      "developer": "CyanogenMod Nightlies",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/541/4158e7edc75c600607f05a3b063ffba1.png",
+      "id": "tanguy.pruvot@gmail.com",
+      "manifest": "http://defy.tanguy.tk/rm/custom.js",
+      "roms": {
+        "umts_jordan": true
+      },
+      "summary": "CyanogenMod Nightly builds. tpruvot@github"
     },
     {
       "developer": "MIUI.us",
@@ -1943,17 +1977,6 @@
       "summary": "ClearDroid ROM for Inspire 4G. Inspire-based, with the choice of a stock feel or the ClearDroid ModPack. The most stable ROM available for the Inspire."
     },
     {
-      "developer": "Saga LBC Mod",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/573/8bf50ca36993e1e97aa0bf47bcc8f043.png",
-      "id": "loveboatcaptain",
-      "manifest": "http://ota.saga-lbc-mod.de/rommanager/manifest.js",
-      "roms": {
-        "saga": true
-      },
-      "summary": "LoveBoatCaptain - Android Development"
-    },
-    {
       "developer": "MIUI Android",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
@@ -1975,6 +1998,28 @@
         "umts_sholes": true
       },
       "summary": "The original English MIUI ROM by MIUI Android"
+    },
+    {
+      "developer": "Saga LBC Mod",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/573/8bf50ca36993e1e97aa0bf47bcc8f043.png",
+      "id": "loveboatcaptain",
+      "manifest": "http://ota.saga-lbc-mod.de/rommanager/manifest.js",
+      "roms": {
+        "saga": true
+      },
+      "summary": "LoveBoatCaptain - Android Development"
+    },
+    {
+      "developer": "AmbrosialROMs",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/558/8206d5091d0ed4afc3f0bf148e9b4191.png",
+      "id": "RealPariah",
+      "manifest": "http://www.ambrosialpariah.com/ambrosialcm7/files/rom.man/acm.js",
+      "roms": {
+        "zeppelin": true
+      },
+      "summary": "AmbrosialROMS: Bringing More Sizzle to the Bacon!"
     },
     {
       "developer": "MIUI-PT",
@@ -2001,30 +2046,6 @@
         "umts_sholes": true
       },
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
-    },
-    {
-      "developer": "Solstice",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/530/d45f727409f37121864a24391106b1f0.png",
-      "id": "laszlo.david@gmail.com",
-      "manifest": "http://dlaszlo.github.com/ROMManagerManifest/manifest.js",
-      "roms": {
-        "bravo": true
-      },
-      "summary": "Simple AOSP ROM"
-    },
-    {
-      "developer": "Einherjar Dev",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/25/31d8c04d2622249a93100ffc1ed40a17.png",
-      "id": "einherjar",
-      "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
-      "roms": {
-        "p999": true,
-        "vibrantmtd": true,
-        "vibrant": true
-      },
-      "summary": "ROMs, with a side of metal."
     }
   ],
   "minversion": "4322"

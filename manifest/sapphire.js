@@ -83,7 +83,7 @@
       "icon": "http://romshare.deployfu.com/downloads/567/b1f21e36d21b94a782be20b894dda7e4.jpeg",
       "id": "SlashDW",
       "manifest": "http://romshare.deployfu.com/developer/SlashDW/manifest",
-      "summary": "Stable and superfast ROM build from Cyanogenmod sources."
+      "summary": "Stable and Superfast ROM's built from Cyanogenmod sources for Dream/Sapphire."
     }
   ],
   "minversion": "4322"

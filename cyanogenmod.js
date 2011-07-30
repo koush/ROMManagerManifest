@@ -1340,6 +1340,21 @@
         },
         {
             "device": "mecha",
+            "name": "CyanogenMod 7.1.0-RC1.4",
+            "modversion": "CyanogenMod-7.1.0-RC-1-Thunderbolt-KANG",
+            "incremental": "7104",
+            "url": "http://goo-inside.me/cm/mecha/rc/update-cm-7.1.0-RC1.4-Thunderbolt-MR-2-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Release Candidate\u000aMR2 or 2.5 Radio Only",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "mecha",
             "name": "CyanogenMod 7.1.0-RC1.3",
             "modversion": "CyanogenMod-7.1.0-RC-1-Thunderbolt-KANG",
             "incremental": "7103",

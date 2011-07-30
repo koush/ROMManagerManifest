@@ -17,6 +17,13 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
+      "developer": "dfgas",
+      "free": true,
+      "id": "dfgas",
+      "manifest": "http://romshare.deployfu.com/developer/dfgas/manifest",
+      "summary": "dfgas"
+    },
+    {
       "developer": "MIUI.us",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",

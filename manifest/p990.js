@@ -32,9 +32,9 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
-      "developer": "JMCyanbreadMod ROM´s",
+      "developer": "JMCyanbreadMod",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/396/7ae8f2d05f548d98ec4f60a8ae9df3af.jpg",
+      "icon": "http://romshare.deployfu.com/downloads/396/b01189040f608fa16cc797e549f27cdc.png",
       "id": "jacob.mueller.elz@googlemail.com",
       "manifest": "http://romshare.deployfu.com/developer/jacob.mueller.elz@googlemail.com/manifest",
       "summary": "JMCyanbreadMod ROM´s are based on CM7 Nightlys or Kangs. All system apps are modded in cyan."

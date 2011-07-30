@@ -70,20 +70,20 @@
       "summary": "http://android-maisters.ddns.net"
     },
     {
-      "developer": "Htcclay",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/307/5076662d1617430aa6ad3f6ad73136aa.jpg",
-      "id": "htcclay",
-      "manifest": "http://romshare.deployfu.com/developer/htcclay/manifest",
-      "summary": "Go Go Go!"
-    },
-    {
       "developer": "PyroMod Roms",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/289/f50f109fd0e925ebc88d9d0d350411c1.jpg",
       "id": "blahbl4hblah",
       "manifest": "http://romshare.deployfu.com/developer/blahbl4hblah/manifest",
       "summary": "PyroMod roms are fast and clean "
+    },
+    {
+      "developer": "Htcclay",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/307/5076662d1617430aa6ad3f6ad73136aa.jpg",
+      "id": "htcclay",
+      "manifest": "http://romshare.deployfu.com/developer/htcclay/manifest",
+      "summary": "Go Go Go!"
     },
     {
       "developer": "meXdroidMod rOmS",

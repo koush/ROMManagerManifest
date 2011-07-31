@@ -56,6 +56,14 @@
       "summary": "Compiled from CyanogenMod-7 Bravo/Desire Base with tweaks! Visit my XDA Developers project page for more information: http://forum.xda-developers.com/showpost.php?p=14676068"
     },
     {
+      "developer": "CM7 Tweaked cLK only",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/607/13ad2cc8cf0a38ad06196a50b66f074b.png",
+      "id": "seader",
+      "manifest": "http://romshare.deployfu.com/developer/seader/manifest",
+      "summary": "Stable one, 2.3.5, tweaked with tablet-functions, audio / lights / sensor / gps fixes, custom settings and deleted / added / switched apps; incl. newest custom YES/NO recovery with experimental NTFS support"
+    },
+    {
       "developer": "MIUI.us",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",

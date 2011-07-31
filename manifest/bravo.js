@@ -134,20 +134,20 @@
       "summary": "AOSP/CM Desire builds & Custom HTC Sense builds"
     },
     {
-      "developer": "Solstice",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/530/d45f727409f37121864a24391106b1f0.png",
-      "id": "laszlo.david@gmail.com",
-      "manifest": "http://solsticerom.github.com/ROMManagerManifest/manifest.js",
-      "summary": "Simple AOSP ROM"
-    },
-    {
       "developer": "MIUI.us",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
       "id": "miuius",
       "manifest": "http://roms.miui.us/manifest/rommanager.js",
       "summary": "MIUI English releases by MIUI.us"
+    },
+    {
+      "developer": "Solstice",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/530/d45f727409f37121864a24391106b1f0.png",
+      "id": "laszlo.david@gmail.com",
+      "manifest": "http://solsticerom.github.com/ROMManagerManifest/manifest.js",
+      "summary": "Simple AOSP ROM"
     },
     {
       "developer": "MIUI Android",

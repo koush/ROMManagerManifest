@@ -1916,6 +1916,28 @@
       "summary": "dfgas"
     },
     {
+      "developer": "Lostlogic89",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/606/abdd0964672e43f84318efed8d398c9b.png",
+      "id": "lostlogic01@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/lostlogic01@gmail.com/manifest",
+      "roms": {
+        "captivate": true
+      },
+      "summary": "Unique Rom with best battery life,and  performance,and instant GPS lock .Please head to webproz.org for more info"
+    },
+    {
+      "developer": "CM7 Tweaked cLK only",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/607/13ad2cc8cf0a38ad06196a50b66f074b.png",
+      "id": "seader",
+      "manifest": "http://romshare.deployfu.com/developer/seader/manifest",
+      "roms": {
+        "leo": true
+      },
+      "summary": "Stable one, 2.3.5, tweaked with tablet-functions, audio / lights / sensor / gps fixes, custom settings and deleted / added / switched apps; incl. newest custom YES/NO recovery with experimental NTFS support"
+    },
+    {
       "developer": "Einherjar Dev",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/25/31d8c04d2622249a93100ffc1ed40a17.png",
@@ -1938,39 +1960,6 @@
         "ideos": true
       },
       "summary": "ROMs for the Huawei U8150 Ideos from the Ideos Dev Team"
-    },
-    {
-      "developer": "AmbrosialROMs",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/558/8206d5091d0ed4afc3f0bf148e9b4191.png",
-      "id": "RealPariah",
-      "manifest": "http://www.ambrosialpariah.com/ambrosialcm7/files/rom.man/acm.js",
-      "roms": {
-        "zeppelin": true
-      },
-      "summary": "AmbrosialROMS: Bringing More Sizzle to the Bacon!"
-    },
-    {
-      "developer": "Solstice",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/530/d45f727409f37121864a24391106b1f0.png",
-      "id": "laszlo.david@gmail.com",
-      "manifest": "http://solsticerom.github.com/ROMManagerManifest/manifest.js",
-      "roms": {
-        "bravo": true
-      },
-      "summary": "Simple AOSP ROM"
-    },
-    {
-      "developer": "CyanogenMod Nightlies",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/541/4158e7edc75c600607f05a3b063ffba1.png",
-      "id": "tanguy.pruvot@gmail.com",
-      "manifest": "http://defy.tanguy.tk/rm/custom.js",
-      "roms": {
-        "umts_jordan": true
-      },
-      "summary": "CyanogenMod Nightly builds. tpruvot@github"
     },
     {
       "developer": "MIUI.us",
@@ -2009,6 +1998,61 @@
       "summary": "MIUI English releases by MIUI.us"
     },
     {
+      "developer": "CyanogenMod Nightly Kangs",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/529/d04138f4fd1395737f6c617b9ee6fa63.png",
+      "id": "maxdamage2122Smba1002Kangs",
+      "manifest": "https://dl.dropbox.com/s/7yreog0xtyebutn/smb_a1002-nightlies/manifest.js",
+      "roms": {
+        "smb_a1002": true
+      },
+      "summary": "Unmodified Cyanogenmod nightly kangs for the Viewsonic GTablet"
+    },
+    {
+      "developer": "Solstice",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/530/d45f727409f37121864a24391106b1f0.png",
+      "id": "laszlo.david@gmail.com",
+      "manifest": "http://solsticerom.github.com/ROMManagerManifest/manifest.js",
+      "roms": {
+        "bravo": true
+      },
+      "summary": "Simple AOSP ROM"
+    },
+    {
+      "developer": "AmbrosialROMs",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/558/8206d5091d0ed4afc3f0bf148e9b4191.png",
+      "id": "RealPariah",
+      "manifest": "http://www.ambrosialpariah.com/ambrosialcm7/files/rom.man/acm.js",
+      "roms": {
+        "zeppelin": true
+      },
+      "summary": "AmbrosialROMS: Bringing More Sizzle to the Bacon!"
+    },
+    {
+      "developer": "Saga LBC Mod",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/573/8bf50ca36993e1e97aa0bf47bcc8f043.png",
+      "id": "loveboatcaptain",
+      "manifest": "http://ota.saga-lbc-mod.de/rommanager/manifest.js",
+      "roms": {
+        "saga": true
+      },
+      "summary": "LoveBoatCaptain - Android Development"
+    },
+    {
+      "developer": "ClearDroid",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/572/879c46c74242594d151b96b2d1f3e173.png",
+      "id": "ClearD",
+      "manifest": "http://www.techsupporteverything.com/download/manifest.js",
+      "roms": {
+        "ace": true
+      },
+      "summary": "ClearDroid ROM for Inspire 4G. Inspire-based, with the choice of a stock feel or the ClearDroid ModPack. The most stable ROM available for the Inspire."
+    },
+    {
       "developer": "MIUI Android",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
@@ -2031,39 +2075,6 @@
         "umts_sholes": true
       },
       "summary": "The original English MIUI ROM by MIUI Android"
-    },
-    {
-      "developer": "Saga LBC Mod",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/573/8bf50ca36993e1e97aa0bf47bcc8f043.png",
-      "id": "loveboatcaptain",
-      "manifest": "http://ota.saga-lbc-mod.de/rommanager/manifest.js",
-      "roms": {
-        "saga": true
-      },
-      "summary": "LoveBoatCaptain - Android Development"
-    },
-    {
-      "developer": "CyanogenMod Nightly Kangs",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/529/d04138f4fd1395737f6c617b9ee6fa63.png",
-      "id": "maxdamage2122Smba1002Kangs",
-      "manifest": "https://dl.dropbox.com/s/7yreog0xtyebutn/smb_a1002-nightlies/manifest.js",
-      "roms": {
-        "smb_a1002": true
-      },
-      "summary": "Unmodified Cyanogenmod nightly kangs for the Viewsonic GTablet"
-    },
-    {
-      "developer": "ClearDroid",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/572/879c46c74242594d151b96b2d1f3e173.png",
-      "id": "ClearD",
-      "manifest": "http://www.techsupporteverything.com/download/manifest.js",
-      "roms": {
-        "ace": true
-      },
-      "summary": "ClearDroid ROM for Inspire 4G. Inspire-based, with the choice of a stock feel or the ClearDroid ModPack. The most stable ROM available for the Inspire."
     },
     {
       "developer": "MIUI-PT",
@@ -2090,6 +2101,17 @@
         "umts_sholes": true
       },
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
+    },
+    {
+      "developer": "CyanogenMod Nightlies",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/541/4158e7edc75c600607f05a3b063ffba1.png",
+      "id": "tanguy.pruvot@gmail.com",
+      "manifest": "http://defy.tanguy.tk/rm/custom.js",
+      "roms": {
+        "umts_jordan": true
+      },
+      "summary": "CyanogenMod Nightly builds. tpruvot@github"
     }
   ],
   "minversion": "4322"

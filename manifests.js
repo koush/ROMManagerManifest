@@ -2090,6 +2090,28 @@
         "umts_sholes": true
       },
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
+    },
+    {
+      "developer": "MIUIBrasil",
+      "free": true,
+      "icon": "http://miuibrasil.net/RMIcon.png",
+      "id": "miuibrasil",
+      "manifest": "http://miuibrasil.net/roms/rmmanifest.js",
+      "roms": {
+        "umts_jordan": true,
+        "umts_sholes": true,
+        "bravo": true,
+        "vision": true,
+        "ace": true,
+        "leo": true,
+        "galaxysmtd": true,
+        "galaxysmtd2": true,
+        "galaxys2": true,
+        "passion": true,
+        "p990": true,
+        "crespo":true
+      },
+      "summary": "Projeto de tradução da ROM MIUI para o português do Brasil. Atenção: Cada ROM deverá ser baixada com o pacote de tradução! procure sempre os dois pacotes: o deodexed e o TRAD para seu aparelho!"
     }
   ],
   "minversion": "4322"

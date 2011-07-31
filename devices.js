@@ -1022,7 +1022,7 @@
       "key": "olympus"
     },
     {
-      "name": "Viewsonic GTablet",
+      "name": "Viewsonic GTablet (smb_a1002)",
       "flash_recovery": "/data/data/com.koushikdutta.rommanager/files/tegra_flash_image recovery %s ; ",
       "version": "4.0.1.5",
       "init": "init.harmony.rc",

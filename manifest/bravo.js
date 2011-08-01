@@ -127,19 +127,11 @@
     },
     {
       "developer": "roalex",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/107/236f3ca6074ca5d999aef037aae94244.png",
       "id": "roalex-bravo",
       "manifest": "http://romshare.deployfu.com/developer/roalex-bravo/manifest",
       "summary": "AOSP/CM Desire builds & Custom HTC Sense builds"
-    },
-    {
-      "developer": "MIUI.us",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
-      "id": "miuius",
-      "manifest": "http://roms.miui.us/manifest/rommanager.js",
-      "summary": "MIUI English releases by MIUI.us"
     },
     {
       "developer": "Solstice",
@@ -148,6 +140,14 @@
       "id": "laszlo.david@gmail.com",
       "manifest": "http://solsticerom.github.com/ROMManagerManifest/manifest.js",
       "summary": "Simple AOSP ROM"
+    },
+    {
+      "developer": "MIUI.us",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
+      "id": "miuius",
+      "manifest": "http://roms.miui.us/manifest/rommanager.js",
+      "summary": "MIUI English releases by MIUI.us"
     },
     {
       "developer": "MIUI Android",
@@ -164,6 +164,14 @@
       "id": "miuiportugal",
       "manifest": "http://www.files.miui-pt.com/manifest/miuipt.js",
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
+    },
+    {
+      "developer": "MIUIBrasil",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/610/b8dd1c98205fd076be6738c1c4d99412.png",
+      "id": "miuibrasil",
+      "manifest": "http://miuibrasil.net/roms/manifestrm.js",
+      "summary": "Projeto de Tradução da ROM MIUI para o Português do Brasil"
     }
   ],
   "minversion": "4322"

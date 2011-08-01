@@ -63,31 +63,31 @@
     },
     {
       "developer": "siulmagic",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/198/8e366a4e34c56d2a83c384b8cff73b88.jpg",
       "id": "siulmagic@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/siulmagic@gmail.com/manifest",
       "summary": "http://android-maisters.ddns.net"
     },
     {
-      "developer": "PyroMod Roms",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/289/f50f109fd0e925ebc88d9d0d350411c1.jpg",
-      "id": "blahbl4hblah",
-      "manifest": "http://romshare.deployfu.com/developer/blahbl4hblah/manifest",
-      "summary": "PyroMod roms are fast and clean "
-    },
-    {
       "developer": "Htcclay",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/307/5076662d1617430aa6ad3f6ad73136aa.jpg",
       "id": "htcclay",
       "manifest": "http://romshare.deployfu.com/developer/htcclay/manifest",
       "summary": "Go Go Go!"
     },
     {
+      "developer": "PyroMod Roms",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/289/f50f109fd0e925ebc88d9d0d350411c1.jpg",
+      "id": "blahbl4hblah",
+      "manifest": "http://romshare.deployfu.com/developer/blahbl4hblah/manifest",
+      "summary": "PyroMod roms are fast and clean "
+    },
+    {
       "developer": "meXdroidMod rOmS",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/394/991fd69a0f32e66d8026b35c3a914259.jpg",
       "id": "mjybarr@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/mjybarr@gmail.com/manifest",
@@ -116,6 +116,14 @@
       "id": "miuiportugal",
       "manifest": "http://www.files.miui-pt.com/manifest/miuipt.js",
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
+    },
+    {
+      "developer": "MIUIBrasil",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/610/b8dd1c98205fd076be6738c1c4d99412.png",
+      "id": "miuibrasil",
+      "manifest": "http://miuibrasil.net/roms/manifestrm.js",
+      "summary": "Projeto de Tradução da ROM MIUI para o Português do Brasil"
     }
   ],
   "minversion": "4322"

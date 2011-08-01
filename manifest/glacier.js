@@ -40,8 +40,32 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
+      "developer": "SnakeBiteZZ",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/178/75a44ae18b10c58a76c785cbf245f3f0.jpg",
+      "id": "SnakeBiteZZ",
+      "manifest": "http://romshare.deployfu.com/developer/SnakeBiteZZ/manifest",
+      "summary": "The small Pieces"
+    },
+    {
+      "developer": "Rafyvitto",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/177/700bcfbb335a940d5d43aab2894d058d.jpg",
+      "id": "Android-Maisters",
+      "manifest": "http://romshare.deployfu.com/developer/Android-Maisters/manifest",
+      "summary": "http://android-maisters.ddns.net Roms latest and greatest!"
+    },
+    {
+      "developer": "GreenRomProject",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
+      "id": "GreenRomProject",
+      "manifest": "http://romshare.deployfu.com/developer/GreenRomProject/manifest",
+      "summary": "STABLE Super Fast ROM; ANDROID 2.3.4"
+    },
+    {
       "developer": "Jivany",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/54/b2fbc8d78d1603ad3ce1c5db727a4b68.jpg",
       "id": "jivanylaureano@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/jivanylaureano@gmail.com/manifest",
@@ -49,39 +73,15 @@
     },
     {
       "developer": "Faux123 Custom ROMs",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/65/458f8e1774c14317e04210d456d579e0.gif",
       "id": "faux123",
       "manifest": "http://romshare.deployfu.com/developer/faux123/manifest",
       "summary": "Custom ROMs for MT4G & G2x"
     },
     {
-      "developer": "Rafyvitto",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/177/700bcfbb335a940d5d43aab2894d058d.jpg",
-      "id": "Android-Maisters",
-      "manifest": "http://romshare.deployfu.com/developer/Android-Maisters/manifest",
-      "summary": "http://android-maisters.ddns.net Roms latest and greatest!"
-    },
-    {
-      "developer": "SnakeBiteZZ",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/178/75a44ae18b10c58a76c785cbf245f3f0.jpg",
-      "id": "SnakeBiteZZ",
-      "manifest": "http://romshare.deployfu.com/developer/SnakeBiteZZ/manifest",
-      "summary": "The small Pieces"
-    },
-    {
-      "developer": "GreenRomProject",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
-      "id": "GreenRomProject",
-      "manifest": "http://romshare.deployfu.com/developer/GreenRomProject/manifest",
-      "summary": "STABLE Super Fast ROM; ANDROID 2.3.4"
-    },
-    {
       "developer": "GazaIan's ROMs",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/296/cd3509e2cff156bd174cb32481dfbe33.jpg",
       "id": "gazaian13@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/gazaian13@gmail.com/manifest",

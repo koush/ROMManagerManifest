@@ -88,20 +88,28 @@
       "summary": "Sense Rom's, Kernel's & Goodie's"
     },
     {
+      "developer": "cstayton",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/546/7489780bf323b88233ae310c1c65a08e.png",
+      "id": "castayton@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/castayton@gmail.com/manifest",
+      "summary": "developer of StarDroid ROMS for your HTC Inspire and Desire HD"
+    },
+    {
       "developer": "Honey3D",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/376/b266f88e7063336d333ef7ad4fd4d6ff.png",
       "id": "HoneyTeam",
       "manifest": "http://romshare.deployfu.com/developer/HoneyTeam/manifest",
       "summary": "Honeyteam presents fully Sense 3.0 with themes see our thread on XDA for more information"
     },
     {
-      "developer": "cstayton",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/546/7489780bf323b88233ae310c1c65a08e.png",
-      "id": "castayton@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/castayton@gmail.com/manifest",
-      "summary": "developer of StarDroid ROMS for your HTC Inspire and Desire HD"
+      "developer": "pirateghost",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/618/e651f76ee302b696b7e42ed966b612cf.jpg",
+      "id": "pirateg@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/pirateg@gmail.com/manifest",
+      "summary": "Inspire 4G ROMS and Add-ons"
     },
     {
       "developer": "MIUI.us",
@@ -112,14 +120,6 @@
       "summary": "MIUI English releases by MIUI.us"
     },
     {
-      "developer": "ClearDroid",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/572/879c46c74242594d151b96b2d1f3e173.png",
-      "id": "ClearD",
-      "manifest": "http://www.techsupporteverything.com/download/manifest.js",
-      "summary": "ClearDroid ROM for Inspire 4G. Inspire-based, with the choice of a stock feel or the ClearDroid ModPack. The most stable ROM available for the Inspire."
-    },
-    {
       "developer": "MIUI Android",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
@@ -128,12 +128,28 @@
       "summary": "The original English MIUI ROM by MIUI Android"
     },
     {
+      "developer": "ClearDroid",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/572/879c46c74242594d151b96b2d1f3e173.png",
+      "id": "ClearD",
+      "manifest": "http://www.techsupporteverything.com/download/manifest.js",
+      "summary": "ClearDroid ROM for Inspire 4G. Inspire-based, with the choice of a stock feel or the ClearDroid ModPack. The most stable ROM available for the Inspire."
+    },
+    {
       "developer": "MIUI-PT",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
       "id": "miuiportugal",
       "manifest": "http://www.files.miui-pt.com/manifest/miuipt.js",
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
+    },
+    {
+      "developer": "MIUIBrasil",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/610/b8dd1c98205fd076be6738c1c4d99412.png",
+      "id": "miuibrasil",
+      "manifest": "http://miuibrasil.net/roms/manifestrm.js",
+      "summary": "Projeto de Tradução da ROM MIUI para o Português do Brasil"
     }
   ],
   "minversion": "4322"

@@ -75,7 +75,7 @@
     },
     {
       "developer": "DrewGaren Nightlies",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
       "id": "drewgarennightly",
       "manifest": "http://romshare.deployfu.com/developer/drewgarennightly/manifest",
@@ -83,7 +83,7 @@
     },
     {
       "developer": "E-XtremeMod",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/132/3bea45cb0d900947ae2ceb5399b617f3.png",
       "id": "extrememod",
       "manifest": "http://romshare.deployfu.com/developer/extrememod/manifest",
@@ -91,7 +91,7 @@
     },
     {
       "developer": "jbbandos",
-      "free": true,
+      "free": false,
       "id": "jbbandos",
       "manifest": "http://romshare.deployfu.com/developer/jbbandos/manifest",
       "summary": "Multi-language MIUI ROMs. No theme change, 3G, bluetooth and other tunings. Lean and fast."
@@ -119,6 +119,14 @@
       "id": "miuiportugal",
       "manifest": "http://www.files.miui-pt.com/manifest/miuipt.js",
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
+    },
+    {
+      "developer": "MIUIBrasil",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/610/b8dd1c98205fd076be6738c1c4d99412.png",
+      "id": "miuibrasil",
+      "manifest": "http://miuibrasil.net/roms/manifestrm.js",
+      "summary": "Projeto de Tradução da ROM MIUI para o Português do Brasil"
     }
   ],
   "minversion": "4322"

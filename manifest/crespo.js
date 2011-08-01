@@ -89,7 +89,7 @@
     },
     {
       "developer": "NexBreed ROMs",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/150/06f5d36ced5f4795548d594dc9388435.jpg",
       "id": "kaiya215",
       "manifest": "http://romshare.deployfu.com/developer/kaiya215/manifest",
@@ -97,7 +97,7 @@
     },
     {
       "developer": "Htcclay",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/307/5076662d1617430aa6ad3f6ad73136aa.jpg",
       "id": "htcclay",
       "manifest": "http://romshare.deployfu.com/developer/htcclay/manifest",
@@ -126,6 +126,14 @@
       "id": "miuiportugal",
       "manifest": "http://www.files.miui-pt.com/manifest/miuipt.js",
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
+    },
+    {
+      "developer": "MIUIBrasil",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/610/b8dd1c98205fd076be6738c1c4d99412.png",
+      "id": "miuibrasil",
+      "manifest": "http://miuibrasil.net/roms/manifestrm.js",
+      "summary": "Projeto de Tradução da ROM MIUI para o Português do Brasil"
     }
   ],
   "minversion": "4322"

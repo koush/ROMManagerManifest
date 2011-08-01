@@ -18,19 +18,11 @@
     },
     {
       "developer": "DesignGears Roms",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/271/3ee39ba3530e8d858bbbfdbbb1ae2bea.png",
       "id": "DesignGears",
       "manifest": "http://romshare.deployfu.com/developer/DesignGears/manifest",
       "summary": "Roms & Mods by DesignGears"
-    },
-    {
-      "developer": "Lostlogic89",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/606/abdd0964672e43f84318efed8d398c9b.png",
-      "id": "lostlogic01@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/lostlogic01@gmail.com/manifest",
-      "summary": "Unique Rom with best battery life,and  performance,and instant GPS lock .Please head to webproz.org for more info"
     },
     {
       "developer": "MIUI-PT",

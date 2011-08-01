@@ -1027,6 +1027,20 @@
       "version": "4.0.1.5",
       "init": "init.harmony.rc",
       "key": "smb_a1002"
+    },
+    {
+      "name": "HTC EVO 3D",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=262144 ; ",
+      "version": "4.0.1.5",
+      "init": "init.shooter.rc",
+      "key": "shooter"
+    },
+    {
+      "name": "HTC Sensation",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=262144 ; ",
+      "version": "4.0.1.5",
+      "init": "init.pyramid.rc",
+      "key": "pyramid"
     }
   ],
   "use_in_app": false,

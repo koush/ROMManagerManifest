@@ -26,27 +26,27 @@
     },
     {
       "developer": "Team Whiskey",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/217/1f014e3a34997c82b915902c05ba2005.png",
       "id": "Krylon360",
       "manifest": "http://romshare.deployfu.com/developer/Krylon360/manifest",
       "summary": "TeamWhiskey Bionix Roms for the LG G2x and Samsung Vibrant "
     },
     {
-      "developer": "phiremod",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/234/49168358de7756efa2aab68b0a3919d6.jpg",
-      "id": "phiredrop",
-      "manifest": "http://romshare.deployfu.com/developer/phiredrop/manifest",
-      "summary": "Bringing you the best of Android."
-    },
-    {
       "developer": "Br1cK'd",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/288/75bcc580df6cb4e59690993fcb904ecc.jpg",
       "id": "bossdj523@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/bossdj523@gmail.com/manifest",
       "summary": "Slim, fast, stable Samsung Vibrant Roms"
+    },
+    {
+      "developer": "phiremod",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/234/49168358de7756efa2aab68b0a3919d6.jpg",
+      "id": "phiredrop",
+      "manifest": "http://romshare.deployfu.com/developer/phiredrop/manifest",
+      "summary": "Bringing you the best of Android."
     },
     {
       "developer": "Einherjar Dev",

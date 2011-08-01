@@ -1240,6 +1240,95 @@
       "summary": "Sense Rom's, Kernel's & Goodie's"
     },
     {
+      "developer": "Stock ROMs",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/23/757972f1d6362f95a265050747542fc5.jpg",
+      "id": "jamieluckett@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/jamieluckett@gmail.com/manifest",
+      "roms": {
+        "blade": true
+      },
+      "summary": "Stock ROMs for the ZTE Blade and it's renamed counterparts."
+    },
+    {
+      "developer": "Magiman7",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/42/70d519969f6c857c9e5b7c1cfb147ae9.png",
+      "id": "magiman7",
+      "manifest": "http://romshare.deployfu.com/developer/magiman7/manifest",
+      "roms": {
+        "sholes": true
+      },
+      "summary": "Miui.us Ports for Droid"
+    },
+    {
+      "developer": "winner00",
+      "free": false,
+      "id": "toverturf@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/toverturf@gmail.com/manifest",
+      "roms": {
+        "sholes": true,
+        "inc": true
+      },
+      "summary": "CyanogenMod 7 with few tweaks for better performance on the OG Droid, Incredible, and pulls from gerrit.  "
+    },
+    {
+      "developer": "Codeworkx",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/51/b1939ede73c42c69d8e2c3f1f34f3265.png",
+      "id": "daniel.hillenbrand@codeworkx.de",
+      "manifest": "http://romshare.deployfu.com/developer/daniel.hillenbrand@codeworkx.de/manifest",
+      "roms": {
+        "galaxys2": true
+      },
+      "summary": "Usefull Stuff for Galaxy S Phones"
+    },
+    {
+      "developer": "metiCkOne",
+      "free": false,
+      "id": "metiCkOne",
+      "manifest": "http://romshare.deployfu.com/developer/metiCkOne/manifest",
+      "roms": {
+        "droid2": true,
+        "sholes": true
+      },
+      "summary": "Clean, fast & Stable roms for the D1 & D2"
+    },
+    {
+      "developer": "Jivany",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/54/b2fbc8d78d1603ad3ce1c5db727a4b68.jpg",
+      "id": "jivanylaureano@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/jivanylaureano@gmail.com/manifest",
+      "roms": {
+        "glacier": true
+      },
+      "summary": "Roms, Ports, and custom gapps"
+    },
+    {
+      "developer": "Faux123 Custom ROMs",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/65/458f8e1774c14317e04210d456d579e0.gif",
+      "id": "faux123",
+      "manifest": "http://romshare.deployfu.com/developer/faux123/manifest",
+      "roms": {
+        "p999": true,
+        "glacier": true
+      },
+      "summary": "Custom ROMs for MT4G & G2x"
+    },
+    {
+      "developer": "Cubed ROM",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/66/24fcf796e1e1fc870f868d35e7cf0207.png",
+      "id": "dsb9938",
+      "manifest": "http://romshare.deployfu.com/developer/dsb9938/manifest",
+      "roms": {
+        "mecha": true
+      },
+      "summary": "dsb9938 from XDA"
+    },
+    {
       "developer": "DrewGaren Nightlies",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1253,15 +1342,15 @@
       "summary": "DrewGaren Beta Roms Nightly Builds!"
     },
     {
-      "developer": "Magiman7",
+      "developer": "roalex",
       "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/42/70d519969f6c857c9e5b7c1cfb147ae9.png",
-      "id": "magiman7",
-      "manifest": "http://romshare.deployfu.com/developer/magiman7/manifest",
+      "icon": "http://romshare.deployfu.com/downloads/107/236f3ca6074ca5d999aef037aae94244.png",
+      "id": "roalex-bravo",
+      "manifest": "http://romshare.deployfu.com/developer/roalex-bravo/manifest",
       "roms": {
-        "sholes": true
+        "bravo": true
       },
-      "summary": "Miui.us Ports for Droid"
+      "summary": "AOSP/CM Desire builds & Custom HTC Sense builds"
     },
     {
       "developer": "DarkyROM",
@@ -1284,6 +1373,16 @@
         "passion": true
       },
       "summary": "CM7 based mod with performance and graphic enhancements."
+    },
+    {
+      "developer": "foschi@gmail.com",
+      "free": false,
+      "id": "crimescene",
+      "manifest": "http://romshare.deployfu.com/developer/crimescene/manifest",
+      "roms": {
+        "thunderg": true
+      },
+      "summary": "don't forget to patrition your sd card swap 0 ext4 512 or more"
     },
     {
       "developer": "TyphooN CyanogenMod",
@@ -1318,17 +1417,6 @@
       "summary": "CM7 test builds"
     },
     {
-      "developer": "SnakeBiteZZ",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/178/75a44ae18b10c58a76c785cbf245f3f0.jpg",
-      "id": "SnakeBiteZZ",
-      "manifest": "http://romshare.deployfu.com/developer/SnakeBiteZZ/manifest",
-      "roms": {
-        "glacier": true
-      },
-      "summary": "The small Pieces"
-    },
-    {
       "developer": "Rafyvitto",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/177/700bcfbb335a940d5d43aab2894d058d.jpg",
@@ -1340,6 +1428,17 @@
       "summary": "http://android-maisters.ddns.net Roms latest and greatest!"
     },
     {
+      "developer": "SnakeBiteZZ",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/178/75a44ae18b10c58a76c785cbf245f3f0.jpg",
+      "id": "SnakeBiteZZ",
+      "manifest": "http://romshare.deployfu.com/developer/SnakeBiteZZ/manifest",
+      "roms": {
+        "glacier": true
+      },
+      "summary": "The small Pieces"
+    },
+    {
       "developer": "siulmagic",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/198/8e366a4e34c56d2a83c384b8cff73b88.jpg",
@@ -1349,6 +1448,17 @@
         "vision": true
       },
       "summary": "http://android-maisters.ddns.net"
+    },
+    {
+      "developer": "CorCor67",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/208/1a50ab91ddac2b2ef3829b8e4c7a3664.png",
+      "id": "corcor67@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/corcor67@gmail.com/manifest",
+      "roms": {
+        "sholes": true
+      },
+      "summary": "OC Kernels for the Droid"
     },
     {
       "developer": "Team Whiskey",
@@ -1385,15 +1495,27 @@
       "summary": "MIUI Uploads from our hardworking Developers"
     },
     {
-      "developer": "CorCor67",
+      "developer": "phiremod",
       "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/208/1a50ab91ddac2b2ef3829b8e4c7a3664.png",
-      "id": "corcor67@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/corcor67@gmail.com/manifest",
+      "icon": "http://romshare.deployfu.com/downloads/234/49168358de7756efa2aab68b0a3919d6.jpg",
+      "id": "phiredrop",
+      "manifest": "http://romshare.deployfu.com/developer/phiredrop/manifest",
       "roms": {
-        "sholes": true
+        "vibrant": true,
+        "encore": true
       },
-      "summary": "OC Kernels for the Droid"
+      "summary": "Bringing you the best of Android."
+    },
+    {
+      "developer": "TeamRogue",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/255/eef30cd10645b17f89e2f65186bfb915.png",
+      "id": "TeamRogue",
+      "manifest": "http://romshare.deployfu.com/developer/TeamRogue/manifest",
+      "roms": {
+        "morrison": true
+      },
+      "summary": "CyanogenMod 7 for the Motorola Cliq/Dext. DO NOT WIPE DATA/CACHE. Our ROM's have a wipe patch included. If you wipe, reinstall without wiping. Please remember DO NOT BACKUP ROM OR WIPE DATA/FACTORY RESET THROUGH ROM MANAGER! "
     },
     {
       "developer": "GreenRomProject",
@@ -1413,27 +1535,6 @@
       "summary": "STABLE Super Fast ROM; ANDROID 2.3.4"
     },
     {
-      "developer": "foschi@gmail.com",
-      "free": false,
-      "id": "crimescene",
-      "manifest": "http://romshare.deployfu.com/developer/crimescene/manifest",
-      "roms": {
-        "thunderg": true
-      },
-      "summary": "don't forget to patrition your sd card swap 0 ext4 512 or more"
-    },
-    {
-      "developer": "winner00",
-      "free": false,
-      "id": "toverturf@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/toverturf@gmail.com/manifest",
-      "roms": {
-        "sholes": true,
-        "inc": true
-      },
-      "summary": "CyanogenMod 7 with few tweaks for better performance on the OG Droid, Incredible, and pulls from gerrit.  "
-    },
-    {
       "developer": "DesignGears Roms",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/271/3ee39ba3530e8d858bbbfdbbb1ae2bea.png",
@@ -1446,6 +1547,17 @@
       "summary": "Roms & Mods by DesignGears"
     },
     {
+      "developer": "mik_os",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/280/90f44cfd3ec66b7485bbf1d464651da5.gif",
+      "id": "kiril.mik.os@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/kiril.mik.os@gmail.com/manifest",
+      "roms": {
+        "thunderg": true
+      },
+      "summary": "kiril.mik.os@gmail.com"
+    },
+    {
       "developer": "Br1cK'd",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/288/75bcc580df6cb4e59690993fcb904ecc.jpg",
@@ -1455,6 +1567,28 @@
         "vibrant": true
       },
       "summary": "Slim, fast, stable Samsung Vibrant Roms"
+    },
+    {
+      "developer": "PyroMod Roms",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/289/f50f109fd0e925ebc88d9d0d350411c1.jpg",
+      "id": "blahbl4hblah",
+      "manifest": "http://romshare.deployfu.com/developer/blahbl4hblah/manifest",
+      "roms": {
+        "vision": true
+      },
+      "summary": "PyroMod roms are fast and clean "
+    },
+    {
+      "developer": "SparksCo",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/293/b6c183f7deb2729a2821649ddbe563e3.jpg",
+      "id": "SparksCo",
+      "manifest": "http://romshare.deployfu.com/developer/SparksCo/manifest",
+      "roms": {
+        "speedy": true
+      },
+      "summary": "CM7 Roms and Kernels for HTC Evo Shift"
     },
     {
       "developer": "Ginger yoshi ^_^",
@@ -1469,15 +1603,15 @@
       "summary": "all the ginger yoshi roms "
     },
     {
-      "developer": "Jivany",
+      "developer": "GazaIan's ROMs",
       "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/54/b2fbc8d78d1603ad3ce1c5db727a4b68.jpg",
-      "id": "jivanylaureano@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/jivanylaureano@gmail.com/manifest",
+      "icon": "http://romshare.deployfu.com/downloads/296/cd3509e2cff156bd174cb32481dfbe33.jpg",
+      "id": "gazaian13@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/gazaian13@gmail.com/manifest",
       "roms": {
         "glacier": true
       },
-      "summary": "Roms, Ports, and custom gapps"
+      "summary": "HoneySense lives here, as well as others :)"
     },
     {
       "developer": "Htcclay",
@@ -1491,18 +1625,6 @@
         "vision": true
       },
       "summary": "Go Go Go!"
-    },
-    {
-      "developer": "Faux123 Custom ROMs",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/65/458f8e1774c14317e04210d456d579e0.gif",
-      "id": "faux123",
-      "manifest": "http://romshare.deployfu.com/developer/faux123/manifest",
-      "roms": {
-        "p999": true,
-        "glacier": true
-      },
-      "summary": "Custom ROMs for MT4G & G2x"
     },
     {
       "developer": "j_r0dd",
@@ -1539,49 +1661,38 @@
       "summary": "aosp4u@gmail.com"
     },
     {
-      "developer": "GazaIan's ROMs",
+      "developer": "Fabolous",
       "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/296/cd3509e2cff156bd174cb32481dfbe33.jpg",
-      "id": "gazaian13@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/gazaian13@gmail.com/manifest",
+      "icon": "http://romshare.deployfu.com/downloads/337/d2c1bf150b52364eca4dcba86135ff9d.png",
+      "id": "fabolous",
+      "manifest": "http://romshare.deployfu.com/developer/fabolous/manifest",
       "roms": {
-        "glacier": true
+        "droid2": true,
+        "droidx": true
       },
-      "summary": "HoneySense lives here, as well as others :)"
+      "summary": "ApeX for DX/D2"
     },
     {
-      "developer": "PyroMod Roms",
+      "developer": "Honey3D",
       "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/289/f50f109fd0e925ebc88d9d0d350411c1.jpg",
-      "id": "blahbl4hblah",
-      "manifest": "http://romshare.deployfu.com/developer/blahbl4hblah/manifest",
+      "icon": "http://romshare.deployfu.com/downloads/376/b266f88e7063336d333ef7ad4fd4d6ff.png",
+      "id": "HoneyTeam",
+      "manifest": "http://romshare.deployfu.com/developer/HoneyTeam/manifest",
+      "roms": {
+        "ace": true
+      },
+      "summary": "Honeyteam presents fully Sense 3.0 with themes see our thread on XDA for more information"
+    },
+    {
+      "developer": "meXdroidMod rOmS",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/394/991fd69a0f32e66d8026b35c3a914259.jpg",
+      "id": "mjybarr@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/mjybarr@gmail.com/manifest",
       "roms": {
         "vision": true
       },
-      "summary": "PyroMod roms are fast and clean "
-    },
-    {
-      "developer": "Cubed ROM",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/66/24fcf796e1e1fc870f868d35e7cf0207.png",
-      "id": "dsb9938",
-      "manifest": "http://romshare.deployfu.com/developer/dsb9938/manifest",
-      "roms": {
-        "mecha": true
-      },
-      "summary": "dsb9938 from XDA"
-    },
-    {
-      "developer": "phiremod",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/234/49168358de7756efa2aab68b0a3919d6.jpg",
-      "id": "phiredrop",
-      "manifest": "http://romshare.deployfu.com/developer/phiredrop/manifest",
-      "roms": {
-        "vibrant": true,
-        "encore": true
-      },
-      "summary": "Bringing you the best of Android."
+      "summary": "Compiled Android 2.3.4 from CM Github with eye candy, speed, and tons of tweaks for performance/battery life/OC-UV-Smarta**-Compcache Kernel."
     },
     {
       "developer": "JMCyanbreadMod",
@@ -1595,29 +1706,6 @@
       "summary": "JMCyanbreadMod ROM´s are based on CM7 Nightlys or Kangs. All system apps are modded in cyan."
     },
     {
-      "developer": "TeamRogue",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/255/eef30cd10645b17f89e2f65186bfb915.png",
-      "id": "TeamRogue",
-      "manifest": "http://romshare.deployfu.com/developer/TeamRogue/manifest",
-      "roms": {
-        "morrison": true
-      },
-      "summary": "CyanogenMod 7 for the Motorola Cliq/Dext. DO NOT WIPE DATA/CACHE. Our ROM's have a wipe patch included. If you wipe, reinstall without wiping. Please remember DO NOT BACKUP ROM OR WIPE DATA/FACTORY RESET THROUGH ROM MANAGER! "
-    },
-    {
-      "developer": "Fabolous",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/337/d2c1bf150b52364eca4dcba86135ff9d.png",
-      "id": "fabolous",
-      "manifest": "http://romshare.deployfu.com/developer/fabolous/manifest",
-      "roms": {
-        "droid2": true,
-        "droidx": true
-      },
-      "summary": "ApeX for DX/D2"
-    },
-    {
       "developer": "Kejar31",
       "free": false,
       "id": "Kejar31",
@@ -1626,39 +1714,6 @@
         "charge": true
       },
       "summary": "Kejar31"
-    },
-    {
-      "developer": "metiCkOne",
-      "free": false,
-      "id": "metiCkOne",
-      "manifest": "http://romshare.deployfu.com/developer/metiCkOne/manifest",
-      "roms": {
-        "droid2": true,
-        "sholes": true
-      },
-      "summary": "Clean, fast & Stable roms for the D1 & D2"
-    },
-    {
-      "developer": "mik_os",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/280/90f44cfd3ec66b7485bbf1d464651da5.gif",
-      "id": "kiril.mik.os@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/kiril.mik.os@gmail.com/manifest",
-      "roms": {
-        "thunderg": true
-      },
-      "summary": "kiril.mik.os@gmail.com"
-    },
-    {
-      "developer": "SparksCo",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/293/b6c183f7deb2729a2821649ddbe563e3.jpg",
-      "id": "SparksCo",
-      "manifest": "http://romshare.deployfu.com/developer/SparksCo/manifest",
-      "roms": {
-        "speedy": true
-      },
-      "summary": "CM7 Roms and Kernels for HTC Evo Shift"
     },
     {
       "developer": "HardDroid2",
@@ -1714,28 +1769,6 @@
       "summary": "CM7-Ascend, PlayfulMod"
     },
     {
-      "developer": "meXdroidMod rOmS",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/394/991fd69a0f32e66d8026b35c3a914259.jpg",
-      "id": "mjybarr@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/mjybarr@gmail.com/manifest",
-      "roms": {
-        "vision": true
-      },
-      "summary": "Compiled Android 2.3.4 from CM Github with eye candy, speed, and tons of tweaks for performance/battery life/OC-UV-Smarta**-Compcache Kernel."
-    },
-    {
-      "developer": "roalex",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/107/236f3ca6074ca5d999aef037aae94244.png",
-      "id": "roalex-bravo",
-      "manifest": "http://romshare.deployfu.com/developer/roalex-bravo/manifest",
-      "roms": {
-        "bravo": true
-      },
-      "summary": "AOSP/CM Desire builds & Custom HTC Sense builds"
-    },
-    {
       "developer": "jbbandos",
       "free": false,
       "id": "jbbandos",
@@ -1744,38 +1777,6 @@
         "passion": true
       },
       "summary": "Multi-language MIUI ROMs. No theme change, 3G, bluetooth and other tunings. Lean and fast."
-    },
-    {
-      "developer": "ldrifta@gmail.com",
-      "free": false,
-      "id": "ldrifta@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/ldrifta@gmail.com/manifest",
-      "roms": {
-        "dream": true
-      },
-      "summary": "ldrifta@gmail.com"
-    },
-    {
-      "developer": "aefreshkid97@gmail.com",
-      "free": false,
-      "id": "aefreshkid97@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/aefreshkid97@gmail.com/manifest",
-      "roms": {
-        "galaxys4g": true,
-        "olympus": true
-      },
-      "summary": "aefreshkid97@gmail.com"
-    },
-    {
-      "developer": "SamCripp",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/550/6d520d99859e134dd32cd4132a8ac3d5.png",
-      "id": "samuel.r.rivera@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/samuel.r.rivera@gmail.com/manifest",
-      "roms": {
-        "olympus": true
-      },
-      "summary": "Atrix Roms"
     },
     {
       "developer": "tvall",
@@ -1799,15 +1800,47 @@
       "summary": "developer of StarDroid ROMS for your HTC Inspire and Desire HD"
     },
     {
-      "developer": "Codeworkx",
+      "developer": "SamCripp",
       "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/51/b1939ede73c42c69d8e2c3f1f34f3265.png",
-      "id": "daniel.hillenbrand@codeworkx.de",
-      "manifest": "http://romshare.deployfu.com/developer/daniel.hillenbrand@codeworkx.de/manifest",
+      "icon": "http://romshare.deployfu.com/downloads/550/6d520d99859e134dd32cd4132a8ac3d5.png",
+      "id": "samuel.r.rivera@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/samuel.r.rivera@gmail.com/manifest",
       "roms": {
-        "galaxys2": true
+        "olympus": true
       },
-      "summary": "Usefull Stuff for Galaxy S Phones"
+      "summary": "Atrix Roms"
+    },
+    {
+      "developer": "ldrifta@gmail.com",
+      "free": false,
+      "id": "ldrifta@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/ldrifta@gmail.com/manifest",
+      "roms": {
+        "dream": true
+      },
+      "summary": "ldrifta@gmail.com"
+    },
+    {
+      "developer": "aefreshkid97@gmail.com",
+      "free": false,
+      "id": "aefreshkid97@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/aefreshkid97@gmail.com/manifest",
+      "roms": {
+        "galaxys4g": true,
+        "olympus": true
+      },
+      "summary": "aefreshkid97@gmail.com"
+    },
+    {
+      "developer": "SlashDW",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/567/b1f21e36d21b94a782be20b894dda7e4.jpeg",
+      "id": "SlashDW",
+      "manifest": "http://romshare.deployfu.com/developer/SlashDW/manifest",
+      "roms": {
+        "sapphire": true
+      },
+      "summary": "Stable and Superfast ROM's built from Cyanogenmod sources for Dream/Sapphire."
     },
     {
       "developer": "notna659@gmail.com",
@@ -1818,6 +1851,16 @@
         "droidx": true
       },
       "summary": "notna659@gmail.com"
+    },
+    {
+      "developer": "WBAW",
+      "free": false,
+      "id": "johnkenney02@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/johnkenney02@gmail.com/manifest",
+      "roms": {
+        "blade": true
+      },
+      "summary": "Stir Fry Chef"
     },
     {
       "developer": "FirstUA-ROM",
@@ -1839,17 +1882,6 @@
         "droidx": true
       },
       "summary": "TeamChargeDev ROM, MOD, BUILD, and TWEAK Releases."
-    },
-    {
-      "developer": "SlashDW",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/567/b1f21e36d21b94a782be20b894dda7e4.jpeg",
-      "id": "SlashDW",
-      "manifest": "http://romshare.deployfu.com/developer/SlashDW/manifest",
-      "roms": {
-        "sapphire": true
-      },
-      "summary": "Stable and Superfast ROM's built from Cyanogenmod sources for Dream/Sapphire."
     },
     {
       "developer": "Diviance",
@@ -1874,27 +1906,6 @@
       "summary": "Roms, themes, and more!"
     },
     {
-      "developer": "WBAW",
-      "free": false,
-      "id": "johnkenney02@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/johnkenney02@gmail.com/manifest",
-      "roms": {
-        "blade": true
-      },
-      "summary": "Stir Fry Chef"
-    },
-    {
-      "developer": "Honey3D",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/376/b266f88e7063336d333ef7ad4fd4d6ff.png",
-      "id": "HoneyTeam",
-      "manifest": "http://romshare.deployfu.com/developer/HoneyTeam/manifest",
-      "roms": {
-        "ace": true
-      },
-      "summary": "Honeyteam presents fully Sense 3.0 with themes see our thread on XDA for more information"
-    },
-    {
       "developer": "dfgas",
       "free": false,
       "id": "dfgas",
@@ -1905,15 +1916,16 @@
       "summary": "dfgas"
     },
     {
-      "developer": "Stock ROMs",
+      "developer": "Rom Fasty By Lostlogic89",
       "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/23/757972f1d6362f95a265050747542fc5.jpg",
-      "id": "jamieluckett@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/jamieluckett@gmail.com/manifest",
+      "icon": "http://romshare.deployfu.com/downloads/606/abdd0964672e43f84318efed8d398c9b.png",
+      "id": "lostlogic01@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/lostlogic01@gmail.com/manifest",
       "roms": {
-        "blade": true
+        "captivate": true,
+        "captivatemtd": true
       },
-      "summary": "Stock ROMs for the ZTE Blade and it's renamed counterparts."
+      "summary": "FASTY ROM is a Unique Rom with best battery life,and  performance,and instant GPS lock .Please head to webproz.org for more info"
     },
     {
       "developer": "Unofficial CyanogenMod Dailies",
@@ -1926,15 +1938,15 @@
       "summary": "Unofficial daily builds of CyanogenMod"
     },
     {
-      "developer": "Rom Fasty By Lostlogic89",
+      "developer": "Sapo a5 Blog Team",
       "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/606/abdd0964672e43f84318efed8d398c9b.png",
-      "id": "lostlogic01@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/lostlogic01@gmail.com/manifest",
+      "icon": "http://romshare.deployfu.com/downloads/617/5619a3f5e5ed0ed0069a92a142639a62.png",
+      "id": "a5.blog.team",
+      "manifest": "http://romshare.deployfu.com/developer/a5.blog.team/manifest",
       "roms": {
-        "captivatemtd": true
+        "blade": true
       },
-      "summary": "FASTY ROM is a Unique Rom with best battery life,and  performance,and instant GPS lock .Please head to webproz.org for more info"
+      "summary": "Powered by Rafael Souto and The Sapo a5 Community"
     },
     {
       "developer": "pirateghost",
@@ -1972,54 +1984,6 @@
       "summary": "ROMs, with a side of metal."
     },
     {
-      "developer": "CyanogenMod Nightlies",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/541/4158e7edc75c600607f05a3b063ffba1.png",
-      "id": "tanguy.pruvot@gmail.com",
-      "manifest": "http://defy.tanguy.tk/rm/custom.js",
-      "roms": {
-        "umts_jordan": true
-      },
-      "summary": "CyanogenMod Nightly builds. tpruvot@github"
-    },
-    {
-      "developer": "MIUI.us",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
-      "id": "miuius",
-      "manifest": "http://roms.miui.us/manifest/rommanager.js",
-      "roms": {
-        "leo": true,
-        "vivow": true,
-        "shadow": true,
-        "droid2": true,
-        "vivo": true,
-        "vibrantmtd": true,
-        "umts_jordan": true,
-        "passion": true,
-        "galaxys": true,
-        "bravo": true,
-        "ace": true,
-        "sholes": true,
-        "fascinatemtd": true,
-        "bravoc": true,
-        "glacier": true,
-        "crespo4g": true,
-        "captivatemtd": true,
-        "speedy": true,
-        "milestone": true,
-        "supersonic": true,
-        "saga": true,
-        "inc": true,
-        "encore": true,
-        "vision": true,
-        "crespo": true,
-        "showcasemtd": true,
-        "mesmerizemtd": true
-      },
-      "summary": "MIUI English releases by MIUI.us"
-    },
-    {
       "developer": "CyanogenMod Nightly Kangs",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/529/d04138f4fd1395737f6c617b9ee6fa63.png",
@@ -2040,6 +2004,39 @@
         "zeppelin": true
       },
       "summary": "AmbrosialROMS: Bringing More Sizzle to the Bacon!"
+    },
+    {
+      "developer": "Ideos Dev Team ROMs",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/250/ba66421c10863d65957a42c5a3dddf51.png",
+      "id": "tilal6991",
+      "manifest": "http://cloud.github.com/downloads/tilal6991/android_device_huawei_u8150/manifest.js",
+      "roms": {
+        "ideos": true
+      },
+      "summary": "ROMs for the Huawei U8150 Ideos from the Ideos Dev Team"
+    },
+    {
+      "developer": "Saga LBC Mod",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/573/8bf50ca36993e1e97aa0bf47bcc8f043.png",
+      "id": "loveboatcaptain",
+      "manifest": "http://ota.saga-lbc-mod.de/rommanager/manifest.js",
+      "roms": {
+        "saga": true
+      },
+      "summary": "LoveBoatCaptain - Android Development"
+    },
+    {
+      "developer": "ClearDroid",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/572/879c46c74242594d151b96b2d1f3e173.png",
+      "id": "ClearD",
+      "manifest": "http://www.techsupporteverything.com/download/manifest.js",
+      "roms": {
+        "ace": true
+      },
+      "summary": "ClearDroid ROM for Inspire 4G. Inspire-based, with the choice of a stock feel or the ClearDroid ModPack. The most stable ROM available for the Inspire."
     },
     {
       "developer": "MIUI Android",
@@ -2066,15 +2063,24 @@
       "summary": "The original English MIUI ROM by MIUI Android"
     },
     {
-      "developer": "ClearDroid",
+      "developer": "MIUIBrasil",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/572/879c46c74242594d151b96b2d1f3e173.png",
-      "id": "ClearD",
-      "manifest": "http://www.techsupporteverything.com/download/manifest.js",
+      "icon": "http://romshare.deployfu.com/downloads/610/b8dd1c98205fd076be6738c1c4d99412.png",
+      "id": "miuibrasil",
+      "manifest": "http://miuibrasil.net/roms/manifestrm.js",
       "roms": {
-        "ace": true
+        "leo": true,
+        "p990": true,
+        "ace": true,
+        "passion": true,
+        "bravo": true,
+        "umts_jordan": true,
+        "crespo": true,
+        "galaxysmtd": true,
+        "vision": true,
+        "umts_sholes": true
       },
-      "summary": "ClearDroid ROM for Inspire 4G. Inspire-based, with the choice of a stock feel or the ClearDroid ModPack. The most stable ROM available for the Inspire."
+      "summary": "Projeto de Tradução da ROM MIUI para o Português do Brasil"
     },
     {
       "developer": "MIUI-PT",
@@ -2101,48 +2107,6 @@
         "umts_sholes": true
       },
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
-    },
-    {
-      "developer": "MIUIBrasil",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/610/b8dd1c98205fd076be6738c1c4d99412.png",
-      "id": "miuibrasil",
-      "manifest": "http://miuibrasil.net/roms/manifestrm.js",
-      "roms": {
-        "leo": true,
-        "p990": true,
-        "ace": true,
-        "passion": true,
-        "bravo": true,
-        "umts_jordan": true,
-        "crespo": true,
-        "galaxysmtd": true,
-        "vision": true,
-        "umts_sholes": true
-      },
-      "summary": "Projeto de Tradução da ROM MIUI para o Português do Brasil"
-    },
-    {
-      "developer": "Saga LBC Mod",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/573/8bf50ca36993e1e97aa0bf47bcc8f043.png",
-      "id": "loveboatcaptain",
-      "manifest": "http://ota.saga-lbc-mod.de/rommanager/manifest.js",
-      "roms": {
-        "saga": true
-      },
-      "summary": "LoveBoatCaptain - Android Development"
-    },
-    {
-      "developer": "Ideos Dev Team ROMs",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/250/ba66421c10863d65957a42c5a3dddf51.png",
-      "id": "tilal6991",
-      "manifest": "http://cloud.github.com/downloads/tilal6991/android_device_huawei_u8150/manifest.js",
-      "roms": {
-        "ideos": true
-      },
-      "summary": "ROMs for the Huawei U8150 Ideos from the Ideos Dev Team"
     },
     {
       "developer": "CM7 Tweaked cLK only",

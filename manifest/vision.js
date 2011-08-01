@@ -70,20 +70,20 @@
       "summary": "http://android-maisters.ddns.net"
     },
     {
-      "developer": "Htcclay",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/307/5076662d1617430aa6ad3f6ad73136aa.jpg",
-      "id": "htcclay",
-      "manifest": "http://romshare.deployfu.com/developer/htcclay/manifest",
-      "summary": "Go Go Go!"
-    },
-    {
       "developer": "PyroMod Roms",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/289/f50f109fd0e925ebc88d9d0d350411c1.jpg",
       "id": "blahbl4hblah",
       "manifest": "http://romshare.deployfu.com/developer/blahbl4hblah/manifest",
       "summary": "PyroMod roms are fast and clean "
+    },
+    {
+      "developer": "Htcclay",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/307/5076662d1617430aa6ad3f6ad73136aa.jpg",
+      "id": "htcclay",
+      "manifest": "http://romshare.deployfu.com/developer/htcclay/manifest",
+      "summary": "Go Go Go!"
     },
     {
       "developer": "meXdroidMod rOmS",
@@ -94,14 +94,6 @@
       "summary": "Compiled Android 2.3.4 from CM Github with eye candy, speed, and tons of tweaks for performance/battery life/OC-UV-Smarta**-Compcache Kernel."
     },
     {
-      "developer": "MIUI.us",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
-      "id": "miuius",
-      "manifest": "http://roms.miui.us/manifest/rommanager.js",
-      "summary": "MIUI English releases by MIUI.us"
-    },
-    {
       "developer": "MIUI Android",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
@@ -110,20 +102,20 @@
       "summary": "The original English MIUI ROM by MIUI Android"
     },
     {
-      "developer": "MIUI-PT",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
-      "id": "miuiportugal",
-      "manifest": "http://www.files.miui-pt.com/manifest/miuipt.js",
-      "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
-    },
-    {
       "developer": "MIUIBrasil",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/610/b8dd1c98205fd076be6738c1c4d99412.png",
       "id": "miuibrasil",
       "manifest": "http://miuibrasil.net/roms/manifestrm.js",
       "summary": "Projeto de Tradução da ROM MIUI para o Português do Brasil"
+    },
+    {
+      "developer": "MIUI-PT",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
+      "id": "miuiportugal",
+      "manifest": "http://www.files.miui-pt.com/manifest/miuipt.js",
+      "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
     }
   ],
   "minversion": "4322"

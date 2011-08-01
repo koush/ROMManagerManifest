@@ -1940,7 +1940,7 @@
     {
       "developer": "Sapo a5 Blog Team",
       "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/617/5619a3f5e5ed0ed0069a92a142639a62.png",
+      "icon": "http://romshare.deployfu.com/downloads/617/426f2197f1ed2674fa87666a35835083.png",
       "id": "a5.blog.team",
       "manifest": "http://romshare.deployfu.com/developer/a5.blog.team/manifest",
       "roms": {
@@ -1960,17 +1960,6 @@
       "summary": "Inspire 4G ROMS and Add-ons"
     },
     {
-      "developer": "Solstice",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/530/d45f727409f37121864a24391106b1f0.png",
-      "id": "laszlo.david@gmail.com",
-      "manifest": "http://solsticerom.github.com/ROMManagerManifest/manifest.js",
-      "roms": {
-        "bravo": true
-      },
-      "summary": "Simple AOSP ROM"
-    },
-    {
       "developer": "Einherjar Dev",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/25/31d8c04d2622249a93100ffc1ed40a17.png",
@@ -1984,26 +1973,15 @@
       "summary": "ROMs, with a side of metal."
     },
     {
-      "developer": "CyanogenMod Nightly Kangs",
+      "developer": "Solstice",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/529/d04138f4fd1395737f6c617b9ee6fa63.png",
-      "id": "maxdamage2122Smba1002Kangs",
-      "manifest": "https://dl.dropbox.com/s/7yreog0xtyebutn/smb_a1002-nightlies/manifest.js",
+      "icon": "http://romshare.deployfu.com/downloads/530/d45f727409f37121864a24391106b1f0.png",
+      "id": "laszlo.david@gmail.com",
+      "manifest": "http://solsticerom.github.com/ROMManagerManifest/manifest.js",
       "roms": {
-        "smb_a1002": true
+        "bravo": true
       },
-      "summary": "Unmodified Cyanogenmod nightly kangs for the Viewsonic GTablet"
-    },
-    {
-      "developer": "AmbrosialROMs",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/558/8206d5091d0ed4afc3f0bf148e9b4191.png",
-      "id": "RealPariah",
-      "manifest": "http://www.ambrosialpariah.com/ambrosialcm7/files/rom.man/acm.js",
-      "roms": {
-        "zeppelin": true
-      },
-      "summary": "AmbrosialROMS: Bringing More Sizzle to the Bacon!"
+      "summary": "Simple AOSP ROM"
     },
     {
       "developer": "Ideos Dev Team ROMs",
@@ -2017,15 +1995,15 @@
       "summary": "ROMs for the Huawei U8150 Ideos from the Ideos Dev Team"
     },
     {
-      "developer": "Saga LBC Mod",
+      "developer": "AmbrosialROMs",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/573/8bf50ca36993e1e97aa0bf47bcc8f043.png",
-      "id": "loveboatcaptain",
-      "manifest": "http://ota.saga-lbc-mod.de/rommanager/manifest.js",
+      "icon": "http://romshare.deployfu.com/downloads/558/8206d5091d0ed4afc3f0bf148e9b4191.png",
+      "id": "RealPariah",
+      "manifest": "http://www.ambrosialpariah.com/ambrosialcm7/files/rom.man/acm.js",
       "roms": {
-        "saga": true
+        "zeppelin": true
       },
-      "summary": "LoveBoatCaptain - Android Development"
+      "summary": "AmbrosialROMS: Bringing More Sizzle to the Bacon!"
     },
     {
       "developer": "ClearDroid",
@@ -2037,6 +2015,43 @@
         "ace": true
       },
       "summary": "ClearDroid ROM for Inspire 4G. Inspire-based, with the choice of a stock feel or the ClearDroid ModPack. The most stable ROM available for the Inspire."
+    },
+    {
+      "developer": "MIUI.us",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
+      "id": "miuius",
+      "manifest": "http://roms.miui.us/manifest/rommanager.js",
+      "roms": {
+        "leo": true,
+        "vivow": true,
+        "shadow": true,
+        "droid2": true,
+        "vivo": true,
+        "vibrantmtd": true,
+        "umts_jordan": true,
+        "passion": true,
+        "galaxys": true,
+        "bravo": true,
+        "ace": true,
+        "sholes": true,
+        "fascinatemtd": true,
+        "bravoc": true,
+        "glacier": true,
+        "crespo4g": true,
+        "captivatemtd": true,
+        "speedy": true,
+        "milestone": true,
+        "supersonic": true,
+        "saga": true,
+        "inc": true,
+        "encore": true,
+        "vision": true,
+        "crespo": true,
+        "showcasemtd": true,
+        "mesmerizemtd": true
+      },
+      "summary": "MIUI English releases by MIUI.us"
     },
     {
       "developer": "MIUI Android",
@@ -2061,6 +2076,17 @@
         "umts_sholes": true
       },
       "summary": "The original English MIUI ROM by MIUI Android"
+    },
+    {
+      "developer": "Saga LBC Mod",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/573/8bf50ca36993e1e97aa0bf47bcc8f043.png",
+      "id": "loveboatcaptain",
+      "manifest": "http://ota.saga-lbc-mod.de/rommanager/manifest.js",
+      "roms": {
+        "saga": true
+      },
+      "summary": "LoveBoatCaptain - Android Development"
     },
     {
       "developer": "MIUIBrasil",
@@ -2118,6 +2144,28 @@
         "leo": true
       },
       "summary": "Seaders stable one, 2.3.5, tweaked with tablet-functions, audio/lights/sensor/gps fixes, custom settings and deleted/added/switched apps; incl. newest custom YES/NO recovery with experimental NTFS support. http://bit.ly/nnx6qf for details"
+    },
+    {
+      "developer": "CyanogenMod Nightlies",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/541/4158e7edc75c600607f05a3b063ffba1.png",
+      "id": "tanguy.pruvot@gmail.com",
+      "manifest": "http://defy.tanguy.tk/rm/custom.js",
+      "roms": {
+        "umts_jordan": true
+      },
+      "summary": "CyanogenMod Nightly builds. tpruvot@github"
+    },
+    {
+      "developer": "CyanogenMod Nightly Kangs",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/529/d04138f4fd1395737f6c617b9ee6fa63.png",
+      "id": "maxdamage2122Smba1002Kangs",
+      "manifest": "https://dl.dropbox.com/s/7yreog0xtyebutn/smb_a1002-nightlies/manifest.js",
+      "roms": {
+        "smb_a1002": true
+      },
+      "summary": "Unmodified Cyanogenmod nightly kangs for the Viewsonic GTablet"
     }
   ],
   "minversion": "4322"

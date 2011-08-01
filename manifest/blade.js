@@ -49,7 +49,7 @@
     {
       "developer": "Sapo a5 Blog Team",
       "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/617/5619a3f5e5ed0ed0069a92a142639a62.png",
+      "icon": "http://romshare.deployfu.com/downloads/617/426f2197f1ed2674fa87666a35835083.png",
       "id": "a5.blog.team",
       "manifest": "http://romshare.deployfu.com/developer/a5.blog.team/manifest",
       "summary": "Powered by Rafael Souto and The Sapo a5 Community"

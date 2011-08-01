@@ -1237,7 +1237,8 @@
             "manifest": "http://leedroid.ftp.rshost.eu/LeeDrOiD.js",
             "roms": {
               "bravo": "true",
-                "ace": "true"
+                "ace": "true",
+            "pyramid": "true"
             },
               "summary": "Sense Rom's, Kernel's & Goodie's"
         }

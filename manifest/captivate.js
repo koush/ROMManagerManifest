@@ -25,14 +25,6 @@
       "summary": "Roms & Mods by DesignGears"
     },
     {
-      "developer": "Rom Fasty By Lostlogic89",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/606/abdd0964672e43f84318efed8d398c9b.png",
-      "id": "lostlogic01@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/lostlogic01@gmail.com/manifest",
-      "summary": "FASTY ROM is a Unique Rom with best battery life,and  performance,and instant GPS lock .Please head to webproz.org for more info"
-    },
-    {
       "developer": "MIUI-PT",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",

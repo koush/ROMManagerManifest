@@ -37,7 +37,7 @@
       "icon": "http://romshare.deployfu.com/downloads/591/bb41cb6540f79fe9208a84a04af56bfe.png",
       "id": "diviance@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/diviance@gmail.com/manifest",
-      "summary": "Diviance"
+      "summary": "Aura Rom for the Atrix"
     },
     {
       "developer": "Navalynt Roms (3.14 Series)",

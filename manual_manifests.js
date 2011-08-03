@@ -556,19 +556,6 @@
             "summary": "DroidX Roms" 
         },
         {
-            "developer": "Virtuous",
-            "free": "true",
-            "id": "virtuous",
-            "manifest": "http://files.virtuousrom.com/virtuous.js",
-            "icon": "http://files.virtuousrom.com/icon.png",
-            "roms": {
-                "vision": "true",
-                "ace": "true",
-                "inc": "true" 
-            },
-            "summary": "Stock Sense ROMs with Essential Fixes and Enhancements and Other Goodies by rmk." 
-        },
-        {
             "developer": "Baked Snack",
             "free": "true",
             "id": "jdubzisfaded",

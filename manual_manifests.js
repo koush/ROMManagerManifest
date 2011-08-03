@@ -480,17 +480,6 @@
             "summary": "Rom for your HTC." 
         },
         {
-            "developer": "Ihtfp69",
-            "free": "true",
-            "id": "ihtfp69",
-            "icon": "http://www.skyraider.us/images/icon.png",
-            "manifest": "http://www.skyraider.us/manifest/skyraider.js",
-            "roms": {
-                "inc": "true" 
-            },
-            "summary": "Mods and bacon for the Droid Incredible" 
-        },
-        {
             "developer": "NeoPhyTe",
             "free": "true",
             "id": "the_neophyte",

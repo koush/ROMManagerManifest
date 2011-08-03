@@ -563,10 +563,16 @@
             "icon": "http://files.virtuousrom.com/icon.png",
             "roms": {
                 "vision": "true",
+                "incs": "true",
+                "vivow": "true",
+                "glacier": "true",
+                "pyramid": "true",
                 "ace": "true",
+                "inspire": "true",
+                "saga": "true",
                 "inc": "true" 
             },
-            "summary": "Stock Sense ROMs with Essential Fixes and Enhancements and Other Goodies by rmk." 
+            "summary": "Enhanced Sense ROMs and more from the Virtuous Team." 
         },
         {
             "developer": "Baked Snack",

@@ -199,7 +199,7 @@
     },
     {
       "developer": "Magiman7",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/42/70d519969f6c857c9e5b7c1cfb147ae9.png",
       "id": "magiman7",
       "manifest": "http://romshare.deployfu.com/developer/magiman7/manifest",
@@ -207,7 +207,7 @@
     },
     {
       "developer": "CorCor67",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/208/1a50ab91ddac2b2ef3829b8e4c7a3664.png",
       "id": "corcor67@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/corcor67@gmail.com/manifest",
@@ -215,7 +215,7 @@
     },
     {
       "developer": "GreenRomProject",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
       "id": "GreenRomProject",
       "manifest": "http://romshare.deployfu.com/developer/GreenRomProject/manifest",
@@ -223,25 +223,17 @@
     },
     {
       "developer": "winner00",
-      "free": false,
+      "free": true,
       "id": "toverturf@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/toverturf@gmail.com/manifest",
       "summary": "CyanogenMod 7 with few tweaks for better performance on the OG Droid, Incredible, and pulls from gerrit.  "
     },
     {
       "developer": "metiCkOne",
-      "free": false,
+      "free": true,
       "id": "metiCkOne",
       "manifest": "http://romshare.deployfu.com/developer/metiCkOne/manifest",
       "summary": "Clean, fast & Stable roms for the D1 & D2"
-    },
-    {
-      "developer": "MIUI.us",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
-      "id": "miuius",
-      "manifest": "http://roms.miui.us/manifest/rommanager.js",
-      "summary": "MIUI English releases by MIUI.us"
     },
     {
       "developer": "MIUI Android",
@@ -250,6 +242,14 @@
       "id": "miuiandroid",
       "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
       "summary": "The original English MIUI ROM by MIUI Android"
+    },
+    {
+      "developer": "MIUI.us",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
+      "id": "miuius",
+      "manifest": "http://roms.miui.us/manifest/rommanager.js",
+      "summary": "MIUI English releases by MIUI.us"
     }
   ],
   "minversion": "4322"

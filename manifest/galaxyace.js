@@ -18,7 +18,7 @@
     },
     {
       "developer": "FirstUA-ROM",
-      "free": false,
+      "free": true,
       "id": "Grif07",
       "manifest": "http://romshare.deployfu.com/developer/Grif07/manifest",
       "summary": "Light, fast and stable KPH based ROM with CF-ROOT kernel. English is included! Will wipe all your DATA!!!"

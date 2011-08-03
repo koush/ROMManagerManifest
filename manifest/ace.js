@@ -81,7 +81,7 @@
     },
     {
       "developer": "cstayton",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/546/7489780bf323b88233ae310c1c65a08e.png",
       "id": "castayton@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/castayton@gmail.com/manifest",
@@ -89,7 +89,7 @@
     },
     {
       "developer": "Honey3D",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/376/b266f88e7063336d333ef7ad4fd4d6ff.png",
       "id": "HoneyTeam",
       "manifest": "http://romshare.deployfu.com/developer/HoneyTeam/manifest",
@@ -97,27 +97,11 @@
     },
     {
       "developer": "pirateghost",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/618/e651f76ee302b696b7e42ed966b612cf.jpg",
       "id": "pirateg@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/pirateg@gmail.com/manifest",
       "summary": "Inspire 4G ROMS and Add-ons"
-    },
-    {
-      "developer": "MIUI.us",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
-      "id": "miuius",
-      "manifest": "http://roms.miui.us/manifest/rommanager.js",
-      "summary": "MIUI English releases by MIUI.us"
-    },
-    {
-      "developer": "Virtuous",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/63/902e31b288d5ccf04b4e1c7b4a89f0b5.png",
-      "id": "virtuous",
-      "manifest": "http://files.virtuousrom.com/virtuous.js",
-      "summary": "Enhanced Sense ROMs and more from the Virtuous Team."
     },
     {
       "developer": "ClearDroid",
@@ -136,12 +120,28 @@
       "summary": "The original English MIUI ROM by MIUI Android"
     },
     {
+      "developer": "Virtuous",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/63/902e31b288d5ccf04b4e1c7b4a89f0b5.png",
+      "id": "virtuous",
+      "manifest": "http://files.virtuousrom.com/virtuous.js",
+      "summary": "Enhanced Sense ROMs and more from the Virtuous Team."
+    },
+    {
       "developer": "MIUI-PT",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
       "id": "miuiportugal",
       "manifest": "http://www.files.miui-pt.com/manifest/miuipt.js",
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
+    },
+    {
+      "developer": "MIUI.us",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
+      "id": "miuius",
+      "manifest": "http://roms.miui.us/manifest/rommanager.js",
+      "summary": "MIUI English releases by MIUI.us"
     },
     {
       "developer": "MIUIBrasil",

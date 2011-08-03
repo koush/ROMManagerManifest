@@ -33,7 +33,7 @@
     },
     {
       "developer": "JMCyanbreadMod",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/396/b01189040f608fa16cc797e549f27cdc.png",
       "id": "jacob.mueller.elz@googlemail.com",
       "manifest": "http://romshare.deployfu.com/developer/jacob.mueller.elz@googlemail.com/manifest",

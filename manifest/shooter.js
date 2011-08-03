@@ -18,7 +18,7 @@
     },
     {
       "developer": "pecord@gmail.com",
-      "free": false,
+      "free": true,
       "id": "pecord@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/pecord@gmail.com/manifest",
       "summary": "pecord@gmail.com"

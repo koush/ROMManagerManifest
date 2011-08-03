@@ -32,20 +32,20 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
-      "developer": "MIUI.us",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
-      "id": "miuius",
-      "manifest": "http://roms.miui.us/manifest/rommanager.js",
-      "summary": "MIUI English releases by MIUI.us"
-    },
-    {
       "developer": "Virtuous",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/63/902e31b288d5ccf04b4e1c7b4a89f0b5.png",
       "id": "virtuous",
       "manifest": "http://files.virtuousrom.com/virtuous.js",
       "summary": "Enhanced Sense ROMs and more from the Virtuous Team."
+    },
+    {
+      "developer": "MIUI.us",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
+      "id": "miuius",
+      "manifest": "http://roms.miui.us/manifest/rommanager.js",
+      "summary": "MIUI English releases by MIUI.us"
     }
   ],
   "minversion": "4322"

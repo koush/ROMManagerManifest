@@ -54,19 +54,11 @@
     },
     {
       "developer": "DarkyROM",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/124/e975fb9db2047ee42b84d4d65f612fcd.png",
       "id": "darkyy92@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/darkyy92@gmail.com/manifest",
       "summary": "Clean, fast & customizable Samsung Galaxy S ROM."
-    },
-    {
-      "developer": "MIUI.us",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
-      "id": "miuius",
-      "manifest": "http://roms.miui.us/manifest/rommanager.js",
-      "summary": "MIUI English releases by MIUI.us"
     },
     {
       "developer": "MIUI Android",
@@ -83,6 +75,14 @@
       "id": "miuiportugal",
       "manifest": "http://www.files.miui-pt.com/manifest/miuipt.js",
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
+    },
+    {
+      "developer": "MIUI.us",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
+      "id": "miuius",
+      "manifest": "http://roms.miui.us/manifest/rommanager.js",
+      "summary": "MIUI English releases by MIUI.us"
     }
   ],
   "minversion": "4322"

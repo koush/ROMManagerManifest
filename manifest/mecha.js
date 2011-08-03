@@ -120,14 +120,14 @@
     },
     {
       "developer": "Cubed ROM",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/66/24fcf796e1e1fc870f868d35e7cf0207.png",
       "id": "dsb9938",
       "manifest": "http://romshare.deployfu.com/developer/dsb9938/manifest",
       "summary": "dsb9938 from XDA"
     },
     {
-      "developer": "Unofficial CyanogenMod Daily Bui",
+      "developer": "Unofficial CM7 Daily Builds",
       "free": true,
       "id": "ProTekk",
       "manifest": "http://fzservers.com/cmdailies.js",

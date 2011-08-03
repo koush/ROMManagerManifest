@@ -18,7 +18,7 @@
     },
     {
       "developer": "dfgas",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/601/7c809045feea38f822a0d58ca2f6daf3.png",
       "id": "dfgas",
       "manifest": "http://romshare.deployfu.com/developer/dfgas/manifest",
@@ -26,7 +26,7 @@
     },
     {
       "developer": "jt1134",
-      "free": false,
+      "free": true,
       "id": "jt1134",
       "manifest": "http://romshare.deployfu.com/developer/jt1134/manifest",
       "summary": "jt1134"

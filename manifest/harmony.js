@@ -84,7 +84,7 @@
     },
     {
       "developer": "GreenRomProject",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
       "id": "GreenRomProject",
       "manifest": "http://romshare.deployfu.com/developer/GreenRomProject/manifest",
@@ -93,9 +93,9 @@
     {
       "developer": "CyanogenMod Nightly Kangs",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/605/4be6bc944178493ba79afe96467a8eae.png",
+      "icon": "http://romshare.deployfu.com/downloads/605/b2728dddb56f27d31d52935f68db4b9b.png",
       "id": "maxdamage2122Smba1002Kangs",
-      "manifest": "https://dl.dropbox.com/s/7yreog0xtyebutn/smb_a1002-nightlies/manifest2.js",
+      "manifest": "https://dl.dropbox.com/s/7yreog0xtyebutn/smb_a1002-nightlies/manifest.js",
       "summary": "Unmodified Cyanogenmod nightly kangs for the Viewsonic GTablet"
     }
   ],

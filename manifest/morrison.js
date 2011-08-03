@@ -33,7 +33,7 @@
     },
     {
       "developer": "TeamRogue",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/255/eef30cd10645b17f89e2f65186bfb915.png",
       "id": "TeamRogue",
       "manifest": "http://romshare.deployfu.com/developer/TeamRogue/manifest",

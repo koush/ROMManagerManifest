@@ -24,14 +24,6 @@
       "summary": "Cool stuffs."
     },
     {
-      "developer": "Virtuous",
-      "icon": "http://files.virtuousrom.com/icon.png",
-      "id": "virtuous",
-      "free": "true",
-      "manifest": "http://files.virtuousrom.com/virtuous.js",
-      "summary": "Stock Sense ROMs with Essential Fixes and Enhancements and Other Goodies by rmk."
-    },
-    {
       "developer": "CoreDroid",
       "icon": "http://coredroidroms.com/Roms/Desire_HD/CDLogo.png",
       "id": "coredroid",
@@ -120,12 +112,12 @@
       "summary": "MIUI English releases by MIUI.us"
     },
     {
-      "developer": "MIUI Android",
+      "developer": "Virtuous",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
-      "id": "miuiandroid",
-      "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
-      "summary": "The original English MIUI ROM by MIUI Android"
+      "icon": "http://romshare.deployfu.com/downloads/63/902e31b288d5ccf04b4e1c7b4a89f0b5.png",
+      "id": "virtuous",
+      "manifest": "http://files.virtuousrom.com/virtuous.js",
+      "summary": "Enhanced Sense ROMs and more from the Virtuous Team."
     },
     {
       "developer": "ClearDroid",
@@ -134,6 +126,14 @@
       "id": "ClearD",
       "manifest": "http://www.techsupporteverything.com/download/manifest.js",
       "summary": "ClearDroid ROM for Inspire 4G. Inspire-based, with the choice of a stock feel or the ClearDroid ModPack. The most stable ROM available for the Inspire."
+    },
+    {
+      "developer": "MIUI Android",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
+      "id": "miuiandroid",
+      "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
+      "summary": "The original English MIUI ROM by MIUI Android"
     },
     {
       "developer": "MIUIBrasil",

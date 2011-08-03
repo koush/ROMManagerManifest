@@ -46,14 +46,6 @@
       "summary": "Senseless deodexed Rom for Droid Incredible with couple of twists"
     },
     {
-      "developer": "Virtuous",
-      "icon": "http://files.virtuousrom.com/icon.png",
-      "id": "virtuous",
-      "free": "true",
-      "manifest": "http://files.virtuousrom.com/virtuous.js",
-      "summary": "Stock Sense ROMs with Essential Fixes and Enhancements and Other Goodies by rmk."
-    },
-    {
       "developer": "Uncommon Sense",
       "id": "uncommonsense",
       "free": "true",
@@ -150,6 +142,14 @@
       "id": "miuius",
       "manifest": "http://roms.miui.us/manifest/rommanager.js",
       "summary": "MIUI English releases by MIUI.us"
+    },
+    {
+      "developer": "Virtuous",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/63/902e31b288d5ccf04b4e1c7b4a89f0b5.png",
+      "id": "virtuous",
+      "manifest": "http://files.virtuousrom.com/virtuous.js",
+      "summary": "Enhanced Sense ROMs and more from the Virtuous Team."
     },
     {
       "developer": "MIUI Android",

@@ -89,6 +89,7 @@
         "sholes": "true",
         "hero": "true",
         "espresso": "true",
+        "fascinatemtd": "true",
         "dream": "true",
         "bravoc": "true",
         "sapphire": "true",
@@ -1936,6 +1937,16 @@
       "summary": "pecord@gmail.com"
     },
     {
+      "developer": "jt1134@gmail.com",
+      "free": false,
+      "id": "jt1134@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/jt1134@gmail.com/manifest",
+      "roms": {
+        "fascinatemtd": true
+      },
+      "summary": "jt1134@gmail.com"
+    },
+    {
       "developer": "Einherjar Dev",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/25/31d8c04d2622249a93100ffc1ed40a17.png",
@@ -1958,6 +1969,28 @@
         "bravo": true
       },
       "summary": "Simple AOSP ROM"
+    },
+    {
+      "developer": "Ideos Dev Team ROMs",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/250/ba66421c10863d65957a42c5a3dddf51.png",
+      "id": "tilal6991",
+      "manifest": "http://cloud.github.com/downloads/tilal6991/android_device_huawei_u8150/manifest.js",
+      "roms": {
+        "ideos": true
+      },
+      "summary": "ROMs for the Huawei U8150 Ideos from the Ideos Dev Team"
+    },
+    {
+      "developer": "AmbrosialROMs",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/558/8206d5091d0ed4afc3f0bf148e9b4191.png",
+      "id": "RealPariah",
+      "manifest": "http://www.ambrosialpariah.com/ambrosialcm7/files/rom.man/acm.js",
+      "roms": {
+        "zeppelin": true
+      },
+      "summary": "AmbrosialROMS: Bringing More Sizzle to the Bacon!"
     },
     {
       "developer": "MIUI.us",
@@ -1997,42 +2030,6 @@
       "summary": "MIUI English releases by MIUI.us"
     },
     {
-      "developer": "CyanogenMod Nightly Kangs",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/529/d04138f4fd1395737f6c617b9ee6fa63.png",
-      "id": "maxdamage2122Smba1002Kangs",
-      "manifest": "https://dl.dropbox.com/s/7yreog0xtyebutn/smb_a1002-nightlies/manifest.js",
-      "roms": {
-        "smb_a1002": true
-      },
-      "summary": "Unmodified Cyanogenmod nightly kangs for the Viewsonic GTablet"
-    },
-    {
-      "developer": "AmbrosialROMs",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/558/8206d5091d0ed4afc3f0bf148e9b4191.png",
-      "id": "RealPariah",
-      "manifest": "http://www.ambrosialpariah.com/ambrosialcm7/files/rom.man/acm.js",
-      "roms": {
-        "zeppelin": true
-      },
-      "summary": "AmbrosialROMS: Bringing More Sizzle to the Bacon!"
-    },
-    {
-      "developer": "Virtuous",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/63/902e31b288d5ccf04b4e1c7b4a89f0b5.png",
-      "id": "virtuous",
-      "manifest": "http://files.virtuousrom.com/virtuous.js",
-      "roms": {
-        "virtuous": true,
-        "ace": true,
-        "inc": true,
-        "vision": true
-      },
-      "summary": "Enhanced Sense ROMs and more from the Virtuous Team."
-    },
-    {
       "developer": "ClearDroid",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/572/879c46c74242594d151b96b2d1f3e173.png",
@@ -2042,6 +2039,17 @@
         "ace": true
       },
       "summary": "ClearDroid ROM for Inspire 4G. Inspire-based, with the choice of a stock feel or the ClearDroid ModPack. The most stable ROM available for the Inspire."
+    },
+    {
+      "developer": "CyanogenMod Nightly Kangs",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/529/d04138f4fd1395737f6c617b9ee6fa63.png",
+      "id": "maxdamage2122Smba1002Kangs",
+      "manifest": "https://dl.dropbox.com/s/7yreog0xtyebutn/smb_a1002-nightlies/manifest.js",
+      "roms": {
+        "smb_a1002": true
+      },
+      "summary": "Unmodified Cyanogenmod nightly kangs for the Viewsonic GTablet"
     },
     {
       "developer": "MIUI Android",
@@ -2069,35 +2077,39 @@
       "summary": "The original English MIUI ROM by MIUI Android"
     },
     {
-      "developer": "Saga LBC Mod",
+      "developer": "Virtuous",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/573/8bf50ca36993e1e97aa0bf47bcc8f043.png",
-      "id": "loveboatcaptain",
-      "manifest": "http://ota.saga-lbc-mod.de/rommanager/manifest.js",
+      "icon": "http://romshare.deployfu.com/downloads/63/902e31b288d5ccf04b4e1c7b4a89f0b5.png",
+      "id": "virtuous",
+      "manifest": "http://files.virtuousrom.com/virtuous.js",
       "roms": {
-        "saga": true
+        "virtuous": true,
+        "ace": true,
+        "inc": true,
+        "vision": true
       },
-      "summary": "LoveBoatCaptain - Android Development"
+      "summary": "Enhanced Sense ROMs and more from the Virtuous Team."
     },
     {
-      "developer": "MIUIBrasil",
+      "developer": "CyanogenMod Nightlies",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/610/b8dd1c98205fd076be6738c1c4d99412.png",
-      "id": "miuibrasil",
-      "manifest": "http://miuibrasil.net/roms/manifestrm.js",
+      "icon": "http://romshare.deployfu.com/downloads/541/4158e7edc75c600607f05a3b063ffba1.png",
+      "id": "tanguy.pruvot@gmail.com",
+      "manifest": "http://defy.tanguy.tk/rm/custom.js",
       "roms": {
-        "leo": true,
-        "p990": true,
-        "ace": true,
-        "passion": true,
-        "bravo": true,
-        "umts_jordan": true,
-        "crespo": true,
-        "galaxysmtd": true,
-        "vision": true,
-        "umts_sholes": true
+        "umts_jordan": true
       },
-      "summary": "Projeto de Tradução da ROM MIUI para o Português do Brasil"
+      "summary": "CyanogenMod Nightly builds. tpruvot@github"
+    },
+    {
+      "developer": "Unofficial CyanogenMod Daily Bui",
+      "free": true,
+      "id": "ProTekk",
+      "manifest": "http://fzservers.com/cmdailies.js",
+      "roms": {
+        "mecha": true
+      },
+      "summary": "Unofficial daily builds of CyanogenMod"
     },
     {
       "developer": "MIUI-PT",
@@ -2126,6 +2138,17 @@
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
     },
     {
+      "developer": "Saga LBC Mod",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/573/8bf50ca36993e1e97aa0bf47bcc8f043.png",
+      "id": "loveboatcaptain",
+      "manifest": "http://ota.saga-lbc-mod.de/rommanager/manifest.js",
+      "roms": {
+        "saga": true
+      },
+      "summary": "LoveBoatCaptain - Android Development"
+    },
+    {
       "developer": "CM7 Tweaked cLK only",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/607/13ad2cc8cf0a38ad06196a50b66f074b.png",
@@ -2137,25 +2160,24 @@
       "summary": "Seaders stable one, 2.3.5, tweaked with tablet-functions, audio/lights/sensor/gps fixes, custom settings and deleted/added/switched apps; incl. newest custom YES/NO recovery with experimental NTFS support. http://bit.ly/nnx6qf for details"
     },
     {
-      "developer": "Unofficial CyanogenMod Dailies",
+      "developer": "MIUIBrasil",
       "free": true,
-      "id": "ProTekk",
-      "manifest": "http://fzservers.com/cmdailies.js",
+      "icon": "http://romshare.deployfu.com/downloads/610/b8dd1c98205fd076be6738c1c4d99412.png",
+      "id": "miuibrasil",
+      "manifest": "http://miuibrasil.net/roms/manifestrm.js",
       "roms": {
-        "mecha": true
+        "leo": true,
+        "p990": true,
+        "ace": true,
+        "passion": true,
+        "bravo": true,
+        "umts_jordan": true,
+        "crespo": true,
+        "galaxysmtd": true,
+        "vision": true,
+        "umts_sholes": true
       },
-      "summary": "Unofficial daily builds of CyanogenMod"
-    },
-    {
-      "developer": "Ideos Dev Team ROMs",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/250/ba66421c10863d65957a42c5a3dddf51.png",
-      "id": "tilal6991",
-      "manifest": "http://cloud.github.com/downloads/tilal6991/android_device_huawei_u8150/manifest.js",
-      "roms": {
-        "ideos": true
-      },
-      "summary": "ROMs for the Huawei U8150 Ideos from the Ideos Dev Team"
+      "summary": "Projeto de Tradução da ROM MIUI para o Português do Brasil"
     },
     {
       "developer": "Ihtfp69",

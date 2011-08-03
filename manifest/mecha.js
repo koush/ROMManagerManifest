@@ -127,7 +127,7 @@
       "summary": "dsb9938 from XDA"
     },
     {
-      "developer": "Unofficial CyanogenMod Dailies",
+      "developer": "Unofficial CyanogenMod Daily Bui",
       "free": true,
       "id": "ProTekk",
       "manifest": "http://fzservers.com/cmdailies.js",

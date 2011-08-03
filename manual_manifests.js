@@ -84,6 +84,7 @@
                 "droid2": "true",
                 "encore": "true",
                 "espresso": "true",
+                "fascinatemtd": "true",
                 "galaxys2": "true",
                 "galaxysmtd": "true",
                 "glacier": "true",

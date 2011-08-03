@@ -128,10 +128,18 @@
     },
     {
       "developer": "Unofficial CyanogenMod Dailies",
-      "free": false,
+      "free": true,
       "id": "ProTekk",
-      "manifest": "http://romshare.deployfu.com/developer/ProTekk/manifest",
+      "manifest": "http://fzservers.com/cmdailies.js",
       "summary": "Unofficial daily builds of CyanogenMod"
+    },
+    {
+      "developer": "Ihtfp69",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/626/2cad2dafa4ee11476c29e0c6950147b6.jpg",
+      "id": "ihtfp69",
+      "manifest": "http://skyraider.us/manifest/skyraider.js",
+      "summary": "SkyRaider ROMs and goodies"
     }
   ],
   "minversion": "4322"

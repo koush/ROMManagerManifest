@@ -32,14 +32,6 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
-      "developer": "Codeworkx",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/51/b1939ede73c42c69d8e2c3f1f34f3265.png",
-      "id": "daniel.hillenbrand@codeworkx.de",
-      "manifest": "http://romshare.deployfu.com/developer/daniel.hillenbrand@codeworkx.de/manifest",
-      "summary": "Usefull Stuff for Galaxy S Phones"
-    },
-    {
       "developer": "DesignGears Roms",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/271/3ee39ba3530e8d858bbbfdbbb1ae2bea.png",
@@ -53,6 +45,14 @@
       "id": "trondkevin@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/trondkevin@gmail.com/manifest",
       "summary": "Happy XDA'er"
+    },
+    {
+      "developer": "Codeworkx",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/51/b1939ede73c42c69d8e2c3f1f34f3265.png",
+      "id": "daniel.hillenbrand@codeworkx.de",
+      "manifest": "http://romshare.deployfu.com/developer/daniel.hillenbrand@codeworkx.de/manifest",
+      "summary": "Usefull Stuff for Galaxy S Phones"
     },
     {
       "developer": "MIUI-PT",

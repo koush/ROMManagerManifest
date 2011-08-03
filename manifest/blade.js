@@ -32,19 +32,19 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
+      "developer": "WBAW",
+      "free": false,
+      "id": "johnkenney02@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/johnkenney02@gmail.com/manifest",
+      "summary": "Stir Fry Chef"
+    },
+    {
       "developer": "Stock ROMs",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/23/757972f1d6362f95a265050747542fc5.jpg",
       "id": "jamieluckett@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/jamieluckett@gmail.com/manifest",
       "summary": "Stock ROMs for the ZTE Blade and it's renamed counterparts."
-    },
-    {
-      "developer": "WBAW",
-      "free": false,
-      "id": "johnkenney02@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/johnkenney02@gmail.com/manifest",
-      "summary": "Stir Fry Chef"
     },
     {
       "developer": "Sapo a5 Blog Team",

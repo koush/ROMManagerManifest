@@ -17,6 +17,13 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
+      "developer": "aefreshkid97@gmail.com",
+      "free": false,
+      "id": "aefreshkid97@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/aefreshkid97@gmail.com/manifest",
+      "summary": "aefreshkid97@gmail.com"
+    },
+    {
       "developer": "SamCripp",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/550/6d520d99859e134dd32cd4132a8ac3d5.png",
@@ -25,11 +32,12 @@
       "summary": "Atrix Roms"
     },
     {
-      "developer": "aefreshkid97@gmail.com",
+      "developer": "Navalynt Roms (3.14 Series)",
       "free": false,
-      "id": "aefreshkid97@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/aefreshkid97@gmail.com/manifest",
-      "summary": "aefreshkid97@gmail.com"
+      "icon": "http://romshare.deployfu.com/downloads/596/5a7d89b16d54be204e888a7f5e5ed390.png",
+      "id": "Navalynt",
+      "manifest": "http://romshare.deployfu.com/developer/Navalynt/manifest",
+      "summary": "Roms, themes, and more!"
     },
     {
       "developer": "Diviance",
@@ -38,14 +46,6 @@
       "id": "diviance@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/diviance@gmail.com/manifest",
       "summary": "Aura Rom for the Atrix"
-    },
-    {
-      "developer": "Navalynt Roms (3.14 Series)",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/596/5a7d89b16d54be204e888a7f5e5ed390.png",
-      "id": "Navalynt",
-      "manifest": "http://romshare.deployfu.com/developer/Navalynt/manifest",
-      "summary": "Roms, themes, and more!"
     }
   ],
   "minversion": "4322"

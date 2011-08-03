@@ -88,20 +88,20 @@
       "summary": "Sense Rom's, Kernel's & Goodie's"
     },
     {
-      "developer": "Honey3D",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/376/b266f88e7063336d333ef7ad4fd4d6ff.png",
-      "id": "HoneyTeam",
-      "manifest": "http://romshare.deployfu.com/developer/HoneyTeam/manifest",
-      "summary": "Honeyteam presents fully Sense 3.0 with themes see our thread on XDA for more information"
-    },
-    {
       "developer": "cstayton",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/546/7489780bf323b88233ae310c1c65a08e.png",
       "id": "castayton@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/castayton@gmail.com/manifest",
       "summary": "developer of StarDroid ROMS for your HTC Inspire and Desire HD"
+    },
+    {
+      "developer": "Honey3D",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/376/b266f88e7063336d333ef7ad4fd4d6ff.png",
+      "id": "HoneyTeam",
+      "manifest": "http://romshare.deployfu.com/developer/HoneyTeam/manifest",
+      "summary": "Honeyteam presents fully Sense 3.0 with themes see our thread on XDA for more information"
     },
     {
       "developer": "pirateghost",

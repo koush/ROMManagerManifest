@@ -206,20 +206,6 @@
       "summary": "Miui.us Ports for Droid"
     },
     {
-      "developer": "winner00",
-      "free": false,
-      "id": "toverturf@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/toverturf@gmail.com/manifest",
-      "summary": "CyanogenMod 7 with few tweaks for better performance on the OG Droid, Incredible, and pulls from gerrit.  "
-    },
-    {
-      "developer": "metiCkOne",
-      "free": false,
-      "id": "metiCkOne",
-      "manifest": "http://romshare.deployfu.com/developer/metiCkOne/manifest",
-      "summary": "Clean, fast & Stable roms for the D1 & D2"
-    },
-    {
       "developer": "CorCor67",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/208/1a50ab91ddac2b2ef3829b8e4c7a3664.png",
@@ -234,6 +220,20 @@
       "id": "GreenRomProject",
       "manifest": "http://romshare.deployfu.com/developer/GreenRomProject/manifest",
       "summary": "STABLE Super Fast ROM; ANDROID 2.3.4"
+    },
+    {
+      "developer": "winner00",
+      "free": false,
+      "id": "toverturf@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/toverturf@gmail.com/manifest",
+      "summary": "CyanogenMod 7 with few tweaks for better performance on the OG Droid, Incredible, and pulls from gerrit.  "
+    },
+    {
+      "developer": "metiCkOne",
+      "free": false,
+      "id": "metiCkOne",
+      "manifest": "http://romshare.deployfu.com/developer/metiCkOne/manifest",
+      "summary": "Clean, fast & Stable roms for the D1 & D2"
     },
     {
       "developer": "MIUI.us",

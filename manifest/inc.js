@@ -39,14 +39,6 @@
       "summary": "Source-based mods made by CVPCS"
     },
     {
-      "developer": "Ihtfp69",
-      "icon": "http://www.skyraider.us/images/icon.png",
-      "id": "ihtfp69",
-      "free": "true",
-      "manifest": "http://www.skyraider.us/manifest/skyraider.js",
-      "summary": "Mods and bacon for the Droid Incredible"
-    },
-    {
       "developer": "JagerRom",
       "id": "CaptJager",
       "free": "true",
@@ -137,19 +129,19 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
-      "developer": "winner00",
-      "free": false,
-      "id": "toverturf@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/toverturf@gmail.com/manifest",
-      "summary": "CyanogenMod 7 with few tweaks for better performance on the OG Droid, Incredible, and pulls from gerrit.  "
-    },
-    {
       "developer": "GreenRomProject",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
       "id": "GreenRomProject",
       "manifest": "http://romshare.deployfu.com/developer/GreenRomProject/manifest",
       "summary": "STABLE Super Fast ROM; ANDROID 2.3.4"
+    },
+    {
+      "developer": "winner00",
+      "free": false,
+      "id": "toverturf@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/toverturf@gmail.com/manifest",
+      "summary": "CyanogenMod 7 with few tweaks for better performance on the OG Droid, Incredible, and pulls from gerrit.  "
     },
     {
       "developer": "MIUI.us",
@@ -166,6 +158,14 @@
       "id": "miuiandroid",
       "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
       "summary": "The original English MIUI ROM by MIUI Android"
+    },
+    {
+      "developer": "Ihtfp69",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/626/2cad2dafa4ee11476c29e0c6950147b6.jpg",
+      "id": "ihtfp69",
+      "manifest": "http://skyraider.us/manifest/skyraider.js",
+      "summary": "SkyRaider ROMs and goodies"
     }
   ],
   "minversion": "4322"

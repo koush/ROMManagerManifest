@@ -1864,6 +1864,7 @@
     {
       "developer": "dfgas",
       "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/601/7c809045feea38f822a0d58ca2f6daf3.png",
       "id": "dfgas",
       "manifest": "http://romshare.deployfu.com/developer/dfgas/manifest",
       "roms": {
@@ -1937,38 +1938,16 @@
       "summary": "pecord@gmail.com"
     },
     {
-      "developer": "jt1134@gmail.com",
+      "developer": "jt1134",
       "free": false,
-      "id": "jt1134@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/jt1134@gmail.com/manifest",
+      "id": "jt1134",
+      "manifest": "http://romshare.deployfu.com/developer/jt1134/manifest",
       "roms": {
-        "fascinatemtd": true
+        "fascinatemtd": true,
+        "showcasemtd": true,
+        "mesmerizemtd": true
       },
-      "summary": "jt1134@gmail.com"
-    },
-    {
-      "developer": "Einherjar Dev",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/25/31d8c04d2622249a93100ffc1ed40a17.png",
-      "id": "einherjar",
-      "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
-      "roms": {
-        "p999": true,
-        "vibrantmtd": true,
-        "vibrant": true
-      },
-      "summary": "ROMs, with a side of metal."
-    },
-    {
-      "developer": "Solstice",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/530/d45f727409f37121864a24391106b1f0.png",
-      "id": "laszlo.david@gmail.com",
-      "manifest": "http://solsticerom.github.com/ROMManagerManifest/manifest.js",
-      "roms": {
-        "bravo": true
-      },
-      "summary": "Simple AOSP ROM"
+      "summary": "jt1134"
     },
     {
       "developer": "Ideos Dev Team ROMs",
@@ -1980,17 +1959,6 @@
         "ideos": true
       },
       "summary": "ROMs for the Huawei U8150 Ideos from the Ideos Dev Team"
-    },
-    {
-      "developer": "AmbrosialROMs",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/558/8206d5091d0ed4afc3f0bf148e9b4191.png",
-      "id": "RealPariah",
-      "manifest": "http://www.ambrosialpariah.com/ambrosialcm7/files/rom.man/acm.js",
-      "roms": {
-        "zeppelin": true
-      },
-      "summary": "AmbrosialROMS: Bringing More Sizzle to the Bacon!"
     },
     {
       "developer": "MIUI.us",
@@ -2030,6 +1998,36 @@
       "summary": "MIUI English releases by MIUI.us"
     },
     {
+      "developer": "Virtuous",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/63/902e31b288d5ccf04b4e1c7b4a89f0b5.png",
+      "id": "virtuous",
+      "manifest": "http://files.virtuousrom.com/virtuous.js",
+      "roms": {
+        "incs": true,
+        "virtuous": true,
+        "vivow": true,
+        "ace": true,
+        "glacier": true,
+        "pyramid": true,
+        "inc": true,
+        "saga": true,
+        "vision": true
+      },
+      "summary": "Enhanced Sense ROMs and more from the Virtuous Team."
+    },
+    {
+      "developer": "CyanogenMod Nightlies",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/541/4158e7edc75c600607f05a3b063ffba1.png",
+      "id": "tanguy.pruvot@gmail.com",
+      "manifest": "http://defy.tanguy.tk/rm/custom.js",
+      "roms": {
+        "umts_jordan": true
+      },
+      "summary": "CyanogenMod Nightly builds. tpruvot@github"
+    },
+    {
       "developer": "ClearDroid",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/572/879c46c74242594d151b96b2d1f3e173.png",
@@ -2041,15 +2039,15 @@
       "summary": "ClearDroid ROM for Inspire 4G. Inspire-based, with the choice of a stock feel or the ClearDroid ModPack. The most stable ROM available for the Inspire."
     },
     {
-      "developer": "CyanogenMod Nightly Kangs",
+      "developer": "AmbrosialROMs",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/529/d04138f4fd1395737f6c617b9ee6fa63.png",
-      "id": "maxdamage2122Smba1002Kangs",
-      "manifest": "https://dl.dropbox.com/s/7yreog0xtyebutn/smb_a1002-nightlies/manifest.js",
+      "icon": "http://romshare.deployfu.com/downloads/558/8206d5091d0ed4afc3f0bf148e9b4191.png",
+      "id": "RealPariah",
+      "manifest": "http://www.ambrosialpariah.com/ambrosialcm7/files/rom.man/acm.js",
       "roms": {
-        "smb_a1002": true
+        "zeppelin": true
       },
-      "summary": "Unmodified Cyanogenmod nightly kangs for the Viewsonic GTablet"
+      "summary": "AmbrosialROMS: Bringing More Sizzle to the Bacon!"
     },
     {
       "developer": "MIUI Android",
@@ -2077,39 +2075,15 @@
       "summary": "The original English MIUI ROM by MIUI Android"
     },
     {
-      "developer": "Virtuous",
+      "developer": "Saga LBC Mod",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/63/902e31b288d5ccf04b4e1c7b4a89f0b5.png",
-      "id": "virtuous",
-      "manifest": "http://files.virtuousrom.com/virtuous.js",
+      "icon": "http://romshare.deployfu.com/downloads/573/8bf50ca36993e1e97aa0bf47bcc8f043.png",
+      "id": "loveboatcaptain",
+      "manifest": "http://ota.saga-lbc-mod.de/rommanager/manifest.js",
       "roms": {
-        "virtuous": true,
-        "ace": true,
-        "inc": true,
-        "vision": true
+        "saga": true
       },
-      "summary": "Enhanced Sense ROMs and more from the Virtuous Team."
-    },
-    {
-      "developer": "CyanogenMod Nightlies",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/541/4158e7edc75c600607f05a3b063ffba1.png",
-      "id": "tanguy.pruvot@gmail.com",
-      "manifest": "http://defy.tanguy.tk/rm/custom.js",
-      "roms": {
-        "umts_jordan": true
-      },
-      "summary": "CyanogenMod Nightly builds. tpruvot@github"
-    },
-    {
-      "developer": "Unofficial CyanogenMod Daily Bui",
-      "free": true,
-      "id": "ProTekk",
-      "manifest": "http://fzservers.com/cmdailies.js",
-      "roms": {
-        "mecha": true
-      },
-      "summary": "Unofficial daily builds of CyanogenMod"
+      "summary": "LoveBoatCaptain - Android Development"
     },
     {
       "developer": "MIUI-PT",
@@ -2136,17 +2110,6 @@
         "umts_sholes": true
       },
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
-    },
-    {
-      "developer": "Saga LBC Mod",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/573/8bf50ca36993e1e97aa0bf47bcc8f043.png",
-      "id": "loveboatcaptain",
-      "manifest": "http://ota.saga-lbc-mod.de/rommanager/manifest.js",
-      "roms": {
-        "saga": true
-      },
-      "summary": "LoveBoatCaptain - Android Development"
     },
     {
       "developer": "CM7 Tweaked cLK only",
@@ -2180,6 +2143,27 @@
       "summary": "Projeto de Tradução da ROM MIUI para o Português do Brasil"
     },
     {
+      "developer": "Unofficial CyanogenMod Daily Bui",
+      "free": true,
+      "id": "ProTekk",
+      "manifest": "http://fzservers.com/cmdailies.js",
+      "roms": {
+        "mecha": true
+      },
+      "summary": "Unofficial daily builds of CyanogenMod"
+    },
+    {
+      "developer": "CyanogenMod Nightly Kangs",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/605/4be6bc944178493ba79afe96467a8eae.png",
+      "id": "maxdamage2122Smba1002Kangs",
+      "manifest": "https://dl.dropbox.com/s/7yreog0xtyebutn/smb_a1002-nightlies/manifest2.js",
+      "roms": {
+        "harmony": true
+      },
+      "summary": "Unmodified Cyanogenmod nightly kangs for the Viewsonic GTablet"
+    },
+    {
       "developer": "Ihtfp69",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/626/2cad2dafa4ee11476c29e0c6950147b6.jpg",
@@ -2190,6 +2174,17 @@
         "inc": true
       },
       "summary": "SkyRaider ROMs and goodies"
+    },
+    {
+      "developer": "Solstice",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/530/d45f727409f37121864a24391106b1f0.png",
+      "id": "laszlo.david@gmail.com",
+      "manifest": "http://solsticerom.github.com/ROMManagerManifest/manifest.js",
+      "roms": {
+        "bravo": true
+      },
+      "summary": "Simple AOSP ROM"
     }
   ],
   "minversion": "4322"

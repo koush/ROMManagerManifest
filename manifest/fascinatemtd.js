@@ -24,11 +24,11 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
-      "developer": "jt1134@gmail.com",
+      "developer": "jt1134",
       "free": false,
-      "id": "jt1134@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/jt1134@gmail.com/manifest",
-      "summary": "jt1134@gmail.com"
+      "id": "jt1134",
+      "manifest": "http://romshare.deployfu.com/developer/jt1134/manifest",
+      "summary": "jt1134"
     },
     {
       "developer": "MIUI.us",

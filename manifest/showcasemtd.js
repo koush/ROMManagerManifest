@@ -17,6 +17,13 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
+      "developer": "jt1134",
+      "free": false,
+      "id": "jt1134",
+      "manifest": "http://romshare.deployfu.com/developer/jt1134/manifest",
+      "summary": "jt1134"
+    },
+    {
       "developer": "MIUI.us",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",

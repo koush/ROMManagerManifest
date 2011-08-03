@@ -89,6 +89,14 @@
       "id": "GreenRomProject",
       "manifest": "http://romshare.deployfu.com/developer/GreenRomProject/manifest",
       "summary": "STABLE Super Fast ROM; ANDROID 2.3.4"
+    },
+    {
+      "developer": "CyanogenMod Nightly Kangs",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/605/4be6bc944178493ba79afe96467a8eae.png",
+      "id": "maxdamage2122Smba1002Kangs",
+      "manifest": "https://dl.dropbox.com/s/7yreog0xtyebutn/smb_a1002-nightlies/manifest2.js",
+      "summary": "Unmodified Cyanogenmod nightly kangs for the Viewsonic GTablet"
     }
   ],
   "minversion": "4322"

@@ -25,6 +25,14 @@
       "summary": "MIUI English releases by MIUI.us"
     },
     {
+      "developer": "Virtuous",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/63/902e31b288d5ccf04b4e1c7b4a89f0b5.png",
+      "id": "virtuous",
+      "manifest": "http://files.virtuousrom.com/virtuous.js",
+      "summary": "Enhanced Sense ROMs and more from the Virtuous Team."
+    },
+    {
       "developer": "Saga LBC Mod",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/573/8bf50ca36993e1e97aa0bf47bcc8f043.png",

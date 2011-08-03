@@ -30,14 +30,6 @@
       "free": "true",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
-    },
-    {
-      "developer": "CyanogenMod Nightly Kangs",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/529/d04138f4fd1395737f6c617b9ee6fa63.png",
-      "id": "maxdamage2122Smba1002Kangs",
-      "manifest": "https://dl.dropbox.com/s/7yreog0xtyebutn/smb_a1002-nightlies/manifest.js",
-      "summary": "Unmodified Cyanogenmod nightly kangs for the Viewsonic GTablet"
     }
   ],
   "minversion": "4322"

@@ -48,14 +48,6 @@
       "summary": "Custom ROMs for MT4G & G2x"
     },
     {
-      "developer": "Einherjar Dev",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/25/31d8c04d2622249a93100ffc1ed40a17.png",
-      "id": "einherjar",
-      "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
-      "summary": "ROMs, with a side of metal."
-    },
-    {
       "developer": "MIUI Android",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",

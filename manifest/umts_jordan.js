@@ -25,20 +25,20 @@
       "summary": "MIUI English releases by MIUI.us"
     },
     {
-      "developer": "MIUI Android",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
-      "id": "miuiandroid",
-      "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
-      "summary": "The original English MIUI ROM by MIUI Android"
-    },
-    {
       "developer": "CyanogenMod Nightlies",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/541/4158e7edc75c600607f05a3b063ffba1.png",
       "id": "tanguy.pruvot@gmail.com",
       "manifest": "http://defy.tanguy.tk/rm/custom.js",
       "summary": "CyanogenMod Nightly builds. tpruvot@github"
+    },
+    {
+      "developer": "MIUI Android",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
+      "id": "miuiandroid",
+      "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
+      "summary": "The original English MIUI ROM by MIUI Android"
     },
     {
       "developer": "MIUI-PT",

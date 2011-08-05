@@ -1,21 +1,6 @@
 {
   "manifests": [
     {
-      "developer": "Extras",
-      "icon": "http://koush.kanged.net/cm/test/extras.png",
-      "id": "extras",
-      "free": "true",
-      "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
-      "summary": "Cool stuffs."
-    },
-    {
-      "developer": "jt1134",
-      "id": "jt1134",
-      "free": "true",
-      "manifest": "http://deodexed.com/ROMManagerManifest/jt1134/jt1134.js",
-      "summary": "Super Clean ROM for Samsung Fascinate"
-    },
-    {
       "developer": "Deodexed Elements Series",
       "id": "Deodexed",
       "free": "true",
@@ -31,6 +16,14 @@
       "summary": "Blackhole build your own ROM series, full customization"
     },
     {
+      "developer": "Extras",
+      "icon": "http://koush.kanged.net/cm/test/extras.png",
+      "id": "extras",
+      "free": "true",
+      "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
+      "summary": "Cool stuffs."
+    },
+    {
       "developer": "geeknik",
       "id": "geeknikbrian",
       "free": "true",
@@ -44,6 +37,13 @@
       "free": "true",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
+    },
+    {
+      "developer": "jt1134",
+      "id": "jt1134",
+      "free": "true",
+      "manifest": "http://deodexed.com/ROMManagerManifest/jt1134/jt1134.js",
+      "summary": "Super Clean ROM for Samsung Fascinate"
     }
   ],
   "minversion": "4322"

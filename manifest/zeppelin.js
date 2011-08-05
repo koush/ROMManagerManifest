@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+      "developer": "AmbrosialROMs",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/558/8206d5091d0ed4afc3f0bf148e9b4191.png",
+      "id": "RealPariah",
+      "manifest": "http://www.ambrosialpariah.com/ambrosialcm7/files/rom.man/acm.js",
+      "summary": "AmbrosialROMS: Bringing More Sizzle to the Bacon!"
+    },
+    {
       "developer": "CyanogenMod",
       "icon": "http://koush.kanged.net/cm/test/cm2.png",
       "id": "cyanogenmod",
@@ -30,14 +38,6 @@
       "free": "true",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
-    },
-    {
-      "developer": "AmbrosialROMs",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/558/8206d5091d0ed4afc3f0bf148e9b4191.png",
-      "id": "RealPariah",
-      "manifest": "http://www.ambrosialpariah.com/ambrosialcm7/files/rom.man/acm.js",
-      "summary": "AmbrosialROMS: Bringing More Sizzle to the Bacon!"
     }
   ],
   "minversion": "4322"

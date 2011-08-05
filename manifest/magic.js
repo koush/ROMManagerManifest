@@ -24,6 +24,22 @@
       "summary": "Cool stuffs."
     },
     {
+      "developer": "EzTerry",
+      "icon": "http://sandbox.devnull.name/android/rommanager/zapped.png",
+      "id": "ezterry",
+      "free": "true",
+      "manifest": "http://sandbox.devnull.name/android/rommanager/manifest.js",
+      "summary": "ezterry @ xda's Dream/Sapphire Roms and Kernels"
+    },
+    {
+      "developer": "Google Apps",
+      "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
+      "id": "google",
+      "free": "true",
+      "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
+      "summary": "Add-on for AOSP ROMs, such as CM"
+    },
+    {
       "developer": "Pershoot",
       "id": "pershoot",
       "free": "true",
@@ -37,22 +53,6 @@
       "free": "true",
       "manifest": "http://dl.dropbox.com/u/14294263/cos-ds.js",
       "summary": "An AOSP ROM using the latest CM/EzGB sources for D/S, supporting EBI0, 2708, EBI1 devices"
-    },
-    {
-      "developer": "Google Apps",
-      "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
-      "id": "google",
-      "free": "true",
-      "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
-      "summary": "Add-on for AOSP ROMs, such as CM"
-    },
-    {
-      "developer": "EzTerry",
-      "icon": "http://sandbox.devnull.name/android/rommanager/zapped.png",
-      "id": "ezterry",
-      "free": "true",
-      "manifest": "http://sandbox.devnull.name/android/rommanager/manifest.js",
-      "summary": "ezterry @ xda's Dream/Sapphire Roms and Kernels"
     }
   ],
   "minversion": "4322"

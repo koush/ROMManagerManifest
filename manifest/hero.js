@@ -24,19 +24,19 @@
       "summary": "Cool stuffs."
     },
     {
-      "developer": "meLIanTQ",
-      "id": "meliantq",
-      "free": "true",
-      "manifest": "http://www.meliantq.net/android/rommanager/manifest.js",
-      "summary": "Rom for your HTC."
-    },
-    {
       "developer": "Google Apps",
       "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
       "id": "google",
       "free": "true",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
+    },
+    {
+      "developer": "meLIanTQ",
+      "id": "meliantq",
+      "free": "true",
+      "manifest": "http://www.meliantq.net/android/rommanager/manifest.js",
+      "summary": "Rom for your HTC."
     }
   ],
   "minversion": "4322"

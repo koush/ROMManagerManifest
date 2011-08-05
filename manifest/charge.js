@@ -1,6 +1,13 @@
 {
   "manifests": [
     {
+      "developer": "Kejar31",
+      "free": true,
+      "id": "Kejar31",
+      "manifest": "http://romshare.deployfu.com/developer/Kejar31/manifest",
+      "summary": "Kejar31"
+    },
+    {
       "developer": "Extras",
       "icon": "http://koush.kanged.net/cm/test/extras.png",
       "id": "extras",
@@ -15,13 +22,6 @@
       "free": "true",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
-    },
-    {
-      "developer": "Kejar31",
-      "free": true,
-      "id": "Kejar31",
-      "manifest": "http://romshare.deployfu.com/developer/Kejar31/manifest",
-      "summary": "Kejar31"
     }
   ],
   "minversion": "4322"

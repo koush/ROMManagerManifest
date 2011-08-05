@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+      "developer": "dfgas",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/601/7c809045feea38f822a0d58ca2f6daf3.png",
+      "id": "dfgas",
+      "manifest": "http://dfgas.TeamUsCellular.com/rommanager/manual_manifest.js",
+      "summary": "dfgas"
+    },
+    {
       "developer": "Extras",
       "icon": "http://koush.kanged.net/cm/test/extras.png",
       "id": "extras",

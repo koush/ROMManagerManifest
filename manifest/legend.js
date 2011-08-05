@@ -1,6 +1,13 @@
 {
   "manifests": [
     {
+      "developer": "AleBaba",
+      "id": "aleho",
+      "free": "true",
+      "manifest": "http://derhofbauer.at/rommanager/roms.js",
+      "summary": "Customized ROMs for the HTC Legend"
+    },
+    {
       "developer": "CyanogenMod",
       "icon": "http://koush.kanged.net/cm/test/cm2.png",
       "id": "cyanogenmod",
@@ -24,11 +31,12 @@
       "summary": "Cool stuffs."
     },
     {
-      "developer": "AleBaba",
-      "id": "aleho",
+      "developer": "Google Apps",
+      "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
+      "id": "google",
       "free": "true",
-      "manifest": "http://derhofbauer.at/rommanager/roms.js",
-      "summary": "Customized ROMs for the HTC Legend"
+      "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
+      "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
       "developer": "lyka",
@@ -36,14 +44,6 @@
       "free": "true",
       "manifest": "http://www.lucamazzilli.it/ROMS/lmaz.js",
       "summary": "A Senseless and deodexed ROM with clean look and feel"
-    },
-    {
-      "developer": "Google Apps",
-      "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
-      "id": "google",
-      "free": "true",
-      "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
-      "summary": "Add-on for AOSP ROMs, such as CM"
     }
   ],
   "minversion": "4322"

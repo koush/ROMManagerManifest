@@ -1,6 +1,21 @@
 {
   "manifests": [
     {
+      "developer": "SparksCo",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/293/b6c183f7deb2729a2821649ddbe563e3.jpg",
+      "id": "SparksCo",
+      "manifest": "http://romshare.deployfu.com/developer/SparksCo/manifest",
+      "summary": "CM7 Roms and Kernels for HTC Evo Shift"
+    },
+    {
+      "developer": "bcnice20",
+      "id": "bcnice20",
+      "free": "true",
+      "manifest": "http://www.thebcblends.com/speedy/bcblend.js",
+      "summary": "Roms and Kernels for the HTC EVO Shift"
+    },
+    {
       "developer": "CyanogenMod",
       "icon": "http://koush.kanged.net/cm/test/cm2.png",
       "id": "cyanogenmod",
@@ -24,27 +39,12 @@
       "summary": "Cool stuffs."
     },
     {
-      "developer": "bcnice20",
-      "id": "bcnice20",
-      "free": "true",
-      "manifest": "http://www.thebcblends.com/speedy/bcblend.js",
-      "summary": "Roms and Kernels for the HTC EVO Shift"
-    },
-    {
       "developer": "Google Apps",
       "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
       "id": "google",
       "free": "true",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
-    },
-    {
-      "developer": "SparksCo",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/293/b6c183f7deb2729a2821649ddbe563e3.jpg",
-      "id": "SparksCo",
-      "manifest": "http://romshare.deployfu.com/developer/SparksCo/manifest",
-      "summary": "CM7 Roms and Kernels for HTC Evo Shift"
     },
     {
       "developer": "MIUI.us",

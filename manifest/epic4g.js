@@ -1,19 +1,19 @@
 {
   "manifests": [
     {
+      "developer": "ACS",
+      "id": "ACS",
+      "free": "true",
+      "manifest": "http://holylivingfuck.com/ACS/Romlist.js",
+      "summary": "Android Creative Syndicate"
+    },
+    {
       "developer": "Extras",
       "icon": "http://koush.kanged.net/cm/test/extras.png",
       "id": "extras",
       "free": "true",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
       "summary": "Cool stuffs."
-    },
-    {
-      "developer": "ACS",
-      "id": "ACS",
-      "free": "true",
-      "manifest": "http://holylivingfuck.com/ACS/Romlist.js",
-      "summary": "Android Creative Syndicate"
     },
     {
       "developer": "Google Apps",

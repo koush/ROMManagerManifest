@@ -17,6 +17,8 @@ for manifest in romshare_manifests['manifests']:
   manifests << manifest
 end
 
+parsed_data['manifests'] = manifests = manifests.sort_by { |a| a['id'] }
+
 File.open('manifests.js', 'w').write(JSON.pretty_generate(parsed_data))
 
 device_manifests = {}

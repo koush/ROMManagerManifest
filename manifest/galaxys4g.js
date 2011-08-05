@@ -1,6 +1,13 @@
 {
   "manifests": [
     {
+      "developer": "aefreshkid97@gmail.com",
+      "free": true,
+      "id": "aefreshkid97@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/aefreshkid97@gmail.com/manifest",
+      "summary": "aefreshkid97@gmail.com"
+    },
+    {
       "developer": "Extras",
       "icon": "http://koush.kanged.net/cm/test/extras.png",
       "id": "extras",
@@ -15,13 +22,6 @@
       "free": "true",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
-    },
-    {
-      "developer": "aefreshkid97@gmail.com",
-      "free": true,
-      "id": "aefreshkid97@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/aefreshkid97@gmail.com/manifest",
-      "summary": "aefreshkid97@gmail.com"
     }
   ],
   "minversion": "4322"

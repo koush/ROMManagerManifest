@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+      "developer": "Sapo a5 Blog Team",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/617/426f2197f1ed2674fa87666a35835083.png",
+      "id": "a5.blog.team",
+      "manifest": "http://romshare.deployfu.com/developer/a5.blog.team/manifest",
+      "summary": "Powered by Rafael Souto and The Sapo a5 Community"
+    },
+    {
       "developer": "CyanogenMod",
       "icon": "http://koush.kanged.net/cm/test/cm2.png",
       "id": "cyanogenmod",
@@ -32,13 +40,6 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
-      "developer": "WBAW",
-      "free": true,
-      "id": "johnkenney02@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/johnkenney02@gmail.com/manifest",
-      "summary": "Stir Fry Chef"
-    },
-    {
       "developer": "Stock ROMs",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/23/757972f1d6362f95a265050747542fc5.jpg",
@@ -47,12 +48,11 @@
       "summary": "Stock ROMs for the ZTE Blade and it's renamed counterparts."
     },
     {
-      "developer": "Sapo a5 Blog Team",
+      "developer": "WBAW",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/617/426f2197f1ed2674fa87666a35835083.png",
-      "id": "a5.blog.team",
-      "manifest": "http://romshare.deployfu.com/developer/a5.blog.team/manifest",
-      "summary": "Powered by Rafael Souto and The Sapo a5 Community"
+      "id": "johnkenney02@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/johnkenney02@gmail.com/manifest",
+      "summary": "Stir Fry Chef"
     }
   ],
   "minversion": "4322"

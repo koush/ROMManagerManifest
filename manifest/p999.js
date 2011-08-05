@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+      "developer": "Team Whiskey",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/217/1f014e3a34997c82b915902c05ba2005.png",
+      "id": "Krylon360",
+      "manifest": "http://romshare.deployfu.com/developer/Krylon360/manifest",
+      "summary": "TeamWhiskey Bionix Roms for the LG G2x and Samsung Vibrant "
+    },
+    {
       "developer": "CyanogenMod",
       "icon": "http://koush.kanged.net/cm/test/cm2.png",
       "id": "cyanogenmod",
@@ -16,28 +24,20 @@
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
     {
+      "developer": "Einherjar Dev",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/25/31d8c04d2622249a93100ffc1ed40a17.png",
+      "id": "einherjar",
+      "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
+      "summary": "ROMs, with a side of metal."
+    },
+    {
       "developer": "Extras",
       "icon": "http://koush.kanged.net/cm/test/extras.png",
       "id": "extras",
       "free": "true",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
       "summary": "Cool stuffs."
-    },
-    {
-      "developer": "Google Apps",
-      "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
-      "id": "google",
-      "free": "true",
-      "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
-      "summary": "Add-on for AOSP ROMs, such as CM"
-    },
-    {
-      "developer": "Team Whiskey",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/217/1f014e3a34997c82b915902c05ba2005.png",
-      "id": "Krylon360",
-      "manifest": "http://romshare.deployfu.com/developer/Krylon360/manifest",
-      "summary": "TeamWhiskey Bionix Roms for the LG G2x and Samsung Vibrant "
     },
     {
       "developer": "Faux123 Custom ROMs",
@@ -48,12 +48,12 @@
       "summary": "Custom ROMs for MT4G & G2x"
     },
     {
-      "developer": "Einherjar Dev",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/25/31d8c04d2622249a93100ffc1ed40a17.png",
-      "id": "einherjar",
-      "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
-      "summary": "ROMs, with a side of metal."
+      "developer": "Google Apps",
+      "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
+      "id": "google",
+      "free": "true",
+      "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
+      "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
       "developer": "MIUI Android",

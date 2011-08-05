@@ -16,6 +16,21 @@
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
     {
+      "developer": "DrewGaren Nightlies",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
+      "id": "drewgarennightly",
+      "manifest": "http://romshare.deployfu.com/developer/drewgarennightly/manifest",
+      "summary": "DrewGaren Beta Roms Nightly Builds!"
+    },
+    {
+      "developer": "Dalingrin's Test Builds",
+      "free": true,
+      "id": "ehardesty@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/ehardesty@gmail.com/manifest",
+      "summary": "CM7 test builds"
+    },
+    {
       "developer": "Extras",
       "icon": "http://koush.kanged.net/cm/test/extras.png",
       "id": "extras",
@@ -32,19 +47,12 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
-      "developer": "DrewGaren Nightlies",
+      "developer": "MIUI.us",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
-      "id": "drewgarennightly",
-      "manifest": "http://romshare.deployfu.com/developer/drewgarennightly/manifest",
-      "summary": "DrewGaren Beta Roms Nightly Builds!"
-    },
-    {
-      "developer": "Dalingrin's Test Builds",
-      "free": true,
-      "id": "ehardesty@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/ehardesty@gmail.com/manifest",
-      "summary": "CM7 test builds"
+      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
+      "id": "miuius",
+      "manifest": "http://roms.miui.us/manifest/rommanager.js",
+      "summary": "MIUI English releases by MIUI.us"
     },
     {
       "developer": "phiremod",
@@ -53,14 +61,6 @@
       "id": "phiredrop",
       "manifest": "http://romshare.deployfu.com/developer/phiredrop/manifest",
       "summary": "Bringing you the best of Android."
-    },
-    {
-      "developer": "MIUI.us",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
-      "id": "miuius",
-      "manifest": "http://roms.miui.us/manifest/rommanager.js",
-      "summary": "MIUI English releases by MIUI.us"
     }
   ],
   "minversion": "4322"

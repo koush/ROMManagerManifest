@@ -17,11 +17,11 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
-      "developer": "pecord@gmail.com",
+      "developer": "pecord",
       "free": true,
-      "id": "pecord@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/pecord@gmail.com/manifest",
-      "summary": "pecord@gmail.com"
+      "id": "pecord",
+      "manifest": "http://romshare.deployfu.com/developer/pecord/manifest",
+      "summary": "Just uploading various roms for other EVO 3D users, will not accept donations for others work and will not provide support"
     }
   ],
   "minversion": "4322"

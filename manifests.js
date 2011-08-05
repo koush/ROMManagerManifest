@@ -205,16 +205,6 @@
       "summary": "Custom HTC Sense Froyo ROMs for HTC Desire."
     },
     {
-      "developer": "JRummy16",
-      "id": "JRummy16",
-      "free": "true",
-      "manifest": "http://froyoroms.com/files/developers/jrummy/JRummy/Rom_Manager/jrummy.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "So awesome that Chuck Norris runs it as his daily ROM ;)"
-    },
-    {
       "developer": "Lithium Mod",
       "id": "JRummy16",
       "free": "true",
@@ -224,6 +214,16 @@
         "inc": "true"
       },
       "summary": "Source built roms and custom themes"
+    },
+    {
+      "developer": "JRummy16",
+      "id": "JRummy16",
+      "free": "true",
+      "manifest": "http://froyoroms.com/files/developers/jrummy/JRummy/Rom_Manager/jrummy.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "So awesome that Chuck Norris runs it as his daily ROM ;)"
     },
     {
       "developer": "JsinLegacy",
@@ -320,14 +320,14 @@
       "summary": "OMJ's HTC EVO ROMs"
     },
     {
-      "developer": "Unofficial CM7 Daily Builds",
+      "developer": "Unofficial CyanogenMod 7 Builds",
       "free": true,
       "id": "ProTekk",
       "manifest": "http://fzservers.com/cmdailies.js",
       "roms": {
         "mecha": true
       },
-      "summary": "Unofficial daily builds of CyanogenMod"
+      "summary": "Unofficial builds of CyanogenMod"
     },
     {
       "developer": "AmbrosialROMs",
@@ -1299,6 +1299,17 @@
       "summary": "Stock ROMs for the ZTE Blade and it's renamed counterparts."
     },
     {
+      "developer": "JayDub",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/637/8b686c72876f16d95da06635ab65049e.png",
+      "id": "jay.dub.williams82@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/jay.dub.williams82@gmail.com/manifest",
+      "roms": {
+        "morrison": true
+      },
+      "summary": "An AOSP style CM7"
+    },
+    {
       "developer": "jbbandos",
       "free": true,
       "id": "jbbandos",
@@ -1419,6 +1430,16 @@
     },
     {
       "developer": "jt1134",
+      "id": "jt1134",
+      "free": "true",
+      "manifest": "http://deodexed.com/ROMManagerManifest/jt1134/jt1134.js",
+      "roms": {
+        "fascinate": "true"
+      },
+      "summary": "Super Clean ROM for Samsung Fascinate"
+    },
+    {
+      "developer": "jt1134",
       "free": true,
       "id": "jt1134",
       "manifest": "http://romshare.deployfu.com/developer/jt1134/manifest",
@@ -1428,16 +1449,6 @@
         "mesmerizemtd": true
       },
       "summary": "jt1134"
-    },
-    {
-      "developer": "jt1134",
-      "id": "jt1134",
-      "free": "true",
-      "manifest": "http://deodexed.com/ROMManagerManifest/jt1134/jt1134.js",
-      "roms": {
-        "fascinate": "true"
-      },
-      "summary": "Super Clean ROM for Samsung Fascinate"
     },
     {
       "developer": "NexBreed ROMs",
@@ -1588,6 +1599,18 @@
         "sholes": true
       },
       "summary": "Miui.us Ports for Droid"
+    },
+    {
+      "developer": "CyanogenMod Nightly Kangs",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/605/b2728dddb56f27d31d52935f68db4b9b.png",
+      "id": "maxdamage2122Smba1002Kangs",
+      "manifest": "https://dl.dropbox.com/s/7yreog0xtyebutn/smb_a1002-nightlies/manifest.js",
+      "roms": {
+        "smb_a1002": true,
+        "undefined": true
+      },
+      "summary": "Unmodified Cyanogenmod nightly kangs for the Viewsonic GTablet"
     },
     {
       "developer": "-=MDJ's ViVO Sense=-",
@@ -1787,14 +1810,14 @@
       "summary": "notna659@gmail.com"
     },
     {
-      "developer": "pecord@gmail.com",
+      "developer": "pecord",
       "free": true,
-      "id": "pecord@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/pecord@gmail.com/manifest",
+      "id": "pecord",
+      "manifest": "http://romshare.deployfu.com/developer/pecord/manifest",
       "roms": {
         "shooter": true
       },
-      "summary": "pecord@gmail.com"
+      "summary": "Just uploading various roms for other EVO 3D users, will not accept donations for others work and will not provide support"
     },
     {
       "developer": "Pershoot",

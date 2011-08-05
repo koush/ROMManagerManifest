@@ -17,11 +17,11 @@
       "summary": "Source Built Gingerbread and Custom Tbolt Roms"
     },
     {
-      "developer": "Unofficial CM7 Daily Builds",
+      "developer": "Unofficial CyanogenMod 7 Builds",
       "free": true,
       "id": "ProTekk",
       "manifest": "http://fzservers.com/cmdailies.js",
-      "summary": "Unofficial daily builds of CyanogenMod"
+      "summary": "Unofficial builds of CyanogenMod"
     },
     {
       "developer": "Sonofskywalker3",

@@ -38,6 +38,14 @@
       "free": "true",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
+    },
+    {
+      "developer": "JayDub",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/637/8b686c72876f16d95da06635ab65049e.png",
+      "id": "jay.dub.williams82@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/jay.dub.williams82@gmail.com/manifest",
+      "summary": "An AOSP style CM7"
     }
   ],
   "minversion": "4322"

@@ -104,20 +104,12 @@
       "summary": "Inspire 4G ROMS and Add-ons"
     },
     {
-      "developer": "ClearDroid",
+      "developer": "MIUI.us",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/572/879c46c74242594d151b96b2d1f3e173.png",
-      "id": "ClearD",
-      "manifest": "http://www.techsupporteverything.com/download/manifest.js",
-      "summary": "ClearDroid ROM for Inspire 4G. Inspire-based, with the choice of a stock feel or the ClearDroid ModPack. The most stable ROM available for the Inspire."
-    },
-    {
-      "developer": "MIUI Android",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
-      "id": "miuiandroid",
-      "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
-      "summary": "The original English MIUI ROM by MIUI Android"
+      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
+      "id": "miuius",
+      "manifest": "http://roms.miui.us/manifest/rommanager.js",
+      "summary": "MIUI English releases by MIUI.us"
     },
     {
       "developer": "Virtuous",
@@ -128,6 +120,14 @@
       "summary": "Enhanced Sense ROMs and more from the Virtuous Team."
     },
     {
+      "developer": "ClearDroid",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/572/879c46c74242594d151b96b2d1f3e173.png",
+      "id": "ClearD",
+      "manifest": "http://www.techsupporteverything.com/download/manifest.js",
+      "summary": "ClearDroid ROM for Inspire 4G. Inspire-based, with the choice of a stock feel or the ClearDroid ModPack. The most stable ROM available for the Inspire."
+    },
+    {
       "developer": "MIUI-PT",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
@@ -136,20 +136,20 @@
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
     },
     {
-      "developer": "MIUI.us",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
-      "id": "miuius",
-      "manifest": "http://roms.miui.us/manifest/rommanager.js",
-      "summary": "MIUI English releases by MIUI.us"
-    },
-    {
       "developer": "MIUIBrasil",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/610/b8dd1c98205fd076be6738c1c4d99412.png",
       "id": "miuibrasil",
       "manifest": "http://miuibrasil.net/roms/manifestrm.js",
       "summary": "Projeto de Tradução da ROM MIUI para o Português do Brasil"
+    },
+    {
+      "developer": "MIUI Android",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
+      "id": "miuiandroid",
+      "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
+      "summary": "The original English MIUI ROM by MIUI Android"
     }
   ],
   "minversion": "4322"

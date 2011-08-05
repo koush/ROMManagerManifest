@@ -17,14 +17,6 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
-      "developer": "dfgas",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/601/7c809045feea38f822a0d58ca2f6daf3.png",
-      "id": "dfgas",
-      "manifest": "http://romshare.deployfu.com/developer/dfgas/manifest",
-      "summary": "dfgas"
-    },
-    {
       "developer": "jt1134",
       "free": true,
       "id": "jt1134",
@@ -38,6 +30,14 @@
       "id": "miuius",
       "manifest": "http://roms.miui.us/manifest/rommanager.js",
       "summary": "MIUI English releases by MIUI.us"
+    },
+    {
+      "developer": "dfgas",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/601/7c809045feea38f822a0d58ca2f6daf3.png",
+      "id": "dfgas",
+      "manifest": "http://dfgas.TeamUsCellular.com/rommanager/manual_manifest.js",
+      "summary": "dfgas"
     }
   ],
   "minversion": "4322"

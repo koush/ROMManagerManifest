@@ -1494,17 +1494,6 @@
       "summary": "ROMs & Mods."
     },
     {
-      "developer": "Clark44",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/315/fa526fadb52216d09110cf18e5fd5047.jpg",
-      "id": "Clark44",
-      "manifest": "http://romshare.deployfu.com/developer/Clark44/manifest",
-      "roms": {
-        "supersonic": true
-      },
-      "summary": "Average Rom DEV"
-    },
-    {
       "developer": "aosp",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/322/c97732b0067d16ccf420f20f78b8f36a.png",
@@ -1862,17 +1851,6 @@
       "summary": "Honeyteam presents fully Sense 3.0 with themes see our thread on XDA for more information"
     },
     {
-      "developer": "dfgas",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/601/7c809045feea38f822a0d58ca2f6daf3.png",
-      "id": "dfgas",
-      "manifest": "http://romshare.deployfu.com/developer/dfgas/manifest",
-      "roms": {
-        "mesmerizemtd": true
-      },
-      "summary": "dfgas"
-    },
-    {
       "developer": "Stock ROMs",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/23/757972f1d6362f95a265050747542fc5.jpg",
@@ -1917,6 +1895,18 @@
       "summary": "Powered by Rafael Souto and The Sapo a5 Community"
     },
     {
+      "developer": "ROM FASTY",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/621/fb4f7286249636542a1b0a5cdf8d3e6b.png",
+      "id": "lostlogic01@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/lostlogic01@gmail.com/manifest",
+      "roms": {
+        "captivate": true,
+        "captivatemtd": true
+      },
+      "summary": "FASTY ROM is a Unique Rom with best battery life,and  performance,and instant GPS lock .Please head to webproz.org for more info"
+    },
+    {
       "developer": "pecord@gmail.com",
       "free": true,
       "id": "pecord@gmail.com",
@@ -1939,28 +1929,15 @@
       "summary": "jt1134"
     },
     {
-      "developer": "ROM FASTY",
+      "developer": "EnYo",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/621/fb4f7286249636542a1b0a5cdf8d3e6b.png",
-      "id": "lostlogic01@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/lostlogic01@gmail.com/manifest",
+      "icon": "http://romshare.deployfu.com/downloads/633/6d66fe89a61766765127c1ba4e5222fd.png",
+      "id": "rfvbnji91@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/rfvbnji91@gmail.com/manifest",
       "roms": {
-        "captivate": true
+        "droidx": true
       },
-      "summary": "FASTY ROM is a Unique Rom with best battery life,and  performance,and instant GPS lock .Please head to webproz.org for more info"
-    },
-    {
-      "developer": "Einherjar Dev",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/25/31d8c04d2622249a93100ffc1ed40a17.png",
-      "id": "einherjar",
-      "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
-      "roms": {
-        "p999": true,
-        "vibrantmtd": true,
-        "vibrant": true
-      },
-      "summary": "ROMs, with a side of metal."
+      "summary": "AOSP Source Espresso ROMs"
     },
     {
       "developer": "Ideos Dev Team ROMs",
@@ -1974,107 +1951,17 @@
       "summary": "ROMs for the Huawei U8150 Ideos from the Ideos Dev Team"
     },
     {
-      "developer": "AmbrosialROMs",
+      "developer": "Einherjar Dev",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/558/8206d5091d0ed4afc3f0bf148e9b4191.png",
-      "id": "RealPariah",
-      "manifest": "http://www.ambrosialpariah.com/ambrosialcm7/files/rom.man/acm.js",
-      "roms": {
-        "zeppelin": true
-      },
-      "summary": "AmbrosialROMS: Bringing More Sizzle to the Bacon!"
-    },
-    {
-      "developer": "Saga LBC Mod",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/573/8bf50ca36993e1e97aa0bf47bcc8f043.png",
-      "id": "loveboatcaptain",
-      "manifest": "http://ota.saga-lbc-mod.de/rommanager/manifest.js",
-      "roms": {
-        "saga": true
-      },
-      "summary": "LoveBoatCaptain - Android Development"
-    },
-    {
-      "developer": "ClearDroid",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/572/879c46c74242594d151b96b2d1f3e173.png",
-      "id": "ClearD",
-      "manifest": "http://www.techsupporteverything.com/download/manifest.js",
-      "roms": {
-        "ace": true
-      },
-      "summary": "ClearDroid ROM for Inspire 4G. Inspire-based, with the choice of a stock feel or the ClearDroid ModPack. The most stable ROM available for the Inspire."
-    },
-    {
-      "developer": "MIUI Android",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
-      "id": "miuiandroid",
-      "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
+      "icon": "http://romshare.deployfu.com/downloads/25/31d8c04d2622249a93100ffc1ed40a17.png",
+      "id": "einherjar",
+      "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
       "roms": {
         "p999": true,
-        "leo": true,
-        "p990": true,
         "vibrantmtd": true,
-        "passion": true,
-        "galaxys": true,
-        "bravo": true,
-        "umts_jordan": true,
-        "ace": true,
-        "sholes": true,
-        "captivatemtd": true,
-        "inc": true,
-        "crespo": true,
-        "vision": true,
-        "umts_sholes": true
+        "vibrant": true
       },
-      "summary": "The original English MIUI ROM by MIUI Android"
-    },
-    {
-      "developer": "Virtuous",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/63/902e31b288d5ccf04b4e1c7b4a89f0b5.png",
-      "id": "virtuous",
-      "manifest": "http://files.virtuousrom.com/virtuous.js",
-      "roms": {
-        "incs": true,
-        "virtuous": true,
-        "vivow": true,
-        "ace": true,
-        "glacier": true,
-        "pyramid": true,
-        "inc": true,
-        "saga": true,
-        "vision": true
-      },
-      "summary": "Enhanced Sense ROMs and more from the Virtuous Team."
-    },
-    {
-      "developer": "MIUI-PT",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
-      "id": "miuiportugal",
-      "manifest": "http://www.files.miui-pt.com/manifest/miuipt.js",
-      "roms": {
-        "leo": true,
-        "p990": true,
-        "vibrantmtd": true,
-        "ace": true,
-        "bravo": true,
-        "umts_jordan": true,
-        "passion": true,
-        "galaxys": true,
-        "captivate": true,
-        "vibrant": true,
-        "captivatemtd": true,
-        "crespo": true,
-        "vision": true,
-        "galaxys2": true,
-        "galaxysmtd": true,
-        "umts_sholes": true
-      },
-      "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
+      "summary": "ROMs, with a side of metal."
     },
     {
       "developer": "MIUI.us",
@@ -2114,6 +2001,128 @@
       "summary": "MIUI English releases by MIUI.us"
     },
     {
+      "developer": "Virtuous",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/63/902e31b288d5ccf04b4e1c7b4a89f0b5.png",
+      "id": "virtuous",
+      "manifest": "http://files.virtuousrom.com/virtuous.js",
+      "roms": {
+        "incs": true,
+        "virtuous": true,
+        "vivow": true,
+        "ace": true,
+        "glacier": true,
+        "pyramid": true,
+        "inc": true,
+        "saga": true,
+        "vision": true
+      },
+      "summary": "Enhanced Sense ROMs and more from the Virtuous Team."
+    },
+    {
+      "developer": "CyanogenMod Nightlies",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/541/91afee5f3ad77376b65aa60038c4979c.png",
+      "id": "tanguy.pruvot@gmail.com",
+      "manifest": "http://tpruvot.free.fr/rm/custom.js",
+      "roms": {
+        "umts_jordan": true
+      },
+      "summary": "CyanogenMod Nightly builds. tpruvot@github"
+    },
+    {
+      "developer": "ClearDroid",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/572/879c46c74242594d151b96b2d1f3e173.png",
+      "id": "ClearD",
+      "manifest": "http://www.techsupporteverything.com/download/manifest.js",
+      "roms": {
+        "ace": true
+      },
+      "summary": "ClearDroid ROM for Inspire 4G. Inspire-based, with the choice of a stock feel or the ClearDroid ModPack. The most stable ROM available for the Inspire."
+    },
+    {
+      "developer": "AmbrosialROMs",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/558/8206d5091d0ed4afc3f0bf148e9b4191.png",
+      "id": "RealPariah",
+      "manifest": "http://www.ambrosialpariah.com/ambrosialcm7/files/rom.man/acm.js",
+      "roms": {
+        "zeppelin": true
+      },
+      "summary": "AmbrosialROMS: Bringing More Sizzle to the Bacon!"
+    },
+    {
+      "developer": "dfgas",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/601/7c809045feea38f822a0d58ca2f6daf3.png",
+      "id": "dfgas",
+      "manifest": "http://dfgas.TeamUsCellular.com/rommanager/manual_manifest.js",
+      "roms": {
+        "mesmerizemtd": true
+      },
+      "summary": "dfgas"
+    },
+    {
+      "developer": "MIUI-PT",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
+      "id": "miuiportugal",
+      "manifest": "http://www.files.miui-pt.com/manifest/miuipt.js",
+      "roms": {
+        "leo": true,
+        "p990": true,
+        "vibrantmtd": true,
+        "ace": true,
+        "bravo": true,
+        "umts_jordan": true,
+        "passion": true,
+        "galaxys": true,
+        "captivate": true,
+        "vibrant": true,
+        "captivatemtd": true,
+        "crespo": true,
+        "vision": true,
+        "galaxys2": true,
+        "galaxysmtd": true,
+        "umts_sholes": true
+      },
+      "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
+    },
+    {
+      "developer": "Saga LBC Mod",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/573/8bf50ca36993e1e97aa0bf47bcc8f043.png",
+      "id": "loveboatcaptain",
+      "manifest": "http://ota.saga-lbc-mod.de/rommanager/manifest.js",
+      "roms": {
+        "saga": true
+      },
+      "summary": "LoveBoatCaptain - Android Development"
+    },
+    {
+      "developer": "CM7 Tweaked cLK only",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/607/13ad2cc8cf0a38ad06196a50b66f074b.png",
+      "id": "seader",
+      "manifest": "http://config.sntclan.de/manifest.js",
+      "roms": {
+        "leo": true
+      },
+      "summary": "Seaders stable one, 2.3.5, tweaked with tablet-functions, audio/lights/sensor/gps fixes, custom settings and deleted/added/switched apps; incl. newest custom YES/NO recovery with experimental NTFS support. http://bit.ly/nnx6qf for details"
+    },
+    {
+      "developer": "Solstice",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/530/d45f727409f37121864a24391106b1f0.png",
+      "id": "laszlo.david@gmail.com",
+      "manifest": "http://solsticerom.github.com/ROMManagerManifest/manifest.js",
+      "roms": {
+        "bravo": true
+      },
+      "summary": "Simple AOSP ROM"
+    },
+    {
       "developer": "MIUIBrasil",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/610/b8dd1c98205fd076be6738c1c4d99412.png",
@@ -2134,26 +2143,29 @@
       "summary": "Projeto de Tradução da ROM MIUI para o Português do Brasil"
     },
     {
-      "developer": "CyanogenMod Nightly Kangs",
+      "developer": "MIUI Android",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/605/b2728dddb56f27d31d52935f68db4b9b.png",
-      "id": "maxdamage2122Smba1002Kangs",
-      "manifest": "https://dl.dropbox.com/s/7yreog0xtyebutn/smb_a1002-nightlies/manifest.js",
+      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
+      "id": "miuiandroid",
+      "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
       "roms": {
-        "harmony": true
+        "p999": true,
+        "leo": true,
+        "p990": true,
+        "vibrantmtd": true,
+        "passion": true,
+        "galaxys": true,
+        "bravo": true,
+        "umts_jordan": true,
+        "ace": true,
+        "sholes": true,
+        "captivatemtd": true,
+        "inc": true,
+        "crespo": true,
+        "vision": true,
+        "umts_sholes": true
       },
-      "summary": "Unmodified Cyanogenmod nightly kangs for the Viewsonic GTablet"
-    },
-    {
-      "developer": "Solstice",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/530/d45f727409f37121864a24391106b1f0.png",
-      "id": "laszlo.david@gmail.com",
-      "manifest": "http://solsticerom.github.com/ROMManagerManifest/manifest.js",
-      "roms": {
-        "bravo": true
-      },
-      "summary": "Simple AOSP ROM"
+      "summary": "The original English MIUI ROM by MIUI Android"
     },
     {
       "developer": "Unofficial CM7 Daily Builds",
@@ -2164,17 +2176,6 @@
         "mecha": true
       },
       "summary": "Unofficial daily builds of CyanogenMod"
-    },
-    {
-      "developer": "CM7 Tweaked cLK only",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/607/13ad2cc8cf0a38ad06196a50b66f074b.png",
-      "id": "seader",
-      "manifest": "http://config.sntclan.de/manifest.js",
-      "roms": {
-        "leo": true
-      },
-      "summary": "Seaders stable one, 2.3.5, tweaked with tablet-functions, audio/lights/sensor/gps fixes, custom settings and deleted/added/switched apps; incl. newest custom YES/NO recovery with experimental NTFS support. http://bit.ly/nnx6qf for details"
     },
     {
       "developer": "Ihtfp69",

@@ -134,12 +134,12 @@
       "summary": "AOSP/CM Desire builds & Custom HTC Sense builds"
     },
     {
-      "developer": "MIUI Android",
+      "developer": "MIUI.us",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
-      "id": "miuiandroid",
-      "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
-      "summary": "The original English MIUI ROM by MIUI Android"
+      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
+      "id": "miuius",
+      "manifest": "http://roms.miui.us/manifest/rommanager.js",
+      "summary": "MIUI English releases by MIUI.us"
     },
     {
       "developer": "MIUI-PT",
@@ -150,12 +150,12 @@
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
     },
     {
-      "developer": "MIUI.us",
+      "developer": "Solstice",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
-      "id": "miuius",
-      "manifest": "http://roms.miui.us/manifest/rommanager.js",
-      "summary": "MIUI English releases by MIUI.us"
+      "icon": "http://romshare.deployfu.com/downloads/530/d45f727409f37121864a24391106b1f0.png",
+      "id": "laszlo.david@gmail.com",
+      "manifest": "http://solsticerom.github.com/ROMManagerManifest/manifest.js",
+      "summary": "Simple AOSP ROM"
     },
     {
       "developer": "MIUIBrasil",
@@ -166,12 +166,12 @@
       "summary": "Projeto de Tradução da ROM MIUI para o Português do Brasil"
     },
     {
-      "developer": "Solstice",
+      "developer": "MIUI Android",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/530/d45f727409f37121864a24391106b1f0.png",
-      "id": "laszlo.david@gmail.com",
-      "manifest": "http://solsticerom.github.com/ROMManagerManifest/manifest.js",
-      "summary": "Simple AOSP ROM"
+      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
+      "id": "miuiandroid",
+      "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
+      "summary": "The original English MIUI ROM by MIUI Android"
     }
   ],
   "minversion": "4322"

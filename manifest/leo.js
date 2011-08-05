@@ -56,12 +56,12 @@
       "summary": "Compiled from CyanogenMod-7 Bravo/Desire Base with tweaks! Visit my XDA Developers project page for more information: http://forum.xda-developers.com/showpost.php?p=14676068"
     },
     {
-      "developer": "MIUI Android",
+      "developer": "MIUI.us",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
-      "id": "miuiandroid",
-      "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
-      "summary": "The original English MIUI ROM by MIUI Android"
+      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
+      "id": "miuius",
+      "manifest": "http://roms.miui.us/manifest/rommanager.js",
+      "summary": "MIUI English releases by MIUI.us"
     },
     {
       "developer": "MIUI-PT",
@@ -72,12 +72,12 @@
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
     },
     {
-      "developer": "MIUI.us",
+      "developer": "CM7 Tweaked cLK only",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
-      "id": "miuius",
-      "manifest": "http://roms.miui.us/manifest/rommanager.js",
-      "summary": "MIUI English releases by MIUI.us"
+      "icon": "http://romshare.deployfu.com/downloads/607/13ad2cc8cf0a38ad06196a50b66f074b.png",
+      "id": "seader",
+      "manifest": "http://config.sntclan.de/manifest.js",
+      "summary": "Seaders stable one, 2.3.5, tweaked with tablet-functions, audio/lights/sensor/gps fixes, custom settings and deleted/added/switched apps; incl. newest custom YES/NO recovery with experimental NTFS support. http://bit.ly/nnx6qf for details"
     },
     {
       "developer": "MIUIBrasil",
@@ -88,12 +88,12 @@
       "summary": "Projeto de Tradução da ROM MIUI para o Português do Brasil"
     },
     {
-      "developer": "CM7 Tweaked cLK only",
+      "developer": "MIUI Android",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/607/13ad2cc8cf0a38ad06196a50b66f074b.png",
-      "id": "seader",
-      "manifest": "http://config.sntclan.de/manifest.js",
-      "summary": "Seaders stable one, 2.3.5, tweaked with tablet-functions, audio/lights/sensor/gps fixes, custom settings and deleted/added/switched apps; incl. newest custom YES/NO recovery with experimental NTFS support. http://bit.ly/nnx6qf for details"
+      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
+      "id": "miuiandroid",
+      "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
+      "summary": "The original English MIUI ROM by MIUI Android"
     }
   ],
   "minversion": "4322"

@@ -32,12 +32,20 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
-      "developer": "MIUI Android",
+      "developer": "ROM FASTY",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
-      "id": "miuiandroid",
-      "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
-      "summary": "The original English MIUI ROM by MIUI Android"
+      "icon": "http://romshare.deployfu.com/downloads/621/fb4f7286249636542a1b0a5cdf8d3e6b.png",
+      "id": "lostlogic01@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/lostlogic01@gmail.com/manifest",
+      "summary": "FASTY ROM is a Unique Rom with best battery life,and  performance,and instant GPS lock .Please head to webproz.org for more info"
+    },
+    {
+      "developer": "MIUI.us",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
+      "id": "miuius",
+      "manifest": "http://roms.miui.us/manifest/rommanager.js",
+      "summary": "MIUI English releases by MIUI.us"
     },
     {
       "developer": "MIUI-PT",
@@ -48,12 +56,12 @@
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
     },
     {
-      "developer": "MIUI.us",
+      "developer": "MIUI Android",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
-      "id": "miuius",
-      "manifest": "http://roms.miui.us/manifest/rommanager.js",
-      "summary": "MIUI English releases by MIUI.us"
+      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
+      "id": "miuiandroid",
+      "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
+      "summary": "The original English MIUI ROM by MIUI Android"
     }
   ],
   "minversion": "4322"

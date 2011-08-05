@@ -97,12 +97,12 @@
       "summary": "Multi-language MIUI ROMs. No theme change, 3G, bluetooth and other tunings. Lean and fast."
     },
     {
-      "developer": "MIUI Android",
+      "developer": "MIUI.us",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
-      "id": "miuiandroid",
-      "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
-      "summary": "The original English MIUI ROM by MIUI Android"
+      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
+      "id": "miuius",
+      "manifest": "http://roms.miui.us/manifest/rommanager.js",
+      "summary": "MIUI English releases by MIUI.us"
     },
     {
       "developer": "MIUI-PT",
@@ -113,20 +113,20 @@
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
     },
     {
-      "developer": "MIUI.us",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
-      "id": "miuius",
-      "manifest": "http://roms.miui.us/manifest/rommanager.js",
-      "summary": "MIUI English releases by MIUI.us"
-    },
-    {
       "developer": "MIUIBrasil",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/610/b8dd1c98205fd076be6738c1c4d99412.png",
       "id": "miuibrasil",
       "manifest": "http://miuibrasil.net/roms/manifestrm.js",
       "summary": "Projeto de Tradução da ROM MIUI para o Português do Brasil"
+    },
+    {
+      "developer": "MIUI Android",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
+      "id": "miuiandroid",
+      "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
+      "summary": "The original English MIUI ROM by MIUI Android"
     }
   ],
   "minversion": "4322"

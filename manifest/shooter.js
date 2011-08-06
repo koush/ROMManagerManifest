@@ -17,8 +17,8 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
-      "developer": "pecord",
-      "free": true,
+      "developer": "XDA Roms",
+      "free": false,
       "id": "pecord",
       "manifest": "http://romshare.deployfu.com/developer/pecord/manifest",
       "summary": "Just uploading various roms for other EVO 3D users, will not accept donations for others work and will not provide support"

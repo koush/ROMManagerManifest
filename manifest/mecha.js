@@ -21,7 +21,7 @@
       "free": true,
       "id": "ProTekk",
       "manifest": "http://fzservers.com/cmdailies.js",
-      "summary": "Unofficial builds of CyanogenMod"
+      "summary": "Unofficial builds of CyanogenMod 7"
     },
     {
       "developer": "Sonofskywalker3",
@@ -64,7 +64,7 @@
     },
     {
       "developer": "Cubed ROM",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/66/24fcf796e1e1fc870f868d35e7cf0207.png",
       "id": "dsb9938",
       "manifest": "http://romshare.deployfu.com/developer/dsb9938/manifest",

@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "DesignGears Roms",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/271/3ee39ba3530e8d858bbbfdbbb1ae2bea.png",
       "id": "DesignGears",
       "manifest": "http://romshare.deployfu.com/developer/DesignGears/manifest",
@@ -26,7 +26,7 @@
     },
     {
       "developer": "ROM FASTY",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/621/fb4f7286249636542a1b0a5cdf8d3e6b.png",
       "id": "lostlogic01@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/lostlogic01@gmail.com/manifest",

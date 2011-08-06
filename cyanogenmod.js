@@ -1340,10 +1340,10 @@
         },
         {
             "device": "mecha",
-            "name": "CyanogenMod 7.1.0-RC1.5",
+            "name": "CyanogenMod 7.1.0-RC1.5.1",
             "modversion": "CyanogenMod-7.1.0-RC-1-Thunderbolt-KANG",
             "incremental": "7104",
-            "url": "http://goo-inside.me/cm/mecha/rc/update-cm-7.1.0-RC1.5-Thunderbolt-MR-2-signed.zip",
+            "url": "http://goo-inside.me/cm/mecha/rc/update-cm-7.1.0-RC1.5.1-Thunderbolt-MR-2-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate\u000aMR2 or 2.5 Radio Only",
             "addons": [

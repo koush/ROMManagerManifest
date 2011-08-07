@@ -70,6 +70,14 @@
       "id": "miuius",
       "manifest": "http://roms.miui.us/manifest/rommanager.js",
       "summary": "MIUI English releases by MIUI.us"
+    },
+    {
+      "developer": "phiremod",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/234/49168358de7756efa2aab68b0a3919d6.jpg",
+      "id": "phiredrop",
+      "manifest": "http://romshare.deployfu.com/developer/phiredrop/manifest",
+      "summary": "Bringing you the best of Android."
     }
   ],
   "minversion": "4322"

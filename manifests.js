@@ -1,6 +1,16 @@
 {
   "manifests": [
     {
+      "developer": "*damo*",
+      "free": false,
+      "id": "*damo*",
+      "manifest": "http://romshare.deployfu.com/developer/*damo*/manifest",
+      "roms": {
+        "pyramid": true
+      },
+      "summary": "Super Smooth and finely tuned stock Roms with some extras"
+    },
+    {
       "developer": "ACS",
       "id": "ACS",
       "free": "true",
@@ -205,6 +215,16 @@
       "summary": "Custom HTC Sense Froyo ROMs for HTC Desire."
     },
     {
+      "developer": "JRummy16",
+      "id": "JRummy16",
+      "free": "true",
+      "manifest": "http://froyoroms.com/files/developers/jrummy/JRummy/Rom_Manager/jrummy.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "So awesome that Chuck Norris runs it as his daily ROM ;)"
+    },
+    {
       "developer": "Lithium Mod",
       "id": "JRummy16",
       "free": "true",
@@ -214,16 +234,6 @@
         "inc": "true"
       },
       "summary": "Source built roms and custom themes"
-    },
-    {
-      "developer": "JRummy16",
-      "id": "JRummy16",
-      "free": "true",
-      "manifest": "http://froyoroms.com/files/developers/jrummy/JRummy/Rom_Manager/jrummy.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "So awesome that Chuck Norris runs it as his daily ROM ;)"
     },
     {
       "developer": "JsinLegacy",
@@ -955,17 +965,6 @@
       "summary": "Sense ROM for HTC Desire with Stable Data2SD"
     },
     {
-      "developer": "Cubed ROM",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/66/24fcf796e1e1fc870f868d35e7cf0207.png",
-      "id": "dsb9938",
-      "manifest": "http://romshare.deployfu.com/developer/dsb9938/manifest",
-      "roms": {
-        "mecha": true
-      },
-      "summary": "dsb9938 from XDA"
-    },
-    {
       "developer": "dasBAMF",
       "icon": "http://www.onix-android.com/thatdudebutch/rommgr/burrito.png",
       "id": "dsb9938",
@@ -975,6 +974,17 @@
         "mecha": "true"
       },
       "summary": "BAMF for Thunderbolt by Adrynalyne, ThatDudeButch, Trident, and dsb9938"
+    },
+    {
+      "developer": "Cubed ROM",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/66/24fcf796e1e1fc870f868d35e7cf0207.png",
+      "id": "dsb9938",
+      "manifest": "http://romshare.deployfu.com/developer/dsb9938/manifest",
+      "roms": {
+        "mecha": true
+      },
+      "summary": "dsb9938 from XDA"
     },
     {
       "developer": "Salvage-Mod Nightlies",
@@ -1430,16 +1440,6 @@
     },
     {
       "developer": "jt1134",
-      "id": "jt1134",
-      "free": "true",
-      "manifest": "http://deodexed.com/ROMManagerManifest/jt1134/jt1134.js",
-      "roms": {
-        "fascinate": "true"
-      },
-      "summary": "Super Clean ROM for Samsung Fascinate"
-    },
-    {
-      "developer": "jt1134",
       "free": false,
       "id": "jt1134",
       "manifest": "http://romshare.deployfu.com/developer/jt1134/manifest",
@@ -1449,6 +1449,16 @@
         "mesmerizemtd": true
       },
       "summary": "jt1134"
+    },
+    {
+      "developer": "jt1134",
+      "id": "jt1134",
+      "free": "true",
+      "manifest": "http://deodexed.com/ROMManagerManifest/jt1134/jt1134.js",
+      "roms": {
+        "fascinate": "true"
+      },
+      "summary": "Super Clean ROM for Samsung Fascinate"
     },
     {
       "developer": "NexBreed ROMs",
@@ -1608,6 +1618,7 @@
       "manifest": "https://dl.dropbox.com/s/7yreog0xtyebutn/smb_a1002-nightlies/manifest.js",
       "roms": {
         "smb_a1002": true,
+        "undefined": true,
         "harmony": true
       },
       "summary": "By maxdamage2122\\n\\nUnmodified Cyanogenmod nightly kangs for the Viewsonic GTablet"
@@ -1708,6 +1719,7 @@
         "captivate": true,
         "vibrant": true,
         "captivatemtd": true,
+        "inc": true,
         "crespo": true,
         "vision": true,
         "galaxys2": true,
@@ -1726,6 +1738,7 @@
         "leo": true,
         "vivow": true,
         "shadow": true,
+        "droid2": true,
         "vivo": true,
         "vibrantmtd": true,
         "umts_jordan": true,
@@ -1852,6 +1865,7 @@
       "id": "phiredrop",
       "manifest": "http://romshare.deployfu.com/developer/phiredrop/manifest",
       "roms": {
+        "vibrantmtd": true,
         "vibrant": true,
         "encore": true
       },
@@ -1920,9 +1934,12 @@
       "id": "rfvbnji91@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/rfvbnji91@gmail.com/manifest",
       "roms": {
-        "droidx": true
+        "droid2": true,
+        "sholes": true,
+        "droidx": true,
+        "droidpro": true
       },
-      "summary": "AOSP Source Espresso ROMs"
+      "summary": "AOSP Source Built ROMs, MODs & Tweaks"
     },
     {
       "developer": "RichardTrip - DeFroST",

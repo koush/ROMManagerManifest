@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "*damo*",
-      "free": false,
+      "free": true,
       "id": "*damo*",
       "manifest": "http://romshare.deployfu.com/developer/*damo*/manifest",
       "summary": "Super Smooth and finely tuned stock Roms with some extras"

@@ -17,7 +17,7 @@
     },
     {
       "developer": "DrewGaren Nightlies",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
       "id": "drewgarennightly",
       "manifest": "http://romshare.deployfu.com/developer/drewgarennightly/manifest",
@@ -25,7 +25,7 @@
     },
     {
       "developer": "Dalingrin's Test Builds",
-      "free": false,
+      "free": true,
       "id": "ehardesty@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/ehardesty@gmail.com/manifest",
       "summary": "CM7 test builds"
@@ -56,7 +56,7 @@
     },
     {
       "developer": "phiremod",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/234/49168358de7756efa2aab68b0a3919d6.jpg",
       "id": "phiredrop",
       "manifest": "http://romshare.deployfu.com/developer/phiredrop/manifest",

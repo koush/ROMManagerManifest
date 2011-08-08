@@ -2,11 +2,18 @@
   "manifests": [
     {
       "developer": "HardDroid2",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/438/21a895f66fddad535cf84ed37ccb425c.JPG",
       "id": "DeanoSoft_UK",
       "manifest": "http://romshare.deployfu.com/developer/DeanoSoft_UK/manifest",
       "summary": "Compiled from CyanogenMod-7 Bravo/Desire Base with tweaks! Visit my XDA Developers project page for more information: http://forum.xda-developers.com/showpost.php?p=14676068"
+    },
+    {
+      "developer": "CWR Unofficial",
+      "free": true,
+      "id": "arifali1@gmail.com",
+      "manifest": "http://dl.dropbox.com/u/26430630/CWR.js",
+      "summary": "Latest CWR for the HD2 with the yes/no patch"
     },
     {
       "developer": "charansingh",
@@ -26,7 +33,7 @@
     },
     {
       "developer": "TyphooN CyanogenMod",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/146/24fb59de6489c544c6fd683b6a43e491.png",
       "id": "do-not-use-cyanogenmod-nightly",
       "manifest": "http://romshare.deployfu.com/developer/do-not-use-cyanogenmod-nightly/manifest",
@@ -93,7 +100,7 @@
       "icon": "http://romshare.deployfu.com/downloads/607/13ad2cc8cf0a38ad06196a50b66f074b.png",
       "id": "seader",
       "manifest": "http://config.sntclan.de/manifest.js",
-      "summary": "Seaders stable one, 2.3.5, tweaked with tablet-functions, audio/lights/sensor/gps fixes, custom settings and deleted/added/switched apps; incl. newest custom YES/NO recovery with experimental NTFS support. http://bit.ly/nnx6qf for details"
+      "summary": "Seaders stable one, based on LEO 2.3.5 sources, tweaked with tablet-functions, audio/lights/sensor/gps fixes, custom settings and deleted/added/switched apps; incl. newest custom YES/NO recovery with experimental NTFS support. http://bit.ly/nnx6qf for deta"
     }
   ],
   "minversion": "4322"

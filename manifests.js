@@ -997,17 +997,6 @@
       "summary": "BAMF for Thunderbolt by Adrynalyne, ThatDudeButch, Trident, and dsb9938"
     },
     {
-      "developer": "Salvage-Mod",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
-      "id": "echo17",
-      "free": "true",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "GB source build. Group project."
-    },
-    {
       "developer": "Salvage-Mod Nightlies",
       "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
       "id": "echo17",
@@ -1017,6 +1006,17 @@
         "supersonic": "true"
       },
       "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
+    },
+    {
+      "developer": "Salvage-Mod",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
+      "id": "echo17",
+      "free": "true",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "GB source build. Group project."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -1255,6 +1255,17 @@
       "summary": "SkyRaider ROMs and goodies"
     },
     {
+      "developer": "infinitybiff",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/653/762650b5d98197026697a2548d41f017.png",
+      "id": "infinitybiff@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/infinitybiff@gmail.com/manifest",
+      "roms": {
+        "vibrantmtd": true
+      },
+      "summary": "A fine blend of AOSP, CM7, and Unicorns"
+    },
+    {
       "developer": "Insanity",
       "id": "insanity",
       "manifest": "http://insanity.nfye.com/manifest.js",
@@ -1450,16 +1461,6 @@
     },
     {
       "developer": "jt1134",
-      "id": "jt1134",
-      "free": "true",
-      "manifest": "http://deodexed.com/ROMManagerManifest/jt1134/jt1134.js",
-      "roms": {
-        "fascinate": "true"
-      },
-      "summary": "Super Clean ROM for Samsung Fascinate"
-    },
-    {
-      "developer": "jt1134",
       "free": true,
       "id": "jt1134",
       "manifest": "http://romshare.deployfu.com/developer/jt1134/manifest",
@@ -1469,6 +1470,16 @@
         "mesmerizemtd": true
       },
       "summary": "jt1134"
+    },
+    {
+      "developer": "jt1134",
+      "id": "jt1134",
+      "free": "true",
+      "manifest": "http://deodexed.com/ROMManagerManifest/jt1134/jt1134.js",
+      "roms": {
+        "fascinate": "true"
+      },
+      "summary": "Super Clean ROM for Samsung Fascinate"
     },
     {
       "developer": "NexBreed ROMs",

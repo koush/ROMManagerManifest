@@ -48,9 +48,9 @@
       "summary": "Go Go Go!"
     },
     {
-      "developer": "infinitybiff",
+      "developer": "Infinitybiff",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/653/762650b5d98197026697a2548d41f017.png",
+      "icon": "http://romshare.deployfu.com/downloads/653/7dc90deb235d7f8e522085e09fad294a.png",
       "id": "infinitybiff@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/infinitybiff@gmail.com/manifest",
       "summary": "A fine blend of AOSP, CM7, and Unicorns"

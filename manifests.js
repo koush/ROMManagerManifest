@@ -125,18 +125,6 @@
       "summary": "Elements Rom Series, Zinc Rom for the Samsung Fascinate"
     },
     {
-      "developer": "DesignGears Roms",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/271/3ee39ba3530e8d858bbbfdbbb1ae2bea.png",
-      "id": "DesignGears",
-      "manifest": "http://romshare.deployfu.com/developer/DesignGears/manifest",
-      "roms": {
-        "captivate": true,
-        "galaxys2": true
-      },
-      "summary": "Roms & Mods by DesignGears"
-    },
-    {
       "developer": "dhemke17",
       "icon": "http://dhe17roms.github.com/Roms/auburn-university.jpg",
       "id": "DhE17roms",
@@ -526,6 +514,7 @@
       "manifest": "http://romshare.deployfu.com/developer/aospmod/manifest",
       "roms": {
         "thunderg": true,
+        "pyramid": true,
         "heroc": true
       },
       "summary": "aosp4u@gmail.com"
@@ -1255,9 +1244,9 @@
       "summary": "SkyRaider ROMs and goodies"
     },
     {
-      "developer": "infinitybiff",
+      "developer": "Infinitybiff",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/653/762650b5d98197026697a2548d41f017.png",
+      "icon": "http://romshare.deployfu.com/downloads/653/7dc90deb235d7f8e522085e09fad294a.png",
       "id": "infinitybiff@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/infinitybiff@gmail.com/manifest",
       "roms": {
@@ -1461,6 +1450,16 @@
     },
     {
       "developer": "jt1134",
+      "id": "jt1134",
+      "free": "true",
+      "manifest": "http://deodexed.com/ROMManagerManifest/jt1134/jt1134.js",
+      "roms": {
+        "fascinate": "true"
+      },
+      "summary": "Super Clean ROM for Samsung Fascinate"
+    },
+    {
+      "developer": "jt1134",
       "free": true,
       "id": "jt1134",
       "manifest": "http://romshare.deployfu.com/developer/jt1134/manifest",
@@ -1470,16 +1469,6 @@
         "mesmerizemtd": true
       },
       "summary": "jt1134"
-    },
-    {
-      "developer": "jt1134",
-      "id": "jt1134",
-      "free": "true",
-      "manifest": "http://deodexed.com/ROMManagerManifest/jt1134/jt1134.js",
-      "roms": {
-        "fascinate": "true"
-      },
-      "summary": "Super Clean ROM for Samsung Fascinate"
     },
     {
       "developer": "NexBreed ROMs",
@@ -1954,6 +1943,7 @@
       "manifest": "http://romshare.deployfu.com/developer/rfvbnji91@gmail.com/manifest",
       "roms": {
         "droid2": true,
+        "passion": true,
         "sholes": true,
         "droidx": true,
         "droidpro": true
@@ -2004,6 +1994,17 @@
         "olympus": true
       },
       "summary": "Atrix Roms"
+    },
+    {
+      "developer": "sduvick",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/654/17bfc474b5c0c194278a7d6c4ecb7f74.jpg",
+      "id": "sduvick@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/sduvick@gmail.com/manifest",
+      "roms": {
+        "sidekick4g": true
+      },
+      "summary": "sduvick"
     },
     {
       "developer": "CM7 Tweaked cLK only",

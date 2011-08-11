@@ -1250,7 +1250,8 @@
       "id": "infinitybiff@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/infinitybiff@gmail.com/manifest",
       "roms": {
-        "vibrantmtd": true
+        "vibrantmtd": true,
+        "captivatemtd": true
       },
       "summary": "A fine blend of AOSP, CM7, and Unicorns"
     },

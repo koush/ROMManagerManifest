@@ -1,16 +1,8 @@
 {
   "manifests": [
     {
-      "developer": "ClearDroid",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/572/879c46c74242594d151b96b2d1f3e173.png",
-      "id": "ClearD",
-      "manifest": "http://www.techsupporteverything.com/download/manifest.js",
-      "summary": "ClearDroid ROM for Inspire 4G. Inspire-based, with the choice of a stock feel or the ClearDroid ModPack. The most stable ROM available for the Inspire."
-    },
-    {
       "developer": "Honey3D",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/376/b266f88e7063336d333ef7ad4fd4d6ff.png",
       "id": "HoneyTeam",
       "manifest": "http://romshare.deployfu.com/developer/HoneyTeam/manifest",
@@ -34,7 +26,7 @@
     },
     {
       "developer": "cstayton",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/546/7489780bf323b88233ae310c1c65a08e.png",
       "id": "castayton@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/castayton@gmail.com/manifest",
@@ -129,7 +121,7 @@
     },
     {
       "developer": "pirateghost",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/618/e651f76ee302b696b7e42ed966b612cf.jpg",
       "id": "pirateg@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/pirateg@gmail.com/manifest",

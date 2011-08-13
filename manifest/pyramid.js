@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "*damo*",
-      "free": true,
+      "free": false,
       "id": "*damo*",
       "manifest": "http://romshare.deployfu.com/developer/*damo*/manifest",
       "summary": "Super Smooth and finely tuned stock Roms with some extras"
@@ -17,11 +17,19 @@
     },
     {
       "developer": "aosp",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/322/c97732b0067d16ccf420f20f78b8f36a.png",
       "id": "aospmod",
       "manifest": "http://romshare.deployfu.com/developer/aospmod/manifest",
       "summary": "aosp4u@gmail.com"
+    },
+    {
+      "developer": "Einherjar Dev",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/25/31d8c04d2622249a93100ffc1ed40a17.png",
+      "id": "einherjar",
+      "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
+      "summary": "ROMs, with a side of metal."
     },
     {
       "developer": "Extras",

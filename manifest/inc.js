@@ -16,7 +16,7 @@
     },
     {
       "developer": "GreenRomProject",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
       "id": "GreenRomProject",
       "manifest": "http://romshare.deployfu.com/developer/GreenRomProject/manifest",
@@ -148,7 +148,7 @@
     },
     {
       "developer": "winner00",
-      "free": true,
+      "free": false,
       "id": "toverturf@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/toverturf@gmail.com/manifest",
       "summary": "CyanogenMod 7 with few tweaks for better performance on the OG Droid, Incredible, and pulls from gerrit.  "

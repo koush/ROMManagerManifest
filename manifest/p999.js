@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "Team Whiskey",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/217/1f014e3a34997c82b915902c05ba2005.png",
       "id": "Krylon360",
       "manifest": "http://romshare.deployfu.com/developer/Krylon360/manifest",
@@ -41,7 +41,7 @@
     },
     {
       "developer": "Faux123 Custom ROMs",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/65/458f8e1774c14317e04210d456d579e0.gif",
       "id": "faux123",
       "manifest": "http://romshare.deployfu.com/developer/faux123/manifest",
@@ -62,6 +62,14 @@
       "id": "miuiandroid",
       "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
       "summary": "The original English MIUI ROM by MIUI Android"
+    },
+    {
+      "developer": "Xboarder56",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/663/402e31bd0ad3f6f57f92d29c291c52d7.jpg",
+      "id": "xboarder56",
+      "manifest": "http://romshare.deployfu.com/developer/xboarder56/manifest",
+      "summary": "bezzer68@gmail.com"
     }
   ],
   "minversion": "4322"

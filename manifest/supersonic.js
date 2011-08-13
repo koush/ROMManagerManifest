@@ -116,6 +116,14 @@
       "summary": "ROMs & kernels for HTC EVO 4G, Droid Incredible"
     },
     {
+      "developer": "MaxDamage",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/529/b1c8e19a6f619e9e3cf2a36de2fb8b0a.png",
+      "id": "maxdamage",
+      "manifest": "https://dl.dropbox.com/s/7yreog0xtyebutn/maxdamage/manifest.js",
+      "summary": "Flashing CM nightlies made easy!"
+    },
+    {
       "developer": "MIUI.us",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",

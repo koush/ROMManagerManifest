@@ -20,7 +20,7 @@
     },
     {
       "developer": "GreenRomProject",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
       "id": "GreenRomProject",
       "manifest": "http://romshare.deployfu.com/developer/GreenRomProject/manifest",
@@ -71,7 +71,7 @@
     },
     {
       "developer": "CorCor67",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/208/1a50ab91ddac2b2ef3829b8e4c7a3664.png",
       "id": "corcor67@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/corcor67@gmail.com/manifest",
@@ -170,7 +170,7 @@
     },
     {
       "developer": "Magiman7",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/42/70d519969f6c857c9e5b7c1cfb147ae9.png",
       "id": "magiman7",
       "manifest": "http://romshare.deployfu.com/developer/magiman7/manifest",
@@ -178,7 +178,7 @@
     },
     {
       "developer": "metiCkOne",
-      "free": true,
+      "free": false,
       "id": "metiCkOne",
       "manifest": "http://romshare.deployfu.com/developer/metiCkOne/manifest",
       "summary": "Clean, fast & Stable roms for the D1 & D2"
@@ -217,7 +217,7 @@
     },
     {
       "developer": "EnYo",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/633/6d66fe89a61766765127c1ba4e5222fd.png",
       "id": "rfvbnji91@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/rfvbnji91@gmail.com/manifest",
@@ -239,7 +239,7 @@
     },
     {
       "developer": "winner00",
-      "free": true,
+      "free": false,
       "id": "toverturf@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/toverturf@gmail.com/manifest",
       "summary": "CyanogenMod 7 with few tweaks for better performance on the OG Droid, Incredible, and pulls from gerrit.  "

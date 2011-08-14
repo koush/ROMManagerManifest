@@ -1,16 +1,6 @@
 {
   "manifests": [
     {
-      "developer": "*damo*",
-      "free": false,
-      "id": "*damo*",
-      "manifest": "http://romshare.deployfu.com/developer/*damo*/manifest",
-      "roms": {
-        "pyramid": true
-      },
-      "summary": "Super Smooth and finely tuned stock Roms with some extras"
-    },
-    {
       "developer": "ACS",
       "id": "ACS",
       "free": "true",
@@ -70,6 +60,17 @@
         "sholes": "true"
       },
       "summary": "Overclock Kernels & ROMS for the Droid"
+    },
+    {
+      "developer": "ClearDroid",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/572/879c46c74242594d151b96b2d1f3e173.png",
+      "id": "ClearD",
+      "manifest": "http://www.techsupporteverything.com/download/manifest.js",
+      "roms": {
+        "ace": true
+      },
+      "summary": "ClearDroid ROM for Inspire 4G. Inspire-based, with the choice of a stock feel or the ClearDroid ModPack. The most stable ROM available for the Inspire."
     },
     {
       "developer": "DRod2169",
@@ -1453,16 +1454,6 @@
     },
     {
       "developer": "jt1134",
-      "id": "jt1134",
-      "free": "true",
-      "manifest": "http://deodexed.com/ROMManagerManifest/jt1134/jt1134.js",
-      "roms": {
-        "fascinate": "true"
-      },
-      "summary": "Super Clean ROM for Samsung Fascinate"
-    },
-    {
-      "developer": "jt1134",
       "free": false,
       "id": "jt1134",
       "manifest": "http://romshare.deployfu.com/developer/jt1134/manifest",
@@ -1472,6 +1463,16 @@
         "mesmerizemtd": true
       },
       "summary": "jt1134"
+    },
+    {
+      "developer": "jt1134",
+      "id": "jt1134",
+      "free": "true",
+      "manifest": "http://deodexed.com/ROMManagerManifest/jt1134/jt1134.js",
+      "roms": {
+        "fascinate": "true"
+      },
+      "summary": "Super Clean ROM for Samsung Fascinate"
     },
     {
       "developer": "NexBreed ROMs",
@@ -2261,7 +2262,17 @@
       "roms": {
         "p999": true
       },
-      "summary": "bezzer68@gmail.com"
+      "summary": "Rooted Stock OTA and Tweaked OTA. Enjoy..."
+    },
+    {
+      "developer": "Whitehawkx",
+      "free": false,
+      "id": "xxwhitehawk@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/xxwhitehawk@gmail.com/manifest",
+      "roms": {
+        "p999": true
+      },
+      "summary": "Roms and mods."
     },
     {
       "developer": "Ginger yoshi ^_^",

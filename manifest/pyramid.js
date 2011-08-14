@@ -1,13 +1,6 @@
 {
   "manifests": [
     {
-      "developer": "*damo*",
-      "free": false,
-      "id": "*damo*",
-      "manifest": "http://romshare.deployfu.com/developer/*damo*/manifest",
-      "summary": "Super Smooth and finely tuned stock Roms with some extras"
-    },
-    {
       "developer": "LeeDrOiD",
       "icon": "http://leedroid.ftp.rshost.eu/Images/avatar_small.png",
       "id": "LeeDrOiD",

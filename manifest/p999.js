@@ -69,7 +69,14 @@
       "icon": "http://romshare.deployfu.com/downloads/663/402e31bd0ad3f6f57f92d29c291c52d7.jpg",
       "id": "xboarder56",
       "manifest": "http://romshare.deployfu.com/developer/xboarder56/manifest",
-      "summary": "bezzer68@gmail.com"
+      "summary": "Rooted Stock OTA and Tweaked OTA. Enjoy..."
+    },
+    {
+      "developer": "Whitehawkx",
+      "free": false,
+      "id": "xxwhitehawk@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/xxwhitehawk@gmail.com/manifest",
+      "summary": "Roms and mods."
     }
   ],
   "minversion": "4322"

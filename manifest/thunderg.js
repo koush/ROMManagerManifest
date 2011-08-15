@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "aosp",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/322/c97732b0067d16ccf420f20f78b8f36a.png",
       "id": "aospmod",
       "manifest": "http://romshare.deployfu.com/developer/aospmod/manifest",
@@ -10,7 +10,7 @@
     },
     {
       "developer": "foschi@gmail.com",
-      "free": false,
+      "free": true,
       "id": "crimescene",
       "manifest": "http://romshare.deployfu.com/developer/crimescene/manifest",
       "summary": "don't forget to patrition your sd card swap 0 ext4 512 or more"
@@ -33,7 +33,7 @@
     },
     {
       "developer": "mik_os",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/280/90f44cfd3ec66b7485bbf1d464651da5.gif",
       "id": "kiril.mik.os@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/kiril.mik.os@gmail.com/manifest",

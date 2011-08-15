@@ -48,6 +48,14 @@
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
     {
+      "developer": "DrewGaren Roms",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
+      "id": "drewgaren",
+      "manifest": "http://romshare.deployfu.com/developer/drewgaren/manifest",
+      "summary": "Custom Roms and Themes for your Device"
+    },
+    {
       "developer": "Extras",
       "icon": "http://koush.kanged.net/cm/test/extras.png",
       "id": "extras",
@@ -73,7 +81,7 @@
     },
     {
       "developer": "Htcclay",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/307/5076662d1617430aa6ad3f6ad73136aa.jpg",
       "id": "htcclay",
       "manifest": "http://romshare.deployfu.com/developer/htcclay/manifest",
@@ -89,7 +97,7 @@
     },
     {
       "developer": "NexBreed ROMs",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/150/06f5d36ced5f4795548d594dc9388435.jpg",
       "id": "kaiya215",
       "manifest": "http://romshare.deployfu.com/developer/kaiya215/manifest",

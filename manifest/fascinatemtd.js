@@ -24,8 +24,16 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
+      "developer": "Infinitybiff",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/653/7dc90deb235d7f8e522085e09fad294a.png",
+      "id": "infinitybiff@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/infinitybiff@gmail.com/manifest",
+      "summary": "A fine blend of AOSP, CM7, and Unicorns"
+    },
+    {
       "developer": "jt1134",
-      "free": false,
+      "free": true,
       "id": "jt1134",
       "manifest": "http://romshare.deployfu.com/developer/jt1134/manifest",
       "summary": "jt1134"

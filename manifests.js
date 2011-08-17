@@ -998,17 +998,6 @@
       "summary": "Sense ROM for HTC Desire with Stable Data2SD"
     },
     {
-      "developer": "Cubed ROM",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/66/24fcf796e1e1fc870f868d35e7cf0207.png",
-      "id": "dsb9938",
-      "manifest": "http://romshare.deployfu.com/developer/dsb9938/manifest",
-      "roms": {
-        "mecha": true
-      },
-      "summary": "dsb9938 from XDA"
-    },
-    {
       "developer": "dasBAMF",
       "icon": "http://www.onix-android.com/thatdudebutch/rommgr/burrito.png",
       "id": "dsb9938",
@@ -1020,15 +1009,15 @@
       "summary": "BAMF for Thunderbolt by Adrynalyne, ThatDudeButch, Trident, and dsb9938"
     },
     {
-      "developer": "Salvage-Mod Nightlies",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
-      "id": "echo17",
-      "free": "true",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
+      "developer": "Cubed ROM",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/66/24fcf796e1e1fc870f868d35e7cf0207.png",
+      "id": "dsb9938",
+      "manifest": "http://romshare.deployfu.com/developer/dsb9938/manifest",
       "roms": {
-        "supersonic": "true"
+        "mecha": true
       },
-      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
+      "summary": "dsb9938 from XDA"
     },
     {
       "developer": "Salvage-Mod",
@@ -1040,6 +1029,17 @@
         "supersonic": "true"
       },
       "summary": "GB source build. Group project."
+    },
+    {
+      "developer": "Salvage-Mod Nightlies",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
+      "id": "echo17",
+      "free": "true",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -1410,23 +1410,12 @@
       "developer": "joeykrim",
       "id": "joeykrim",
       "free": "true",
-      "manifest": "http://www.joeyconway.me/evo/ROMManagerManifest/manifest.js",
+      "manifest": "http://www.joeykrim.com/evo/ROMManagerManifest/manifest.js",
       "roms": {
         "shooter": "true",
         "supersonic": "true"
       },
       "summary": "Refinements and tools bundled together for your EVO"
-    },
-    {
-      "developer": "joeykrim",
-      "free": true,
-      "id": "joeykrim",
-      "manifest": "http://www.joeykrim.com/evo/ROMManagerManifest/manifest.js",
-      "roms": {
-        "shooter": true,
-        "supersonic": true
-      },
-      "summary": "joeykrim"
     },
     {
       "developer": "WBAW",

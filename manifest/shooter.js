@@ -20,15 +20,8 @@
       "developer": "joeykrim",
       "id": "joeykrim",
       "free": "true",
-      "manifest": "http://www.joeyconway.me/evo/ROMManagerManifest/manifest.js",
-      "summary": "Refinements and tools bundled together for your EVO"
-    },
-    {
-      "developer": "joeykrim",
-      "free": true,
-      "id": "joeykrim",
       "manifest": "http://www.joeykrim.com/evo/ROMManagerManifest/manifest.js",
-      "summary": "joeykrim"
+      "summary": "Refinements and tools bundled together for your EVO"
     },
     {
       "developer": "XDA Roms",

@@ -54,20 +54,20 @@
       "summary": "Updates for stock ROMs, radio, hboot"
     },
     {
-      "developer": "Salvage-Mod Nightlies",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
-      "id": "echo17",
-      "free": "true",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
-      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
-    },
-    {
       "developer": "Salvage-Mod",
       "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
       "id": "echo17",
       "free": "true",
       "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
       "summary": "GB source build. Group project."
+    },
+    {
+      "developer": "Salvage-Mod Nightlies",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
+      "id": "echo17",
+      "free": "true",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
+      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
     },
     {
       "developer": "Extras",
@@ -104,15 +104,8 @@
       "developer": "joeykrim",
       "id": "joeykrim",
       "free": "true",
-      "manifest": "http://www.joeyconway.me/evo/ROMManagerManifest/manifest.js",
-      "summary": "Refinements and tools bundled together for your EVO"
-    },
-    {
-      "developer": "joeykrim",
-      "free": true,
-      "id": "joeykrim",
       "manifest": "http://www.joeykrim.com/evo/ROMManagerManifest/manifest.js",
-      "summary": "joeykrim"
+      "summary": "Refinements and tools bundled together for your EVO"
     },
     {
       "developer": "Savaged-Zen",

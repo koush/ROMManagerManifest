@@ -395,7 +395,7 @@
             "developer": "joeykrim",
             "free": "true",
             "id": "joeykrim",
-            "manifest": "http://www.joeyconway.me/evo/ROMManagerManifest/manifest.js",
+            "manifest": "http://www.joeykrim.com/evo/ROMManagerManifest/manifest.js",
             "roms": {
                 "supersonic": "true", 
                 "shooter": "true"

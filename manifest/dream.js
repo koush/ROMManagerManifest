@@ -19,7 +19,7 @@
     {
       "developer": "LDrifta",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/554/19e4e44947e2418b93c9b05f8e6ed2e3.jpg",
+      "icon": "http://romshare.deployfu.com/downloads/554/c2176488c9813e3b7c2a3b1802f09c7d.png",
       "id": "LDrifta",
       "manifest": "http://romshare.deployfu.com/developer/LDrifta/manifest",
       "summary": "SenseLX"

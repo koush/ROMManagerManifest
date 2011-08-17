@@ -205,16 +205,6 @@
       "summary": "Custom HTC Sense Froyo ROMs for HTC Desire."
     },
     {
-      "developer": "JRummy16",
-      "id": "JRummy16",
-      "free": "true",
-      "manifest": "http://froyoroms.com/files/developers/jrummy/JRummy/Rom_Manager/jrummy.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "So awesome that Chuck Norris runs it as his daily ROM ;)"
-    },
-    {
       "developer": "Lithium Mod",
       "id": "JRummy16",
       "free": "true",
@@ -224,6 +214,16 @@
         "inc": "true"
       },
       "summary": "Source built roms and custom themes"
+    },
+    {
+      "developer": "JRummy16",
+      "id": "JRummy16",
+      "free": "true",
+      "manifest": "http://froyoroms.com/files/developers/jrummy/JRummy/Rom_Manager/jrummy.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "So awesome that Chuck Norris runs it as his daily ROM ;)"
     },
     {
       "developer": "JsinLegacy",
@@ -262,7 +262,7 @@
     {
       "developer": "LDrifta",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/554/19e4e44947e2418b93c9b05f8e6ed2e3.jpg",
+      "icon": "http://romshare.deployfu.com/downloads/554/c2176488c9813e3b7c2a3b1802f09c7d.png",
       "id": "LDrifta",
       "manifest": "http://romshare.deployfu.com/developer/LDrifta/manifest",
       "roms": {
@@ -998,17 +998,6 @@
       "summary": "Sense ROM for HTC Desire with Stable Data2SD"
     },
     {
-      "developer": "dasBAMF",
-      "icon": "http://www.onix-android.com/thatdudebutch/rommgr/burrito.png",
-      "id": "dsb9938",
-      "free": "true",
-      "manifest": "http://www.onix-android.com/thatdudebutch/rommgr/Long%20Manifest.1.0.js",
-      "roms": {
-        "mecha": "true"
-      },
-      "summary": "BAMF for Thunderbolt by Adrynalyne, ThatDudeButch, Trident, and dsb9938"
-    },
-    {
       "developer": "Cubed ROM",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/66/24fcf796e1e1fc870f868d35e7cf0207.png",
@@ -1020,15 +1009,15 @@
       "summary": "dsb9938 from XDA"
     },
     {
-      "developer": "Salvage-Mod",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
-      "id": "echo17",
+      "developer": "dasBAMF",
+      "icon": "http://www.onix-android.com/thatdudebutch/rommgr/burrito.png",
+      "id": "dsb9938",
       "free": "true",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
+      "manifest": "http://www.onix-android.com/thatdudebutch/rommgr/Long%20Manifest.1.0.js",
       "roms": {
-        "supersonic": "true"
+        "mecha": "true"
       },
-      "summary": "GB source build. Group project."
+      "summary": "BAMF for Thunderbolt by Adrynalyne, ThatDudeButch, Trident, and dsb9938"
     },
     {
       "developer": "Salvage-Mod Nightlies",
@@ -1042,6 +1031,17 @@
       "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
     },
     {
+      "developer": "Salvage-Mod",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
+      "id": "echo17",
+      "free": "true",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "GB source build. Group project."
+    },
+    {
       "developer": "Dalingrin's Test Builds",
       "free": true,
       "id": "ehardesty@gmail.com",
@@ -1050,20 +1050,6 @@
         "encore": true
       },
       "summary": "CM7 test builds"
-    },
-    {
-      "developer": "Einherjar Dev",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/25/31d8c04d2622249a93100ffc1ed40a17.png",
-      "id": "einherjar",
-      "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
-      "roms": {
-        "p999": true,
-        "vibrantmtd": true,
-        "vibrant": true,
-        "pyramid": true
-      },
-      "summary": "ROMs, with a side of metal."
     },
     {
       "developer": "Extras",
@@ -1426,9 +1412,21 @@
       "free": "true",
       "manifest": "http://www.joeyconway.me/evo/ROMManagerManifest/manifest.js",
       "roms": {
+        "shooter": "true",
         "supersonic": "true"
       },
-      "summary": "Refinements and tools bundled together for the HTC EVO"
+      "summary": "Refinements and tools bundled together for your EVO"
+    },
+    {
+      "developer": "joeykrim",
+      "free": true,
+      "id": "joeykrim",
+      "manifest": "http://www.joeykrim.com/evo/ROMManagerManifest/manifest.js",
+      "roms": {
+        "shooter": true,
+        "supersonic": true
+      },
+      "summary": "joeykrim"
     },
     {
       "developer": "WBAW",
@@ -1654,7 +1652,9 @@
       "id": "maxdamage",
       "manifest": "https://dl.dropbox.com/s/7yreog0xtyebutn/maxdamage/manifest.js",
       "roms": {
-        "supersonic": true
+        "smb_a1002": true,
+        "supersonic": true,
+        "harmony": true
       },
       "summary": "Flashing CM nightlies made easy!"
     },
@@ -1665,7 +1665,8 @@
       "id": "maxdamage2122Smba1002Kangs",
       "manifest": "https://dl.dropbox.com/s/7yreog0xtyebutn/smb_a1002-nightlies/manifest.js",
       "roms": {
-        "undefined": true
+        "smb_a1002": true,
+        "harmony": true
       },
       "summary": "By maxdamage2122 Unmodified Cyanogenmod nightly kangs for the Viewsonic GTablet"
     },

@@ -397,9 +397,10 @@
             "id": "joeykrim",
             "manifest": "http://www.joeyconway.me/evo/ROMManagerManifest/manifest.js",
             "roms": {
-                "supersonic": "true" 
+                "supersonic": "true", 
+                "shooter": "true"
             },
-            "summary": "Refinements and tools bundled together for the HTC EVO" 
+            "summary": "Refinements and tools bundled together for your EVO" 
         },
         {
             "developer": "PirateRUM",

@@ -1020,17 +1020,6 @@
       "summary": "dsb9938 from XDA"
     },
     {
-      "developer": "Salvage-Mod",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
-      "id": "echo17",
-      "free": "true",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "GB source build. Group project."
-    },
-    {
       "developer": "Salvage-Mod Nightlies",
       "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
       "id": "echo17",
@@ -1040,6 +1029,17 @@
         "supersonic": "true"
       },
       "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
+    },
+    {
+      "developer": "Salvage-Mod",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
+      "id": "echo17",
+      "free": "true",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "GB source build. Group project."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -1488,6 +1488,16 @@
     },
     {
       "developer": "jt1134",
+      "id": "jt1134",
+      "free": "true",
+      "manifest": "http://deodexed.com/ROMManagerManifest/jt1134/jt1134.js",
+      "roms": {
+        "fascinate": "true"
+      },
+      "summary": "Super Clean ROM for Samsung Fascinate"
+    },
+    {
+      "developer": "jt1134",
       "free": true,
       "id": "jt1134",
       "manifest": "http://romshare.deployfu.com/developer/jt1134/manifest",
@@ -1499,14 +1509,15 @@
       "summary": "jt1134"
     },
     {
-      "developer": "jt1134",
-      "id": "jt1134",
-      "free": "true",
-      "manifest": "http://deodexed.com/ROMManagerManifest/jt1134/jt1134.js",
+      "developer": "Wrxtc714",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/692/b1c5f9c6ea85e9f4f98c81accefe3bf5.png",
+      "id": "justrootit@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/justrootit@gmail.com/manifest",
       "roms": {
-        "fascinate": "true"
+        "shooter": true
       },
-      "summary": "Super Clean ROM for Samsung Fascinate"
+      "summary": "justrootit@gmail.com"
     },
     {
       "developer": "NexBreed ROMs",
@@ -1561,17 +1572,6 @@
         "sholes": "true"
       },
       "summary": "Great themes and more :)"
-    },
-    {
-      "developer": "Solstice",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/530/d45f727409f37121864a24391106b1f0.png",
-      "id": "laszlo.david@gmail.com",
-      "manifest": "http://solsticerom.github.com/ROMManagerManifest/manifest.js",
-      "roms": {
-        "bravo": true
-      },
-      "summary": "Simple AOSP ROM"
     },
     {
       "developer": "Conical Roms",

@@ -84,14 +84,6 @@
       "summary": "Stable HTC Desire / Bravo ROMs with the latest addons and patches"
     },
     {
-      "developer": "Solstice",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/530/d45f727409f37121864a24391106b1f0.png",
-      "id": "laszlo.david@gmail.com",
-      "manifest": "http://solsticerom.github.com/ROMManagerManifest/manifest.js",
-      "summary": "Simple AOSP ROM"
-    },
-    {
       "developer": "meLIanTQ",
       "id": "meliantq",
       "free": "true",

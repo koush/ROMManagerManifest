@@ -954,16 +954,6 @@
       "summary": "The latest stock CyanogenMod 7 Desire (bravo) base ported to HD2 with the minimal amount of changes required.  No custom apps are included.  Visit the ROM's thread @ xda: http://forum.xda-developers.com/showthread.php?t=933951 ."
     },
     {
-      "developer": "DrewGaren",
-      "id": "drewgaren",
-      "free": "true",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
-    },
-    {
       "developer": "DrewGaren Roms",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -975,6 +965,16 @@
         "crespo": true
       },
       "summary": "Custom Roms and Themes for your Device"
+    },
+    {
+      "developer": "DrewGaren",
+      "id": "drewgaren",
+      "free": "true",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1507,6 +1507,17 @@
         "fascinate": "true"
       },
       "summary": "Super Clean ROM for Samsung Fascinate"
+    },
+    {
+      "developer": "Wrxtc714",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/692/b1c5f9c6ea85e9f4f98c81accefe3bf5.png",
+      "id": "justrootit@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/justrootit@gmail.com/manifest",
+      "roms": {
+        "shooter": true
+      },
+      "summary": "justrootit@gmail.com"
     },
     {
       "developer": "NexBreed ROMs",

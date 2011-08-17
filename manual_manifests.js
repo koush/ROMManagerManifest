@@ -392,17 +392,6 @@
             "summary": "OMJ's HTC EVO ROMs" 
         },
         {
-            "developer": "joeykrim",
-            "free": "true",
-            "id": "joeykrim",
-            "manifest": "http://www.joeykrim.com/evo/ROMManagerManifest/manifest.js",
-            "roms": {
-                "supersonic": "true", 
-                "shooter": "true"
-            },
-            "summary": "Bundled refinements and developer tools" 
-        },
-        {
             "developer": "PirateRUM",
             "free": "true",
             "id": "piraterum",

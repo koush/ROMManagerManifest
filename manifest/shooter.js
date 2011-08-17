@@ -18,10 +18,10 @@
     },
     {
       "developer": "joeykrim",
+      "free": true,
       "id": "joeykrim",
-      "free": "true",
       "manifest": "http://www.joeykrim.com/evo/ROMManagerManifest/manifest.js",
-      "summary": "Bundled refinements and developer tools"
+      "summary": "joeykrim"
     },
     {
       "developer": "XDA Roms",

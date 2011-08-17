@@ -205,6 +205,16 @@
       "summary": "Custom HTC Sense Froyo ROMs for HTC Desire."
     },
     {
+      "developer": "JRummy16",
+      "id": "JRummy16",
+      "free": "true",
+      "manifest": "http://froyoroms.com/files/developers/jrummy/JRummy/Rom_Manager/jrummy.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "So awesome that Chuck Norris runs it as his daily ROM ;)"
+    },
+    {
       "developer": "Lithium Mod",
       "id": "JRummy16",
       "free": "true",
@@ -214,16 +224,6 @@
         "inc": "true"
       },
       "summary": "Source built roms and custom themes"
-    },
-    {
-      "developer": "JRummy16",
-      "id": "JRummy16",
-      "free": "true",
-      "manifest": "http://froyoroms.com/files/developers/jrummy/JRummy/Rom_Manager/jrummy.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "So awesome that Chuck Norris runs it as his daily ROM ;)"
     },
     {
       "developer": "JsinLegacy",
@@ -1052,6 +1052,20 @@
       "summary": "CM7 test builds"
     },
     {
+      "developer": "Einherjar Dev",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/25/31d8c04d2622249a93100ffc1ed40a17.png",
+      "id": "einherjar",
+      "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
+      "roms": {
+        "p999": true,
+        "vibrantmtd": true,
+        "vibrant": true,
+        "pyramid": true
+      },
+      "summary": "ROMs, with a side of metal."
+    },
+    {
       "developer": "Extras",
       "icon": "http://koush.kanged.net/cm/test/extras.png",
       "id": "extras",
@@ -1415,7 +1429,7 @@
         "shooter": "true",
         "supersonic": "true"
       },
-      "summary": "Refinements and tools bundled together for your EVO"
+      "summary": "Bundled refinements and developer tools"
     },
     {
       "developer": "WBAW",
@@ -1474,16 +1488,6 @@
     },
     {
       "developer": "jt1134",
-      "id": "jt1134",
-      "free": "true",
-      "manifest": "http://deodexed.com/ROMManagerManifest/jt1134/jt1134.js",
-      "roms": {
-        "fascinate": "true"
-      },
-      "summary": "Super Clean ROM for Samsung Fascinate"
-    },
-    {
-      "developer": "jt1134",
       "free": true,
       "id": "jt1134",
       "manifest": "http://romshare.deployfu.com/developer/jt1134/manifest",
@@ -1493,6 +1497,16 @@
         "mesmerizemtd": true
       },
       "summary": "jt1134"
+    },
+    {
+      "developer": "jt1134",
+      "id": "jt1134",
+      "free": "true",
+      "manifest": "http://deodexed.com/ROMManagerManifest/jt1134/jt1134.js",
+      "roms": {
+        "fascinate": "true"
+      },
+      "summary": "Super Clean ROM for Samsung Fascinate"
     },
     {
       "developer": "NexBreed ROMs",
@@ -1756,8 +1770,8 @@
         "captivate": true,
         "vibrant": true,
         "captivatemtd": true,
-        "crespo": true,
         "galaxys2": true,
+        "crespo": true,
         "inc": true,
         "vision": true,
         "galaxysmtd": true,

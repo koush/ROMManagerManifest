@@ -105,7 +105,7 @@
       "id": "joeykrim",
       "free": "true",
       "manifest": "http://www.joeykrim.com/evo/ROMManagerManifest/manifest.js",
-      "summary": "Refinements and tools bundled together for your EVO"
+      "summary": "Bundled refinements and developer tools"
     },
     {
       "developer": "Savaged-Zen",

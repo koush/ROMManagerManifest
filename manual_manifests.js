@@ -400,7 +400,7 @@
                 "supersonic": "true", 
                 "shooter": "true"
             },
-            "summary": "Refinements and tools bundled together for your EVO" 
+            "summary": "Bundled refinements and developer tools" 
         },
         {
             "developer": "PirateRUM",

@@ -24,14 +24,6 @@
       "summary": "joeykrim"
     },
     {
-      "developer": "Wrxtc714",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/692/b1c5f9c6ea85e9f4f98c81accefe3bf5.png",
-      "id": "justrootit@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/justrootit@gmail.com/manifest",
-      "summary": "justrootit@gmail.com"
-    },
-    {
       "developer": "XDA Roms",
       "free": true,
       "id": "pecord",

@@ -1509,28 +1509,6 @@
       "summary": "jt1134"
     },
     {
-      "developer": "Wrxtc714",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/692/b1c5f9c6ea85e9f4f98c81accefe3bf5.png",
-      "id": "justrootit@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/justrootit@gmail.com/manifest",
-      "roms": {
-        "shooter": true
-      },
-      "summary": "justrootit@gmail.com"
-    },
-    {
-      "developer": "Wrxtc714",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/692/b1c5f9c6ea85e9f4f98c81accefe3bf5.png",
-      "id": "justrootit@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/justrootit@gmail.com/manifest",
-      "roms": {
-        "shooter": true
-      },
-      "summary": "justrootit@gmail.com"
-    },
-    {
       "developer": "NexBreed ROMs",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/150/06f5d36ced5f4795548d594dc9388435.jpg",
@@ -1583,6 +1561,17 @@
         "sholes": "true"
       },
       "summary": "Great themes and more :)"
+    },
+    {
+      "developer": "Solstice",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/530/d45f727409f37121864a24391106b1f0.png",
+      "id": "laszlo.david@gmail.com",
+      "manifest": "http://solsticerom.github.com/ROMManagerManifest/manifest.js",
+      "roms": {
+        "bravo": true
+      },
+      "summary": "Simple AOSP ROM"
     },
     {
       "developer": "Conical Roms",

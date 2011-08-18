@@ -767,6 +767,13 @@
       "key": "vibrantmtd"
     },
     {
+      "name": "GalaxyS i9000B (MTD)",
+      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
+      "init": "init.aries.rc",
+      "officially_supported": false,
+      "key": "galaxysmtdb"
+    },
+    {
       "name": "GalaxyS i9000 (MTD)",
       "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "init": "init.aries.rc",

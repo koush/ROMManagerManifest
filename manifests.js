@@ -998,17 +998,6 @@
       "summary": "Sense ROM for HTC Desire with Stable Data2SD"
     },
     {
-      "developer": "dasBAMF",
-      "icon": "http://www.onix-android.com/thatdudebutch/rommgr/burrito.png",
-      "id": "dsb9938",
-      "free": "true",
-      "manifest": "http://www.onix-android.com/thatdudebutch/rommgr/Long%20Manifest.1.0.js",
-      "roms": {
-        "mecha": "true"
-      },
-      "summary": "BAMF for Thunderbolt by Adrynalyne, ThatDudeButch, Trident, and dsb9938"
-    },
-    {
       "developer": "Cubed ROM",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/66/24fcf796e1e1fc870f868d35e7cf0207.png",
@@ -1020,15 +1009,15 @@
       "summary": "dsb9938 from XDA"
     },
     {
-      "developer": "Salvage-Mod Nightlies",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
-      "id": "echo17",
+      "developer": "dasBAMF",
+      "icon": "http://www.onix-android.com/thatdudebutch/rommgr/burrito.png",
+      "id": "dsb9938",
       "free": "true",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
+      "manifest": "http://www.onix-android.com/thatdudebutch/rommgr/Long%20Manifest.1.0.js",
       "roms": {
-        "supersonic": "true"
+        "mecha": "true"
       },
-      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
+      "summary": "BAMF for Thunderbolt by Adrynalyne, ThatDudeButch, Trident, and dsb9938"
     },
     {
       "developer": "Salvage-Mod",
@@ -1040,6 +1029,17 @@
         "supersonic": "true"
       },
       "summary": "GB source build. Group project."
+    },
+    {
+      "developer": "Salvage-Mod Nightlies",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
+      "id": "echo17",
+      "free": "true",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
     },
     {
       "developer": "Dalingrin's Test Builds",

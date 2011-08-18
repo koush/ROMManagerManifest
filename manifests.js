@@ -954,6 +954,16 @@
       "summary": "The latest stock CyanogenMod 7 Desire (bravo) base ported to HD2 with the minimal amount of changes required.  No custom apps are included.  Visit the ROM's thread @ xda: http://forum.xda-developers.com/showthread.php?t=933951 ."
     },
     {
+      "developer": "DrewGaren",
+      "id": "drewgaren",
+      "free": "true",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
+    },
+    {
       "developer": "DrewGaren Roms",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -965,16 +975,6 @@
         "crespo": true
       },
       "summary": "Custom Roms and Themes for your Device"
-    },
-    {
-      "developer": "DrewGaren",
-      "id": "drewgaren",
-      "free": "true",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1020,17 +1020,6 @@
       "summary": "BAMF for Thunderbolt by Adrynalyne, ThatDudeButch, Trident, and dsb9938"
     },
     {
-      "developer": "Salvage-Mod",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
-      "id": "echo17",
-      "free": "true",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "GB source build. Group project."
-    },
-    {
       "developer": "Salvage-Mod Nightlies",
       "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
       "id": "echo17",
@@ -1040,6 +1029,17 @@
         "supersonic": "true"
       },
       "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
+    },
+    {
+      "developer": "Salvage-Mod",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
+      "id": "echo17",
+      "free": "true",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "GB source build. Group project."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -1242,6 +1242,17 @@
         "galaxys": "true"
       },
       "summary": "Some Hamster Love for your phone!"
+    },
+    {
+      "developer": "Helvio Pedreschi",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/694/f345f5b3bff87b8fbe023bc68d790ceb.png",
+      "id": "helvio88@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/helvio88@gmail.com/manifest",
+      "roms": {
+        "galaxysmtdb": true
+      },
+      "summary": "helvio88@gmail.com"
     },
     {
       "developer": "Htcclay",

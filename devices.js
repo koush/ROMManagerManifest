@@ -771,7 +771,7 @@
       "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "init": "init.aries.rc",
       "officially_supported": false,
-      "key": "galaxysmtdb"
+      "key": "galaxysbmtd"
     },
     {
       "name": "GalaxyS i9000 (MTD)",

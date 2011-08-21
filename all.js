@@ -20,21 +20,21 @@
             ]
         },
         {
-            "name": "Superuser 3.0 Beta 3 cd",
+            "name": "Superuser 3.0 Beta 4 cd",
             "summary": "Cupcake and Donut",
             "device": "all",
             "urls": [
-                "http://goo-inside.me/superuser/su-3.0-beta3-cd-signed.zip",
-                "http://downloads.androidsu.com/superuser/su-3.0-beta3-cd-signed.zip"
+                "http://goo-inside.me/superuser/su-3.0-beta4-cd-signed.zip",
+                "http://downloads.androidsu.com/superuser/su-3.0-beta4-cd-signed.zip"
             ]
         },
         {
-            "name": "Superuser 3.0 Beta 3 efgh",
+            "name": "Superuser 3.0 Beta 4 efgh",
             "summary": "Eclair, Froyo, Gingerbread, and Honeycomb",
             "device": "all",
             "urls": [
-                "http://goo-inside.me/superuser/su-3.0-beta3-efgh-signed.zip",
-                "http://downloads.androidsu.com/superuser/su-3.0-beta3-efgh-signed.zip"
+                "http://goo-inside.me/superuser/su-3.0-beta4-efgh-signed.zip",
+                "http://downloads.androidsu.com/superuser/su-3.0-beta4-efgh-signed.zip"
             ]
         }
     ]

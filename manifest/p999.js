@@ -14,7 +14,7 @@
       "icon": "http://romshare.deployfu.com/downloads/673/7898d96c27f948a4e170d89dbe77121e.jpg",
       "id": "Whitehawkx",
       "manifest": "http://romshare.deployfu.com/developer/Whitehawkx/manifest",
-      "summary": "Roms and mods."
+      "summary": "Roms for the LG G2x, Samsung Vibrant and SGS4G"
     },
     {
       "developer": "CyanogenMod",

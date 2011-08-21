@@ -471,7 +471,7 @@
       "roms": {
         "p999": true
       },
-      "summary": "Roms and mods."
+      "summary": "Roms for the LG G2x, Samsung Vibrant and SGS4G"
     },
     {
       "developer": "Sapo a5 Blog Team",
@@ -954,6 +954,16 @@
       "summary": "The latest stock CyanogenMod 7 Desire (bravo) base ported to HD2 with the minimal amount of changes required.  No custom apps are included.  Visit the ROM's thread @ xda: http://forum.xda-developers.com/showthread.php?t=933951 ."
     },
     {
+      "developer": "DrewGaren",
+      "id": "drewgaren",
+      "free": "true",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
+    },
+    {
       "developer": "DrewGaren Roms",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -965,16 +975,6 @@
         "crespo": true
       },
       "summary": "Custom Roms and Themes for your Device"
-    },
-    {
-      "developer": "DrewGaren",
-      "id": "drewgaren",
-      "free": "true",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -998,17 +998,6 @@
       "summary": "Sense ROM for HTC Desire with Stable Data2SD"
     },
     {
-      "developer": "dasBAMF",
-      "icon": "http://www.onix-android.com/thatdudebutch/rommgr/burrito.png",
-      "id": "dsb9938",
-      "free": "true",
-      "manifest": "http://www.onix-android.com/thatdudebutch/rommgr/Long%20Manifest.1.0.js",
-      "roms": {
-        "mecha": "true"
-      },
-      "summary": "BAMF for Thunderbolt by Adrynalyne, ThatDudeButch, Trident, and dsb9938"
-    },
-    {
       "developer": "Cubed ROM",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/66/24fcf796e1e1fc870f868d35e7cf0207.png",
@@ -1018,6 +1007,17 @@
         "mecha": true
       },
       "summary": "dsb9938 from XDA"
+    },
+    {
+      "developer": "dasBAMF",
+      "icon": "http://www.onix-android.com/thatdudebutch/rommgr/burrito.png",
+      "id": "dsb9938",
+      "free": "true",
+      "manifest": "http://www.onix-android.com/thatdudebutch/rommgr/Long%20Manifest.1.0.js",
+      "roms": {
+        "mecha": "true"
+      },
+      "summary": "BAMF for Thunderbolt by Adrynalyne, ThatDudeButch, Trident, and dsb9938"
     },
     {
       "developer": "Salvage-Mod Nightlies",
@@ -1792,9 +1792,9 @@
         "captivate": true,
         "vibrant": true,
         "captivatemtd": true,
-        "galaxys2": true,
         "inc": true,
         "crespo": true,
+        "galaxys2": true,
         "vision": true,
         "galaxysmtd": true,
         "umts_sholes": true

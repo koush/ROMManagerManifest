@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "aefreshkid97@gmail.com",
-      "free": false,
+      "free": true,
       "id": "aefreshkid97@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/aefreshkid97@gmail.com/manifest",
       "summary": "aefreshkid97@gmail.com"

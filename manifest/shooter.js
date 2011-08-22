@@ -33,7 +33,7 @@
     },
     {
       "developer": "jondevere@gmail.com",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/695/baaa677e69d0e0b6eaaa2d46f851e9e8.gif",
       "id": "jondevere@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/jondevere@gmail.com/manifest",
@@ -41,7 +41,7 @@
     },
     {
       "developer": "XDA Roms",
-      "free": false,
+      "free": true,
       "id": "pecord",
       "manifest": "http://romshare.deployfu.com/developer/pecord/manifest",
       "summary": "Just uploading various roms for other EVO 3D users, will not accept donations for others work and will not provide support"

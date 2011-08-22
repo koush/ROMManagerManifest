@@ -32,6 +32,18 @@
       "summary": "Themes for Cyanogen on the Droid."
     },
     {
+      "developer": "Baked_Tator",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/703/ffdc4b47b25efdf55cb75880ef31a638.gif",
+      "id": "Baked_Tator",
+      "manifest": "http://dfgas.teamuscellular.com/rommanager/tator_manifest.js",
+      "roms": {
+        "showcasemtd": true,
+        "mesmerizemtd": true
+      },
+      "summary": "Baked_Tator"
+    },
+    {
       "developer": "Beesley's Build.Props",
       "id": "Beesley",
       "free": "true",
@@ -469,9 +481,21 @@
       "id": "Whitehawkx",
       "manifest": "http://romshare.deployfu.com/developer/Whitehawkx/manifest",
       "roms": {
-        "p999": true
+        "p999": true,
+        "vibrant": true
       },
       "summary": "Roms for the LG G2x, Samsung Vibrant and SGS4G"
+    },
+    {
+      "developer": "WolfRoms",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/704/22baaaa7d15d504f2d43eb8a2980cea9.jpg",
+      "id": "WolfRoms",
+      "manifest": "http://romshare.deployfu.com/developer/WolfRoms/manifest",
+      "roms": {
+        "sholes": true
+      },
+      "summary": "A cm7 Build with some extras"
     },
     {
       "developer": "Sapo a5 Blog Team",
@@ -926,6 +950,7 @@
       "id": "dfgas",
       "manifest": "http://dfgas.TeamUsCellular.com/rommanager/manual_manifest.js",
       "roms": {
+        "fascinatemtd": true,
         "showcasemtd": true,
         "mesmerizemtd": true
       },
@@ -954,16 +979,6 @@
       "summary": "The latest stock CyanogenMod 7 Desire (bravo) base ported to HD2 with the minimal amount of changes required.  No custom apps are included.  Visit the ROM's thread @ xda: http://forum.xda-developers.com/showthread.php?t=933951 ."
     },
     {
-      "developer": "DrewGaren",
-      "id": "drewgaren",
-      "free": "true",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
-    },
-    {
       "developer": "DrewGaren Roms",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -975,6 +990,16 @@
         "crespo": true
       },
       "summary": "Custom Roms and Themes for your Device"
+    },
+    {
+      "developer": "DrewGaren",
+      "id": "drewgaren",
+      "free": "true",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1020,17 +1045,6 @@
       "summary": "BAMF for Thunderbolt by Adrynalyne, ThatDudeButch, Trident, and dsb9938"
     },
     {
-      "developer": "Salvage-Mod Nightlies",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
-      "id": "echo17",
-      "free": "true",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
-    },
-    {
       "developer": "Salvage-Mod",
       "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
       "id": "echo17",
@@ -1040,6 +1054,17 @@
         "supersonic": "true"
       },
       "summary": "GB source build. Group project."
+    },
+    {
+      "developer": "Salvage-Mod Nightlies",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
+      "id": "echo17",
+      "free": "true",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -1156,6 +1181,17 @@
         "crespo": "true"
       },
       "summary": "A best of both worlds rom for your Nexus S"
+    },
+    {
+      "developer": "freEVO 3D ROM",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/705/959053b3e45cce1ac14b70a7a212a546.png",
+      "id": "freeza",
+      "manifest": "http://www.freeza-inc.com/freEVO3D/freEVO3Dmanifest.js",
+      "roms": {
+        "shooter": true
+      },
+      "summary": "No Sense, Tweaks, Speed, and Stability. Y U No Flash?!"
     },
     {
       "developer": "FrostIncredible",
@@ -1472,7 +1508,7 @@
       "roms": {
         "shooter": true
       },
-      "summary": "jondevere@gmail.com"
+      "summary": "Dark Sense is a Sense based ROM optimized for the EVO 3D.  If you like Sense, try out Dark Sense. "
     },
     {
       "developer": "Pay87",

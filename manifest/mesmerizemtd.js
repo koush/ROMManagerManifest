@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+      "developer": "Baked_Tator",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/703/ffdc4b47b25efdf55cb75880ef31a638.gif",
+      "id": "Baked_Tator",
+      "manifest": "http://dfgas.teamuscellular.com/rommanager/tator_manifest.js",
+      "summary": "Baked_Tator"
+    },
+    {
       "developer": "dfgas",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/601/7c809045feea38f822a0d58ca2f6daf3.png",

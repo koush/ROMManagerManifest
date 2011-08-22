@@ -56,6 +56,14 @@
       "summary": "An AOSP Motorola Droid ROM with some extras"
     },
     {
+      "developer": "WolfRoms",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/704/22baaaa7d15d504f2d43eb8a2980cea9.jpg",
+      "id": "WolfRoms",
+      "manifest": "http://romshare.deployfu.com/developer/WolfRoms/manifest",
+      "summary": "A cm7 Build with some extras"
+    },
+    {
       "developer": "bgill55",
       "id": "bgill55",
       "free": "true",

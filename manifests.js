@@ -475,18 +475,6 @@
       "summary": "Ready to run roms..."
     },
     {
-      "developer": "Whitehawkx",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/673/7898d96c27f948a4e170d89dbe77121e.jpg",
-      "id": "Whitehawkx",
-      "manifest": "http://romshare.deployfu.com/developer/Whitehawkx/manifest",
-      "roms": {
-        "p999": true,
-        "vibrant": true
-      },
-      "summary": "Roms for the LG G2x, Samsung Vibrant and SGS4G"
-    },
-    {
       "developer": "WolfRoms",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/704/22baaaa7d15d504f2d43eb8a2980cea9.jpg",
@@ -1023,17 +1011,6 @@
       "summary": "Sense ROM for HTC Desire with Stable Data2SD"
     },
     {
-      "developer": "Cubed ROM",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/66/24fcf796e1e1fc870f868d35e7cf0207.png",
-      "id": "dsb9938",
-      "manifest": "http://romshare.deployfu.com/developer/dsb9938/manifest",
-      "roms": {
-        "mecha": true
-      },
-      "summary": "dsb9938 from XDA"
-    },
-    {
       "developer": "dasBAMF",
       "icon": "http://www.onix-android.com/thatdudebutch/rommgr/burrito.png",
       "id": "dsb9938",
@@ -1045,15 +1022,15 @@
       "summary": "BAMF for Thunderbolt by Adrynalyne, ThatDudeButch, Trident, and dsb9938"
     },
     {
-      "developer": "Salvage-Mod",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
-      "id": "echo17",
-      "free": "true",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
+      "developer": "Cubed ROM",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/66/24fcf796e1e1fc870f868d35e7cf0207.png",
+      "id": "dsb9938",
+      "manifest": "http://romshare.deployfu.com/developer/dsb9938/manifest",
       "roms": {
-        "supersonic": "true"
+        "mecha": true
       },
-      "summary": "GB source build. Group project."
+      "summary": "dsb9938 from XDA"
     },
     {
       "developer": "Salvage-Mod Nightlies",
@@ -1065,6 +1042,17 @@
         "supersonic": "true"
       },
       "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
+    },
+    {
+      "developer": "Salvage-Mod",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
+      "id": "echo17",
+      "free": "true",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "GB source build. Group project."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -1546,6 +1534,16 @@
     },
     {
       "developer": "jt1134",
+      "id": "jt1134",
+      "free": "true",
+      "manifest": "http://deodexed.com/ROMManagerManifest/jt1134/jt1134.js",
+      "roms": {
+        "fascinate": "true"
+      },
+      "summary": "Super Clean ROM for Samsung Fascinate"
+    },
+    {
+      "developer": "jt1134",
       "free": true,
       "id": "jt1134",
       "manifest": "http://romshare.deployfu.com/developer/jt1134/manifest",
@@ -1555,16 +1553,6 @@
         "mesmerizemtd": true
       },
       "summary": "jt1134"
-    },
-    {
-      "developer": "jt1134",
-      "id": "jt1134",
-      "free": "true",
-      "manifest": "http://deodexed.com/ROMManagerManifest/jt1134/jt1134.js",
-      "roms": {
-        "fascinate": "true"
-      },
-      "summary": "Super Clean ROM for Samsung Fascinate"
     },
     {
       "developer": "NexBreed ROMs",
@@ -1921,6 +1909,18 @@
       "summary": "Warm treats for Android"
     },
     {
+      "developer": "Whitehawkx",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/673/7898d96c27f948a4e170d89dbe77121e.jpg",
+      "id": "not-in-use",
+      "manifest": "http://romshare.deployfu.com/developer/not-in-use/manifest",
+      "roms": {
+        "p999": true,
+        "vibrant": true
+      },
+      "summary": "Roms for the LG G2x, Samsung Vibrant and SGS4G"
+    },
+    {
       "developer": "notna659@gmail.com",
       "free": true,
       "id": "notna659@gmail.com",
@@ -2175,6 +2175,17 @@
       "summary": "Revert back to stock phone images."
     },
     {
+      "developer": "Swagged Out|Stock (Swag=ON)",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/697/40e325c213ebeb2999003d52dc979b2b.png",
+      "id": "swagstr",
+      "manifest": "http://romshare.deployfu.com/developer/swagstr/manifest",
+      "roms": {
+        "supersonic": true
+      },
+      "summary": "Fake boobs and makeup to make your EVO look and feel sexy"
+    },
+    {
       "developer": "CyanogenMod Nightlies",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/541/91afee5f3ad77376b65aa60038c4979c.png",
@@ -2267,16 +2278,6 @@
         "galaxys2": true
       },
       "summary": "Happy XDA'er"
-    },
-    {
-      "developer": "tvall",
-      "free": true,
-      "id": "tvall43@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/tvall43@gmail.com/manifest",
-      "roms": {
-        "sapphire": true
-      },
-      "summary": "random stuffs"
     },
     {
       "developer": "Uncommon Sense",

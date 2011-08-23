@@ -79,13 +79,6 @@
       "summary": "An AOSP ROM using the latest CM/EzGB sources for D/S, supporting EBI0, 2708, EBI1 devices"
     },
     {
-      "developer": "tvall",
-      "free": true,
-      "id": "tvall43@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/tvall43@gmail.com/manifest",
-      "summary": "random stuffs"
-    },
-    {
       "developer": "Ginger yoshi ^_^",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/294/b0c8e3dee633ac3d0f6ce3352389943b.png",

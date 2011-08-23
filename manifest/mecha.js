@@ -63,20 +63,20 @@
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
     {
-      "developer": "Cubed ROM",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/66/24fcf796e1e1fc870f868d35e7cf0207.png",
-      "id": "dsb9938",
-      "manifest": "http://romshare.deployfu.com/developer/dsb9938/manifest",
-      "summary": "dsb9938 from XDA"
-    },
-    {
       "developer": "dasBAMF",
       "icon": "http://www.onix-android.com/thatdudebutch/rommgr/burrito.png",
       "id": "dsb9938",
       "free": "true",
       "manifest": "http://www.onix-android.com/thatdudebutch/rommgr/Long%20Manifest.1.0.js",
       "summary": "BAMF for Thunderbolt by Adrynalyne, ThatDudeButch, Trident, and dsb9938"
+    },
+    {
+      "developer": "Cubed ROM",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/66/24fcf796e1e1fc870f868d35e7cf0207.png",
+      "id": "dsb9938",
+      "manifest": "http://romshare.deployfu.com/developer/dsb9938/manifest",
+      "summary": "dsb9938 from XDA"
     },
     {
       "developer": "Extras",

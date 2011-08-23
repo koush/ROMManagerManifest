@@ -9,14 +9,6 @@
       "summary": "TeamWhiskey Bionix Roms for the LG G2x and Samsung Vibrant "
     },
     {
-      "developer": "Whitehawkx",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/673/7898d96c27f948a4e170d89dbe77121e.jpg",
-      "id": "Whitehawkx",
-      "manifest": "http://romshare.deployfu.com/developer/Whitehawkx/manifest",
-      "summary": "Roms for the LG G2x, Samsung Vibrant and SGS4G"
-    },
-    {
       "developer": "CyanogenMod",
       "icon": "http://koush.kanged.net/cm/test/cm2.png",
       "id": "cyanogenmod",
@@ -70,6 +62,14 @@
       "id": "miuiandroid",
       "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
       "summary": "The original English MIUI ROM by MIUI Android"
+    },
+    {
+      "developer": "Whitehawkx",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/673/7898d96c27f948a4e170d89dbe77121e.jpg",
+      "id": "not-in-use",
+      "manifest": "http://romshare.deployfu.com/developer/not-in-use/manifest",
+      "summary": "Roms for the LG G2x, Samsung Vibrant and SGS4G"
     },
     {
       "developer": "Xboarder56",

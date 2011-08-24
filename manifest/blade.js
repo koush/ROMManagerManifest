@@ -1,6 +1,13 @@
 {
   "manifests": [
     {
+      "developer": "Sami Beck",
+      "free": true,
+      "id": "SamSamoon",
+      "manifest": "http://romshare.deployfu.com/developer/SamSamoon/manifest",
+      "summary": "CAE Moderator "
+    },
+    {
       "developer": "Sapo a5 Blog Team",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/617/426f2197f1ed2674fa87666a35835083.png",

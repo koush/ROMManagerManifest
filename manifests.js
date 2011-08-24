@@ -217,16 +217,6 @@
       "summary": "Custom HTC Sense Froyo ROMs for HTC Desire."
     },
     {
-      "developer": "JRummy16",
-      "id": "JRummy16",
-      "free": "true",
-      "manifest": "http://froyoroms.com/files/developers/jrummy/JRummy/Rom_Manager/jrummy.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "So awesome that Chuck Norris runs it as his daily ROM ;)"
-    },
-    {
       "developer": "Lithium Mod",
       "id": "JRummy16",
       "free": "true",
@@ -236,6 +226,16 @@
         "inc": "true"
       },
       "summary": "Source built roms and custom themes"
+    },
+    {
+      "developer": "JRummy16",
+      "id": "JRummy16",
+      "free": "true",
+      "manifest": "http://froyoroms.com/files/developers/jrummy/JRummy/Rom_Manager/jrummy.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "So awesome that Chuck Norris runs it as his daily ROM ;)"
     },
     {
       "developer": "JsinLegacy",
@@ -364,6 +364,16 @@
       "summary": "AmbrosialROMS: Bringing More Sizzle to the Bacon!"
     },
     {
+      "developer": "Sami Beck",
+      "free": true,
+      "id": "SamSamoon",
+      "manifest": "http://romshare.deployfu.com/developer/SamSamoon/manifest",
+      "roms": {
+        "blade": true
+      },
+      "summary": "CAE Moderator "
+    },
+    {
       "developer": "SinisterTensai",
       "icon": "http://sinister.tensailabs.com/Sinister_Rom/SinisterIcon.png",
       "id": "SinisterTensai",
@@ -473,6 +483,18 @@
         "mecha": "true"
       },
       "summary": "Ready to run roms..."
+    },
+    {
+      "developer": "Whitehawkx",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/673/7898d96c27f948a4e170d89dbe77121e.jpg",
+      "id": "Whitehawkx",
+      "manifest": "http://romshare.deployfu.com/developer/Whitehawkx/manifest",
+      "roms": {
+        "p999": true,
+        "vibrant": true
+      },
+      "summary": "Roms for the LG G2x, Samsung Vibrant and SGS4G"
     },
     {
       "developer": "WolfRoms",
@@ -1033,17 +1055,6 @@
       "summary": "dsb9938 from XDA"
     },
     {
-      "developer": "Salvage-Mod Nightlies",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
-      "id": "echo17",
-      "free": "true",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
-    },
-    {
       "developer": "Salvage-Mod",
       "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
       "id": "echo17",
@@ -1053,6 +1064,17 @@
         "supersonic": "true"
       },
       "summary": "GB source build. Group project."
+    },
+    {
+      "developer": "Salvage-Mod Nightlies",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
+      "id": "echo17",
+      "free": "true",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -1909,18 +1931,6 @@
       "summary": "Warm treats for Android"
     },
     {
-      "developer": "Whitehawkx",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/673/7898d96c27f948a4e170d89dbe77121e.jpg",
-      "id": "not-in-use",
-      "manifest": "http://romshare.deployfu.com/developer/not-in-use/manifest",
-      "roms": {
-        "p999": true,
-        "vibrant": true
-      },
-      "summary": "Roms for the LG G2x, Samsung Vibrant and SGS4G"
-    },
-    {
       "developer": "notna659@gmail.com",
       "free": true,
       "id": "notna659@gmail.com",
@@ -2186,6 +2196,17 @@
       "summary": "Fake boobs and makeup to make your EVO look and feel sexy"
     },
     {
+      "developer": "Swagged Out|Stock (Swag=OFF)",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/709/83d4170a5be4be30dc0c681d59f49374.png",
+      "id": "swagstr-off",
+      "manifest": "http://romshare.deployfu.com/developer/swagstr-off/manifest",
+      "roms": {
+        "supersonic": true
+      },
+      "summary": "Stock ROM with a ton of bloatware removed and some tweaks enabled"
+    },
+    {
       "developer": "CyanogenMod Nightlies",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/541/91afee5f3ad77376b65aa60038c4979c.png",
@@ -2346,7 +2367,8 @@
       "id": "xboarder56",
       "manifest": "http://romshare.deployfu.com/developer/xboarder56/manifest",
       "roms": {
-        "p999": true
+        "p999": true,
+        "vision": true
       },
       "summary": "Rooted Stock OTA and Tweaked OTA. Enjoy..."
     },

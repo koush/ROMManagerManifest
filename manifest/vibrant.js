@@ -17,6 +17,14 @@
       "summary": "Blackhole build your own ROM series, full customization"
     },
     {
+      "developer": "Whitehawkx",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/673/7898d96c27f948a4e170d89dbe77121e.jpg",
+      "id": "Whitehawkx",
+      "manifest": "http://romshare.deployfu.com/developer/Whitehawkx/manifest",
+      "summary": "Roms for the LG G2x, Samsung Vibrant and SGS4G"
+    },
+    {
       "developer": "Br1cK'd",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/288/75bcc580df6cb4e59690993fcb904ecc.jpg",
@@ -55,14 +63,6 @@
       "id": "miuiportugal",
       "manifest": "http://www.files.miui-pt.com/manifest/miuipt.js",
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
-    },
-    {
-      "developer": "Whitehawkx",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/673/7898d96c27f948a4e170d89dbe77121e.jpg",
-      "id": "not-in-use",
-      "manifest": "http://romshare.deployfu.com/developer/not-in-use/manifest",
-      "summary": "Roms for the LG G2x, Samsung Vibrant and SGS4G"
     },
     {
       "developer": "phiremod",

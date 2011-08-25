@@ -387,7 +387,7 @@
     {
       "developer": "SlashDW",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/567/b1f21e36d21b94a782be20b894dda7e4.jpeg",
+      "icon": "http://romshare.deployfu.com/downloads/567/2b481fc258e2308c90e8d76917141340.png",
       "id": "SlashDW",
       "manifest": "http://romshare.deployfu.com/developer/SlashDW/manifest",
       "roms": {
@@ -1330,6 +1330,7 @@
       "id": "ihtfp69",
       "manifest": "http://skyraider.us/manifest/skyraider.js",
       "roms": {
+        "vivow": true,
         "mecha": true,
         "inc": true
       },
@@ -1556,16 +1557,6 @@
     },
     {
       "developer": "jt1134",
-      "id": "jt1134",
-      "free": "true",
-      "manifest": "http://deodexed.com/ROMManagerManifest/jt1134/jt1134.js",
-      "roms": {
-        "fascinate": "true"
-      },
-      "summary": "Super Clean ROM for Samsung Fascinate"
-    },
-    {
-      "developer": "jt1134",
       "free": true,
       "id": "jt1134",
       "manifest": "http://romshare.deployfu.com/developer/jt1134/manifest",
@@ -1575,6 +1566,16 @@
         "mesmerizemtd": true
       },
       "summary": "jt1134"
+    },
+    {
+      "developer": "jt1134",
+      "id": "jt1134",
+      "free": "true",
+      "manifest": "http://deodexed.com/ROMManagerManifest/jt1134/jt1134.js",
+      "roms": {
+        "fascinate": "true"
+      },
+      "summary": "Super Clean ROM for Samsung Fascinate"
     },
     {
       "developer": "NexBreed ROMs",
@@ -1723,9 +1724,8 @@
       "id": "maxdamage",
       "manifest": "https://dl.dropbox.com/s/7yreog0xtyebutn/maxdamage/manifest.js",
       "roms": {
-        "smb_a1002": true,
-        "supersonic": true,
-        "harmony": true
+        "undefined": true,
+        "supersonic": true
       },
       "summary": "Flashing CM nightlies made easy!"
     },
@@ -2301,6 +2301,17 @@
       "summary": "Happy XDA'er"
     },
     {
+      "developer": "Bulletproof MIUI",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/712/15225016be36a7706d9f010f0477be36.png",
+      "id": "tun4f1sh",
+      "manifest": "http://romshare.deployfu.com/developer/tun4f1sh/manifest",
+      "roms": {
+        "vision": true
+      },
+      "summary": "The fastest, most stable MIUI on the G2/DZ!  Includes Virtuous OC Daemon and optimizations."
+    },
+    {
       "developer": "Uncommon Sense",
       "id": "uncommonsense",
       "free": "true",
@@ -2313,7 +2324,7 @@
     {
       "developer": "Virtuous",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/63/902e31b288d5ccf04b4e1c7b4a89f0b5.png",
+      "icon": "http://romshare.deployfu.com/downloads/63/65d2f9544dc2ee4d90594b92ab4ee11d.png",
       "id": "virtuous",
       "manifest": "http://files.virtuousrom.com/virtuous.js",
       "roms": {

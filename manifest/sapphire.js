@@ -19,7 +19,7 @@
     {
       "developer": "SlashDW",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/567/b1f21e36d21b94a782be20b894dda7e4.jpeg",
+      "icon": "http://romshare.deployfu.com/downloads/567/2b481fc258e2308c90e8d76917141340.png",
       "id": "SlashDW",
       "manifest": "http://romshare.deployfu.com/developer/SlashDW/manifest",
       "summary": "Stable and Superfast ROM's built from Cyanogenmod sources for Dream/Sapphire."

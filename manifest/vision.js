@@ -118,9 +118,17 @@
       "summary": "http://android-maisters.ddns.net"
     },
     {
+      "developer": "Bulletproof MIUI",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/712/15225016be36a7706d9f010f0477be36.png",
+      "id": "tun4f1sh",
+      "manifest": "http://romshare.deployfu.com/developer/tun4f1sh/manifest",
+      "summary": "The fastest, most stable MIUI on the G2/DZ!  Includes Virtuous OC Daemon and optimizations."
+    },
+    {
       "developer": "Virtuous",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/63/902e31b288d5ccf04b4e1c7b4a89f0b5.png",
+      "icon": "http://romshare.deployfu.com/downloads/63/65d2f9544dc2ee4d90594b92ab4ee11d.png",
       "id": "virtuous",
       "manifest": "http://files.virtuousrom.com/virtuous.js",
       "summary": "Enhanced Sense ROMs and more from the Virtuous Team."

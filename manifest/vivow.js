@@ -32,6 +32,14 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
+      "developer": "Ihtfp69",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/626/2cad2dafa4ee11476c29e0c6950147b6.jpg",
+      "id": "ihtfp69",
+      "manifest": "http://skyraider.us/manifest/skyraider.js",
+      "summary": "SkyRaider ROMs and goodies"
+    },
+    {
       "developer": "MIUI.us",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
@@ -42,7 +50,7 @@
     {
       "developer": "Virtuous",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/63/902e31b288d5ccf04b4e1c7b4a89f0b5.png",
+      "icon": "http://romshare.deployfu.com/downloads/63/65d2f9544dc2ee4d90594b92ab4ee11d.png",
       "id": "virtuous",
       "manifest": "http://files.virtuousrom.com/virtuous.js",
       "summary": "Enhanced Sense ROMs and more from the Virtuous Team."

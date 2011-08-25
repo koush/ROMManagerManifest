@@ -68,14 +68,6 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
-      "developer": "MaxDamage",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/529/b1c8e19a6f619e9e3cf2a36de2fb8b0a.png",
-      "id": "maxdamage",
-      "manifest": "https://dl.dropbox.com/s/7yreog0xtyebutn/maxdamage/manifest.js",
-      "summary": "Flashing CM nightlies made easy!"
-    },
-    {
       "developer": "CyanogenMod Nightly Kangs",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/605/b2728dddb56f27d31d52935f68db4b9b.png",

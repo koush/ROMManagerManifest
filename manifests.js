@@ -989,6 +989,16 @@
       "summary": "The latest stock CyanogenMod 7 Desire (bravo) base ported to HD2 with the minimal amount of changes required.  No custom apps are included.  Visit the ROM's thread @ xda: http://forum.xda-developers.com/showthread.php?t=933951 ."
     },
     {
+      "developer": "DrewGaren",
+      "id": "drewgaren",
+      "free": "true",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
+    },
+    {
       "developer": "DrewGaren Roms",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1000,16 +1010,6 @@
         "crespo": true
       },
       "summary": "Custom Roms and Themes for your Device"
-    },
-    {
-      "developer": "DrewGaren",
-      "id": "drewgaren",
-      "free": "true",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1838,9 +1838,9 @@
         "captivate": true,
         "vibrant": true,
         "captivatemtd": true,
+        "galaxys2": true,
         "inc": true,
         "crespo": true,
-        "galaxys2": true,
         "vision": true,
         "galaxysmtd": true,
         "umts_sholes": true
@@ -1860,9 +1860,7 @@
         "droid2": true,
         "vivo": true,
         "vibrantmtd": true,
-        "umts_jordan": true,
         "passion": true,
-        "galaxys": true,
         "bravo": true,
         "ace": true,
         "sholes": true,
@@ -1870,6 +1868,7 @@
         "bravoc": true,
         "glacier": true,
         "crespo4g": true,
+        "jordan": true,
         "captivatemtd": true,
         "speedy": true,
         "supersonic": true,
@@ -1877,6 +1876,7 @@
         "inc": true,
         "encore": true,
         "vision": true,
+        "galaxysmtd": true,
         "crespo": true,
         "showcasemtd": true,
         "mesmerizemtd": true,
@@ -2126,7 +2126,7 @@
       "roms": {
         "leo": true
       },
-      "summary": "Seaders stable one, based on LEO 2.3.5 sources, tweaked with tablet-functions, audio/lights/sensor/gps fixes, custom settings and deleted/added/switched apps; incl. newest custom YES/NO recovery with experimental NTFS support. http://bit.ly/nnx6qf for deta"
+      "summary": "Seaders stable one, based on LEO 2.3.5 sources, tweaked with tablet-functions, audio/lights/sensor/gps fixes, custom settings and deleted/added/switched apps; incl. newest custom YES/NO recovery. http://bit.ly/nnx6qf for details."
     },
     {
       "developer": "TB Roms",
@@ -2324,7 +2324,7 @@
     {
       "developer": "Virtuous",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/63/65d2f9544dc2ee4d90594b92ab4ee11d.png",
+      "icon": "http://romshare.deployfu.com/downloads/63/8671cc6cf6379f1baf69c14ca9138910.png",
       "id": "virtuous",
       "manifest": "http://files.virtuousrom.com/virtuous.js",
       "roms": {

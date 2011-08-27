@@ -18,7 +18,7 @@
     },
     {
       "developer": "ROMs by PlayfulGod",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/480/046c8e21484dc21189721004ec151520.png",
       "id": "playfulgod",
       "manifest": "http://romshare.deployfu.com/developer/playfulgod/manifest",

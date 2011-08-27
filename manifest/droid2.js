@@ -48,7 +48,7 @@
     },
     {
       "developer": "Fabolous",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/337/d2c1bf150b52364eca4dcba86135ff9d.png",
       "id": "fabolous",
       "manifest": "http://romshare.deployfu.com/developer/fabolous/manifest",
@@ -71,22 +71,14 @@
     },
     {
       "developer": "metiCkOne",
-      "free": true,
+      "free": false,
       "id": "metiCkOne",
       "manifest": "http://romshare.deployfu.com/developer/metiCkOne/manifest",
       "summary": "Clean, fast & Stable roms for the D1 & D2"
     },
     {
-      "developer": "MIUI.us",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
-      "id": "miuius",
-      "manifest": "http://roms.miui.us/manifest/rommanager.js",
-      "summary": "MIUI English releases by MIUI.us"
-    },
-    {
       "developer": "EnYo",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/633/6d66fe89a61766765127c1ba4e5222fd.png",
       "id": "rfvbnji91@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/rfvbnji91@gmail.com/manifest",

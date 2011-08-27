@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "HardDroid2",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/438/21a895f66fddad535cf84ed37ccb425c.JPG",
       "id": "DeanoSoft_UK",
       "manifest": "http://romshare.deployfu.com/developer/DeanoSoft_UK/manifest",
@@ -33,7 +33,7 @@
     },
     {
       "developer": "TyphooN CyanogenMod",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/146/24fb59de6489c544c6fd683b6a43e491.png",
       "id": "do-not-use-cyanogenmod-nightly",
       "manifest": "http://romshare.deployfu.com/developer/do-not-use-cyanogenmod-nightly/manifest",
@@ -85,14 +85,6 @@
       "id": "miuiportugal",
       "manifest": "http://www.files.miui-pt.com/manifest/miuipt.js",
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
-    },
-    {
-      "developer": "MIUI.us",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
-      "id": "miuius",
-      "manifest": "http://roms.miui.us/manifest/rommanager.js",
-      "summary": "MIUI English releases by MIUI.us"
     },
     {
       "developer": "CM7 Tweaked cLK only",

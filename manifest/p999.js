@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "Team Whiskey",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/217/1f014e3a34997c82b915902c05ba2005.png",
       "id": "Krylon360",
       "manifest": "http://romshare.deployfu.com/developer/Krylon360/manifest",
@@ -10,7 +10,7 @@
     },
     {
       "developer": "Whitehawkx",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/673/7898d96c27f948a4e170d89dbe77121e.jpg",
       "id": "Whitehawkx",
       "manifest": "http://romshare.deployfu.com/developer/Whitehawkx/manifest",
@@ -32,6 +32,14 @@
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
     {
+      "developer": "doniqcc",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/718/9c3899d3bf007a79e4bab261fad0c501.jpg",
+      "id": "eagleblood",
+      "manifest": "http://romshare.deployfu.com/developer/eagleblood/manifest",
+      "summary": "Eagleblood 2.3.5 Cm7 source"
+    },
+    {
       "developer": "Einherjar Dev",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/25/31d8c04d2622249a93100ffc1ed40a17.png",
@@ -49,7 +57,7 @@
     },
     {
       "developer": "Faux123 Custom ROMs",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/65/458f8e1774c14317e04210d456d579e0.gif",
       "id": "faux123",
       "manifest": "http://romshare.deployfu.com/developer/faux123/manifest",
@@ -73,7 +81,7 @@
     },
     {
       "developer": "Xboarder56",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/663/402e31bd0ad3f6f57f92d29c291c52d7.jpg",
       "id": "xboarder56",
       "manifest": "http://romshare.deployfu.com/developer/xboarder56/manifest",

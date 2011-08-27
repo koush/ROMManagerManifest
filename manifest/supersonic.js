@@ -54,20 +54,20 @@
       "summary": "Updates for stock ROMs, radio, hboot"
     },
     {
-      "developer": "Salvage-Mod",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
-      "id": "echo17",
-      "free": "true",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
-      "summary": "GB source build. Group project."
-    },
-    {
       "developer": "Salvage-Mod Nightlies",
       "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
       "id": "echo17",
       "free": "true",
       "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
       "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
+    },
+    {
+      "developer": "Salvage-Mod",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
+      "id": "echo17",
+      "free": "true",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
+      "summary": "GB source build. Group project."
     },
     {
       "developer": "Extras",
@@ -124,14 +124,6 @@
       "summary": "Flashing CM nightlies made easy!"
     },
     {
-      "developer": "MIUI.us",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
-      "id": "miuius",
-      "manifest": "http://roms.miui.us/manifest/rommanager.js",
-      "summary": "MIUI English releases by MIUI.us"
-    },
-    {
       "developer": "myn",
       "icon": "http://drmacinyasha.github.com/MynROMManagerManifest/icon.png",
       "id": "myn",
@@ -148,20 +140,12 @@
       "summary": "Formerly r2DoesInc, Check out the new stuff. "
     },
     {
-      "developer": "Swagged Out|Stock (Swag=ON)",
-      "free": true,
+      "developer": "Swagged Out|Stock",
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/697/40e325c213ebeb2999003d52dc979b2b.png",
       "id": "swagstr",
       "manifest": "http://romshare.deployfu.com/developer/swagstr/manifest",
-      "summary": "Fake boobs and makeup to make your EVO look and feel sexy"
-    },
-    {
-      "developer": "Swagged Out|Stock (Swag=OFF)",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/709/83d4170a5be4be30dc0c681d59f49374.png",
-      "id": "swagstr-off",
-      "manifest": "http://romshare.deployfu.com/developer/swagstr-off/manifest",
-      "summary": "Stock ROM with a ton of bloatware removed and some tweaks enabled"
+      "summary": "Stock ROM with a ton of bloatware removed and some added sexiness"
     }
   ],
   "minversion": "4322"

@@ -33,7 +33,7 @@
     },
     {
       "developer": "Infinitybiff",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/653/7dc90deb235d7f8e522085e09fad294a.png",
       "id": "infinitybiff@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/infinitybiff@gmail.com/manifest",
@@ -41,7 +41,7 @@
     },
     {
       "developer": "ROM FASTY",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/621/fb4f7286249636542a1b0a5cdf8d3e6b.png",
       "id": "lostlogic01@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/lostlogic01@gmail.com/manifest",
@@ -62,14 +62,6 @@
       "id": "miuiportugal",
       "manifest": "http://www.files.miui-pt.com/manifest/miuipt.js",
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
-    },
-    {
-      "developer": "MIUI.us",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
-      "id": "miuius",
-      "manifest": "http://roms.miui.us/manifest/rommanager.js",
-      "summary": "MIUI English releases by MIUI.us"
     }
   ],
   "minversion": "4322"

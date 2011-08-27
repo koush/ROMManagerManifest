@@ -32,7 +32,7 @@
     },
     {
       "developer": "DrewGaren Roms",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
       "id": "drewgaren",
       "manifest": "http://romshare.deployfu.com/developer/drewgaren/manifest",
@@ -48,7 +48,7 @@
     },
     {
       "developer": "E-XtremeMod",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/132/3bea45cb0d900947ae2ceb5399b617f3.png",
       "id": "extrememod",
       "manifest": "http://romshare.deployfu.com/developer/extrememod/manifest",
@@ -70,7 +70,7 @@
     },
     {
       "developer": "jbbandos",
-      "free": true,
+      "free": false,
       "id": "jbbandos",
       "manifest": "http://romshare.deployfu.com/developer/jbbandos/manifest",
       "summary": "Multi-language MIUI ROMs. No theme change, 3G, bluetooth and other tunings. Lean and fast."
@@ -106,14 +106,6 @@
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
     },
     {
-      "developer": "MIUI.us",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
-      "id": "miuius",
-      "manifest": "http://roms.miui.us/manifest/rommanager.js",
-      "summary": "MIUI English releases by MIUI.us"
-    },
-    {
       "developer": "Pershoot",
       "id": "pershoot",
       "free": "true",
@@ -122,7 +114,7 @@
     },
     {
       "developer": "EnYo",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/633/6d66fe89a61766765127c1ba4e5222fd.png",
       "id": "rfvbnji91@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/rfvbnji91@gmail.com/manifest",

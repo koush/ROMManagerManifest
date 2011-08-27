@@ -37,7 +37,7 @@
       "icon": "http://romshare.deployfu.com/downloads/718/9c3899d3bf007a79e4bab261fad0c501.jpg",
       "id": "eagleblood",
       "manifest": "http://romshare.deployfu.com/developer/eagleblood/manifest",
-      "summary": "Eagleblood 2.3.5 Cm7 source"
+      "summary": "Eagleblood Roms Fast/Stable/Clean"
     },
     {
       "developer": "Einherjar Dev",

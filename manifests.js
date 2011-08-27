@@ -217,6 +217,16 @@
       "summary": "Custom HTC Sense Froyo ROMs for HTC Desire."
     },
     {
+      "developer": "JRummy16",
+      "id": "JRummy16",
+      "free": "true",
+      "manifest": "http://froyoroms.com/files/developers/jrummy/JRummy/Rom_Manager/jrummy.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "So awesome that Chuck Norris runs it as his daily ROM ;)"
+    },
+    {
       "developer": "Lithium Mod",
       "id": "JRummy16",
       "free": "true",
@@ -226,16 +236,6 @@
         "inc": "true"
       },
       "summary": "Source built roms and custom themes"
-    },
-    {
-      "developer": "JRummy16",
-      "id": "JRummy16",
-      "free": "true",
-      "manifest": "http://froyoroms.com/files/developers/jrummy/JRummy/Rom_Manager/jrummy.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "So awesome that Chuck Norris runs it as his daily ROM ;)"
     },
     {
       "developer": "JsinLegacy",
@@ -1033,17 +1033,6 @@
       "summary": "Sense ROM for HTC Desire with Stable Data2SD"
     },
     {
-      "developer": "Cubed ROM",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/66/24fcf796e1e1fc870f868d35e7cf0207.png",
-      "id": "dsb9938",
-      "manifest": "http://romshare.deployfu.com/developer/dsb9938/manifest",
-      "roms": {
-        "mecha": true
-      },
-      "summary": "dsb9938 from XDA"
-    },
-    {
       "developer": "dasBAMF",
       "icon": "http://www.onix-android.com/thatdudebutch/rommgr/burrito.png",
       "id": "dsb9938",
@@ -1055,6 +1044,17 @@
       "summary": "BAMF for Thunderbolt by Adrynalyne, ThatDudeButch, Trident, and dsb9938"
     },
     {
+      "developer": "Cubed ROM",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/66/24fcf796e1e1fc870f868d35e7cf0207.png",
+      "id": "dsb9938",
+      "manifest": "http://romshare.deployfu.com/developer/dsb9938/manifest",
+      "roms": {
+        "mecha": true
+      },
+      "summary": "dsb9938 from XDA"
+    },
+    {
       "developer": "doniqcc",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/718/9c3899d3bf007a79e4bab261fad0c501.jpg",
@@ -1063,18 +1063,7 @@
       "roms": {
         "p999": true
       },
-      "summary": "Eagleblood 2.3.5 Cm7 source"
-    },
-    {
-      "developer": "Salvage-Mod Nightlies",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
-      "id": "echo17",
-      "free": "true",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
+      "summary": "Eagleblood Roms Fast/Stable/Clean"
     },
     {
       "developer": "Salvage-Mod",
@@ -1086,6 +1075,17 @@
         "supersonic": "true"
       },
       "summary": "GB source build. Group project."
+    },
+    {
+      "developer": "Salvage-Mod Nightlies",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
+      "id": "echo17",
+      "free": "true",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -1857,6 +1857,43 @@
         "umts_sholes": true
       },
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
+    },
+    {
+      "developer": "MIUI.us",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
+      "id": "miuius",
+      "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
+      "roms": {
+        "leo": true,
+        "vivow": true,
+        "shadow": true,
+        "droid2": true,
+        "vivo": true,
+        "vibrantmtd": true,
+        "passion": true,
+        "bravo": true,
+        "ace": true,
+        "sholes": true,
+        "fascinatemtd": true,
+        "bravoc": true,
+        "glacier": true,
+        "crespo4g": true,
+        "jordan": true,
+        "captivatemtd": true,
+        "speedy": true,
+        "supersonic": true,
+        "saga": true,
+        "inc": true,
+        "encore": true,
+        "vision": true,
+        "galaxysmtd": true,
+        "crespo": true,
+        "showcasemtd": true,
+        "mesmerizemtd": true,
+        "umts_sholes": true
+      },
+      "summary": "MIUI English releases by MIUI.us"
     },
     {
       "developer": "meXdroidMod rOmS",

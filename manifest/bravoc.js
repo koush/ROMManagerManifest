@@ -46,6 +46,14 @@
       "free": "true",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
+    },
+    {
+      "developer": "MIUI.us",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
+      "id": "miuius",
+      "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
+      "summary": "MIUI English releases by MIUI.us"
     }
   ],
   "minversion": "4322"

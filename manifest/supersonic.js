@@ -54,20 +54,20 @@
       "summary": "Updates for stock ROMs, radio, hboot"
     },
     {
-      "developer": "Salvage-Mod Nightlies",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
-      "id": "echo17",
-      "free": "true",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
-      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
-    },
-    {
       "developer": "Salvage-Mod",
       "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
       "id": "echo17",
       "free": "true",
       "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
       "summary": "GB source build. Group project."
+    },
+    {
+      "developer": "Salvage-Mod Nightlies",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
+      "id": "echo17",
+      "free": "true",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
+      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
     },
     {
       "developer": "Extras",
@@ -122,6 +122,14 @@
       "id": "maxdamage",
       "manifest": "https://dl.dropbox.com/s/7yreog0xtyebutn/maxdamage/manifest.js",
       "summary": "Flashing CM nightlies made easy!"
+    },
+    {
+      "developer": "MIUI.us",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
+      "id": "miuius",
+      "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
+      "summary": "MIUI English releases by MIUI.us"
     },
     {
       "developer": "myn",

@@ -87,6 +87,14 @@
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
     },
     {
+      "developer": "MIUI.us",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
+      "id": "miuius",
+      "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
+      "summary": "MIUI English releases by MIUI.us"
+    },
+    {
       "developer": "meXdroidMod rOmS",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/394/991fd69a0f32e66d8026b35c3a914259.jpg",

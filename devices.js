@@ -1050,6 +1050,18 @@
       "version": "4.0.1.5",
       "init": "init.pyramid.rc",
       "key": "pyramid"
+    },
+    {
+      "name": "Huawei Ascend 2",
+      "version": "4.0.1.5",
+      "init": "init.qcom.rc",
+      "key": "ascend2"
+    },
+    {
+      "name": "Micromax A70",
+      "version": "4.0.1.5",
+      "init": "init.a70.rc",
+      "key": "a70"
     }
   ],
   "use_in_app": false,

@@ -33,6 +33,14 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
+      "developer": "Htcclay",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/307/5076662d1617430aa6ad3f6ad73136aa.jpg",
+      "id": "htcclay",
+      "manifest": "http://romshare.deployfu.com/developer/htcclay/manifest",
+      "summary": "Go Go Go!"
+    },
+    {
       "developer": "Virtuous",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/63/8671cc6cf6379f1baf69c14ca9138910.png",

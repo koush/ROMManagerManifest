@@ -1150,6 +1150,7 @@
       "manifest": "http://romshare.deployfu.com/developer/htcclay/manifest",
       "roms": {
         "vibrantmtd": true,
+        "pyramid": true,
         "crespo": true,
         "vision": true
       },

@@ -16,18 +16,10 @@
       "summary": "Latest CWR for the HD2 with the yes/no patch"
     },
     {
-      "developer": "charansingh",
-      "icon": "http://fitsnugly.euroskank.com/gigglebread/leo/cm.png",
-      "id": "charansingh",
-      "free": "true",
-      "manifest": "http://fitsnugly.euroskank.com/gigglebread/leo/leocyanogenmod.js",
-      "summary": "Mods and Bacon for your phone"
-    },
-    {
       "developer": "CM7 Nightlies",
-      "icon": "http://koush.kanged.net/cm/test/tdr.png",
-      "id": "cyanogenmodleonightly",
       "free": "true",
+      "id": "cyanogenmodleonightly",
+      "icon": "http://koush.kanged.net/cm/test/tdr.png",
       "manifest": "http://dl.dropbox.com/u/26430630/RM.js",
       "summary": "CM7 Nightly builds, unofficially built by charansingh, AirforcPrductions and arif-ali. Very experimental and probably broken. Do not report bugs for these builds."
     },
@@ -41,24 +33,24 @@
     },
     {
       "developer": "Extras",
-      "icon": "http://koush.kanged.net/cm/test/extras.png",
-      "id": "extras",
       "free": "true",
+      "id": "extras",
+      "icon": "http://koush.kanged.net/cm/test/extras.png",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
       "summary": "Cool stuffs."
     },
     {
       "developer": "Google Apps",
-      "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
-      "id": "google",
       "free": "true",
+      "id": "google",
+      "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
       "developer": "HyperDroid",
-      "id": "hyperdroid",
       "free": "true",
+      "id": "hyperdroid",
       "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
       "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
     },

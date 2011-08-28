@@ -17,18 +17,10 @@
       "summary": "Honeyteam presents fully Sense 3.0 with themes see our thread on XDA for more information"
     },
     {
-      "developer": "LeeDrOiD",
-      "icon": "http://leedroid.ftp.rshost.eu/Images/avatar_small.png",
-      "id": "LeeDrOiD",
-      "free": "true",
-      "manifest": "http://leedroid.ftp.rshost.eu/LeeDrOiD.js",
-      "summary": "Sense Rom's, Kernel's & Goodie's"
-    },
-    {
       "developer": "TeamRC",
-      "icon": "http://capychimp.dk/rcmix/rc.png",
-      "id": "capychimp",
       "free": "true",
+      "id": "capychimp",
+      "icon": "http://capychimp.dk/rcmix/rc.png",
       "manifest": "http://capychimp.dk/rcmix/rcmix.js",
       "summary": "TeamRC RCMixHD Beamingly Blazing HTC Sense Roms"
     },
@@ -41,59 +33,43 @@
       "summary": "developer of StarDroid ROMS for your HTC Inspire and Desire HD"
     },
     {
-      "developer": "CoreDroid",
-      "icon": "http://coredroidroms.com/Roms/Desire_HD/CDLogo.png",
-      "id": "coredroid",
-      "free": "true",
-      "manifest": "http://coredroidroms.com/Roms/Desire_HD/manifest.js",
-      "summary": "Including HTC Sense, Core Droid is one of the fastest and most beautiful roms available."
-    },
-    {
       "developer": "CyanogenMod",
-      "icon": "http://koush.kanged.net/cm/test/cm2.png",
-      "id": "cyanogenmod",
       "free": "true",
+      "id": "cyanogenmod",
+      "icon": "http://koush.kanged.net/cm/test/cm2.png",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
       "summary": "Mods and bacon for your phone"
     },
     {
       "developer": "CyanogenMod Nightlies",
-      "icon": "http://koush.kanged.net/cm/test/tdr.png",
       "id": "cyanogenmodnightly",
+      "icon": "http://koush.kanged.net/cm/test/tdr.png",
       "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
     {
       "developer": "Extras",
-      "icon": "http://koush.kanged.net/cm/test/extras.png",
-      "id": "extras",
       "free": "true",
+      "id": "extras",
+      "icon": "http://koush.kanged.net/cm/test/extras.png",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
       "summary": "Cool stuffs."
     },
     {
       "developer": "Google Apps",
-      "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
-      "id": "google",
       "free": "true",
+      "id": "google",
+      "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
       "developer": "gtg465x",
-      "icon": "http://www.prism.gatech.edu/~gtg465x/ROMManagerManifest/icon.png",
-      "id": "gtg465x",
       "free": "true",
+      "id": "gtg465x",
+      "icon": "http://www.prism.gatech.edu/~gtg465x/ROMManagerManifest/icon.png",
       "manifest": "http://www.prism.gatech.edu/~gtg465x/ROMManagerManifest/gtg465x.js",
       "summary": "ROMs and hax by gtg465x"
-    },
-    {
-      "developer": "-=MDJ's ViVO Sense=-",
-      "icon": "http://mdeejay.vpnonline.org/RomManagerManifest/logo.png",
-      "id": "mdj",
-      "free": "true",
-      "manifest": "http://mdeejay.vpnonline.org/RomManagerManifest/mdeejaymod.js",
-      "summary": "Mods and bacon for DHD"
     },
     {
       "developer": "MIUI Android",
@@ -134,14 +110,6 @@
       "id": "pirateg@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/pirateg@gmail.com/manifest",
       "summary": "Inspire 4G ROMS and Add-ons"
-    },
-    {
-      "developer": "TB Roms",
-      "icon": "http://android.saraev.ca/download/rommanager/icon.png",
-      "id": "seo",
-      "free": "true",
-      "manifest": "http://android.saraev.ca/download/rommanager/manifest.js",
-      "summary": "ROMs for your HTC Desire HD"
     },
     {
       "developer": "Virtuous",

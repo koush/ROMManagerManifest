@@ -10,33 +10,33 @@
     },
     {
       "developer": "Extras",
-      "icon": "http://koush.kanged.net/cm/test/extras.png",
-      "id": "extras",
       "free": "true",
+      "id": "extras",
+      "icon": "http://koush.kanged.net/cm/test/extras.png",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
       "summary": "Cool stuffs."
     },
     {
       "developer": "Google Apps",
-      "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
-      "id": "google",
       "free": "true",
+      "id": "google",
+      "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
       "developer": "gtg465x",
-      "icon": "http://www.prism.gatech.edu/~gtg465x/ROMManagerManifest/icon.png",
-      "id": "gtg465x",
       "free": "true",
+      "id": "gtg465x",
+      "icon": "http://www.prism.gatech.edu/~gtg465x/ROMManagerManifest/icon.png",
       "manifest": "http://www.prism.gatech.edu/~gtg465x/ROMManagerManifest/gtg465x.js",
       "summary": "ROMs and hax by gtg465x"
     },
     {
       "developer": "Hamsterbread",
-      "icon": "http://dl.dropbox.com/u/10693833/Hamsters%20Rom/iconhamsterbread.png",
-      "id": "hamsterbread",
       "free": "true",
+      "id": "hamsterbread",
+      "icon": "http://dl.dropbox.com/u/10693833/Hamsters%20Rom/iconhamsterbread.png",
       "manifest": "https://github.com/Hamsterkacke/hamsterbread/raw/master/manifest.js",
       "summary": "Some Hamster Love for your phone!"
     },
@@ -45,13 +45,6 @@
       "id": "insanity",
       "manifest": "http://insanity.nfye.com/manifest.js",
       "summary": "Insanity Galaxy S I9000"
-    },
-    {
-      "developer": "Insanity - Extras",
-      "id": "insanity-extras",
-      "free": "true",
-      "manifest": "http://www.nfye.com/manifest.js",
-      "summary": "Extras for Insanity ROM (Themes / Addons / Kernels / Apps)"
     },
     {
       "developer": "MIUI Android",
@@ -71,8 +64,8 @@
     },
     {
       "developer": "Tedgy",
-      "id": "tedgy",
       "free": "true",
+      "id": "tedgy",
       "manifest": "http://www.tedgy.net/GalaxyS/tedgy.js",
       "summary": "TedgyRom Galaxy S I9000 FR"
     }

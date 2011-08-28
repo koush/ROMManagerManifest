@@ -2,8 +2,8 @@
   "manifests": [
     {
       "developer": "ACS",
-      "id": "ACS",
       "free": "true",
+      "id": "ACS",
       "manifest": "http://holylivingfuck.com/ACS/Romlist.js",
       "roms": {
         "epic4g": "true",
@@ -20,7 +20,7 @@
       "roms": {
         "glacier": true
       },
-      "summary": "http://android-maisters.ddns.net Roms latest and greatest!"
+      "summary": "My Roms latest and greatest!"
     },
     {
       "developer": "ArmyRanger251",
@@ -45,24 +45,14 @@
     },
     {
       "developer": "Beesley's Build.Props",
-      "id": "Beesley",
       "free": "true",
+      "id": "Beesley",
       "manifest": "http://beesley.droid.co/beesley.js",
       "roms": {
         "droid2": "true",
         "droidx": "true"
       },
       "summary": "All Build.prop Mods to Date"
-    },
-    {
-      "developer": "JagerRom",
-      "id": "CaptJager",
-      "free": "true",
-      "manifest": "http://www.igotjaked.com/jagerrom.js",
-      "roms": {
-        "inc": "true"
-      },
-      "summary": "Senseless deodexed Rom for Droid Incredible with couple of twists"
     },
     {
       "developer": "ChevyNo1",
@@ -86,24 +76,13 @@
     },
     {
       "developer": "DRod2169",
-      "id": "DRod2169",
       "free": "true",
+      "id": "DRod2169",
       "manifest": "http://www.sephtin.com/rubiX/rubiX.js",
       "roms": {
         "droidx": "true"
       },
       "summary": "rubiX ROMs for DroidX"
-    },
-    {
-      "developer": "Troll Dev Team",
-      "icon": "http://img651.imageshack.us/img651/9139/trollfaced.png",
-      "id": "DanWilson",
-      "free": "true",
-      "manifest": "http://dl.dropbox.com/u/7700554/TrollogenMOD.js",
-      "roms": {
-        "vision": "true"
-      },
-      "summary": "Teh ROMs by the TDT"
     },
     {
       "developer": "HardDroid2",
@@ -117,35 +96,15 @@
       "summary": "Compiled from CyanogenMod-7 Bravo/Desire Base with tweaks! Visit my XDA Developers project page for more information: http://forum.xda-developers.com/showpost.php?p=14676068"
     },
     {
-      "developer": "Deodexed Elements Series",
-      "id": "Deodexed",
-      "free": "true",
-      "manifest": "http://deodexed.com/ROMManagerManifest/deodexed_manifest.js",
-      "roms": {
-        "fascinate": "true"
-      },
-      "summary": "Elements Rom Series, Zinc Rom for the Samsung Fascinate"
-    },
-    {
       "developer": "dhemke17",
-      "icon": "http://dhe17roms.github.com/Roms/auburn-university.jpg",
-      "id": "DhE17roms",
       "free": "true",
+      "id": "DhE17roms",
+      "icon": "http://dhe17roms.github.com/Roms/auburn-university.jpg",
       "manifest": "http://dhe17roms.github.com/Roms/lightningrom.js",
       "roms": {
         "mecha": "true"
       },
       "summary": "Roms and Extras"
-    },
-    {
-      "developer": "DopeShiziot",
-      "id": "DopeShiziot",
-      "free": "true",
-      "manifest": "http://dope.appfabulo.us/RM/rom-manager-manifest.js",
-      "roms": {
-        "inc": "true"
-      },
-      "summary": "This shiz is dope!"
     },
     {
       "developer": "GreenRom Project",
@@ -158,15 +117,6 @@
         "sapphire": true
       },
       "summary": "GreenRom Project Official Builds"
-    },
-    {
-      "developer": "GSXRDON",
-      "id": "GSXR750",
-      "manifest": "http://www.froyoroms.com/files/developers/jrummy/JRummy/Other/GSXRDON.js",
-      "roms": {
-        "sholes": "true"
-      },
-      "summary": "Themed Roms"
     },
     {
       "developer": "GreenRomProject",
@@ -208,8 +158,8 @@
     },
     {
       "developer": "IEF - ShadowSense",
-      "id": "IEF",
       "free": "true",
+      "id": "IEF",
       "manifest": "http://www.shadowchild.nl/manifest.js",
       "roms": {
         "bravo": "true"
@@ -217,30 +167,9 @@
       "summary": "Custom HTC Sense Froyo ROMs for HTC Desire."
     },
     {
-      "developer": "JRummy16",
-      "id": "JRummy16",
-      "free": "true",
-      "manifest": "http://froyoroms.com/files/developers/jrummy/JRummy/Rom_Manager/jrummy.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "So awesome that Chuck Norris runs it as his daily ROM ;)"
-    },
-    {
-      "developer": "Lithium Mod",
-      "id": "JRummy16",
-      "free": "true",
-      "manifest": "http://froyoroms.com/files/developers/jrummy/JRummy/Rom_Manager/jared.js",
-      "roms": {
-        "sholes": "true",
-        "inc": "true"
-      },
-      "summary": "Source built roms and custom themes"
-    },
-    {
       "developer": "JsinLegacy",
-      "id": "JsinLegacy",
       "free": "true",
+      "id": "JsinLegacy",
       "manifest": "http://www.jbthemes.com/jsinlegacy/jsinlegacy.js",
       "roms": {
         "passion": "true",
@@ -283,30 +212,17 @@
       "summary": "SenseLX"
     },
     {
-      "developer": "LeeDrOiD",
-      "icon": "http://leedroid.ftp.rshost.eu/Images/avatar_small.png",
-      "id": "LeeDrOiD",
-      "free": "true",
-      "manifest": "http://leedroid.ftp.rshost.eu/LeeDrOiD.js",
-      "roms": {
-        "ace": "true",
-        "bravo": "true",
-        "pyramid": "true"
-      },
-      "summary": "Sense Rom's, Kernel's & Goodie's"
-    },
-    {
       "developer": "Liquid Smooth Roms",
-      "icon": "http://android.jbroom.com/rommanager/LSRICON.png",
-      "id": "Liquid",
       "free": "true",
+      "id": "Liquid",
+      "icon": "http://android.jbroom.com/rommanager/LSRICON.png",
       "manifest": "http://android.jbroom.com/rommanager/manifest.js",
       "roms": {
         "droid2": "true",
         "sholes": "true",
         "mecha": "true",
-        "droidx": "true",
-        "crespo": "true"
+        "crespo": "true",
+        "droidx": "true"
       },
       "summary": "Source Built Gingerbread and Custom Tbolt Roms"
     },
@@ -322,6 +238,17 @@
       "summary": "MIUI Uploads from our hardworking Developers"
     },
     {
+      "developer": "MIUI.hu",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/722/6c020836957e6d84eaf0e747197e935a.png",
+      "id": "MIUI.hu",
+      "manifest": "http://romshare.deployfu.com/developer/MIUI.hu/manifest",
+      "roms": {
+        "crespo": true
+      },
+      "summary": "MIUI magyar lokalizációja | miui.hu @ 2011"
+    },
+    {
       "developer": "Navalynt Roms (3.14 Series)",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/596/5a7d89b16d54be204e888a7f5e5ed390.png",
@@ -333,9 +260,20 @@
       "summary": "Roms, themes, and more!"
     },
     {
+      "developer": "ngiordano75@gmail.com",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/636/7ab5b3bc307d3a3bf5e42ec2b09a234f.png",
+      "id": "NoFrills",
+      "manifest": "http://romshare.deployfu.com/developer/NoFrills/manifest",
+      "roms": {
+        "vibrantmtd": true
+      },
+      "summary": "NoFrills-AOSP a Gingerbread ROM built for simplicity."
+    },
+    {
       "developer": "OMJ",
-      "id": "OMJ",
       "free": "true",
+      "id": "OMJ",
       "manifest": "http://vegasden.net/OMJ/ROMmanifest/omj.js",
       "roms": {
         "supersonic": "true"
@@ -374,17 +312,6 @@
       "summary": "CAE Moderator "
     },
     {
-      "developer": "SinisterTensai",
-      "icon": "http://sinister.tensailabs.com/Sinister_Rom/SinisterIcon.png",
-      "id": "SinisterTensai",
-      "free": "true",
-      "manifest": "http://sinister.tensailabs.com/Sinister_Rom/Romlist.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "Sinister Speeds, Sinister Looks"
-    },
-    {
       "developer": "SlashDW",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/567/2b481fc258e2308c90e8d76917141340.png",
@@ -419,8 +346,8 @@
     },
     {
       "developer": "SnkBitten",
-      "icon": "http://android.snkbitten.com/ROMManagerManifest/SnkBitten.png",
       "id": "SnkBitten",
+      "icon": "http://android.snkbitten.com/ROMManagerManifest/SnkBitten.png",
       "manifest": "http://android.snkbitten.com/ROMManagerManifest/SnkBitten.js",
       "roms": {
         "sholes": "true"
@@ -429,14 +356,14 @@
     },
     {
       "developer": "Sonofskywalker3",
-      "icon": "http://www.trangtriblog.com/avatar/movies/Luke-with-Lightsaber.jpg",
-      "id": "Sonofskywalker3",
       "free": "true",
+      "id": "Sonofskywalker3",
+      "icon": "http://www.trangtriblog.com/avatar/movies/Luke-with-Lightsaber.jpg",
       "manifest": "http://www.androiddoes.net/~sonofskywalker3/Manifest/Sonofskywalker3_Manifest.js",
       "roms": {
         "fascinate": "true",
-        "vibrant": "true",
-        "mecha": "true"
+        "mecha": "true",
+        "vibrant": "true"
       },
       "summary": "Blackhole build your own ROM series, full customization"
     },
@@ -453,9 +380,9 @@
     },
     {
       "developer": "TeamGTP",
-      "icon": "http://public.gtpdevs.com/RomManager/rommanager.png",
-      "id": "TeamGTP",
       "free": "true",
+      "id": "TeamGTP",
+      "icon": "http://public.gtpdevs.com/RomManager/rommanager.png",
       "manifest": "http://public.gtpdevs.com/Rommanager/manifest.js",
       "roms": {
         "mecha": "true"
@@ -475,9 +402,9 @@
     },
     {
       "developer": "ThunderStick",
-      "icon": "http://www.igottadroid.com/Roms/RomManagerManifest/ThunderStick-Avatar.png",
-      "id": "ThunderStick",
       "free": "true",
+      "id": "ThunderStick",
+      "icon": "http://www.igottadroid.com/Roms/RomManagerManifest/ThunderStick-Avatar.png",
       "manifest": "http://www.igottadroid.com/Roms/RomManagerManifest/ThunderStick-RMM.js",
       "roms": {
         "mecha": "true"
@@ -520,9 +447,9 @@
     },
     {
       "developer": "Oxygen",
-      "icon": "http://download.oxygen.im/roms/ROMManagerManifest/icon.png",
-      "id": "adamg",
       "free": "true",
+      "id": "adamg",
+      "icon": "http://download.oxygen.im/roms/ROMManagerManifest/icon.png",
       "manifest": "http://download.oxygen.im/roms/ROMManagerManifest/oxygen.js",
       "roms": {
         "bravo": "true",
@@ -545,24 +472,13 @@
     },
     {
       "developer": "AleBaba",
-      "id": "aleho",
       "free": "true",
+      "id": "aleho",
       "manifest": "http://derhofbauer.at/rommanager/roms.js",
       "roms": {
         "legend": "true"
       },
       "summary": "Customized ROMs for the HTC Legend"
-    },
-    {
-      "developer": "Amethyst",
-      "icon": "http://download.renandroid.com/amethyst_icon.png",
-      "id": "amethyst",
-      "free": "true",
-      "manifest": "http://download.renandroid.com/amethyst_manifest.js",
-      "roms": {
-        "crespo": "true"
-      },
-      "summary": "Clean and fast AOSP ROM with some CM tweaks"
     },
     {
       "developer": "aosp",
@@ -589,8 +505,8 @@
     },
     {
       "developer": "bcnice20",
-      "id": "bcnice20",
       "free": "true",
+      "id": "bcnice20",
       "manifest": "http://www.thebcblends.com/speedy/bcblend.js",
       "roms": {
         "speedy": "true"
@@ -599,9 +515,9 @@
     },
     {
       "developer": "BeeGee_Tokyo",
-      "icon": "http://desire.giesecke.tk/images/Japanese-small.png",
-      "id": "beegee_tokyo",
       "free": "true",
+      "id": "beegee_tokyo",
+      "icon": "http://desire.giesecke.tk/images/Japanese-small.png",
       "manifest": "http://desire.giesecke.tk/images/ganbarou.js",
       "roms": {
         "harmony": "true"
@@ -610,8 +526,8 @@
     },
     {
       "developer": "bekit",
-      "id": "bekriebel",
       "free": "true",
+      "id": "bekriebel",
       "manifest": "http://gh-pages.bekit.net/ROMManagerManifest-bekit/bekit-manifest.js",
       "roms": {
         "harmony": "true"
@@ -629,19 +545,9 @@
       "summary": "bernard.schratz@gmail.com"
     },
     {
-      "developer": "Berzerker",
-      "id": "berzerker",
-      "free": "true",
-      "manifest": "http://fourty.net/~berzerker/rosiemod/rosiemod.js",
-      "roms": {
-        "inc": "true"
-      },
-      "summary": "Modifications for the HTC Incredible by Berzerker"
-    },
-    {
       "developer": "bgill55",
-      "id": "bgill55",
       "free": "true",
+      "id": "bgill55",
       "manifest": "http://www.jbthemes.com/bgill55/bgill55.js",
       "roms": {
         "sholes": "true",
@@ -662,9 +568,9 @@
     },
     {
       "developer": "Blandroid",
-      "icon": "http://blandroid.org/rommanager-icon.png",
-      "id": "blandroid",
       "free": "true",
+      "id": "blandroid",
+      "icon": "http://blandroid.org/rommanager-icon.png",
       "manifest": "http://blandroid.org/rommanager-manifest.js",
       "roms": {
         "passion": "true",
@@ -685,9 +591,9 @@
     },
     {
       "developer": "TeamRC",
-      "icon": "http://capychimp.dk/rcmix/rc.png",
-      "id": "capychimp",
       "free": "true",
+      "id": "capychimp",
+      "icon": "http://capychimp.dk/rcmix/rc.png",
       "manifest": "http://capychimp.dk/rcmix/rcmix.js",
       "roms": {
         "ace": "true"
@@ -706,35 +612,14 @@
       "summary": "developer of StarDroid ROMS for your HTC Inspire and Desire HD"
     },
     {
-      "developer": "charansingh",
-      "icon": "http://fitsnugly.euroskank.com/gigglebread/leo/cm.png",
-      "id": "charansingh",
-      "free": "true",
-      "manifest": "http://fitsnugly.euroskank.com/gigglebread/leo/leocyanogenmod.js",
-      "roms": {
-        "leo": "true"
-      },
-      "summary": "Mods and Bacon for your phone"
-    },
-    {
       "developer": "Steel Droid",
-      "id": "chevycam94",
       "free": "true",
+      "id": "chevycam94",
       "manifest": "http://chevycam94.macleod-web.net/steel_droid.js",
       "roms": {
         "sholes": "true"
       },
       "summary": "ChevyCam94's Custom ROM's"
-    },
-    {
-      "developer": "Coolexe",
-      "id": "coolexe",
-      "free": "true",
-      "manifest": "http://www.kimithemes.net/Android/manifest.js",
-      "roms": {
-        "bravo": "true"
-      },
-      "summary": "New Sense ROM For HTC Desire"
     },
     {
       "developer": "CorCor67",
@@ -748,17 +633,6 @@
       "summary": "OC Kernels for the Droid"
     },
     {
-      "developer": "CoreDroid",
-      "icon": "http://coredroidroms.com/Roms/Desire_HD/CDLogo.png",
-      "id": "coredroid",
-      "free": "true",
-      "manifest": "http://coredroidroms.com/Roms/Desire_HD/manifest.js",
-      "roms": {
-        "ace": "true"
-      },
-      "summary": "Including HTC Sense, Core Droid is one of the fastest and most beautiful roms available."
-    },
-    {
       "developer": "foschi@gmail.com",
       "free": false,
       "id": "crimescene",
@@ -770,76 +644,76 @@
     },
     {
       "developer": "cvpcs",
-      "icon": "http://cvpcs.github.com/android_vendor_cvpcs/icon.png",
-      "id": "cvpcs",
       "free": "true",
+      "id": "cvpcs",
+      "icon": "http://cvpcs.github.com/android_vendor_cvpcs/icon.png",
       "manifest": "http://cvpcs.github.com/android_vendor_cvpcs/cvpcs-rmm.js",
       "roms": {
         "droid2": "true",
         "sholes": "true",
-        "inc": "true",
+        "supersonic": "true",
         "droidx": "true",
-        "supersonic": "true"
+        "inc": "true"
       },
       "summary": "Source-based mods made by CVPCS"
     },
     {
       "developer": "CyanogenMod",
-      "icon": "http://koush.kanged.net/cm/test/cm2.png",
-      "id": "cyanogenmod",
       "free": "true",
+      "id": "cyanogenmod",
+      "icon": "http://koush.kanged.net/cm/test/cm2.png",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
       "roms": {
-        "smb_a1002": "true",
         "p999": "true",
-        "zeppelin": "true",
+        "smb_a1002": "true",
         "liberty": "true",
-        "vivow": "true",
-        "p990": "true",
-        "morrison": "true",
-        "legend": "true",
+        "zeppelin": "true",
         "droid2": "true",
-        "vibrantmtd": "true",
-        "passion": "true",
-        "vivo": "true",
-        "desirec": "true",
-        "bravo": "true",
+        "legend": "true",
+        "morrison": "true",
+        "p990": "true",
+        "vivow": "true",
         "ace": "true",
-        "u8220": "true",
-        "sholes": "true",
-        "hero": "true",
+        "bravo": "true",
+        "desirec": "true",
+        "vivo": "true",
+        "passion": "true",
+        "vibrantmtd": "true",
         "espresso": "true",
-        "dream": "true",
+        "hero": "true",
+        "sholes": "true",
+        "u8220": "true",
         "bravoc": "true",
-        "sapphire": "true",
-        "one": "true",
-        "mecha": "true",
-        "glacier": "true",
-        "crespo4g": "true",
-        "captivatemtd": "true",
+        "dream": "true",
         "blade": "true",
+        "captivatemtd": "true",
+        "crespo4g": "true",
+        "glacier": "true",
+        "mecha": "true",
+        "one": "true",
+        "sapphire": "true",
         "speedy": "true",
-        "vision": "true",
-        "supersonic": "true",
-        "inc": "true",
-        "harmony": "true",
-        "galaxysmtd": "true",
-        "galaxys2": "true",
-        "encore": "true",
-        "crespo": "true",
-        "click": "true",
         "buzz": "true",
-        "z71": "true",
+        "click": "true",
+        "crespo": "true",
+        "encore": "true",
+        "galaxys2": "true",
+        "galaxysmtd": "true",
+        "harmony": "true",
+        "inc": "true",
+        "supersonic": "true",
+        "vision": "true",
         "heroc": "true",
+        "z71": "true",
         "zero": "true"
       },
       "summary": "Mods and bacon for your phone"
     },
     {
       "developer": "CM7 Nightlies",
-      "icon": "http://koush.kanged.net/cm/test/tdr.png",
-      "id": "cyanogenmodleonightly",
       "free": "true",
+      "id": "cyanogenmodleonightly",
+      "icon": "http://koush.kanged.net/cm/test/tdr.png",
       "manifest": "http://dl.dropbox.com/u/26430630/RM.js",
       "roms": {
         "leo": "true"
@@ -848,9 +722,9 @@
     },
     {
       "developer": "CyanogenMod",
-      "icon": "http://koush.kanged.net/cm/test/cm2.png",
-      "id": "cyanogenmodmagic",
       "free": "true",
+      "id": "cyanogenmodmagic",
+      "icon": "http://koush.kanged.net/cm/test/cm2.png",
       "manifest": "http://briancrook.ca/RM.php",
       "roms": {
         "magic": "true"
@@ -859,61 +733,61 @@
     },
     {
       "developer": "CyanogenMod Nightlies",
-      "icon": "http://koush.kanged.net/cm/test/tdr.png",
       "id": "cyanogenmodnightly",
+      "icon": "http://koush.kanged.net/cm/test/tdr.png",
       "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
       "roms": {
-        "smb_a1002": "true",
         "p999": "true",
-        "zeppelin": "true",
+        "smb_a1002": "true",
         "liberty": "true",
-        "vivow": "true",
-        "shadow": "true",
-        "p990": "true",
-        "morrison": "true",
-        "legend": "true",
+        "zeppelin": "true",
         "droid2": "true",
-        "vibrantmtd": "true",
-        "passion": "true",
-        "vivo": "true",
-        "desirec": "true",
-        "bravo": "true",
+        "legend": "true",
+        "morrison": "true",
+        "p990": "true",
+        "shadow": "true",
+        "vivow": "true",
         "ace": "true",
-        "u8220": "true",
-        "sholes": "true",
-        "hero": "true",
+        "bravo": "true",
+        "desirec": "true",
+        "vivo": "true",
+        "passion": "true",
+        "vibrantmtd": "true",
         "espresso": "true",
-        "fascinatemtd": "true",
-        "dream": "true",
+        "hero": "true",
+        "sholes": "true",
+        "u8220": "true",
         "bravoc": "true",
-        "sapphire": "true",
-        "one": "true",
-        "mecha": "true",
-        "glacier": "true",
-        "crespo4g": "true",
-        "captivatemtd": "true",
+        "dream": "true",
+        "fascinatemtd": "true",
         "blade": "true",
+        "captivatemtd": "true",
+        "crespo4g": "true",
+        "glacier": "true",
+        "mecha": "true",
+        "one": "true",
+        "sapphire": "true",
         "speedy": "true",
-        "vision": "true",
-        "supersonic": "true",
-        "inc": "true",
-        "harmony": "true",
-        "galaxysmtd": "true",
-        "galaxys2": "true",
-        "encore": "true",
-        "crespo": "true",
-        "click": "true",
         "buzz": "true",
-        "z71": "true",
+        "click": "true",
+        "crespo": "true",
+        "encore": "true",
+        "galaxys2": "true",
+        "galaxysmtd": "true",
+        "harmony": "true",
+        "inc": "true",
+        "supersonic": "true",
+        "vision": "true",
         "heroc": "true",
+        "z71": "true",
         "zero": "true"
       },
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
     {
       "developer": "CyanogenMod Nightlies",
-      "icon": "http://koush.kanged.net/cm/test/cm2.png",
       "id": "cyanogenmodnightlymagic",
+      "icon": "http://koush.kanged.net/cm/test/cm2.png",
       "manifest": "http://briancrook.ca/RM_nightly.php",
       "roms": {
         "magic": "true"
@@ -941,17 +815,6 @@
         "galaxys": true
       },
       "summary": "Clean, fast & customizable Samsung Galaxy S ROM."
-    },
-    {
-      "developer": "DeltaProject",
-      "icon": "http://deltarom.ru/roms/logo.png",
-      "id": "deltaproject",
-      "free": "true",
-      "manifest": "http://deltarom.ru/roms/deltaprodesires.js",
-      "roms": {
-        "bravo": "true"
-      },
-      "summary": "The best firmware on Android 2.3"
     },
     {
       "developer": "dfgas",
@@ -990,8 +853,8 @@
     },
     {
       "developer": "DrewGaren",
-      "id": "drewgaren",
       "free": "true",
+      "id": "drewgaren",
       "manifest": "http://drewgaren.com/manifest.js",
       "roms": {
         "droidx": "true"
@@ -1013,35 +876,14 @@
     },
     {
       "developer": "EVO Stock and Radios",
-      "icon": "http://drmacinyasha.github.com/EVO-Stock-RM-Manifest/icon.png",
-      "id": "drmacinyasha",
       "free": "true",
+      "id": "drmacinyasha",
+      "icon": "http://drmacinyasha.github.com/EVO-Stock-RM-Manifest/icon.png",
       "manifest": "http://drmacinyasha.github.com/EVO-Stock-RM-Manifest/manifest.js",
       "roms": {
         "supersonic": "true"
       },
       "summary": "Updates for stock ROMs, radio, hboot"
-    },
-    {
-      "developer": "Droidzone",
-      "id": "droidzone",
-      "free": "true",
-      "manifest": "http://www.eyrie.in/Android/ROMS/ROM_Manager/manifest.js",
-      "roms": {
-        "bravo": "true"
-      },
-      "summary": "Sense ROM for HTC Desire with Stable Data2SD"
-    },
-    {
-      "developer": "dasBAMF",
-      "icon": "http://www.onix-android.com/thatdudebutch/rommgr/burrito.png",
-      "id": "dsb9938",
-      "free": "true",
-      "manifest": "http://www.onix-android.com/thatdudebutch/rommgr/Long%20Manifest.1.0.js",
-      "roms": {
-        "mecha": "true"
-      },
-      "summary": "BAMF for Thunderbolt by Adrynalyne, ThatDudeButch, Trident, and dsb9938"
     },
     {
       "developer": "Cubed ROM",
@@ -1067,9 +909,9 @@
     },
     {
       "developer": "Salvage-Mod",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
-      "id": "echo17",
       "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
       "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
       "roms": {
         "supersonic": "true"
@@ -1078,9 +920,9 @@
     },
     {
       "developer": "Salvage-Mod Nightlies",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
-      "id": "echo17",
       "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
       "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
       "roms": {
         "supersonic": "true"
@@ -1113,9 +955,9 @@
     },
     {
       "developer": "Extras",
-      "icon": "http://koush.kanged.net/cm/test/extras.png",
-      "id": "extras",
       "free": "true",
+      "id": "extras",
+      "icon": "http://koush.kanged.net/cm/test/extras.png",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
       "roms": {
         "all": "true"
@@ -1135,9 +977,9 @@
     },
     {
       "developer": "EzTerry",
-      "icon": "http://sandbox.devnull.name/android/rommanager/zapped.png",
-      "id": "ezterry",
       "free": "true",
+      "id": "ezterry",
+      "icon": "http://sandbox.devnull.name/android/rommanager/zapped.png",
       "manifest": "http://sandbox.devnull.name/android/rommanager/manifest.js",
       "roms": {
         "magic": "true",
@@ -1172,8 +1014,8 @@
     },
     {
       "developer": "Fresh",
-      "id": "flipz",
       "free": "true",
+      "id": "flipz",
       "manifest": "http://geekfor.me/clockwork/fresh.js",
       "roms": {
         "supersonic": "true",
@@ -1187,21 +1029,10 @@
       "manifest": "http://www.forkup.info/droidthemes/forkup.js",
       "roms": {
         "sholes": "true",
-        "harmony": "true",
-        "droidx": "true"
+        "droidx": "true",
+        "harmony": "true"
       },
       "summary": "Roms, Themes and Addons for Cyanogen on the Droid."
-    },
-    {
-      "developer": "NSCollab",
-      "icon": "http://studiousmedia.com/crespo/nscollabrm.png",
-      "id": "frank707",
-      "free": "true",
-      "manifest": "http://studiousmedia.com/crespo/nscollab.js",
-      "roms": {
-        "crespo": "true"
-      },
-      "summary": "A best of both worlds rom for your Nexus S"
     },
     {
       "developer": "freEVO 3D ROM",
@@ -1216,9 +1047,9 @@
     },
     {
       "developer": "FrostIncredible",
-      "icon": "https://github.com/fsufrosty/FrostBlur-Repo/raw/master/FrostIncredible.png",
-      "id": "frostincredible",
       "free": "true",
+      "id": "frostincredible",
+      "icon": "https://github.com/fsufrosty/FrostBlur-Repo/raw/master/FrostIncredible.png",
       "manifest": "https://github.com/fsufrosty/FrostBlur-Repo/raw/master/frostincredible.js",
       "roms": {
         "inc": "true"
@@ -1227,8 +1058,8 @@
     },
     {
       "developer": "MIUI",
-      "id": "g4rb4g3",
       "free": "true",
+      "id": "g4rb4g3",
       "manifest": "http://web15.public1.linz.at/files/miui-vision.js",
       "roms": {
         "vision": "true"
@@ -1248,8 +1079,8 @@
     },
     {
       "developer": "geeknik",
-      "id": "geeknikbrian",
       "free": "true",
+      "id": "geeknikbrian",
       "manifest": "http://totalnerdity.com/ROMManagerManifest/geeknik_manifest.js",
       "roms": {
         "fascinate": "true"
@@ -1258,8 +1089,8 @@
     },
     {
       "developer": "G-TabDevs",
-      "id": "gojimi",
       "free": "true",
+      "id": "gojimi",
       "manifest": "http://www.gojimi.com/gtabdevs/repo/ROMManager/gtabdevs-manifest.js",
       "roms": {
         "harmony": "true"
@@ -1268,9 +1099,9 @@
     },
     {
       "developer": "Google Apps",
-      "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
-      "id": "google",
       "free": "true",
+      "id": "google",
+      "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "roms": {
         "all": "true"
@@ -1279,21 +1110,21 @@
     },
     {
       "developer": "gtg465x",
-      "icon": "http://www.prism.gatech.edu/~gtg465x/ROMManagerManifest/icon.png",
-      "id": "gtg465x",
       "free": "true",
+      "id": "gtg465x",
+      "icon": "http://www.prism.gatech.edu/~gtg465x/ROMManagerManifest/icon.png",
       "manifest": "http://www.prism.gatech.edu/~gtg465x/ROMManagerManifest/gtg465x.js",
       "roms": {
-        "galaxys": "true",
-        "ace": "true"
+        "ace": "true",
+        "galaxys": "true"
       },
       "summary": "ROMs and hax by gtg465x"
     },
     {
       "developer": "Hamsterbread",
-      "icon": "http://dl.dropbox.com/u/10693833/Hamsters%20Rom/iconhamsterbread.png",
-      "id": "hamsterbread",
       "free": "true",
+      "id": "hamsterbread",
+      "icon": "http://dl.dropbox.com/u/10693833/Hamsters%20Rom/iconhamsterbread.png",
       "manifest": "https://github.com/Hamsterkacke/hamsterbread/raw/master/manifest.js",
       "roms": {
         "galaxys": "true"
@@ -1326,8 +1157,8 @@
     },
     {
       "developer": "HyperDroid",
-      "id": "hyperdroid",
       "free": "true",
+      "id": "hyperdroid",
       "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
       "roms": {
         "leo": "true"
@@ -1371,17 +1202,6 @@
       "summary": "Insanity Galaxy S I9000"
     },
     {
-      "developer": "Insanity - Extras",
-      "id": "insanity-extras",
-      "free": "true",
-      "manifest": "http://www.nfye.com/manifest.js",
-      "roms": {
-        "galaxys": "true",
-        "sholes": "true"
-      },
-      "summary": "Extras for Insanity ROM (Themes / Addons / Kernels / Apps)"
-    },
-    {
       "developer": "JMCyanbreadMod",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/396/b01189040f608fa16cc797e549f27cdc.png",
@@ -1401,17 +1221,6 @@
         "sholes": "true"
       },
       "summary": "Themes for multiple ROMs"
-    },
-    {
-      "developer": "Jamezelle",
-      "icon": "http://jamezelle.com/RomManagerManifest/jamezelle-RMicon.jpg",
-      "id": "jamezelle",
-      "free": "true",
-      "manifest": "http://jamezelle.com/RomManagerManifest/manifest.js",
-      "roms": {
-        "sholes": "true"
-      },
-      "summary": "ROMS and more for the Thunderbolt!"
     },
     {
       "developer": "Stock ROMs",
@@ -1447,9 +1256,9 @@
     },
     {
       "developer": "jcase",
-      "icon": "http://www.cunninglogic.com/android/jcase.png",
-      "id": "jcase",
       "free": "true",
+      "id": "jcase",
+      "icon": "http://www.cunninglogic.com/android/jcase.png",
       "manifest": "http://cunninglogic.com/android/jcasemanifest.js",
       "roms": {
         "mecha": "true"
@@ -1458,8 +1267,8 @@
     },
     {
       "developer": "jdlfg",
-      "id": "jdlfg",
       "free": "true",
+      "id": "jdlfg",
       "manifest": "http://dl.dropbox.com/u/6011176/jdlfg.js",
       "roms": {
         "sholes": "true",
@@ -1469,9 +1278,9 @@
     },
     {
       "developer": "Baked Snack",
-      "icon": "https://github.com/pcmac77/Baked-Snack-Manifest-for-ROM-Manager/raw/master/bs.png",
-      "id": "jdubzisfaded",
       "free": "true",
+      "id": "jdubzisfaded",
+      "icon": "https://github.com/pcmac77/Baked-Snack-Manifest-for-ROM-Manager/raw/master/bs.png",
       "manifest": "https://github.com/pcmac77/Baked-Snack-Manifest-for-ROM-Manager/raw/master/bs_manifest.js",
       "roms": {
         "supersonic": "true"
@@ -1511,17 +1320,6 @@
       "summary": "Stir Fry Chef"
     },
     {
-      "developer": "infin1ty",
-      "icon": "http://www.jonathongrigg.com/infin1ty/128x128logo.png",
-      "id": "jonathongrigg",
-      "free": "true",
-      "manifest": "http://www.jonathongrigg.com/infin1ty/ROMManagerManifest.js",
-      "roms": {
-        "crespo": "true"
-      },
-      "summary": "no limits AOSP based ROM with loads of tweaks"
-    },
-    {
       "developer": "jondevere@gmail.com",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/695/baaa677e69d0e0b6eaaa2d46f851e9e8.gif",
@@ -1534,8 +1332,8 @@
     },
     {
       "developer": "Pay87",
-      "id": "jpameli",
       "free": "true",
+      "id": "jpameli",
       "manifest": "http://android.jpameli.de/paysroms.js",
       "roms": {
         "bravo": "true"
@@ -1555,14 +1353,14 @@
     },
     {
       "developer": "Savaged-Zen",
-      "icon": "http://savaged-zen.github.com/RM-Manifest/icon.png",
-      "id": "jsseidel1",
       "free": "true",
+      "id": "jsseidel1",
+      "icon": "http://savaged-zen.github.com/RM-Manifest/icon.png",
       "manifest": "http://savaged-zen.github.com/RM-Manifest/manifest.js",
       "roms": {
         "glacier": "true",
-        "inc": "true",
-        "supersonic": "true"
+        "supersonic": "true",
+        "inc": "true"
       },
       "summary": "ROMs & kernels for HTC EVO 4G, Droid Incredible"
     },
@@ -1579,16 +1377,6 @@
       "summary": "jt1134"
     },
     {
-      "developer": "jt1134",
-      "id": "jt1134",
-      "free": "true",
-      "manifest": "http://deodexed.com/ROMManagerManifest/jt1134/jt1134.js",
-      "roms": {
-        "fascinate": "true"
-      },
-      "summary": "Super Clean ROM for Samsung Fascinate"
-    },
-    {
       "developer": "NexBreed ROMs",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/150/06f5d36ced5f4795548d594dc9388435.jpg",
@@ -1601,8 +1389,8 @@
     },
     {
       "developer": "GummyJAR",
-      "id": "kejar31",
       "free": "true",
+      "id": "kejar31",
       "manifest": "http://dl.dropbox.com/u/6927558/gummyjar.js",
       "roms": {
         "droid2": "true",
@@ -1655,35 +1443,13 @@
     },
     {
       "developer": "Conical Roms",
-      "id": "linuxmotion",
       "free": "true",
+      "id": "linuxmotion",
       "manifest": "http://thelinuxmotion.org/ClockworkMod/manifest.js",
       "roms": {
         "inc": "true"
       },
       "summary": "Source built Roms and themes from LinuxMotion"
-    },
-    {
-      "developer": "lllboredlll",
-      "icon": "http://www.htc-tweaker.com/IncROM/rm_icon.gif",
-      "id": "lllboredlll",
-      "free": "true",
-      "manifest": "http://htc-tweaker.com/IncROM/IncROM.js",
-      "roms": {
-        "mecha": "true",
-        "inc": "true"
-      },
-      "summary": "Creator of IncROM and ThunderROM"
-    },
-    {
-      "developer": "lyka",
-      "id": "lmaz",
-      "free": "true",
-      "manifest": "http://www.lucamazzilli.it/ROMS/lmaz.js",
-      "roms": {
-        "legend": "true"
-      },
-      "summary": "A Senseless and deodexed ROM with clean look and feel"
     },
     {
       "developer": "ROM FASTY",
@@ -1698,6 +1464,17 @@
       "summary": "FASTY ROM is a Unique Rom with best battery life,and  performance,and instant GPS lock .Please head to webproz.org for more info"
     },
     {
+      "developer": "Rom Fasty II",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/725/85d1624ec2c402064b2db693cd224cd0.png",
+      "id": "lostlogicaa@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/lostlogicaa@gmail.com/manifest",
+      "roms": {
+        "captivate": true
+      },
+      "summary": "Based on the latest gingerbread leak 2.3.4 for captivate, "
+    },
+    {
       "developer": "Saga LBC Mod",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/573/8bf50ca36993e1e97aa0bf47bcc8f043.png",
@@ -1707,15 +1484,6 @@
         "saga": true
       },
       "summary": "LoveBoatCaptain - Android Development"
-    },
-    {
-      "developer": "Smoked Glass-Esque",
-      "id": "m3kilpat",
-      "manifest": "http://m3kilpat.github.com/ROMManager/kilpat.js",
-      "roms": {
-        "sholes": "true"
-      },
-      "summary": "Smoked glass inspired themes that can be installed over CyanogenMod"
     },
     {
       "developer": "Magiman7",
@@ -1751,28 +1519,6 @@
         "harmony": true
       },
       "summary": "By maxdamage2122 Unmodified Cyanogenmod nightly kangs for the Viewsonic GTablet"
-    },
-    {
-      "developer": "-=MDJ's ViVO Sense=-",
-      "icon": "http://mdeejay.vpnonline.org/RomManagerManifest/logo.png",
-      "id": "mdj",
-      "free": "true",
-      "manifest": "http://mdeejay.vpnonline.org/RomManagerManifest/mdeejaymod.js",
-      "roms": {
-        "ace": "true"
-      },
-      "summary": "Mods and bacon for DHD"
-    },
-    {
-      "developer": "meLIanTQ",
-      "id": "meliantq",
-      "free": "true",
-      "manifest": "http://www.meliantq.net/android/rommanager/manifest.js",
-      "roms": {
-        "bravo": "true",
-        "hero": "true"
-      },
-      "summary": "Rom for your HTC."
     },
     {
       "developer": "metiCkOne",
@@ -1849,8 +1595,8 @@
         "captivate": true,
         "vibrant": true,
         "captivatemtd": true,
-        "galaxys2": true,
         "crespo": true,
+        "galaxys2": true,
         "inc": true,
         "vision": true,
         "galaxysmtd": true,
@@ -1882,6 +1628,7 @@
         "jordan": true,
         "captivatemtd": true,
         "speedy": true,
+        "galaxytab": true,
         "supersonic": true,
         "saga": true,
         "inc": true,
@@ -1908,8 +1655,8 @@
     },
     {
       "developer": "birdman",
-      "id": "mrbirdman",
       "free": "true",
+      "id": "mrbirdman",
       "manifest": "http://droid.co/birdman/birdman.js",
       "roms": {
         "droidx": "true"
@@ -1917,24 +1664,10 @@
       "summary": "DroidX Roms"
     },
     {
-      "developer": "MrBobrowitz",
-      "icon": "http://www.onix-android.com/rmpic.png",
-      "id": "mrbobrowitz",
-      "free": "true",
-      "manifest": "http://www.onix-android.com/mrbobrowitzmanifest.js",
-      "roms": {
-        "sholes": "true",
-        "mecha": "true",
-        "harmony": "true",
-        "droidx": "true"
-      },
-      "summary": "Roms Kernels, and Themes for Droid, Droid X, Gtablet and Thunderbolt"
-    },
-    {
       "developer": "myn",
-      "icon": "http://drmacinyasha.github.com/MynROMManagerManifest/icon.png",
-      "id": "myn",
       "free": "true",
+      "id": "myn",
+      "icon": "http://drmacinyasha.github.com/MynROMManagerManifest/icon.png",
       "manifest": "http://drmacinyasha.github.com/MynROMManagerManifest/manifest.js",
       "roms": {
         "supersonic": "true"
@@ -1963,24 +1696,24 @@
     },
     {
       "developer": "Pershoot",
-      "id": "pershoot",
       "free": "true",
+      "id": "pershoot",
       "manifest": "http://pershoot.github.com/ROMManagerManifest/pershoot.js",
       "roms": {
         "passion": "true",
         "magic": "true",
         "dream": "true",
         "sapphire": "true",
-        "vision": "true",
-        "harmony": "true"
+        "harmony": "true",
+        "vision": "true"
       },
       "summary": "Custom kernels and other awesomeness"
     },
     {
       "developer": "Peter Alfonso",
-      "id": "pete",
-      "free": "true",
       "icon": "http://wonderly.com/bb/WEBSITE/pete.jpg",
+      "free": "true",
+      "id": "pete",
       "manifest": "http://wonderly.com/bb/WEBSITE/pete.js",
       "roms": {
         "sholes": "true",
@@ -2002,16 +1735,6 @@
       "summary": "Bringing you the best of Android."
     },
     {
-      "developer": "Pinkolin - Pinky Desire",
-      "id": "pinkolin",
-      "free": "true",
-      "manifest": "http://pinky.netlab.cz/ftp/roms/manifest.js",
-      "roms": {
-        "bravo": "true"
-      },
-      "summary": "Pinkolin ROM's and extras for HTC Desire"
-    },
-    {
       "developer": "pirateghost",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/618/e651f76ee302b696b7e42ed966b612cf.jpg",
@@ -2021,16 +1744,6 @@
         "ace": true
       },
       "summary": "Inspire 4G ROMS and Add-ons"
-    },
-    {
-      "developer": "PirateRUM",
-      "id": "piraterum",
-      "free": "true",
-      "manifest": "http://piraten.boombuler.de/ROMManager/piraterum.php",
-      "roms": {
-        "bravo": "true"
-      },
-      "summary": "Fast and clean rom for HTC Desire"
     },
     {
       "developer": "ROMs by PlayfulGod",
@@ -2045,15 +1758,15 @@
     },
     {
       "developer": "t3hh4xx0r",
-      "icon": "http://omfgb.github.com/rommanager_manifest/icon.png",
-      "id": "r2d2",
       "free": "true",
+      "id": "r2d2",
+      "icon": "http://omfgb.github.com/rommanager_manifest/icon.png",
       "manifest": "http://omfgb.github.com/rommanager_manifest/manifest.js",
       "roms": {
         "desirec": "true",
         "mecha": "true",
-        "inc": "true",
-        "supersonic": "true"
+        "supersonic": "true",
+        "inc": "true"
       },
       "summary": "Formerly r2DoesInc, Check out the new stuff. "
     },
@@ -2074,8 +1787,8 @@
     },
     {
       "developer": "RichardTrip - DeFroST",
-      "id": "richardtrip",
       "free": "true",
+      "id": "richardtrip",
       "manifest": "http://www.pctrip.nl/DeFroST/manifest.js",
       "roms": {
         "bravo": "true"
@@ -2084,9 +1797,9 @@
     },
     {
       "developer": "roalex",
-      "icon": "http://k002.kiwi6.com/hotlink/1x4h2gin4z/cos_ds.png",
-      "id": "roalex",
       "free": "true",
+      "id": "roalex",
+      "icon": "http://k002.kiwi6.com/hotlink/1x4h2gin4z/cos_ds.png",
       "manifest": "http://dl.dropbox.com/u/14294263/cos-ds.js",
       "roms": {
         "magic": "true",
@@ -2140,20 +1853,9 @@
       "summary": "Seaders stable one, based on LEO 2.3.5 sources, tweaked with tablet-functions, audio/lights/sensor/gps fixes, custom settings and deleted/added/switched apps; incl. newest custom YES/NO recovery. http://bit.ly/nnx6qf for details."
     },
     {
-      "developer": "TB Roms",
-      "icon": "http://android.saraev.ca/download/rommanager/icon.png",
-      "id": "seo",
-      "free": "true",
-      "manifest": "http://android.saraev.ca/download/rommanager/manifest.js",
-      "roms": {
-        "ace": "true"
-      },
-      "summary": "ROMs for your HTC Desire HD"
-    },
-    {
       "developer": "Shawe",
-      "id": "shawe",
       "free": "true",
+      "id": "shawe",
       "manifest": "http://content.wuala.com/contents/shawe_ewahs/Publica/Android/ROM_Manager/manifest.js",
       "roms": {
         "bravo": "true"
@@ -2182,16 +1884,16 @@
     },
     {
       "developer": "Stock Images",
-      "id": "stock",
-      "icon": "http://koush.kanged.net/cm/test/n1.png",
       "free": "true",
+      "icon": "http://koush.kanged.net/cm/test/n1.png",
+      "id": "stock",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/stock.js",
       "roms": {
         "passion": "true",
         "sholes": "true",
-        "crespo": "true",
+        "droidx": "true",
         "harmony": "true",
-        "droidx": "true"
+        "crespo": "true"
       },
       "summary": "Revert back to stock phone images."
     },
@@ -2219,8 +1921,8 @@
     },
     {
       "developer": "Tedgy",
-      "id": "tedgy",
       "free": "true",
+      "id": "tedgy",
       "manifest": "http://www.tedgy.net/GalaxyS/tedgy.js",
       "roms": {
         "galaxys": "true"
@@ -2229,8 +1931,8 @@
     },
     {
       "developer": "NeoPhyTe",
-      "id": "the_neophyte",
       "free": "true",
+      "id": "the_neophyte",
       "manifest": "http://content.wuala.com/contents/NeoPhyTe.x360/Publica/Android/ROM_Manager/manifest.js",
       "roms": {
         "bravo": "true"
@@ -2271,9 +1973,9 @@
     },
     {
       "developer": "Tp4bama",
-      "icon": "http://yeagsmedia.com/android/tp4bama/RomManagerManifest/tpavatar2.png",
-      "id": "tp4bama",
       "free": "true",
+      "id": "tp4bama",
+      "icon": "http://yeagsmedia.com/android/tp4bama/RomManagerManifest/tpavatar2.png",
       "manifest": "http://yeagsmedia.com/android/tp4bama/RomManagerManifest/manifest.js",
       "roms": {
         "sholes": "true"
@@ -2282,8 +1984,8 @@
     },
     {
       "developer": "Trock79",
-      "id": "trock79",
       "free": "true",
+      "id": "trock79",
       "manifest": "http://dl.dropbox.com/u/12845382/trock.js",
       "roms": {
         "inc": "true"
@@ -2313,8 +2015,8 @@
     },
     {
       "developer": "Uncommon Sense",
-      "id": "uncommonsense",
       "free": "true",
+      "id": "uncommonsense",
       "manifest": "http://www.pcjock.com/uncommon/ROMManagerManifest/uncommon.js",
       "roms": {
         "inc": "true"
@@ -2342,8 +2044,8 @@
     },
     {
       "developer": "WJD Designs",
-      "id": "wjddesigns",
       "free": "true",
+      "id": "wjddesigns",
       "manifest": "http://www.wjddesigns.com/ROMManagerManifest/wjdmanifest.js",
       "roms": {
         "droidx": "true"
@@ -2352,8 +2054,8 @@
     },
     {
       "developer": "Droid Concepts",
-      "icon": "http://droidconcepts.macleod-web.net/Public_FTP/RomManager/droidconcepts_icon.png",
       "id": "woodyman",
+      "icon": "http://droidconcepts.macleod-web.net/Public_FTP/RomManager/droidconcepts_icon.png",
       "manifest": "http://droidconcepts.macleod-web.net/Public_FTP/RomManager/woody.js",
       "roms": {
         "sholes": "true"
@@ -2369,7 +2071,7 @@
       "roms": {
         "ideos": true
       },
-      "summary": "Best Rom's Compilation"
+      "summary": "I'm Back From Vacation"
     },
     {
       "developer": "Xboarder56",

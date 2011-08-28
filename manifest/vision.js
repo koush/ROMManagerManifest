@@ -1,14 +1,6 @@
 {
   "manifests": [
     {
-      "developer": "Troll Dev Team",
-      "icon": "http://img651.imageshack.us/img651/9139/trollfaced.png",
-      "id": "DanWilson",
-      "free": "true",
-      "manifest": "http://dl.dropbox.com/u/7700554/TrollogenMOD.js",
-      "summary": "Teh ROMs by the TDT"
-    },
-    {
       "developer": "PyroMod DevTeam Roms",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/289/f50f109fd0e925ebc88d9d0d350411c1.jpg",
@@ -18,39 +10,39 @@
     },
     {
       "developer": "CyanogenMod",
-      "icon": "http://koush.kanged.net/cm/test/cm2.png",
-      "id": "cyanogenmod",
       "free": "true",
+      "id": "cyanogenmod",
+      "icon": "http://koush.kanged.net/cm/test/cm2.png",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
       "summary": "Mods and bacon for your phone"
     },
     {
       "developer": "CyanogenMod Nightlies",
-      "icon": "http://koush.kanged.net/cm/test/tdr.png",
       "id": "cyanogenmodnightly",
+      "icon": "http://koush.kanged.net/cm/test/tdr.png",
       "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
     {
       "developer": "Extras",
-      "icon": "http://koush.kanged.net/cm/test/extras.png",
-      "id": "extras",
       "free": "true",
+      "id": "extras",
+      "icon": "http://koush.kanged.net/cm/test/extras.png",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
       "summary": "Cool stuffs."
     },
     {
       "developer": "MIUI",
-      "id": "g4rb4g3",
       "free": "true",
+      "id": "g4rb4g3",
       "manifest": "http://web15.public1.linz.at/files/miui-vision.js",
       "summary": "MIUI for HTC Vision"
     },
     {
       "developer": "Google Apps",
-      "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
-      "id": "google",
       "free": "true",
+      "id": "google",
+      "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
@@ -104,8 +96,8 @@
     },
     {
       "developer": "Pershoot",
-      "id": "pershoot",
       "free": "true",
+      "id": "pershoot",
       "manifest": "http://pershoot.github.com/ROMManagerManifest/pershoot.js",
       "summary": "Custom kernels and other awesomeness"
     },

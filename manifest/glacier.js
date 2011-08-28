@@ -6,7 +6,7 @@
       "icon": "http://romshare.deployfu.com/downloads/177/700bcfbb335a940d5d43aab2894d058d.jpg",
       "id": "Android-Maisters",
       "manifest": "http://romshare.deployfu.com/developer/Android-Maisters/manifest",
-      "summary": "http://android-maisters.ddns.net Roms latest and greatest!"
+      "summary": "My Roms latest and greatest!"
     },
     {
       "developer": "GreenRomProject",
@@ -26,24 +26,24 @@
     },
     {
       "developer": "CyanogenMod",
-      "icon": "http://koush.kanged.net/cm/test/cm2.png",
-      "id": "cyanogenmod",
       "free": "true",
+      "id": "cyanogenmod",
+      "icon": "http://koush.kanged.net/cm/test/cm2.png",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
       "summary": "Mods and bacon for your phone"
     },
     {
       "developer": "CyanogenMod Nightlies",
-      "icon": "http://koush.kanged.net/cm/test/tdr.png",
       "id": "cyanogenmodnightly",
+      "icon": "http://koush.kanged.net/cm/test/tdr.png",
       "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
     {
       "developer": "Extras",
-      "icon": "http://koush.kanged.net/cm/test/extras.png",
-      "id": "extras",
       "free": "true",
+      "id": "extras",
+      "icon": "http://koush.kanged.net/cm/test/extras.png",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
       "summary": "Cool stuffs."
     },
@@ -65,9 +65,9 @@
     },
     {
       "developer": "Google Apps",
-      "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
-      "id": "google",
       "free": "true",
+      "id": "google",
+      "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
@@ -81,9 +81,9 @@
     },
     {
       "developer": "Savaged-Zen",
-      "icon": "http://savaged-zen.github.com/RM-Manifest/icon.png",
-      "id": "jsseidel1",
       "free": "true",
+      "id": "jsseidel1",
+      "icon": "http://savaged-zen.github.com/RM-Manifest/icon.png",
       "manifest": "http://savaged-zen.github.com/RM-Manifest/manifest.js",
       "summary": "ROMs & kernels for HTC EVO 4G, Droid Incredible"
     },

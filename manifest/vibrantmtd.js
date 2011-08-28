@@ -1,17 +1,25 @@
 {
   "manifests": [
     {
+      "developer": "ngiordano75@gmail.com",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/636/7ab5b3bc307d3a3bf5e42ec2b09a234f.png",
+      "id": "NoFrills",
+      "manifest": "http://romshare.deployfu.com/developer/NoFrills/manifest",
+      "summary": "NoFrills-AOSP a Gingerbread ROM built for simplicity."
+    },
+    {
       "developer": "CyanogenMod",
-      "icon": "http://koush.kanged.net/cm/test/cm2.png",
-      "id": "cyanogenmod",
       "free": "true",
+      "id": "cyanogenmod",
+      "icon": "http://koush.kanged.net/cm/test/cm2.png",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
       "summary": "Mods and bacon for your phone"
     },
     {
       "developer": "CyanogenMod Nightlies",
-      "icon": "http://koush.kanged.net/cm/test/tdr.png",
       "id": "cyanogenmodnightly",
+      "icon": "http://koush.kanged.net/cm/test/tdr.png",
       "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
@@ -25,17 +33,17 @@
     },
     {
       "developer": "Extras",
-      "icon": "http://koush.kanged.net/cm/test/extras.png",
-      "id": "extras",
       "free": "true",
+      "id": "extras",
+      "icon": "http://koush.kanged.net/cm/test/extras.png",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
       "summary": "Cool stuffs."
     },
     {
       "developer": "Google Apps",
-      "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
-      "id": "google",
       "free": "true",
+      "id": "google",
+      "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
     },

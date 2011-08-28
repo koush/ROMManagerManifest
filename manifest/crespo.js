@@ -2,48 +2,48 @@
   "manifests": [
     {
       "developer": "Liquid Smooth Roms",
-      "icon": "http://android.jbroom.com/rommanager/LSRICON.png",
-      "id": "Liquid",
       "free": "true",
+      "id": "Liquid",
+      "icon": "http://android.jbroom.com/rommanager/LSRICON.png",
       "manifest": "http://android.jbroom.com/rommanager/manifest.js",
       "summary": "Source Built Gingerbread and Custom Tbolt Roms"
     },
     {
+      "developer": "MIUI.hu",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/722/6c020836957e6d84eaf0e747197e935a.png",
+      "id": "MIUI.hu",
+      "manifest": "http://romshare.deployfu.com/developer/MIUI.hu/manifest",
+      "summary": "MIUI magyar lokalizációja | miui.hu @ 2011"
+    },
+    {
       "developer": "Oxygen",
-      "icon": "http://download.oxygen.im/roms/ROMManagerManifest/icon.png",
-      "id": "adamg",
       "free": "true",
+      "id": "adamg",
+      "icon": "http://download.oxygen.im/roms/ROMManagerManifest/icon.png",
       "manifest": "http://download.oxygen.im/roms/ROMManagerManifest/oxygen.js",
       "summary": "Oxygen, clean and simple AOSP ROM"
     },
     {
-      "developer": "Amethyst",
-      "icon": "http://download.renandroid.com/amethyst_icon.png",
-      "id": "amethyst",
-      "free": "true",
-      "manifest": "http://download.renandroid.com/amethyst_manifest.js",
-      "summary": "Clean and fast AOSP ROM with some CM tweaks"
-    },
-    {
       "developer": "Blandroid",
-      "icon": "http://blandroid.org/rommanager-icon.png",
-      "id": "blandroid",
       "free": "true",
+      "id": "blandroid",
+      "icon": "http://blandroid.org/rommanager-icon.png",
       "manifest": "http://blandroid.org/rommanager-manifest.js",
       "summary": "Stable AOSP-based ROM"
     },
     {
       "developer": "CyanogenMod",
-      "icon": "http://koush.kanged.net/cm/test/cm2.png",
-      "id": "cyanogenmod",
       "free": "true",
+      "id": "cyanogenmod",
+      "icon": "http://koush.kanged.net/cm/test/cm2.png",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
       "summary": "Mods and bacon for your phone"
     },
     {
       "developer": "CyanogenMod Nightlies",
-      "icon": "http://koush.kanged.net/cm/test/tdr.png",
       "id": "cyanogenmodnightly",
+      "icon": "http://koush.kanged.net/cm/test/tdr.png",
       "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
@@ -57,25 +57,17 @@
     },
     {
       "developer": "Extras",
-      "icon": "http://koush.kanged.net/cm/test/extras.png",
-      "id": "extras",
       "free": "true",
+      "id": "extras",
+      "icon": "http://koush.kanged.net/cm/test/extras.png",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
       "summary": "Cool stuffs."
     },
     {
-      "developer": "NSCollab",
-      "icon": "http://studiousmedia.com/crespo/nscollabrm.png",
-      "id": "frank707",
-      "free": "true",
-      "manifest": "http://studiousmedia.com/crespo/nscollab.js",
-      "summary": "A best of both worlds rom for your Nexus S"
-    },
-    {
       "developer": "Google Apps",
-      "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
-      "id": "google",
       "free": "true",
+      "id": "google",
+      "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
@@ -86,14 +78,6 @@
       "id": "htcclay",
       "manifest": "http://romshare.deployfu.com/developer/htcclay/manifest",
       "summary": "Go Go Go!"
-    },
-    {
-      "developer": "infin1ty",
-      "icon": "http://www.jonathongrigg.com/infin1ty/128x128logo.png",
-      "id": "jonathongrigg",
-      "free": "true",
-      "manifest": "http://www.jonathongrigg.com/infin1ty/ROMManagerManifest.js",
-      "summary": "no limits AOSP based ROM with loads of tweaks"
     },
     {
       "developer": "NexBreed ROMs",
@@ -137,9 +121,9 @@
     },
     {
       "developer": "Stock Images",
-      "id": "stock",
-      "icon": "http://koush.kanged.net/cm/test/n1.png",
       "free": "true",
+      "icon": "http://koush.kanged.net/cm/test/n1.png",
+      "id": "stock",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/stock.js",
       "summary": "Revert back to stock phone images."
     }

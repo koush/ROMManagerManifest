@@ -1,14 +1,6 @@
 {
   "manifests": [
     {
-      "developer": "LeeDrOiD",
-      "icon": "http://leedroid.ftp.rshost.eu/Images/avatar_small.png",
-      "id": "LeeDrOiD",
-      "free": "true",
-      "manifest": "http://leedroid.ftp.rshost.eu/LeeDrOiD.js",
-      "summary": "Sense Rom's, Kernel's & Goodie's"
-    },
-    {
       "developer": "aosp",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/322/c97732b0067d16ccf420f20f78b8f36a.png",
@@ -26,17 +18,17 @@
     },
     {
       "developer": "Extras",
-      "icon": "http://koush.kanged.net/cm/test/extras.png",
-      "id": "extras",
       "free": "true",
+      "id": "extras",
+      "icon": "http://koush.kanged.net/cm/test/extras.png",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
       "summary": "Cool stuffs."
     },
     {
       "developer": "Google Apps",
-      "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
-      "id": "google",
       "free": "true",
+      "id": "google",
+      "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
     },

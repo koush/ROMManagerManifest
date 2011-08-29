@@ -1061,7 +1061,7 @@
     {
       "name": "Micromax A70",
       "version": "4.0.1.5",
-      "init": "init.a70.rc",
+      "init": "init.qcom.rc",
       "key": "a70"
     },
     {

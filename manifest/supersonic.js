@@ -15,6 +15,14 @@
       "summary": "OMJ's HTC EVO ROMs"
     },
     {
+      "developer": "SinisterTensai",
+      "icon": "http://sinister.tensailabs.com/Sinister_Rom/SinisterIcon.png",
+      "id": "SinisterTensai",
+      "free": "true",
+      "manifest": "http://sinister.tensailabs.com/Sinister_Rom/Romlist.js",
+      "summary": "Sinister Speeds, Sinister Looks"
+    },
+    {
       "developer": "cvpcs",
       "free": "true",
       "id": "cvpcs",

@@ -312,6 +312,17 @@
       "summary": "CAE Moderator "
     },
     {
+      "developer": "SinisterTensai",
+      "icon": "http://sinister.tensailabs.com/Sinister_Rom/SinisterIcon.png",
+      "id": "SinisterTensai",
+      "free": "true",
+      "manifest": "http://sinister.tensailabs.com/Sinister_Rom/Romlist.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "Sinister Speeds, Sinister Looks"
+    },
+    {
       "developer": "SlashDW",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/567/2b481fc258e2308c90e8d76917141340.png",
@@ -852,16 +863,6 @@
       "summary": "The latest stock CyanogenMod 7 Desire (bravo) base ported to HD2 with the minimal amount of changes required.  No custom apps are included.  Visit the ROM's thread @ xda: http://forum.xda-developers.com/showthread.php?t=933951 ."
     },
     {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
-    },
-    {
       "developer": "DrewGaren Roms",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -873,6 +874,16 @@
         "crespo": true
       },
       "summary": "Custom Roms and Themes for your Device"
+    },
+    {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",

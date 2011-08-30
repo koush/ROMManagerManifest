@@ -260,7 +260,7 @@
       "summary": "Roms, themes, and more!"
     },
     {
-      "developer": "NoFrills-AOSP",
+      "developer": "ngiordano75@gmail.com",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/636/7ab5b3bc307d3a3bf5e42ec2b09a234f.png",
       "id": "NoFrills",
@@ -302,25 +302,14 @@
       "summary": "AmbrosialROMS: Bringing More Sizzle to the Bacon!"
     },
     {
-      "developer": "Complete Android Experience ",
+      "developer": "Sami Beck",
       "free": true,
       "id": "SamSamoon",
       "manifest": "http://romshare.deployfu.com/developer/SamSamoon/manifest",
       "roms": {
         "blade": true
       },
-      "summary": "Gingerbread ROM By Sami Beck"
-    },
-    {
-      "developer": "SinisterTensai Rom for HTC Evo",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/400/29a8f50929b1d09f36fde793c9ff2943.png",
-      "id": "SinisterTensai",
-      "manifest": "http://sinister.tensailabs.com/Sinister_Rom/Romlist.js",
-      "roms": {
-        "supersonic": true
-      },
-      "summary": "Sinister Speeds Sinister look's"
+      "summary": "CAE Moderator "
     },
     {
       "developer": "SinisterTensai",
@@ -925,8 +914,7 @@
       "id": "eagleblood",
       "manifest": "http://romshare.deployfu.com/developer/eagleblood/manifest",
       "roms": {
-        "p999": true,
-        "pyramid": true
+        "p999": true
       },
       "summary": "Eagleblood Roms Fast/Stable/Clean"
     },
@@ -1443,16 +1431,6 @@
         "thunderg": true
       },
       "summary": "kiril.mik.os@gmail.com"
-    },
-    {
-      "developer": "koush@koushikdutta.com",
-      "free": true,
-      "id": "koush@koushikdutta.com",
-      "manifest": "http://romshare.deployfu.com/developer/koush@koushikdutta.com/manifest",
-      "roms": {
-        "crespo": true
-      },
-      "summary": "koush@koushikdutta.com"
     },
     {
       "developer": "KrazyKrivda",
@@ -2120,7 +2098,7 @@
         "p999": true,
         "vision": true
       },
-      "summary": "Xboarder56 :D"
+      "summary": "Rooted Stock OTA and Tweaked OTA. Enjoy..."
     },
     {
       "developer": "Ginger yoshi ^_^",

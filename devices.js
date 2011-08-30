@@ -892,11 +892,12 @@
     },
     {
       "name": "Nexus S 4G",
-      "version": "3.1.0.1",
+      "version": "5.0.0.0",
       "init": "init.herring.rc",
       "legacy_versions": [
         "3.1.0.0",
-        "3.1.0.0"
+        "3.1.0.0",
+        "3.1.0.1"
       ],
       "key": "crespo4g"
     },
@@ -1041,8 +1042,11 @@
     {
       "name": "HTC EVO 3D",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=262144 ; ",
-      "version": "4.0.1.5",
+      "version": "5.0.0.0",
       "init": "init.shooter.rc",
+      "legacy_versions": [
+        "4.0.1.5"
+      ],
       "key": "shooter"
     },
     {

@@ -566,7 +566,7 @@
             "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-NS-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
-            "label": "testy mctesterson",
+            "label": "Release Candidates",
             "addons": [
                 {
                     "name": "Google Apps",

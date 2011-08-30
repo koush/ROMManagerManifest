@@ -874,17 +874,6 @@
         "mecha": "true"
       },
       "summary": "Supercharged Roms"
-    },
-    {
-        "developer": "SinisterTensai",
-        "free": "true",
-        "id": "SinisterTensai",
-        "icon": "http://sinister.tensailabs.com/Sinister_Rom/SinisterIcon.png",
-        "manifest": "http://sinister.tensailabs.com/Sinister_Rom/Romlist.js",
-        "roms": {
-            "supersonic": "true" 
-        },
-        "summary": "Sinister Speeds, Sinister Looks" 
     }
   ],
   "minversion": "4322"

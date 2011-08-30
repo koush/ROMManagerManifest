@@ -260,7 +260,7 @@
       "summary": "Roms, themes, and more!"
     },
     {
-      "developer": "ngiordano75@gmail.com",
+      "developer": "NoFrills-AOSP",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/636/7ab5b3bc307d3a3bf5e42ec2b09a234f.png",
       "id": "NoFrills",
@@ -302,25 +302,25 @@
       "summary": "AmbrosialROMS: Bringing More Sizzle to the Bacon!"
     },
     {
-      "developer": "Sami Beck",
+      "developer": "Complete Android Experience ",
       "free": true,
       "id": "SamSamoon",
       "manifest": "http://romshare.deployfu.com/developer/SamSamoon/manifest",
       "roms": {
         "blade": true
       },
-      "summary": "CAE Moderator "
+      "summary": "Gingerbread ROM By Sami Beck"
     },
     {
-      "developer": "SinisterTensai",
-      "icon": "http://sinister.tensailabs.com/Sinister_Rom/SinisterIcon.png",
+      "developer": "SinisterTensai Rom for HTC Evo",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/400/29a8f50929b1d09f36fde793c9ff2943.png",
       "id": "SinisterTensai",
-      "free": "true",
       "manifest": "http://sinister.tensailabs.com/Sinister_Rom/Romlist.js",
       "roms": {
-        "supersonic": "true"
+        "supersonic": true
       },
-      "summary": "Sinister Speeds, Sinister Looks"
+      "summary": "Sinister Speeds Sinister look's"
     },
     {
       "developer": "SlashDW",
@@ -914,20 +914,10 @@
       "id": "eagleblood",
       "manifest": "http://romshare.deployfu.com/developer/eagleblood/manifest",
       "roms": {
-        "p999": true
+        "p999": true,
+        "pyramid": true
       },
       "summary": "Eagleblood Roms Fast/Stable/Clean"
-    },
-    {
-      "developer": "Salvage-Mod Nightlies",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
     },
     {
       "developer": "Salvage-Mod",
@@ -939,6 +929,17 @@
         "supersonic": "true"
       },
       "summary": "GB source build. Group project."
+    },
+    {
+      "developer": "Salvage-Mod Nightlies",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -1811,6 +1812,16 @@
       "summary": "DeFroST for HTC Desire"
     },
     {
+      "developer": "ricksterling21@gmail.com",
+      "free": true,
+      "id": "ricksterling21@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/ricksterling21@gmail.com/manifest",
+      "roms": {
+        "galaxys4g": true
+      },
+      "summary": "ricksterling21@gmail.com"
+    },
+    {
       "developer": "roalex",
       "free": "true",
       "id": "roalex",
@@ -2098,7 +2109,7 @@
         "p999": true,
         "vision": true
       },
-      "summary": "Rooted Stock OTA and Tweaked OTA. Enjoy..."
+      "summary": "Xboarder56 :D"
     },
     {
       "developer": "Ginger yoshi ^_^",

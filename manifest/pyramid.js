@@ -9,6 +9,14 @@
       "summary": "aosp4u@gmail.com"
     },
     {
+      "developer": "doniqcc",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/718/9c3899d3bf007a79e4bab261fad0c501.jpg",
+      "id": "eagleblood",
+      "manifest": "http://romshare.deployfu.com/developer/eagleblood/manifest",
+      "summary": "Eagleblood Roms Fast/Stable/Clean"
+    },
+    {
       "developer": "Einherjar Dev",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/25/31d8c04d2622249a93100ffc1ed40a17.png",

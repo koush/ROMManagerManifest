@@ -22,6 +22,13 @@
       "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
+    },
+    {
+      "developer": "ricksterling21@gmail.com",
+      "free": true,
+      "id": "ricksterling21@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/ricksterling21@gmail.com/manifest",
+      "summary": "ricksterling21@gmail.com"
     }
   ],
   "minversion": "4322"

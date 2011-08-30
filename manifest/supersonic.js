@@ -15,12 +15,12 @@
       "summary": "OMJ's HTC EVO ROMs"
     },
     {
-      "developer": "SinisterTensai",
-      "icon": "http://sinister.tensailabs.com/Sinister_Rom/SinisterIcon.png",
+      "developer": "SinisterTensai Rom for HTC Evo",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/400/29a8f50929b1d09f36fde793c9ff2943.png",
       "id": "SinisterTensai",
-      "free": "true",
       "manifest": "http://sinister.tensailabs.com/Sinister_Rom/Romlist.js",
-      "summary": "Sinister Speeds, Sinister Looks"
+      "summary": "Sinister Speeds Sinister look's"
     },
     {
       "developer": "cvpcs",
@@ -54,20 +54,20 @@
       "summary": "Updates for stock ROMs, radio, hboot"
     },
     {
-      "developer": "Salvage-Mod Nightlies",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
-      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
-    },
-    {
       "developer": "Salvage-Mod",
       "free": "true",
       "id": "echo17",
       "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
       "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
       "summary": "GB source build. Group project."
+    },
+    {
+      "developer": "Salvage-Mod Nightlies",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
+      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
     },
     {
       "developer": "Extras",

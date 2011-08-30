@@ -88,6 +88,13 @@
       "summary": "fastest gingerbread roms available for the nexus s."
     },
     {
+      "developer": "koush@koushikdutta.com",
+      "free": true,
+      "id": "koush@koushikdutta.com",
+      "manifest": "http://romshare.deployfu.com/developer/koush@koushikdutta.com/manifest",
+      "summary": "koush@koushikdutta.com"
+    },
+    {
       "developer": "MIUI Android",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",

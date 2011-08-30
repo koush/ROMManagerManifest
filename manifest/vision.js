@@ -131,7 +131,7 @@
       "icon": "http://romshare.deployfu.com/downloads/663/402e31bd0ad3f6f57f92d29c291c52d7.jpg",
       "id": "xboarder56",
       "manifest": "http://romshare.deployfu.com/developer/xboarder56/manifest",
-      "summary": "Rooted Stock OTA and Tweaked OTA. Enjoy..."
+      "summary": "Xboarder56 :D"
     }
   ],
   "minversion": "4322"

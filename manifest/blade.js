@@ -1,11 +1,11 @@
 {
   "manifests": [
     {
-      "developer": "Sami Beck",
+      "developer": "Complete Android Experience ",
       "free": true,
       "id": "SamSamoon",
       "manifest": "http://romshare.deployfu.com/developer/SamSamoon/manifest",
-      "summary": "CAE Moderator "
+      "summary": "Gingerbread ROM By Sami Beck"
     },
     {
       "developer": "Sapo a5 Blog Team",

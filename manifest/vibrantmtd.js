@@ -1,7 +1,7 @@
 {
   "manifests": [
     {
-      "developer": "ngiordano75@gmail.com",
+      "developer": "NoFrills-AOSP",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/636/7ab5b3bc307d3a3bf5e42ec2b09a234f.png",
       "id": "NoFrills",

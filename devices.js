@@ -122,7 +122,7 @@
     },
     {
       "name": "HTC Evo (CDMA)",
-      "version": "3.0.0.5",
+      "version": "5.0.0.0",
       "init": "init.supersonic.rc",
       "alternate_recovery": {
         "name": "RA Recovery v2.3",
@@ -133,7 +133,8 @@
         "2.5.0.7",
         "3.0.0.5",
         "3.0.0.4",
-        "3.0.0.3"
+        "3.0.0.3",
+        "3.0.0.5"
       ],
       "key": "supersonic"
     },
@@ -152,14 +153,15 @@
     },
     {
       "name": "HTC Desire",
-      "version": "2.5.0.7",
+      "version": "5.0.0.0",
       "readonly_recovery": true,
       "init": "init.bravo.rc",
       "legacy_versions": [
         "2.5.0.7",
         "2.5.1.4",
         "2.5.1.3",
-        "2.5.1.1"
+        "2.5.1.1",
+        "2.5.0.7"
       ],
       "key": "bravo"
     },
@@ -190,7 +192,7 @@
     },
     {
       "name": "HTC Incredible (CDMA)",
-      "version": "3.0.0.8",
+      "version": "5.0.0.0",
       "init": "init.inc.rc",
       "alternate_recovery": {
         "name": "RA_GNM Recovery v2.2.1",
@@ -201,7 +203,8 @@
         "3.0.0.8",
         "3.0.0.7",
         "3.0.0.6",
-        "3.0.0.5"
+        "3.0.0.5",
+        "3.0.0.8"
       ],
       "key": "inc"
     },
@@ -1088,6 +1091,13 @@
       "readonly_recovery": true,
       "init": "init.smdkc110.rc",
       "key": "indulge915"
+    },
+    {
+      "name": "LGE Black",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p4 bs=4096 ; ",
+      "version": "5.0.0.0",
+      "init": "/bootimages/ON_480x800_08fps_0000.rle",
+      "key": "p970"
     }
   ],
   "use_in_app": false,

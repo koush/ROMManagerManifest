@@ -1059,8 +1059,11 @@
     {
       "name": "HTC Sensation",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=262144 ; ",
-      "version": "4.0.1.5",
+      "version": "5.0.0.1",
       "init": "init.pyramid.rc",
+      "legacy_versions": [
+        "4.0.1.5"
+      ],
       "key": "pyramid"
     },
     {
@@ -1099,8 +1102,11 @@
     {
       "name": "LGE Black",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p4 bs=4096 ; ",
-      "version": "5.0.0.0",
+      "version": "5.0.0.1",
       "init": "/bootimages/ON_480x800_08fps_0000.rle",
+      "legacy_versions": [
+        "5.0.0.0"
+      ],
       "key": "p970"
     }
   ],

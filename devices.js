@@ -72,13 +72,14 @@
     },
     {
       "name": "Google Nexus One (GSM)",
-      "version": "3.0.0.5",
+      "version": "5.0.0.1",
       "init": "init.mahimahi.rc",
       "legacy_versions": [
         "3.0.0.5",
         "2.5.1.4",
         "2.5.1.3",
-        "2.5.1.1"
+        "2.5.1.1",
+        "3.0.0.5"
       ],
       "alternate_recovery": {
         "name": "RA Recovery v2.2.1",
@@ -478,13 +479,14 @@
     },
     {
       "name": "Motorola Cliq",
-      "version": "2.5.1.2",
+      "version": "5.0.0.1",
       "init": "init.morrison.rc",
       "legacy_versions": [
         "2.5.1.2",
         "2.5.1.4",
         "2.5.1.3",
-        "2.5.1.1"
+        "2.5.1.1",
+        "2.5.1.2"
       ],
       "key": "morrison"
     },

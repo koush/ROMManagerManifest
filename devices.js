@@ -395,11 +395,12 @@
       "name": "Droid X (2nd-init)",
       "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
       "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
-      "version": "4.0.0.5",
+      "version": "5.0.0.7",
       "init": "init.mapphone_cdma.rc",
       "readonly_recovery": true,
       "legacy_versions": [
-        "4.0.0.4"
+        "4.0.0.4",
+        "4.0.0.5"
       ],
       "key": "shadow"
     },
@@ -499,14 +500,15 @@
     {
       "name": "Motorola Droid 2",
       "reboot_recovery": "echo 1 > /data/.recovery_mode ; sync ; reboot ;",
-      "version": "2.5.0.8",
+      "version": "5.0.0.7",
       "init": "init.mapphone_cdma.rc",
       "readonly_recovery": true,
       "legacy_versions": [
         "2.5.0.8",
         "2.5.1.4",
         "2.5.1.3",
-        "2.5.1.1"
+        "2.5.1.1",
+        "2.5.0.8"
       ],
       "key": "droid2"
     },

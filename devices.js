@@ -512,6 +512,7 @@
     {
       "name": "Motorola Droid 2",
       "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
+      "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
       "version": "5.0.0.8",
       "init": "init.mapphone_cdma.rc",
       "readonly_recovery": true,

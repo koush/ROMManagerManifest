@@ -164,7 +164,6 @@
       "name": "HTC Desire",
       "version": "5.0.1.0",
       "init": "init.bravo.rc",
-      "readonly_recovery": true,
       "legacy_versions": [
         "2.5.0.7",
         "2.5.1.4",
@@ -180,7 +179,6 @@
       "name": "HTC Desire CDMA",
       "version": "5.0.1.0",
       "init": "init.bravoc.rc",
-      "readonly_recovery": true,
       "legacy_versions": [
         "2.5.0.9",
         "2.5.1.4",

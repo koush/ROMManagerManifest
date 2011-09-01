@@ -33,5 +33,5 @@
       "summary": "Ports of Cyanogenmod for the Backflip (be sure to flash the latest universal gapps .zip file after flashing Cyanogenmod)"
     }
   ],
-  "minversion": "4322"
+  "minversion": "4403"
 }

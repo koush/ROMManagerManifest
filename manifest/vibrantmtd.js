@@ -96,5 +96,5 @@
       "summary": "Bringing you the best of Android."
     }
   ],
-  "minversion": "4322"
+  "minversion": "4403"
 }

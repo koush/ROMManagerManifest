@@ -167,6 +167,17 @@
       "summary": "Custom HTC Sense Froyo ROMs for HTC Desire."
     },
     {
+      "developer": "ILWT CM7 Mod",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/739/5082b2ff853e68dd2d77c605b6d6aa93.gif",
+      "id": "ILWT",
+      "manifest": "http://romshare.deployfu.com/developer/ILWT/manifest",
+      "roms": {
+        "vision": true
+      },
+      "summary": "ILWT's CM7 Nightly with Virtuous OC Daemon and pershoot kernel"
+    },
+    {
       "developer": "JsinLegacy",
       "free": "true",
       "id": "JsinLegacy",
@@ -210,6 +221,19 @@
         "dream": true
       },
       "summary": "SenseLX"
+    },
+    {
+      "developer": "LeeDrOiD",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/676/606ba794a3c9458b463d87cfd1642fa1.png",
+      "id": "LeeDrOiD",
+      "manifest": "http://leedroid.ftp.rshost.eu/LeeDrOiD.js",
+      "roms": {
+        "bravo": true,
+        "ace": true,
+        "pyramid": true
+      },
+      "summary": "LeeDrOiD Sense roms & Kernels"
     },
     {
       "developer": "Liquid Smooth Roms",
@@ -312,11 +336,11 @@
       "summary": "Gingerbread ROM By Sami Beck"
     },
     {
-      "developer": "SinisterTensai Rom for HTC Evo",
+      "developer": "Sinister ROM",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/400/29a8f50929b1d09f36fde793c9ff2943.png",
       "id": "SinisterTensai",
-      "manifest": "http://sinister.tensailabs.com/Sinister_Rom/Romlist.js",
+      "manifest": "http://sinister.goo-inside.me/Romlist.js",
       "roms": {
         "supersonic": true
       },
@@ -1879,6 +1903,17 @@
       "summary": "Seaders stable one, based on LEO 2.3.5 sources, tweaked with tablet-functions, audio/lights/sensor/gps fixes, custom settings and deleted/added/switched apps; incl. newest custom YES/NO recovery. http://bit.ly/nnx6qf for details."
     },
     {
+      "developer": "TB Roms",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/736/74af8c0f0063722b0317c47fd1c49a95.png",
+      "id": "seo",
+      "manifest": "http://android.saraev.ca/download/rommanager/manifest.js",
+      "roms": {
+        "ace": true
+      },
+      "summary": "ROMs for your HTC Desire HD"
+    },
+    {
       "developer": "Shawe",
       "free": "true",
       "id": "shawe",
@@ -2107,6 +2142,7 @@
       "manifest": "http://romshare.deployfu.com/developer/xboarder56/manifest",
       "roms": {
         "p999": true,
+        "pyramid": true,
         "vision": true
       },
       "summary": "Xboarder56 :D"
@@ -2124,5 +2160,5 @@
       "summary": "all the ginger yoshi roms "
     }
   ],
-  "minversion": "4322"
+  "minversion": "4403"
 }

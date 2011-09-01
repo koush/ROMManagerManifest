@@ -25,5 +25,5 @@
       "summary": "sduvick"
     }
   ],
-  "minversion": "4322"
+  "minversion": "4403"
 }

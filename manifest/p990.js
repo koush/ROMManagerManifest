@@ -64,5 +64,5 @@
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
     }
   ],
-  "minversion": "4322"
+  "minversion": "4403"
 }

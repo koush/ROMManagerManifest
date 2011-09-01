@@ -15,11 +15,11 @@
       "summary": "OMJ's HTC EVO ROMs"
     },
     {
-      "developer": "SinisterTensai Rom for HTC Evo",
+      "developer": "Sinister ROM",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/400/29a8f50929b1d09f36fde793c9ff2943.png",
       "id": "SinisterTensai",
-      "manifest": "http://sinister.tensailabs.com/Sinister_Rom/Romlist.js",
+      "manifest": "http://sinister.goo-inside.me/Romlist.js",
       "summary": "Sinister Speeds Sinister look's"
     },
     {
@@ -156,5 +156,5 @@
       "summary": "Stock ROM with a ton of bloatware removed and some added sexiness"
     }
   ],
-  "minversion": "4322"
+  "minversion": "4403"
 }

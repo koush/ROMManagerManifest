@@ -33,5 +33,5 @@
       "summary": "I'm Back From Vacation"
     }
   ],
-  "minversion": "4322"
+  "minversion": "4403"
 }

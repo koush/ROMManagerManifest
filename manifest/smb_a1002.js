@@ -40,5 +40,5 @@
       "summary": "By maxdamage2122 Unmodified Cyanogenmod nightly kangs for the Viewsonic GTablet"
     }
   ],
-  "minversion": "4322"
+  "minversion": "4403"
 }

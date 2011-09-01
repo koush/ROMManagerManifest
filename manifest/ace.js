@@ -17,6 +17,14 @@
       "summary": "Honeyteam presents fully Sense 3.0 with themes see our thread on XDA for more information"
     },
     {
+      "developer": "LeeDrOiD",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/676/606ba794a3c9458b463d87cfd1642fa1.png",
+      "id": "LeeDrOiD",
+      "manifest": "http://leedroid.ftp.rshost.eu/LeeDrOiD.js",
+      "summary": "LeeDrOiD Sense roms & Kernels"
+    },
+    {
       "developer": "TeamRC",
       "free": "true",
       "id": "capychimp",
@@ -112,6 +120,14 @@
       "summary": "Inspire 4G ROMS and Add-ons"
     },
     {
+      "developer": "TB Roms",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/736/74af8c0f0063722b0317c47fd1c49a95.png",
+      "id": "seo",
+      "manifest": "http://android.saraev.ca/download/rommanager/manifest.js",
+      "summary": "ROMs for your HTC Desire HD"
+    },
+    {
       "developer": "Virtuous",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/63/8671cc6cf6379f1baf69c14ca9138910.png",
@@ -120,5 +136,5 @@
       "summary": "Enhanced Sense ROMs and more from the Virtuous Team."
     }
   ],
-  "minversion": "4322"
+  "minversion": "4403"
 }

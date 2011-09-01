@@ -56,5 +56,5 @@
       "summary": "www.peteralfonso.com\nwww.twitter.com/peteralfonso"
     }
   ],
-  "minversion": "4322"
+  "minversion": "4403"
 }

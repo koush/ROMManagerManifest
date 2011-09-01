@@ -47,5 +47,5 @@
       "summary": "Just uploading various roms for other EVO 3D users, will not accept donations for others work and will not provide support"
     }
   ],
-  "minversion": "4322"
+  "minversion": "4403"
 }

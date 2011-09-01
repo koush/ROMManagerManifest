@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+      "developer": "LeeDrOiD",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/676/606ba794a3c9458b463d87cfd1642fa1.png",
+      "id": "LeeDrOiD",
+      "manifest": "http://leedroid.ftp.rshost.eu/LeeDrOiD.js",
+      "summary": "LeeDrOiD Sense roms & Kernels"
+    },
+    {
       "developer": "aosp",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/322/c97732b0067d16ccf420f20f78b8f36a.png",
@@ -55,7 +63,15 @@
       "id": "virtuous",
       "manifest": "http://files.virtuousrom.com/virtuous.js",
       "summary": "Enhanced Sense ROMs and more from the Virtuous Team."
+    },
+    {
+      "developer": "Xboarder56",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/663/402e31bd0ad3f6f57f92d29c291c52d7.jpg",
+      "id": "xboarder56",
+      "manifest": "http://romshare.deployfu.com/developer/xboarder56/manifest",
+      "summary": "Xboarder56 :D"
     }
   ],
-  "minversion": "4322"
+  "minversion": "4403"
 }

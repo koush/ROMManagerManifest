@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+      "developer": "ILWT CM7 Mod",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/739/5082b2ff853e68dd2d77c605b6d6aa93.gif",
+      "id": "ILWT",
+      "manifest": "http://romshare.deployfu.com/developer/ILWT/manifest",
+      "summary": "ILWT's CM7 Nightly with Virtuous OC Daemon and pershoot kernel"
+    },
+    {
       "developer": "PyroMod DevTeam Roms",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/289/f50f109fd0e925ebc88d9d0d350411c1.jpg",
@@ -134,5 +142,5 @@
       "summary": "Xboarder56 :D"
     }
   ],
-  "minversion": "4322"
+  "minversion": "4403"
 }

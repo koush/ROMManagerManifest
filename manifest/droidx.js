@@ -142,5 +142,5 @@
       "summary": "Mods for the DroidX"
     }
   ],
-  "minversion": "4322"
+  "minversion": "4403"
 }

@@ -8,6 +8,14 @@
       "summary": "Custom HTC Sense Froyo ROMs for HTC Desire."
     },
     {
+      "developer": "LeeDrOiD",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/676/606ba794a3c9458b463d87cfd1642fa1.png",
+      "id": "LeeDrOiD",
+      "manifest": "http://leedroid.ftp.rshost.eu/LeeDrOiD.js",
+      "summary": "LeeDrOiD Sense roms & Kernels"
+    },
+    {
       "developer": "Oxygen",
       "free": "true",
       "id": "adamg",
@@ -123,5 +131,5 @@
       "summary": "Modded ROM's HTC Desire"
     }
   ],
-  "minversion": "4322"
+  "minversion": "4403"
 }

@@ -95,5 +95,5 @@
       "summary": "Seaders stable one, based on LEO 2.3.5 sources, tweaked with tablet-functions, audio/lights/sensor/gps fixes, custom settings and deleted/added/switched apps; incl. newest custom YES/NO recovery. http://bit.ly/nnx6qf for details."
     }
   ],
-  "minversion": "4322"
+  "minversion": "4403"
 }

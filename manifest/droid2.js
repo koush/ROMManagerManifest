@@ -93,5 +93,5 @@
       "summary": "AOSP Source Built ROMs, MODs & Tweaks"
     }
   ],
-  "minversion": "4322"
+  "minversion": "4403"
 }

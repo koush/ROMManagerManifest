@@ -41,5 +41,5 @@
       "summary": "Enhanced Sense ROMs and more from the Virtuous Team."
     }
   ],
-  "minversion": "4322"
+  "minversion": "4403"
 }

@@ -49,5 +49,5 @@
       "summary": "CyanogenMod Nightly builds. tpruvot@github"
     }
   ],
-  "minversion": "4322"
+  "minversion": "4403"
 }

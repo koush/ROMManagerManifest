@@ -87,5 +87,5 @@
       "summary": "all the ginger yoshi roms "
     }
   ],
-  "minversion": "4322"
+  "minversion": "4403"
 }

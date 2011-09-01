@@ -25,5 +25,5 @@
       "summary": "CM7-Ascend, PlayfulMod"
     }
   ],
-  "minversion": "4322"
+  "minversion": "4403"
 }

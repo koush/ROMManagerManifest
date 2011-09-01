@@ -137,5 +137,5 @@
       "summary": "Revert back to stock phone images."
     }
   ],
-  "minversion": "4322"
+  "minversion": "4403"
 }

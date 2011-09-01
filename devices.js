@@ -821,7 +821,7 @@
     },
     {
       "name": "HTC Thunderbolt",
-      "version": "5.0.0.1",
+      "version": "5.0.0.8",
       "init": "init.mecha.rc",
       "legacy_versions": [
         "3.0.2.5",
@@ -831,7 +831,8 @@
         "3.0.2.5",
         "3.1.0.1",
         "3.1.0.2",
-        "4.0.1.5"
+        "4.0.1.5",
+        "5.0.0.1"
       ],
       "key": "mecha"
     },
@@ -1077,11 +1078,12 @@
     {
       "name": "HTC Sensation",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=262144 ; ",
-      "version": "5.0.0.7",
+      "version": "5.0.0.8",
       "init": "init.pyramid.rc",
       "legacy_versions": [
         "4.0.1.5",
-        "5.0.0.1"
+        "5.0.0.1",
+        "5.0.0.7"
       ],
       "key": "pyramid"
     },

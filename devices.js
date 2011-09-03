@@ -455,7 +455,7 @@
     },
     {
       "name": "HTC G2",
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=262144 ; ",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 ; ",
       "version": "5.0.1.0",
       "init": "init.vision.rc",
       "legacy_versions": [
@@ -471,7 +471,7 @@
     },
     {
       "name": "HTC MyTouch 4G",
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=262144 ; ",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 ; ",
       "version": "5.0.1.0",
       "init": "init.glacier.rc",
       "legacy_versions": [
@@ -487,7 +487,7 @@
     },
     {
       "name": "HTC Desire HD",
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=262144 ; ",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 ; ",
       "version": "5.0.1.0",
       "init": "init.spade.rc",
       "legacy_versions": [
@@ -836,7 +836,7 @@
     },
     {
       "name": "Dell Streak 7",
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk3p1 bs=16384 ; ",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk3p1 ; ",
       "version": "3.0.2.0",
       "init": "init.tinyandroid.rc",
       "legacy_versions": [
@@ -876,7 +876,7 @@
     },
     {
       "name": "Motorola XOOM",
-      "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-name/recovery bs=4096 ; ",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-name/recovery ; ",
       "version": "4.0.0.4",
       "init": "init.stingray.rc",
       "legacy_versions": [
@@ -918,7 +918,7 @@
     },
     {
       "name": "HTC Desire S",
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=262144 ; ",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 ; ",
       "version": "3.0.2.6",
       "init": "init.saga.rc",
       "key": "saga"
@@ -938,7 +938,7 @@
     {
       "name": "LG Optimus 2X",
       "reboot_recovery": "echo 'boot-recovery' | dd of=/dev/block/mmcblk0p3 seek=6144 bs=1 ; reboot ; ",
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p7 bs=4096 ; ",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p7 ; ",
       "version": "5.0.1.4",
       "init": "init_recovery.rc",
       "legacy_versions": [
@@ -1005,7 +1005,7 @@
     },
     {
       "name": "Samsung Galaxy Tab 10.1",
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p2 bs=262144 ; ",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p2 ; ",
       "version": "4.0.0.4",
       "init": "ueventd.p3.rc",
       "legacy_versions": [
@@ -1038,7 +1038,7 @@
     },
     {
       "name": "HTC Incredible S",
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=262144 ; ",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 ; ",
       "version": "4.0.0.8",
       "init": "init.vivo.rc",
       "legacy_versions": [
@@ -1050,7 +1050,7 @@
     },
     {
       "name": "HTC Incredible 2",
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=262144 ; ",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 ; ",
       "version": "4.0.0.8",
       "init": "init.vivow.rc",
       "legacy_versions": [
@@ -1069,7 +1069,7 @@
     {
       "name": "LGE Optimus 3D",
       "reboot_recovery": "echo '518 R 1' > /sys/kernel/kobject_lge_nvdata/dynamic_nvdata_raw_write ; reboot ; ",
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 bs=4096 ; ",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 ; ",
       "version": "4.0.0.9",
       "init": "init.p920.rc",
       "legacy_versions": [
@@ -1086,7 +1086,7 @@
     },
     {
       "name": "Motorola Atrix 4G",
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p10 bs=4096 ; ",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p10 ; ",
       "version": "5.0.1.0",
       "init": "init_prep_keypad.sh",
       "legacy_versions": [
@@ -1114,7 +1114,7 @@
     },
     {
       "name": "HTC EVO 3D",
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=262144 ; ",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 ; ",
       "version": "5.0.1.0",
       "init": "init.shooter.rc",
       "legacy_versions": [
@@ -1125,7 +1125,7 @@
     },
     {
       "name": "HTC Sensation",
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=262144 ; ",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 ; ",
       "version": "5.0.1.0",
       "init": "init.pyramid.rc",
       "legacy_versions": [
@@ -1171,7 +1171,7 @@
     },
     {
       "name": "LGE Black",
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p4 bs=4096 ; ",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p4 ; ",
       "version": "5.0.1.3",
       "init": "/bootimages/ON_480x800_08fps_0000.rle",
       "legacy_versions": [

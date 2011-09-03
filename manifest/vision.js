@@ -6,10 +6,10 @@
       "icon": "http://romshare.deployfu.com/downloads/739/5082b2ff853e68dd2d77c605b6d6aa93.gif",
       "id": "ILWT",
       "manifest": "http://romshare.deployfu.com/developer/ILWT/manifest",
-      "summary": "ILWT's CM7 Nightly with Virtuous OC Daemon"
+      "summary": "ILWT CM7 with Virtuous OC Daemon -- Customizable Pre-Flash"
     },
     {
-      "developer": "R0st0ck",
+      "developer": "R2_Mod MIUI",
       "free": false,
       "id": "R2-Mod",
       "manifest": "http://romshare.deployfu.com/developer/R2-Mod/manifest",

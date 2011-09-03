@@ -175,7 +175,7 @@
       "roms": {
         "vision": true
       },
-      "summary": "ILWT's CM7 Nightly with Virtuous OC Daemon"
+      "summary": "ILWT CM7 with Virtuous OC Daemon -- Customizable Pre-Flash"
     },
     {
       "developer": "JsinLegacy",
@@ -263,6 +263,17 @@
       "summary": "MIUI Uploads from our hardworking Developers"
     },
     {
+      "developer": "MIUI.hu",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/722/6c020836957e6d84eaf0e747197e935a.png",
+      "id": "MIUI.hu",
+      "manifest": "http://romshare.deployfu.com/developer/MIUI.hu/manifest",
+      "roms": {
+        "crespo": true
+      },
+      "summary": "MIUI magyar lokalizációja | miui.hu @ 2011"
+    },
+    {
       "developer": "Navalynt Roms (3.14 Series)",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/596/5a7d89b16d54be204e888a7f5e5ed390.png",
@@ -316,7 +327,7 @@
       "summary": "Unofficial builds of CyanogenMod 7"
     },
     {
-      "developer": "R0st0ck",
+      "developer": "R2_Mod MIUI",
       "free": false,
       "id": "R2-Mod",
       "manifest": "http://romshare.deployfu.com/developer/R2-Mod/manifest",
@@ -908,16 +919,6 @@
       "summary": "The latest stock CyanogenMod 7 Desire (bravo) base ported to HD2 with the minimal amount of changes required.  No custom apps are included.  Visit the ROM's thread @ xda: http://forum.xda-developers.com/showthread.php?t=933951 ."
     },
     {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
-    },
-    {
       "developer": "DrewGaren Roms",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -929,6 +930,16 @@
         "crespo": true
       },
       "summary": "Custom Roms and Themes for your Device"
+    },
+    {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -2163,7 +2174,7 @@
       "roms": {
         "ideos": true
       },
-      "summary": "I'm Back From Vacation"
+      "summary": "NextGenIdeos v2.5 Is Here"
     },
     {
       "developer": "Xboarder56",

@@ -9,6 +9,14 @@
       "summary": "Source Built Gingerbread and Custom Tbolt Roms"
     },
     {
+      "developer": "MIUI.hu",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/722/6c020836957e6d84eaf0e747197e935a.png",
+      "id": "MIUI.hu",
+      "manifest": "http://romshare.deployfu.com/developer/MIUI.hu/manifest",
+      "summary": "MIUI magyar lokalizációja | miui.hu @ 2011"
+    },
+    {
       "developer": "Oxygen",
       "free": "true",
       "id": "adamg",

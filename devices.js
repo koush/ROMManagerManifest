@@ -1187,13 +1187,6 @@
         "5.0.1.2"
       ],
       "key": "p970"
-    },
-    {
-      "name": "HTC EVO 3D (GSM)",
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 ; ",
-      "version": "5.0.1.4",
-      "init": "init.shooteru.rc",
-      "key": "shooteru"
     }
   ],
   "version": "2.5.0.1",

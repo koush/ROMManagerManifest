@@ -1,6 +1,13 @@
 {
   "manifests": [
     {
+      "developer": "Hardbread",
+      "free": false,
+      "id": "Stenka",
+      "manifest": "http://romshare.deployfu.com/developer/Stenka/manifest",
+      "summary": "MIUI [ES]"
+    },
+    {
       "developer": "CyanogenMod",
       "free": "true",
       "id": "cyanogenmod",

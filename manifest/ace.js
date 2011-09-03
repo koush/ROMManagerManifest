@@ -10,7 +10,7 @@
     },
     {
       "developer": "Honey3D",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/376/b266f88e7063336d333ef7ad4fd4d6ff.png",
       "id": "HoneyTeam",
       "manifest": "http://romshare.deployfu.com/developer/HoneyTeam/manifest",
@@ -34,7 +34,7 @@
     },
     {
       "developer": "cstayton",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/546/7489780bf323b88233ae310c1c65a08e.png",
       "id": "castayton@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/castayton@gmail.com/manifest",
@@ -113,19 +113,11 @@
     },
     {
       "developer": "pirateghost",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/618/e651f76ee302b696b7e42ed966b612cf.jpg",
       "id": "pirateg@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/pirateg@gmail.com/manifest",
       "summary": "Inspire 4G ROMS and Add-ons"
-    },
-    {
-      "developer": "TB Roms",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/736/74af8c0f0063722b0317c47fd1c49a95.png",
-      "id": "seo",
-      "manifest": "http://android.saraev.ca/download/rommanager/manifest.js",
-      "summary": "ROMs for your HTC Desire HD"
     },
     {
       "developer": "Virtuous",

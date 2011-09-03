@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+      "developer": "OMJ-",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/719/bfbccec41cbac2cba0e62a7f2bbefa2e.png",
+      "id": "OMJ-",
+      "manifest": "http://romshare.deployfu.com/developer/OMJ-/manifest",
+      "summary": "TSM Pool Party for the Dinc2"
+    },
+    {
       "developer": "CyanogenMod",
       "free": "true",
       "id": "cyanogenmod",
@@ -46,6 +54,14 @@
       "id": "miuius",
       "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
       "summary": "MIUI English releases by MIUI.us"
+    },
+    {
+      "developer": "TSM/nitsuj17",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/747/7f7f2ad56a1907ccb26999563e7fe8c5.png",
+      "id": "nitsuj17@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/nitsuj17@gmail.com/manifest",
+      "summary": "Sense 2.1 Roms, add-ons, mods, themes for the VivoW"
     },
     {
       "developer": "Virtuous",

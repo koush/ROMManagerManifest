@@ -927,13 +927,14 @@
     {
       "name": "T-Mobile G2X",
       "reboot_recovery": "echo 'boot-recovery' | dd of=/dev/block/mmcblk0p3 seek=6144 bs=1 ; reboot ; ",
-      "version": "5.0.1.4",
+      "version": "5.0.1.6",
       "init": "init_recovery.rc",
       "readonly_recovery": true,
       "legacy_versions": [
         "3.0.2.7",
         "5.0.0.8",
-        "5.0.1.0"
+        "5.0.1.0",
+        "5.0.1.4"
       ],
       "key": "p999"
     },
@@ -941,7 +942,7 @@
       "name": "LG Optimus 2X",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p7 ; ",
       "reboot_recovery": "echo 'boot-recovery' | dd of=/dev/block/mmcblk0p3 seek=6144 bs=1 ; reboot ; ",
-      "version": "5.0.1.4",
+      "version": "5.0.1.6",
       "init": "init_recovery.rc",
       "legacy_versions": [
         "3.0.2.7",
@@ -949,7 +950,8 @@
         "3.0.2.8",
         "4.0.0.9",
         "5.0.0.8",
-        "5.0.1.0"
+        "5.0.1.0",
+        "5.0.1.4"
       ],
       "key": "p990"
     },

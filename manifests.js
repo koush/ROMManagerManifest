@@ -270,6 +270,7 @@
       "manifest": "http://romshare.deployfu.com/developer/MIUI.hu/manifest",
       "roms": {
         "p990": true,
+        "milestone": true,
         "galaxys2": true,
         "crespo": true
       },
@@ -1237,16 +1238,6 @@
       "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
     },
     {
-      "developer": "HyperBALLz",
-      "free": true,
-      "id": "hyperdroidcm7",
-      "manifest": "http://sntclan.de/manifest.js",
-      "roms": {
-        "leo": true
-      },
-      "summary": "Do NOT download!  Only a test run and preparation!!"
-    },
-    {
       "developer": "Ihtfp69",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/626/2cad2dafa4ee11476c29e0c6950147b6.jpg",
@@ -1765,6 +1756,17 @@
         "droidx": true
       },
       "summary": "notna659@gmail.com"
+    },
+    {
+      "developer": "thachtunganh",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/474/8ee6f108580b3027fec19d4ee4a00af4.png",
+      "id": "o0tunganh0o@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/o0tunganh0o@gmail.com/manifest",
+      "roms": {
+        "thunderg": true
+      },
+      "summary": "Do a Wipe all User data And also Partition your SD-card if this is the first time you flash My Rom, Thank you!"
     },
     {
       "developer": "XDA Roms",

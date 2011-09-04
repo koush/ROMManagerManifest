@@ -38,6 +38,14 @@
       "id": "kiril.mik.os@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/kiril.mik.os@gmail.com/manifest",
       "summary": "kiril.mik.os@gmail.com"
+    },
+    {
+      "developer": "thachtunganh",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/474/8ee6f108580b3027fec19d4ee4a00af4.png",
+      "id": "o0tunganh0o@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/o0tunganh0o@gmail.com/manifest",
+      "summary": "Do a Wipe all User data And also Partition your SD-card if this is the first time you flash My Rom, Thank you!"
     }
   ],
   "minversion": "4403"

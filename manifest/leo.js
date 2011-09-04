@@ -55,13 +55,6 @@
       "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
     },
     {
-      "developer": "HyperBALLz",
-      "free": true,
-      "id": "hyperdroidcm7",
-      "manifest": "http://sntclan.de/manifest.js",
-      "summary": "Do NOT download!  Only a test run and preparation!!"
-    },
-    {
       "developer": "MIUI Android",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",

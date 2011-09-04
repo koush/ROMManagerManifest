@@ -336,7 +336,7 @@
       "roms": {
         "vision": true
       },
-      "summary": "rostock.hardcore@googlemail.com"
+      "summary": "Costum ROM with Darktremor Apps2SD,Ext4 and Pershootkernel"
     },
     {
       "developer": "AmbrosialROMs",
@@ -1478,17 +1478,6 @@
         "droidx": "true"
       },
       "summary": "An AOSP-Like ROM for the Droid 2/X by kejar31"
-    },
-    {
-      "developer": "Cyanogenmod",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/220/67a6b509cd40321f4743cf903c6ca72a.jpg",
-      "id": "kernelzilla",
-      "manifest": "http://romshare.deployfu.com/developer/kernelzilla/manifest",
-      "roms": {
-        "backflip": true
-      },
-      "summary": "Ports of Cyanogenmod for the Backflip (be sure to flash the latest universal gapps .zip file after flashing Cyanogenmod)"
     },
     {
       "developer": "mik_os",

@@ -13,7 +13,7 @@
       "free": false,
       "id": "R2-Mod",
       "manifest": "http://romshare.deployfu.com/developer/R2-Mod/manifest",
-      "summary": "rostock.hardcore@googlemail.com"
+      "summary": "Costum ROM with Darktremor Apps2SD,Ext4 and Pershootkernel"
     },
     {
       "developer": "PyroMod DevTeam Roms",

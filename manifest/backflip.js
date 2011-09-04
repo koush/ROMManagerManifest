@@ -23,14 +23,6 @@
       "id": "jree2kx@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/jree2kx@gmail.com/manifest",
       "summary": "ROMs & Mods."
-    },
-    {
-      "developer": "Cyanogenmod",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/220/67a6b509cd40321f4743cf903c6ca72a.jpg",
-      "id": "kernelzilla",
-      "manifest": "http://romshare.deployfu.com/developer/kernelzilla/manifest",
-      "summary": "Ports of Cyanogenmod for the Backflip (be sure to flash the latest universal gapps .zip file after flashing Cyanogenmod)"
     }
   ],
   "minversion": "4403"

@@ -5,7 +5,7 @@
       "free": false,
       "id": "Stenka",
       "manifest": "http://romshare.deployfu.com/developer/Stenka/manifest",
-      "summary": "MIUI [ES]"
+      "summary": "MIUI [ES][ENG]"
     },
     {
       "developer": "CyanogenMod",

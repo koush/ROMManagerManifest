@@ -446,7 +446,7 @@
       "roms": {
         "galaxysmtd": true
       },
-      "summary": "MIUI [ES]"
+      "summary": "MIUI [ES][ENG]"
     },
     {
       "developer": "TeamGTP",

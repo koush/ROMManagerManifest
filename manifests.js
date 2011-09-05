@@ -270,6 +270,8 @@
       "manifest": "http://romshare.deployfu.com/developer/MIUI.hu/manifest",
       "roms": {
         "p990": true,
+        "umts_jordan": true,
+        "galaxys": true,
         "milestone": true,
         "galaxys2": true,
         "crespo": true
@@ -1705,17 +1707,6 @@
       "summary": "MIUI English releases by MIUI.us"
     },
     {
-      "developer": "meXdroidMod rOmS",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/394/991fd69a0f32e66d8026b35c3a914259.jpg",
-      "id": "mjybarr@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/mjybarr@gmail.com/manifest",
-      "roms": {
-        "vision": true
-      },
-      "summary": "Compiled Android 2.3.4 from CM Github with eye candy, speed, and tons of tweaks for performance/battery life/OC-UV-Smarta**-Compcache Kernel."
-    },
-    {
       "developer": "birdman",
       "free": "true",
       "id": "mrbirdman",
@@ -1737,9 +1728,20 @@
       "summary": "Warm treats for Android"
     },
     {
-      "developer": "TSM/nitsuj17",
+      "developer": "nickiberli",
       "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/747/7f7f2ad56a1907ccb26999563e7fe8c5.png",
+      "icon": "http://romshare.deployfu.com/downloads/690/db6ea256d879d60f1618bd1e03de3453.png",
+      "id": "nickiberli",
+      "manifest": "http://romshare.deployfu.com/developer/nickiberli/manifest",
+      "roms": {
+        "shooteru": true
+      },
+      "summary": "nickiberli@gmail.com"
+    },
+    {
+      "developer": "nitsuj17",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/747/e5966a7321c516f205558da3956f87bc.png",
       "id": "nitsuj17@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/nitsuj17@gmail.com/manifest",
       "roms": {

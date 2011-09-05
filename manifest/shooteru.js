@@ -23,6 +23,14 @@
       "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
+    },
+    {
+      "developer": "nickiberli",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/690/db6ea256d879d60f1618bd1e03de3453.png",
+      "id": "nickiberli",
+      "manifest": "http://romshare.deployfu.com/developer/nickiberli/manifest",
+      "summary": "nickiberli@gmail.com"
     }
   ],
   "minversion": "4403"

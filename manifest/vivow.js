@@ -56,9 +56,9 @@
       "summary": "MIUI English releases by MIUI.us"
     },
     {
-      "developer": "TSM/nitsuj17",
+      "developer": "nitsuj17",
       "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/747/7f7f2ad56a1907ccb26999563e7fe8c5.png",
+      "icon": "http://romshare.deployfu.com/downloads/747/e5966a7321c516f205558da3956f87bc.png",
       "id": "nitsuj17@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/nitsuj17@gmail.com/manifest",
       "summary": "Sense 2.1 Roms, add-ons, mods, themes for the VivoW"

@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+      "developer": "MIUI.hu",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/722/6c020836957e6d84eaf0e747197e935a.png",
+      "id": "MIUI.hu",
+      "manifest": "http://romshare.deployfu.com/developer/MIUI.hu/manifest",
+      "summary": "MIUI magyar lokalizációja | miui.hu @ 2011"
+    },
+    {
       "developer": "DarkyROM",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/124/e975fb9db2047ee42b84d4d65f612fcd.png",

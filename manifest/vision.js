@@ -102,14 +102,6 @@
       "summary": "MIUI English releases by MIUI.us"
     },
     {
-      "developer": "meXdroidMod rOmS",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/394/991fd69a0f32e66d8026b35c3a914259.jpg",
-      "id": "mjybarr@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/mjybarr@gmail.com/manifest",
-      "summary": "Compiled Android 2.3.4 from CM Github with eye candy, speed, and tons of tweaks for performance/battery life/OC-UV-Smarta**-Compcache Kernel."
-    },
-    {
       "developer": "Pershoot",
       "free": "true",
       "id": "pershoot",

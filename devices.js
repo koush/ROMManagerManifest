@@ -1043,24 +1043,26 @@
     {
       "name": "HTC Incredible S",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 ; ",
-      "version": "4.0.0.8",
+      "version": "5.0.1.9",
       "init": "init.vivo.rc",
       "legacy_versions": [
         "4.0.0.4",
         "4.0.0.6",
-        "4.0.0.7"
+        "4.0.0.7",
+        "4.0.0.8"
       ],
       "key": "vivo"
     },
     {
       "name": "HTC Incredible 2",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 ; ",
-      "version": "4.0.0.8",
+      "version": "5.0.1.9",
       "init": "init.vivow.rc",
       "legacy_versions": [
         "4.0.0.4",
         "4.0.0.6",
-        "4.0.0.7"
+        "4.0.0.7",
+        "4.0.0.8"
       ],
       "key": "vivow"
     },

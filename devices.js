@@ -406,7 +406,7 @@
       "name": "Motorola Droid X",
       "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
       "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
-      "version": "5.0.1.0",
+      "version": "5.0.2.0",
       "init": "init.mapphone_cdma.rc",
       "readonly_recovery": true,
       "legacy_versions": [

@@ -779,7 +779,7 @@
     },
     {
       "name": "Evo Shift",
-      "version": "3.2.0.1",
+      "version": "5.0.2.0",
       "init": "init.speedy.rc",
       "legacy_versions": [
         "3.0.1.4",
@@ -787,9 +787,11 @@
         "3.0.1.2",
         "3.0.1.1",
         "3.0.1.4",
-        "3.0.2.8"
+        "3.0.2.8",
+        "3.2.0.1"
       ],
-      "key": "speedy"
+      "key": "speedy",
+      "lunch": "cyanogen_speedy-eng"
     },
     {
       "name": "Captivate (MTD)",
@@ -882,7 +884,7 @@
     },
     {
       "name": "HTC Thunderbolt",
-      "version": "5.0.2.0",
+      "version": "5.0.2.1",
       "init": "init.mecha.rc",
       "legacy_versions": [
         "3.0.2.5",
@@ -895,7 +897,8 @@
         "4.0.1.5",
         "5.0.0.1",
         "5.0.0.8",
-        "5.0.1.0"
+        "5.0.1.0",
+        "5.0.2.0"
       ],
       "key": "mecha",
       "lunch": "cyanogen_mecha-eng"

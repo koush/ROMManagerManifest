@@ -410,10 +410,7 @@
       "init": "init.mapphone_cdma.rc",
       "readonly_recovery": true,
       "legacy_versions": [
-        "2.5.1.4",
-        "2.5.1.3",
-        "2.5.1.1",
-        "2.5.1.0"
+        "2.5.0.7"
       ],
       "key": "droidx"
     },
@@ -425,11 +422,7 @@
       "init": "init.mapphone_cdma.rc",
       "readonly_recovery": true,
       "legacy_versions": [
-        "4.0.0.4",
-        "4.0.0.5",
-        "5.0.0.7",
-        "5.0.0.8",
-        "5.0.1.0"
+        "2.5.0.7"
       ],
       "key": "shadow",
       "lunch": "cyanogen_shadow-eng"
@@ -551,15 +544,7 @@
       "init": "init.mapphone_cdma.rc",
       "readonly_recovery": true,
       "legacy_versions": [
-        "2.5.0.8",
-        "2.5.1.4",
-        "2.5.1.3",
-        "2.5.1.1",
-        "2.5.0.8",
-        "5.0.0.7",
-        "5.0.0.8",
-        "5.0.0.9",
-        "5.0.1.0"
+        "2.5.0.8"
       ],
       "key": "droid2",
       "lunch": "cyanogen_droid2-eng"

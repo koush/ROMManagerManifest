@@ -2,14 +2,14 @@
   "manifests": [
     {
       "developer": "Complete Android Experience ",
-      "free": false,
+      "free": true,
       "id": "SamSamoon",
       "manifest": "http://romshare.deployfu.com/developer/SamSamoon/manifest",
       "summary": "Gingerbread ROM By Sami Beck"
     },
     {
       "developer": "Sapo a5 Blog Team",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/617/426f2197f1ed2674fa87666a35835083.png",
       "id": "a5.blog.team",
       "manifest": "http://romshare.deployfu.com/developer/a5.blog.team/manifest",
@@ -48,7 +48,7 @@
     },
     {
       "developer": "Stock ROMs",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/23/757972f1d6362f95a265050747542fc5.jpg",
       "id": "jamieluckett@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/jamieluckett@gmail.com/manifest",
@@ -56,7 +56,7 @@
     },
     {
       "developer": "WBAW",
-      "free": false,
+      "free": true,
       "id": "johnkenney02@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/johnkenney02@gmail.com/manifest",
       "summary": "Stir Fry Chef"

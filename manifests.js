@@ -1130,6 +1130,17 @@
       "summary": "Roms, Themes and Addons for Cyanogen on the Droid."
     },
     {
+      "developer": "NSCollab",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/749/fe727664b5f32913fe22c3d8754e1558.png",
+      "id": "frank707",
+      "manifest": "http://studiousmedia.com/crespo/nscollab.js",
+      "roms": {
+        "crespo": true
+      },
+      "summary": "A best of both worlds rom for your Nexus S"
+    },
+    {
       "developer": "freEVO 3D ROM",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/705/959053b3e45cce1ac14b70a7a212a546.png",
@@ -1252,6 +1263,16 @@
       "summary": "Go Go Go!"
     },
     {
+      "developer": "HyperDroid",
+      "free": "true",
+      "id": "hyperdroid",
+      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
+      "roms": {
+        "leo": "true"
+      },
+      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
+    },
+    {
       "developer": "HyperDroid CM7",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
@@ -1261,16 +1282,6 @@
         "leo": true
       },
       "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
-    },
-    {
-      "developer": "HyperDroid",
-      "free": "true",
-      "id": "hyperdroid",
-      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
-      "roms": {
-        "leo": "true"
-      },
-      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
     },
     {
       "developer": "Ihtfp69",
@@ -1676,7 +1687,7 @@
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
       "id": "miuiportugal",
-      "manifest": "http://www.files.miui-pt.com/manifest/miuipt.js",
+      "manifest": "http://www.roms.miui-pt.com/manifest/miuipt.js",
       "roms": {
         "leo": true,
         "u8800": true,

@@ -1,7 +1,7 @@
 {
   "manifests": [
     {
-      "developer": "ILWT CM7 Mod",
+      "developer": "ILWT CM7",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/739/5082b2ff853e68dd2d77c605b6d6aa93.gif",
       "id": "ILWT",
@@ -125,12 +125,12 @@
       "summary": "http://android-maisters.ddns.net"
     },
     {
-      "developer": "Bulletproof MIUI",
+      "developer": "Bulletproof ROMs",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/712/15225016be36a7706d9f010f0477be36.png",
       "id": "tun4f1sh",
       "manifest": "http://romshare.deployfu.com/developer/tun4f1sh/manifest",
-      "summary": "The fastest, most stable MIUI on the G2/DZ!  Includes Virtuous OC Daemon and optimizations."
+      "summary": "ROMs built for speed and performance.  All ROMs include the Virtuous ROM OC Daemon and optimizations."
     },
     {
       "developer": "Virtuous",

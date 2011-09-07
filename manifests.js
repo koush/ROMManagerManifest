@@ -64,6 +64,17 @@
       "summary": "Overclock Kernels & ROMS for the Droid"
     },
     {
+      "developer": "Clark44 (Absurd)",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/315/fa526fadb52216d09110cf18e5fd5047.jpg",
+      "id": "Clark44 (Absurd)",
+      "manifest": "http://romshare.deployfu.com/developer/Clark44 (Absurd)/manifest",
+      "roms": {
+        "shooter": true
+      },
+      "summary": "Average Rom DEV"
+    },
+    {
       "developer": "ClearDroid",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/572/879c46c74242594d151b96b2d1f3e173.png",
@@ -167,7 +178,7 @@
       "summary": "Custom HTC Sense Froyo ROMs for HTC Desire."
     },
     {
-      "developer": "ILWT CM7 Mod",
+      "developer": "ILWT CM7",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/739/5082b2ff853e68dd2d77c605b6d6aa93.gif",
       "id": "ILWT",
@@ -576,6 +587,17 @@
       "summary": "Latest CWR for the HD2 with the yes/no patch"
     },
     {
+      "developer": "Civic",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/754/b33b496dcc1158a6fb54aade5e74befa.png",
+      "id": "az93civic ",
+      "manifest": "http://romshare.deployfu.com/developer/az93civic /manifest",
+      "roms": {
+        "pyramid": true
+      },
+      "summary": "Civic's TMOUS Sensation Roms | Stock with a Speed Cocktail"
+    },
+    {
       "developer": "bcnice20",
       "free": "true",
       "id": "bcnice20",
@@ -981,17 +1003,6 @@
       "summary": "Eagleblood Roms Fast/Stable/Clean"
     },
     {
-      "developer": "Salvage-Mod Nightlies",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
-    },
-    {
       "developer": "Salvage-Mod",
       "free": "true",
       "id": "echo17",
@@ -1001,6 +1012,17 @@
         "supersonic": "true"
       },
       "summary": "GB source build. Group project."
+    },
+    {
+      "developer": "Salvage-Mod Nightlies",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -1228,6 +1250,17 @@
         "vision": true
       },
       "summary": "Go Go Go!"
+    },
+    {
+      "developer": "HyperDroid CM7",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
+      "id": "hyperdroid",
+      "manifest": "http://sntclan.de/manifest.js",
+      "roms": {
+        "leo": true
+      },
+      "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
     },
     {
       "developer": "HyperDroid",
@@ -2112,7 +2145,7 @@
       "summary": "Happy XDA'er"
     },
     {
-      "developer": "Bulletproof MIUI",
+      "developer": "Bulletproof ROMs",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/712/15225016be36a7706d9f010f0477be36.png",
       "id": "tun4f1sh",
@@ -2120,7 +2153,7 @@
       "roms": {
         "vision": true
       },
-      "summary": "The fastest, most stable MIUI on the G2/DZ!  Includes Virtuous OC Daemon and optimizations."
+      "summary": "ROMs built for speed and performance.  All ROMs include the Virtuous ROM OC Daemon and optimizations."
     },
     {
       "developer": "Uncommon Sense",
@@ -2180,7 +2213,7 @@
       "roms": {
         "ideos": true
       },
-      "summary": "NextGenIdeos v2.5 Is Here"
+      "summary": "Many People are having trouble with Nextgenideos download and im looking into fixing it asap"
     },
     {
       "developer": "Xboarder56",

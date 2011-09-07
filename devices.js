@@ -128,7 +128,7 @@
     },
     {
       "name": "HTC Evo (CDMA)",
-      "version": "5.0.2.0",
+      "version": "5.0.2.2",
       "init": "init.supersonic.rc",
       "legacy_versions": [
         "2.5.0.7",
@@ -138,7 +138,9 @@
         "3.0.0.5",
         "5.0.0.0",
         "5.0.0.8",
-        "5.0.1.0"
+        "5.0.1.0",
+        "5.0.2.0",
+        "5.0.2.2"
       ],
       "alternate_recovery": {
         "name": "RA Recovery v2.3",

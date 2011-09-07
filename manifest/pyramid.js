@@ -17,6 +17,14 @@
       "summary": "aosp4u@gmail.com"
     },
     {
+      "developer": "Civic",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/754/b33b496dcc1158a6fb54aade5e74befa.png",
+      "id": "az93civic ",
+      "manifest": "http://romshare.deployfu.com/developer/az93civic /manifest",
+      "summary": "Civic's TMOUS Sensation Roms | Stock with a Speed Cocktail"
+    },
+    {
       "developer": "doniqcc",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/718/9c3899d3bf007a79e4bab261fad0c501.jpg",

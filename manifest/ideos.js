@@ -30,7 +30,7 @@
       "icon": "http://romshare.deployfu.com/downloads/475/83b1212e420f39b900d6011fda66ad4c.jpg",
       "id": "x_SCOS_x_Elite",
       "manifest": "http://romshare.deployfu.com/developer/x_SCOS_x_Elite/manifest",
-      "summary": "NextGenIdeos v2.5 Is Here"
+      "summary": "Many People are having trouble with Nextgenideos download and im looking into fixing it asap"
     }
   ],
   "minversion": "4403"

@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+      "developer": "Clark44 (Absurd)",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/315/fa526fadb52216d09110cf18e5fd5047.jpg",
+      "id": "Clark44 (Absurd)",
+      "manifest": "http://romshare.deployfu.com/developer/Clark44 (Absurd)/manifest",
+      "summary": "Average Rom DEV"
+    },
+    {
       "developer": "Extras",
       "free": "true",
       "id": "extras",

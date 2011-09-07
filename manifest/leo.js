@@ -48,6 +48,14 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
+      "developer": "HyperDroid CM7",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
+      "id": "hyperdroid",
+      "manifest": "http://sntclan.de/manifest.js",
+      "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
+    },
+    {
       "developer": "HyperDroid",
       "free": "true",
       "id": "hyperdroid",

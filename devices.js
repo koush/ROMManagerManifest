@@ -227,8 +227,8 @@
         "5.0.1.0"
       ],
       "alternate_recovery": {
-        "name": "RA_GNM Recovery v2.2.1",
-        "url": "http://www.getitnowmarketing.noodlesoftware.com/recovery/recovery-RA-inc-v2.2.1-GNM.img",
+        "name": "RA_GNM Recovery v3.02",
+        "url": "http://dl.dropbox.com/u/12949506/RomManager/recovery-RA-inc-3.02.img",
         "clockwork": false
       },
       "key": "inc",
@@ -382,8 +382,8 @@
         "2.5.1.1"
       ],
       "alternate_recovery": {
-        "name": "RA_GNM Recovery v2.2.1",
-        "url": "http://www.getitnowmarketing.noodlesoftware.com/recovery/recovery-aloha-RA-v2.2.1-GNM.img",
+        "name": "RA_GNM Recovery v2.2.2",
+        "url": "http://dl.dropbox.com/u/12949506/RomManager/recovery-RA-aloha-2.2.2-GNM.img",
         "clockwork": false
       },
       "key": "aloha"
@@ -885,6 +885,11 @@
         "5.0.1.0",
         "5.0.2.0"
       ],
+        "alternate_recovery": {
+        "name": "RA_GNM Recovery v3.03",
+        "url": "http://dl.dropbox.com/u/12949506/RomManager/recovery-ra-mecha-3.03.img",
+        "clockwork": false
+      },
       "key": "mecha",
       "lunch": "cyanogen_mecha-eng"
     },
@@ -1012,6 +1017,11 @@
         "5.0.0.8",
         "5.0.1.0"
       ],
+      "alternate_recovery": {
+      "name": "RA_GNM Recovery v2.2.1",
+      "url": "http://dl.dropbox.com/u/12949506/RomManager/recovery-RA-thunderg-2.2.1-GNM.img",
+      "clockwork": false
+    },
       "key": "thunderg",
       "lunch": "full_thunderg-eng"
     },
@@ -1104,6 +1114,11 @@
         "4.0.0.8",
         "5.0.1.9"
       ],
+       "alternate_recovery": {
+       "name": "RA_GNM Recovery v3.02",
+       "url": "http://dl.dropbox.com/u/12949506/RomManager/recovery-ra-vivow-3.02.img",
+       "clockwork": false
+      },
       "key": "vivow",
       "lunch": "cyanogen_vivow-eng"
     },

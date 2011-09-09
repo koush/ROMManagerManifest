@@ -116,6 +116,14 @@
       "icon": "http://omfgb.github.com/rommanager_manifest/icon.png",
       "manifest": "http://omfgb.github.com/rommanager_manifest/manifest.js",
       "summary": "Formerly r2DoesInc, Check out the new stuff. "
+    },
+    {
+      "developer": "Team BAMF ",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/758/327500a0db76efc307c8032ee32ac018.png",
+      "id": "waynestrattonjr@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/waynestrattonjr@gmail.com/manifest",
+      "summary": "waynestrattonjr@gmail.com"
     }
   ],
   "minversion": "4403"

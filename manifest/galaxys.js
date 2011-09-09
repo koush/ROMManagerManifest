@@ -71,6 +71,14 @@
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
     },
     {
+      "developer": "MyUI",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/764/cf4a41ce70782f6b5090be541dbb1128.png",
+      "id": "myuiteam",
+      "manifest": "http://myui.rollus.net/releases/ROMManager/myuimanifest.js",
+      "summary": "MyUI - Votre MIUI parfaite, Your perfect MIUI - Team MyUI @ 2011"
+    },
+    {
       "developer": "Tedgy",
       "free": "true",
       "id": "tedgy",

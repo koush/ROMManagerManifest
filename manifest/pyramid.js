@@ -9,20 +9,20 @@
       "summary": "LeeDrOiD Sense roms & Kernels"
     },
     {
+      "developer": "CiVic",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/754/b33b496dcc1158a6fb54aade5e74befa.png",
+      "id": "agoura@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/agoura@gmail.com/manifest",
+      "summary": "Civic's TMOUS Sensation Roms | Stock with a Speed Cocktail"
+    },
+    {
       "developer": "aosp",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/322/c97732b0067d16ccf420f20f78b8f36a.png",
       "id": "aospmod",
       "manifest": "http://romshare.deployfu.com/developer/aospmod/manifest",
       "summary": "aosp4u@gmail.com"
-    },
-    {
-      "developer": "Civic",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/754/b33b496dcc1158a6fb54aade5e74befa.png",
-      "id": "az93civic ",
-      "manifest": "http://romshare.deployfu.com/developer/az93civic /manifest",
-      "summary": "Civic's TMOUS Sensation Roms | Stock with a Speed Cocktail"
     },
     {
       "developer": "doniqcc",

@@ -459,7 +459,7 @@
       "roms": {
         "galaxysmtd": true
       },
-      "summary": "MIUI [ES][ENG]"
+      "summary": "MIUI [ES]"
     },
     {
       "developer": "TeamGTP",
@@ -554,6 +554,17 @@
       "summary": "aefreshkid97@gmail.com"
     },
     {
+      "developer": "CiVic",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/754/b33b496dcc1158a6fb54aade5e74befa.png",
+      "id": "agoura@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/agoura@gmail.com/manifest",
+      "roms": {
+        "pyramid": true
+      },
+      "summary": "Civic's TMOUS Sensation Roms | Stock with a Speed Cocktail"
+    },
+    {
       "developer": "AleBaba",
       "free": "true",
       "id": "aleho",
@@ -585,17 +596,6 @@
         "leo": true
       },
       "summary": "Latest CWR for the HD2 with the yes/no patch"
-    },
-    {
-      "developer": "Civic",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/754/b33b496dcc1158a6fb54aade5e74befa.png",
-      "id": "az93civic ",
-      "manifest": "http://romshare.deployfu.com/developer/az93civic /manifest",
-      "roms": {
-        "pyramid": true
-      },
-      "summary": "Civic's TMOUS Sensation Roms | Stock with a Speed Cocktail"
     },
     {
       "developer": "bcnice20",
@@ -1263,16 +1263,6 @@
       "summary": "Go Go Go!"
     },
     {
-      "developer": "HyperDroid",
-      "free": "true",
-      "id": "hyperdroid",
-      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
-      "roms": {
-        "leo": "true"
-      },
-      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
-    },
-    {
       "developer": "HyperDroid CM7",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
@@ -1282,6 +1272,16 @@
         "leo": true
       },
       "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
+    },
+    {
+      "developer": "HyperDroid",
+      "free": "true",
+      "id": "hyperdroid",
+      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
+      "roms": {
+        "leo": "true"
+      },
+      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
     },
     {
       "developer": "Ihtfp69",
@@ -1783,6 +1783,17 @@
       "summary": "Warm treats for Android"
     },
     {
+      "developer": "MyUI",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/764/cf4a41ce70782f6b5090be541dbb1128.png",
+      "id": "myuiteam",
+      "manifest": "http://myui.rollus.net/releases/ROMManager/myuimanifest.js",
+      "roms": {
+        "galaxys": true
+      },
+      "summary": "MyUI - Votre MIUI parfaite, Your perfect MIUI - Team MyUI @ 2011"
+    },
+    {
       "developer": "nickiberli",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/690/db6ea256d879d60f1618bd1e03de3453.png",
@@ -2196,6 +2207,17 @@
       "summary": "Enhanced Sense ROMs and more from the Virtuous Team."
     },
     {
+      "developer": "Team BAMF ",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/758/327500a0db76efc307c8032ee32ac018.png",
+      "id": "waynestrattonjr@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/waynestrattonjr@gmail.com/manifest",
+      "roms": {
+        "mecha": true
+      },
+      "summary": "waynestrattonjr@gmail.com"
+    },
+    {
       "developer": "WJD Designs",
       "free": "true",
       "id": "wjddesigns",
@@ -2224,7 +2246,7 @@
       "roms": {
         "ideos": true
       },
-      "summary": "Many People are having trouble with Nextgenideos download and im looking into fixing it asap"
+      "summary": "Finally Fixed It. Here is NGI v2.6"
     },
     {
       "developer": "Xboarder56",

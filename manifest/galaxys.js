@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+    "developer": "MyUI",
+    "free": true,
+    "id": "teammyui",
+    "icon": "http://myui.rollus.net/releases/ROMManager/MyUI-Logo-RM.png",
+    "manifest": "http://myui.rollus.net/releases/ROMManager/myuimanifest.js",
+    "summary": "MyUI - Your perfect MIUI, Votre MIUI parfaite - Team MyUI @ 2011"
+    },
+    {
       "developer": "MIUI.hu",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/722/6c020836957e6d84eaf0e747197e935a.png",

@@ -1,8 +1,16 @@
 {
   "manifests": [
     {
+      "developer": "2fastroms ",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/245/7d87d0d7adc75505b50d5740addefac3.png",
+      "id": "2fastroms",
+      "manifest": "http://romshare.deployfu.com/developer/2fastroms/manifest",
+      "summary": "bk95ta391@gmail.com"
+    },
+    {
       "developer": "MIUI",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/223/4b9a814afaba733a6d3b4a47f29436de.png",
       "id": "MIUI Dev",
       "manifest": "http://romshare.deployfu.com/developer/MIUI Dev/manifest",

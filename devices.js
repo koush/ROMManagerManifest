@@ -1274,7 +1274,7 @@
       "lunch": "full_shooteru-eng"
     },
     {
-      "name": "Motorola Droid 2",
+      "name": "Motorola Droid 2 Global",
       "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
       "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
       "readonly_recovery": true,

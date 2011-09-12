@@ -874,6 +874,17 @@
         "mecha": "true"
       },
       "summary": "Supercharged Roms"
+    },
+    {
+      "developer": "Cerberus",
+      "icon": "http://www.cerberusapp.com/updates/icon.png",
+      "id": "cerberusapp",
+      "free": "true",
+      "manifest": "http://www.cerberusapp.com/updates/manifest.js",
+      "roms": {
+        "all": "true"
+      },
+      "summary": "Triple protection for your Android device"
     }
   ],
   "minversion": "4403"

@@ -16,6 +16,14 @@
       "summary": "Latest CWR for the HD2 with the yes/no patch"
     },
     {
+      "developer": "Cerberus",
+      "free": "true",
+      "id": "cerberusapp",
+      "icon": "http://www.cerberusapp.com/updates/icon.png",
+      "manifest": "http://www.cerberusapp.com/updates/manifest.js",
+      "summary": "Triple protection for your Android device"
+    },
+    {
       "developer": "CM7 Nightlies",
       "free": "true",
       "id": "cyanogenmodleonightly",
@@ -48,19 +56,19 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
-      "developer": "HyperDroid",
-      "free": "true",
-      "id": "hyperdroid",
-      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
-      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
-    },
-    {
       "developer": "HyperDroid CM7",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
       "id": "hyperdroid",
       "manifest": "http://sntclan.de/manifest.js",
       "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
+    },
+    {
+      "developer": "HyperDroid",
+      "free": "true",
+      "id": "hyperdroid",
+      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
+      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
     },
     {
       "developer": "MIUI Android",

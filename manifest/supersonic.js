@@ -23,6 +23,14 @@
       "summary": "Sinister Speeds Sinister look's"
     },
     {
+      "developer": "Cerberus",
+      "free": "true",
+      "id": "cerberusapp",
+      "icon": "http://www.cerberusapp.com/updates/icon.png",
+      "manifest": "http://www.cerberusapp.com/updates/manifest.js",
+      "summary": "Triple protection for your Android device"
+    },
+    {
       "developer": "cvpcs",
       "free": "true",
       "id": "cvpcs",
@@ -148,12 +156,12 @@
       "summary": "Formerly r2DoesInc, Check out the new stuff. "
     },
     {
-      "developer": "Swagged Out|Stock",
+      "developer": "Swagged Out Stock",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/697/40e325c213ebeb2999003d52dc979b2b.png",
       "id": "swagstr",
       "manifest": "http://romshare.deployfu.com/developer/swagstr/manifest",
-      "summary": "Stock ROM with a ton of bloatware removed and some added sexiness"
+      "summary": "Stock ROM with a ton of bloatware removed and some added swag"
     }
   ],
   "minversion": "4403"

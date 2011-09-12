@@ -9,6 +9,14 @@
       "summary": "MIUI magyar lokalizációja | miui.hu @ 2011"
     },
     {
+      "developer": "Cerberus",
+      "free": "true",
+      "id": "cerberusapp",
+      "icon": "http://www.cerberusapp.com/updates/icon.png",
+      "manifest": "http://www.cerberusapp.com/updates/manifest.js",
+      "summary": "Triple protection for your Android device"
+    },
+    {
       "developer": "DarkyROM",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/124/e975fb9db2047ee42b84d4d65f612fcd.png",

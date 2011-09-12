@@ -24,6 +24,14 @@
       "summary": "PyroMod roms are fast and clean "
     },
     {
+      "developer": "Cerberus",
+      "free": "true",
+      "id": "cerberusapp",
+      "icon": "http://www.cerberusapp.com/updates/icon.png",
+      "manifest": "http://www.cerberusapp.com/updates/manifest.js",
+      "summary": "Triple protection for your Android device"
+    },
+    {
       "developer": "CyanogenMod",
       "free": "true",
       "id": "cyanogenmod",

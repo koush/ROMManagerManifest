@@ -9,6 +9,14 @@
       "summary": "CyanogenMod 7 for the Motorola Cliq/Dext. DO NOT WIPE DATA/CACHE. Our ROM's have a wipe patch included. If you wipe, reinstall without wiping. Please remember DO NOT BACKUP ROM OR WIPE DATA/FACTORY RESET THROUGH ROM MANAGER! "
     },
     {
+      "developer": "Cerberus",
+      "free": "true",
+      "id": "cerberusapp",
+      "icon": "http://www.cerberusapp.com/updates/icon.png",
+      "manifest": "http://www.cerberusapp.com/updates/manifest.js",
+      "summary": "Triple protection for your Android device"
+    },
+    {
       "developer": "CyanogenMod",
       "free": "true",
       "id": "cyanogenmod",

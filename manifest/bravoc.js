@@ -2,11 +2,11 @@
   "manifests": [
     {
       "developer": "2fastroms ",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/245/7d87d0d7adc75505b50d5740addefac3.png",
       "id": "2fastroms",
-      "manifest": "http://romshare.deployfu.com/developer/2fastroms/manifest",
-      "summary": "bk95ta391@gmail.com"
+      "manifest": "http://www.2fastroms.com/rommanger/manual_manifest.js",
+      "summary": "Your #1 spot for all your rom needs."
     },
     {
       "developer": "MIUI",
@@ -23,6 +23,14 @@
       "icon": "http://download.oxygen.im/roms/ROMManagerManifest/icon.png",
       "manifest": "http://download.oxygen.im/roms/ROMManagerManifest/oxygen.js",
       "summary": "Oxygen, clean and simple AOSP ROM"
+    },
+    {
+      "developer": "Cerberus",
+      "free": "true",
+      "id": "cerberusapp",
+      "icon": "http://www.cerberusapp.com/updates/icon.png",
+      "manifest": "http://www.cerberusapp.com/updates/manifest.js",
+      "summary": "Triple protection for your Android device"
     },
     {
       "developer": "CyanogenMod",

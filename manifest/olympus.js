@@ -16,6 +16,14 @@
       "summary": "aefreshkid97@gmail.com"
     },
     {
+      "developer": "Cerberus",
+      "free": "true",
+      "id": "cerberusapp",
+      "icon": "http://www.cerberusapp.com/updates/icon.png",
+      "manifest": "http://www.cerberusapp.com/updates/manifest.js",
+      "summary": "Triple protection for your Android device"
+    },
+    {
       "developer": "Diviance",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/591/bb41cb6540f79fe9208a84a04af56bfe.png",

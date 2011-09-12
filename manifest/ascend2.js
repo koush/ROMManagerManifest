@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+      "developer": "Cerberus",
+      "free": "true",
+      "id": "cerberusapp",
+      "icon": "http://www.cerberusapp.com/updates/icon.png",
+      "manifest": "http://www.cerberusapp.com/updates/manifest.js",
+      "summary": "Triple protection for your Android device"
+    },
+    {
       "developer": "Extras",
       "free": "true",
       "id": "extras",
@@ -22,7 +30,7 @@
       "icon": "http://romshare.deployfu.com/downloads/480/046c8e21484dc21189721004ec151520.png",
       "id": "playfulgod",
       "manifest": "http://romshare.deployfu.com/developer/playfulgod/manifest",
-      "summary": "CM7-Ascend, PlayfulMod"
+      "summary": "CM7-Ascend, PlayfulMod, A2tude, CM74OC, CM74OM"
     }
   ],
   "minversion": "4403"

@@ -1,12 +1,12 @@
 {
   "manifests": [
     {
-      "developer": "NoFrills-AOSP",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/636/7ab5b3bc307d3a3bf5e42ec2b09a234f.png",
-      "id": "NoFrills",
-      "manifest": "http://romshare.deployfu.com/developer/NoFrills/manifest",
-      "summary": "NoFrills-AOSP a Gingerbread ROM built for simplicity."
+      "developer": "Cerberus",
+      "free": "true",
+      "id": "cerberusapp",
+      "icon": "http://www.cerberusapp.com/updates/icon.png",
+      "manifest": "http://www.cerberusapp.com/updates/manifest.js",
+      "summary": "Triple protection for your Android device"
     },
     {
       "developer": "CyanogenMod",
@@ -86,6 +86,14 @@
       "id": "miuius",
       "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
       "summary": "MIUI English releases by MIUI.us"
+    },
+    {
+      "developer": "NoFrills-AOSP",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/636/7ab5b3bc307d3a3bf5e42ec2b09a234f.png",
+      "id": "nofrills",
+      "manifest": "http://romshare.deployfu.com/developer/nofrills/manifest",
+      "summary": "NoFrills-AOSP a Gingerbread ROM built for simplicity."
     },
     {
       "developer": "phiremod",

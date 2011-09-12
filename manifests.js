@@ -2,14 +2,14 @@
   "manifests": [
     {
       "developer": "2fastroms ",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/245/7d87d0d7adc75505b50d5740addefac3.png",
       "id": "2fastroms",
-      "manifest": "http://romshare.deployfu.com/developer/2fastroms/manifest",
+      "manifest": "http://www.2fastroms.com/rommanger/manual_manifest.js",
       "roms": {
         "bravoc": true
       },
-      "summary": "bk95ta391@gmail.com"
+      "summary": "Your #1 spot for all your rom needs."
     },
     {
       "developer": "ACS",
@@ -310,17 +310,6 @@
         "olympus": true
       },
       "summary": "Roms, themes, and more!"
-    },
-    {
-      "developer": "NoFrills-AOSP",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/636/7ab5b3bc307d3a3bf5e42ec2b09a234f.png",
-      "id": "NoFrills",
-      "manifest": "http://romshare.deployfu.com/developer/NoFrills/manifest",
-      "roms": {
-        "vibrantmtd": true
-      },
-      "summary": "NoFrills-AOSP a Gingerbread ROM built for simplicity."
     },
     {
       "developer": "OMJ",
@@ -715,6 +704,17 @@
         "ace": true
       },
       "summary": "developer of StarDroid ROMS for your HTC Inspire and Desire HD"
+    },
+    {
+      "developer": "Cerberus",
+      "free": "true",
+      "id": "cerberusapp",
+      "icon": "http://www.cerberusapp.com/updates/icon.png",
+      "manifest": "http://www.cerberusapp.com/updates/manifest.js",
+      "roms": {
+        "all": "true"
+      },
+      "summary": "Triple protection for your Android device"
     },
     {
       "developer": "Steel Droid",
@@ -1274,16 +1274,6 @@
       "summary": "Go Go Go!"
     },
     {
-      "developer": "HyperDroid",
-      "free": "true",
-      "id": "hyperdroid",
-      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
-      "roms": {
-        "leo": "true"
-      },
-      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
-    },
-    {
       "developer": "HyperDroid CM7",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
@@ -1293,6 +1283,16 @@
         "leo": true
       },
       "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
+    },
+    {
+      "developer": "HyperDroid",
+      "free": "true",
+      "id": "hyperdroid",
+      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
+      "roms": {
+        "leo": "true"
+      },
+      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
     },
     {
       "developer": "Ihtfp69",
@@ -1827,6 +1827,17 @@
       "summary": "Sense 2.1 Roms, add-ons, mods, themes for the VivoW"
     },
     {
+      "developer": "NoFrills-AOSP",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/636/7ab5b3bc307d3a3bf5e42ec2b09a234f.png",
+      "id": "nofrills",
+      "manifest": "http://romshare.deployfu.com/developer/nofrills/manifest",
+      "roms": {
+        "vibrantmtd": true
+      },
+      "summary": "NoFrills-AOSP a Gingerbread ROM built for simplicity."
+    },
+    {
       "developer": "notna659@gmail.com",
       "free": false,
       "id": "notna659@gmail.com",
@@ -1919,7 +1930,7 @@
         "a70": true,
         "ascend": true
       },
-      "summary": "CM7-Ascend, PlayfulMod"
+      "summary": "CM7-Ascend, PlayfulMod, A2tude, CM74OC, CM74OM"
     },
     {
       "developer": "t3hh4xx0r",
@@ -2073,7 +2084,7 @@
       "summary": "Revert back to stock phone images."
     },
     {
-      "developer": "Swagged Out|Stock",
+      "developer": "Swagged Out Stock",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/697/40e325c213ebeb2999003d52dc979b2b.png",
       "id": "swagstr",
@@ -2081,7 +2092,7 @@
       "roms": {
         "supersonic": true
       },
-      "summary": "Stock ROM with a ton of bloatware removed and some added sexiness"
+      "summary": "Stock ROM with a ton of bloatware removed and some added swag"
     },
     {
       "developer": "CyanogenMod Nightlies",

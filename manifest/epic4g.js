@@ -33,7 +33,7 @@
     },
     {
       "developer": "TheDub",
-      "free": false,
+      "free": true,
       "id": "thedubmail@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/thedubmail@gmail.com/manifest",
       "summary": "thedubmail@gmail.com"

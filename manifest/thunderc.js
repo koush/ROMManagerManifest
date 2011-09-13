@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "bernard.schratz@gmail.com",
-      "free": false,
+      "free": true,
       "id": "bernard.schratz@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/bernard.schratz@gmail.com/manifest",
       "summary": "bernard.schratz@gmail.com"

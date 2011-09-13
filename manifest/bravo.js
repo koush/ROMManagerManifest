@@ -118,7 +118,7 @@
     },
     {
       "developer": "roalex",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/107/236f3ca6074ca5d999aef037aae94244.png",
       "id": "roalex-bravo",
       "manifest": "http://romshare.deployfu.com/developer/roalex-bravo/manifest",

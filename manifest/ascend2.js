@@ -26,11 +26,11 @@
     },
     {
       "developer": "ROMs by PlayfulGod",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/480/046c8e21484dc21189721004ec151520.png",
       "id": "playfulgod",
       "manifest": "http://romshare.deployfu.com/developer/playfulgod/manifest",
-      "summary": "CM7-Ascend, PlayfulMod, A2tude, CM74OC, CM74OM"
+      "summary": "Remember folks, I dont get paid to do this, so donation or greatly apprciated even if its just for $1. You can donate by pressing menu > donate while viewing the ROM list. ;)"
     }
   ],
   "minversion": "4403"

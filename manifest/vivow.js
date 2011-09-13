@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "OMJ-",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/719/bfbccec41cbac2cba0e62a7f2bbefa2e.png",
       "id": "OMJ-",
       "manifest": "http://romshare.deployfu.com/developer/OMJ-/manifest",
@@ -65,7 +65,7 @@
     },
     {
       "developer": "nitsuj17",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/747/e5966a7321c516f205558da3956f87bc.png",
       "id": "nitsuj17@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/nitsuj17@gmail.com/manifest",

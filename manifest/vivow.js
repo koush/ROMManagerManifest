@@ -17,6 +17,14 @@
       "summary": "Triple protection for your Android device"
     },
     {
+      "developer": "Superuser",
+      "free": "true",
+      "id": "chainsdd",
+      "icon": "http://chainsdd.github.com/Superuser/icon.png",
+      "manifest": "http://chainsdd.github.com/Superuser/manifest.js",
+      "summary": "Managing root like it's going out of style"
+    },
+    {
       "developer": "CyanogenMod",
       "free": "true",
       "id": "cyanogenmod",
@@ -30,14 +38,6 @@
       "icon": "http://koush.kanged.net/cm/test/tdr.png",
       "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
-    },
-    {
-      "developer": "Extras",
-      "free": "true",
-      "id": "extras",
-      "icon": "http://koush.kanged.net/cm/test/extras.png",
-      "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
-      "summary": "Cool stuffs."
     },
     {
       "developer": "Google Apps",
@@ -70,6 +70,14 @@
       "id": "nitsuj17@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/nitsuj17@gmail.com/manifest",
       "summary": "Sense 2.1 Roms, add-ons, mods, themes for the VivoW"
+    },
+    {
+      "developer": "squash",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/781/4d7c57236fc2f350a579d6b4d6fc7f74.png",
+      "id": "squash",
+      "manifest": "http://romshare.deployfu.com/developer/squash/manifest",
+      "summary": "Incredible 2 kernels"
     },
     {
       "developer": "Virtuous",

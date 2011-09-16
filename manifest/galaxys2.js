@@ -17,6 +17,14 @@
       "summary": "Triple protection for your Android device"
     },
     {
+      "developer": "Superuser",
+      "free": "true",
+      "id": "chainsdd",
+      "icon": "http://chainsdd.github.com/Superuser/icon.png",
+      "manifest": "http://chainsdd.github.com/Superuser/manifest.js",
+      "summary": "Managing root like it's going out of style"
+    },
+    {
       "developer": "CyanogenMod",
       "free": "true",
       "id": "cyanogenmod",
@@ -38,14 +46,6 @@
       "id": "daniel.hillenbrand@codeworkx.de",
       "manifest": "http://romshare.deployfu.com/developer/daniel.hillenbrand@codeworkx.de/manifest",
       "summary": "Usefull Stuff for Galaxy S Phones"
-    },
-    {
-      "developer": "Extras",
-      "free": "true",
-      "id": "extras",
-      "icon": "http://koush.kanged.net/cm/test/extras.png",
-      "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
-      "summary": "Cool stuffs."
     },
     {
       "developer": "Google Apps",

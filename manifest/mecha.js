@@ -56,6 +56,14 @@
       "summary": "Triple protection for your Android device"
     },
     {
+      "developer": "Superuser",
+      "free": "true",
+      "id": "chainsdd",
+      "icon": "http://chainsdd.github.com/Superuser/icon.png",
+      "manifest": "http://chainsdd.github.com/Superuser/manifest.js",
+      "summary": "Managing root like it's going out of style"
+    },
+    {
       "developer": "CyanogenMod",
       "free": "true",
       "id": "cyanogenmod",
@@ -77,14 +85,6 @@
       "id": "dsb9938",
       "manifest": "http://romshare.deployfu.com/developer/dsb9938/manifest",
       "summary": "dsb9938 from XDA"
-    },
-    {
-      "developer": "Extras",
-      "free": "true",
-      "id": "extras",
-      "icon": "http://koush.kanged.net/cm/test/extras.png",
-      "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
-      "summary": "Cool stuffs."
     },
     {
       "developer": "Google Apps",

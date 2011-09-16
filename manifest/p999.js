@@ -1,14 +1,6 @@
 {
   "manifests": [
     {
-      "developer": "Team Whiskey",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/217/1f014e3a34997c82b915902c05ba2005.png",
-      "id": "Krylon360",
-      "manifest": "http://romshare.deployfu.com/developer/Krylon360/manifest",
-      "summary": "TeamWhiskey Bionix Roms for the LG G2x and Samsung Vibrant "
-    },
-    {
       "developer": "Whitehawkx",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/673/7898d96c27f948a4e170d89dbe77121e.jpg",
@@ -23,6 +15,14 @@
       "icon": "http://www.cerberusapp.com/updates/icon.png",
       "manifest": "http://www.cerberusapp.com/updates/manifest.js",
       "summary": "Triple protection for your Android device"
+    },
+    {
+      "developer": "Superuser",
+      "free": "true",
+      "id": "chainsdd",
+      "icon": "http://chainsdd.github.com/Superuser/icon.png",
+      "manifest": "http://chainsdd.github.com/Superuser/manifest.js",
+      "summary": "Managing root like it's going out of style"
     },
     {
       "developer": "CyanogenMod",
@@ -54,14 +54,6 @@
       "id": "einherjar",
       "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
       "summary": "ROMs, with a side of metal."
-    },
-    {
-      "developer": "Extras",
-      "free": "true",
-      "id": "extras",
-      "icon": "http://koush.kanged.net/cm/test/extras.png",
-      "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
-      "summary": "Cool stuffs."
     },
     {
       "developer": "Faux123 Custom ROMs",

@@ -31,20 +31,20 @@
       "summary": "Triple protection for your Android device"
     },
     {
+      "developer": "Superuser",
+      "free": "true",
+      "id": "chainsdd",
+      "icon": "http://chainsdd.github.com/Superuser/icon.png",
+      "manifest": "http://chainsdd.github.com/Superuser/manifest.js",
+      "summary": "Managing root like it's going out of style"
+    },
+    {
       "developer": "Diviance",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/591/bb41cb6540f79fe9208a84a04af56bfe.png",
       "id": "diviance@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/diviance@gmail.com/manifest",
       "summary": "Aura Rom for the Atrix"
-    },
-    {
-      "developer": "Extras",
-      "free": "true",
-      "id": "extras",
-      "icon": "http://koush.kanged.net/cm/test/extras.png",
-      "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
-      "summary": "Cool stuffs."
     },
     {
       "developer": "Google Apps",

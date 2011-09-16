@@ -24,6 +24,14 @@
       "summary": "Triple protection for your Android device"
     },
     {
+      "developer": "Superuser",
+      "free": "true",
+      "id": "chainsdd",
+      "icon": "http://chainsdd.github.com/Superuser/icon.png",
+      "manifest": "http://chainsdd.github.com/Superuser/manifest.js",
+      "summary": "Managing root like it's going out of style"
+    },
+    {
       "developer": "CM7 Nightlies",
       "free": "true",
       "id": "cyanogenmodleonightly",
@@ -38,14 +46,6 @@
       "id": "do-not-use-cyanogenmod-nightly",
       "manifest": "http://romshare.deployfu.com/developer/do-not-use-cyanogenmod-nightly/manifest",
       "summary": "The latest stock CyanogenMod 7 Desire (bravo) base ported to HD2 with the minimal amount of changes required.  No custom apps are included.  Visit the ROM's thread @ xda: http://forum.xda-developers.com/showthread.php?t=933951 ."
-    },
-    {
-      "developer": "Extras",
-      "free": "true",
-      "id": "extras",
-      "icon": "http://koush.kanged.net/cm/test/extras.png",
-      "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
-      "summary": "Cool stuffs."
     },
     {
       "developer": "Google Apps",

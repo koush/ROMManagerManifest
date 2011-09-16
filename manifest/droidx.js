@@ -53,19 +53,20 @@
       "summary": "Triple protection for your Android device"
     },
     {
+      "developer": "Superuser",
+      "free": "true",
+      "id": "chainsdd",
+      "icon": "http://chainsdd.github.com/Superuser/icon.png",
+      "manifest": "http://chainsdd.github.com/Superuser/manifest.js",
+      "summary": "Managing root like it's going out of style"
+    },
+    {
       "developer": "cvpcs",
       "free": "true",
       "id": "cvpcs",
       "icon": "http://cvpcs.github.com/android_vendor_cvpcs/icon.png",
       "manifest": "http://cvpcs.github.com/android_vendor_cvpcs/cvpcs-rmm.js",
       "summary": "Source-based mods made by CVPCS"
-    },
-    {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "DrewGaren Roms",
@@ -76,12 +77,11 @@
       "summary": "Custom Roms and Themes for your Device"
     },
     {
-      "developer": "Extras",
+      "developer": "DrewGaren",
       "free": "true",
-      "id": "extras",
-      "icon": "http://koush.kanged.net/cm/test/extras.png",
-      "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
-      "summary": "Cool stuffs."
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "Fabolous",

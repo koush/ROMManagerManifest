@@ -31,6 +31,14 @@
       "summary": "Triple protection for your Android device"
     },
     {
+      "developer": "Superuser",
+      "free": "true",
+      "id": "chainsdd",
+      "icon": "http://chainsdd.github.com/Superuser/icon.png",
+      "manifest": "http://chainsdd.github.com/Superuser/manifest.js",
+      "summary": "Managing root like it's going out of style"
+    },
+    {
       "developer": "cvpcs",
       "free": "true",
       "id": "cvpcs",
@@ -76,14 +84,6 @@
       "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
       "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
       "summary": "GB source build. Group project."
-    },
-    {
-      "developer": "Extras",
-      "free": "true",
-      "id": "extras",
-      "icon": "http://koush.kanged.net/cm/test/extras.png",
-      "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
-      "summary": "Cool stuffs."
     },
     {
       "developer": "Fresh",

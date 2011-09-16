@@ -228,7 +228,6 @@
       "id": "Krylon360",
       "manifest": "http://romshare.deployfu.com/developer/Krylon360/manifest",
       "roms": {
-        "p999": true,
         "vibrant": true
       },
       "summary": "TeamWhiskey Bionix Roms for the LG G2x and Samsung Vibrant "
@@ -292,6 +291,7 @@
       "manifest": "http://romshare.deployfu.com/developer/MIUI.hu/manifest",
       "roms": {
         "p990": true,
+        "ace": true,
         "umts_jordan": true,
         "galaxys": true,
         "milestone": true,
@@ -727,6 +727,17 @@
       "summary": "Triple protection for your Android device"
     },
     {
+      "developer": "Superuser",
+      "free": "true",
+      "id": "chainsdd",
+      "icon": "http://chainsdd.github.com/Superuser/icon.png",
+      "manifest": "http://chainsdd.github.com/Superuser/manifest.js",
+      "roms": {
+        "all": "true"
+      },
+      "summary": "Managing root like it's going out of style"
+    },
+    {
       "developer": "Steel Droid",
       "free": "true",
       "id": "chevycam94",
@@ -967,16 +978,6 @@
       "summary": "The latest stock CyanogenMod 7 Desire (bravo) base ported to HD2 with the minimal amount of changes required.  No custom apps are included.  Visit the ROM's thread @ xda: http://forum.xda-developers.com/showthread.php?t=933951 ."
     },
     {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
-    },
-    {
       "developer": "DrewGaren Roms",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -988,6 +989,16 @@
         "crespo": true
       },
       "summary": "Custom Roms and Themes for your Device"
+    },
+    {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1068,17 +1079,6 @@
         "pyramid": true
       },
       "summary": "ROMs, with a side of metal."
-    },
-    {
-      "developer": "Extras",
-      "free": "true",
-      "id": "extras",
-      "icon": "http://koush.kanged.net/cm/test/extras.png",
-      "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
-      "roms": {
-        "all": "true"
-      },
-      "summary": "Cool stuffs."
     },
     {
       "developer": "E-XtremeMod",
@@ -1751,6 +1751,7 @@
         "ace": true,
         "sholes": true,
         "fascinatemtd": true,
+        "cdma_droid2we": true,
         "bravoc": true,
         "glacier": true,
         "crespo4g": true,
@@ -1940,7 +1941,7 @@
         "a70": true,
         "ascend": true
       },
-      "summary": "Remember folks, I dont get paid to do this, so donation or greatly apprciated even if its just for $1. You can donate by pressing menu > donate while viewing the ROM list. ;)"
+      "summary": "Remember folks, I dont get paid to do this, so donations are greatly apprciated even if its just for $1. You can donate by pressing menu > donate while viewing the ROM list or from the link on my wiki. ;)"
     },
     {
       "developer": "t3hh4xx0r",
@@ -2077,6 +2078,17 @@
         "sholes": "true"
       },
       "summary": "Source built ROM by GFlam & Eagle1967"
+    },
+    {
+      "developer": "squash",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/781/4d7c57236fc2f350a579d6b4d6fc7f74.png",
+      "id": "squash",
+      "manifest": "http://romshare.deployfu.com/developer/squash/manifest",
+      "roms": {
+        "vivow": true
+      },
+      "summary": "Incredible 2 kernels"
     },
     {
       "developer": "Stock Images",

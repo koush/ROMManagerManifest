@@ -9,6 +9,14 @@
       "summary": "Triple protection for your Android device"
     },
     {
+      "developer": "Superuser",
+      "free": "true",
+      "id": "chainsdd",
+      "icon": "http://chainsdd.github.com/Superuser/icon.png",
+      "manifest": "http://chainsdd.github.com/Superuser/manifest.js",
+      "summary": "Managing root like it's going out of style"
+    },
+    {
       "developer": "CyanogenMod Nightlies",
       "id": "cyanogenmodnightly",
       "icon": "http://koush.kanged.net/cm/test/tdr.png",
@@ -22,14 +30,6 @@
       "id": "dfgas",
       "manifest": "http://dfgas.TeamUsCellular.com/rommanager/manual_manifest.js",
       "summary": "dfgas"
-    },
-    {
-      "developer": "Extras",
-      "free": "true",
-      "id": "extras",
-      "icon": "http://koush.kanged.net/cm/test/extras.png",
-      "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
-      "summary": "Cool stuffs."
     },
     {
       "developer": "Google Apps",

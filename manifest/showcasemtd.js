@@ -17,20 +17,20 @@
       "summary": "Triple protection for your Android device"
     },
     {
+      "developer": "Superuser",
+      "free": "true",
+      "id": "chainsdd",
+      "icon": "http://chainsdd.github.com/Superuser/icon.png",
+      "manifest": "http://chainsdd.github.com/Superuser/manifest.js",
+      "summary": "Managing root like it's going out of style"
+    },
+    {
       "developer": "dfgas",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/601/7c809045feea38f822a0d58ca2f6daf3.png",
       "id": "dfgas",
       "manifest": "http://dfgas.TeamUsCellular.com/rommanager/manual_manifest.js",
       "summary": "dfgas"
-    },
-    {
-      "developer": "Extras",
-      "free": "true",
-      "id": "extras",
-      "icon": "http://koush.kanged.net/cm/test/extras.png",
-      "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
-      "summary": "Cool stuffs."
     },
     {
       "developer": "Google Apps",

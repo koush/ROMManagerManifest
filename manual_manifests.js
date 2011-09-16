@@ -127,15 +127,15 @@
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
     {
-      "developer": "Extras",
-      "icon": "http://koush.kanged.net/cm/test/extras.png",
-      "id": "extras",
+      "developer": "Superuser",
+      "icon": "http://chainsdd.github.com/Superuser/icon.png",
+      "id": "chainsdd",
       "free": "true",
-      "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/all.js",
+      "manifest": "http://chainsdd.github.com/Superuser/manifest.js",
       "roms": {
         "all": "true"
       },
-      "summary": "Cool stuffs."
+      "summary": "Managing root like it's going out of style"
     },
     {
       "developer": "Peter Alfonso",

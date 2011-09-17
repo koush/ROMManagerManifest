@@ -80,7 +80,7 @@
     },
     {
       "developer": "Cubed ROM",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/66/24fcf796e1e1fc870f868d35e7cf0207.png",
       "id": "dsb9938",
       "manifest": "http://romshare.deployfu.com/developer/dsb9938/manifest",
@@ -127,11 +127,11 @@
     },
     {
       "developer": "Team BAMF ",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/758/327500a0db76efc307c8032ee32ac018.png",
       "id": "waynestrattonjr@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/waynestrattonjr@gmail.com/manifest",
-      "summary": "waynestrattonjr@gmail.com"
+      "summary": "Official downloads from Team BAMF! For full support, visit www.teambamf.net!"
     }
   ],
   "minversion": "4403"

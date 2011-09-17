@@ -10,7 +10,7 @@
     },
     {
       "developer": "MIUI.hu",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/722/6c020836957e6d84eaf0e747197e935a.png",
       "id": "MIUI.hu",
       "manifest": "http://romshare.deployfu.com/developer/MIUI.hu/manifest",
@@ -65,7 +65,7 @@
     },
     {
       "developer": "DrewGaren Roms",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
       "id": "drewgaren",
       "manifest": "http://romshare.deployfu.com/developer/drewgaren/manifest",
@@ -89,7 +89,7 @@
     },
     {
       "developer": "Htcclay",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/307/5076662d1617430aa6ad3f6ad73136aa.jpg",
       "id": "htcclay",
       "manifest": "http://romshare.deployfu.com/developer/htcclay/manifest",
@@ -97,7 +97,7 @@
     },
     {
       "developer": "NexBreed ROMs",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/150/06f5d36ced5f4795548d594dc9388435.jpg",
       "id": "kaiya215",
       "manifest": "http://romshare.deployfu.com/developer/kaiya215/manifest",

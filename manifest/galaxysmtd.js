@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "Hardbread",
-      "free": true,
+      "free": false,
       "id": "Stenka",
       "manifest": "http://romshare.deployfu.com/developer/Stenka/manifest",
       "summary": "MIUI [ES]"

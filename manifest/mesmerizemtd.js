@@ -42,7 +42,7 @@
     },
     {
       "developer": "jt1134",
-      "free": true,
+      "free": false,
       "id": "jt1134",
       "manifest": "http://romshare.deployfu.com/developer/jt1134/manifest",
       "summary": "jt1134"

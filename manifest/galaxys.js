@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "MIUI.hu",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/722/6c020836957e6d84eaf0e747197e935a.png",
       "id": "MIUI.hu",
       "manifest": "http://romshare.deployfu.com/developer/MIUI.hu/manifest",
@@ -25,8 +25,15 @@
       "summary": "Managing root like it's going out of style"
     },
     {
+      "developer": "coldflid@gmail.com",
+      "free": true,
+      "id": "coldflid",
+      "manifest": "http://romshare.deployfu.com/developer/coldflid/manifest",
+      "summary": "coldflid@gmail.com"
+    },
+    {
       "developer": "DarkyROM",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/124/e975fb9db2047ee42b84d4d65f612fcd.png",
       "id": "darkyy92@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/darkyy92@gmail.com/manifest",

@@ -41,7 +41,7 @@
     },
     {
       "developer": "Infinitybiff",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/653/7dc90deb235d7f8e522085e09fad294a.png",
       "id": "infinitybiff@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/infinitybiff@gmail.com/manifest",
@@ -49,7 +49,7 @@
     },
     {
       "developer": "jt1134",
-      "free": false,
+      "free": true,
       "id": "jt1134",
       "manifest": "http://romshare.deployfu.com/developer/jt1134/manifest",
       "summary": "jt1134"
@@ -61,6 +61,13 @@
       "id": "miuius",
       "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
       "summary": "MIUI English releases by MIUI.us"
+    },
+    {
+      "developer": "sixstringsg",
+      "free": true,
+      "id": "sixstringsg",
+      "manifest": "http://romshare.deployfu.com/developer/sixstringsg/manifest",
+      "summary": "Kernel developer for the SGS line"
     }
   ],
   "minversion": "4403"

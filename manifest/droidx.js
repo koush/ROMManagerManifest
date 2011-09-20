@@ -31,7 +31,7 @@
     },
     {
       "developer": "TeamChargeDev",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/589/341ad33f92b005d705f1557ae861b23e.png",
       "id": "Smyers1012",
       "manifest": "http://romshare.deployfu.com/developer/Smyers1012/manifest",
@@ -69,6 +69,14 @@
       "summary": "Source-based mods made by CVPCS"
     },
     {
+      "developer": "DrewGaren Roms",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
+      "id": "drewgaren",
+      "manifest": "http://romshare.deployfu.com/developer/drewgaren/manifest",
+      "summary": "Custom Roms and Themes for your Device"
+    },
+    {
       "developer": "DrewGaren",
       "free": "true",
       "id": "drewgaren",
@@ -76,16 +84,8 @@
       "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
-      "developer": "DrewGaren Roms",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
-      "id": "drewgaren",
-      "manifest": "http://romshare.deployfu.com/developer/drewgaren/manifest",
-      "summary": "Custom Roms and Themes for your Device"
-    },
-    {
       "developer": "Fabolous",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/337/d2c1bf150b52364eca4dcba86135ff9d.png",
       "id": "fabolous",
       "manifest": "http://romshare.deployfu.com/developer/fabolous/manifest",
@@ -121,14 +121,14 @@
     },
     {
       "developer": "notna659@gmail.com",
-      "free": false,
+      "free": true,
       "id": "notna659@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/notna659@gmail.com/manifest",
       "summary": "notna659@gmail.com"
     },
     {
       "developer": "EnYo",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/633/6d66fe89a61766765127c1ba4e5222fd.png",
       "id": "rfvbnji91@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/rfvbnji91@gmail.com/manifest",

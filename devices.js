@@ -1287,11 +1287,12 @@
       "name": "Motorola Droid Bionic",
       "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
       "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
-      "version": "5.0.2.4",
+      "version": "5.0.2.5",
       "readonly_recovery": true,
       "init": "init.mapphone_cdma.rc",
       "legacy_versions": [
-        "5.0.2.3"
+        "5.0.2.3",
+        "5.0.2.4"
       ],
       "key": "targa",
       "lunch": "generic_targa-eng"
@@ -1300,11 +1301,12 @@
       "name": "Motorola Droid X2",
       "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
       "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
-      "version": "5.0.2.4",
+      "version": "5.0.2.5",
       "readonly_recovery": true,
       "init": "init.mapphone_cdma.rc",
       "legacy_versions": [
-        "5.0.2.3"
+        "5.0.2.3",
+        "5.0.2.4"
       ],
       "key": "daytona",
       "lunch": "generic_daytona-eng"

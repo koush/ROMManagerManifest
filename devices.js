@@ -1277,11 +1277,31 @@
       "name": "Motorola Droid 2 Global",
       "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
       "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
-      "readonly_recovery": true,
       "version": "5.0.2.3",
+      "readonly_recovery": true,
       "init": "init.mapphone_cdma.rc",
       "key": "droid2we",
       "lunch": "cyanogen_droid2we-eng"
+    },
+    {
+      "name": "Motorola Droid Bionic",
+      "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
+      "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
+      "readonly_recovery": true,
+      "version": "5.0.2.3",
+      "init": "init.mapphone_cdma.rc",
+      "key": "targa",
+      "lunch": "generic_targa-eng"
+    },
+    {
+      "name": "Motorola Droid X2",
+      "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
+      "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
+      "readonly_recovery": true,
+      "version": "5.0.2.3",
+      "init": "init.mapphone_cdma.rc",
+      "key": "daytona",
+      "lunch": "generic_daytona-eng"
     }
   ],
   "use_in_app": false,

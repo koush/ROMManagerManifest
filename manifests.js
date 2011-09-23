@@ -977,6 +977,17 @@
       "summary": "Aura Rom for the Atrix"
     },
     {
+      "developer": "djpbx' ROMS",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/794/e317ca8f3c09678408816cf171108c8e.gif",
+      "id": "djpbx",
+      "manifest": "http://romshare.deployfu.com/developer/djpbx/manifest",
+      "roms": {
+        "saga": true
+      },
+      "summary": "djpbx' ROMS for HTC Desire S"
+    },
+    {
       "developer": "TyphooN CyanogenMod",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/146/24fb59de6489c544c6fd683b6a43e491.png",
@@ -1045,17 +1056,6 @@
       "summary": "Eagleblood Roms Fast/Stable/Clean"
     },
     {
-      "developer": "Salvage-Mod",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "GB source build. Group project."
-    },
-    {
       "developer": "Salvage-Mod Nightlies",
       "free": "true",
       "id": "echo17",
@@ -1065,6 +1065,17 @@
         "supersonic": "true"
       },
       "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
+    },
+    {
+      "developer": "Salvage-Mod",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "GB source build. Group project."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -1223,6 +1234,17 @@
         "fascinate": "true"
       },
       "summary": "Kernels for Samsung Fascinate"
+    },
+    {
+      "developer": "gianluck95@gmail.com",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/772/aac0961affc58a65b8fda0f455ed6f0a.png",
+      "id": "gianluck95@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/gianluck95@gmail.com/manifest",
+      "roms": {
+        "thunderg": true
+      },
+      "summary": "gianluck95@gmail.com"
     },
     {
       "developer": "G-TabDevs",
@@ -1752,7 +1774,6 @@
         "passion": true,
         "galaxys": true,
         "captivate": true,
-        "Liquid": true,
         "vibrant": true,
         "captivatemtd": true,
         "galaxytab": true,
@@ -1761,6 +1782,7 @@
         "crespo": true,
         "vision": true,
         "galaxysmtd": true,
+        "liquid": true,
         "umts_sholes": true
       },
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
@@ -1892,7 +1914,7 @@
       "summary": "notna659@gmail.com"
     },
     {
-      "developer": "thachtunganh",
+      "developer": "Th?ch Tùng Anh",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/474/8ee6f108580b3027fec19d4ee4a00af4.png",
       "id": "o0tunganh0o@gmail.com",
@@ -1900,7 +1922,7 @@
       "roms": {
         "thunderg": true
       },
-      "summary": "Do a Wipe all User data And also Partition your SD-card if this is the first time you flash My Rom, Thank you!"
+      "summary": "wipe all , wipe cache and davik, format /system , FLASH !"
     },
     {
       "developer": "XDA Roms",

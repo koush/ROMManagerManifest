@@ -32,6 +32,14 @@
       "summary": "don't forget to patrition your sd card swap 0 ext4 512 or more"
     },
     {
+      "developer": "gianluck95@gmail.com",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/772/aac0961affc58a65b8fda0f455ed6f0a.png",
+      "id": "gianluck95@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/gianluck95@gmail.com/manifest",
+      "summary": "gianluck95@gmail.com"
+    },
+    {
       "developer": "Google Apps",
       "free": "true",
       "id": "google",
@@ -48,12 +56,12 @@
       "summary": "kiril.mik.os@gmail.com"
     },
     {
-      "developer": "thachtunganh",
+      "developer": "Th?ch Tùng Anh",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/474/8ee6f108580b3027fec19d4ee4a00af4.png",
       "id": "o0tunganh0o@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/o0tunganh0o@gmail.com/manifest",
-      "summary": "Do a Wipe all User data And also Partition your SD-card if this is the first time you flash My Rom, Thank you!"
+      "summary": "wipe all , wipe cache and davik, format /system , FLASH !"
     }
   ],
   "minversion": "4403"

@@ -17,6 +17,14 @@
       "summary": "Managing root like it's going out of style"
     },
     {
+      "developer": "djpbx' ROMS",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/794/e317ca8f3c09678408816cf171108c8e.gif",
+      "id": "djpbx",
+      "manifest": "http://romshare.deployfu.com/developer/djpbx/manifest",
+      "summary": "djpbx' ROMS for HTC Desire S"
+    },
+    {
       "developer": "Google Apps",
       "free": "true",
       "id": "google",

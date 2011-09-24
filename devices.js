@@ -1310,6 +1310,19 @@
       ],
       "key": "daytona",
       "lunch": "generic_daytona-eng"
+    },
+    {
+      "name": "Motorola Droid 3",
+      "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
+      "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
+      "readonly_recovery": true,
+      "version": "5.0.2.6",
+      "init": "init.mapphone_cdma.rc",
+      "legacy_versions": [
+        "5.0.2.5"
+      ],
+      "key": "solana",
+      "lunch": "full_solana-eng"
     }
   ],
   "use_in_app": false,

@@ -41,7 +41,7 @@
     },
     {
       "developer": "Infinitybiff",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/653/7dc90deb235d7f8e522085e09fad294a.png",
       "id": "infinitybiff@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/infinitybiff@gmail.com/manifest",
@@ -49,7 +49,7 @@
     },
     {
       "developer": "jt1134",
-      "free": true,
+      "free": false,
       "id": "jt1134",
       "manifest": "http://romshare.deployfu.com/developer/jt1134/manifest",
       "summary": "jt1134"
@@ -64,7 +64,7 @@
     },
     {
       "developer": "sixstringsg",
-      "free": true,
+      "free": false,
       "id": "sixstringsg",
       "manifest": "http://romshare.deployfu.com/developer/sixstringsg/manifest",
       "summary": "Kernel developer for the SGS line"

@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "GreenRom Project",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/672/900449a34b08c137930980f65c629f20.png",
       "id": "GRP",
       "manifest": "http://romshare.deployfu.com/developer/GRP/manifest",
@@ -10,7 +10,7 @@
     },
     {
       "developer": "GreenRomProject",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
       "id": "GreenRomProject",
       "manifest": "http://romshare.deployfu.com/developer/GreenRomProject/manifest",
@@ -18,7 +18,7 @@
     },
     {
       "developer": "LDrifta",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/554/c2176488c9813e3b7c2a3b1802f09c7d.png",
       "id": "LDrifta",
       "manifest": "http://romshare.deployfu.com/developer/LDrifta/manifest",
@@ -88,7 +88,7 @@
     },
     {
       "developer": "Ginger yoshi ^_^",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/294/b0c8e3dee633ac3d0f6ce3352389943b.png",
       "id": "yohshua",
       "manifest": "http://romshare.deployfu.com/developer/yohshua/manifest",

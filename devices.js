@@ -583,7 +583,7 @@
       "key": "vega"
     },
     {
-      "name": "Viewsonic GTab",
+      "name": "Viewsonic GTab (Deprecated - use smb_a1002)",
       "flash_recovery": "/data/data/com.koushikdutta.rommanager/files/tegra_flash_image recovery %s ; ",
       "version": "2.5.1.8",
       "init": "init.harmony.rc",
@@ -1177,7 +1177,7 @@
       "name": "Viewsonic GTablet (smb_a1002)",
       "flash_recovery": "/data/data/com.koushikdutta.rommanager/files/tegra_flash_image recovery %s ; ",
       "version": "4.0.1.5",
-      "init": "init.harmony.rc",
+      "init": "init_recovery.rc",
       "key": "smb_a1002"
     },
     {

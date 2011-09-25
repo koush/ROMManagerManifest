@@ -81,14 +81,6 @@
       "summary": "ChevyCam94's Custom ROM's"
     },
     {
-      "developer": "CorCor67",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/208/1a50ab91ddac2b2ef3829b8e4c7a3664.png",
-      "id": "corcor67@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/corcor67@gmail.com/manifest",
-      "summary": "OC Kernels for the Droid"
-    },
-    {
       "developer": "cvpcs",
       "free": "true",
       "id": "cvpcs",

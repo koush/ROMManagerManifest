@@ -25,6 +25,14 @@
       "summary": "aosp4u@gmail.com"
     },
     {
+      "developer": "CdTDroiD",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/803/8fadc6ba0b72e5eca7b50a5e2dea7193.png",
+      "id": "cdtdroid",
+      "manifest": "http://romshare.deployfu.com/developer/cdtdroid/manifest",
+      "summary": "High quality, fast and stable Sense ROM's"
+    },
+    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",

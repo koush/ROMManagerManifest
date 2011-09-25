@@ -138,19 +138,6 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "Peter Alfonso",
-      "id": "pete",
-      "free": "true",
-      "icon": "http://wonderly.com/bb/WEBSITE/pete.jpg",
-      "manifest": "http://wonderly.com/bb/WEBSITE/pete.js",
-      "roms": {
-        "sholes": "true",
-        "crespo4g": "true",
-        "crespo": "true"
-      },
-      "summary": "www.peteralfonso.com\nwww.twitter.com/peteralfonso"
-    },
-    {
       "developer": "forkup",
       "id": "forkup",
       "manifest": "http://www.forkup.info/droidthemes/forkup.js",

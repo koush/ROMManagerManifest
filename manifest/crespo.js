@@ -137,11 +137,11 @@
     },
     {
       "developer": "Peter Alfonso",
-      "icon": "http://wonderly.com/bb/WEBSITE/pete.jpg",
-      "free": "true",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/809/23ab34a53a8e93699239b87fd0360ad7.jpg",
       "id": "pete",
       "manifest": "http://wonderly.com/bb/WEBSITE/pete.js",
-      "summary": "www.peteralfonso.com\nwww.twitter.com/peteralfonso"
+      "summary": "ROMs and other mods"
     },
     {
       "developer": "Stock Images",

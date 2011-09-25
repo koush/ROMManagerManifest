@@ -145,7 +145,8 @@
       "manifest": "http://wonderly.com/bb/WEBSITE/pete.js",
       "roms": {
         "sholes": "true",
-        "crespo4g": "true"
+        "crespo4g": "true",
+        "crespo": "true"
       },
       "summary": "www.peteralfonso.com\nwww.twitter.com/peteralfonso"
     },

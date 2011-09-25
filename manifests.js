@@ -301,6 +301,17 @@
       "summary": "MIUI magyar lokalizációja | miui.hu @ 2011"
     },
     {
+      "developer": "Menelkir ROMs",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/791/11b39c3b365a9d1160b1b7e9d94911c3.jpg",
+      "id": "Menelkir",
+      "manifest": "http://romshare.deployfu.com/developer/Menelkir/manifest",
+      "roms": {
+        "passion": true
+      },
+      "summary": "Experimental ROMs including Sense and AOSP. (WIP)"
+    },
+    {
       "developer": "Navalynt Roms (3.14 Series)",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/596/5a7d89b16d54be204e888a7f5e5ed390.png",
@@ -718,7 +729,7 @@
     {
       "developer": "CdTDroiD",
       "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/803/8fadc6ba0b72e5eca7b50a5e2dea7193.png",
+      "icon": "http://romshare.deployfu.com/downloads/803/9aec5a3c5464161e710530ada496a0fe.png",
       "id": "cdtdroid",
       "manifest": "http://romshare.deployfu.com/developer/cdtdroid/manifest",
       "roms": {
@@ -1056,17 +1067,6 @@
       "summary": "Eagleblood Roms Fast/Stable/Clean"
     },
     {
-      "developer": "Salvage-Mod",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "GB source build. Group project."
-    },
-    {
       "developer": "Salvage-Mod Nightlies",
       "free": "true",
       "id": "echo17",
@@ -1076,6 +1076,17 @@
         "supersonic": "true"
       },
       "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
+    },
+    {
+      "developer": "Salvage-Mod",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "GB source build. Group project."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -1956,7 +1967,8 @@
       "manifest": "http://wonderly.com/bb/WEBSITE/pete.js",
       "roms": {
         "sholes": "true",
-        "crespo4g": "true"
+        "crespo4g": "true",
+        "crespo": "true"
       },
       "summary": "www.peteralfonso.com\nwww.twitter.com/peteralfonso"
     },
@@ -2181,17 +2193,6 @@
       "summary": "Stock ROM with a ton of bloatware removed and some added swag"
     },
     {
-      "developer": "CyanogenMod Nightlies",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/541/91afee5f3ad77376b65aa60038c4979c.png",
-      "id": "tanguy.pruvot@gmail.com",
-      "manifest": "http://tpruvot.free.fr/rm/custom.js",
-      "roms": {
-        "umts_jordan": true
-      },
-      "summary": "CyanogenMod Nightly builds. tpruvot@github"
-    },
-    {
       "developer": "CyanogenMod RC",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
@@ -2201,6 +2202,17 @@
         "umts_jordan": true
       },
       "summary": "Stable but unofficial RC"
+    },
+    {
+      "developer": "CyanogenMod Nightlies",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/541/91afee5f3ad77376b65aa60038c4979c.png",
+      "id": "tanguy.pruvot@gmail.com",
+      "manifest": "http://tpruvot.free.fr/rm/custom.js",
+      "roms": {
+        "umts_jordan": true
+      },
+      "summary": "CyanogenMod Nightly builds. tpruvot@github"
     },
     {
       "developer": "Tedgy",

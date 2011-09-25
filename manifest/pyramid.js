@@ -27,7 +27,7 @@
     {
       "developer": "CdTDroiD",
       "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/803/8fadc6ba0b72e5eca7b50a5e2dea7193.png",
+      "icon": "http://romshare.deployfu.com/downloads/803/9aec5a3c5464161e710530ada496a0fe.png",
       "id": "cdtdroid",
       "manifest": "http://romshare.deployfu.com/developer/cdtdroid/manifest",
       "summary": "High quality, fast and stable Sense ROM's"

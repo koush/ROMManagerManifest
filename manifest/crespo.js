@@ -136,6 +136,14 @@
       "summary": "MIUI English releases by MIUI.us"
     },
     {
+      "developer": "Peter Alfonso",
+      "icon": "http://wonderly.com/bb/WEBSITE/pete.jpg",
+      "free": "true",
+      "id": "pete",
+      "manifest": "http://wonderly.com/bb/WEBSITE/pete.js",
+      "summary": "www.peteralfonso.com\nwww.twitter.com/peteralfonso"
+    },
+    {
       "developer": "Stock Images",
       "free": "true",
       "icon": "http://koush.kanged.net/cm/test/n1.png",

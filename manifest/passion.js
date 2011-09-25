@@ -8,6 +8,14 @@
       "summary": "Custom Themes & Goodies"
     },
     {
+      "developer": "Menelkir ROMs",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/791/11b39c3b365a9d1160b1b7e9d94911c3.jpg",
+      "id": "Menelkir",
+      "manifest": "http://romshare.deployfu.com/developer/Menelkir/manifest",
+      "summary": "Experimental ROMs including Sense and AOSP. (WIP)"
+    },
+    {
       "developer": "Blandroid",
       "free": "true",
       "id": "blandroid",

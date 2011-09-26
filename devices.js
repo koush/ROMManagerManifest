@@ -1176,7 +1176,7 @@
       "lunch": "generic_olympus-eng"
     },
     {
-      "name": "Viewsonic GTablet (smb_a1002)",
+      "name": "Viewsonic GTablet (smb_a1002) - Bootloader 1.1",
       "flash_recovery": "/data/data/com.koushikdutta.rommanager/files/tegra_flash_image recovery %s ; ",
       "version": "4.0.1.5",
       "init": "init_recovery.rc",

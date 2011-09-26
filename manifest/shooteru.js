@@ -34,7 +34,7 @@
     },
     {
       "developer": "nickiberli",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/690/db6ea256d879d60f1618bd1e03de3453.png",
       "id": "nickiberli",
       "manifest": "http://romshare.deployfu.com/developer/nickiberli/manifest",

@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "MIUI.hu",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/722/6c020836957e6d84eaf0e747197e935a.png",
       "id": "MIUI.hu",
       "manifest": "http://romshare.deployfu.com/developer/MIUI.hu/manifest",
@@ -41,7 +41,7 @@
     },
     {
       "developer": "Codeworkx",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/51/b1939ede73c42c69d8e2c3f1f34f3265.png",
       "id": "daniel.hillenbrand@codeworkx.de",
       "manifest": "http://romshare.deployfu.com/developer/daniel.hillenbrand@codeworkx.de/manifest",
@@ -65,7 +65,7 @@
     },
     {
       "developer": "Novek",
-      "free": false,
+      "free": true,
       "id": "trondkevin@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/trondkevin@gmail.com/manifest",
       "summary": "Happy XDA'er"

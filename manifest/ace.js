@@ -10,7 +10,7 @@
     },
     {
       "developer": "Honey3D",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/376/b266f88e7063336d333ef7ad4fd4d6ff.png",
       "id": "HoneyTeam",
       "manifest": "http://romshare.deployfu.com/developer/HoneyTeam/manifest",
@@ -26,7 +26,7 @@
     },
     {
       "developer": "MIUI.hu",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/722/6c020836957e6d84eaf0e747197e935a.png",
       "id": "MIUI.hu",
       "manifest": "http://romshare.deployfu.com/developer/MIUI.hu/manifest",
@@ -42,7 +42,7 @@
     },
     {
       "developer": "cstayton",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/546/7489780bf323b88233ae310c1c65a08e.png",
       "id": "castayton@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/castayton@gmail.com/manifest",
@@ -129,7 +129,7 @@
     },
     {
       "developer": "pirateghost",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/618/e651f76ee302b696b7e42ed966b612cf.jpg",
       "id": "pirateg@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/pirateg@gmail.com/manifest",
@@ -142,6 +142,14 @@
       "id": "virtuous",
       "manifest": "http://files.virtuousrom.com/virtuous.js",
       "summary": "Enhanced Sense ROMs and more from the Virtuous Team."
+    },
+    {
+      "developer": "BeatMod",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/808/29ee447fcc3007273db53bf1c419514c.png",
+      "id": "zFr3eak",
+      "manifest": "http://zfr3eak.github.com/BeatMod/mainfest.js",
+      "summary": "lukas.trimmel9@gmail.com"
     }
   ],
   "minversion": "4403"

@@ -34,11 +34,11 @@
     },
     {
       "developer": "Jalen",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/475/83b1212e420f39b900d6011fda66ad4c.jpg",
       "id": "x_SCOS_x_Elite",
       "manifest": "http://romshare.deployfu.com/developer/x_SCOS_x_Elite/manifest",
-      "summary": "Finally Fixed It. Here is NGI v2.6"
+      "summary": "Lots of New Updates Available"
     }
   ],
   "minversion": "4403"

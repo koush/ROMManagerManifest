@@ -61,7 +61,7 @@
       "icon": "http://romshare.deployfu.com/downloads/809/23ab34a53a8e93699239b87fd0360ad7.jpg",
       "id": "pete",
       "manifest": "http://wonderly.com/bb/WEBSITE/pete.js",
-      "summary": "ROMs and other mods"
+      "summary": "www.peteralfonso.com"
     }
   ],
   "minversion": "4403"

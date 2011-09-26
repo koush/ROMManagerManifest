@@ -10,7 +10,7 @@
     },
     {
       "developer": "CiVic",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/754/b33b496dcc1158a6fb54aade5e74befa.png",
       "id": "agoura@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/agoura@gmail.com/manifest",
@@ -18,7 +18,7 @@
     },
     {
       "developer": "aosp",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/322/c97732b0067d16ccf420f20f78b8f36a.png",
       "id": "aospmod",
       "manifest": "http://romshare.deployfu.com/developer/aospmod/manifest",
@@ -26,7 +26,7 @@
     },
     {
       "developer": "CdTDroiD",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/803/9aec5a3c5464161e710530ada496a0fe.png",
       "id": "cdtdroid",
       "manifest": "http://romshare.deployfu.com/developer/cdtdroid/manifest",
@@ -50,7 +50,7 @@
     },
     {
       "developer": "doniqcc",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/718/9c3899d3bf007a79e4bab261fad0c501.jpg",
       "id": "eagleblood",
       "manifest": "http://romshare.deployfu.com/developer/eagleblood/manifest",
@@ -74,7 +74,7 @@
     },
     {
       "developer": "Htcclay",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/307/5076662d1617430aa6ad3f6ad73136aa.jpg",
       "id": "htcclay",
       "manifest": "http://romshare.deployfu.com/developer/htcclay/manifest",
@@ -90,7 +90,7 @@
     },
     {
       "developer": "Xboarder56",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/663/402e31bd0ad3f6f57f92d29c291c52d7.jpg",
       "id": "xboarder56",
       "manifest": "http://romshare.deployfu.com/developer/xboarder56/manifest",

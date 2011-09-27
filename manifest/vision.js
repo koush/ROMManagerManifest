@@ -16,14 +16,6 @@
       "summary": "Costum ROM with Darktremor Apps2SD,Ext4 and Pershootkernel"
     },
     {
-      "developer": "BeatMod",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/808/25f72d0d945f057819f237f7f967a8fd.png",
-      "id": "beatmod",
-      "manifest": "http://dl.dropbox.com/u/16464766/mainfest.js",
-      "summary": "Roms for your HTC Device"
-    },
-    {
       "developer": "PyroMod DevTeam Roms",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/289/f50f109fd0e925ebc88d9d0d350411c1.jpg",

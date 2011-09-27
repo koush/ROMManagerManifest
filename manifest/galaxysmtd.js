@@ -69,6 +69,14 @@
       "id": "miuius",
       "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
       "summary": "MIUI English releases by MIUI.us"
+    },
+    {
+      "developer": "MyUI",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/764/cf4a41ce70782f6b5090be541dbb1128.png",
+      "id": "teammyui",
+      "manifest": "http://myui.rollus.net/releases/ROMManager/myuimanifest.js",
+      "summary": "MyUI - Votre MIUI parfaite, Your perfect MIUI - Team MyUI @ 2011"
     }
   ],
   "minversion": "4403"

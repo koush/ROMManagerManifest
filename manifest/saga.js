@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+      "developer": "BeatMod",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/808/25f72d0d945f057819f237f7f967a8fd.png",
+      "id": "beatmod",
+      "manifest": "http://dl.dropbox.com/u/16464766/mainfest.js",
+      "summary": "Roms for your HTC Device"
+    },
+    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",
@@ -55,14 +63,6 @@
       "id": "virtuous",
       "manifest": "http://files.virtuousrom.com/virtuous.js",
       "summary": "Enhanced Sense ROMs and more from the Virtuous Team."
-    },
-    {
-      "developer": "BeatMod",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/808/29ee447fcc3007273db53bf1c419514c.png",
-      "id": "zFr3eak",
-      "manifest": "http://zfr3eak.github.com/BeatMod/mainfest.js",
-      "summary": "lukas.trimmel9@gmail.com"
     }
   ],
   "minversion": "4403"

@@ -291,9 +291,9 @@
       "manifest": "http://romshare.deployfu.com/developer/MIUI.hu/manifest",
       "roms": {
         "p990": true,
+        "umts_jordan": true,
         "galaxys": true,
         "ace": true,
-        "umts_jordan": true,
         "milestone": true,
         "crespo": true,
         "galaxys2": true
@@ -373,6 +373,17 @@
         "zeppelin": true
       },
       "summary": "AmbrosialROMS: Bringing More Sizzle to the Bacon!"
+    },
+    {
+      "developer": "RevNumbers",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/813/5fedd62d6bdce82a1ce57649d118a9f6.gif",
+      "id": "RevNumbers",
+      "manifest": "http://romshare.deployfu.com/developer/RevNumbers/manifest",
+      "roms": {
+        "droid2": true
+      },
+      "summary": "Custom CyanogenMod builds by RevNumbers for the Droid2 DroidX and Droid2 Global"
     },
     {
       "developer": "Complete Android Experience ",
@@ -616,6 +627,20 @@
         "speedy": "true"
       },
       "summary": "Roms and Kernels for the HTC EVO Shift"
+    },
+    {
+      "developer": "BeatMod",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/808/25f72d0d945f057819f237f7f967a8fd.png",
+      "id": "beatmod",
+      "manifest": "http://dl.dropbox.com/u/16464766/mainfest.js",
+      "roms": {
+        "ace": true,
+        "inspire": true,
+        "saga": true,
+        "vision": true
+      },
+      "summary": "Roms for your HTC Device"
     },
     {
       "developer": "BeeGee_Tokyo",
@@ -999,6 +1024,16 @@
       "summary": "The latest stock CyanogenMod 7 Desire (bravo) base ported to HD2 with the minimal amount of changes required.  No custom apps are included.  Visit the ROM's thread @ xda: http://forum.xda-developers.com/showthread.php?t=933951 ."
     },
     {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
+    },
+    {
       "developer": "DrewGaren Roms",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1010,16 +1045,6 @@
         "crespo": true
       },
       "summary": "Custom Roms and Themes for your Device"
-    },
-    {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1316,16 +1341,6 @@
       "summary": "Go Go Go!"
     },
     {
-      "developer": "HyperDroid",
-      "free": "true",
-      "id": "hyperdroid",
-      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
-      "roms": {
-        "leo": "true"
-      },
-      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
-    },
-    {
       "developer": "HyperDroid CM7",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
@@ -1335,6 +1350,16 @@
         "leo": true
       },
       "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
+    },
+    {
+      "developer": "HyperDroid",
+      "free": "true",
+      "id": "hyperdroid",
+      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
+      "roms": {
+        "leo": "true"
+      },
+      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
     },
     {
       "developer": "Ihtfp69",
@@ -1776,8 +1801,8 @@
         "captivate": true,
         "vibrant": true,
         "captivatemtd": true,
-        "galaxys2": true,
         "inc": true,
+        "galaxys2": true,
         "crespo": true,
         "vision": true,
         "galaxysmtd": true,
@@ -1794,6 +1819,7 @@
       "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
       "roms": {
         "leo": true,
+        "shooter": true,
         "vivow": true,
         "shadow": true,
         "droid2": true,
@@ -1859,17 +1885,6 @@
       "summary": "Warm treats for Android"
     },
     {
-      "developer": "MyUI",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/764/cf4a41ce70782f6b5090be541dbb1128.png",
-      "id": "myuiteam",
-      "manifest": "http://myui.rollus.net/releases/ROMManager/myuimanifest.js",
-      "roms": {
-        "galaxys": true
-      },
-      "summary": "MyUI - Votre MIUI parfaite, Your perfect MIUI - Team MyUI @ 2011"
-    },
-    {
       "developer": "nickiberli",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/690/db6ea256d879d60f1618bd1e03de3453.png",
@@ -1913,7 +1928,7 @@
       "summary": "notna659@gmail.com"
     },
     {
-      "developer": "Th?ch Tùng Anh",
+      "developer": "Thachtunganh",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/474/8ee6f108580b3027fec19d4ee4a00af4.png",
       "id": "o0tunganh0o@gmail.com",
@@ -1921,7 +1936,7 @@
       "roms": {
         "thunderg": true
       },
-      "summary": "wipe all , wipe cache and davik, format /system , FLASH !"
+      "summary": "Vietnamese Only , Format /system , wipe h?t tr??c khi flash nhé :)"
     },
     {
       "developer": "XDA Roms",
@@ -1955,6 +1970,7 @@
       "id": "pete",
       "manifest": "http://wonderly.com/bb/WEBSITE/pete.js",
       "roms": {
+        "passion": true,
         "sholes": true,
         "crespo4g": true,
         "crespo": true
@@ -2021,8 +2037,8 @@
       "roms": {
         "droid2": true,
         "passion": true,
-        "fascinate": true,
         "sholes": true,
+        "fascinatemtd": true,
         "droidx": true,
         "droidpro": true
       },
@@ -2203,6 +2219,18 @@
         "umts_jordan": true
       },
       "summary": "CyanogenMod Nightly builds. tpruvot@github"
+    },
+    {
+      "developer": "MyUI",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/764/cf4a41ce70782f6b5090be541dbb1128.png",
+      "id": "teammyui",
+      "manifest": "http://myui.rollus.net/releases/ROMManager/myuimanifest.js",
+      "roms": {
+        "galaxys": true,
+        "galaxysmtd": true
+      },
+      "summary": "MyUI - Votre MIUI parfaite, Your perfect MIUI - Team MyUI @ 2011"
     },
     {
       "developer": "Tedgy",
@@ -2403,21 +2431,6 @@
         "sapphire": true
       },
       "summary": "all the ginger yoshi roms "
-    },
-    {
-      "developer": "BeatMod",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/808/29ee447fcc3007273db53bf1c419514c.png",
-      "id": "zFr3eak",
-      "manifest": "http://zfr3eak.github.com/BeatMod/mainfest.js",
-      "roms": {
-        "ace": true,
-        "glacier": true,
-        "inspire": true,
-        "saga": true,
-        "vision": true
-      },
-      "summary": "lukas.trimmel9@gmail.com"
     }
   ],
   "minversion": "4403"

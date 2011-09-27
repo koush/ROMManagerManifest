@@ -16,6 +16,14 @@
       "summary": "Costum ROM with Darktremor Apps2SD,Ext4 and Pershootkernel"
     },
     {
+      "developer": "BeatMod",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/808/25f72d0d945f057819f237f7f967a8fd.png",
+      "id": "beatmod",
+      "manifest": "http://dl.dropbox.com/u/16464766/mainfest.js",
+      "summary": "Roms for your HTC Device"
+    },
+    {
       "developer": "PyroMod DevTeam Roms",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/289/f50f109fd0e925ebc88d9d0d350411c1.jpg",
@@ -155,14 +163,6 @@
       "id": "xboarder56",
       "manifest": "http://romshare.deployfu.com/developer/xboarder56/manifest",
       "summary": "XboarderMOD Roms are a mix of Cm7/AOSP to give you the best of both worlds :D"
-    },
-    {
-      "developer": "BeatMod",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/808/29ee447fcc3007273db53bf1c419514c.png",
-      "id": "zFr3eak",
-      "manifest": "http://zfr3eak.github.com/BeatMod/mainfest.js",
-      "summary": "lukas.trimmel9@gmail.com"
     }
   ],
   "minversion": "4403"

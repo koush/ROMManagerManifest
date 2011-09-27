@@ -137,6 +137,14 @@
       "summary": "Custom kernels and other awesomeness"
     },
     {
+      "developer": "Peter Alfonso",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/809/23ab34a53a8e93699239b87fd0360ad7.jpg",
+      "id": "pete",
+      "manifest": "http://wonderly.com/bb/WEBSITE/pete.js",
+      "summary": "www.peteralfonso.com"
+    },
+    {
       "developer": "EnYo",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/633/6d66fe89a61766765127c1ba4e5222fd.png",

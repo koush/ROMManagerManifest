@@ -16,6 +16,14 @@
       "summary": "Source Built Gingerbread and Custom Tbolt Roms"
     },
     {
+      "developer": "RevNumbers",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/813/5fedd62d6bdce82a1ce57649d118a9f6.gif",
+      "id": "RevNumbers",
+      "manifest": "http://romshare.deployfu.com/developer/RevNumbers/manifest",
+      "summary": "Custom CyanogenMod builds by RevNumbers for the Droid2 DroidX and Droid2 Global"
+    },
+    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",

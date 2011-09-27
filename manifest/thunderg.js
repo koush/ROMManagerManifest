@@ -56,12 +56,12 @@
       "summary": "kiril.mik.os@gmail.com"
     },
     {
-      "developer": "Th?ch Tùng Anh",
+      "developer": "Thachtunganh",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/474/8ee6f108580b3027fec19d4ee4a00af4.png",
       "id": "o0tunganh0o@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/o0tunganh0o@gmail.com/manifest",
-      "summary": "wipe all , wipe cache and davik, format /system , FLASH !"
+      "summary": "Vietnamese Only , Format /system , wipe h?t tr??c khi flash nhé :)"
     }
   ],
   "minversion": "4403"

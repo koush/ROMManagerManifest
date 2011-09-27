@@ -890,8 +890,8 @@
         "5.0.2.0"
       ],
       "alternate_recovery": {
-        "name": "RA_GNM Recovery v3.04",
-        "url": "http://dl.dropbox.com/u/12949506/RomManager/recovery-ra-mecha-3.04.img",
+        "name": "RA_GNM Recovery v3.05",
+        "url": "http://dl.dropbox.com/u/12949506/RomManager/recovery-ra-mecha-3.05.img",
         "clockwork": false
       },
       "key": "mecha",
@@ -1119,8 +1119,8 @@
         "5.0.1.9"
       ],
       "alternate_recovery": {
-        "name": "RA_GNM Recovery v3.04",
-        "url": "http://dl.dropbox.com/u/12949506/RomManager/recovery-ra-vivow-3.04.img",
+        "name": "RA_GNM Recovery v3.05",
+        "url": "http://dl.dropbox.com/u/12949506/RomManager/recovery-ra-vivow-3.05.img",
         "clockwork": false
       },
       "key": "vivow",

@@ -467,7 +467,7 @@
     },
     {
       "name": "HTC G2",
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 ; ",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=262144 ; ",
       "version": "3.0.2.4",
       "init": "init.vision.rc",
       "legacy_versions": [

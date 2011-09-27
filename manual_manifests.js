@@ -7,6 +7,7 @@
       "free": "true",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
       "roms": {
+        "motus": "true",
         "smb_a1002": "true",
         "p999": "true",
         "zeppelin": "true",
@@ -69,6 +70,7 @@
       "id": "cyanogenmodnightly",
       "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
       "roms": {
+        "motus": "true",
         "smb_a1002": "true",
         "p999": "true",
         "zeppelin": "true",

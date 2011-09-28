@@ -1341,6 +1341,25 @@
         },
         {
             "device": "mecha",
+            "name": "CyanogenMod 7.1.0-RC1.8",
+            "modversion": "CyanogenMod-7.1.0-RC-1.8-Thunderbolt-KANG",
+            "incremental": "7106",
+            "url": "http://goo-inside.me/cm/mecha/rc/update-cm-7.1.0-RC1.8-Thunderbolt-MR-2-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Release Candidate\u000aMR2 or 2.5 Radio Only",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "mecha",
             "name": "CyanogenMod 7.1.0-RC1.7",
             "modversion": "CyanogenMod-7.1.0-RC-1.7-Thunderbolt-KANG",
             "incremental": "7106",
@@ -1353,7 +1372,7 @@
                     "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
-                    "name": "GTalk w/ Video Chat (Experimental)",
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
                     "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 

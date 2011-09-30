@@ -69,13 +69,6 @@
       "id": "rfvbnji91@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/rfvbnji91@gmail.com/manifest",
       "summary": "AOSP Source Built ROMs, MODs & Tweaks"
-    },
-    {
-      "developer": "sixstringsg",
-      "free": true,
-      "id": "sixstringsg",
-      "manifest": "http://romshare.deployfu.com/developer/sixstringsg/manifest",
-      "summary": "Kernel developer for the SGS line"
     }
   ],
   "minversion": "4403"

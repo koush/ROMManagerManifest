@@ -20,7 +20,7 @@
       "icon": "http://romshare.deployfu.com/downloads/400/29a8f50929b1d09f36fde793c9ff2943.png",
       "id": "SinisterTensai",
       "manifest": "http://sinistertensai.github.com/Sinister-Rom/manifest.js",
-      "summary": "Sinister Speeds Sinister look's"
+      "summary": "Sinister Speeds, Sinister looks"
     },
     {
       "developer": "Cerberus",

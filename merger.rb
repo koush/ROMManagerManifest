@@ -12,7 +12,7 @@ threads = []
 
 for manifest in romshare_manifests['manifests']:
   if manifest['manifest'].index('romshare.deployfu.com') != nil
-    # manifest['free'] = false
+    manifest['free'] = false
   end
   manifests << manifest
 end

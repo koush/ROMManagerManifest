@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "MIUI.hu",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/722/6c020836957e6d84eaf0e747197e935a.png",
       "id": "MIUI.hu",
       "manifest": "http://romshare.deployfu.com/developer/MIUI.hu/manifest",
@@ -49,7 +49,7 @@
     },
     {
       "developer": "JMCyanbreadMod",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/396/b01189040f608fa16cc797e549f27cdc.png",
       "id": "jacob.mueller.elz@googlemail.com",
       "manifest": "http://romshare.deployfu.com/developer/jacob.mueller.elz@googlemail.com/manifest",
@@ -57,19 +57,11 @@
     },
     {
       "developer": "Lox",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/89/da66842898ae788ad12bb696f515c928.jpg",
       "id": "lox",
       "manifest": "http://romshare.deployfu.com/developer/lox/manifest",
       "summary": "Another dev"
-    },
-    {
-      "developer": "MIUI Android",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
-      "id": "miuiandroid",
-      "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
-      "summary": "The original English MIUI ROM by MIUI Android"
     },
     {
       "developer": "MIUIBrasil",

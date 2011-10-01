@@ -18,7 +18,7 @@
     },
     {
       "developer": "djpbx' ROMS",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/794/e317ca8f3c09678408816cf171108c8e.gif",
       "id": "djpbx",
       "manifest": "http://romshare.deployfu.com/developer/djpbx/manifest",

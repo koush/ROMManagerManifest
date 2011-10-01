@@ -26,7 +26,7 @@
     },
     {
       "developer": "EnYo",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/633/6d66fe89a61766765127c1ba4e5222fd.png",
       "id": "rfvbnji91@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/rfvbnji91@gmail.com/manifest",

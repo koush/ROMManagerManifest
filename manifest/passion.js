@@ -9,7 +9,7 @@
     },
     {
       "developer": "Menelkir ROMs",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/791/11b39c3b365a9d1160b1b7e9d94911c3.jpg",
       "id": "Menelkir",
       "manifest": "http://romshare.deployfu.com/developer/Menelkir/manifest",
@@ -56,7 +56,7 @@
     },
     {
       "developer": "DrewGaren Roms",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
       "id": "drewgaren",
       "manifest": "http://romshare.deployfu.com/developer/drewgaren/manifest",
@@ -64,7 +64,7 @@
     },
     {
       "developer": "E-XtremeMod",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/132/3bea45cb0d900947ae2ceb5399b617f3.png",
       "id": "extrememod",
       "manifest": "http://romshare.deployfu.com/developer/extrememod/manifest",
@@ -86,7 +86,7 @@
     },
     {
       "developer": "jbbandos",
-      "free": true,
+      "free": false,
       "id": "jbbandos",
       "manifest": "http://romshare.deployfu.com/developer/jbbandos/manifest",
       "summary": "Multi-language MIUI ROMs. No theme change, 3G, bluetooth and other tunings. Lean and fast."
@@ -96,14 +96,6 @@
       "id": "krazykrivda",
       "manifest": "http://mydroidfiles.com/krazykrivda/manifest.js",
       "summary": "Great themes and more :)"
-    },
-    {
-      "developer": "MIUI Android",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
-      "id": "miuiandroid",
-      "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
-      "summary": "The original English MIUI ROM by MIUI Android"
     },
     {
       "developer": "MIUIBrasil",
@@ -137,8 +129,16 @@
       "summary": "Custom kernels and other awesomeness"
     },
     {
-      "developer": "EnYo",
+      "developer": "Peter Alfonso",
       "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/809/23ab34a53a8e93699239b87fd0360ad7.jpg",
+      "id": "pete",
+      "manifest": "http://wonderly.com/bb/WEBSITE/pete.js",
+      "summary": "www.peteralfonso.com"
+    },
+    {
+      "developer": "EnYo",
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/633/6d66fe89a61766765127c1ba4e5222fd.png",
       "id": "rfvbnji91@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/rfvbnji91@gmail.com/manifest",

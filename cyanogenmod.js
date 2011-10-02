@@ -1341,12 +1341,12 @@
         },
         {
             "device": "mecha",
-            "name": "CyanogenMod 7.1.0-RC1.8",
-            "modversion": "CyanogenMod-7.1.0-RC-1.8-Thunderbolt-KANG",
-            "incremental": "7106",
-            "url": "http://goo-inside.me/cm/mecha/rc/update-cm-7.1.0-RC1.8-Thunderbolt-MR-2-signed.zip",
+            "name": "CyanogenMod 7.1.1",
+            "modversion": "CyanogenMod-7.1.1-Thunderbolt",
+            "incremental": "7107",
+            "url": "http://goo-inside.me/cm/mecha/stable/update-cm-7.1.1-Thunderbolt-signed.zip",
             "product": "CyanogenMod",
-            "summary": "Release Candidate\u000aMR2 or 2.5 Radio Only",
+            "summary": "Stable Release\u000aMR2 or 2.5 Radio Only",
             "addons": [
                 {
                     "name": "Google Apps",
@@ -1355,115 +1355,6 @@
                 {
                     "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
                     "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
-                } 
-            ] 
-        },
-        {
-            "device": "mecha",
-            "name": "CyanogenMod 7.1.0-RC1.7",
-            "modversion": "CyanogenMod-7.1.0-RC-1.7-Thunderbolt-KANG",
-            "incremental": "7106",
-            "url": "http://goo-inside.me/cm/mecha/rc/update-cm-7.1.0-RC1.7-Thunderbolt-MR-2-signed.zip",
-            "product": "CyanogenMod",
-            "summary": "Release Candidate\u000aMR2 or 2.5 Radio Only",
-            "addons": [
-                {
-                    "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
-                },
-                {
-                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
-                } 
-            ] 
-        },
-        {
-            "device": "mecha",
-            "name": "CyanogenMod 7.1.0-RC1.6.1",
-            "modversion": "CyanogenMod-7.1.0-RC-1.6.1-Thunderbolt-KANG",
-            "incremental": "7105",
-            "url": "http://goo-inside.me/cm/mecha/rc/update-cm-7.1.0-RC1.6.1-Thunderbolt-MR-2-signed.zip",
-            "product": "CyanogenMod",
-            "summary": "Release Candidate\u000aMR2 or 2.5 Radio Only",
-            "addons": [
-                {
-                    "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
-                } 
-            ] 
-        },
-        {
-            "device": "mecha",
-            "name": "CyanogenMod 7.1.0-RC1.5.2",
-            "modversion": "CyanogenMod-7.1.0-RC-1-Thunderbolt-KANG",
-            "incremental": "7104",
-            "url": "http://goo-inside.me/cm/mecha/rc/update-cm-7.1.0-RC1.5.2-Thunderbolt-MR-2-signed.zip",
-            "product": "CyanogenMod",
-            "summary": "Release Candidate\u000aMR2 or 2.5 Radio Only",
-            "addons": [
-                {
-                    "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
-                } 
-            ] 
-        },
-        {
-            "device": "mecha",
-            "name": "CyanogenMod 7.1.0-RC1.4",
-            "modversion": "CyanogenMod-7.1.0-RC-1-Thunderbolt-KANG",
-            "incremental": "7104",
-            "url": "http://goo-inside.me/cm/mecha/rc/update-cm-7.1.0-RC1.4-Thunderbolt-MR-2-signed.zip",
-            "product": "CyanogenMod",
-            "summary": "Release Candidate\u000aMR2 or 2.5 Radio Only",
-            "addons": [
-                {
-                    "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
-                } 
-            ] 
-        },
-        {
-            "device": "mecha",
-            "name": "CyanogenMod 7.1.0-RC1.3",
-            "modversion": "CyanogenMod-7.1.0-RC-1-Thunderbolt-KANG",
-            "incremental": "7103",
-            "url": "http://goo-inside.me/cm/mecha/rc/update-cm-7.1.0-RC1.3-Thunderbolt-MR-2-signed.zip",
-            "product": "CyanogenMod",
-            "summary": "Release Candidate\u000aMR2 Radio Only",
-            "addons": [
-                {
-                    "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
-                } 
-            ] 
-        },
-        {
-            "device": "mecha",
-            "name": "CyanogenMod 7.1.0-RC1.2 MR2",
-            "modversion": "CyanogenMod-7.1.0-RC-1-Thunderbolt-KANG",
-            "incremental": "7102",
-            "url": "http://goo-inside.me/cm/mecha/rc/update-cm-7.1.0-RC1.2-Thunderbolt-MR-2-signed.zip",
-            "product": "CyanogenMod",
-            "summary": "Release Candidate\u000aMR2 Radio Only",
-            "addons": [
-                {
-                    "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
-                } 
-            ] 
-        },
-        {
-            "device": "mecha",
-            "name": "CyanogenMod 7.1.0-RC1.2 MR1",
-            "modversion": "CyanogenMod-7.1.0-RC-1-Thunderbolt-KANG",
-            "incremental": "7102",
-            "url": "http://goo-inside.me/cm/mecha/rc/update-cm-7.1.0-RC1.2-Thunderbolt-MR-1-signed.zip",
-            "product": "CyanogenMod",
-            "summary": "Release Candidate\u000aMR1 Radio Only",
-            "addons": [
-                {
-                    "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
                 } 
             ] 
         },

@@ -17,7 +17,7 @@
     },
     {
       "developer": "RevNumbers",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/813/5fedd62d6bdce82a1ce57649d118a9f6.gif",
       "id": "RevNumbers",
       "manifest": "http://romshare.deployfu.com/developer/RevNumbers/manifest",
@@ -64,7 +64,7 @@
     },
     {
       "developer": "Fabolous",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/337/d2c1bf150b52364eca4dcba86135ff9d.png",
       "id": "fabolous",
       "manifest": "http://romshare.deployfu.com/developer/fabolous/manifest",
@@ -87,7 +87,7 @@
     },
     {
       "developer": "metiCkOne",
-      "free": false,
+      "free": true,
       "id": "metiCkOne",
       "manifest": "http://romshare.deployfu.com/developer/metiCkOne/manifest",
       "summary": "Clean, fast & Stable roms for the D1 & D2"
@@ -102,8 +102,8 @@
     },
     {
       "developer": "EnYo",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/633/6d66fe89a61766765127c1ba4e5222fd.png",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/633/e8973d34d142398f1d86f8c3ef789a8e.jpg",
       "id": "rfvbnji91@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/rfvbnji91@gmail.com/manifest",
       "summary": "AOSP Source Built ROMs, MODs & Tweaks"

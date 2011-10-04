@@ -79,12 +79,12 @@
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
     {
-      "developer": "Cubed ROM",
-      "free": false,
+      "developer": "Cubed ROMs",
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/66/24fcf796e1e1fc870f868d35e7cf0207.png",
       "id": "dsb9938",
       "manifest": "http://romshare.deployfu.com/developer/dsb9938/manifest",
-      "summary": "dsb9938 from XDA"
+      "summary": "dsb9938 and thejondude"
     },
     {
       "developer": "Google Apps",
@@ -112,7 +112,7 @@
     },
     {
       "developer": "jdkoreclipse",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/755/1d19a0748e940de5226e9a428d005769.jpg",
       "id": "jdkoreclipse",
       "manifest": "http://romshare.deployfu.com/developer/jdkoreclipse/manifest",
@@ -135,7 +135,7 @@
     },
     {
       "developer": "Team BAMF ",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/758/327500a0db76efc307c8032ee32ac018.png",
       "id": "waynestrattonjr@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/waynestrattonjr@gmail.com/manifest",

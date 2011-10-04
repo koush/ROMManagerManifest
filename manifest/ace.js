@@ -10,7 +10,7 @@
     },
     {
       "developer": "Honey3D",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/376/b266f88e7063336d333ef7ad4fd4d6ff.png",
       "id": "HoneyTeam",
       "manifest": "http://romshare.deployfu.com/developer/HoneyTeam/manifest",
@@ -26,11 +26,19 @@
     },
     {
       "developer": "MIUI.hu",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/722/6c020836957e6d84eaf0e747197e935a.png",
       "id": "MIUI.hu",
       "manifest": "http://romshare.deployfu.com/developer/MIUI.hu/manifest",
       "summary": "MIUI magyar lokalizációja | miui.hu @ 2011"
+    },
+    {
+      "developer": "BeatMod",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/808/25f72d0d945f057819f237f7f967a8fd.png",
+      "id": "beatmod",
+      "manifest": "http://zfr3eak.sylvester20007.com/mainfest.js",
+      "summary": "BeatMod Rom for your HTC Device"
     },
     {
       "developer": "TeamRC",
@@ -42,7 +50,7 @@
     },
     {
       "developer": "cstayton",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/546/7489780bf323b88233ae310c1c65a08e.png",
       "id": "castayton@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/castayton@gmail.com/manifest",
@@ -96,14 +104,6 @@
       "summary": "ROMs and hax by gtg465x"
     },
     {
-      "developer": "MIUIBrasil",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/610/b8dd1c98205fd076be6738c1c4d99412.png",
-      "id": "miuibrasil",
-      "manifest": "http://miuibrasil.net/roms/manifestrm.js",
-      "summary": "Projeto de Tradução da ROM MIUI para o Português do Brasil"
-    },
-    {
       "developer": "MIUI-PT",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
@@ -121,7 +121,7 @@
     },
     {
       "developer": "pirateghost",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/618/e651f76ee302b696b7e42ed966b612cf.jpg",
       "id": "pirateg@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/pirateg@gmail.com/manifest",

@@ -70,20 +70,20 @@
       "summary": "Updates for stock ROMs, radio, hboot"
     },
     {
-      "developer": "Salvage-Mod",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
-      "summary": "GB source build. Group project."
-    },
-    {
       "developer": "Salvage-Mod Nightlies",
       "free": "true",
       "id": "echo17",
       "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
       "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
       "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
+    },
+    {
+      "developer": "Salvage-Mod",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
+      "summary": "GB source build. Group project."
     },
     {
       "developer": "Fresh",
@@ -157,7 +157,7 @@
     },
     {
       "developer": "Swagged Out Stock",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/697/40e325c213ebeb2999003d52dc979b2b.png",
       "id": "swagstr",
       "manifest": "http://romshare.deployfu.com/developer/swagstr/manifest",

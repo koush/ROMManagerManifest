@@ -41,7 +41,7 @@
     },
     {
       "developer": "Infinitybiff",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/653/7dc90deb235d7f8e522085e09fad294a.png",
       "id": "infinitybiff@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/infinitybiff@gmail.com/manifest",
@@ -49,7 +49,7 @@
     },
     {
       "developer": "ROM FASTY",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/621/fb4f7286249636542a1b0a5cdf8d3e6b.png",
       "id": "lostlogic01@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/lostlogic01@gmail.com/manifest",
@@ -57,7 +57,7 @@
     },
     {
       "developer": "Rom Fasty II",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/725/85d1624ec2c402064b2db693cd224cd0.png",
       "id": "lostlogicaa@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/lostlogicaa@gmail.com/manifest",
@@ -78,6 +78,14 @@
       "id": "miuius",
       "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
       "summary": "MIUI English releases by MIUI.us"
+    },
+    {
+      "developer": "EnYo",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/633/e8973d34d142398f1d86f8c3ef789a8e.jpg",
+      "id": "rfvbnji91@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/rfvbnji91@gmail.com/manifest",
+      "summary": "AOSP Source Built ROMs, MODs & Tweaks"
     }
   ],
   "minversion": "4403"

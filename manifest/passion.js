@@ -9,7 +9,7 @@
     },
     {
       "developer": "Menelkir ROMs",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/791/11b39c3b365a9d1160b1b7e9d94911c3.jpg",
       "id": "Menelkir",
       "manifest": "http://romshare.deployfu.com/developer/Menelkir/manifest",
@@ -56,7 +56,7 @@
     },
     {
       "developer": "DrewGaren Roms",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
       "id": "drewgaren",
       "manifest": "http://romshare.deployfu.com/developer/drewgaren/manifest",
@@ -64,7 +64,7 @@
     },
     {
       "developer": "E-XtremeMod",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/132/3bea45cb0d900947ae2ceb5399b617f3.png",
       "id": "extrememod",
       "manifest": "http://romshare.deployfu.com/developer/extrememod/manifest",
@@ -86,7 +86,7 @@
     },
     {
       "developer": "jbbandos",
-      "free": false,
+      "free": true,
       "id": "jbbandos",
       "manifest": "http://romshare.deployfu.com/developer/jbbandos/manifest",
       "summary": "Multi-language MIUI ROMs. No theme change, 3G, bluetooth and other tunings. Lean and fast."
@@ -96,14 +96,6 @@
       "id": "krazykrivda",
       "manifest": "http://mydroidfiles.com/krazykrivda/manifest.js",
       "summary": "Great themes and more :)"
-    },
-    {
-      "developer": "MIUIBrasil",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/610/b8dd1c98205fd076be6738c1c4d99412.png",
-      "id": "miuibrasil",
-      "manifest": "http://miuibrasil.net/roms/manifestrm.js",
-      "summary": "Projeto de Tradução da ROM MIUI para o Português do Brasil"
     },
     {
       "developer": "MIUI-PT",
@@ -138,8 +130,8 @@
     },
     {
       "developer": "EnYo",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/633/6d66fe89a61766765127c1ba4e5222fd.png",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/633/e8973d34d142398f1d86f8c3ef789a8e.jpg",
       "id": "rfvbnji91@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/rfvbnji91@gmail.com/manifest",
       "summary": "AOSP Source Built ROMs, MODs & Tweaks"

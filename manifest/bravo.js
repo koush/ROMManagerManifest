@@ -78,14 +78,6 @@
       "summary": "Simple AOSP ROM"
     },
     {
-      "developer": "MIUIBrasil",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/610/b8dd1c98205fd076be6738c1c4d99412.png",
-      "id": "miuibrasil",
-      "manifest": "http://miuibrasil.net/roms/manifestrm.js",
-      "summary": "Projeto de Tradução da ROM MIUI para o Português do Brasil"
-    },
-    {
       "developer": "MIUI-PT",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
@@ -110,7 +102,7 @@
     },
     {
       "developer": "roalex",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/107/236f3ca6074ca5d999aef037aae94244.png",
       "id": "roalex-bravo",
       "manifest": "http://romshare.deployfu.com/developer/roalex-bravo/manifest",

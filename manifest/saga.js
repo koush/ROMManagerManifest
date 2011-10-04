@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+      "developer": "BeatMod",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/808/25f72d0d945f057819f237f7f967a8fd.png",
+      "id": "beatmod",
+      "manifest": "http://zfr3eak.sylvester20007.com/mainfest.js",
+      "summary": "BeatMod Rom for your HTC Device"
+    },
+    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",
@@ -18,7 +26,7 @@
     },
     {
       "developer": "djpbx' ROMS",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/794/e317ca8f3c09678408816cf171108c8e.gif",
       "id": "djpbx",
       "manifest": "http://romshare.deployfu.com/developer/djpbx/manifest",

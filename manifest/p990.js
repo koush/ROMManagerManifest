@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "MIUI.hu",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/722/6c020836957e6d84eaf0e747197e935a.png",
       "id": "MIUI.hu",
       "manifest": "http://romshare.deployfu.com/developer/MIUI.hu/manifest",
@@ -49,7 +49,7 @@
     },
     {
       "developer": "JMCyanbreadMod",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/396/b01189040f608fa16cc797e549f27cdc.png",
       "id": "jacob.mueller.elz@googlemail.com",
       "manifest": "http://romshare.deployfu.com/developer/jacob.mueller.elz@googlemail.com/manifest",
@@ -57,19 +57,11 @@
     },
     {
       "developer": "Lox",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/89/da66842898ae788ad12bb696f515c928.jpg",
       "id": "lox",
       "manifest": "http://romshare.deployfu.com/developer/lox/manifest",
       "summary": "Another dev"
-    },
-    {
-      "developer": "MIUIBrasil",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/610/b8dd1c98205fd076be6738c1c4d99412.png",
-      "id": "miuibrasil",
-      "manifest": "http://miuibrasil.net/roms/manifestrm.js",
-      "summary": "Projeto de Tradução da ROM MIUI para o Português do Brasil"
     },
     {
       "developer": "MIUI-PT",

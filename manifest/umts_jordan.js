@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "MIUI.hu",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/722/6c020836957e6d84eaf0e747197e935a.png",
       "id": "MIUI.hu",
       "manifest": "http://romshare.deployfu.com/developer/MIUI.hu/manifest",
@@ -33,14 +33,6 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
-      "developer": "MIUIBrasil",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/610/b8dd1c98205fd076be6738c1c4d99412.png",
-      "id": "miuibrasil",
-      "manifest": "http://miuibrasil.net/roms/manifestrm.js",
-      "summary": "Projeto de Tradução da ROM MIUI para o Português do Brasil"
-    },
-    {
       "developer": "MIUI-PT",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
@@ -58,7 +50,7 @@
     },
     {
       "developer": "CyanogenMod RC",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
       "id": "tanguy.pruvot@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/tanguy.pruvot@gmail.com/manifest",

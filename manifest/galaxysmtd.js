@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "Hardbread",
-      "free": false,
+      "free": true,
       "id": "Stenka",
       "manifest": "http://romshare.deployfu.com/developer/Stenka/manifest",
       "summary": "MIUI [ES]"
@@ -45,14 +45,6 @@
       "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
-    },
-    {
-      "developer": "MIUIBrasil",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/610/b8dd1c98205fd076be6738c1c4d99412.png",
-      "id": "miuibrasil",
-      "manifest": "http://miuibrasil.net/roms/manifestrm.js",
-      "summary": "Projeto de Tradução da ROM MIUI para o Português do Brasil"
     },
     {
       "developer": "MIUI-PT",

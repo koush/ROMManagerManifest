@@ -1322,6 +1322,22 @@
       "init": "init.motus.rc",
       "key": "motus",
       "lunch": "cyanogen_motus-eng"
+    },
+    {
+      "name": "Samsung Galaxy Mini",
+      "version": "5.0.2.6",
+      "readonly_recovery": true,
+      "init": "init.gt-s5570.rc",
+      "key": "tass",
+      "lunch": "tass-eng"
+    },
+    {
+      "name": "Huawei U8800",
+      "readonly_recovery": true,
+      "version": "5.0.2.6",
+      "init": "init.u8800.rc",
+      "key": "u8800",
+      "lunch": "huawei_u8800-eng"
     }
   ],
   "version": "2.5.0.1",

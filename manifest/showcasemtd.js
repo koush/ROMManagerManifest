@@ -1,14 +1,6 @@
 {
   "manifests": [
     {
-      "developer": "Baked_Tator",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/703/ffdc4b47b25efdf55cb75880ef31a638.gif",
-      "id": "Baked_Tator",
-      "manifest": "http://dfgas.teamuscellular.com/rommanager/tator_manifest.js",
-      "summary": "Baked_Tator"
-    },
-    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",
@@ -25,14 +17,6 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "dfgas",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/601/7c809045feea38f822a0d58ca2f6daf3.png",
-      "id": "dfgas",
-      "manifest": "http://dfgas.TeamUsCellular.com/rommanager/manual_manifest.js",
-      "summary": "dfgas"
-    },
-    {
       "developer": "Google Apps",
       "free": "true",
       "id": "google",
@@ -42,7 +26,7 @@
     },
     {
       "developer": "jt1134",
-      "free": true,
+      "free": false,
       "id": "jt1134",
       "manifest": "http://romshare.deployfu.com/developer/jt1134/manifest",
       "summary": "jt1134"

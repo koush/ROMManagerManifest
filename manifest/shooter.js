@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "Clark44 (Absurd)",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/315/fa526fadb52216d09110cf18e5fd5047.jpg",
       "id": "Clark44 (Absurd)",
       "manifest": "http://romshare.deployfu.com/developer/Clark44 (Absurd)/manifest",
@@ -49,7 +49,7 @@
     },
     {
       "developer": "jondevere@gmail.com",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/695/baaa677e69d0e0b6eaaa2d46f851e9e8.gif",
       "id": "jondevere@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/jondevere@gmail.com/manifest",
@@ -65,18 +65,18 @@
     },
     {
       "developer": "XDA Roms",
-      "free": true,
+      "free": false,
       "id": "pecord",
       "manifest": "http://romshare.deployfu.com/developer/pecord/manifest",
       "summary": "Just uploading various roms for other EVO 3D users, will not accept donations for others work and will not provide support"
     },
     {
-      "developer": "temeyers@gmail.com",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/822/eb14d11f036c44a4aae976a62ca27fcb.jpg",
+      "developer": "Sense 3.5 Ports",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/822/cfae65dc7496f8d03671558307a5441d.jpg",
       "id": "temeyers@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/temeyers@gmail.com/manifest",
-      "summary": "temeyers@gmail.com"
+      "summary": "Sense 3.5 Android 2.3.5 "
     }
   ],
   "minversion": "4403"

@@ -25,12 +25,12 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "djpbx' ROMS",
-      "free": true,
+      "developer": "DJPBX",
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/794/e317ca8f3c09678408816cf171108c8e.gif",
       "id": "djpbx",
       "manifest": "http://romshare.deployfu.com/developer/djpbx/manifest",
-      "summary": "MON -> FRI in free section. SAT & SUN in premium section. -.-'"
+      "summary": "Contains a lot of cool stuf!! - Check out weekly! - MON -> FRI in free section. SAT & SUN in premium section. -.-'"
     },
     {
       "developer": "Google Apps",

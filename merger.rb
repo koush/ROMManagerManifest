@@ -10,9 +10,17 @@ romshare_manifests = JSON.parse(open('http://romshare.deployfu.com/manifest').re
 
 threads = []
 
+free_dudes = { 
+  'codeworkx' => true,
+  'atinm' => true,
+}
+
 for manifest in romshare_manifests['manifests']:
   if manifest['manifest'].index('romshare.deployfu.com') != nil
-    manifest['free'] = false
+    if not free_dudes[manifest['developer']] then
+      manifest['free'] = false
+    else
+    end
   end
   manifests << manifest
 end

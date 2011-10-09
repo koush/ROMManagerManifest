@@ -970,7 +970,7 @@
     },
     {
       "developer": "codeworkx",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/51/b1939ede73c42c69d8e2c3f1f34f3265.png",
       "id": "daniel.hillenbrand@codeworkx.de",
       "manifest": "http://romshare.deployfu.com/developer/daniel.hillenbrand@codeworkx.de/manifest",
@@ -1791,11 +1791,11 @@
         "captivate": true,
         "vibrant": true,
         "captivatemtd": true,
-        "galaxys2": true,
+        "galaxytab": true,
+        "inc": true,
         "crespo": true,
         "vision": true,
         "galaxysmtd": true,
-        "liquid": true,
         "umts_sholes": true
       },
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
@@ -1827,6 +1827,7 @@
         "jordan": true,
         "captivatemtd": true,
         "speedy": true,
+        "pyramid": true,
         "galaxytab": true,
         "supersonic": true,
         "saga": true,

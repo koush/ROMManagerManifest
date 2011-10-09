@@ -23,9 +23,9 @@
     },
     {
       "developer": "Liquid Smooth Roms",
-      "free": "true",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/36/c735b5adbd4a0db78029de4c3bd309ee.png",
       "id": "Liquid",
-      "icon": "http://android.jbroom.com/rommanager/LSRICON.png",
       "manifest": "http://android.jbroom.com/rommanager/manifest.js",
       "summary": "Source Built Gingerbread and Custom Tbolt Roms"
     },
@@ -69,19 +69,19 @@
       "summary": "Source-based mods made by CVPCS"
     },
     {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "summary": "Roms and More, Must have Froyo Installed Prior"
-    },
-    {
       "developer": "DrewGaren Roms",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
       "id": "drewgaren",
       "manifest": "http://romshare.deployfu.com/developer/drewgaren/manifest",
       "summary": "Custom Roms and Themes for your Device"
+    },
+    {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "Fabolous",

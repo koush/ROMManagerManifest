@@ -384,21 +384,6 @@
       "summary": "Modded ROM's HTC Desire"
     },
     {
-      "developer": "Liquid Smooth Roms",
-      "icon": "http://android.jbroom.com/rommanager/LSRICON.png",
-      "id": "Liquid",
-      "free": "true",
-      "manifest": "http://android.jbroom.com/rommanager/manifest.js",
-      "roms": {
-        "droid2": "true",
-        "sholes": "true",
-        "mecha": "true",
-        "droidx": "true",
-        "crespo": "true"
-      },
-      "summary": "Source Built Gingerbread and Custom Tbolt Roms"
-    },
-    {
       "developer": "birdman",
       "id": "mrbirdman",
       "free": "true",

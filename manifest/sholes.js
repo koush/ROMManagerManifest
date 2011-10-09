@@ -29,9 +29,9 @@
     },
     {
       "developer": "Liquid Smooth Roms",
-      "free": "true",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/36/c735b5adbd4a0db78029de4c3bd309ee.png",
       "id": "Liquid",
-      "icon": "http://android.jbroom.com/rommanager/LSRICON.png",
       "manifest": "http://android.jbroom.com/rommanager/manifest.js",
       "summary": "Source Built Gingerbread and Custom Tbolt Roms"
     },

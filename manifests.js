@@ -258,16 +258,18 @@
     },
     {
       "developer": "Liquid Smooth Roms",
-      "free": "true",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/36/c735b5adbd4a0db78029de4c3bd309ee.png",
       "id": "Liquid",
-      "icon": "http://android.jbroom.com/rommanager/LSRICON.png",
       "manifest": "http://android.jbroom.com/rommanager/manifest.js",
       "roms": {
-        "droid2": "true",
-        "sholes": "true",
-        "mecha": "true",
-        "crespo": "true",
-        "droidx": "true"
+        "vivow": true,
+        "droid2": true,
+        "sholes": true,
+        "mecha": true,
+        "crespo": true,
+        "droidx": true,
+        "droid2we": true
       },
       "summary": "Source Built Gingerbread and Custom Tbolt Roms"
     },
@@ -628,6 +630,17 @@
         "leo": true
       },
       "summary": "Latest CWR for the HD2 with the yes/no patch"
+    },
+    {
+      "developer": "teamhacksung",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/5/e37442e1c9d8f4dde5ceb57f51967029.png",
+      "id": "atinm",
+      "manifest": "http://romshare.deployfu.com/developer/atinm/manifest",
+      "roms": {
+        "galaxys2att": true
+      },
+      "summary": "CyanogenMod 7 for SGS"
     },
     {
       "developer": "bcnice20",
@@ -1024,16 +1037,6 @@
       "summary": "The latest stock CyanogenMod 7 Desire (bravo) base ported to HD2 with the minimal amount of changes required.  No custom apps are included.  Visit the ROM's thread @ xda: http://forum.xda-developers.com/showthread.php?t=933951 ."
     },
     {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
-    },
-    {
       "developer": "DrewGaren Roms",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1045,6 +1048,16 @@
         "crespo": true
       },
       "summary": "Custom Roms and Themes for your Device"
+    },
+    {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1351,16 +1364,6 @@
       "summary": "Go Go Go!"
     },
     {
-      "developer": "HyperDroid",
-      "free": "true",
-      "id": "hyperdroid",
-      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
-      "roms": {
-        "leo": "true"
-      },
-      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
-    },
-    {
       "developer": "HyperDroid CM7",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
@@ -1370,6 +1373,16 @@
         "leo": true
       },
       "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
+    },
+    {
+      "developer": "HyperDroid",
+      "free": "true",
+      "id": "hyperdroid",
+      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
+      "roms": {
+        "leo": "true"
+      },
+      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
     },
     {
       "developer": "Ihtfp69",
@@ -2170,17 +2183,6 @@
       "summary": "Stock ROM with a ton of bloatware removed and some added swag"
     },
     {
-      "developer": "CyanogenMod RC",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
-      "id": "tanguy.pruvot@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/tanguy.pruvot@gmail.com/manifest",
-      "roms": {
-        "umts_jordan": true
-      },
-      "summary": "Stable but unofficial RC"
-    },
-    {
       "developer": "CyanogenMod Nightlies",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/541/91afee5f3ad77376b65aa60038c4979c.png",
@@ -2190,6 +2192,17 @@
         "umts_jordan": true
       },
       "summary": "CyanogenMod Nightly builds. tpruvot@github"
+    },
+    {
+      "developer": "CyanogenMod RC",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
+      "id": "tanguy.pruvot@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/tanguy.pruvot@gmail.com/manifest",
+      "roms": {
+        "umts_jordan": true
+      },
+      "summary": "Stable but unofficial RC"
     },
     {
       "developer": "MyUI",

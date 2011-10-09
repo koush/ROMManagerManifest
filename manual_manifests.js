@@ -394,8 +394,10 @@
         "sholes": "true",
         "mecha": "true",
         "droidx": "true",
-        "crespo": "true"
-      },
+        "crespo": "true",
+        "droid2we": "true",
+        "vivow": "true"
+    },
       "summary": "Source Built Gingerbread and Custom Tbolt Roms"
     },
     {

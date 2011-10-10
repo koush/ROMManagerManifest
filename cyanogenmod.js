@@ -2279,6 +2279,25 @@
             ] 
         },
         {
+            "device": "robyn",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-X10Mini",
+            "incremental": "7101",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-X10Mini-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
             "device": "saga",
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-DesireS",

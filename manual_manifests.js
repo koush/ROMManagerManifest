@@ -1,6 +1,6 @@
 {
   "manifests": [
-        {
+    {
       "developer": "CyanogenMod",
       "icon": "http://koush.kanged.net/cm/test/cm2.png",
       "id": "cyanogenmod",

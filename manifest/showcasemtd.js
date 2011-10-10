@@ -17,6 +17,14 @@
       "summary": "Managing root like it's going out of style"
     },
     {
+      "developer": "CyanogenMod",
+      "free": "true",
+      "id": "cyanogenmod",
+      "icon": "http://koush.kanged.net/cm/test/cm2.png",
+      "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
+      "summary": "Mods and bacon for your phone"
+    },
+    {
       "developer": "Google Apps",
       "free": "true",
       "id": "google",

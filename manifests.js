@@ -849,27 +849,39 @@
       "icon": "http://koush.kanged.net/cm/test/cm2.png",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
       "roms": {
+        "zeus": "true",
         "p999": "true",
         "smb_a1002": "true",
+        "anzu": "true",
         "liberty": "true",
         "zeppelin": "true",
+        "mimmi": "true",
+        "shadow": "true",
         "droid2": "true",
         "legend": "true",
         "morrison": "true",
         "p990": "true",
         "vivow": "true",
+        "smb_a1004": "true",
+        "v9": "true",
         "ace": "true",
         "bravo": "true",
         "desirec": "true",
         "vivo": "true",
         "passion": "true",
         "vibrantmtd": "true",
+        "smb_b9701": "true",
+        "hallon": "true",
         "espresso": "true",
         "hero": "true",
         "sholes": "true",
         "u8220": "true",
         "bravoc": "true",
         "dream": "true",
+        "fascinatemtd": "true",
+        "shakira": "true",
+        "smultron": "true",
+        "jordan": "true",
         "blade": "true",
         "captivatemtd": "true",
         "crespo4g": "true",
@@ -877,6 +889,8 @@
         "mecha": "true",
         "one": "true",
         "sapphire": "true",
+        "robyn": "true",
+        "mango": "true",
         "speedy": "true",
         "motus": "true",
         "buzz": "true",
@@ -889,9 +903,15 @@
         "inc": "true",
         "supersonic": "true",
         "vision": "true",
+        "saga": "true",
+        "droid2we": "true",
         "heroc": "true",
         "z71": "true",
-        "zero": "true"
+        "showcasemtd": "true",
+        "smb_a1011": "true",
+        "zero": "true",
+        "urushi": "true",
+        "mesmerizemtd": "true"
       },
       "summary": "Mods and bacon for your phone"
     },
@@ -2183,17 +2203,6 @@
       "summary": "Stock ROM with a ton of bloatware removed and some added swag"
     },
     {
-      "developer": "CyanogenMod Nightlies",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/541/91afee5f3ad77376b65aa60038c4979c.png",
-      "id": "tanguy.pruvot@gmail.com",
-      "manifest": "http://tpruvot.free.fr/rm/custom.js",
-      "roms": {
-        "umts_jordan": true
-      },
-      "summary": "CyanogenMod Nightly builds. tpruvot@github"
-    },
-    {
       "developer": "CyanogenMod RC",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
@@ -2203,6 +2212,17 @@
         "umts_jordan": true
       },
       "summary": "Stable but unofficial RC"
+    },
+    {
+      "developer": "CyanogenMod Nightlies",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/541/91afee5f3ad77376b65aa60038c4979c.png",
+      "id": "tanguy.pruvot@gmail.com",
+      "manifest": "http://tpruvot.free.fr/rm/custom.js",
+      "roms": {
+        "umts_jordan": true
+      },
+      "summary": "CyanogenMod Nightly builds. tpruvot@github"
     },
     {
       "developer": "MyUI",

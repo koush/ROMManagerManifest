@@ -25,6 +25,14 @@
       "summary": "Managing root like it's going out of style"
     },
     {
+      "developer": "CyanogenMod",
+      "free": "true",
+      "id": "cyanogenmod",
+      "icon": "http://koush.kanged.net/cm/test/cm2.png",
+      "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
+      "summary": "Mods and bacon for your phone"
+    },
+    {
       "developer": "DJPBX",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/794/e317ca8f3c09678408816cf171108c8e.gif",

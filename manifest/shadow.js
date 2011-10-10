@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "RevNumbers",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/813/5fedd62d6bdce82a1ce57649d118a9f6.gif",
       "id": "RevNumbers",
       "manifest": "http://romshare.deployfu.com/developer/RevNumbers/manifest",

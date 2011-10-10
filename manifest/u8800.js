@@ -18,10 +18,17 @@
     },
     {
       "developer": "franciscofranco",
-      "free": false,
+      "free": true,
       "id": "franciscofranco.1990@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/franciscofranco.1990@gmail.com/manifest",
       "summary": "franco.Kernel for Huawei U8800"
+    },
+    {
+      "developer": "ginnieandmartin@gmail.com",
+      "free": true,
+      "id": "ginnieandmartin@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/ginnieandmartin@gmail.com/manifest",
+      "summary": "ginnieandmartin@gmail.com"
     },
     {
       "developer": "Google Apps",

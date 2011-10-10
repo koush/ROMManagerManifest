@@ -38,6 +38,13 @@
       "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
+    },
+    {
+      "developer": "jbbandos",
+      "free": true,
+      "id": "jbbandos",
+      "manifest": "http://romshare.deployfu.com/developer/jbbandos/manifest",
+      "summary": "Multi-language MIUI ROMs. No theme change, 3G, bluetooth and other tunings. Lean and fast."
     }
   ],
   "minversion": "4403"

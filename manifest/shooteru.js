@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "Crypt0night",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/825/0c6b75913351d8139f1b1966f73fa52d.png",
       "id": "Crypt0",
       "manifest": "http://romshare.deployfu.com/developer/Crypt0/manifest",
@@ -42,7 +42,7 @@
     },
     {
       "developer": "nickiberli",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/690/db6ea256d879d60f1618bd1e03de3453.png",
       "id": "nickiberli",
       "manifest": "http://romshare.deployfu.com/developer/nickiberli/manifest",

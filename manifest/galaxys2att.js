@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "teamhacksung",
-      "free": false,
+      "free": true,
       "icon": "http://romshare.deployfu.com/downloads/5/e37442e1c9d8f4dde5ceb57f51967029.png",
       "id": "atinm",
       "manifest": "http://romshare.deployfu.com/developer/atinm/manifest",

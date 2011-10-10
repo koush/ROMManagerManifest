@@ -5,6 +5,25 @@
     "roms": [
         {
             "device": "ace",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-DesireHD",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-DesireHD-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "ace",
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-DesireHD",
             "incremental": "7100",
@@ -94,6 +113,44 @@
             ] 
         },
         {
+            "device": "anzu",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-XperiaArc-LT15i",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-XperiaArc-LT15i-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "blade",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-Blade",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Blade-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
             "device": "blade",
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-Blade",
@@ -150,6 +207,25 @@
                 {
                     "name": "Google Apps",
                     "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "bravo",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-Desire",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Desire-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -305,6 +381,25 @@
         },
         {
             "device": "bravoc",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-BravoC",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-BravoC-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "bravoc",
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-BravoC",
             "incremental": "7100",
@@ -410,6 +505,25 @@
         },
         {
             "device": "buzz",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-buzz",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-buzz-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "buzz",
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-Buzz",
             "incremental": "7100",
@@ -485,6 +599,25 @@
         },
         {
             "device": "captivatemtd",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-Captivate",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Captivate-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "captivatemtd",
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-Captivate",
             "incremental": "7100",
@@ -495,6 +628,25 @@
                 {
                     "name": "Google Apps",
                     "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "click",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-Click",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Click-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -555,6 +707,25 @@
                 {
                     "name": "Google Apps",
                     "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "crespo",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-NS",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-NS-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -621,6 +792,25 @@
         },
         {
             "device": "crespo4g",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-NS4G",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-NS4G-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "crespo4g",
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-NS4G",
             "incremental": "7100",
@@ -631,6 +821,25 @@
                 {
                     "name": "Google Apps",
                     "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "desirec",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-Eris",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Eris-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -676,6 +885,44 @@
                 {
                     "name": "Google Apps",
                     "url": "http://goo-inside.me/gapps/gapps-ds-ERE36B-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "droid2we",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-DROID2WE",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-DROID2WE-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "encore",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-encore",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-encore-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -736,6 +983,25 @@
                 {
                     "name": "Google Apps",
                     "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "espresso",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-Slide",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Slide-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -845,6 +1111,82 @@
             ] 
         },
         {
+            "device": "fascinatemtd",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-Fascinate",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Fascinate-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "galaxys2",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-GalaxyS2",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-GalaxyS2-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "galaxys2att",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-GalaxyS2ATT-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "galaxysmtd",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-Galaxys",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-GalaxyS-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
             "device": "galaxysmtd",
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-GalaxyS",
@@ -856,6 +1198,25 @@
                 {
                     "name": "Google Apps",
                     "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "glacier",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-glacier",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-glacier-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -920,6 +1281,25 @@
             ] 
         },
         {
+            "device": "hallon",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-XperiaNeo-MT15i",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-XperiaNeo-MT15i-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
             "device": "harmony",
             "name": "CyanogenMod 7.0.3",
             "modversion": "CyanogenMod-7.0.3-harmony",
@@ -966,6 +1346,25 @@
         },
         {
             "device": "hero",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-Hero",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Hero-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "hero",
             "name": "CyanogenMod 6.1.0",
             "modversion": "CyanogenMod-6.1.0-Hero",
             "incremental": "6101",
@@ -976,6 +1375,25 @@
                 {
                     "name": "Google Apps",
                     "url": "http://goo-inside.me/gapps/gapps-mdpi-20110501-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "heroc",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-Heroc",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Heroc-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -1051,6 +1469,25 @@
                 {
                     "name": "Google Apps",
                     "url": "http://goo-inside.me/gapps/gapps-mdpi-20110501-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "inc",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-Inc",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Inc-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -1190,6 +1627,44 @@
             ] 
         },
         {
+            "device": "jordan",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-jordan",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-jordan-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "legend",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-Legend",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Legend-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
             "device": "legend",
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-Legend",
@@ -1261,6 +1736,25 @@
                 {
                     "name": "Google Apps",
                     "url": "http://goo-inside.me/gapps/gapps-mdpi-20110501-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "liberty",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-Liberty",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Libety-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -1340,6 +1834,25 @@
             ] 
         },
         {
+            "device": "mango",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-XperiaMiniPro-SK17i",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-XperiaMiniPro-SK17i-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
             "device": "mecha",
             "name": "CyanogenMod 7.1.1",
             "modversion": "CyanogenMod-7.1.1-Thunderbolt",
@@ -1347,6 +1860,63 @@
             "url": "http://goo-inside.me/cm/mecha/stable/update-cm-7.1.1-Thunderbolt-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release\u000aMR2 or 2.5 Radio Only",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "mesmerizemtd",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-Mesmerize",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Mesmerize-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "mimmi",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-X10MiniPro",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-X10MiniPro-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "morrison",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-CLIQ",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-CLIQ-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
             "addons": [
                 {
                     "name": "Google Apps",
@@ -1370,6 +1940,44 @@
                 {
                     "name": "Google Apps",
                     "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "motus",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-BACKFLIP",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-BACKFLIP-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "one",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-ONE",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-ONE-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -1450,6 +2058,25 @@
         },
         {
             "device": "p990",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-Optimus2X",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Optimus2X-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "p990",
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-Optimus2X",
             "incremental": "7100",
@@ -1465,6 +2092,25 @@
         },
         {
             "device": "p999",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-G2x",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-G2x-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "p999",
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-G2x",
             "incremental": "7100",
@@ -1475,6 +2121,25 @@
                 {
                     "name": "Google Apps",
                     "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "passion",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-N1",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-N1-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -1614,6 +2279,25 @@
             ] 
         },
         {
+            "device": "saga",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-DesireS",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-DesireS-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
             "device": "sapphire",
             "name": "CyanogenMod 6.1.0",
             "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-DS-signed.zip",
@@ -1655,6 +2339,44 @@
                 {
                     "name": "Google Apps",
                     "url": "http://goo-inside.me/gapps/gapps-ds-ERE36B-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "shakira",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-X8",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-X8-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "sholes",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-Droid",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Droid-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -1809,6 +2531,44 @@
             ] 
         },
         {
+            "device": "showcasemtd",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-Showcase",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Showcase-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "smb_a1002",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-smb_a1002",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-smb_a1002-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
             "device": "smb_a1002",
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-smb_a1002",
@@ -1824,11 +2584,106 @@
             ] 
         },
         {
+            "device": "smb_a1004",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-smb_a1004",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-smb_a1004-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "smb_a1011",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-smb_a1011",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-smb_a1011-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "smb_b9701",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-smb_b9701",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-smb_b9701-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "smultron",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-XperiaMini-ST15i",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-XperiaMini-ST15i-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "speedy",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-Speedy",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Speedy-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
             "device": "speedy",
             "name": "CyanogenMod 7.1.0-RC1",
-            "modversion": "CyanogenMod-7.1.0-RC1-speedy",
+            "modversion": "CyanogenMod-7.1.0-RC1-Speedy",
             "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-speedy-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-Speedy-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
             "addons": [
@@ -1841,9 +2696,9 @@
         {
             "device": "speedy",
             "name": "CyanogenMod 7.0.3.1",
-            "modversion": "CyanogenMod-7.0.3.1-speedy",
+            "modversion": "CyanogenMod-7.0.3.1-Speedy",
             "incremental": "7031",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.0.3.1-speedy-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.0.3.1-Speedy-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -1856,9 +2711,9 @@
         {
             "device": "speedy",
             "name": "CyanogenMod 7.0.2.1",
-            "modversion": "CyanogenMod-7.0.2.1-speedy",
+            "modversion": "CyanogenMod-7.0.2.1-Speedy",
             "incremental": "7021",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.0.2.1-speedy-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.0.2.1-Speedy-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -1871,9 +2726,9 @@
         {
             "device": "speedy",
             "name": "CyanogenMod 7.0.2",
-            "modversion": "CyanogenMod-7.0.2-speedy",
+            "modversion": "CyanogenMod-7.0.2-Speedy",
             "incremental": "7020",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.0.2-speedy-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.0.2-Speedy-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -1886,15 +2741,34 @@
         {
             "device": "speedy",
             "name": "CyanogenMod 7.0.0",
-            "modversion": "CyanogenMod-7.0.0-speedy",
+            "modversion": "CyanogenMod-7.0.0-Speedy",
             "incremental": "7005",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-speedy-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-Speedy-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
                 {
                     "name": "Google Apps",
                     "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "supersonic",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-Supersonic",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Supersonic-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -2034,6 +2908,25 @@
             ] 
         },
         {
+            "device": "urushi",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-XperiaRay-ST18i",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-XperiaRay-ST18i-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
             "device": "u8220",
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-u8220",
@@ -2049,6 +2942,25 @@
             ] 
         },
         {
+            "device": "v9",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-V9",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-V9-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
             "device": "vega",
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-Vega",
@@ -2060,6 +2972,25 @@
                 {
                     "name": "Google Apps",
                     "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "vibrant",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-Vibrant",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Vibrant-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -2080,10 +3011,29 @@
         },
         {
             "device": "vision",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-vision",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-vision-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "vision",
             "name": "CyanogenMod 7.1.0-RC1",
-            "modversion": "CyanogenMod-7.1.0-RC1-Vision",
+            "modversion": "CyanogenMod-7.1.0-RC1-vision",
             "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-Vision-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-vision-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
             "addons": [
@@ -2096,7 +3046,7 @@
         {
             "device": "vision",
             "name": "CyanogenMod 7.0.3",
-            "modversion": "CyanogenMod-7.0.3-Vision",
+            "modversion": "CyanogenMod-7.0.3-vision",
             "incremental": "7030",
             "url": "http://download.cyanogenmod.com/get/update-cm-7.0.3-vision-signed.zip",
             "product": "CyanogenMod",
@@ -2111,7 +3061,7 @@
         {
             "device": "vision",
             "name": "CyanogenMod 7.0.2",
-            "modversion": "CyanogenMod-7.0.2-Vision",
+            "modversion": "CyanogenMod-7.0.2-vision",
             "incremental": "7020",
             "url": "http://download.cyanogenmod.com/get/update-cm-7.0.2-vision-signed.zip",
             "product": "CyanogenMod",
@@ -2126,7 +3076,7 @@
         {
             "device": "vision",
             "name": "CyanogenMod 7.0.0",
-            "modversion": "CyanogenMod-7.0.0-Vision",
+            "modversion": "CyanogenMod-7.0.0-vision",
             "incremental": "7005",
             "url": "http://download.cyanogenmod.com/get/update-cm-7.0.0-vision-signed.zip",
             "product": "CyanogenMod",
@@ -2179,6 +3129,25 @@
         },
         {
             "device": "vivo",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-IncS",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-IncS-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "vivo",
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-IncS",
             "incremental": "7100",
@@ -2189,6 +3158,44 @@
                 {
                     "name": "Google Apps",
                     "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "vivow",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-Inc2",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Inc2-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "z71",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-Z71",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Z71-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -2299,6 +3306,25 @@
         },
         {
             "device": "zeppelin",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-CLIQXT",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-CLIQXT-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "zeppelin",
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-CLIQXT",
             "incremental": "7100",
@@ -2339,6 +3365,25 @@
                 {
                     "name": "Google Apps",
                     "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "zero",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-ZERO",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-ZERO-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -2401,6 +3446,26 @@
                     "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
-        } 
+        },
+        {
+            "device": "zeus",
+            "name": "CyanogenMod 7.1.0",
+            "modversion": "CyanogenMod-7.1.0-XperiaPlay-R800i",
+            "incremental": "7101",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-XperiaPlay-R800i-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+
+        }
     ]
 }

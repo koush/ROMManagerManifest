@@ -62,6 +62,7 @@
         "harmony": "true",
         "galaxysmtd": "true",
         "galaxys2": "true",
+        "galaxys2att": "true",
         "encore": "true",
         "crespo": "true",
         "click": "true",

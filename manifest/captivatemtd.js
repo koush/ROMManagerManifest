@@ -1,11 +1,11 @@
 {
   "manifests": [
     {
-      "developer": "SEYARU",
+      "developer": "Dizzy Rom",
       "free": false,
       "id": "andrerben@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/andrerben@gmail.com/manifest",
-      "summary": "Little modder"
+      "summary": "Rom Mod AOSP,CM7 Base Rom."
     },
     {
       "developer": "Cerberus",

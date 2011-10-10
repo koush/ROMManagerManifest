@@ -609,14 +609,14 @@
       "summary": "ali.almahdi@gmail.com"
     },
     {
-      "developer": "SEYARU",
+      "developer": "Dizzy Rom",
       "free": false,
       "id": "andrerben@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/andrerben@gmail.com/manifest",
       "roms": {
         "captivatemtd": true
       },
-      "summary": "Little modder"
+      "summary": "Rom Mod AOSP,CM7 Base Rom."
     },
     {
       "developer": "aosp",
@@ -874,6 +874,7 @@
         "p990": "true",
         "vivow": "true",
         "smb_a1004": "true",
+        "umts_jordan": "true",
         "v9": "true",
         "ace": "true",
         "bravo": "true",
@@ -892,7 +893,6 @@
         "fascinatemtd": "true",
         "shakira": "true",
         "smultron": "true",
-        "jordan": "true",
         "blade": "true",
         "captivatemtd": "true",
         "crespo4g": "true",

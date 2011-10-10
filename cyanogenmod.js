@@ -2570,6 +2570,25 @@
         },
         {
             "device": "smb_a1002",
+            "name": "CyanogenMod 7.1.0.1",
+            "modversion": "CyanogenMod-7.1.0.1-smb_a1002",
+            "incremental": "7102",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0.1-smb_a1002-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental, requires GApps)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "smb_a1002",
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-smb_a1002",
             "incremental": "7101",

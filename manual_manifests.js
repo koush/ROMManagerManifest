@@ -58,7 +58,7 @@
         "urushi": "true",
         "v9": "true",
         "inc": "true",
-        "jordan": "true",
+        "umts_jordan": "true",
         "harmony": "true",
         "galaxysmtd": "true",
         "galaxys2": "true",

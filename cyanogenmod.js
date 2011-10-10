@@ -1627,7 +1627,7 @@
             ] 
         },
         {
-            "device": "jordan",
+            "device": "umts_jordan",
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-jordan",
             "incremental": "7101",

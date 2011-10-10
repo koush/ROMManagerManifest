@@ -61,13 +61,6 @@
       "id": "jamieluckett@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/jamieluckett@gmail.com/manifest",
       "summary": "Stock ROMs for the ZTE Blade and it's renamed counterparts."
-    },
-    {
-      "developer": "WBAW",
-      "free": false,
-      "id": "johnkenney02@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/johnkenney02@gmail.com/manifest",
-      "summary": "Stir Fry Chef"
     }
   ],
   "minversion": "4403"

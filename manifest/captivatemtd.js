@@ -1,6 +1,13 @@
 {
   "manifests": [
     {
+      "developer": "SEYARU",
+      "free": false,
+      "id": "andrerben@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/andrerben@gmail.com/manifest",
+      "summary": "Little modder"
+    },
+    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",

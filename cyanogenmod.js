@@ -2206,12 +2206,31 @@
         },
         {
             "device": "p999",
+            "name": "CyanogenMod 7.1.0.1",
+            "modversion": "CyanogenMod-7.1.0.1-G2x",
+            "incremental": "7102",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0.1-G2x-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental!)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                } 
+            ] 
+        },
+        {
+            "device": "p999",
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-G2x",
             "incremental": "7101",
             "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-G2x-signed.zip",
             "product": "CyanogenMod",
-            "summary": "Stable Release",
+            "summary": "Deprecated Stable Release",
             "addons": [
                 {
                     "name": "Google Apps",

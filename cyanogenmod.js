@@ -2976,7 +2976,7 @@
             ] 
         },
         {
-            "device": "vibrant",
+            "device": "vibrantmtd",
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-Vibrant",
             "incremental": "7101",

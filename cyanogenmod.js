@@ -8,7 +8,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-DesireHD",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-DesireHD-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-DesireHD-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -27,7 +27,7 @@
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-DesireHD",
             "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-DesireHD-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-RC1-DesireHD-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
             "addons": [
@@ -117,7 +117,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-XperiaArc-LT15i",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-XperiaArc-LT15i-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-XperiaArc-LT15i-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -136,7 +136,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-Blade",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Blade-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-Blade-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -155,7 +155,7 @@
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-Blade",
             "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-Blade-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-RC1-Blade-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
             "addons": [
@@ -215,7 +215,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-Desire",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Desire-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-Desire-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -234,7 +234,7 @@
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-Desire",
             "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-Desire-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-RC1-Desire-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
             "addons": [
@@ -384,7 +384,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-BravoC",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-BravoC-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-BravoC-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -403,7 +403,7 @@
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-BravoC",
             "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-BravoC-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-RC1-BravoC-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
             "addons": [
@@ -508,7 +508,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-buzz",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-buzz-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-buzz-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -527,7 +527,7 @@
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-Buzz",
             "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-Buzz-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-RC1-Buzz-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
             "addons": [
@@ -602,7 +602,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-Captivate",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Captivate-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-Captivate-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -621,7 +621,7 @@
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-Captivate",
             "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-Captivate-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-RC1-Captivate-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
             "addons": [
@@ -636,7 +636,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-Click",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Click-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-Click-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -655,7 +655,7 @@
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-Click",
             "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-Click-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-RC1-Click-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
             "addons": [
@@ -715,7 +715,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-NS",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-NS-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-NS-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -734,7 +734,7 @@
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-NS",
             "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-NS-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-RC1-NS-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
             "label": "Release Candidates",
@@ -795,7 +795,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-NS4G",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-NS4G-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-NS4G-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -814,7 +814,7 @@
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-NS4G",
             "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-NS4G-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-RC1-NS4G-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
             "addons": [
@@ -829,7 +829,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-Eris",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Eris-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-Eris-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -893,7 +893,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-DROID2WE",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-DROID2WE-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-DROID2WE-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -912,7 +912,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-encore",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-encore-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-encore-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -931,7 +931,7 @@
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-encore",
             "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-encore-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-RC1-encore-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
             "addons": [
@@ -991,7 +991,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-Slide",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Slide-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-Slide-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -1010,7 +1010,7 @@
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-Slide",
             "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-Slide-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-RC1-Slide-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
             "addons": [
@@ -1115,7 +1115,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-Fascinate",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Fascinate-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-Fascinate-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -1134,7 +1134,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-GalaxyS2",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-GalaxyS2-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-GalaxyS2-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -1153,7 +1153,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-GalaxyS2ATT-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-GalaxyS2ATT-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -1172,7 +1172,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-Galaxys",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-GalaxyS-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-GalaxyS-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -1191,7 +1191,7 @@
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-GalaxyS",
             "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-GalaxyS-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-RC1-GalaxyS-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
             "addons": [
@@ -1206,7 +1206,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-glacier",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-glacier-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-glacier-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -1225,7 +1225,7 @@
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-glacier",
             "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-glacier-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-RC1-glacier-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
             "addons": [
@@ -1285,7 +1285,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-XperiaNeo-MT15i",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-XperiaNeo-MT15i-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-XperiaNeo-MT15i-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -1349,7 +1349,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-Hero",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Hero-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-Hero-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -1383,7 +1383,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-Heroc",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Heroc-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-Heroc-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -1402,7 +1402,7 @@
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-HeroC",
             "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-HeroC-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-RC1-HeroC-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
             "addons": [
@@ -1477,7 +1477,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-Inc",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Inc-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-Inc-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -1496,7 +1496,7 @@
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-Inc",
             "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-Inc-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-RC1-Inc-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
             "addons": [
@@ -1631,7 +1631,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-jordan",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-jordan-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-jordan-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -1650,7 +1650,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-Legend",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Legend-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-Legend-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -1669,7 +1669,7 @@
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-Legend",
             "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-Legend-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-RC1-Legend-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
             "addons": [
@@ -1744,7 +1744,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-Liberty",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Libety-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-Libety-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -1763,7 +1763,7 @@
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-Liberty",
             "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-Liberty-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-RC1-Liberty-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
             "addons": [
@@ -1838,7 +1838,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-XperiaMiniPro-SK17i",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-XperiaMiniPro-SK17i-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-XperiaMiniPro-SK17i-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -1876,7 +1876,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-Mesmerize",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Mesmerize-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-Mesmerize-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -1895,7 +1895,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-X10MiniPro",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-X10MiniPro-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-X10MiniPro-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -1914,7 +1914,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-CLIQ",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-CLIQ-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-CLIQ-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -1933,7 +1933,7 @@
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-CLIQ",
             "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-CLIQ-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-RC1-CLIQ-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
             "addons": [
@@ -1948,7 +1948,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-BACKFLIP",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-BACKFLIP-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-BACKFLIP-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -1967,7 +1967,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-ONE",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-ONE-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-ONE-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -1986,7 +1986,7 @@
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-ONE",
             "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-ONE-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-RC1-ONE-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
             "addons": [
@@ -2061,7 +2061,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-Optimus2X",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Optimus2X-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-Optimus2X-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -2080,7 +2080,7 @@
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-Optimus2X",
             "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-Optimus2X-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-RC1-Optimus2X-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
             "addons": [
@@ -2095,7 +2095,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-G2x",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-G2x-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-G2x-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -2114,7 +2114,7 @@
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-G2x",
             "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-G2x-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-RC1-G2x-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
             "addons": [
@@ -2129,7 +2129,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-N1",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-N1-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-N1-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -2148,7 +2148,7 @@
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-N1",
             "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-N1-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-RC1-N1-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
             "addons": [
@@ -2283,7 +2283,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-DesireS",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-DesireS-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-DesireS-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -2347,7 +2347,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-X8",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-X8-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-X8-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -2366,7 +2366,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-Droid",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Droid-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-Droid-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -2385,7 +2385,7 @@
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-Droid",
             "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-Droid-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-RC1-Droid-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
             "addons": [
@@ -2535,7 +2535,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-Showcase",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Showcase-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-Showcase-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -2554,7 +2554,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-smb_a1002",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-smb_a1002-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-smb_a1002-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -2573,7 +2573,7 @@
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-smb_a1002",
             "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-smb_a1002-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-RC1-smb_a1002-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
             "addons": [
@@ -2588,7 +2588,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-smb_a1004",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-smb_a1004-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-smb_a1004-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -2607,7 +2607,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-smb_a1011",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-smb_a1011-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-smb_a1011-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -2626,7 +2626,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-smb_b9701",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-smb_b9701-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-smb_b9701-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -2645,7 +2645,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-XperiaMini-ST15i",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-XperiaMini-ST15i-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-XperiaMini-ST15i-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -2664,7 +2664,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-Speedy",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Speedy-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-Speedy-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -2683,7 +2683,7 @@
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-Speedy",
             "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-Speedy-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-RC1-Speedy-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
             "addons": [
@@ -2758,7 +2758,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-Supersonic",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Supersonic-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-Supersonic-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -2777,7 +2777,7 @@
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-Supersonic",
             "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-Supersonic-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-RC1-Supersonic-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
             "addons": [
@@ -2912,7 +2912,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-XperiaRay-ST18i",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-XperiaRay-ST18i-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-XperiaRay-ST18i-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -2931,7 +2931,7 @@
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-u8220",
             "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-u8220-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-RC1-u8220-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
             "addons": [
@@ -2946,7 +2946,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-V9",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-V9-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-V9-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -2965,7 +2965,7 @@
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-Vega",
             "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-Vega-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-RC1-Vega-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
             "addons": [
@@ -2980,7 +2980,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-Vibrant",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Vibrant-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-Vibrant-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -2999,7 +2999,7 @@
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-Vibrant",
             "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-Vibrant-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-RC1-Vibrant-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
             "addons": [
@@ -3014,7 +3014,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-vision",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-vision-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-vision-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -3033,7 +3033,7 @@
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-vision",
             "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-vision-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-RC1-vision-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
             "addons": [
@@ -3132,7 +3132,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-IncS",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-IncS-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-IncS-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -3151,7 +3151,7 @@
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-IncS",
             "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-IncS-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-RC1-IncS-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
             "addons": [
@@ -3166,7 +3166,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-Inc2",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Inc2-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-Inc2-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -3185,7 +3185,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-Z71",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Z71-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-Z71-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -3204,7 +3204,7 @@
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-Z71",
             "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-Z71-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-RC1-Z71-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
             "addons": [
@@ -3309,7 +3309,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-CLIQXT",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-CLIQXT-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-CLIQXT-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -3328,7 +3328,7 @@
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-CLIQXT",
             "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-CLIQXT-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-RC1-CLIQXT-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
             "addons": [
@@ -3373,7 +3373,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-ZERO",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-ZERO-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-ZERO-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -3392,7 +3392,7 @@
             "name": "CyanogenMod 7.1.0-RC1",
             "modversion": "CyanogenMod-7.1.0-RC1-ZERO",
             "incremental": "7100",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-RC1-ZERO-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-RC1-ZERO-signed.zip",
             "product": "CyanogenMod",
             "summary": "Release Candidate",
             "addons": [
@@ -3452,7 +3452,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-XperiaPlay-R800i",
             "incremental": "7101",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-XperiaPlay-R800i-signed.zip",
+            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-XperiaPlay-R800i-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [

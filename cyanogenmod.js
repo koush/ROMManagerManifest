@@ -693,7 +693,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-Click",
             "incremental": "7101",
-            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-Click-signed.zip",
+            "url": "http://goo-inside.me/cm/click/stable/update-cm-7.1.0-Click-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [

@@ -772,18 +772,21 @@
     {
       "name": "Captivate (MTD)",
       "init": "init.smdkc110.rc",
+      "readonly_recovery": true,
       "officially_supported": false,
       "key": "captivatemtd"
     },
     {
       "name": "Vibrant (MTD)",
       "init": "init.smdkc110.rc",
+      "readonly_recovery": true,
       "officially_supported": false,
       "key": "vibrantmtd"
     },
     {
       "name": "GalaxyS i9000 (MTD)",
       "init": "lpm.rc",
+      "readonly_recovery": true,
       "officially_supported": false,
       "key": "galaxysmtd"
     },

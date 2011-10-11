@@ -1208,7 +1208,7 @@
         {
             "device": "galaxys2att",
             "name": "CyanogenMod 7.1.0",
-            "modversion": "CyanogenMod-7.1.0-",
+            "modversion": "CyanogenMod-7.1.0-GalaxyS2ATT",
             "incremental": "7101",
             "url": "http://goo-inside.me/cm/galaxys2att/stable/update-cm-7.1.0-GalaxyS2ATT-signed.zip",
             "product": "CyanogenMod",

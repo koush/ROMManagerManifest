@@ -38,7 +38,7 @@
       "icon": "http://romshare.deployfu.com/downloads/475/83b1212e420f39b900d6011fda66ad4c.jpg",
       "id": "x_SCOS_x_Elite",
       "manifest": "http://romshare.deployfu.com/developer/x_SCOS_x_Elite/manifest",
-      "summary": "Lots of New Updates Available"
+      "summary": "Read NGI v2.6 Comments Then Reply either there or to scospsn@yahoo.com"
     }
   ],
   "minversion": "4403"

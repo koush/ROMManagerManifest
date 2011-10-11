@@ -40,6 +40,14 @@
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
     {
+      "developer": "NSCollab",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/749/fe727664b5f32913fe22c3d8754e1558.png",
+      "id": "frank707",
+      "manifest": "http://studiousmedia.com/crespo/nscollab.js",
+      "summary": "A best of both worlds rom for your Nexus S"
+    },
+    {
       "developer": "Google Apps",
       "free": "true",
       "id": "google",

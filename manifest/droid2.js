@@ -93,14 +93,6 @@
       "summary": "Clean, fast & Stable roms for the D1 & D2"
     },
     {
-      "developer": "MIUI.us",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
-      "id": "miuius",
-      "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
-      "summary": "MIUI English releases by MIUI.us"
-    },
-    {
       "developer": "EnYo",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/633/e8973d34d142398f1d86f8c3ef789a8e.jpg",

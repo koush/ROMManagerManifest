@@ -1,6 +1,13 @@
 {
   "manifests": [
     {
+      "developer": "Dizzy Rom",
+      "free": true,
+      "id": "SEYARU",
+      "manifest": "http://romshare.deployfu.com/developer/SEYARU/manifest",
+      "summary": "Rom Mod AOSP,CM7 Base Rom."
+    },
+    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",

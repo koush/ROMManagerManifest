@@ -17,18 +17,19 @@
       "summary": "Managing root like it's going out of style"
     },
     {
+      "developer": "Oxygen ROM",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/848/640eb396b8b335969bd0f883902f97e8.png",
+      "id": "dzo",
+      "manifest": "http://romshare.deployfu.com/developer/dzo/manifest",
+      "summary": "Latest Gingerbread, Clean and Simple"
+    },
+    {
       "developer": "franciscofranco",
       "free": true,
       "id": "franciscofranco.1990@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/franciscofranco.1990@gmail.com/manifest",
       "summary": "franco.Kernel for Huawei U8800"
-    },
-    {
-      "developer": "ginnieandmartin@gmail.com",
-      "free": true,
-      "id": "ginnieandmartin@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/ginnieandmartin@gmail.com/manifest",
-      "summary": "ginnieandmartin@gmail.com"
     },
     {
       "developer": "Google Apps",

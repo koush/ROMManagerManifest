@@ -389,6 +389,16 @@
       "summary": "Custom CyanogenMod builds by RevNumbers for the Droid2 DroidX and Droid2 Global"
     },
     {
+      "developer": "Dizzy Rom",
+      "free": true,
+      "id": "SEYARU",
+      "manifest": "http://romshare.deployfu.com/developer/SEYARU/manifest",
+      "roms": {
+        "captivatemtd": true
+      },
+      "summary": "Rom Mod AOSP,CM7 Base Rom."
+    },
+    {
       "developer": "Complete Android Experience ",
       "free": true,
       "id": "SamSamoon",
@@ -819,6 +829,17 @@
       "summary": "coldflid@gmail.com"
     },
     {
+      "developer": "cooldudezach@gmail.com",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/845/c9ef2970d7c5625a709552ea1bc31410.png",
+      "id": "cooldudezach@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/cooldudezach@gmail.com/manifest",
+      "roms": {
+        "thunderc": true
+      },
+      "summary": "Bringing IHO to ROM Manager"
+    },
+    {
       "developer": "foschi@gmail.com",
       "free": true,
       "id": "crimescene",
@@ -1104,6 +1125,17 @@
       "summary": "dsb9938 and thejondude"
     },
     {
+      "developer": "Oxygen ROM",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/848/640eb396b8b335969bd0f883902f97e8.png",
+      "id": "dzo",
+      "manifest": "http://romshare.deployfu.com/developer/dzo/manifest",
+      "roms": {
+        "u8800": true
+      },
+      "summary": "Latest Gingerbread, Clean and Simple"
+    },
+    {
       "developer": "doniqcc",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/718/9c3899d3bf007a79e4bab261fad0c501.jpg",
@@ -1116,17 +1148,6 @@
       "summary": "Eagleblood Roms Fast/Stable/Clean"
     },
     {
-      "developer": "Salvage-Mod Nightlies",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
-    },
-    {
       "developer": "Salvage-Mod",
       "free": "true",
       "id": "echo17",
@@ -1136,6 +1157,17 @@
         "supersonic": "true"
       },
       "summary": "GB source build. Group project."
+    },
+    {
+      "developer": "Salvage-Mod Nightlies",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -1248,6 +1280,7 @@
       "id": "frank707",
       "manifest": "http://studiousmedia.com/crespo/nscollab.js",
       "roms": {
+        "crespo4g": true,
         "crespo": true
       },
       "summary": "A best of both worlds rom for your Nexus S"
@@ -1315,16 +1348,6 @@
         "thunderg": true
       },
       "summary": "gianluck95@gmail.com"
-    },
-    {
-      "developer": "ginnieandmartin@gmail.com",
-      "free": true,
-      "id": "ginnieandmartin@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/ginnieandmartin@gmail.com/manifest",
-      "roms": {
-        "u8800": true
-      },
-      "summary": "ginnieandmartin@gmail.com"
     },
     {
       "developer": "G-TabDevs",
@@ -1396,6 +1419,16 @@
       "summary": "Go Go Go!"
     },
     {
+      "developer": "HyperDroid",
+      "free": "true",
+      "id": "hyperdroid",
+      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
+      "roms": {
+        "leo": "true"
+      },
+      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
+    },
+    {
       "developer": "HyperDroid CM7",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
@@ -1405,16 +1438,6 @@
         "leo": true
       },
       "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
-    },
-    {
-      "developer": "HyperDroid",
-      "free": "true",
-      "id": "hyperdroid",
-      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
-      "roms": {
-        "leo": "true"
-      },
-      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
     },
     {
       "developer": "Ihtfp69",
@@ -1847,7 +1870,6 @@
         "shooter": true,
         "vivow": true,
         "shadow": true,
-        "droid2": true,
         "p990": true,
         "vivo": true,
         "vibrantmtd": true,
@@ -2423,7 +2445,7 @@
       "roms": {
         "ideos": true
       },
-      "summary": "Lots of New Updates Available"
+      "summary": "Read NGI v2.6 Comments Then Reply either there or to scospsn@yahoo.com"
     },
     {
       "developer": "Xboarder56",

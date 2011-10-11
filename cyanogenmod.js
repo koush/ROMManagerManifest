@@ -117,7 +117,7 @@
             "name": "CyanogenMod 7.1.0.1",
             "modversion": "CyanogenMod-7.1.0.1-XperiaArc-LT15i",
             "incremental": "7102",
-            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0.1-XperiaArc-LT15i-signed.zip",
+            "url": "http://goo-inside.me/cm/anzu/stable/update-cm-7.1.0.1-XperiaArc-LT15i-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -527,7 +527,7 @@
             "name": "CyanogenMod 7.1.0.1",
             "modversion": "CyanogenMod-7.1.0.1-buzz",
             "incremental": "7102",
-            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0.1-buzz-signed.zip",
+            "url": "http://goo-inside.me/cm/buzz/stable/update-cm-7.1.0.1-buzz-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -674,7 +674,7 @@
             "name": "CyanogenMod 7.1.0.1",
             "modversion": "CyanogenMod-7.1.0.1-Click",
             "incremental": "7102",
-            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0.1-Click-signed.zip",
+            "url": "http://goo-inside.me/cm/click/stable/update-cm-7.1.0.1-Click-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -1210,7 +1210,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-",
             "incremental": "7101",
-            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-GalaxyS2ATT-signed.zip",
+            "url": "http://goo-inside.me/cm/galaxys2att/stable/update-cm-7.1.0-GalaxyS2ATT-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -1342,7 +1342,7 @@
             "name": "CyanogenMod 7.1.0.1",
             "modversion": "CyanogenMod-7.1.0.1-XperiaNeo-MT15i",
             "incremental": "7102",
-            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0.1-XperiaNeo-MT15i-signed.zip",
+            "url": "http://goo-inside.me/cm/hallon/stable/update-cm-7.1.0.1-XperiaNeo-MT15i-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -1820,7 +1820,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-Liberty",
             "incremental": "7101",
-            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-Libety-signed.zip",
+            "url": "http://goo-inside.me/cm/liberty/stable/update-cm-7.1.0-Libety-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -1914,7 +1914,7 @@
             "name": "CyanogenMod 7.1.0.1",
             "modversion": "CyanogenMod-7.1.0.1-XperiaMiniPro-SK17i",
             "incremental": "7102",
-            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0.1-XperiaMiniPro-SK17i-signed.zip",
+            "url": "http://goo-inside.me/cm/mango/stable/update-cm-7.1.0.1-XperiaMiniPro-SK17i-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -2009,7 +2009,7 @@
             "name": "CyanogenMod 7.1.0.1",
             "modversion": "CyanogenMod-7.1.0.1-CLIQ",
             "incremental": "7102",
-            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0.1-CLIQ-signed.zip",
+            "url": "http://goo-inside.me/cm/morrison/stable/update-cm-7.1.0.1-CLIQ-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -2397,7 +2397,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-X10Mini",
             "incremental": "7101",
-            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-X10Mini-signed.zip",
+            "url": "http://goo-inside.me/cm/robyn/stable/update-cm-7.1.0-X10Mini-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -2687,7 +2687,7 @@
             "name": "CyanogenMod 7.1.0.1",
             "modversion": "CyanogenMod-7.1.0.1-smb_a1002",
             "incremental": "7102",
-            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0.1-smb_a1002-signed.zip",
+            "url": "http://goo-inside.me/cm/smb_a1002/stable/update-cm-7.1.0.1-smb_a1002-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -2740,7 +2740,7 @@
             "name": "CyanogenMod 7.1.0.1",
             "modversion": "CyanogenMod-7.1.0.1-XperiaMini-ST15i",
             "incremental": "7102",
-            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0.1-XperiaMini-ST15i-signed.zip",
+            "url": "http://goo-inside.me/cm/smultron/stable/update-cm-7.1.0.1-XperiaMini-ST15i-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -2778,7 +2778,7 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-Speedy",
             "incremental": "7101",
-            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0-Speedy-signed.zip",
+            "url": "http://goo-inside.me/cm/speedy/stable/update-cm-7.1.0-Speedy-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -3026,7 +3026,7 @@
             "name": "CyanogenMod 7.1.0.1",
             "modversion": "CyanogenMod-7.1.0.1-XperiaRay-ST18i",
             "incremental": "7102",
-            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0.1-XperiaRay-ST18i-signed.zip",
+            "url": "http://goo-inside.me/cm/urushi/stable/update-cm-7.1.0.1-XperiaRay-ST18i-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -3113,7 +3113,7 @@
             "name": "CyanogenMod 7.1.0.1",
             "modversion": "CyanogenMod-7.1.0.1-Vibrant",
             "incremental": "7102",
-            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0.1-Vibrant-signed.zip",
+            "url": "http://goo-inside.me/cm/vibrantmtd/stable/update-cm-7.1.0.1-Vibrant-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
@@ -3604,7 +3604,7 @@
             "name": "CyanogenMod 7.1.0.1",
             "modversion": "CyanogenMod-7.1.0.1-XperiaPlay-R800i",
             "incremental": "7102",
-            "url": "http://mirrorbrain.cyanogenmod.com/cm/stable/gingerbread/update-cm-7.1.0.1-XperiaPlay-R800i-signed.zip",
+            "url": "http://goo-inside.me/cm/zeus/stable/update-cm-7.1.0.1-XperiaPlay-R800i-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [

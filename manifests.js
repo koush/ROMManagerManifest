@@ -293,8 +293,8 @@
       "roms": {
         "p990": true,
         "umts_jordan": true,
-        "galaxys": true,
         "ace": true,
+        "galaxys": true,
         "milestone": true,
         "crespo": true,
         "galaxys2": true
@@ -389,16 +389,6 @@
       "summary": "Custom CyanogenMod builds by RevNumbers for the Droid2 DroidX and Droid2 Global"
     },
     {
-      "developer": "Dizzy Rom",
-      "free": true,
-      "id": "SEYARU",
-      "manifest": "http://romshare.deployfu.com/developer/SEYARU/manifest",
-      "roms": {
-        "captivatemtd": true
-      },
-      "summary": "Rom Mod AOSP,CM7 Base Rom."
-    },
-    {
       "developer": "Complete Android Experience ",
       "free": true,
       "id": "SamSamoon",
@@ -407,6 +397,17 @@
         "blade": true
       },
       "summary": "Gingerbread ROM By Sami Beck"
+    },
+    {
+      "developer": "Sense-o-Maniac",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/862/a03de1814780c4cde2991b5e43b3a322.gif",
+      "id": "Sense-o-Maniac",
+      "manifest": "http://romshare.deployfu.com/developer/Sense-o-Maniac/manifest",
+      "roms": {
+        "pyramid": true
+      },
+      "summary": "Sense-o-Maniac - Sense 3.5 Beats"
     },
     {
       "developer": "Sinister ROM",
@@ -1080,16 +1081,6 @@
       "summary": "The latest stock CyanogenMod 7 Desire (bravo) base ported to HD2 with the minimal amount of changes required.  No custom apps are included.  Visit the ROM's thread @ xda: http://forum.xda-developers.com/showthread.php?t=933951 ."
     },
     {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
-    },
-    {
       "developer": "DrewGaren Roms",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1101,6 +1092,16 @@
         "crespo": true
       },
       "summary": "Custom Roms and Themes for your Device"
+    },
+    {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1251,6 +1252,16 @@
         "heroc": "true"
       },
       "summary": "Fresh Rom for Evo and HeroC by flipz"
+    },
+    {
+      "developer": "foonode",
+      "free": true,
+      "id": "foonode",
+      "manifest": "http://romshare.deployfu.com/developer/foonode/manifest",
+      "roms": {
+        "galaxys2": true
+      },
+      "summary": "Custom ROM"
     },
     {
       "developer": "forkup",
@@ -1809,29 +1820,6 @@
       "summary": "Clean, fast & Stable roms for the D1 & D2"
     },
     {
-      "developer": "MIUI Android",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
-      "id": "miuiandroid",
-      "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
-      "roms": {
-        "leo": true,
-        "p990": true,
-        "vibrantmtd": true,
-        "passion": true,
-        "galaxys": true,
-        "bravo": true,
-        "umts_jordan": true,
-        "ace": true,
-        "captivatemtd": true,
-        "inc": true,
-        "crespo": true,
-        "vision": true,
-        "umts_sholes": true
-      },
-      "summary": "The original English MIUI ROM by MIUI Android"
-    },
-    {
       "developer": "MIUI-PT",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
@@ -1841,6 +1829,7 @@
         "leo": true,
         "u8800": true,
         "p990": true,
+        "vivo": true,
         "vibrantmtd": true,
         "ace": true,
         "bravo": true,
@@ -1867,6 +1856,7 @@
       "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
       "roms": {
         "leo": true,
+        "u8800": true,
         "shooter": true,
         "vivow": true,
         "shadow": true,
@@ -2158,7 +2148,7 @@
       "roms": {
         "leo": true
       },
-      "summary": "Seaders stable one, based on LEO 2.3.5 sources, tweaked with tablet-functions, audio/lights/sensor/gps fixes, custom settings and deleted/added/switched apps; incl. newest custom YES/NO recovery. http://bit.ly/nnx6qf for details."
+      "summary": "Seaders stable one, based on LEO 2.3.7 sources, tweaked with tablet-functions, audio/lights/sensor/gps fixes, custom settings and deleted/added/switched apps; incl. newest custom YES/NO recovery. http://bit.ly/nnx6qf for details."
     },
     {
       "developer": "Shawe",
@@ -2189,6 +2179,17 @@
         "sholes": "true"
       },
       "summary": "Source built ROM by GFlam & Eagle1967"
+    },
+    {
+      "developer": "spaarc",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/696/47c039257c6470c58d3d6c3f6dc178a4.jpg",
+      "id": "spaarc",
+      "manifest": "http://romshare.deployfu.com/developer/spaarc/manifest",
+      "roms": {
+        "ace": true
+      },
+      "summary": "mods and bacons for xperia x10 only!"
     },
     {
       "developer": "squash",
@@ -2228,17 +2229,6 @@
       "summary": "Stock ROM with a ton of bloatware removed and some added swag"
     },
     {
-      "developer": "CyanogenMod RC",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
-      "id": "tanguy.pruvot@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/tanguy.pruvot@gmail.com/manifest",
-      "roms": {
-        "umts_jordan": true
-      },
-      "summary": "Stable but unofficial RC"
-    },
-    {
       "developer": "CyanogenMod Nightlies",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/541/91afee5f3ad77376b65aa60038c4979c.png",
@@ -2248,6 +2238,17 @@
         "umts_jordan": true
       },
       "summary": "CyanogenMod Nightly builds. tpruvot@github"
+    },
+    {
+      "developer": "CyanogenMod RC",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
+      "id": "tanguy.pruvot@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/tanguy.pruvot@gmail.com/manifest",
+      "roms": {
+        "umts_jordan": true
+      },
+      "summary": "Stable but unofficial RC"
     },
     {
       "developer": "MyUI",
@@ -2471,6 +2472,17 @@
         "sapphire": true
       },
       "summary": "all the ginger yoshi roms "
+    },
+    {
+      "developer": "ZimniY",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/857/795f625d921899cffd0feb5692672e76.jpg",
+      "id": "zimniy",
+      "manifest": "http://romshare.deployfu.com/developer/zimniy/manifest",
+      "roms": {
+        "galaxygio": true
+      },
+      "summary": ">_<"
     }
   ],
   "minversion": "4403"

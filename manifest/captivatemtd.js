@@ -1,13 +1,6 @@
 {
   "manifests": [
     {
-      "developer": "Dizzy Rom",
-      "free": true,
-      "id": "SEYARU",
-      "manifest": "http://romshare.deployfu.com/developer/SEYARU/manifest",
-      "summary": "Rom Mod AOSP,CM7 Base Rom."
-    },
-    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",
@@ -69,14 +62,6 @@
       "id": "lostlogicaa@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/lostlogicaa@gmail.com/manifest",
       "summary": "Based on the latest gingerbread leak 2.3.4 for captivate,Tweaked to be faster, and have a amazing battery life ."
-    },
-    {
-      "developer": "MIUI Android",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
-      "id": "miuiandroid",
-      "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
-      "summary": "The original English MIUI ROM by MIUI Android"
     },
     {
       "developer": "MIUI-PT",

@@ -48,6 +48,13 @@
       "summary": "Usefull Stuff for Galaxy S Phones"
     },
     {
+      "developer": "foonode",
+      "free": true,
+      "id": "foonode",
+      "manifest": "http://romshare.deployfu.com/developer/foonode/manifest",
+      "summary": "Custom ROM"
+    },
+    {
       "developer": "Google Apps",
       "free": "true",
       "id": "google",

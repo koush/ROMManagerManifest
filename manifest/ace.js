@@ -104,14 +104,6 @@
       "summary": "ROMs and hax by gtg465x"
     },
     {
-      "developer": "MIUI Android",
-      "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
-      "id": "miuiandroid",
-      "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
-      "summary": "The original English MIUI ROM by MIUI Android"
-    },
-    {
       "developer": "MIUI-PT",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
@@ -134,6 +126,14 @@
       "id": "pirateg@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/pirateg@gmail.com/manifest",
       "summary": "Inspire 4G ROMS and Add-ons"
+    },
+    {
+      "developer": "spaarc",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/696/47c039257c6470c58d3d6c3f6dc178a4.jpg",
+      "id": "spaarc",
+      "manifest": "http://romshare.deployfu.com/developer/spaarc/manifest",
+      "summary": "mods and bacons for xperia x10 only!"
     },
     {
       "developer": "Virtuous",

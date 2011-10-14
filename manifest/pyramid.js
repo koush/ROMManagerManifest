@@ -9,6 +9,14 @@
       "summary": "LeeDrOiD Sense roms & Kernels"
     },
     {
+      "developer": "Sense-o-Maniac",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/862/a03de1814780c4cde2991b5e43b3a322.gif",
+      "id": "Sense-o-Maniac",
+      "manifest": "http://romshare.deployfu.com/developer/Sense-o-Maniac/manifest",
+      "summary": "Sense-o-Maniac - Sense 3.5 Beats"
+    },
+    {
       "developer": "CiVic",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/754/b33b496dcc1158a6fb54aade5e74befa.png",

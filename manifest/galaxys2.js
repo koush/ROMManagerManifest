@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "MIUI.hu",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/722/6c020836957e6d84eaf0e747197e935a.png",
       "id": "MIUI.hu",
       "manifest": "http://romshare.deployfu.com/developer/MIUI.hu/manifest",
@@ -49,7 +49,7 @@
     },
     {
       "developer": "foonode",
-      "free": true,
+      "free": false,
       "id": "foonode",
       "manifest": "http://romshare.deployfu.com/developer/foonode/manifest",
       "summary": "Custom ROM"
@@ -64,7 +64,7 @@
     },
     {
       "developer": "Novek",
-      "free": true,
+      "free": false,
       "id": "trondkevin@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/trondkevin@gmail.com/manifest",
       "summary": "Happy XDA'er"

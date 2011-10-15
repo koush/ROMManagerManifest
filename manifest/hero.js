@@ -41,7 +41,7 @@
     },
     {
       "developer": "jbbandos",
-      "free": true,
+      "free": false,
       "id": "jbbandos",
       "manifest": "http://romshare.deployfu.com/developer/jbbandos/manifest",
       "summary": "Multi-language MIUI ROMs. No theme change, 3G, bluetooth and other tunings. Lean and fast."

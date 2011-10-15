@@ -26,7 +26,7 @@
     },
     {
       "developer": "ZimniY",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/857/795f625d921899cffd0feb5692672e76.jpg",
       "id": "zimniy",
       "manifest": "http://romshare.deployfu.com/developer/zimniy/manifest",

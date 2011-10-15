@@ -10,7 +10,7 @@
     },
     {
       "developer": "Honey3D",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/376/b266f88e7063336d333ef7ad4fd4d6ff.png",
       "id": "HoneyTeam",
       "manifest": "http://romshare.deployfu.com/developer/HoneyTeam/manifest",
@@ -26,7 +26,7 @@
     },
     {
       "developer": "MIUI.hu",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/722/6c020836957e6d84eaf0e747197e935a.png",
       "id": "MIUI.hu",
       "manifest": "http://romshare.deployfu.com/developer/MIUI.hu/manifest",
@@ -50,7 +50,7 @@
     },
     {
       "developer": "cstayton",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/546/7489780bf323b88233ae310c1c65a08e.png",
       "id": "castayton@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/castayton@gmail.com/manifest",
@@ -121,7 +121,7 @@
     },
     {
       "developer": "pirateghost",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/618/e651f76ee302b696b7e42ed966b612cf.jpg",
       "id": "pirateg@gmail.com",
       "manifest": "http://romshare.deployfu.com/developer/pirateg@gmail.com/manifest",
@@ -129,7 +129,7 @@
     },
     {
       "developer": "spaarc",
-      "free": true,
+      "free": false,
       "icon": "http://romshare.deployfu.com/downloads/696/47c039257c6470c58d3d6c3f6dc178a4.jpg",
       "id": "spaarc",
       "manifest": "http://romshare.deployfu.com/developer/spaarc/manifest",

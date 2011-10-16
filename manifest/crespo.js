@@ -26,9 +26,9 @@
     },
     {
       "developer": "Blandroid",
-      "free": "true",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/870/0b02d9980a4a9a0c56608abe5a8b26f1.png",
       "id": "blandroid",
-      "icon": "http://blandroid.org/rommanager-icon.png",
       "manifest": "http://blandroid.org/rommanager-manifest.js",
       "summary": "Stable AOSP-based ROM"
     },
@@ -102,6 +102,14 @@
       "id": "kaiya215",
       "manifest": "http://romshare.deployfu.com/developer/kaiya215/manifest",
       "summary": "fastest gingerbread roms available for the nexus s."
+    },
+    {
+      "developer": "MIUI Android",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
+      "id": "miuiandroid",
+      "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
+      "summary": "The original English MIUI ROM by MIUI Android"
     },
     {
       "developer": "MIUI-PT",

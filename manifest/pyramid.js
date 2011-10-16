@@ -14,7 +14,7 @@
       "icon": "http://romshare.deployfu.com/downloads/862/a03de1814780c4cde2991b5e43b3a322.gif",
       "id": "Sense-o-Maniac",
       "manifest": "http://romshare.deployfu.com/developer/Sense-o-Maniac/manifest",
-      "summary": "Sense-o-Maniac - Sense 3.5 Beats"
+      "summary": "Sense-o-Maniac - Sense 3.5 Beats || Amaze cam || CRT || Bloatware free ||"
     },
     {
       "developer": "CiVic",

@@ -2,7 +2,7 @@
   "use_in_app": false,
   "devices": [
     {
-      "name": "Motorola Droid (CDMA)",
+      "name": "Motorola Droid",
       "version": "2.5.0.1",
       "init": "init.sholes.rc",
       "legacy_versions": [
@@ -20,7 +20,7 @@
       "key": "sholes"
     },
     {
-      "name": "Ion/MyTouch 3G (GSM)",
+      "name": "HTC MyTouch 3G",
       "version": "2.5.0.7",
       "init": "init.sapphire.rc",
       "legacy_versions": [
@@ -37,7 +37,7 @@
       "key": "sapphire"
     },
     {
-      "name": "HTC Magic (GSM)",
+      "name": "HTC Magic",
       "version": "2.5.0.7",
       "init": "init.sapphire.rc",
       "legacy_versions": [
@@ -54,7 +54,7 @@
       "key": "magic"
     },
     {
-      "name": "HTC Dream (GSM)",
+      "name": "HTC G1/Dream",
       "version": "2.5.0.7",
       "init": "init.trout.rc",
       "legacy_versions": [
@@ -71,7 +71,7 @@
       "key": "dream"
     },
     {
-      "name": "Google Nexus One (GSM)",
+      "name": "Google Nexus One",
       "version": "5.0.2.0",
       "init": "init.mahimahi.rc",
       "legacy_versions": [
@@ -127,7 +127,7 @@
       "key": "heroc"
     },
     {
-      "name": "HTC Evo (CDMA)",
+      "name": "HTC Evo",
       "version": "5.0.2.2",
       "init": "init.supersonic.rc",
       "legacy_versions": [
@@ -250,7 +250,7 @@
       "key": "liberty"
     },
     {
-      "name": "Droid Eris (CDMA)",
+      "name": "Motorola Droid Eris",
       "version": "2.5.0.7",
       "init": "init.desirec.rc",
       "readonly_recovery": true,
@@ -297,7 +297,7 @@
       "key": "streak"
     },
     {
-      "name": "MyTouch Slide",
+      "name": "HTC MyTouch Slide",
       "version": "2.5.0.7",
       "init": "init.latte.rc",
       "readonly_recovery": true,
@@ -310,7 +310,7 @@
       "key": "espresso"
     },
     {
-      "name": "Galaxy S i9000",
+      "name": "Samsung GalaxyS i9000",
       "version": "2.5.1.2",
       "init": "lpm.rc",
       "readonly_recovery": true,
@@ -323,7 +323,7 @@
       "key": "galaxys"
     },
     {
-      "name": "Galaxy S Fascinate",
+      "name": "Samsung GalaxyS Fascinate",
       "version": "3.0.0.8",
       "init": "init.smdkc110.rc",
       "readonly_recovery": true,
@@ -336,7 +336,7 @@
       "key": "fascinate"
     },
     {
-      "name": "Galaxy S Vibrant",
+      "name": "Samsung GalaxyS Vibrant",
       "version": "2.5.1.2",
       "init": "init.smdkc110.rc",
       "readonly_recovery": true,
@@ -349,7 +349,7 @@
       "key": "vibrant"
     },
     {
-      "name": "Galaxy S Captivate",
+      "name": "Samsung GalaxyS Captivate",
       "version": "2.5.1.2",
       "init": "init.smdkc110.rc",
       "readonly_recovery": true,
@@ -374,7 +374,7 @@
       "key": "pulse"
     },
     {
-      "name": "LG Ally",
+      "name": "LGE Ally",
       "version": "2.5.0.7",
       "init": "init.aloha.rc",
       "legacy_versions": [
@@ -417,7 +417,7 @@
       "key": "droidx"
     },
     {
-      "name": "Droid X (2nd-init)",
+      "name": "Motorola Droid X (2nd-init)",
       "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
       "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
       "version": "5.0.2.0",
@@ -592,7 +592,7 @@
       "key": "harmony"
     },
     {
-      "name": "Galaxy Tab - Verizon",
+      "name": "Samsung Galaxy Tab - VZW",
       "version": "3.0.0.0",
       "init": "init.smdkc110.rc",
       "readonly_recovery": true,
@@ -618,7 +618,7 @@
       "key": "att_tab"
     },
     {
-      "name": "Galaxy Tab - T-Mobile",
+      "name": "Samsung Galaxy Tab - T-Mobile",
       "version": "2.5.1.8",
       "init": "init.smdkc110.rc",
       "readonly_recovery": true,
@@ -665,7 +665,7 @@
       "lunch": "cyanogen_crespo-eng"
     },
     {
-      "name": "Droid Pro",
+      "name": "Motorola Droid Pro",
       "version": "2.5.0.8",
       "init": "init. mapphone_cdma.rc",
       "readonly_recovery": true,
@@ -755,7 +755,7 @@
       "key": "zero"
     },
     {
-      "name": "Evo Shift",
+      "name": "HTC Evo Shift",
       "version": "5.0.2.0",
       "init": "init.speedy.rc",
       "legacy_versions": [
@@ -771,77 +771,77 @@
       "lunch": "cyanogen_speedy-eng"
     },
     {
-      "name": "Captivate (MTD)",
+      "name": "Samsung Captivate (MTD)",
       "readonly_recovery": true,
       "init": "init.smdkc110.rc",
       "key": "captivatemtd",
       "officially_supported": false
     },
     {
-      "name": "Vibrant (MTD)",
+      "name": "Samsung Vibrant (MTD)",
       "readonly_recovery": true,
       "init": "init.smdkc110.rc",
       "key": "vibrantmtd",
       "officially_supported": false
     },
     {
-      "name": "GalaxyS i9000 (MTD)",
+      "name": "Samsung GalaxyS i9000 (MTD)",
       "readonly_recovery": true,
       "init": "lpm.rc",
       "key": "galaxysmtd",
       "officially_supported": false
     },
     {
-      "name": "Captivate (MTD)",
+      "name": "Samsung Captivate (MTD)",
       "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "init": "init.aries.rc",
       "key": "captivatemtd",
       "officially_supported": false
     },
     {
-      "name": "Showcase (MTD)",
+      "name": "Samsung Showcase (MTD)",
       "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "init": "init.aries.rc",
       "key": "showcasemtd",
       "officially_supported": false
     },
     {
-      "name": "Mesmerize (MTD)",
+      "name": "Samsung Mesmerize (MTD)",
       "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "init": "init.aries.rc",
       "key": "mesmerizemtd",
       "officially_supported": false
     },
     {
-      "name": "Fascinate (MTD)",
+      "name": "Samsung Fascinate (MTD)",
       "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "init": "init.aries.rc",
       "key": "fascinatemtd",
       "officially_supported": false
     },
     {
-      "name": "Vibrant (MTD)",
+      "name": "Samsung Vibrant (MTD)",
       "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "init": "init.aries.rc",
       "key": "vibrantmtd",
       "officially_supported": false
     },
     {
-      "name": "GalaxyS i9000B (MTD)",
+      "name": "Samsung GalaxyS i9000B (MTD)",
       "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "init": "init.aries.rc",
       "key": "galaxysbmtd",
       "officially_supported": false
     },
     {
-      "name": "GalaxyS i9000 (MTD)",
+      "name": "Samsung GalaxyS i9000 (MTD)",
       "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "init": "init.aries.rc",
       "key": "galaxysmtd",
       "officially_supported": false
     },
     {
-      "name": "Epic4G",
+      "name": "Samsung Epic4G",
       "init": "init.smdkc110.rc",
       "key": "epic4g",
       "officially_supported": false
@@ -951,7 +951,7 @@
       "lunch": "full_saga-eng"
     },
     {
-      "name": "T-Mobile G2X",
+      "name": "LG/T-Mobile G2X",
       "reboot_recovery": "echo 'boot-recovery' | dd of=/dev/block/mmcblk0p3 seek=6144 bs=1 ; reboot ; ",
       "version": "5.0.2.0",
       "init": "init_recovery.rc",
@@ -967,7 +967,7 @@
       "lunch": "cyanogen_p999-eng"
     },
     {
-      "name": "LG Optimus 2X",
+      "name": "LGE Optimus 2X",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p7 ; ",
       "reboot_recovery": "echo 'boot-recovery' | dd of=/dev/block/mmcblk0p3 seek=6144 bs=1 ; reboot ; ",
       "version": "5.0.2.0",
@@ -986,7 +986,7 @@
       "lunch": "cyanogen_p990-eng"
     },
     {
-      "name": "Nexus S 4G",
+      "name": "Google Nexus S 4G",
       "version": "5.0.2.0",
       "init": "init.herring.rc",
       "legacy_versions": [
@@ -1001,7 +1001,7 @@
       "lunch": "cyanogen_crespo4g-eng"
     },
     {
-      "name": "LG Optimus One",
+      "name": "LGE Optimus One",
       "version": "5.0.2.0",
       "init": "init.thunderg.rc",
       "legacy_versions": [
@@ -1037,7 +1037,7 @@
       "officially_supported": false
     },
     {
-      "name": "Samsung Galaxy S 4G",
+      "name": "Samsung GalaxyS 4G",
       "version": "3.2.0.0",
       "init": "init.smdkc110.rc",
       "readonly_recovery": true,
@@ -1062,7 +1062,7 @@
       "key": "p7100"
     },
     {
-      "name": "Samsung Galaxy S2",
+      "name": "Samsung GalaxyS2",
       "version": "4.0.1.5",
       "init": "init.smdkc210.rc",
       "readonly_recovery": true,
@@ -1115,7 +1115,7 @@
       "lunch": "cyanogen_vivow-eng"
     },
     {
-      "name": "LG Optimus V",
+      "name": "LGE Optimus V",
       "version": "3.2.0.1",
       "init": "init.cappuccino.rc",
       "key": "thunderc"
@@ -1340,7 +1340,7 @@
       "lunch": "huawei_u8800-eng"
     },
     {
-      "name": "Samsung AT&T Galaxy S2",
+      "name": "Samsung AT&T GalaxyS2",
       "version": "5.0.2.6",
       "init": "init.smdkc210.rc",
       "readonly_recovery": true,

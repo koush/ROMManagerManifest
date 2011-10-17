@@ -1346,14 +1346,6 @@
       "readonly_recovery": true,
       "key": "galaxys2att",
       "lunch": "cyanogen_galaxys2att-eng"
-    },
-    {
-      "name": "Samsung Galaxy 5",
-      "version": "5.0.2.6",
-      "init": "init.gt-i5500.rc",
-      "key": "galaxy5",
-      "readonly_recovery": true,
-      "lunch": "full_galaxy5-eng"
     }
   ],
   "version": "2.5.0.1",

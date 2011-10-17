@@ -34,7 +34,7 @@
     {
       "developer": "Einherjar Dev",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/25/31d8c04d2622249a93100ffc1ed40a17.png",
+      "icon": "http://developer.clockworkmod.com/downloads/25/31d8c04d2622249a93100ffc1ed40a17.png",
       "id": "einherjar",
       "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
       "summary": "ROMs, with a side of metal."
@@ -49,24 +49,24 @@
     },
     {
       "developer": "Htcclay",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/307/5076662d1617430aa6ad3f6ad73136aa.jpg",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/307/5076662d1617430aa6ad3f6ad73136aa.jpg",
       "id": "htcclay",
-      "manifest": "http://romshare.deployfu.com/developer/htcclay/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/htcclay/manifest",
       "summary": "Go Go Go!"
     },
     {
       "developer": "Infinitybiff",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/653/7dc90deb235d7f8e522085e09fad294a.png",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/653/7dc90deb235d7f8e522085e09fad294a.png",
       "id": "infinitybiff@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/infinitybiff@gmail.com/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/infinitybiff@gmail.com/manifest",
       "summary": "A fine blend of AOSP, CM7, and Unicorns"
     },
     {
       "developer": "MIUI Android",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
+      "icon": "http://developer.clockworkmod.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
       "id": "miuiandroid",
       "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
       "summary": "The original English MIUI ROM by MIUI Android"
@@ -74,7 +74,7 @@
     {
       "developer": "MIUI-PT",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
+      "icon": "http://developer.clockworkmod.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
       "id": "miuiportugal",
       "manifest": "http://www.roms.miui-pt.com/manifest/miuipt.js",
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
@@ -82,33 +82,33 @@
     {
       "developer": "MIUI.us",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
+      "icon": "http://developer.clockworkmod.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
       "id": "miuius",
       "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
       "summary": "MIUI English releases by MIUI.us"
     },
     {
       "developer": "NoFrills-AOSP",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/636/7ab5b3bc307d3a3bf5e42ec2b09a234f.png",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/636/7ab5b3bc307d3a3bf5e42ec2b09a234f.png",
       "id": "nofrills",
-      "manifest": "http://romshare.deployfu.com/developer/nofrills/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/nofrills/manifest",
       "summary": "NoFrills-AOSP a Gingerbread ROM built for simplicity."
     },
     {
       "developer": "phiremod",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/234/49168358de7756efa2aab68b0a3919d6.jpg",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/234/49168358de7756efa2aab68b0a3919d6.jpg",
       "id": "phiredrop",
-      "manifest": "http://romshare.deployfu.com/developer/phiredrop/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/phiredrop/manifest",
       "summary": "Bringing you the best of Android."
     },
     {
       "developer": "EnYo",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/633/e8973d34d142398f1d86f8c3ef789a8e.jpg",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/633/e8973d34d142398f1d86f8c3ef789a8e.jpg",
       "id": "rfvbnji91@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/rfvbnji91@gmail.com/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/rfvbnji91@gmail.com/manifest",
       "summary": "AOSP Source Built ROMs, MODs & Tweaks"
     }
   ],

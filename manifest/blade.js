@@ -2,17 +2,17 @@
   "manifests": [
     {
       "developer": "Complete Android Experience ",
-      "free": false,
+      "free": true,
       "id": "SamSamoon",
-      "manifest": "http://romshare.deployfu.com/developer/SamSamoon/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/SamSamoon/manifest",
       "summary": "Gingerbread ROM By Sami Beck"
     },
     {
       "developer": "Sapo a5 Blog Team",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/617/426f2197f1ed2674fa87666a35835083.png",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/617/426f2197f1ed2674fa87666a35835083.png",
       "id": "a5.blog.team",
-      "manifest": "http://romshare.deployfu.com/developer/a5.blog.team/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/a5.blog.team/manifest",
       "summary": "Powered by Rafael Souto and The Sapo a5 Community"
     },
     {
@@ -56,10 +56,10 @@
     },
     {
       "developer": "Stock ROMs",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/23/757972f1d6362f95a265050747542fc5.jpg",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/23/757972f1d6362f95a265050747542fc5.jpg",
       "id": "jamieluckett@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/jamieluckett@gmail.com/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/jamieluckett@gmail.com/manifest",
       "summary": "Stock ROMs for the ZTE Blade and it's renamed counterparts."
     }
   ],

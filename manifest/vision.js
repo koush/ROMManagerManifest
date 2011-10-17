@@ -2,33 +2,33 @@
   "manifests": [
     {
       "developer": "ILWT CM7",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/739/5082b2ff853e68dd2d77c605b6d6aa93.gif",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/739/5082b2ff853e68dd2d77c605b6d6aa93.gif",
       "id": "ILWT",
-      "manifest": "http://romshare.deployfu.com/developer/ILWT/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/ILWT/manifest",
       "summary": "ILWT CM7 with Virtuous OC Daemon -- Customizable Pre-Flash"
     },
     {
       "developer": "RH_Mod MIUI",
-      "free": false,
+      "free": true,
       "id": "RH-Mod",
-      "manifest": "http://romshare.deployfu.com/developer/RH-Mod/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/RH-Mod/manifest",
       "summary": "Costum ROM with Darktremor Apps2SD,Ext4 and Pershootkernel"
     },
     {
       "developer": "BeatMod",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/808/25f72d0d945f057819f237f7f967a8fd.png",
+      "icon": "http://developer.clockworkmod.com/downloads/808/25f72d0d945f057819f237f7f967a8fd.png",
       "id": "beatmod",
       "manifest": "http://zfr3eak.sylvester20007.com/mainfest.js",
       "summary": "BeatMod Rom for your HTC Device"
     },
     {
       "developer": "PyroMod DevTeam Roms",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/289/f50f109fd0e925ebc88d9d0d350411c1.jpg",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/289/f50f109fd0e925ebc88d9d0d350411c1.jpg",
       "id": "blahbl4hblah",
-      "manifest": "http://romshare.deployfu.com/developer/blahbl4hblah/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/blahbl4hblah/manifest",
       "summary": "PyroMod roms are fast and clean "
     },
     {
@@ -79,16 +79,16 @@
     },
     {
       "developer": "Htcclay",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/307/5076662d1617430aa6ad3f6ad73136aa.jpg",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/307/5076662d1617430aa6ad3f6ad73136aa.jpg",
       "id": "htcclay",
-      "manifest": "http://romshare.deployfu.com/developer/htcclay/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/htcclay/manifest",
       "summary": "Go Go Go!"
     },
     {
       "developer": "MIUI Android",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
+      "icon": "http://developer.clockworkmod.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
       "id": "miuiandroid",
       "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
       "summary": "The original English MIUI ROM by MIUI Android"
@@ -96,7 +96,7 @@
     {
       "developer": "MIUI-PT",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
+      "icon": "http://developer.clockworkmod.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
       "id": "miuiportugal",
       "manifest": "http://www.roms.miui-pt.com/manifest/miuipt.js",
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
@@ -104,17 +104,17 @@
     {
       "developer": "MIUI.us",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
+      "icon": "http://developer.clockworkmod.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
       "id": "miuius",
       "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
       "summary": "MIUI English releases by MIUI.us"
     },
     {
       "developer": "meXdroidMod rOmS",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/394/991fd69a0f32e66d8026b35c3a914259.jpg",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/394/991fd69a0f32e66d8026b35c3a914259.jpg",
       "id": "mjybarr@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/mjybarr@gmail.com/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/mjybarr@gmail.com/manifest",
       "summary": "Compiled Android 2.3.5 from CM Github. This is an all-in-one zip! You have choices! Either blue themed, hot pink theme, or stock. For more information visit mexdroidmod.com"
     },
     {
@@ -126,34 +126,34 @@
     },
     {
       "developer": "siulmagic",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/198/8e366a4e34c56d2a83c384b8cff73b88.jpg",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/198/8e366a4e34c56d2a83c384b8cff73b88.jpg",
       "id": "siulmagic@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/siulmagic@gmail.com/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/siulmagic@gmail.com/manifest",
       "summary": "http://android-maisters.ddns.net"
     },
     {
       "developer": "Bulletproof ROMs",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/712/15225016be36a7706d9f010f0477be36.png",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/712/15225016be36a7706d9f010f0477be36.png",
       "id": "tun4f1sh",
-      "manifest": "http://romshare.deployfu.com/developer/tun4f1sh/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/tun4f1sh/manifest",
       "summary": "ROMs built for speed and performance.  All ROMs include the Virtuous ROM OC Daemon and optimizations."
     },
     {
       "developer": "Virtuous",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/63/8671cc6cf6379f1baf69c14ca9138910.png",
+      "icon": "http://developer.clockworkmod.com/downloads/63/8671cc6cf6379f1baf69c14ca9138910.png",
       "id": "virtuous",
       "manifest": "http://files.virtuousrom.com/virtuous.js",
       "summary": "Enhanced Sense ROMs and more from the Virtuous Team."
     },
     {
       "developer": "Xboarder56",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/663/402e31bd0ad3f6f57f92d29c291c52d7.jpg",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/663/402e31bd0ad3f6f57f92d29c291c52d7.jpg",
       "id": "xboarder56",
-      "manifest": "http://romshare.deployfu.com/developer/xboarder56/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/xboarder56/manifest",
       "summary": "XboarderMOD Roms are a mix of Cm7/AOSP to give you the best of both worlds :D"
     }
   ],

@@ -2,18 +2,18 @@
   "manifests": [
     {
       "developer": "GreenRomProject",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
       "id": "GreenRomProject",
-      "manifest": "http://romshare.deployfu.com/developer/GreenRomProject/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/GreenRomProject/manifest",
       "summary": "STABLE Super Fast ROM; ANDROID 2.3.4"
     },
     {
       "developer": "OMJ-",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/719/bfbccec41cbac2cba0e62a7f2bbefa2e.png",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/719/bfbccec41cbac2cba0e62a7f2bbefa2e.png",
       "id": "OMJ-",
-      "manifest": "http://romshare.deployfu.com/developer/OMJ-/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/OMJ-/manifest",
       "summary": "TSM Pool Party for the Dinc2"
     },
     {
@@ -74,7 +74,7 @@
     {
       "developer": "Ihtfp69",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/626/2cad2dafa4ee11476c29e0c6950147b6.jpg",
+      "icon": "http://developer.clockworkmod.com/downloads/626/2cad2dafa4ee11476c29e0c6950147b6.jpg",
       "id": "ihtfp69",
       "manifest": "http://skyraider.us/manifest/skyraider.js",
       "summary": "SkyRaider ROMs and goodies"
@@ -97,7 +97,7 @@
     {
       "developer": "MIUI Android",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
+      "icon": "http://developer.clockworkmod.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
       "id": "miuiandroid",
       "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
       "summary": "The original English MIUI ROM by MIUI Android"
@@ -105,7 +105,7 @@
     {
       "developer": "MIUI-PT",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
+      "icon": "http://developer.clockworkmod.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
       "id": "miuiportugal",
       "manifest": "http://www.roms.miui-pt.com/manifest/miuipt.js",
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
@@ -113,7 +113,7 @@
     {
       "developer": "MIUI.us",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
+      "icon": "http://developer.clockworkmod.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
       "id": "miuius",
       "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
       "summary": "MIUI English releases by MIUI.us"
@@ -128,9 +128,9 @@
     },
     {
       "developer": "winner00",
-      "free": false,
+      "free": true,
       "id": "toverturf@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/toverturf@gmail.com/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/toverturf@gmail.com/manifest",
       "summary": "CyanogenMod 7 with few tweaks for better performance on the OG Droid, Incredible, and pulls from gerrit.  "
     },
     {
@@ -150,7 +150,7 @@
     {
       "developer": "Virtuous",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/63/8671cc6cf6379f1baf69c14ca9138910.png",
+      "icon": "http://developer.clockworkmod.com/downloads/63/8671cc6cf6379f1baf69c14ca9138910.png",
       "id": "virtuous",
       "manifest": "http://files.virtuousrom.com/virtuous.js",
       "summary": "Enhanced Sense ROMs and more from the Virtuous Team."

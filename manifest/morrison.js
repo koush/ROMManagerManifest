@@ -2,10 +2,10 @@
   "manifests": [
     {
       "developer": "TeamRogue",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/255/eef30cd10645b17f89e2f65186bfb915.png",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/255/eef30cd10645b17f89e2f65186bfb915.png",
       "id": "TeamRogue",
-      "manifest": "http://romshare.deployfu.com/developer/TeamRogue/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/TeamRogue/manifest",
       "summary": "CyanogenMod 7 for the Motorola Cliq/Dext. DO NOT WIPE DATA/CACHE. Our ROM's have a wipe patch included. If you wipe, reinstall without wiping. Please remember DO NOT BACKUP ROM OR WIPE DATA/FACTORY RESET THROUGH ROM MANAGER! "
     },
     {
@@ -49,10 +49,10 @@
     },
     {
       "developer": "JayDub",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/637/8b686c72876f16d95da06635ab65049e.png",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/637/8b686c72876f16d95da06635ab65049e.png",
       "id": "jay.dub.williams82@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/jay.dub.williams82@gmail.com/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/jay.dub.williams82@gmail.com/manifest",
       "summary": "An AOSP style CM7 with various tweaks to help make it run smoother."
     }
   ],

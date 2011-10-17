@@ -3,17 +3,17 @@
     {
       "developer": "2fastroms ",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/245/7d87d0d7adc75505b50d5740addefac3.png",
+      "icon": "http://developer.clockworkmod.com/downloads/245/7d87d0d7adc75505b50d5740addefac3.png",
       "id": "2fastroms",
       "manifest": "http://www.2fastroms.com/rommanger/manual_manifest.js",
       "summary": "Your #1 spot for all your rom needs."
     },
     {
       "developer": "MIUI",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/223/4b9a814afaba733a6d3b4a47f29436de.png",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/223/4b9a814afaba733a6d3b4a47f29436de.png",
       "id": "MIUI Dev",
-      "manifest": "http://romshare.deployfu.com/developer/MIUI Dev/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/MIUI Dev/manifest",
       "summary": "MIUI Uploads from our hardworking Developers"
     },
     {
@@ -66,7 +66,7 @@
     {
       "developer": "MIUI.us",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
+      "icon": "http://developer.clockworkmod.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
       "id": "miuius",
       "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
       "summary": "MIUI English releases by MIUI.us"

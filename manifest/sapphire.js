@@ -2,26 +2,26 @@
   "manifests": [
     {
       "developer": "GreenRom Project",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/672/900449a34b08c137930980f65c629f20.png",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/672/900449a34b08c137930980f65c629f20.png",
       "id": "GRP",
-      "manifest": "http://romshare.deployfu.com/developer/GRP/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/GRP/manifest",
       "summary": "GreenRom Project Official Builds"
     },
     {
       "developer": "GreenRomProject",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
       "id": "GreenRomProject",
-      "manifest": "http://romshare.deployfu.com/developer/GreenRomProject/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/GreenRomProject/manifest",
       "summary": "STABLE Super Fast ROM; ANDROID 2.3.4"
     },
     {
       "developer": "SlashDW",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/567/2b481fc258e2308c90e8d76917141340.png",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/567/2b481fc258e2308c90e8d76917141340.png",
       "id": "SlashDW",
-      "manifest": "http://romshare.deployfu.com/developer/SlashDW/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/SlashDW/manifest",
       "summary": "Stable and Superfast ROM's built from Cyanogenmod sources for Dream/Sapphire."
     },
     {
@@ -88,17 +88,17 @@
     },
     {
       "developer": "tvall",
-      "free": false,
+      "free": true,
       "id": "tvall43@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/tvall43@gmail.com/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/tvall43@gmail.com/manifest",
       "summary": "random stuffs"
     },
     {
       "developer": "Ginger yoshi ^_^",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/294/b0c8e3dee633ac3d0f6ce3352389943b.png",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/294/b0c8e3dee633ac3d0f6ce3352389943b.png",
       "id": "yohshua",
-      "manifest": "http://romshare.deployfu.com/developer/yohshua/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/yohshua/manifest",
       "summary": "all the ginger yoshi roms "
     }
   ],

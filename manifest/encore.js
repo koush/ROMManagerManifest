@@ -33,9 +33,9 @@
     },
     {
       "developer": "Dalingrin's Test Builds",
-      "free": false,
+      "free": true,
       "id": "ehardesty@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/ehardesty@gmail.com/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/ehardesty@gmail.com/manifest",
       "summary": "CM7 test builds"
     },
     {
@@ -49,17 +49,17 @@
     {
       "developer": "MIUI.us",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
+      "icon": "http://developer.clockworkmod.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
       "id": "miuius",
       "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
       "summary": "MIUI English releases by MIUI.us"
     },
     {
       "developer": "phiremod",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/234/49168358de7756efa2aab68b0a3919d6.jpg",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/234/49168358de7756efa2aab68b0a3919d6.jpg",
       "id": "phiredrop",
-      "manifest": "http://romshare.deployfu.com/developer/phiredrop/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/phiredrop/manifest",
       "summary": "Bringing you the best of Android."
     }
   ],

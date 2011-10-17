@@ -3,41 +3,41 @@
     {
       "developer": "LeeDrOiD",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/676/606ba794a3c9458b463d87cfd1642fa1.png",
+      "icon": "http://developer.clockworkmod.com/downloads/676/606ba794a3c9458b463d87cfd1642fa1.png",
       "id": "LeeDrOiD",
       "manifest": "http://leedroid.ftp.rshost.eu/LeeDrOiD.js",
       "summary": "LeeDrOiD Sense roms & Kernels"
     },
     {
       "developer": "Sense-o-Maniac",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/862/a03de1814780c4cde2991b5e43b3a322.gif",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/862/a03de1814780c4cde2991b5e43b3a322.gif",
       "id": "Sense-o-Maniac",
-      "manifest": "http://romshare.deployfu.com/developer/Sense-o-Maniac/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/Sense-o-Maniac/manifest",
       "summary": "Sense-o-Maniac - Sense 3.5 Beats || Amaze cam || CRT || Bloatware free ||"
     },
     {
       "developer": "CiVic",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/754/b33b496dcc1158a6fb54aade5e74befa.png",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/754/b33b496dcc1158a6fb54aade5e74befa.png",
       "id": "agoura@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/agoura@gmail.com/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/agoura@gmail.com/manifest",
       "summary": "Civic's TMOUS Sensation Roms | Stock with a Speed Cocktail"
     },
     {
       "developer": "aosp",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/322/c97732b0067d16ccf420f20f78b8f36a.png",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/322/c97732b0067d16ccf420f20f78b8f36a.png",
       "id": "aospmod",
-      "manifest": "http://romshare.deployfu.com/developer/aospmod/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/aospmod/manifest",
       "summary": "aosp4u@gmail.com"
     },
     {
       "developer": "CdTDroiD",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/803/9aec5a3c5464161e710530ada496a0fe.png",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/803/9aec5a3c5464161e710530ada496a0fe.png",
       "id": "cdtdroid",
-      "manifest": "http://romshare.deployfu.com/developer/cdtdroid/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/cdtdroid/manifest",
       "summary": "High quality, fast and stable Sense ROM's"
     },
     {
@@ -58,16 +58,16 @@
     },
     {
       "developer": "doniqcc",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/718/9c3899d3bf007a79e4bab261fad0c501.jpg",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/718/9c3899d3bf007a79e4bab261fad0c501.jpg",
       "id": "eagleblood",
-      "manifest": "http://romshare.deployfu.com/developer/eagleblood/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/eagleblood/manifest",
       "summary": "Eagleblood Roms Fast/Stable/Clean"
     },
     {
       "developer": "Einherjar Dev",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/25/31d8c04d2622249a93100ffc1ed40a17.png",
+      "icon": "http://developer.clockworkmod.com/downloads/25/31d8c04d2622249a93100ffc1ed40a17.png",
       "id": "einherjar",
       "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
       "summary": "ROMs, with a side of metal."
@@ -82,16 +82,16 @@
     },
     {
       "developer": "Htcclay",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/307/5076662d1617430aa6ad3f6ad73136aa.jpg",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/307/5076662d1617430aa6ad3f6ad73136aa.jpg",
       "id": "htcclay",
-      "manifest": "http://romshare.deployfu.com/developer/htcclay/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/htcclay/manifest",
       "summary": "Go Go Go!"
     },
     {
       "developer": "MIUI.us",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
+      "icon": "http://developer.clockworkmod.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
       "id": "miuius",
       "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
       "summary": "MIUI English releases by MIUI.us"
@@ -99,17 +99,17 @@
     {
       "developer": "Virtuous",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/63/8671cc6cf6379f1baf69c14ca9138910.png",
+      "icon": "http://developer.clockworkmod.com/downloads/63/8671cc6cf6379f1baf69c14ca9138910.png",
       "id": "virtuous",
       "manifest": "http://files.virtuousrom.com/virtuous.js",
       "summary": "Enhanced Sense ROMs and more from the Virtuous Team."
     },
     {
       "developer": "Xboarder56",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/663/402e31bd0ad3f6f57f92d29c291c52d7.jpg",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/663/402e31bd0ad3f6f57f92d29c291c52d7.jpg",
       "id": "xboarder56",
-      "manifest": "http://romshare.deployfu.com/developer/xboarder56/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/xboarder56/manifest",
       "summary": "XboarderMOD Roms are a mix of Cm7/AOSP to give you the best of both worlds :D"
     }
   ],

@@ -17,7 +17,7 @@
     {
       "developer": "Sinister ROM",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/400/29a8f50929b1d09f36fde793c9ff2943.png",
+      "icon": "http://developer.clockworkmod.com/downloads/400/29a8f50929b1d09f36fde793c9ff2943.png",
       "id": "SinisterTensai",
       "manifest": "http://sinistertensai.github.com/Sinister-Rom/manifest.js",
       "summary": "Sinister Speeds, Sinister looks"
@@ -70,20 +70,20 @@
       "summary": "Updates for stock ROMs, radio, hboot"
     },
     {
-      "developer": "Salvage-Mod Nightlies",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
-      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
-    },
-    {
       "developer": "Salvage-Mod",
       "free": "true",
       "id": "echo17",
       "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
       "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
       "summary": "GB source build. Group project."
+    },
+    {
+      "developer": "Salvage-Mod Nightlies",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
+      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
     },
     {
       "developer": "Fresh",
@@ -126,7 +126,7 @@
     {
       "developer": "MaxDamage",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/529/b1c8e19a6f619e9e3cf2a36de2fb8b0a.png",
+      "icon": "http://developer.clockworkmod.com/downloads/529/b1c8e19a6f619e9e3cf2a36de2fb8b0a.png",
       "id": "maxdamage",
       "manifest": "https://dl.dropbox.com/s/7yreog0xtyebutn/maxdamage/manifest.js",
       "summary": "Flashing CM nightlies made easy!"
@@ -134,7 +134,7 @@
     {
       "developer": "MIUI.us",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
+      "icon": "http://developer.clockworkmod.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
       "id": "miuius",
       "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
       "summary": "MIUI English releases by MIUI.us"
@@ -157,10 +157,10 @@
     },
     {
       "developer": "Swagged Out Stock",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/697/40e325c213ebeb2999003d52dc979b2b.png",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/697/40e325c213ebeb2999003d52dc979b2b.png",
       "id": "swagstr",
-      "manifest": "http://romshare.deployfu.com/developer/swagstr/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/swagstr/manifest",
       "summary": "Stock ROM with a ton of bloatware removed and some added swag"
     }
   ],

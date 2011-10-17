@@ -2,10 +2,10 @@
   "manifests": [
     {
       "developer": "Clark44 (Absurd)",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/315/fa526fadb52216d09110cf18e5fd5047.jpg",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/315/fa526fadb52216d09110cf18e5fd5047.jpg",
       "id": "Clark44 (Absurd)",
-      "manifest": "http://romshare.deployfu.com/developer/Clark44 (Absurd)/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/Clark44 (Absurd)/manifest",
       "summary": "Average Rom DEV"
     },
     {
@@ -27,7 +27,7 @@
     {
       "developer": "freEVO 3D ROM",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/705/959053b3e45cce1ac14b70a7a212a546.png",
+      "icon": "http://developer.clockworkmod.com/downloads/705/959053b3e45cce1ac14b70a7a212a546.png",
       "id": "freeza",
       "manifest": "http://www.freeza-inc.com/freEVO3D/freEVO3Dmanifest.js",
       "summary": "No Sense, Tweaks, Speed, and Stability. Y U No Flash?!"
@@ -49,33 +49,33 @@
     },
     {
       "developer": "jondevere@gmail.com",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/695/baaa677e69d0e0b6eaaa2d46f851e9e8.gif",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/695/baaa677e69d0e0b6eaaa2d46f851e9e8.gif",
       "id": "jondevere@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/jondevere@gmail.com/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/jondevere@gmail.com/manifest",
       "summary": "Dark Sense is a Sense based ROM optimized for the EVO 3D.  If you like Sense, try out Dark Sense. "
     },
     {
       "developer": "MIUI.us",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
+      "icon": "http://developer.clockworkmod.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
       "id": "miuius",
       "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
       "summary": "MIUI English releases by MIUI.us"
     },
     {
       "developer": "XDA Roms",
-      "free": false,
+      "free": true,
       "id": "pecord",
-      "manifest": "http://romshare.deployfu.com/developer/pecord/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/pecord/manifest",
       "summary": "Just uploading various roms for other EVO 3D users, will not accept donations for others work and will not provide support"
     },
     {
       "developer": "Sense 3.5 Ports",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/822/cfae65dc7496f8d03671558307a5441d.jpg",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/822/cfae65dc7496f8d03671558307a5441d.jpg",
       "id": "temeyers@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/temeyers@gmail.com/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/temeyers@gmail.com/manifest",
       "summary": "Sense 3.5 Android 2.3.5 "
     }
   ],

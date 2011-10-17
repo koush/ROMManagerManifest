@@ -2,10 +2,10 @@
   "manifests": [
     {
       "developer": "aosp",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/322/c97732b0067d16ccf420f20f78b8f36a.png",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/322/c97732b0067d16ccf420f20f78b8f36a.png",
       "id": "aospmod",
-      "manifest": "http://romshare.deployfu.com/developer/aospmod/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/aospmod/manifest",
       "summary": "aosp4u@gmail.com"
     },
     {

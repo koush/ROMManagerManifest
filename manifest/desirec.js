@@ -2,10 +2,10 @@
   "manifests": [
     {
       "developer": "GreenRomProject",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
       "id": "GreenRomProject",
-      "manifest": "http://romshare.deployfu.com/developer/GreenRomProject/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/GreenRomProject/manifest",
       "summary": "STABLE Super Fast ROM; ANDROID 2.3.4"
     },
     {

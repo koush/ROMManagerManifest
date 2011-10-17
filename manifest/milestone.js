@@ -2,10 +2,10 @@
   "manifests": [
     {
       "developer": "MIUI.hu",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/722/6c020836957e6d84eaf0e747197e935a.png",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/722/6c020836957e6d84eaf0e747197e935a.png",
       "id": "MIUI.hu",
-      "manifest": "http://romshare.deployfu.com/developer/MIUI.hu/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/MIUI.hu/manifest",
       "summary": "MIUI magyar lokalizációja | miui.hu @ 2011"
     },
     {

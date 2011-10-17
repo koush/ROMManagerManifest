@@ -2,9 +2,9 @@
   "manifests": [
     {
       "developer": "bernard.schratz@gmail.com",
-      "free": false,
+      "free": true,
       "id": "bernard.schratz@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/bernard.schratz@gmail.com/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/bernard.schratz@gmail.com/manifest",
       "summary": "bernard.schratz@gmail.com"
     },
     {
@@ -25,10 +25,10 @@
     },
     {
       "developer": "cooldudezach@gmail.com",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/845/c9ef2970d7c5625a709552ea1bc31410.png",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/845/c9ef2970d7c5625a709552ea1bc31410.png",
       "id": "cooldudezach@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/cooldudezach@gmail.com/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/cooldudezach@gmail.com/manifest",
       "summary": "Bringing IHO to ROM Manager"
     },
     {

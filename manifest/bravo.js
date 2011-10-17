@@ -10,7 +10,7 @@
     {
       "developer": "LeeDrOiD",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/676/606ba794a3c9458b463d87cfd1642fa1.png",
+      "icon": "http://developer.clockworkmod.com/downloads/676/606ba794a3c9458b463d87cfd1642fa1.png",
       "id": "LeeDrOiD",
       "manifest": "http://leedroid.ftp.rshost.eu/LeeDrOiD.js",
       "summary": "LeeDrOiD Sense roms & Kernels"
@@ -72,7 +72,7 @@
     {
       "developer": "Solstice",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/530/d45f727409f37121864a24391106b1f0.png",
+      "icon": "http://developer.clockworkmod.com/downloads/530/d45f727409f37121864a24391106b1f0.png",
       "id": "laszlo.david@gmail.com",
       "manifest": "http://solsticerom.github.com/ROMManagerManifest/manifest.js",
       "summary": "Simple AOSP ROM"
@@ -80,7 +80,7 @@
     {
       "developer": "MIUI Android",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
+      "icon": "http://developer.clockworkmod.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
       "id": "miuiandroid",
       "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
       "summary": "The original English MIUI ROM by MIUI Android"
@@ -88,7 +88,7 @@
     {
       "developer": "MIUI-PT",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
+      "icon": "http://developer.clockworkmod.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
       "id": "miuiportugal",
       "manifest": "http://www.roms.miui-pt.com/manifest/miuipt.js",
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
@@ -96,7 +96,7 @@
     {
       "developer": "MIUI.us",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
+      "icon": "http://developer.clockworkmod.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
       "id": "miuius",
       "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
       "summary": "MIUI English releases by MIUI.us"
@@ -110,10 +110,10 @@
     },
     {
       "developer": "roalex",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/107/236f3ca6074ca5d999aef037aae94244.png",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/107/236f3ca6074ca5d999aef037aae94244.png",
       "id": "roalex-bravo",
-      "manifest": "http://romshare.deployfu.com/developer/roalex-bravo/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/roalex-bravo/manifest",
       "summary": "AOSP/CM Desire builds & Custom HTC Sense builds"
     },
     {

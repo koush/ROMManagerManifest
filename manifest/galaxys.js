@@ -2,10 +2,10 @@
   "manifests": [
     {
       "developer": "MIUI.hu",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/722/6c020836957e6d84eaf0e747197e935a.png",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/722/6c020836957e6d84eaf0e747197e935a.png",
       "id": "MIUI.hu",
-      "manifest": "http://romshare.deployfu.com/developer/MIUI.hu/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/MIUI.hu/manifest",
       "summary": "MIUI magyar lokalizációja | miui.hu @ 2011"
     },
     {
@@ -26,17 +26,17 @@
     },
     {
       "developer": "coldflid@gmail.com",
-      "free": false,
+      "free": true,
       "id": "coldflid",
-      "manifest": "http://romshare.deployfu.com/developer/coldflid/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/coldflid/manifest",
       "summary": "coldflid@gmail.com"
     },
     {
       "developer": "DarkyROM",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/124/e975fb9db2047ee42b84d4d65f612fcd.png",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/124/e975fb9db2047ee42b84d4d65f612fcd.png",
       "id": "darkyy92@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/darkyy92@gmail.com/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/darkyy92@gmail.com/manifest",
       "summary": "Clean, fast & customizable Samsung Galaxy S ROM."
     },
     {
@@ -72,7 +72,7 @@
     {
       "developer": "MIUI Android",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
+      "icon": "http://developer.clockworkmod.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
       "id": "miuiandroid",
       "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
       "summary": "The original English MIUI ROM by MIUI Android"
@@ -80,7 +80,7 @@
     {
       "developer": "MIUI-PT",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
+      "icon": "http://developer.clockworkmod.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
       "id": "miuiportugal",
       "manifest": "http://www.roms.miui-pt.com/manifest/miuipt.js",
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
@@ -88,7 +88,7 @@
     {
       "developer": "MyUI",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/764/cf4a41ce70782f6b5090be541dbb1128.png",
+      "icon": "http://developer.clockworkmod.com/downloads/764/cf4a41ce70782f6b5090be541dbb1128.png",
       "id": "teammyui",
       "manifest": "http://myui.rollus.net/releases/ROMManager/myuimanifest.js",
       "summary": "MyUI - Votre MIUI parfaite, Your perfect MIUI - Team MyUI @ 2011"

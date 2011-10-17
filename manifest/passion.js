@@ -9,16 +9,16 @@
     },
     {
       "developer": "Menelkir ROMs",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/791/11b39c3b365a9d1160b1b7e9d94911c3.jpg",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/791/11b39c3b365a9d1160b1b7e9d94911c3.jpg",
       "id": "Menelkir",
-      "manifest": "http://romshare.deployfu.com/developer/Menelkir/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/Menelkir/manifest",
       "summary": "Experimental ROMs with fine tuning. WIP"
     },
     {
       "developer": "Blandroid",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/870/0b02d9980a4a9a0c56608abe5a8b26f1.png",
+      "icon": "http://developer.clockworkmod.com/downloads/870/0b02d9980a4a9a0c56608abe5a8b26f1.png",
       "id": "blandroid",
       "manifest": "http://blandroid.org/rommanager-manifest.js",
       "summary": "Stable AOSP-based ROM"
@@ -56,18 +56,18 @@
     },
     {
       "developer": "DrewGaren Roms",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
       "id": "drewgaren",
-      "manifest": "http://romshare.deployfu.com/developer/drewgaren/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/drewgaren/manifest",
       "summary": "Custom Roms and Themes for your Device"
     },
     {
       "developer": "E-XtremeMod",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/132/3bea45cb0d900947ae2ceb5399b617f3.png",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/132/3bea45cb0d900947ae2ceb5399b617f3.png",
       "id": "extrememod",
-      "manifest": "http://romshare.deployfu.com/developer/extrememod/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/extrememod/manifest",
       "summary": "CM7 based mod with performance and graphic enhancements."
     },
     {
@@ -86,9 +86,9 @@
     },
     {
       "developer": "jbbandos",
-      "free": false,
+      "free": true,
       "id": "jbbandos",
-      "manifest": "http://romshare.deployfu.com/developer/jbbandos/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/jbbandos/manifest",
       "summary": "Multi-language MIUI ROMs. No theme change, 3G, bluetooth and other tunings. Lean and fast."
     },
     {
@@ -100,7 +100,7 @@
     {
       "developer": "MIUI Android",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
+      "icon": "http://developer.clockworkmod.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
       "id": "miuiandroid",
       "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
       "summary": "The original English MIUI ROM by MIUI Android"
@@ -108,7 +108,7 @@
     {
       "developer": "MIUI-PT",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
+      "icon": "http://developer.clockworkmod.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
       "id": "miuiportugal",
       "manifest": "http://www.roms.miui-pt.com/manifest/miuipt.js",
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
@@ -116,7 +116,7 @@
     {
       "developer": "MIUI.us",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
+      "icon": "http://developer.clockworkmod.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
       "id": "miuius",
       "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
       "summary": "MIUI English releases by MIUI.us"
@@ -131,17 +131,17 @@
     {
       "developer": "Peter Alfonso",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/809/23ab34a53a8e93699239b87fd0360ad7.jpg",
+      "icon": "http://developer.clockworkmod.com/downloads/809/23ab34a53a8e93699239b87fd0360ad7.jpg",
       "id": "pete",
       "manifest": "http://wonderly.com/bb/WEBSITE/pete.js",
       "summary": "www.peteralfonso.com"
     },
     {
       "developer": "EnYo",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/633/e8973d34d142398f1d86f8c3ef789a8e.jpg",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/633/e8973d34d142398f1d86f8c3ef789a8e.jpg",
       "id": "rfvbnji91@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/rfvbnji91@gmail.com/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/rfvbnji91@gmail.com/manifest",
       "summary": "AOSP Source Built ROMs, MODs & Tweaks"
     },
     {

@@ -11,7 +11,7 @@
     {
       "developer": "Liquid Smooth Roms",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/36/c735b5adbd4a0db78029de4c3bd309ee.png",
+      "icon": "http://developer.clockworkmod.com/downloads/36/c735b5adbd4a0db78029de4c3bd309ee.png",
       "id": "Liquid",
       "manifest": "http://android.jbroom.com/rommanager/manifest.js",
       "summary": "Source Built Gingerbread and Custom Tbolt Roms"
@@ -80,10 +80,10 @@
     },
     {
       "developer": "Cubed ROMs",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/66/24fcf796e1e1fc870f868d35e7cf0207.png",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/66/24fcf796e1e1fc870f868d35e7cf0207.png",
       "id": "dsb9938",
-      "manifest": "http://romshare.deployfu.com/developer/dsb9938/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/dsb9938/manifest",
       "summary": "dsb9938 and thejondude"
     },
     {
@@ -97,7 +97,7 @@
     {
       "developer": "Ihtfp69",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/626/2cad2dafa4ee11476c29e0c6950147b6.jpg",
+      "icon": "http://developer.clockworkmod.com/downloads/626/2cad2dafa4ee11476c29e0c6950147b6.jpg",
       "id": "ihtfp69",
       "manifest": "http://skyraider.us/manifest/skyraider.js",
       "summary": "SkyRaider ROMs and goodies"
@@ -112,10 +112,10 @@
     },
     {
       "developer": "jdkoreclipse",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/755/1d19a0748e940de5226e9a428d005769.jpg",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/755/1d19a0748e940de5226e9a428d005769.jpg",
       "id": "jdkoreclipse",
-      "manifest": "http://romshare.deployfu.com/developer/jdkoreclipse/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/jdkoreclipse/manifest",
       "summary": "Kernels, roms, and more"
     },
     {
@@ -135,10 +135,10 @@
     },
     {
       "developer": "Team BAMF ",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/758/327500a0db76efc307c8032ee32ac018.png",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/758/327500a0db76efc307c8032ee32ac018.png",
       "id": "waynestrattonjr@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/waynestrattonjr@gmail.com/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/waynestrattonjr@gmail.com/manifest",
       "summary": "Official downloads from Team BAMF! For awesome Sense 3.0 and HTC device ports and for full support, visit www.teambamf.net!"
     }
   ],

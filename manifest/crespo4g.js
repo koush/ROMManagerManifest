@@ -11,7 +11,7 @@
     {
       "developer": "Blandroid",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/870/0b02d9980a4a9a0c56608abe5a8b26f1.png",
+      "icon": "http://developer.clockworkmod.com/downloads/870/0b02d9980a4a9a0c56608abe5a8b26f1.png",
       "id": "blandroid",
       "manifest": "http://blandroid.org/rommanager-manifest.js",
       "summary": "Stable AOSP-based ROM"
@@ -50,7 +50,7 @@
     {
       "developer": "NSCollab",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/749/fe727664b5f32913fe22c3d8754e1558.png",
+      "icon": "http://developer.clockworkmod.com/downloads/749/fe727664b5f32913fe22c3d8754e1558.png",
       "id": "frank707",
       "manifest": "http://studiousmedia.com/crespo/nscollab.js",
       "summary": "A best of both worlds rom for your Nexus S"
@@ -66,7 +66,7 @@
     {
       "developer": "MIUI.us",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
+      "icon": "http://developer.clockworkmod.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
       "id": "miuius",
       "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
       "summary": "MIUI English releases by MIUI.us"
@@ -74,7 +74,7 @@
     {
       "developer": "Peter Alfonso",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/809/23ab34a53a8e93699239b87fd0360ad7.jpg",
+      "icon": "http://developer.clockworkmod.com/downloads/809/23ab34a53a8e93699239b87fd0360ad7.jpg",
       "id": "pete",
       "manifest": "http://wonderly.com/bb/WEBSITE/pete.js",
       "summary": "www.peteralfonso.com"

@@ -26,10 +26,10 @@
     },
     {
       "developer": "ZimniY",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/857/795f625d921899cffd0feb5692672e76.jpg",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/857/795f625d921899cffd0feb5692672e76.jpg",
       "id": "zimniy",
-      "manifest": "http://romshare.deployfu.com/developer/zimniy/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/zimniy/manifest",
       "summary": ">_<"
     }
   ],

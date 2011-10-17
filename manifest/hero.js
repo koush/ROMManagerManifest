@@ -41,9 +41,9 @@
     },
     {
       "developer": "jbbandos",
-      "free": false,
+      "free": true,
       "id": "jbbandos",
-      "manifest": "http://romshare.deployfu.com/developer/jbbandos/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/jbbandos/manifest",
       "summary": "Multi-language MIUI ROMs. No theme change, 3G, bluetooth and other tunings. Lean and fast."
     }
   ],

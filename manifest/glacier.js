@@ -2,26 +2,26 @@
   "manifests": [
     {
       "developer": "Rafyvitto",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/177/700bcfbb335a940d5d43aab2894d058d.jpg",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/177/700bcfbb335a940d5d43aab2894d058d.jpg",
       "id": "Android-Maisters",
-      "manifest": "http://romshare.deployfu.com/developer/Android-Maisters/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/Android-Maisters/manifest",
       "summary": "My Roms latest and greatest!"
     },
     {
       "developer": "GreenRomProject",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
       "id": "GreenRomProject",
-      "manifest": "http://romshare.deployfu.com/developer/GreenRomProject/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/GreenRomProject/manifest",
       "summary": "STABLE Super Fast ROM; ANDROID 2.3.4"
     },
     {
       "developer": "SnakeBiteZZ",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/178/75a44ae18b10c58a76c785cbf245f3f0.jpg",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/178/75a44ae18b10c58a76c785cbf245f3f0.jpg",
       "id": "SnakeBiteZZ",
-      "manifest": "http://romshare.deployfu.com/developer/SnakeBiteZZ/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/SnakeBiteZZ/manifest",
       "summary": "The small Pieces"
     },
     {
@@ -57,26 +57,26 @@
     },
     {
       "developer": "Faux123 Custom ROMs",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/65/458f8e1774c14317e04210d456d579e0.gif",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/65/458f8e1774c14317e04210d456d579e0.gif",
       "id": "faux123",
-      "manifest": "http://romshare.deployfu.com/developer/faux123/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/faux123/manifest",
       "summary": "Custom ROMs for MT4G & G2x"
     },
     {
       "developer": "Tailor-Make Stuffs",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/868/ed263aca6795aaff3d79914cd84c1ac1.jpg",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/868/ed263aca6795aaff3d79914cd84c1ac1.jpg",
       "id": "febycv@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/febycv@gmail.com/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/febycv@gmail.com/manifest",
       "summary": "Customizations, Ports & lot of other extra cool stuffs to enjoy your android to the fullest"
     },
     {
       "developer": "GazaIan's ROMs",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/296/cd3509e2cff156bd174cb32481dfbe33.jpg",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/296/cd3509e2cff156bd174cb32481dfbe33.jpg",
       "id": "gazaian13@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/gazaian13@gmail.com/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/gazaian13@gmail.com/manifest",
       "summary": "HoneySense lives here, as well as others :)"
     },
     {
@@ -89,10 +89,10 @@
     },
     {
       "developer": "Jivany",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/54/b2fbc8d78d1603ad3ce1c5db727a4b68.jpg",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/54/b2fbc8d78d1603ad3ce1c5db727a4b68.jpg",
       "id": "jivanylaureano@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/jivanylaureano@gmail.com/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/jivanylaureano@gmail.com/manifest",
       "summary": "Roms, Ports, and custom gapps"
     },
     {
@@ -106,7 +106,7 @@
     {
       "developer": "MIUI.us",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
+      "icon": "http://developer.clockworkmod.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
       "id": "miuius",
       "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
       "summary": "MIUI English releases by MIUI.us"
@@ -114,7 +114,7 @@
     {
       "developer": "Virtuous",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/63/8671cc6cf6379f1baf69c14ca9138910.png",
+      "icon": "http://developer.clockworkmod.com/downloads/63/8671cc6cf6379f1baf69c14ca9138910.png",
       "id": "virtuous",
       "manifest": "http://files.virtuousrom.com/virtuous.js",
       "summary": "Enhanced Sense ROMs and more from the Virtuous Team."

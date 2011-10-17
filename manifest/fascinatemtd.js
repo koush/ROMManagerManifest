@@ -41,33 +41,33 @@
     },
     {
       "developer": "Infinitybiff",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/653/7dc90deb235d7f8e522085e09fad294a.png",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/653/7dc90deb235d7f8e522085e09fad294a.png",
       "id": "infinitybiff@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/infinitybiff@gmail.com/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/infinitybiff@gmail.com/manifest",
       "summary": "A fine blend of AOSP, CM7, and Unicorns"
     },
     {
       "developer": "jt1134",
-      "free": false,
+      "free": true,
       "id": "jt1134",
-      "manifest": "http://romshare.deployfu.com/developer/jt1134/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/jt1134/manifest",
       "summary": "jt1134"
     },
     {
       "developer": "MIUI.us",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
+      "icon": "http://developer.clockworkmod.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
       "id": "miuius",
       "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
       "summary": "MIUI English releases by MIUI.us"
     },
     {
       "developer": "EnYo",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/633/e8973d34d142398f1d86f8c3ef789a8e.jpg",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/633/e8973d34d142398f1d86f8c3ef789a8e.jpg",
       "id": "rfvbnji91@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/rfvbnji91@gmail.com/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/rfvbnji91@gmail.com/manifest",
       "summary": "AOSP Source Built ROMs, MODs & Tweaks"
     }
   ],

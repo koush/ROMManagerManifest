@@ -2,10 +2,10 @@
   "manifests": [
     {
       "developer": "MIUI.hu",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/722/6c020836957e6d84eaf0e747197e935a.png",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/722/6c020836957e6d84eaf0e747197e935a.png",
       "id": "MIUI.hu",
-      "manifest": "http://romshare.deployfu.com/developer/MIUI.hu/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/MIUI.hu/manifest",
       "summary": "MIUI magyar lokalizációja | miui.hu @ 2011"
     },
     {
@@ -49,24 +49,24 @@
     },
     {
       "developer": "JMCyanbreadMod",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/396/b01189040f608fa16cc797e549f27cdc.png",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/396/b01189040f608fa16cc797e549f27cdc.png",
       "id": "jacob.mueller.elz@googlemail.com",
-      "manifest": "http://romshare.deployfu.com/developer/jacob.mueller.elz@googlemail.com/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/jacob.mueller.elz@googlemail.com/manifest",
       "summary": "JMCyanbreadMod ROM´s are based on CM7 Nightlys or Kangs. All system apps are modded in cyan."
     },
     {
       "developer": "Lox",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/89/da66842898ae788ad12bb696f515c928.jpg",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/89/da66842898ae788ad12bb696f515c928.jpg",
       "id": "lox",
-      "manifest": "http://romshare.deployfu.com/developer/lox/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/lox/manifest",
       "summary": "Another dev"
     },
     {
       "developer": "MIUI Android",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
+      "icon": "http://developer.clockworkmod.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
       "id": "miuiandroid",
       "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
       "summary": "The original English MIUI ROM by MIUI Android"
@@ -74,7 +74,7 @@
     {
       "developer": "MIUI-PT",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
+      "icon": "http://developer.clockworkmod.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
       "id": "miuiportugal",
       "manifest": "http://www.roms.miui-pt.com/manifest/miuipt.js",
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
@@ -82,7 +82,7 @@
     {
       "developer": "MIUI.us",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
+      "icon": "http://developer.clockworkmod.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
       "id": "miuius",
       "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
       "summary": "MIUI English releases by MIUI.us"

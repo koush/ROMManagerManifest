@@ -26,10 +26,10 @@
     },
     {
       "developer": "sduvick",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/654/17bfc474b5c0c194278a7d6c4ecb7f74.jpg",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/654/17bfc474b5c0c194278a7d6c4ecb7f74.jpg",
       "id": "sduvick@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/sduvick@gmail.com/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/sduvick@gmail.com/manifest",
       "summary": "sduvick"
     }
   ],

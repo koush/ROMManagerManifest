@@ -42,7 +42,7 @@
     {
       "developer": "CyanogenMod Nightly Kangs",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/605/b2728dddb56f27d31d52935f68db4b9b.png",
+      "icon": "http://developer.clockworkmod.com/downloads/605/b2728dddb56f27d31d52935f68db4b9b.png",
       "id": "maxdamage2122Smba1002Kangs",
       "manifest": "https://dl.dropbox.com/s/7yreog0xtyebutn/smb_a1002-nightlies/manifest.js",
       "summary": "By maxdamage2122 Unmodified Cyanogenmod nightly kangs for the Viewsonic GTablet"

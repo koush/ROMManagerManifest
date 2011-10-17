@@ -2,9 +2,9 @@
   "manifests": [
     {
       "developer": "Kejar31",
-      "free": false,
+      "free": true,
       "id": "Kejar31",
-      "manifest": "http://romshare.deployfu.com/developer/Kejar31/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/Kejar31/manifest",
       "summary": "Kejar31"
     },
     {

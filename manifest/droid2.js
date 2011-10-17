@@ -10,17 +10,17 @@
     {
       "developer": "Liquid Smooth Roms",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/36/c735b5adbd4a0db78029de4c3bd309ee.png",
+      "icon": "http://developer.clockworkmod.com/downloads/36/c735b5adbd4a0db78029de4c3bd309ee.png",
       "id": "Liquid",
       "manifest": "http://android.jbroom.com/rommanager/manifest.js",
       "summary": "Source Built Gingerbread and Custom Tbolt Roms"
     },
     {
       "developer": "RevNumbers",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/813/5fedd62d6bdce82a1ce57649d118a9f6.gif",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/813/5fedd62d6bdce82a1ce57649d118a9f6.gif",
       "id": "RevNumbers",
-      "manifest": "http://romshare.deployfu.com/developer/RevNumbers/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/RevNumbers/manifest",
       "summary": "Custom CyanogenMod builds by RevNumbers for the Droid2 DroidX and Droid2 Global"
     },
     {
@@ -64,10 +64,10 @@
     },
     {
       "developer": "Fabolous",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/337/d2c1bf150b52364eca4dcba86135ff9d.png",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/337/d2c1bf150b52364eca4dcba86135ff9d.png",
       "id": "fabolous",
-      "manifest": "http://romshare.deployfu.com/developer/fabolous/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/fabolous/manifest",
       "summary": "ApeX for DX/D2"
     },
     {
@@ -87,17 +87,17 @@
     },
     {
       "developer": "metiCkOne",
-      "free": false,
+      "free": true,
       "id": "metiCkOne",
-      "manifest": "http://romshare.deployfu.com/developer/metiCkOne/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/metiCkOne/manifest",
       "summary": "Clean, fast & Stable roms for the D1 & D2"
     },
     {
       "developer": "EnYo",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/633/e8973d34d142398f1d86f8c3ef789a8e.jpg",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/633/e8973d34d142398f1d86f8c3ef789a8e.jpg",
       "id": "rfvbnji91@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/rfvbnji91@gmail.com/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/rfvbnji91@gmail.com/manifest",
       "summary": "AOSP Source Built ROMs, MODs & Tweaks"
     }
   ],

@@ -2,10 +2,10 @@
   "manifests": [
     {
       "developer": "Whitehawkx",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/673/7898d96c27f948a4e170d89dbe77121e.jpg",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/673/7898d96c27f948a4e170d89dbe77121e.jpg",
       "id": "Whitehawkx",
-      "manifest": "http://romshare.deployfu.com/developer/Whitehawkx/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/Whitehawkx/manifest",
       "summary": "Roms for the LG G2x, Samsung Vibrant and SGS4G"
     },
     {
@@ -41,26 +41,26 @@
     },
     {
       "developer": "doniqcc",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/718/9c3899d3bf007a79e4bab261fad0c501.jpg",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/718/9c3899d3bf007a79e4bab261fad0c501.jpg",
       "id": "eagleblood",
-      "manifest": "http://romshare.deployfu.com/developer/eagleblood/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/eagleblood/manifest",
       "summary": "Eagleblood Roms Fast/Stable/Clean"
     },
     {
       "developer": "Einherjar Dev",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/25/31d8c04d2622249a93100ffc1ed40a17.png",
+      "icon": "http://developer.clockworkmod.com/downloads/25/31d8c04d2622249a93100ffc1ed40a17.png",
       "id": "einherjar",
       "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
       "summary": "ROMs, with a side of metal."
     },
     {
       "developer": "Faux123 Custom ROMs",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/65/458f8e1774c14317e04210d456d579e0.gif",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/65/458f8e1774c14317e04210d456d579e0.gif",
       "id": "faux123",
-      "manifest": "http://romshare.deployfu.com/developer/faux123/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/faux123/manifest",
       "summary": "Custom ROMs for MT4G & G2x"
     },
     {
@@ -73,10 +73,10 @@
     },
     {
       "developer": "Xboarder56",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/663/402e31bd0ad3f6f57f92d29c291c52d7.jpg",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/663/402e31bd0ad3f6f57f92d29c291c52d7.jpg",
       "id": "xboarder56",
-      "manifest": "http://romshare.deployfu.com/developer/xboarder56/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/xboarder56/manifest",
       "summary": "XboarderMOD Roms are a mix of Cm7/AOSP to give you the best of both worlds :D"
     }
   ],

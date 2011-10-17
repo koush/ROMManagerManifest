@@ -2,10 +2,10 @@
   "manifests": [
     {
       "developer": "MIUI.hu",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/722/6c020836957e6d84eaf0e747197e935a.png",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/722/6c020836957e6d84eaf0e747197e935a.png",
       "id": "MIUI.hu",
-      "manifest": "http://romshare.deployfu.com/developer/MIUI.hu/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/MIUI.hu/manifest",
       "summary": "MIUI magyar lokalizációja | miui.hu @ 2011"
     },
     {
@@ -42,9 +42,9 @@
     {
       "developer": "codeworkx",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/51/b1939ede73c42c69d8e2c3f1f34f3265.png",
+      "icon": "http://developer.clockworkmod.com/downloads/51/b1939ede73c42c69d8e2c3f1f34f3265.png",
       "id": "daniel.hillenbrand@codeworkx.de",
-      "manifest": "http://romshare.deployfu.com/developer/daniel.hillenbrand@codeworkx.de/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/daniel.hillenbrand@codeworkx.de/manifest",
       "summary": "Usefull Stuff for Galaxy S Phones"
     },
     {
@@ -57,9 +57,9 @@
     },
     {
       "developer": "Novek",
-      "free": false,
+      "free": true,
       "id": "trondkevin@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/trondkevin@gmail.com/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/trondkevin@gmail.com/manifest",
       "summary": "Happy XDA'er"
     }
   ],

@@ -2,10 +2,10 @@
   "manifests": [
     {
       "developer": "RevNumbers",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/813/5fedd62d6bdce82a1ce57649d118a9f6.gif",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/813/5fedd62d6bdce82a1ce57649d118a9f6.gif",
       "id": "RevNumbers",
-      "manifest": "http://romshare.deployfu.com/developer/RevNumbers/manifest",
+      "manifest": "http://developer.clockworkmod.com/developer/RevNumbers/manifest",
       "summary": "Custom CyanogenMod builds by RevNumbers for the Droid2 DroidX and Droid2 Global"
     },
     {
@@ -50,7 +50,7 @@
     {
       "developer": "MIUI.us",
       "free": true,
-      "icon": "http://romshare.deployfu.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
+      "icon": "http://developer.clockworkmod.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
       "id": "miuius",
       "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
       "summary": "MIUI English releases by MIUI.us"

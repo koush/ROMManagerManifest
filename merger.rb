@@ -6,7 +6,7 @@ data = File.open('manual_manifests.js').read
 parsed_data = JSON.parse(data)
 manifests = parsed_data['manifests']
 
-romshare_manifests = JSON.parse(open('http://romshare.deployfu.com/manifest').read)
+romshare_manifests = JSON.parse(open('http://developer.clockworkmod.com/manifest').read)
 
 threads = []
 

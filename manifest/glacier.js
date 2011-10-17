@@ -25,6 +25,14 @@
       "summary": "The small Pieces"
     },
     {
+      "developer": "BeatMod",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/808/b8a72d6a88c1cececc23f0a7ce9a9d4f",
+      "id": "beatmod",
+      "manifest": "http://zfr3eak.sylvester20007.com/mainfest.js",
+      "summary": "BeatMod Rom for your HTC Device"
+    },
+    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",
@@ -66,10 +74,10 @@
     {
       "developer": "Tailor-Make Stuffs",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/868/ed263aca6795aaff3d79914cd84c1ac1.jpg",
+      "icon": "http://developer.clockworkmod.com/downloads/868/d577bc46050b9ac33fe952e711cb42a5",
       "id": "febycv@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/febycv@gmail.com/manifest",
-      "summary": "Customizations, Ports & lot of other extra cool stuffs to enjoy your android to the fullest"
+      "summary": "Customizations, Ports & lot of other extra cool stuffs"
     },
     {
       "developer": "GazaIan's ROMs",

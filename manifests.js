@@ -667,11 +667,12 @@
     {
       "developer": "BeatMod",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/808/25f72d0d945f057819f237f7f967a8fd.png",
+      "icon": "http://developer.clockworkmod.com/downloads/808/b8a72d6a88c1cececc23f0a7ce9a9d4f",
       "id": "beatmod",
       "manifest": "http://zfr3eak.sylvester20007.com/mainfest.js",
       "roms": {
         "ace": true,
+        "glacier": true,
         "inspire": true,
         "saga": true,
         "vision": true
@@ -1082,16 +1083,6 @@
       "summary": "The latest stock CyanogenMod 7 Desire (bravo) base ported to HD2 with the minimal amount of changes required.  No custom apps are included.  Visit the ROM's thread @ xda: http://forum.xda-developers.com/showthread.php?t=933951 ."
     },
     {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
-    },
-    {
       "developer": "DrewGaren Roms",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1103,6 +1094,16 @@
         "crespo": true
       },
       "summary": "Custom Roms and Themes for your Device"
+    },
+    {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1246,13 +1247,13 @@
     {
       "developer": "Tailor-Make Stuffs",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/868/ed263aca6795aaff3d79914cd84c1ac1.jpg",
+      "icon": "http://developer.clockworkmod.com/downloads/868/d577bc46050b9ac33fe952e711cb42a5",
       "id": "febycv@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/febycv@gmail.com/manifest",
       "roms": {
         "glacier": true
       },
-      "summary": "Customizations, Ports & lot of other extra cool stuffs to enjoy your android to the fullest"
+      "summary": "Customizations, Ports & lot of other extra cool stuffs"
     },
     {
       "developer": "Fresh",
@@ -2256,17 +2257,6 @@
       "summary": "Stock ROM with a ton of bloatware removed and some added swag"
     },
     {
-      "developer": "XDA CM7 Nightlies",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/541/91afee5f3ad77376b65aa60038c4979c.png",
-      "id": "tanguy.pruvot@gmail.com",
-      "manifest": "http://tpruvot.free.fr/rm/custom.js",
-      "roms": {
-        "umts_jordan": true
-      },
-      "summary": "XDA CM7 Original Nightly builds. tpruvot@github"
-    },
-    {
       "developer": "CyanogenMod RC",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
@@ -2276,6 +2266,17 @@
         "umts_jordan": true
       },
       "summary": "Stable but unofficial RC"
+    },
+    {
+      "developer": "XDA CM7 Nightlies",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/541/91afee5f3ad77376b65aa60038c4979c.png",
+      "id": "tanguy.pruvot@gmail.com",
+      "manifest": "http://tpruvot.free.fr/rm/custom.js",
+      "roms": {
+        "umts_jordan": true
+      },
+      "summary": "XDA CM7 Original Nightly builds. tpruvot@github"
     },
     {
       "developer": "MyUI",

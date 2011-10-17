@@ -64,6 +64,14 @@
       "summary": "Custom ROMs for MT4G & G2x"
     },
     {
+      "developer": "Tailor-Make Stuffs",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/868/ed263aca6795aaff3d79914cd84c1ac1.jpg",
+      "id": "febycv@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/febycv@gmail.com/manifest",
+      "summary": "Customizations, Ports & lot of other extra cool stuffs to enjoy your android to the fullest"
+    },
+    {
       "developer": "GazaIan's ROMs",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/296/cd3509e2cff156bd174cb32481dfbe33.jpg",

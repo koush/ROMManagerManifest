@@ -692,18 +692,6 @@
       "summary": "ROMs & kernels for HTC EVO 4G, Droid Incredible"
     },
     {
-      "developer": "Blandroid",
-      "icon": "http://blandroid.org/rommanager-icon.png",
-      "id": "blandroid",
-      "free": "true",
-      "manifest": "http://blandroid.org/rommanager-manifest.js",
-      "roms": {
-        "passion": "true",
-        "crespo": "true"
-      },
-      "summary": "Stable AOSP-based ROM"
-    },
-    {
       "developer": "EVO Stock and Radios",
       "icon": "http://drmacinyasha.github.com/EVO-Stock-RM-Manifest/icon.png",
       "id": "drmacinyasha",

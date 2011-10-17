@@ -9,6 +9,14 @@
       "summary": "Oxygen, clean and simple AOSP ROM"
     },
     {
+      "developer": "Blandroid",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/870/0b02d9980a4a9a0c56608abe5a8b26f1.png",
+      "id": "blandroid",
+      "manifest": "http://blandroid.org/rommanager-manifest.js",
+      "summary": "Stable AOSP-based ROM"
+    },
+    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",

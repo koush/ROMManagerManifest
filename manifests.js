@@ -292,8 +292,8 @@
       "manifest": "http://romshare.deployfu.com/developer/MIUI.hu/manifest",
       "roms": {
         "p990": true,
-        "umts_jordan": true,
         "ace": true,
+        "umts_jordan": true,
         "galaxys": true,
         "milestone": true,
         "crespo": true,
@@ -407,7 +407,7 @@
       "roms": {
         "pyramid": true
       },
-      "summary": "Sense-o-Maniac - Sense 3.5 Beats"
+      "summary": "Sense-o-Maniac - Sense 3.5 Beats || Amaze cam || CRT || Bloatware free ||"
     },
     {
       "developer": "Sinister ROM",
@@ -733,13 +733,14 @@
     },
     {
       "developer": "Blandroid",
-      "free": "true",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/870/0b02d9980a4a9a0c56608abe5a8b26f1.png",
       "id": "blandroid",
-      "icon": "http://blandroid.org/rommanager-icon.png",
       "manifest": "http://blandroid.org/rommanager-manifest.js",
       "roms": {
-        "passion": "true",
-        "crespo": "true"
+        "passion": true,
+        "crespo4g": true,
+        "crespo": true
       },
       "summary": "Stable AOSP-based ROM"
     },
@@ -1081,6 +1082,16 @@
       "summary": "The latest stock CyanogenMod 7 Desire (bravo) base ported to HD2 with the minimal amount of changes required.  No custom apps are included.  Visit the ROM's thread @ xda: http://forum.xda-developers.com/showthread.php?t=933951 ."
     },
     {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
+    },
+    {
       "developer": "DrewGaren Roms",
       "free": false,
       "icon": "http://romshare.deployfu.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1092,16 +1103,6 @@
         "crespo": true
       },
       "summary": "Custom Roms and Themes for your Device"
-    },
-    {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1149,17 +1150,6 @@
       "summary": "Eagleblood Roms Fast/Stable/Clean"
     },
     {
-      "developer": "Salvage-Mod",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "GB source build. Group project."
-    },
-    {
       "developer": "Salvage-Mod Nightlies",
       "free": "true",
       "id": "echo17",
@@ -1169,6 +1159,17 @@
         "supersonic": "true"
       },
       "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
+    },
+    {
+      "developer": "Salvage-Mod",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "GB source build. Group project."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -1243,6 +1244,17 @@
       "summary": "Custom ROMs for MT4G & G2x"
     },
     {
+      "developer": "Tailor-Make Stuffs",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/868/ed263aca6795aaff3d79914cd84c1ac1.jpg",
+      "id": "febycv@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/febycv@gmail.com/manifest",
+      "roms": {
+        "glacier": true
+      },
+      "summary": "Customizations, Ports & lot of other extra cool stuffs to enjoy your android to the fullest"
+    },
+    {
       "developer": "Fresh",
       "free": "true",
       "id": "flipz",
@@ -1252,16 +1264,6 @@
         "heroc": "true"
       },
       "summary": "Fresh Rom for Evo and HeroC by flipz"
-    },
-    {
-      "developer": "foonode",
-      "free": false,
-      "id": "foonode",
-      "manifest": "http://romshare.deployfu.com/developer/foonode/manifest",
-      "roms": {
-        "galaxys2": true
-      },
-      "summary": "Custom ROM"
     },
     {
       "developer": "forkup",
@@ -1820,6 +1822,30 @@
       "summary": "Clean, fast & Stable roms for the D1 & D2"
     },
     {
+      "developer": "MIUI Android",
+      "free": true,
+      "icon": "http://romshare.deployfu.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
+      "id": "miuiandroid",
+      "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
+      "roms": {
+        "leo": true,
+        "p990": true,
+        "vivo": true,
+        "vibrantmtd": true,
+        "passion": true,
+        "galaxys": true,
+        "bravo": true,
+        "umts_jordan": true,
+        "ace": true,
+        "captivatemtd": true,
+        "inc": true,
+        "crespo": true,
+        "vision": true,
+        "umts_sholes": true
+      },
+      "summary": "The original English MIUI ROM by MIUI Android"
+    },
+    {
       "developer": "MIUI-PT",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
@@ -1844,6 +1870,7 @@
         "crespo": true,
         "vision": true,
         "galaxysmtd": true,
+        "liquid": true,
         "umts_sholes": true
       },
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
@@ -2229,17 +2256,6 @@
       "summary": "Stock ROM with a ton of bloatware removed and some added swag"
     },
     {
-      "developer": "CyanogenMod RC",
-      "free": false,
-      "icon": "http://romshare.deployfu.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
-      "id": "tanguy.pruvot@gmail.com",
-      "manifest": "http://romshare.deployfu.com/developer/tanguy.pruvot@gmail.com/manifest",
-      "roms": {
-        "umts_jordan": true
-      },
-      "summary": "Stable but unofficial RC"
-    },
-    {
       "developer": "CyanogenMod Nightlies",
       "free": true,
       "icon": "http://romshare.deployfu.com/downloads/541/91afee5f3ad77376b65aa60038c4979c.png",
@@ -2249,6 +2265,17 @@
         "umts_jordan": true
       },
       "summary": "CyanogenMod Nightly builds. tpruvot@github"
+    },
+    {
+      "developer": "CyanogenMod RC",
+      "free": false,
+      "icon": "http://romshare.deployfu.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
+      "id": "tanguy.pruvot@gmail.com",
+      "manifest": "http://romshare.deployfu.com/developer/tanguy.pruvot@gmail.com/manifest",
+      "roms": {
+        "umts_jordan": true
+      },
+      "summary": "Stable but unofficial RC"
     },
     {
       "developer": "MyUI",

@@ -237,7 +237,7 @@
       "lunch": "cyanogen_inc-eng"
     },
     {
-      "name": "HTC Aria (GSM)",
+      "name": "HTC Aria",
       "version": "2.5.0.7",
       "init": "init.liberty.rc",
       "readonly_recovery": true,

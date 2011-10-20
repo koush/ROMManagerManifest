@@ -26,9 +26,9 @@
     {
       "developer": "cooldudezach@gmail.com",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/845/c9ef2970d7c5625a709552ea1bc31410.png",
+      "icon": "http://developer.clockworkmod.com/downloads/845/bb04c26e223ebc05e9b090eab0bcd4e6",
       "id": "cooldudezach@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/cooldudezach@gmail.com/manifest",
+      "manifest": "http://zjwebstuffs.info/IHO/manifest.json",
       "summary": "Bringing IHO to ROM Manager"
     },
     {

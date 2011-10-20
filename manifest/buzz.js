@@ -32,6 +32,14 @@
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
     {
+      "developer": "Tailor-Make Stuffs",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/868/95ed4d64991660f0a6cc071bc16963a0",
+      "id": "febycv@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/febycv@gmail.com/manifest",
+      "summary": "Customizations, Ports & lot of other extra cool stuffs"
+    },
+    {
       "developer": "Google Apps",
       "free": "true",
       "id": "google",

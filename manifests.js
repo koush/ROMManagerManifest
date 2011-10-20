@@ -76,7 +76,7 @@
     {
       "developer": "ClearDroid",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/572/879c46c74242594d151b96b2d1f3e173.png",
+      "icon": "http://developer.clockworkmod.com/downloads/572/d464e44e4501fc7ebdcdbff91655e53e",
       "id": "ClearD",
       "manifest": "http://www.techsupporteverything.com/download/manifest.js",
       "roms": {
@@ -834,11 +834,12 @@
     {
       "developer": "cooldudezach@gmail.com",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/845/c9ef2970d7c5625a709552ea1bc31410.png",
+      "icon": "http://developer.clockworkmod.com/downloads/845/bb04c26e223ebc05e9b090eab0bcd4e6",
       "id": "cooldudezach@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/cooldudezach@gmail.com/manifest",
+      "manifest": "http://zjwebstuffs.info/IHO/manifest.json",
       "roms": {
-        "thunderc": true
+        "thunderc": true,
+        "undefined": true
       },
       "summary": "Bringing IHO to ROM Manager"
     },
@@ -1151,17 +1152,6 @@
       "summary": "Eagleblood Roms Fast/Stable/Clean"
     },
     {
-      "developer": "Salvage-Mod",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "GB source build. Group project."
-    },
-    {
       "developer": "Salvage-Mod Nightlies",
       "free": "true",
       "id": "echo17",
@@ -1171,6 +1161,17 @@
         "supersonic": "true"
       },
       "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
+    },
+    {
+      "developer": "Salvage-Mod",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "GB source build. Group project."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -1247,11 +1248,13 @@
     {
       "developer": "Tailor-Make Stuffs",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/868/d577bc46050b9ac33fe952e711cb42a5",
+      "icon": "http://developer.clockworkmod.com/downloads/868/95ed4d64991660f0a6cc071bc16963a0",
       "id": "febycv@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/febycv@gmail.com/manifest",
       "roms": {
-        "glacier": true
+        "a70": true,
+        "glacier": true,
+        "buzz": true
       },
       "summary": "Customizations, Ports & lot of other extra cool stuffs"
     },
@@ -1433,6 +1436,16 @@
       "summary": "Go Go Go!"
     },
     {
+      "developer": "HyperDroid",
+      "free": "true",
+      "id": "hyperdroid",
+      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
+      "roms": {
+        "leo": "true"
+      },
+      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
+    },
+    {
       "developer": "HyperDroid CM7",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
@@ -1442,16 +1455,6 @@
         "leo": true
       },
       "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
-    },
-    {
-      "developer": "HyperDroid",
-      "free": "true",
-      "id": "hyperdroid",
-      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
-      "roms": {
-        "leo": "true"
-      },
-      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
     },
     {
       "developer": "Ihtfp69",
@@ -2257,17 +2260,6 @@
       "summary": "Stock ROM with a ton of bloatware removed and some added swag"
     },
     {
-      "developer": "CyanogenMod RC",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
-      "id": "tanguy.pruvot@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/tanguy.pruvot@gmail.com/manifest",
-      "roms": {
-        "umts_jordan": true
-      },
-      "summary": "Stable but unofficial RC"
-    },
-    {
       "developer": "XDA CM7 Nightlies",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/541/91afee5f3ad77376b65aa60038c4979c.png",
@@ -2277,6 +2269,17 @@
         "umts_jordan": true
       },
       "summary": "XDA CM7 Original Nightly builds. tpruvot@github"
+    },
+    {
+      "developer": "CyanogenMod RC",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
+      "id": "tanguy.pruvot@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/tanguy.pruvot@gmail.com/manifest",
+      "roms": {
+        "umts_jordan": true
+      },
+      "summary": "Stable but unofficial RC"
     },
     {
       "developer": "MyUI",

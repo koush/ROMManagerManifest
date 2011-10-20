@@ -3,7 +3,7 @@
     {
       "developer": "ClearDroid",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/572/879c46c74242594d151b96b2d1f3e173.png",
+      "icon": "http://developer.clockworkmod.com/downloads/572/d464e44e4501fc7ebdcdbff91655e53e",
       "id": "ClearD",
       "manifest": "http://www.techsupporteverything.com/download/manifest.js",
       "summary": "ClearDroid ROM for Inspire 4G. Inspire-based, with the choice of a stock feel or the ClearDroid ModPack. The most stable ROM available for the Inspire."

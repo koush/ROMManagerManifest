@@ -769,6 +769,25 @@
         },
         {
             "device": "crespo",
+            "name": "CyanogenMod 7.1.0.1",
+            "modversion": "CyanogenMod 7.1.0.1-NS",
+            "incremental": "7102",
+            "url": "http://goo-inside.me/cm/crespo/stable/update-cm-7.1.0.1-NS-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+       	       	{
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip"
+                },
+		{
+                    "name": "GTalk w/ Video Chat (Experimental!)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip"
+                } 
+            ] 
+        },
+        {
+            "device": "crespo",
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-NS",
             "incremental": "7101",

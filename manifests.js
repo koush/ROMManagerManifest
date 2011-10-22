@@ -479,7 +479,7 @@
     {
       "developer": "SparksCo",
       "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/293/dc8199b112a4212c44c4bd55d8bed4b8",
+      "icon": "http://developer.clockworkmod.com/downloads/293/8ced56fb4b3fb8b961086edf66f7886c",
       "id": "SparksCo",
       "manifest": "http://developer.clockworkmod.com/developer/SparksCo/manifest",
       "roms": {
@@ -1424,6 +1424,16 @@
       "summary": "Go Go Go!"
     },
     {
+      "developer": "HyperDroid",
+      "free": "true",
+      "id": "hyperdroid",
+      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
+      "roms": {
+        "leo": "true"
+      },
+      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
+    },
+    {
       "developer": "HyperDroid CM7",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
@@ -1433,16 +1443,6 @@
         "leo": true
       },
       "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
-    },
-    {
-      "developer": "HyperDroid",
-      "free": "true",
-      "id": "hyperdroid",
-      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
-      "roms": {
-        "leo": "true"
-      },
-      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
     },
     {
       "developer": "Ihtfp69",
@@ -1689,6 +1689,16 @@
         "thunderg": true
       },
       "summary": "kiril.mik.os@gmail.com"
+    },
+    {
+      "developer": "koush@koushikdutta.com",
+      "free": false,
+      "id": "koush@koushikdutta.com",
+      "manifest": "http://developer.clockworkmod.com/developer/koush@koushikdutta.com/manifest",
+      "roms": {
+        "sholes": true
+      },
+      "summary": "koush@koushikdutta.com"
     },
     {
       "developer": "KrazyKrivda",
@@ -2248,17 +2258,6 @@
       "summary": "Stock ROM with a ton of bloatware removed and some added swag"
     },
     {
-      "developer": "XDA CM7 Nightlies",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/541/91afee5f3ad77376b65aa60038c4979c.png",
-      "id": "tanguy.pruvot@gmail.com",
-      "manifest": "http://tpruvot.free.fr/rm/custom.js",
-      "roms": {
-        "umts_jordan": true
-      },
-      "summary": "XDA CM7 Original Nightly builds. tpruvot@github"
-    },
-    {
       "developer": "CyanogenMod RC",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
@@ -2268,6 +2267,17 @@
         "umts_jordan": true
       },
       "summary": "Stable but unofficial RC"
+    },
+    {
+      "developer": "XDA CM7 Nightlies",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/541/91afee5f3ad77376b65aa60038c4979c.png",
+      "id": "tanguy.pruvot@gmail.com",
+      "manifest": "http://tpruvot.free.fr/rm/custom.js",
+      "roms": {
+        "umts_jordan": true
+      },
+      "summary": "XDA CM7 Original Nightly builds. tpruvot@github"
     },
     {
       "developer": "MyUI",
@@ -2504,5 +2514,5 @@
       "summary": ">_<"
     }
   ],
-  "minversion": "4705"
+  "minversion": "4403"
 }

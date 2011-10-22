@@ -3,7 +3,7 @@
     {
       "developer": "SparksCo",
       "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/293/dc8199b112a4212c44c4bd55d8bed4b8",
+      "icon": "http://developer.clockworkmod.com/downloads/293/8ced56fb4b3fb8b961086edf66f7886c",
       "id": "SparksCo",
       "manifest": "http://developer.clockworkmod.com/developer/SparksCo/manifest",
       "summary": "Roms, Kernels and Recoveries for HTC Evo Shift"

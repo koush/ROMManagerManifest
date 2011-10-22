@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "bernard.schratz@gmail.com",
-      "free": true,
+      "free": false,
       "id": "bernard.schratz@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/bernard.schratz@gmail.com/manifest",
       "summary": "bernard.schratz@gmail.com"
@@ -26,7 +26,7 @@
     {
       "developer": "cooldudezach@gmail.com",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/845/bb04c26e223ebc05e9b090eab0bcd4e6",
+      "icon": "http://developer.clockworkmod.com/downloads/845/62e023ee554b15c5fe61df05bd315bef",
       "id": "cooldudezach@gmail.com",
       "manifest": "http://zjwebstuffs.info/IHO/manifest.json",
       "summary": "Bringing IHO to ROM Manager"

@@ -16,9 +16,9 @@ free_dudes = {
 }
 
 for manifest in romshare_manifests['manifests']:
-  if manifest['manifest'].index('romshare.deployfu.com') != nil
+  if manifest['manifest'].index('developer.clockworkmod.com') != nil
     if not free_dudes[manifest['developer']] then
-#      manifest['free'] = false
+      manifest['free'] = false
     end
   end
   manifests << manifest

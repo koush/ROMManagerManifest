@@ -10,7 +10,7 @@
     },
     {
       "developer": "OMJ-",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/719/bfbccec41cbac2cba0e62a7f2bbefa2e.png",
       "id": "OMJ-",
       "manifest": "http://developer.clockworkmod.com/developer/OMJ-/manifest",
@@ -73,7 +73,7 @@
     },
     {
       "developer": "nitsuj17",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/747/e5966a7321c516f205558da3956f87bc.png",
       "id": "nitsuj17@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/nitsuj17@gmail.com/manifest",
@@ -81,7 +81,7 @@
     },
     {
       "developer": "squash",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/781/4d7c57236fc2f350a579d6b4d6fc7f74.png",
       "id": "squash",
       "manifest": "http://developer.clockworkmod.com/developer/squash/manifest",

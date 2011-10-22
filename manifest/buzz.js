@@ -33,7 +33,7 @@
     },
     {
       "developer": "Tailor-Make Stuffs",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/868/95ed4d64991660f0a6cc071bc16963a0",
       "id": "febycv@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/febycv@gmail.com/manifest",

@@ -2,11 +2,11 @@
   "manifests": [
     {
       "developer": "SparksCo",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/293/b6c183f7deb2729a2821649ddbe563e3.jpg",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/293/dc8199b112a4212c44c4bd55d8bed4b8",
       "id": "SparksCo",
       "manifest": "http://developer.clockworkmod.com/developer/SparksCo/manifest",
-      "summary": "CM7 Roms and Kernels for HTC Evo Shift"
+      "summary": "Roms, Kernels and Recoveries for HTC Evo Shift"
     },
     {
       "developer": "bcnice20",

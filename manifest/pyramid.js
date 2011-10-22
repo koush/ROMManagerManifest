@@ -10,7 +10,7 @@
     },
     {
       "developer": "Sense-o-Maniac",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/862/a03de1814780c4cde2991b5e43b3a322.gif",
       "id": "Sense-o-Maniac",
       "manifest": "http://developer.clockworkmod.com/developer/Sense-o-Maniac/manifest",
@@ -18,7 +18,7 @@
     },
     {
       "developer": "CiVic",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/754/b33b496dcc1158a6fb54aade5e74befa.png",
       "id": "agoura@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/agoura@gmail.com/manifest",
@@ -26,7 +26,7 @@
     },
     {
       "developer": "aosp",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/322/c97732b0067d16ccf420f20f78b8f36a.png",
       "id": "aospmod",
       "manifest": "http://developer.clockworkmod.com/developer/aospmod/manifest",
@@ -34,7 +34,7 @@
     },
     {
       "developer": "CdTDroiD",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/803/9aec5a3c5464161e710530ada496a0fe.png",
       "id": "cdtdroid",
       "manifest": "http://developer.clockworkmod.com/developer/cdtdroid/manifest",
@@ -58,7 +58,7 @@
     },
     {
       "developer": "doniqcc",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/718/9c3899d3bf007a79e4bab261fad0c501.jpg",
       "id": "eagleblood",
       "manifest": "http://developer.clockworkmod.com/developer/eagleblood/manifest",
@@ -82,7 +82,7 @@
     },
     {
       "developer": "Htcclay",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/307/5076662d1617430aa6ad3f6ad73136aa.jpg",
       "id": "htcclay",
       "manifest": "http://developer.clockworkmod.com/developer/htcclay/manifest",
@@ -106,7 +106,7 @@
     },
     {
       "developer": "Xboarder56",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/663/402e31bd0ad3f6f57f92d29c291c52d7.jpg",
       "id": "xboarder56",
       "manifest": "http://developer.clockworkmod.com/developer/xboarder56/manifest",

@@ -2504,5 +2504,5 @@
       "summary": ">_<"
     }
   ],
-  "minversion": "4403"
+  "minversion": "4705"
 }

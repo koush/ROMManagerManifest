@@ -3,7 +3,7 @@
     {
       "developer": "ILWT CM7",
       "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/739/5082b2ff853e68dd2d77c605b6d6aa93.gif",
+      "icon": "http://developer.clockworkmod.com/downloads/739/0c854ef260a097738759c47d90bdfdd7",
       "id": "ILWT",
       "manifest": "http://developer.clockworkmod.com/developer/ILWT/manifest",
       "summary": "ILWT CM7 with Virtuous OC Daemon -- Customizable Pre-Flash"

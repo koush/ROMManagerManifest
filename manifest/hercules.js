@@ -1,13 +1,6 @@
 {
   "manifests": [
     {
-      "developer": "bernard.schratz@gmail.com",
-      "free": false,
-      "id": "bernard.schratz@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/bernard.schratz@gmail.com/manifest",
-      "summary": "bernard.schratz@gmail.com"
-    },
-    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",

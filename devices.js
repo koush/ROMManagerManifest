@@ -1351,7 +1351,7 @@
       "name": "Samsung T-Mobile GalaxyS2",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=4096 ; ",
       "version": "5.0.2.6",
-      "init": "init.hercules.rc",
+      "init": "init.target.rc",
       "key": "hercules",
       "lunch": "full_hercules-eng"
     },

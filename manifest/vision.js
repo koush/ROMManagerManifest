@@ -18,7 +18,7 @@
     {
       "developer": "BeatMod",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/808/b8a72d6a88c1cececc23f0a7ce9a9d4f",
+      "icon": "http://developer.clockworkmod.com/downloads/808/969df1ceead72b89c48ef2a35a6a2393.png",
       "id": "beatmod",
       "manifest": "http://zfr3eak.sylvester20007.com/mainfest.js",
       "summary": "BeatMod Rom for your HTC Device"

@@ -667,7 +667,7 @@
     {
       "developer": "BeatMod",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/808/b8a72d6a88c1cececc23f0a7ce9a9d4f",
+      "icon": "http://developer.clockworkmod.com/downloads/808/969df1ceead72b89c48ef2a35a6a2393.png",
       "id": "beatmod",
       "manifest": "http://zfr3eak.sylvester20007.com/mainfest.js",
       "roms": {
@@ -1135,20 +1135,10 @@
       "manifest": "http://developer.clockworkmod.com/developer/eagleblood/manifest",
       "roms": {
         "p999": true,
-        "pyramid": true
+        "pyramid": true,
+        "hercules": true
       },
       "summary": "Eagleblood Roms Fast/Stable/Clean"
-    },
-    {
-      "developer": "Salvage-Mod Nightlies",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
     },
     {
       "developer": "Salvage-Mod",
@@ -1160,6 +1150,17 @@
         "supersonic": "true"
       },
       "summary": "GB source build. Group project."
+    },
+    {
+      "developer": "Salvage-Mod Nightlies",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -1868,6 +1869,7 @@
         "captivate": true,
         "vibrant": true,
         "captivatemtd": true,
+        "inc": true,
         "saga": true,
         "crespo": true,
         "vision": true,
@@ -2258,17 +2260,6 @@
       "summary": "Stock ROM with a ton of bloatware removed and some added swag"
     },
     {
-      "developer": "CyanogenMod RC",
-      "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
-      "id": "tanguy.pruvot@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/tanguy.pruvot@gmail.com/manifest",
-      "roms": {
-        "umts_jordan": true
-      },
-      "summary": "Stable but unofficial RC"
-    },
-    {
       "developer": "XDA CM7 Nightlies",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/541/91afee5f3ad77376b65aa60038c4979c.png",
@@ -2278,6 +2269,17 @@
         "umts_jordan": true
       },
       "summary": "XDA CM7 Original Nightly builds. tpruvot@github"
+    },
+    {
+      "developer": "CyanogenMod RC",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
+      "id": "tanguy.pruvot@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/tanguy.pruvot@gmail.com/manifest",
+      "roms": {
+        "umts_jordan": true
+      },
+      "summary": "Stable but unofficial RC"
     },
     {
       "developer": "MyUI",
@@ -2311,6 +2313,17 @@
         "shooter": true
       },
       "summary": "Sense 3.5 Android 2.3.5 "
+    },
+    {
+      "developer": "tesh",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/1348/9dfea5118e956ee5d1cb8b9c1597fd9d",
+      "id": "teshxx@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/teshxx@gmail.com/manifest",
+      "roms": {
+        "hercules": true
+      },
+      "summary": "Tmobile Samsung Galaxy S II - T989 || Stock || Bloat Free || Rooted || Su || Busybox = STREAMLINED || Perfect for Base."
     },
     {
       "developer": "NeoPhyTe",

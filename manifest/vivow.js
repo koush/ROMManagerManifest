@@ -17,6 +17,13 @@
       "summary": "TSM Pool Party for the Dinc2"
     },
     {
+      "developer": "carsten.dressler@gmail.com",
+      "free": false,
+      "id": "carsten.dressler@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/carsten.dressler@gmail.com/manifest",
+      "summary": "carsten.dressler@gmail.com"
+    },
+    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",

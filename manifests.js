@@ -768,6 +768,16 @@
       "summary": "TeamRC RCMixHD Beamingly Blazing HTC Sense Roms"
     },
     {
+      "developer": "carsten.dressler@gmail.com",
+      "free": false,
+      "id": "carsten.dressler@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/carsten.dressler@gmail.com/manifest",
+      "roms": {
+        "vivow": true
+      },
+      "summary": "carsten.dressler@gmail.com"
+    },
+    {
       "developer": "cstayton",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/546/7489780bf323b88233ae310c1c65a08e.png",
@@ -1141,17 +1151,6 @@
       "summary": "Eagleblood Roms Fast/Stable/Clean"
     },
     {
-      "developer": "Salvage-Mod",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "GB source build. Group project."
-    },
-    {
       "developer": "Salvage-Mod Nightlies",
       "free": "true",
       "id": "echo17",
@@ -1161,6 +1160,17 @@
         "supersonic": "true"
       },
       "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
+    },
+    {
+      "developer": "Salvage-Mod",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "GB source build. Group project."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -2260,17 +2270,6 @@
       "summary": "Stock ROM with a ton of bloatware removed and some added swag"
     },
     {
-      "developer": "XDA CM7 Nightlies",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/541/91afee5f3ad77376b65aa60038c4979c.png",
-      "id": "tanguy.pruvot@gmail.com",
-      "manifest": "http://tpruvot.free.fr/rm/custom.js",
-      "roms": {
-        "umts_jordan": true
-      },
-      "summary": "XDA CM7 Original Nightly builds. tpruvot@github"
-    },
-    {
       "developer": "CyanogenMod RC",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
@@ -2280,6 +2279,17 @@
         "umts_jordan": true
       },
       "summary": "Stable but unofficial RC"
+    },
+    {
+      "developer": "XDA CM7 Nightlies",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/541/91afee5f3ad77376b65aa60038c4979c.png",
+      "id": "tanguy.pruvot@gmail.com",
+      "manifest": "http://tpruvot.free.fr/rm/custom.js",
+      "roms": {
+        "umts_jordan": true
+      },
+      "summary": "XDA CM7 Original Nightly builds. tpruvot@github"
     },
     {
       "developer": "MyUI",

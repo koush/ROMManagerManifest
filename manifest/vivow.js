@@ -17,11 +17,12 @@
       "summary": "TSM Pool Party for the Dinc2"
     },
     {
-      "developer": "carsten.dressler@gmail.com",
+      "developer": "Carsten Dressler",
       "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/93/3036b4fdde58f3c672275d0e0faeb1d3",
       "id": "carsten.dressler@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/carsten.dressler@gmail.com/manifest",
-      "summary": "carsten.dressler@gmail.com"
+      "summary": "CyanogenMod 7.1.0.1"
     },
     {
       "developer": "Cerberus",

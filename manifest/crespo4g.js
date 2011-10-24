@@ -64,6 +64,13 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
+      "developer": "middlepiller@gmail.com",
+      "free": false,
+      "id": "middlepiller@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/middlepiller@gmail.com/manifest",
+      "summary": "middlepiller@gmail.com"
+    },
+    {
       "developer": "MIUI.us",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",

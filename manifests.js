@@ -768,14 +768,15 @@
       "summary": "TeamRC RCMixHD Beamingly Blazing HTC Sense Roms"
     },
     {
-      "developer": "carsten.dressler@gmail.com",
+      "developer": "Carsten Dressler",
       "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/93/3036b4fdde58f3c672275d0e0faeb1d3",
       "id": "carsten.dressler@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/carsten.dressler@gmail.com/manifest",
       "roms": {
         "vivow": true
       },
-      "summary": "carsten.dressler@gmail.com"
+      "summary": "CyanogenMod 7.1.0.1"
     },
     {
       "developer": "cstayton",
@@ -1060,6 +1061,16 @@
       "summary": "Aura Rom for the Atrix"
     },
     {
+      "developer": "djn541@gmail.com",
+      "free": false,
+      "id": "djn541@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/djn541@gmail.com/manifest",
+      "roms": {
+        "crespo": true
+      },
+      "summary": "djn541@gmail.com"
+    },
+    {
       "developer": "DJPBX",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/794/e317ca8f3c09678408816cf171108c8e.gif",
@@ -1082,6 +1093,16 @@
       "summary": "The latest stock CyanogenMod 7 Desire (bravo) base ported to HD2 with the minimal amount of changes required.  No custom apps are included.  Visit the ROM's thread @ xda: http://forum.xda-developers.com/showthread.php?t=933951 ."
     },
     {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
+    },
+    {
       "developer": "DrewGaren Roms",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1093,16 +1114,6 @@
         "crespo": true
       },
       "summary": "Custom Roms and Themes for your Device"
-    },
-    {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1835,6 +1846,16 @@
       "summary": "Clean, fast & Stable roms for the D1 & D2"
     },
     {
+      "developer": "middlepiller@gmail.com",
+      "free": false,
+      "id": "middlepiller@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/middlepiller@gmail.com/manifest",
+      "roms": {
+        "crespo4g": true
+      },
+      "summary": "middlepiller@gmail.com"
+    },
+    {
       "developer": "MIUI Android",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
@@ -2270,17 +2291,6 @@
       "summary": "Stock ROM with a ton of bloatware removed and some added swag"
     },
     {
-      "developer": "CyanogenMod RC",
-      "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
-      "id": "tanguy.pruvot@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/tanguy.pruvot@gmail.com/manifest",
-      "roms": {
-        "umts_jordan": true
-      },
-      "summary": "Stable but unofficial RC"
-    },
-    {
       "developer": "XDA CM7 Nightlies",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/541/91afee5f3ad77376b65aa60038c4979c.png",
@@ -2290,6 +2300,17 @@
         "umts_jordan": true
       },
       "summary": "XDA CM7 Original Nightly builds. tpruvot@github"
+    },
+    {
+      "developer": "CyanogenMod RC",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
+      "id": "tanguy.pruvot@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/tanguy.pruvot@gmail.com/manifest",
+      "roms": {
+        "umts_jordan": true
+      },
+      "summary": "Stable but unofficial RC"
     },
     {
       "developer": "MyUI",

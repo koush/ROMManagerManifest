@@ -17,9 +17,9 @@
       "summary": "TSM Pool Party for the Dinc2"
     },
     {
-      "developer": "Carsten Dressler",
+      "developer": "CM7 Stable - till official gets ",
       "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/93/3036b4fdde58f3c672275d0e0faeb1d3",
+      "icon": "http://developer.clockworkmod.com/downloads/93/54da0530ac074ba8761e08ed799f499c",
       "id": "carsten.dressler@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/carsten.dressler@gmail.com/manifest",
       "summary": "CyanogenMod 7.1.0.1"
@@ -86,14 +86,6 @@
       "id": "nitsuj17@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/nitsuj17@gmail.com/manifest",
       "summary": "Roms, add-ons, mods, themes"
-    },
-    {
-      "developer": "squash",
-      "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/781/4d7c57236fc2f350a579d6b4d6fc7f74.png",
-      "id": "squash",
-      "manifest": "http://developer.clockworkmod.com/developer/squash/manifest",
-      "summary": "Incredible 2 kernels"
     },
     {
       "developer": "Virtuous",

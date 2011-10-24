@@ -768,9 +768,9 @@
       "summary": "TeamRC RCMixHD Beamingly Blazing HTC Sense Roms"
     },
     {
-      "developer": "Carsten Dressler",
+      "developer": "CM7 Stable - till official gets ",
       "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/93/3036b4fdde58f3c672275d0e0faeb1d3",
+      "icon": "http://developer.clockworkmod.com/downloads/93/54da0530ac074ba8761e08ed799f499c",
       "id": "carsten.dressler@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/carsten.dressler@gmail.com/manifest",
       "roms": {
@@ -1093,16 +1093,6 @@
       "summary": "The latest stock CyanogenMod 7 Desire (bravo) base ported to HD2 with the minimal amount of changes required.  No custom apps are included.  Visit the ROM's thread @ xda: http://forum.xda-developers.com/showthread.php?t=933951 ."
     },
     {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
-    },
-    {
       "developer": "DrewGaren Roms",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1114,6 +1104,16 @@
         "crespo": true
       },
       "summary": "Custom Roms and Themes for your Device"
+    },
+    {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1162,17 +1162,6 @@
       "summary": "Eagleblood Roms Fast/Stable/Clean"
     },
     {
-      "developer": "Salvage-Mod Nightlies",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
-    },
-    {
       "developer": "Salvage-Mod",
       "free": "true",
       "id": "echo17",
@@ -1182,6 +1171,17 @@
         "supersonic": "true"
       },
       "summary": "GB source build. Group project."
+    },
+    {
+      "developer": "Salvage-Mod Nightlies",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -2062,6 +2062,7 @@
         "passion": true,
         "sholes": true,
         "crespo4g": true,
+        "inc": true,
         "crespo": true
       },
       "summary": "www.peteralfonso.com"
@@ -2252,17 +2253,6 @@
         "ace": true
       },
       "summary": "mods and bacons for xperia x10 only!"
-    },
-    {
-      "developer": "squash",
-      "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/781/4d7c57236fc2f350a579d6b4d6fc7f74.png",
-      "id": "squash",
-      "manifest": "http://developer.clockworkmod.com/developer/squash/manifest",
-      "roms": {
-        "vivow": true
-      },
-      "summary": "Incredible 2 kernels"
     },
     {
       "developer": "Stock Images",

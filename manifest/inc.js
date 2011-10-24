@@ -119,6 +119,14 @@
       "summary": "MIUI English releases by MIUI.us"
     },
     {
+      "developer": "Peter Alfonso",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/809/23ab34a53a8e93699239b87fd0360ad7.jpg",
+      "id": "pete",
+      "manifest": "http://wonderly.com/bb/WEBSITE/pete.js",
+      "summary": "www.peteralfonso.com"
+    },
+    {
       "developer": "t3hh4xx0r",
       "free": "true",
       "id": "r2d2",

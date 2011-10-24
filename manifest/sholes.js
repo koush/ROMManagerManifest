@@ -14,7 +14,7 @@
     },
     {
       "developer": "GreenRomProject",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
       "id": "GreenRomProject",
       "manifest": "http://developer.clockworkmod.com/developer/GreenRomProject/manifest",
@@ -44,7 +44,7 @@
     },
     {
       "developer": "WolfRoms",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/704/22baaaa7d15d504f2d43eb8a2980cea9.jpg",
       "id": "WolfRoms",
       "manifest": "http://developer.clockworkmod.com/developer/WolfRoms/manifest",
@@ -138,7 +138,7 @@
     },
     {
       "developer": "koush@koushikdutta.com",
-      "free": false,
+      "free": true,
       "id": "koush@koushikdutta.com",
       "manifest": "http://developer.clockworkmod.com/developer/koush@koushikdutta.com/manifest",
       "summary": "koush@koushikdutta.com"
@@ -151,7 +151,7 @@
     },
     {
       "developer": "Magiman7",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/42/70d519969f6c857c9e5b7c1cfb147ae9.png",
       "id": "magiman7",
       "manifest": "http://developer.clockworkmod.com/developer/magiman7/manifest",
@@ -159,7 +159,7 @@
     },
     {
       "developer": "metiCkOne",
-      "free": false,
+      "free": true,
       "id": "metiCkOne",
       "manifest": "http://developer.clockworkmod.com/developer/metiCkOne/manifest",
       "summary": "Clean, fast & Stable roms for the D1 & D2"
@@ -175,14 +175,14 @@
     {
       "developer": "Peter Alfonso",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/809/23ab34a53a8e93699239b87fd0360ad7.jpg",
+      "icon": "http://developer.clockworkmod.com/downloads/809/dfb362e824019d04dc80082384c6aed0",
       "id": "pete",
       "manifest": "http://wonderly.com/bb/WEBSITE/pete.js",
-      "summary": "www.peteralfonso.com"
+      "summary": "ROMs (AOSP), kernels, and more!"
     },
     {
       "developer": "EnYo",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/633/e8973d34d142398f1d86f8c3ef789a8e.jpg",
       "id": "rfvbnji91@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/rfvbnji91@gmail.com/manifest",
@@ -204,7 +204,7 @@
     },
     {
       "developer": "winner00",
-      "free": false,
+      "free": true,
       "id": "toverturf@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/toverturf@gmail.com/manifest",
       "summary": "CyanogenMod 7 with few tweaks for better performance on the OG Droid, Incredible, and pulls from gerrit.  "

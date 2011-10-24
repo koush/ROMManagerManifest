@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "GreenRomProject",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
       "id": "GreenRomProject",
       "manifest": "http://developer.clockworkmod.com/developer/GreenRomProject/manifest",
@@ -10,7 +10,7 @@
     },
     {
       "developer": "OMJ-",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/719/bfbccec41cbac2cba0e62a7f2bbefa2e.png",
       "id": "OMJ-",
       "manifest": "http://developer.clockworkmod.com/developer/OMJ-/manifest",
@@ -121,10 +121,10 @@
     {
       "developer": "Peter Alfonso",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/809/23ab34a53a8e93699239b87fd0360ad7.jpg",
+      "icon": "http://developer.clockworkmod.com/downloads/809/dfb362e824019d04dc80082384c6aed0",
       "id": "pete",
       "manifest": "http://wonderly.com/bb/WEBSITE/pete.js",
-      "summary": "www.peteralfonso.com"
+      "summary": "ROMs (AOSP), kernels, and more!"
     },
     {
       "developer": "t3hh4xx0r",
@@ -136,7 +136,7 @@
     },
     {
       "developer": "winner00",
-      "free": false,
+      "free": true,
       "id": "toverturf@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/toverturf@gmail.com/manifest",
       "summary": "CyanogenMod 7 with few tweaks for better performance on the OG Droid, Incredible, and pulls from gerrit.  "

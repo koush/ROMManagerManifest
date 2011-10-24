@@ -10,7 +10,7 @@
     },
     {
       "developer": "OMJ-",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/719/bfbccec41cbac2cba0e62a7f2bbefa2e.png",
       "id": "OMJ-",
       "manifest": "http://developer.clockworkmod.com/developer/OMJ-/manifest",
@@ -18,7 +18,7 @@
     },
     {
       "developer": "CM7 Stable - till official gets ",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/93/54da0530ac074ba8761e08ed799f499c",
       "id": "carsten.dressler@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/carsten.dressler@gmail.com/manifest",
@@ -81,7 +81,7 @@
     },
     {
       "developer": "nitsuj17",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/747/e5966a7321c516f205558da3956f87bc.png",
       "id": "nitsuj17@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/nitsuj17@gmail.com/manifest",

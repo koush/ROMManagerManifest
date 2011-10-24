@@ -18,7 +18,7 @@
     },
     {
       "developer": "doniqcc",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/718/9c3899d3bf007a79e4bab261fad0c501.jpg",
       "id": "eagleblood",
       "manifest": "http://developer.clockworkmod.com/developer/eagleblood/manifest",
@@ -34,7 +34,7 @@
     },
     {
       "developer": "tesh",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1348/9dfea5118e956ee5d1cb8b9c1597fd9d",
       "id": "teshxx@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/teshxx@gmail.com/manifest",

@@ -9,7 +9,7 @@
     },
     {
       "developer": "Menelkir ROMs",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/791/11b39c3b365a9d1160b1b7e9d94911c3.jpg",
       "id": "Menelkir",
       "manifest": "http://developer.clockworkmod.com/developer/Menelkir/manifest",
@@ -56,7 +56,7 @@
     },
     {
       "developer": "DrewGaren Roms",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
       "id": "drewgaren",
       "manifest": "http://developer.clockworkmod.com/developer/drewgaren/manifest",
@@ -64,7 +64,7 @@
     },
     {
       "developer": "E-XtremeMod",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/132/3bea45cb0d900947ae2ceb5399b617f3.png",
       "id": "extrememod",
       "manifest": "http://developer.clockworkmod.com/developer/extrememod/manifest",
@@ -86,7 +86,7 @@
     },
     {
       "developer": "jbbandos",
-      "free": false,
+      "free": true,
       "id": "jbbandos",
       "manifest": "http://developer.clockworkmod.com/developer/jbbandos/manifest",
       "summary": "Multi-language MIUI ROMs. No theme change, 3G, bluetooth and other tunings. Lean and fast."
@@ -131,14 +131,14 @@
     {
       "developer": "Peter Alfonso",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/809/23ab34a53a8e93699239b87fd0360ad7.jpg",
+      "icon": "http://developer.clockworkmod.com/downloads/809/dfb362e824019d04dc80082384c6aed0",
       "id": "pete",
       "manifest": "http://wonderly.com/bb/WEBSITE/pete.js",
-      "summary": "www.peteralfonso.com"
+      "summary": "ROMs (AOSP), kernels, and more!"
     },
     {
       "developer": "EnYo",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/633/e8973d34d142398f1d86f8c3ef789a8e.jpg",
       "id": "rfvbnji91@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/rfvbnji91@gmail.com/manifest",

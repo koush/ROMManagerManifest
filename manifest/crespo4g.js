@@ -65,7 +65,7 @@
     },
     {
       "developer": "middlepiller@gmail.com",
-      "free": false,
+      "free": true,
       "id": "middlepiller@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/middlepiller@gmail.com/manifest",
       "summary": "middlepiller@gmail.com"
@@ -81,10 +81,10 @@
     {
       "developer": "Peter Alfonso",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/809/23ab34a53a8e93699239b87fd0360ad7.jpg",
+      "icon": "http://developer.clockworkmod.com/downloads/809/dfb362e824019d04dc80082384c6aed0",
       "id": "pete",
       "manifest": "http://wonderly.com/bb/WEBSITE/pete.js",
-      "summary": "www.peteralfonso.com"
+      "summary": "ROMs (AOSP), kernels, and more!"
     }
   ],
   "minversion": "4403"

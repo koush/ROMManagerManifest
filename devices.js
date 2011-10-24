@@ -1364,7 +1364,7 @@
     },
     {
       "name": "HTC Amaze",
-      "readonly_recovery": true,
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p23 bs=4096 ; ",
       "version": "5.0.2.6",
       "init": "init.ruby.rc",
       "key": "ruby",

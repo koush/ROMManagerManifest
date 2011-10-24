@@ -87,7 +87,7 @@
     {
       "developer": "Crypt0night",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/825/3beddbf5e603060c2105cd1ae6f74079",
+      "icon": "http://developer.clockworkmod.com/downloads/825/32e6ac003912143fb2b03bb6424a3666",
       "id": "Crypt0",
       "manifest": "http://developer.clockworkmod.com/developer/Crypt0/manifest",
       "roms": {
@@ -2028,9 +2028,9 @@
       "summary": "notna659@gmail.com"
     },
     {
-      "developer": "orkillakilla",
+      "developer": "KillaSense",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/1120/03cae6b371dd31f887817204ee948e86.png",
+      "icon": "http://developer.clockworkmod.com/downloads/1120/c6815c3f4597b61a52b505c875bf8d3f",
       "id": "orkillakilla@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/orkillakilla@gmail.com/manifest",
       "roms": {
@@ -2292,17 +2292,6 @@
       "summary": "Stock ROM with a ton of bloatware removed and some added swag"
     },
     {
-      "developer": "CyanogenMod RC",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
-      "id": "tanguy.pruvot@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/tanguy.pruvot@gmail.com/manifest",
-      "roms": {
-        "umts_jordan": true
-      },
-      "summary": "Stable but unofficial RC"
-    },
-    {
       "developer": "XDA CM7 Nightlies",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/541/91afee5f3ad77376b65aa60038c4979c.png",
@@ -2312,6 +2301,17 @@
         "umts_jordan": true
       },
       "summary": "XDA CM7 Original Nightly builds. tpruvot@github"
+    },
+    {
+      "developer": "CyanogenMod RC",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
+      "id": "tanguy.pruvot@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/tanguy.pruvot@gmail.com/manifest",
+      "roms": {
+        "umts_jordan": true
+      },
+      "summary": "Stable but unofficial RC"
     },
     {
       "developer": "MyUI",

@@ -126,12 +126,12 @@
       "summary": "Kernels for any ROM by jdlfg"
     },
     {
-      "developer": "KillaSense",
+      "developer": "orkillakilla",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/1120/c6815c3f4597b61a52b505c875bf8d3f",
+      "icon": "http://developer.clockworkmod.com/downloads/1120/9c8d91b2a3c33f36b5000e43feaa081b",
       "id": "orkillakilla@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/orkillakilla@gmail.com/manifest",
-      "summary": "Stock Sense 2.1 ROMs"
+      "summary": "KillaSense: Stock Sense 2.1 ROMs"
     },
     {
       "developer": "t3hh4xx0r",

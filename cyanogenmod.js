@@ -2739,25 +2739,6 @@
                 } 
             ] 
         },
-	{
-            "device": "smb_a1002",
-            "name": "CyanogenMod 7.1.0.2",
-            "modversion": "CyanogenMod-7.1.0.2-smb_a1002",
-            "incremental": "7103",
-            "url": "http://goo-inside.me/cm/smb_a1002/stable/update-cm-7.1.0.2-smb_a1002-signed.zip",
-            "product": "CyanogenMod",
-            "summary": "Stable Release",
-            "addons": [
-                {
-                    "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip"
-                },
-                {
-                    "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip"
-                }
-            ] 
-        },
         {
             "device": "smb_a1002",
             "name": "CyanogenMod 7.1.0.1",

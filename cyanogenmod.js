@@ -112,6 +112,25 @@
                 } 
             ] 
         },
+	{
+            "device": "anzu",
+            "name": "CyanogenMod 7.1.0.2",
+            "modversion": "CyanogenMod-7.1.0.2-XperiaArc-LT15i",
+            "incremental": "7103",
+            "url": "http://goo-inside.me/cm/anzu/stable/update-cm-7.1.0.2-XperiaArc-LT15i-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip"
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental!)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip"
+                } 
+            ] 
+        },
         {
             "device": "anzu",
             "name": "CyanogenMod 7.1.0.1",
@@ -1375,6 +1394,25 @@
                 } 
             ] 
         },
+	{
+            "device": "hallon",
+            "name": "CyanogenMod 7.1.0.2",
+            "modversion": "CyanogenMod-7.1.0.2-XperiaNeo-MT15i",
+            "incremental": "7103",
+            "url": "http://goo-inside.me/cm/hallon/stable/update-cm-7.1.0.2-XperiaNeo-MT15i-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip"
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental!)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip"
+                } 
+            ] 
+        },
         {
             "device": "hallon",
             "name": "CyanogenMod 7.1.0.1",
@@ -1944,6 +1982,25 @@
                 {
                     "name": "Google Apps",
                     "url": "http://goo-inside.me/gapps/gapps-mdpi-20110501-signed.zip" 
+                } 
+            ] 
+        },
+	{
+	    "device": "mango",
+            "name": "CyanogenMod 7.1.0.2",
+            "modversion": "CyanogenMod-7.1.0.2-XperiaMiniPro-SK17i",
+            "incremental": "7103",
+            "url": "http://goo-inside.me/cm/mango/stable/update-cm-7.1.0.2-XperiaMiniPro-SK17i-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip"
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental!)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip"
                 } 
             ] 
         },
@@ -2792,6 +2849,25 @@
                 } 
             ] 
         },
+	{
+            "device": "smultron",
+            "name": "CyanogenMod 7.1.0.2",
+            "modversion": "CyanogenMod-7.1.0.2-XperiaMini-ST15i",
+            "incremental": "7103",
+            "url": "http://goo-inside.me/cm/smultron/stable/update-cm-7.1.0.2-XperiaMini-ST15i-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip"
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental!)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip"
+                } 
+            ] 
+        },
         {
             "device": "smultron",
             "name": "CyanogenMod 7.1.0.1",
@@ -3075,6 +3151,25 @@
                 {
                     "name": "Google Apps",
                     "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip" 
+                } 
+            ] 
+        },
+	{
+            "device": "urushi",
+            "name": "CyanogenMod 7.1.0.2",
+            "modversion": "CyanogenMod-7.1.0.2-XperiaRay-ST18i",
+            "incremental": "7103",
+            "url": "http://goo-inside.me/cm/urushi/stable/update-cm-7.1.0.2-XperiaRay-ST18i-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip"
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental!)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip"
                 } 
             ] 
         },
@@ -3653,6 +3748,25 @@
                 {
                     "name": "Google Apps",
                     "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                } 
+            ] 
+        },
+	{
+            "device": "zeus",
+            "name": "CyanogenMod 7.1.0.2",
+            "modversion": "CyanogenMod-7.1.0.2-XperiaPlay-R800i",
+            "incremental": "7103",
+            "url": "http://goo-inside.me/cm/zeus/stable/update-cm-7.1.0.2-XperiaPlay-R800i-signed.zip",
+            "product": "CyanogenMod",
+            "summary": "Stable Release",
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip"
+                },
+                {
+                    "name": "GTalk w/ Video Chat (Experimental!)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip"
                 } 
             ] 
         },

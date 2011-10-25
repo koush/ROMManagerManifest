@@ -1093,6 +1093,16 @@
       "summary": "The latest stock CyanogenMod 7 Desire (bravo) base ported to HD2 with the minimal amount of changes required.  No custom apps are included.  Visit the ROM's thread @ xda: http://forum.xda-developers.com/showthread.php?t=933951 ."
     },
     {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
+    },
+    {
       "developer": "DrewGaren Roms",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1104,16 +1114,6 @@
         "crespo": true
       },
       "summary": "Custom Roms and Themes for your Device"
-    },
-    {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1162,17 +1162,6 @@
       "summary": "Eagleblood Roms Fast/Stable/Clean"
     },
     {
-      "developer": "Salvage-Mod Nightlies",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
-    },
-    {
       "developer": "Salvage-Mod",
       "free": "true",
       "id": "echo17",
@@ -1182,6 +1171,17 @@
         "supersonic": "true"
       },
       "summary": "GB source build. Group project."
+    },
+    {
+      "developer": "Salvage-Mod Nightlies",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -1713,16 +1713,6 @@
       "summary": "kiril.mik.os@gmail.com"
     },
     {
-      "developer": "koush@koushikdutta.com",
-      "free": true,
-      "id": "koush@koushikdutta.com",
-      "manifest": "http://developer.clockworkmod.com/developer/koush@koushikdutta.com/manifest",
-      "roms": {
-        "sholes": true
-      },
-      "summary": "koush@koushikdutta.com"
-    },
-    {
       "developer": "KrazyKrivda",
       "id": "krazykrivda",
       "manifest": "http://mydroidfiles.com/krazykrivda/manifest.js",
@@ -2030,7 +2020,7 @@
     {
       "developer": "orkillakilla",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/1120/9c8d91b2a3c33f36b5000e43feaa081b",
+      "icon": "http://developer.clockworkmod.com/downloads/1120/2aebd5e512c7b4f9aa8d96003e998516.png",
       "id": "orkillakilla@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/orkillakilla@gmail.com/manifest",
       "roms": {

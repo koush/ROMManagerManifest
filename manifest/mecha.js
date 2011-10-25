@@ -128,7 +128,7 @@
     {
       "developer": "orkillakilla",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/1120/9c8d91b2a3c33f36b5000e43feaa081b",
+      "icon": "http://developer.clockworkmod.com/downloads/1120/2aebd5e512c7b4f9aa8d96003e998516.png",
       "id": "orkillakilla@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/orkillakilla@gmail.com/manifest",
       "summary": "KillaSense: Stock Sense 2.1 ROMs"

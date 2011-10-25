@@ -137,13 +137,6 @@
       "summary": "Kernels for any ROM by jdlfg"
     },
     {
-      "developer": "koush@koushikdutta.com",
-      "free": true,
-      "id": "koush@koushikdutta.com",
-      "manifest": "http://developer.clockworkmod.com/developer/koush@koushikdutta.com/manifest",
-      "summary": "koush@koushikdutta.com"
-    },
-    {
       "developer": "KrazyKrivda",
       "id": "krazykrivda",
       "manifest": "http://mydroidfiles.com/krazykrivda/manifest.js",

@@ -23,6 +23,14 @@
       "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
+    },
+    {
+      "developer": "Flint Fire",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/1439/871e124edd94070a1cbb581aa2348962.png",
+      "id": "mb-14",
+      "manifest": "http://developer.clockworkmod.com/developer/mb-14/manifest",
+      "summary": "Super-awesome ROM for FM6 variants"
     }
   ],
   "minversion": "4403"

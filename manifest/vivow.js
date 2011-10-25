@@ -19,7 +19,7 @@
     {
       "developer": "CM7 Stable - till official gets ",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/93/54da0530ac074ba8761e08ed799f499c",
+      "icon": "http://developer.clockworkmod.com/downloads/93/fb68f8d3119ee8d21da6627c4db8540c",
       "id": "carsten.dressler@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/carsten.dressler@gmail.com/manifest",
       "summary": "CyanogenMod 7.1.0.1"

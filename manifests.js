@@ -87,7 +87,7 @@
     {
       "developer": "Crypt0night",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/825/32e6ac003912143fb2b03bb6424a3666",
+      "icon": "http://developer.clockworkmod.com/downloads/825/70a24bf7a5c553298e3ec4080ee57d8c.gif",
       "id": "Crypt0",
       "manifest": "http://developer.clockworkmod.com/developer/Crypt0/manifest",
       "roms": {
@@ -770,7 +770,7 @@
     {
       "developer": "CM7 Stable - till official gets ",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/93/54da0530ac074ba8761e08ed799f499c",
+      "icon": "http://developer.clockworkmod.com/downloads/93/fb68f8d3119ee8d21da6627c4db8540c",
       "id": "carsten.dressler@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/carsten.dressler@gmail.com/manifest",
       "roms": {
@@ -1093,16 +1093,6 @@
       "summary": "The latest stock CyanogenMod 7 Desire (bravo) base ported to HD2 with the minimal amount of changes required.  No custom apps are included.  Visit the ROM's thread @ xda: http://forum.xda-developers.com/showthread.php?t=933951 ."
     },
     {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
-    },
-    {
       "developer": "DrewGaren Roms",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1114,6 +1104,16 @@
         "crespo": true
       },
       "summary": "Custom Roms and Themes for your Device"
+    },
+    {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1446,6 +1446,16 @@
       "summary": "Go Go Go!"
     },
     {
+      "developer": "HyperDroid",
+      "free": "true",
+      "id": "hyperdroid",
+      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
+      "roms": {
+        "leo": "true"
+      },
+      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
+    },
+    {
       "developer": "HyperDroid CM7",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
@@ -1455,16 +1465,6 @@
         "leo": true
       },
       "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
-    },
-    {
-      "developer": "HyperDroid",
-      "free": "true",
-      "id": "hyperdroid",
-      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
-      "roms": {
-        "leo": "true"
-      },
-      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
     },
     {
       "developer": "Ihtfp69",
@@ -1825,6 +1825,17 @@
       "summary": "By maxdamage2122 Unmodified Cyanogenmod nightly kangs for the Viewsonic GTablet"
     },
     {
+      "developer": "Flint Fire",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/1439/871e124edd94070a1cbb581aa2348962.png",
+      "id": "mb-14",
+      "manifest": "http://developer.clockworkmod.com/developer/mb-14/manifest",
+      "roms": {
+        "FM6": true
+      },
+      "summary": "Super-awesome ROM for FM6 variants"
+    },
+    {
       "developer": "metiCkOne",
       "free": true,
       "id": "metiCkOne",
@@ -2020,7 +2031,7 @@
     {
       "developer": "orkillakilla",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/1120/2aebd5e512c7b4f9aa8d96003e998516.png",
+      "icon": "http://developer.clockworkmod.com/downloads/1120/4e5bfb8a6ea3d226fefc0b118baef092",
       "id": "orkillakilla@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/orkillakilla@gmail.com/manifest",
       "roms": {
@@ -2104,6 +2115,17 @@
         "ascend": true
       },
       "summary": "Remember folks, I dont get paid to do this, so donations are greatly apprciated even if its just for $1. You can donate by pressing menu > donate while viewing the ROM list or from the link on my wiki. ;)"
+    },
+    {
+      "developer": "psyke83",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/698/37b4cd4edb1221d85e2e477eaf052be2",
+      "id": "psyke83",
+      "manifest": "http://developer.clockworkmod.com/developer/psyke83/manifest",
+      "roms": {
+        "galaxy5": true
+      },
+      "summary": "CyanogenMod ROMs for various devices"
     },
     {
       "developer": "t3hh4xx0r",

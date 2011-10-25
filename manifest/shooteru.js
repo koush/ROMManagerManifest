@@ -3,7 +3,7 @@
     {
       "developer": "Crypt0night",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/825/32e6ac003912143fb2b03bb6424a3666",
+      "icon": "http://developer.clockworkmod.com/downloads/825/70a24bf7a5c553298e3ec4080ee57d8c.gif",
       "id": "Crypt0",
       "manifest": "http://developer.clockworkmod.com/developer/Crypt0/manifest",
       "summary": "Rom developer for the HTC evo 3d GSM"

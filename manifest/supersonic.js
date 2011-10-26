@@ -70,20 +70,20 @@
       "summary": "Updates for stock ROMs, radio, hboot"
     },
     {
-      "developer": "Salvage-Mod",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
-      "summary": "GB source build. Group project."
-    },
-    {
       "developer": "Salvage-Mod Nightlies",
       "free": "true",
       "id": "echo17",
       "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
       "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
       "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
+    },
+    {
+      "developer": "Salvage-Mod",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
+      "summary": "GB source build. Group project."
     },
     {
       "developer": "Fresh",
@@ -122,14 +122,6 @@
       "icon": "http://savaged-zen.github.com/RM-Manifest/icon.png",
       "manifest": "http://savaged-zen.github.com/RM-Manifest/manifest.js",
       "summary": "ROMs & kernels for HTC EVO 4G, Droid Incredible"
-    },
-    {
-      "developer": "MaxDamage",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/529/b1c8e19a6f619e9e3cf2a36de2fb8b0a.png",
-      "id": "maxdamage",
-      "manifest": "https://dl.dropbox.com/s/7yreog0xtyebutn/maxdamage/manifest.js",
-      "summary": "Flashing CM nightlies made easy!"
     },
     {
       "developer": "MIUI.us",

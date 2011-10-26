@@ -11,10 +11,10 @@
     {
       "developer": "Sense-o-Maniac",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/862/a03de1814780c4cde2991b5e43b3a322.gif",
+      "icon": "http://developer.clockworkmod.com/downloads/862/dd9079fad0d347309ffbc6e4362a3145",
       "id": "Sense-o-Maniac",
       "manifest": "http://developer.clockworkmod.com/developer/Sense-o-Maniac/manifest",
-      "summary": "Sense-o-Maniac - Sense 3.5 Beats || Amaze cam || CRT || Bloatware free ||"
+      "summary": "Sense-o-Maniac - Sense 3.5 Beats || Amaze cam || CRT || Bloatware free || Tweaks"
     },
     {
       "developer": "CiVic",

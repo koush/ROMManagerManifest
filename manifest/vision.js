@@ -3,10 +3,10 @@
     {
       "developer": "ILWT CM7",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/739/0c854ef260a097738759c47d90bdfdd7",
+      "icon": "http://developer.clockworkmod.com/downloads/739/5b634ca33012f92ed61ce5dbeea57df4",
       "id": "ILWT",
       "manifest": "http://developer.clockworkmod.com/developer/ILWT/manifest",
-      "summary": "ILWT CM7 with Virtuous OC Daemon -- Customizable Pre-Flash"
+      "summary": "ILWT CM7 || ILWT CM7 Kernel || ILWT OC Daemon"
     },
     {
       "developer": "RH_Mod MIUI",

@@ -76,7 +76,7 @@
     {
       "developer": "ClearDroid",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/572/95972a5a4cbb690afc5ea36ca297cadd.png",
+      "icon": "http://developer.clockworkmod.com/downloads/572/4884d4eafed430ae7b95733148b0055e.png",
       "id": "ClearD",
       "manifest": "http://www.techsupporteverything.com/download/manifest.js",
       "roms": {
@@ -746,6 +746,17 @@
       "summary": "Stable AOSP-based ROM"
     },
     {
+      "developer": "CM7/MIUI Modems",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/906/4f859ddc4c36aa02540ad2a3857f83b1",
+      "id": "bohdan.s@gmail.com",
+      "manifest": "http://everyrandom.com/RomManager/manifest.js",
+      "roms": {
+        "galaxysmtd": true
+      },
+      "summary": "Modems for ClockworkMod7 and MIUI"
+    },
+    {
       "developer": "Br1cK'd",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/288/75bcc580df6cb4e59690993fcb904ecc.jpg",
@@ -757,15 +768,16 @@
       "summary": "Slim, fast, stable Samsung Vibrant Roms"
     },
     {
-      "developer": "TeamRC",
-      "free": "true",
+      "developer": "RCTeam RCMix",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/1530/5bfa20ea9800d78ef328c49b4151a821",
       "id": "capychimp",
-      "icon": "http://capychimp.dk/rcmix/rc.png",
       "manifest": "http://capychimp.dk/rcmix/rcmix.js",
       "roms": {
-        "ace": "true"
+        "ace": true,
+        "pyramid": true
       },
-      "summary": "TeamRC RCMixHD Beamingly Blazing HTC Sense Roms"
+      "summary": "RCTeam's RCMix HTC SEnse rom, Blazingly good"
     },
     {
       "developer": "CM7 Stable - till official gets ",
@@ -1093,16 +1105,6 @@
       "summary": "The latest stock CyanogenMod 7 Desire (bravo) base ported to HD2 with the minimal amount of changes required.  No custom apps are included.  Visit the ROM's thread @ xda: http://forum.xda-developers.com/showthread.php?t=933951 ."
     },
     {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
-    },
-    {
       "developer": "DrewGaren Roms",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1114,6 +1116,16 @@
         "crespo": true
       },
       "summary": "Custom Roms and Themes for your Device"
+    },
+    {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1162,17 +1174,6 @@
       "summary": "Eagleblood Roms Fast/Stable/Clean"
     },
     {
-      "developer": "Salvage-Mod Nightlies",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
-    },
-    {
       "developer": "Salvage-Mod",
       "free": "true",
       "id": "echo17",
@@ -1182,6 +1183,17 @@
         "supersonic": "true"
       },
       "summary": "GB source build. Group project."
+    },
+    {
+      "developer": "Salvage-Mod Nightlies",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -1768,6 +1780,17 @@
       "summary": "Based on the latest gingerbread leak 2.3.4 for captivate,Tweaked to be faster, and have a amazing battery life ."
     },
     {
+      "developer": "Saga LBC Mod",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/573/8bf50ca36993e1e97aa0bf47bcc8f043.png",
+      "id": "loveboatcaptain",
+      "manifest": "http://ota.saga-lbc-mod.de/rommanager/manifest.js",
+      "roms": {
+        "saga": true
+      },
+      "summary": "LoveBoatCaptain - Android Development"
+    },
+    {
       "developer": "Lox",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/89/da66842898ae788ad12bb696f515c928.jpg",
@@ -1788,6 +1811,18 @@
         "sholes": true
       },
       "summary": "Miui.us Ports for Droid"
+    },
+    {
+      "developer": "MaxDamage",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/529/b1c8e19a6f619e9e3cf2a36de2fb8b0a.png",
+      "id": "maxdamage",
+      "manifest": "https://dl.dropbox.com/s/7yreog0xtyebutn/maxdamage/manifest.js",
+      "roms": {
+        "undefined": true,
+        "supersonic": true
+      },
+      "summary": "Flashing CM nightlies made easy!"
     },
     {
       "developer": "CyanogenMod Nightly Kangs",
@@ -2008,7 +2043,7 @@
     {
       "developer": "orkillakilla",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/1120/4e5bfb8a6ea3d226fefc0b118baef092",
+      "icon": "http://developer.clockworkmod.com/downloads/1120/1f6c79eee01e9f180b0691ffb56b140d.png",
       "id": "orkillakilla@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/orkillakilla@gmail.com/manifest",
       "roms": {

@@ -3,7 +3,7 @@
     {
       "developer": "ClearDroid",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/572/95972a5a4cbb690afc5ea36ca297cadd.png",
+      "icon": "http://developer.clockworkmod.com/downloads/572/4884d4eafed430ae7b95733148b0055e.png",
       "id": "ClearD",
       "manifest": "http://www.techsupporteverything.com/download/manifest.js",
       "summary": "ClearDroid ROM for Inspire 4G. Inspire-based, with the choice of a stock feel or the ClearDroid ModPack. The most stable ROM available for the Inspire."
@@ -41,12 +41,12 @@
       "summary": "BeatMod Rom for your HTC Device"
     },
     {
-      "developer": "TeamRC",
-      "free": "true",
+      "developer": "RCTeam RCMix",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/1530/5bfa20ea9800d78ef328c49b4151a821",
       "id": "capychimp",
-      "icon": "http://capychimp.dk/rcmix/rc.png",
       "manifest": "http://capychimp.dk/rcmix/rcmix.js",
-      "summary": "TeamRC RCMixHD Beamingly Blazing HTC Sense Roms"
+      "summary": "RCTeam's RCMix HTC SEnse rom, Blazingly good"
     },
     {
       "developer": "cstayton",

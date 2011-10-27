@@ -33,6 +33,14 @@
       "summary": "aosp4u@gmail.com"
     },
     {
+      "developer": "RCTeam RCMix",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/1530/5bfa20ea9800d78ef328c49b4151a821",
+      "id": "capychimp",
+      "manifest": "http://capychimp.dk/rcmix/rcmix.js",
+      "summary": "RCTeam's RCMix HTC SEnse rom, Blazingly good"
+    },
+    {
       "developer": "CdTDroiD",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/803/9aec5a3c5464161e710530ada496a0fe.png",

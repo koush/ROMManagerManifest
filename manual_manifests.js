@@ -723,17 +723,6 @@
       "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
     },
     {
-      "developer": "TeamRC",
-      "icon": "http://capychimp.dk/rcmix/rc.png",
-      "id": "capychimp",
-      "free": "true",
-      "manifest": "http://capychimp.dk/rcmix/rcmix.js",
-      "roms": {
-        "ace": "true"
-      },
-      "summary": "TeamRC RCMixHD Beamingly Blazing HTC Sense Roms"
-    },
-    {
       "developer": "gtg465x",
       "icon": "http://www.prism.gatech.edu/~gtg465x/ROMManagerManifest/icon.png",
       "id": "gtg465x",

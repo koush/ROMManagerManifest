@@ -49,6 +49,14 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
+      "developer": "Saga LBC Mod",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/573/8bf50ca36993e1e97aa0bf47bcc8f043.png",
+      "id": "loveboatcaptain",
+      "manifest": "http://ota.saga-lbc-mod.de/rommanager/manifest.js",
+      "summary": "LoveBoatCaptain - Android Development"
+    },
+    {
       "developer": "MIUI Android",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",

@@ -729,7 +729,8 @@
       "free": "true",
       "manifest": "http://capychimp.dk/rcmix/rcmix.js",
       "roms": {
-        "ace": "true"
+        "ace": "true",
+        "pyramid": "true"
       },
       "summary": "TeamRC RCMixHD Beamingly Blazing HTC Sense Roms"
     },

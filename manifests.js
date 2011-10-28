@@ -887,7 +887,6 @@
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
       "roms": {
         "zeus": "true",
-        "galaxys2att": "true",
         "p999": "true",
         "smb_a1002": "true",
         "anzu": "true",
@@ -936,6 +935,7 @@
         "crespo": "true",
         "encore": "true",
         "galaxys2": "true",
+        "galaxys2att": "true",
         "galaxysmtd": "true",
         "harmony": "true",
         "inc": "true",
@@ -1018,6 +1018,7 @@
         "crespo": "true",
         "encore": "true",
         "galaxys2": "true",
+        "galaxys2att": "true",
         "galaxysmtd": "true",
         "harmony": "true",
         "inc": "true",

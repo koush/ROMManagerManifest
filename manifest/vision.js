@@ -3,10 +3,10 @@
     {
       "developer": "ILWT CM7",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/739/5b634ca33012f92ed61ce5dbeea57df4",
+      "icon": "http://developer.clockworkmod.com/downloads/739/0b1d0f671f7db5b53fa909c1a48b32fa.png",
       "id": "ILWT",
       "manifest": "http://developer.clockworkmod.com/developer/ILWT/manifest",
-      "summary": "ILWT CM7 || ILWT CM7 Kernel || ILWT OC Daemon"
+      "summary": "ILWT CM7 ** ILWT CM7 Kernel ** ILWT OC Daemon"
     },
     {
       "developer": "RH_Mod MIUI",

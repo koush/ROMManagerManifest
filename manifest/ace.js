@@ -43,15 +43,15 @@
     {
       "developer": "RCTeam RCMix",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/1530/5bfa20ea9800d78ef328c49b4151a821",
+      "icon": "http://developer.clockworkmod.com/downloads/1530/f04bed0f7cd255a5a017bf4abacd6884.png",
       "id": "capychimp",
       "manifest": "http://capychimp.dk/rcmix/rcmix.js",
-      "summary": "RCTeam's RCMix HTC SEnse rom, Blazingly good"
+      "summary": "RCTeam's RCMix HTC Sense roms, Blazingly good"
     },
     {
       "developer": "cstayton",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/546/7489780bf323b88233ae310c1c65a08e.png",
+      "icon": "http://developer.clockworkmod.com/downloads/546/752332ea76c5a6e2f78a69024b39a170",
       "id": "castayton@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/castayton@gmail.com/manifest",
       "summary": "developer of StarDroid ROMS for your HTC Inspire and Desire HD"

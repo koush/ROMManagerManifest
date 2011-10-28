@@ -190,13 +190,13 @@
     {
       "developer": "ILWT CM7",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/739/5b634ca33012f92ed61ce5dbeea57df4",
+      "icon": "http://developer.clockworkmod.com/downloads/739/0b1d0f671f7db5b53fa909c1a48b32fa.png",
       "id": "ILWT",
       "manifest": "http://developer.clockworkmod.com/developer/ILWT/manifest",
       "roms": {
         "vision": true
       },
-      "summary": "ILWT CM7 || ILWT CM7 Kernel || ILWT OC Daemon"
+      "summary": "ILWT CM7 ** ILWT CM7 Kernel ** ILWT OC Daemon"
     },
     {
       "developer": "JsinLegacy",
@@ -644,17 +644,6 @@
       "summary": "Latest CWR for the HD2 with the yes/no patch"
     },
     {
-      "developer": "teamhacksung",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/5/e37442e1c9d8f4dde5ceb57f51967029.png",
-      "id": "atinm",
-      "manifest": "http://developer.clockworkmod.com/developer/atinm/manifest",
-      "roms": {
-        "galaxys2att": true
-      },
-      "summary": "CyanogenMod 7 for SGS"
-    },
-    {
       "developer": "bcnice20",
       "free": "true",
       "id": "bcnice20",
@@ -748,13 +737,19 @@
     {
       "developer": "CM7/MIUI Modems",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/906/4f859ddc4c36aa02540ad2a3857f83b1",
+      "icon": "http://developer.clockworkmod.com/downloads/906/345cd0c4eb6761583217eca857969c4a.png",
       "id": "bohdan.s@gmail.com",
-      "manifest": "http://everyrandom.com/RomManager/manifest.js",
+      "manifest": "http://developer.clockworkmod.com/developer/bohdan.s@gmail.com/manifest",
       "roms": {
+        "vibrantmtd": true,
+        "galaxys": true,
+        "fascinate": true,
+        "captivate": true,
+        "captivatemtd": true,
+        "vibrant": true,
         "galaxysmtd": true
       },
-      "summary": "Modems for ClockworkMod7 and MIUI"
+      "summary": "Modems for ClockworkMod7 and MIUI - OVER 50!"
     },
     {
       "developer": "Br1cK'd",
@@ -770,14 +765,14 @@
     {
       "developer": "RCTeam RCMix",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/1530/5bfa20ea9800d78ef328c49b4151a821",
+      "icon": "http://developer.clockworkmod.com/downloads/1530/f04bed0f7cd255a5a017bf4abacd6884.png",
       "id": "capychimp",
       "manifest": "http://capychimp.dk/rcmix/rcmix.js",
       "roms": {
         "ace": true,
         "pyramid": true
       },
-      "summary": "RCTeam's RCMix HTC SEnse rom, Blazingly good"
+      "summary": "RCTeam's RCMix HTC Sense roms, Blazingly good"
     },
     {
       "developer": "CM7 Stable - till official gets ",
@@ -793,7 +788,7 @@
     {
       "developer": "cstayton",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/546/7489780bf323b88233ae310c1c65a08e.png",
+      "icon": "http://developer.clockworkmod.com/downloads/546/752332ea76c5a6e2f78a69024b39a170",
       "id": "castayton@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/castayton@gmail.com/manifest",
       "roms": {
@@ -887,6 +882,7 @@
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
       "roms": {
         "zeus": "true",
+        "galaxys2att": "true",
         "p999": "true",
         "smb_a1002": "true",
         "anzu": "true",
@@ -935,7 +931,6 @@
         "crespo": "true",
         "encore": "true",
         "galaxys2": "true",
-        "galaxys2att": "true",
         "galaxysmtd": "true",
         "harmony": "true",
         "inc": "true",
@@ -981,6 +976,7 @@
       "icon": "http://koush.kanged.net/cm/test/tdr.png",
       "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
       "roms": {
+        "galaxys2att": "true",
         "p999": "true",
         "smb_a1002": "true",
         "liberty": "true",
@@ -1018,7 +1014,6 @@
         "crespo": "true",
         "encore": "true",
         "galaxys2": "true",
-        "galaxys2att": "true",
         "galaxysmtd": "true",
         "harmony": "true",
         "inc": "true",
@@ -1106,6 +1101,16 @@
       "summary": "The latest stock CyanogenMod 7 Desire (bravo) base ported to HD2 with the minimal amount of changes required.  No custom apps are included.  Visit the ROM's thread @ xda: http://forum.xda-developers.com/showthread.php?t=933951 ."
     },
     {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
+    },
+    {
       "developer": "DrewGaren Roms",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1117,16 +1122,6 @@
         "crespo": true
       },
       "summary": "Custom Roms and Themes for your Device"
-    },
-    {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1459,6 +1454,16 @@
       "summary": "Go Go Go!"
     },
     {
+      "developer": "HyperDroid",
+      "free": "true",
+      "id": "hyperdroid",
+      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
+      "roms": {
+        "leo": "true"
+      },
+      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
+    },
+    {
       "developer": "HyperDroid CM7",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
@@ -1468,16 +1473,6 @@
         "leo": true
       },
       "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
-    },
-    {
-      "developer": "HyperDroid",
-      "free": "true",
-      "id": "hyperdroid",
-      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
-      "roms": {
-        "leo": "true"
-      },
-      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
     },
     {
       "developer": "Ihtfp69",
@@ -1601,6 +1596,17 @@
         "mecha": "true"
       },
       "summary": "Kernels for any ROM by jdlfg"
+    },
+    {
+      "developer": "JD317",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/1541/10ad3cc278ebcf7b21b17b454fe7d9f1",
+      "id": "jdthreeseventeen@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/jdthreeseventeen@gmail.com/manifest",
+      "roms": {
+        "inc": true
+      },
+      "summary": "Random ish"
     },
     {
       "developer": "Baked Snack",
@@ -1878,7 +1884,6 @@
       "roms": {
         "leo": true,
         "p990": true,
-        "vivo": true,
         "vibrantmtd": true,
         "passion": true,
         "galaxys": true,
@@ -1886,7 +1891,6 @@
         "umts_jordan": true,
         "ace": true,
         "captivatemtd": true,
-        "saga": true,
         "inc": true,
         "crespo": true,
         "vision": true,
@@ -1915,11 +1919,11 @@
         "vibrant": true,
         "captivatemtd": true,
         "inc": true,
+        "galaxys2": true,
         "saga": true,
         "crespo": true,
         "vision": true,
         "galaxysmtd": true,
-        "liquid": true,
         "umts_sholes": true
       },
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
@@ -2317,17 +2321,6 @@
       "summary": "Stock ROM with a ton of bloatware removed and some added swag"
     },
     {
-      "developer": "XDA CM7 Nightlies",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/541/91afee5f3ad77376b65aa60038c4979c.png",
-      "id": "tanguy.pruvot@gmail.com",
-      "manifest": "http://tpruvot.free.fr/rm/custom.js",
-      "roms": {
-        "umts_jordan": true
-      },
-      "summary": "XDA CM7 Original Nightly builds. tpruvot@github"
-    },
-    {
       "developer": "CyanogenMod RC",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
@@ -2337,6 +2330,17 @@
         "umts_jordan": true
       },
       "summary": "Stable but unofficial RC"
+    },
+    {
+      "developer": "XDA CM7 Nightlies",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/541/91afee5f3ad77376b65aa60038c4979c.png",
+      "id": "tanguy.pruvot@gmail.com",
+      "manifest": "http://tpruvot.free.fr/rm/custom.js",
+      "roms": {
+        "umts_jordan": true
+      },
+      "summary": "XDA CM7 Original Nightly builds. tpruvot@github"
     },
     {
       "developer": "MyUI",

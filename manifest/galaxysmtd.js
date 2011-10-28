@@ -10,10 +10,10 @@
     {
       "developer": "CM7/MIUI Modems",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/906/4f859ddc4c36aa02540ad2a3857f83b1",
+      "icon": "http://developer.clockworkmod.com/downloads/906/345cd0c4eb6761583217eca857969c4a.png",
       "id": "bohdan.s@gmail.com",
-      "manifest": "http://everyrandom.com/RomManager/manifest.js",
-      "summary": "Modems for ClockworkMod7 and MIUI"
+      "manifest": "http://developer.clockworkmod.com/developer/bohdan.s@gmail.com/manifest",
+      "summary": "Modems for ClockworkMod7 and MIUI - OVER 50!"
     },
     {
       "developer": "Cerberus",

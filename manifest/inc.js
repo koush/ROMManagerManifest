@@ -80,6 +80,14 @@
       "summary": "SkyRaider ROMs and goodies"
     },
     {
+      "developer": "JD317",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/1541/10ad3cc278ebcf7b21b17b454fe7d9f1",
+      "id": "jdthreeseventeen@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/jdthreeseventeen@gmail.com/manifest",
+      "summary": "Random ish"
+    },
+    {
       "developer": "Savaged-Zen",
       "free": "true",
       "id": "jsseidel1",

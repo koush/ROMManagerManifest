@@ -1,14 +1,6 @@
 {
   "manifests": [
     {
-      "developer": "teamhacksung",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/5/e37442e1c9d8f4dde5ceb57f51967029.png",
-      "id": "atinm",
-      "manifest": "http://developer.clockworkmod.com/developer/atinm/manifest",
-      "summary": "CyanogenMod 7 for SGS"
-    },
-    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",
@@ -31,6 +23,13 @@
       "icon": "http://koush.kanged.net/cm/test/cm2.png",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
       "summary": "Mods and bacon for your phone"
+    },
+    {
+      "developer": "CyanogenMod Nightlies",
+      "id": "cyanogenmodnightly",
+      "icon": "http://koush.kanged.net/cm/test/tdr.png",
+      "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
+      "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
     {
       "developer": "Google Apps",

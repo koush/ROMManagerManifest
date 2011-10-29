@@ -1,14 +1,6 @@
 {
   "manifests": [
     {
-      "developer": "CM7/MIUI Modems",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/906/345cd0c4eb6761583217eca857969c4a.png",
-      "id": "bohdan.s@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/bohdan.s@gmail.com/manifest",
-      "summary": "Modems for ClockworkMod7 and MIUI - OVER 50!"
-    },
-    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",
@@ -49,7 +41,7 @@
     },
     {
       "developer": "Infinitybiff",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/653/7dc90deb235d7f8e522085e09fad294a.png",
       "id": "infinitybiff@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/infinitybiff@gmail.com/manifest",
@@ -57,7 +49,7 @@
     },
     {
       "developer": "ROM FASTY",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/621/fb4f7286249636542a1b0a5cdf8d3e6b.png",
       "id": "lostlogic01@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/lostlogic01@gmail.com/manifest",
@@ -65,7 +57,7 @@
     },
     {
       "developer": "Rom Fasty II",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/725/85d1624ec2c402064b2db693cd224cd0.png",
       "id": "lostlogicaa@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/lostlogicaa@gmail.com/manifest",
@@ -97,7 +89,7 @@
     },
     {
       "developer": "EnYo",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/633/e8973d34d142398f1d86f8c3ef789a8e.jpg",
       "id": "rfvbnji91@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/rfvbnji91@gmail.com/manifest",

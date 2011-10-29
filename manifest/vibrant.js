@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "Team Whiskey",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/217/1f014e3a34997c82b915902c05ba2005.png",
       "id": "Krylon360",
       "manifest": "http://developer.clockworkmod.com/developer/Krylon360/manifest",
@@ -18,23 +18,15 @@
     },
     {
       "developer": "Whitehawkx",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/673/7898d96c27f948a4e170d89dbe77121e.jpg",
       "id": "Whitehawkx",
       "manifest": "http://developer.clockworkmod.com/developer/Whitehawkx/manifest",
       "summary": "Roms for the LG G2x, Samsung Vibrant and SGS4G"
     },
     {
-      "developer": "CM7/MIUI Modems",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/906/345cd0c4eb6761583217eca857969c4a.png",
-      "id": "bohdan.s@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/bohdan.s@gmail.com/manifest",
-      "summary": "Modems for ClockworkMod7 and MIUI - OVER 50!"
-    },
-    {
       "developer": "Br1cK'd",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/288/75bcc580df6cb4e59690993fcb904ecc.jpg",
       "id": "bossdj523@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/bossdj523@gmail.com/manifest",
@@ -82,7 +74,7 @@
     },
     {
       "developer": "phiremod",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/234/49168358de7756efa2aab68b0a3919d6.jpg",
       "id": "phiredrop",
       "manifest": "http://developer.clockworkmod.com/developer/phiredrop/manifest",

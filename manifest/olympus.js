@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "Navalynt Roms (3.14 Series)",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/596/5a7d89b16d54be204e888a7f5e5ed390.png",
       "id": "Navalynt",
       "manifest": "http://developer.clockworkmod.com/developer/Navalynt/manifest",
@@ -10,14 +10,14 @@
     },
     {
       "developer": "aefreshkid97@gmail.com",
-      "free": true,
+      "free": false,
       "id": "aefreshkid97@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/aefreshkid97@gmail.com/manifest",
       "summary": "aefreshkid97@gmail.com"
     },
     {
       "developer": "Ali Almahdi",
-      "free": true,
+      "free": false,
       "id": "ali.almahdi",
       "manifest": "http://developer.clockworkmod.com/developer/ali.almahdi/manifest",
       "summary": "ali.almahdi@gmail.com"
@@ -40,7 +40,7 @@
     },
     {
       "developer": "Diviance",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/591/bb41cb6540f79fe9208a84a04af56bfe.png",
       "id": "diviance@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/diviance@gmail.com/manifest",
@@ -56,7 +56,7 @@
     },
     {
       "developer": "SamCripp",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/550/6d520d99859e134dd32cd4132a8ac3d5.png",
       "id": "samuel.r.rivera@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/samuel.r.rivera@gmail.com/manifest",

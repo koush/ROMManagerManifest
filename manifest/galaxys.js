@@ -2,19 +2,11 @@
   "manifests": [
     {
       "developer": "MIUI.hu",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/722/6c020836957e6d84eaf0e747197e935a.png",
       "id": "MIUI.hu",
       "manifest": "http://developer.clockworkmod.com/developer/MIUI.hu/manifest",
       "summary": "MIUI magyar lokalizációja | miui.hu @ 2011"
-    },
-    {
-      "developer": "CM7/MIUI Modems",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/906/345cd0c4eb6761583217eca857969c4a.png",
-      "id": "bohdan.s@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/bohdan.s@gmail.com/manifest",
-      "summary": "Modems for ClockworkMod7 and MIUI - OVER 50!"
     },
     {
       "developer": "Cerberus",
@@ -34,14 +26,14 @@
     },
     {
       "developer": "coldflid@gmail.com",
-      "free": true,
+      "free": false,
       "id": "coldflid",
       "manifest": "http://developer.clockworkmod.com/developer/coldflid/manifest",
       "summary": "coldflid@gmail.com"
     },
     {
       "developer": "DarkyROM",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/124/e975fb9db2047ee42b84d4d65f612fcd.png",
       "id": "darkyy92@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/darkyy92@gmail.com/manifest",

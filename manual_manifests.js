@@ -43,6 +43,7 @@
         "dream": "true",
         "bravoc": "true",
         "sapphire": "true",
+        "olympus": "true",
         "one": "true",
         "mecha": "true",
         "mesmerizemtd": "true",

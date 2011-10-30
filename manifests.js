@@ -936,6 +936,7 @@
         "droid2we": "true",
         "heroc": "true",
         "z71": "true",
+        "olympus": "true",
         "showcasemtd": "true",
         "smb_a1011": "true",
         "zero": "true",

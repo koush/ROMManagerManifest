@@ -936,7 +936,6 @@
         "droid2we": "true",
         "heroc": "true",
         "z71": "true",
-        "olympus": "true",
         "showcasemtd": "true",
         "smb_a1011": "true",
         "zero": "true",
@@ -1018,6 +1017,7 @@
         "vision": "true",
         "heroc": "true",
         "z71": "true",
+        "olympus": "true",
         "zero": "true"
       },
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."

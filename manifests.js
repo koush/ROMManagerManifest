@@ -1,17 +1,6 @@
 {
   "manifests": [
     {
-      "developer": "2fastroms ",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/245/7d87d0d7adc75505b50d5740addefac3.png",
-      "id": "2fastroms",
-      "manifest": "http://www.2fastroms.com/rommanger/manual_manifest.js",
-      "roms": {
-        "bravoc": true
-      },
-      "summary": "Your #1 spot for all your rom needs."
-    },
-    {
       "developer": "ACS",
       "free": "true",
       "id": "ACS",
@@ -389,6 +378,18 @@
       "summary": "Custom CyanogenMod builds by RevNumbers for the Droid2 DroidX and Droid2 Global"
     },
     {
+      "developer": "Runnymede",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/1597/7d3bb4104184dfb8a9f6ade7288ffc30.jpg",
+      "id": "Runnymede",
+      "manifest": "http://foxbrew.org/android/runny/runny.js",
+      "roms": {
+        "bravo": true,
+        "bravoc": true
+      },
+      "summary": "kilianvonpflugk@googlemail.com"
+    },
+    {
       "developer": "Complete Android Experience ",
       "free": false,
       "id": "SamSamoon",
@@ -733,6 +734,18 @@
         "crespo": true
       },
       "summary": "Stable AOSP-based ROM"
+    },
+    {
+      "developer": "CM7/MIUI Modems",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/906/345cd0c4eb6761583217eca857969c4a.png",
+      "id": "bohdan.s@gmail.com",
+      "manifest": "http://everyrandom.com/RomManager/manifest.js",
+      "roms": {
+        "galaxys": true,
+        "galaxysmtd": true
+      },
+      "summary": "Modems for ClockworkMod7 and MIUI - OVER 50!"
     },
     {
       "developer": "Br1cK'd",
@@ -1437,16 +1450,6 @@
       "summary": "Go Go Go!"
     },
     {
-      "developer": "HyperDroid",
-      "free": "true",
-      "id": "hyperdroid",
-      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
-      "roms": {
-        "leo": "true"
-      },
-      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
-    },
-    {
       "developer": "HyperDroid CM7",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
@@ -1456,6 +1459,16 @@
         "leo": true
       },
       "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
+    },
+    {
+      "developer": "HyperDroid",
+      "free": "true",
+      "id": "hyperdroid",
+      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
+      "roms": {
+        "leo": "true"
+      },
+      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
     },
     {
       "developer": "Ihtfp69",
@@ -2304,17 +2317,6 @@
       "summary": "Stock ROM with a ton of bloatware removed and some added swag"
     },
     {
-      "developer": "XDA CM7 Nightlies",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/541/91afee5f3ad77376b65aa60038c4979c.png",
-      "id": "tanguy.pruvot@gmail.com",
-      "manifest": "http://tpruvot.free.fr/rm/custom.js",
-      "roms": {
-        "umts_jordan": true
-      },
-      "summary": "XDA CM7 Original Nightly builds. tpruvot@github"
-    },
-    {
       "developer": "CyanogenMod RC",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
@@ -2324,6 +2326,17 @@
         "umts_jordan": true
       },
       "summary": "Stable but unofficial RC"
+    },
+    {
+      "developer": "XDA CM7 Nightlies",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/541/91afee5f3ad77376b65aa60038c4979c.png",
+      "id": "tanguy.pruvot@gmail.com",
+      "manifest": "http://tpruvot.free.fr/rm/custom.js",
+      "roms": {
+        "umts_jordan": true
+      },
+      "summary": "XDA CM7 Original Nightly builds. tpruvot@github"
     },
     {
       "developer": "MyUI",

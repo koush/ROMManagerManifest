@@ -16,6 +16,14 @@
       "summary": "LeeDrOiD Sense roms & Kernels"
     },
     {
+      "developer": "Runnymede",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/1597/7d3bb4104184dfb8a9f6ade7288ffc30.jpg",
+      "id": "Runnymede",
+      "manifest": "http://foxbrew.org/android/runny/runny.js",
+      "summary": "kilianvonpflugk@googlemail.com"
+    },
+    {
       "developer": "Oxygen",
       "free": "true",
       "id": "adamg",

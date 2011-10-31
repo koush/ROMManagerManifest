@@ -20,8 +20,8 @@
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1597/7d3bb4104184dfb8a9f6ade7288ffc30.jpg",
       "id": "Runnymede",
-      "manifest": "http://foxbrew.org/android/runny/runny.js",
-      "summary": "kilianvonpflugk@googlemail.com"
+      "manifest": "http://runnymede.googlecode.com/files/runny.js",
+      "summary": "HTC Runnymede / Android 2.3.5 / Sensation sense 3.5"
     },
     {
       "developer": "Oxygen",
@@ -118,7 +118,7 @@
     },
     {
       "developer": "roalex",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/107/236f3ca6074ca5d999aef037aae94244.png",
       "id": "roalex-bravo",
       "manifest": "http://developer.clockworkmod.com/developer/roalex-bravo/manifest",

@@ -40,8 +40,8 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
-      "developer": "jbbandos",
-      "free": false,
+      "developer": "QND",
+      "free": true,
       "id": "jbbandos",
       "manifest": "http://developer.clockworkmod.com/developer/jbbandos/manifest",
       "summary": "Multi-language MIUI ROMs. No theme change, 3G, bluetooth and other tunings. Lean and fast."

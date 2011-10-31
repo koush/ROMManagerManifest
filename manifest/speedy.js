@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "SparksCo",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/293/cf525bafa8894bfea108d2e1387e6e52.png",
       "id": "SparksCo",
       "manifest": "http://developer.clockworkmod.com/developer/SparksCo/manifest",

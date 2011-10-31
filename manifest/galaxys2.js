@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "MIUI.hu",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/722/6c020836957e6d84eaf0e747197e935a.png",
       "id": "MIUI.hu",
       "manifest": "http://developer.clockworkmod.com/developer/MIUI.hu/manifest",
@@ -65,7 +65,7 @@
     },
     {
       "developer": "Novek",
-      "free": false,
+      "free": true,
       "id": "trondkevin@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/trondkevin@gmail.com/manifest",
       "summary": "Happy XDA'er"

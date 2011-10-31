@@ -26,7 +26,7 @@
     },
     {
       "developer": "psyke83",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/698/37b4cd4edb1221d85e2e477eaf052be2",
       "id": "psyke83",
       "manifest": "http://developer.clockworkmod.com/developer/psyke83/manifest",

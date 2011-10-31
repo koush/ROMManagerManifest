@@ -1,8 +1,16 @@
 {
   "manifests": [
     {
+      "developer": "2fastroms ",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/245/7d87d0d7adc75505b50d5740addefac3.png",
+      "id": "2fastroms",
+      "manifest": "http://www.2fastroms.com/rommanger/manual_manifest.js",
+      "summary": "Your #1 spot for all your rom needs."
+    },
+    {
       "developer": "MIUI",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/223/4b9a814afaba733a6d3b4a47f29436de.png",
       "id": "MIUI Dev",
       "manifest": "http://developer.clockworkmod.com/developer/MIUI Dev/manifest",
@@ -13,8 +21,8 @@
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1597/7d3bb4104184dfb8a9f6ade7288ffc30.jpg",
       "id": "Runnymede",
-      "manifest": "http://foxbrew.org/android/runny/runny.js",
-      "summary": "kilianvonpflugk@googlemail.com"
+      "manifest": "http://runnymede.googlecode.com/files/runny.js",
+      "summary": "HTC Runnymede / Android 2.3.5 / Sensation sense 3.5"
     },
     {
       "developer": "Oxygen",

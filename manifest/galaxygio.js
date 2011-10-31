@@ -26,7 +26,7 @@
     },
     {
       "developer": "ZimniY",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/857/795f625d921899cffd0feb5692672e76.jpg",
       "id": "zimniy",
       "manifest": "http://developer.clockworkmod.com/developer/zimniy/manifest",

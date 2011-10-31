@@ -80,7 +80,7 @@
     },
     {
       "developer": "Cubed ROMs",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/66/24fcf796e1e1fc870f868d35e7cf0207.png",
       "id": "dsb9938",
       "manifest": "http://developer.clockworkmod.com/developer/dsb9938/manifest",
@@ -112,7 +112,7 @@
     },
     {
       "developer": "jdkoreclipse",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/755/1d19a0748e940de5226e9a428d005769.jpg",
       "id": "jdkoreclipse",
       "manifest": "http://developer.clockworkmod.com/developer/jdkoreclipse/manifest",
@@ -127,7 +127,7 @@
     },
     {
       "developer": "orkillakilla",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1120/1f6c79eee01e9f180b0691ffb56b140d.png",
       "id": "orkillakilla@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/orkillakilla@gmail.com/manifest",
@@ -143,7 +143,7 @@
     },
     {
       "developer": "Team BAMF ",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/758/327500a0db76efc307c8032ee32ac018.png",
       "id": "waynestrattonjr@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/waynestrattonjr@gmail.com/manifest",

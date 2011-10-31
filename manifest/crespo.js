@@ -10,7 +10,7 @@
     },
     {
       "developer": "MIUI.hu",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/722/6c020836957e6d84eaf0e747197e935a.png",
       "id": "MIUI.hu",
       "manifest": "http://developer.clockworkmod.com/developer/MIUI.hu/manifest",
@@ -65,14 +65,14 @@
     },
     {
       "developer": "djn541@gmail.com",
-      "free": false,
+      "free": true,
       "id": "djn541@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/djn541@gmail.com/manifest",
       "summary": "djn541@gmail.com"
     },
     {
       "developer": "DrewGaren Roms",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
       "id": "drewgaren",
       "manifest": "http://developer.clockworkmod.com/developer/drewgaren/manifest",
@@ -96,7 +96,7 @@
     },
     {
       "developer": "Htcclay",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/307/5076662d1617430aa6ad3f6ad73136aa.jpg",
       "id": "htcclay",
       "manifest": "http://developer.clockworkmod.com/developer/htcclay/manifest",
@@ -104,7 +104,7 @@
     },
     {
       "developer": "NexBreed ROMs",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/150/06f5d36ced5f4795548d594dc9388435.jpg",
       "id": "kaiya215",
       "manifest": "http://developer.clockworkmod.com/developer/kaiya215/manifest",

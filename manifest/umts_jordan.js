@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "MIUI.hu",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/722/6c020836957e6d84eaf0e747197e935a.png",
       "id": "MIUI.hu",
       "manifest": "http://developer.clockworkmod.com/developer/MIUI.hu/manifest",
@@ -58,7 +58,7 @@
     },
     {
       "developer": "CyanogenMod RC",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
       "id": "tanguy.pruvot@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/tanguy.pruvot@gmail.com/manifest",

@@ -91,6 +91,7 @@
       "id": "cyanogenmodnightly",
       "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
       "roms": {
+        "p970": "true",
         "motus": "true",
         "smb_a1002": "true",
         "p999": "true",

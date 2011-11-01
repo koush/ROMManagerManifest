@@ -17,6 +17,14 @@
       "summary": "MIUI magyar lokalizációja | miui.hu @ 2011"
     },
     {
+      "developer": "Nexus S Team Germany",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/962/bc1dbaa7f6a0b08b7e1a2d984c7b0751.gif",
+      "id": "Nexus S Team Germany",
+      "manifest": "http://developer.clockworkmod.com/developer/Nexus S Team Germany/manifest",
+      "summary": "Nexus S Team Germany"
+    },
+    {
       "developer": "Oxygen",
       "free": "true",
       "id": "adamg",

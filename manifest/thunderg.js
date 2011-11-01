@@ -32,6 +32,14 @@
       "summary": "don't forget to patrition your sd card swap 0 ext4 512 or more"
     },
     {
+      "developer": "Tailor-Make Stuffs",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/868/d4b50e3fe5515e3362ed97ef658a65b0.jpg",
+      "id": "febycv@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/febycv@gmail.com/manifest",
+      "summary": "Customizations, Ports & lot of other extra cool stuffs"
+    },
+    {
       "developer": "gianluck95@gmail.com",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/772/aac0961affc58a65b8fda0f455ed6f0a.png",

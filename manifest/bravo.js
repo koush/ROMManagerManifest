@@ -20,7 +20,7 @@
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1597/7d3bb4104184dfb8a9f6ade7288ffc30.jpg",
       "id": "Runnymede",
-      "manifest": "http://runnymede.googlecode.com/files/runny.js",
+      "manifest": "http://foxbrew.org/android/runny.js",
       "summary": "HTC Runnymede / Android 2.3.5 / Sensation sense 3.5"
     },
     {

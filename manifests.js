@@ -324,6 +324,17 @@
       "summary": "Roms, themes, and more!"
     },
     {
+      "developer": "Nexus S Team Germany",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/962/bc1dbaa7f6a0b08b7e1a2d984c7b0751.gif",
+      "id": "Nexus S Team Germany",
+      "manifest": "http://developer.clockworkmod.com/developer/Nexus S Team Germany/manifest",
+      "roms": {
+        "crespo": true
+      },
+      "summary": "Nexus S Team Germany"
+    },
+    {
       "developer": "OMJ",
       "free": "true",
       "id": "OMJ",
@@ -344,16 +355,6 @@
         "inc": true
       },
       "summary": "TSM Pool Party for the Dinc2"
-    },
-    {
-      "developer": "Unofficial CyanogenMod 7 Builds",
-      "free": true,
-      "id": "ProTekk",
-      "manifest": "http://fzservers.com/cmdailies.js",
-      "roms": {
-        "mecha": true
-      },
-      "summary": "Unofficial builds of CyanogenMod 7"
     },
     {
       "developer": "RH_Mod MIUI",
@@ -393,7 +394,7 @@
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1597/7d3bb4104184dfb8a9f6ade7288ffc30.jpg",
       "id": "Runnymede",
-      "manifest": "http://runnymede.googlecode.com/files/runny.js",
+      "manifest": "http://foxbrew.org/android/runny.js",
       "roms": {
         "bravo": true,
         "bravoc": true
@@ -1179,17 +1180,6 @@
       "summary": "Eagleblood Roms Fast/Stable/Clean"
     },
     {
-      "developer": "Salvage-Mod",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "GB source build. Group project."
-    },
-    {
       "developer": "Salvage-Mod Nightlies",
       "free": "true",
       "id": "echo17",
@@ -1199,6 +1189,17 @@
         "supersonic": "true"
       },
       "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
+    },
+    {
+      "developer": "Salvage-Mod",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "GB source build. Group project."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -1279,9 +1280,18 @@
       "id": "febycv@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/febycv@gmail.com/manifest",
       "roms": {
+        "u8800": true,
+        "galaxygio": true,
+        "ideos": true,
+        "u8220": true,
+        "tass": true,
         "a70": true,
+        "thunderg": true,
+        "galaxy5": true,
+        "galaxyace": true,
         "glacier": true,
-        "buzz": true
+        "buzz": true,
+        "z71": true
       },
       "summary": "Customizations, Ports & lot of other extra cool stuffs"
     },
@@ -1463,16 +1473,6 @@
       "summary": "Go Go Go!"
     },
     {
-      "developer": "HyperDroid",
-      "free": "true",
-      "id": "hyperdroid",
-      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
-      "roms": {
-        "leo": "true"
-      },
-      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
-    },
-    {
       "developer": "HyperDroid CM7",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
@@ -1482,6 +1482,16 @@
         "leo": true
       },
       "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
+    },
+    {
+      "developer": "HyperDroid",
+      "free": "true",
+      "id": "hyperdroid",
+      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
+      "roms": {
+        "leo": "true"
+      },
+      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
     },
     {
       "developer": "Ihtfp69",

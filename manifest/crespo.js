@@ -9,14 +9,6 @@
       "summary": "Source Built Gingerbread and Custom Tbolt Roms"
     },
     {
-      "developer": "MIUI.hu",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/722/6c020836957e6d84eaf0e747197e935a.png",
-      "id": "MIUI.hu",
-      "manifest": "http://developer.clockworkmod.com/developer/MIUI.hu/manifest",
-      "summary": "MIUI magyar lokalizációja | miui.hu @ 2011"
-    },
-    {
       "developer": "Nexus S Team Germany",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/962/bc1dbaa7f6a0b08b7e1a2d984c7b0751.gif",

@@ -1,14 +1,6 @@
 {
   "manifests": [
     {
-      "developer": "MIUI.hu",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/722/6c020836957e6d84eaf0e747197e935a.png",
-      "id": "MIUI.hu",
-      "manifest": "http://developer.clockworkmod.com/developer/MIUI.hu/manifest",
-      "summary": "MIUI magyar lokalizációja | miui.hu @ 2011"
-    },
-    {
       "developer": "CM7/MIUI Modems",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/906/345cd0c4eb6761583217eca857969c4a.png",

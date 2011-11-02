@@ -25,14 +25,6 @@
       "summary": "LeeDrOiD Sense roms & Kernels"
     },
     {
-      "developer": "MIUI.hu",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/722/6c020836957e6d84eaf0e747197e935a.png",
-      "id": "MIUI.hu",
-      "manifest": "http://developer.clockworkmod.com/developer/MIUI.hu/manifest",
-      "summary": "MIUI magyar lokalizációja | miui.hu @ 2011"
-    },
-    {
       "developer": "BeatMod",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/808/969df1ceead72b89c48ef2a35a6a2393.png",

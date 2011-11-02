@@ -1,14 +1,6 @@
 {
   "manifests": [
     {
-      "developer": "MIUI.hu",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/722/6c020836957e6d84eaf0e747197e935a.png",
-      "id": "MIUI.hu",
-      "manifest": "http://developer.clockworkmod.com/developer/MIUI.hu/manifest",
-      "summary": "MIUI magyar lokalizációja | miui.hu @ 2011"
-    },
-    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",

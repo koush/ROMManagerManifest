@@ -593,19 +593,6 @@
       "key": "harmony"
     },
     {
-      "name": "Samsung Galaxy Tab - VZW",
-      "version": "3.0.0.0",
-      "init": "init.smdkc110.rc",
-      "readonly_recovery": true,
-      "legacy_versions": [
-        "3.0.0.0",
-        "2.5.1.4",
-        "2.5.1.3",
-        "2.5.1.1"
-      ],
-      "key": "verizon_tab"
-    },
-    {
       "name": "Galaxy Tab - ATT",
       "version": "2.5.1.8",
       "init": "init.smdkc110.rc",
@@ -1393,6 +1380,22 @@
       "init": "init.mooncake.rc",
       "key": "mooncake",
       "lunch": "generic_mooncake-eng"
+    },
+    {
+      "name": "Samsung Galaxy Tab - VZW",
+      "readonly_recovery": true,
+      "version": "5.0.2.7",
+      "init": "init.vzwtab.rc",
+      "key": "vzwtab",
+      "lunch": "full_vzwtab-eng"
+    },
+    {
+      "name": "HTC MyTouch 4G Slide",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ; ",
+      "version": "5.0.2.7",
+      "init": "init.doubleshot.rc",
+      "key": "doubleshot",
+      "lunch": "full_doubleshot-eng"
     }
   ],
   "version": "2.5.0.1",

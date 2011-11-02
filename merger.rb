@@ -13,6 +13,7 @@ threads = []
 free_dudes = { 
   'codeworkx' => true,
   'atinm' => true,
+  'kornyone@gmail.com' => true
 }
 
 for manifest in romshare_manifests['manifests']:

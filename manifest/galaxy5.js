@@ -18,7 +18,7 @@
     },
     {
       "developer": "Tailor-Make Stuffs",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/868/d4b50e3fe5515e3362ed97ef658a65b0.jpg",
       "id": "febycv@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/febycv@gmail.com/manifest",
@@ -34,7 +34,7 @@
     },
     {
       "developer": "psyke83",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/698/37b4cd4edb1221d85e2e477eaf052be2",
       "id": "psyke83",
       "manifest": "http://developer.clockworkmod.com/developer/psyke83/manifest",

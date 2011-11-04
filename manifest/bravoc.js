@@ -10,19 +10,11 @@
     },
     {
       "developer": "MIUI",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/223/4b9a814afaba733a6d3b4a47f29436de.png",
       "id": "MIUI Dev",
       "manifest": "http://developer.clockworkmod.com/developer/MIUI Dev/manifest",
       "summary": "MIUI Uploads from our hardworking Developers"
-    },
-    {
-      "developer": "Runnymede",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/1597/7d3bb4104184dfb8a9f6ade7288ffc30.jpg",
-      "id": "Runnymede",
-      "manifest": "http://foxbrew.org/android/runny.js",
-      "summary": "HTC Runnymede / Android 2.3.5 / Sensation sense 3.5"
     },
     {
       "developer": "Oxygen",

@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "GreenRomProject",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
       "id": "GreenRomProject",
       "manifest": "http://developer.clockworkmod.com/developer/GreenRomProject/manifest",
@@ -10,7 +10,7 @@
     },
     {
       "developer": "OMJ-",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/719/bfbccec41cbac2cba0e62a7f2bbefa2e.png",
       "id": "OMJ-",
       "manifest": "http://developer.clockworkmod.com/developer/OMJ-/manifest",
@@ -81,7 +81,7 @@
     },
     {
       "developer": "JD317",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/1541/10ad3cc278ebcf7b21b17b454fe7d9f1",
       "id": "jdthreeseventeen@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/jdthreeseventeen@gmail.com/manifest",
@@ -111,14 +111,6 @@
       "summary": "The original English MIUI ROM by MIUI Android"
     },
     {
-      "developer": "MIUI-PT",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
-      "id": "miuiportugal",
-      "manifest": "http://www.roms.miui-pt.com/manifest/miuipt.js",
-      "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
-    },
-    {
       "developer": "MIUI.us",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
@@ -144,7 +136,7 @@
     },
     {
       "developer": "winner00",
-      "free": true,
+      "free": false,
       "id": "toverturf@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/toverturf@gmail.com/manifest",
       "summary": "CyanogenMod 7 with few tweaks for better performance on the OG Droid, Incredible, and pulls from gerrit.  "

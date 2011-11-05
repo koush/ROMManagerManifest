@@ -33,6 +33,13 @@
       "summary": "Mods and bacon for your phone"
     },
     {
+      "developer": "CyanogenMod Nightlies",
+      "id": "cyanogenmodnightly",
+      "icon": "http://koush.kanged.net/cm/test/tdr.png",
+      "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
+      "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
+    },
+    {
       "developer": "DJPBX",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/794/e317ca8f3c09678408816cf171108c8e.gif",

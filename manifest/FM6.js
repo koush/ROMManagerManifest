@@ -26,7 +26,7 @@
     },
     {
       "developer": "Flint Fire",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1439/871e124edd94070a1cbb581aa2348962.png",
       "id": "mb-14",
       "manifest": "http://developer.clockworkmod.com/developer/mb-14/manifest",

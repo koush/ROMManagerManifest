@@ -157,7 +157,7 @@
     },
     {
       "developer": "Swagged Out Stock",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/697/40e325c213ebeb2999003d52dc979b2b.png",
       "id": "swagstr",
       "manifest": "http://developer.clockworkmod.com/developer/swagstr/manifest",

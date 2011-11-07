@@ -65,7 +65,7 @@
     },
     {
       "developer": "middlepiller@gmail.com",
-      "free": false,
+      "free": true,
       "id": "middlepiller@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/middlepiller@gmail.com/manifest",
       "summary": "middlepiller@gmail.com"

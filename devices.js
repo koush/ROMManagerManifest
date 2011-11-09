@@ -309,19 +309,6 @@
       "key": "espresso"
     },
     {
-      "name": "Samsung GalaxyS i9000",
-      "version": "2.5.1.2",
-      "readonly_recovery": true,
-      "init": "lpm.rc",
-      "legacy_versions": [
-        "2.5.1.2",
-        "2.5.1.4",
-        "2.5.1.3",
-        "2.5.1.1"
-      ],
-      "key": "galaxys"
-    },
-    {
       "name": "Samsung GalaxyS Fascinate",
       "version": "3.0.0.8",
       "readonly_recovery": true,

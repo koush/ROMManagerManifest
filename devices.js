@@ -772,13 +772,6 @@
       "key": "vibrantmtd"
     },
     {
-      "name": "Samsung GalaxyS i9000 (MTD)",
-      "init": "lpm.rc",
-      "readonly_recovery": true,
-      "officially_supported": false,
-      "key": "galaxysmtd"
-    },
-    {
       "name": "Samsung Captivate (MTD)",
       "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "init": "init.aries.rc",

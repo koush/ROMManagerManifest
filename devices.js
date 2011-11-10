@@ -1405,6 +1405,9 @@
   "recovery_url": "http://download.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.img",
   "recovery_zip_url": "http://download.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.zip",
   "ad_network": "admob",
+  "pontiflex_startup_register": 100,
+  "pontiflex_startup_ad": 100,
+  "pontiflex_downloading": 100,
   "keywords": "phone accessories,droid,gadgets,bluetooth headset,car charger,sd card",
   "manifest_signature": "NpjbRgtJ8oEuTkuFok+Gy5q1lzTvJ+wVSdzMcJA8VD4mdDG45cUc5rOHrMpvmepTDM+9/rcrM5oEzc3zhqedjJkFuway+lo5Xu33ELQafOXDs8VMTuNfjeAH7x8pNXl4UwiH3Ht51kaZBF0KGJHJVuuFUSiIcZkrP8J5yObS1NY="
 }

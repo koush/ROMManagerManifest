@@ -18,7 +18,7 @@
     {
       "developer": "Runnymede",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/1597/7d3bb4104184dfb8a9f6ade7288ffc30.jpg",
+      "icon": "http://developer.clockworkmod.com/downloads/1597/e93ca402fbf70d17aa42ea2cd6f76689.gif",
       "id": "Runnymede",
       "manifest": "http://foxbrew.org/android/runny.js",
       "summary": "HTC Runnymede / Android 2.3.5 / Sensation sense 3.5"
@@ -100,14 +100,6 @@
       "id": "miuiportugal",
       "manifest": "http://www.roms.miui-pt.com/manifest/miuipt.js",
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
-    },
-    {
-      "developer": "MIUI.us",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
-      "id": "miuius",
-      "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
-      "summary": "MIUI English releases by MIUI.us"
     },
     {
       "developer": "RichardTrip - DeFroST",

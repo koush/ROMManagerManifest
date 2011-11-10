@@ -56,14 +56,6 @@
       "summary": "Dark Sense is a Sense based ROM optimized for the EVO 3D.  If you like Sense, try out Dark Sense. "
     },
     {
-      "developer": "MIUI.us",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
-      "id": "miuius",
-      "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
-      "summary": "MIUI English releases by MIUI.us"
-    },
-    {
       "developer": "XDA Roms",
       "free": true,
       "id": "pecord",

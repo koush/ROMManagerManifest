@@ -1,7 +1,7 @@
 {
   "manifests": [
     {
-      "developer": "Omegapsy",
+      "developer": "inferior human organs",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1672/c6744e24b10b0312603d0f837b434a2a.png",
       "id": "Tr13dg3001",

@@ -72,14 +72,6 @@
       "summary": "SkyRaider ROMs and goodies"
     },
     {
-      "developer": "MIUI.us",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
-      "id": "miuius",
-      "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
-      "summary": "MIUI English releases by MIUI.us"
-    },
-    {
       "developer": "nitsuj17",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/747/e5966a7321c516f205558da3956f87bc.png",

@@ -386,7 +386,7 @@
     {
       "developer": "Runnymede",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/1597/7d3bb4104184dfb8a9f6ade7288ffc30.jpg",
+      "icon": "http://developer.clockworkmod.com/downloads/1597/e93ca402fbf70d17aa42ea2cd6f76689.gif",
       "id": "Runnymede",
       "manifest": "http://foxbrew.org/android/runny.js",
       "roms": {
@@ -559,7 +559,7 @@
       "summary": "Ready to run roms..."
     },
     {
-      "developer": "Omegapsy",
+      "developer": "inferior human organs",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1672/c6744e24b10b0312603d0f837b434a2a.png",
       "id": "Tr13dg3001",
@@ -1207,17 +1207,6 @@
       "summary": "Eagleblood Roms Fast/Stable/Clean"
     },
     {
-      "developer": "Salvage-Mod Nightlies",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
-    },
-    {
       "developer": "Salvage-Mod",
       "free": "true",
       "id": "echo17",
@@ -1227,6 +1216,17 @@
         "supersonic": "true"
       },
       "summary": "GB source build. Group project."
+    },
+    {
+      "developer": "Salvage-Mod Nightlies",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -1474,6 +1474,16 @@
         "galaxys": "true"
       },
       "summary": "Some Hamster Love for your phone!"
+    },
+    {
+      "developer": "GingerXTBR",
+      "free": true,
+      "id": "heitorfcastro@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/heitorfcastro@gmail.com/manifest",
+      "roms": {
+        "zeppelin": true
+      },
+      "summary": "Baseada na CyanogenMod 7, com funcionalidades especiais para o Brasil."
     },
     {
       "developer": "Helvio Pedreschi",
@@ -1996,48 +2006,6 @@
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
     },
     {
-      "developer": "MIUI.us",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
-      "id": "miuius",
-      "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
-      "roms": {
-        "leo": true,
-        "u8800": true,
-        "shooter": true,
-        "vivow": true,
-        "shadow": true,
-        "p990": true,
-        "vivo": true,
-        "vibrantmtd": true,
-        "passion": true,
-        "bravo": true,
-        "ace": true,
-        "sholes": true,
-        "fascinatemtd": true,
-        "cdma_droid2we": true,
-        "bravoc": true,
-        "glacier": true,
-        "crespo4g": true,
-        "jordan": true,
-        "captivatemtd": true,
-        "speedy": true,
-        "pyramid": true,
-        "galaxytab": true,
-        "supersonic": true,
-        "saga": true,
-        "inc": true,
-        "encore": true,
-        "vision": true,
-        "galaxysmtd": true,
-        "crespo": true,
-        "showcasemtd": true,
-        "mesmerizemtd": true,
-        "umts_sholes": true
-      },
-      "summary": "MIUI English releases by MIUI.us"
-    },
-    {
       "developer": "meXdroidMod rOmS",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/394/991fd69a0f32e66d8026b35c3a914259.jpg",
@@ -2409,17 +2377,6 @@
       "summary": "Stock ROM with a ton of bloatware removed and some added swag"
     },
     {
-      "developer": "CyanogenMod RC",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
-      "id": "tanguy.pruvot@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/tanguy.pruvot@gmail.com/manifest",
-      "roms": {
-        "umts_jordan": true
-      },
-      "summary": "Stable but unofficial RC"
-    },
-    {
       "developer": "XDA CM7 Nightlies",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/541/91afee5f3ad77376b65aa60038c4979c.png",
@@ -2429,6 +2386,17 @@
         "umts_jordan": true
       },
       "summary": "XDA CM7 Original Nightly builds. tpruvot@github"
+    },
+    {
+      "developer": "CyanogenMod RC",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
+      "id": "tanguy.pruvot@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/tanguy.pruvot@gmail.com/manifest",
+      "roms": {
+        "umts_jordan": true
+      },
+      "summary": "Stable but unofficial RC"
     },
     {
       "developer": "MyUI",

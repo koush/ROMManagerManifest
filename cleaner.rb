@@ -17,7 +17,7 @@ for manifest in manifests:
       myManifest['visible'] = true
     rescue
       begin
-        test = open('http://dirtyjson.deployfu.com?url=' + url).read
+        test = open('http://jsonp.clockworkmod.com/clean?url=' + url).read
         parsed_test = JSON.parse(test)
         myManifest['visible'] = true
         #puts url + ' all good'

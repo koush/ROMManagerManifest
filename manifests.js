@@ -673,6 +673,18 @@
       "summary": "aosp4u@gmail.com"
     },
     {
+      "developer": "iceandfire ",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/13/f9ed41e65204d8e00384a55979b9a343.png",
+      "id": "arhamjamal@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/arhamjamal@gmail.com/manifest",
+      "roms": {
+        "ace": true,
+        "crespo": true
+      },
+      "summary": "Ultimate Rom: Rom based on CM kangs by me. Fast and tweaked for battery life and performance with added features"
+    },
+    {
       "developer": "CWR Unofficial",
       "free": true,
       "id": "arifali1@gmail.com",
@@ -1138,16 +1150,6 @@
       "summary": "The latest stock CyanogenMod 7 Desire (bravo) base ported to HD2 with the minimal amount of changes required.  No custom apps are included.  Visit the ROM's thread @ xda: http://forum.xda-developers.com/showthread.php?t=933951 ."
     },
     {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
-    },
-    {
       "developer": "DrewGaren Roms",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1159,6 +1161,16 @@
         "crespo": true
       },
       "summary": "Custom Roms and Themes for your Device"
+    },
+    {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1207,17 +1219,6 @@
       "summary": "Eagleblood Roms Fast/Stable/Clean"
     },
     {
-      "developer": "Salvage-Mod",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "GB source build. Group project."
-    },
-    {
       "developer": "Salvage-Mod Nightlies",
       "free": "true",
       "id": "echo17",
@@ -1227,6 +1228,17 @@
         "supersonic": "true"
       },
       "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
+    },
+    {
+      "developer": "Salvage-Mod",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "GB source build. Group project."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -2006,6 +2018,48 @@
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
     },
     {
+      "developer": "MIUI.us",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
+      "id": "miuius",
+      "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
+      "roms": {
+        "leo": true,
+        "u8800": true,
+        "shooter": true,
+        "vivow": true,
+        "shadow": true,
+        "p990": true,
+        "vivo": true,
+        "vibrantmtd": true,
+        "passion": true,
+        "bravo": true,
+        "ace": true,
+        "sholes": true,
+        "fascinatemtd": true,
+        "cdma_droid2we": true,
+        "bravoc": true,
+        "glacier": true,
+        "crespo4g": true,
+        "jordan": true,
+        "captivatemtd": true,
+        "speedy": true,
+        "pyramid": true,
+        "galaxytab": true,
+        "supersonic": true,
+        "saga": true,
+        "inc": true,
+        "encore": true,
+        "vision": true,
+        "galaxysmtd": true,
+        "crespo": true,
+        "showcasemtd": true,
+        "mesmerizemtd": true,
+        "umts_sholes": true
+      },
+      "summary": "MIUI English releases by MIUI.us"
+    },
+    {
       "developer": "meXdroidMod rOmS",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/394/991fd69a0f32e66d8026b35c3a914259.jpg",
@@ -2307,7 +2361,7 @@
       "roms": {
         "leo": true
       },
-      "summary": "Seaders stable one, based on LEO 2.3.7 sources, tweaked with tablet-functions, audio/lights/sensor/gps fixes, custom settings and deleted/added/switched apps; incl. newest custom YES/NO recovery. http://bit.ly/nnx6qf for details."
+      "summary": "Seaders stable one, based on LEO 2.3.7 sources, tweaked with tablet-functions, audio/lights/sensor/gps fixes, custom settings and deleted/added/switched apps. http://bit.ly/nnx6qf for details (german)."
     },
     {
       "developer": "Shawe",

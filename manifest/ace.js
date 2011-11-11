@@ -25,6 +25,14 @@
       "summary": "LeeDrOiD Sense roms & Kernels"
     },
     {
+      "developer": "iceandfire ",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/13/f9ed41e65204d8e00384a55979b9a343.png",
+      "id": "arhamjamal@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/arhamjamal@gmail.com/manifest",
+      "summary": "Ultimate Rom: Rom based on CM kangs by me. Fast and tweaked for battery life and performance with added features"
+    },
+    {
       "developer": "BeatMod",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/808/969df1ceead72b89c48ef2a35a6a2393.png",
@@ -110,6 +118,14 @@
       "id": "miuiportugal",
       "manifest": "http://www.roms.miui-pt.com/manifest/miuipt.js",
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
+    },
+    {
+      "developer": "MIUI.us",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
+      "id": "miuius",
+      "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
+      "summary": "MIUI English releases by MIUI.us"
     },
     {
       "developer": "pirateghost",

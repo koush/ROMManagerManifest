@@ -33,7 +33,7 @@
     },
     {
       "developer": "TheDub",
-      "free": true,
+      "free": false,
       "id": "thedubmail@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/thedubmail@gmail.com/manifest",
       "summary": "thedubmail@gmail.com"

@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "HardDroid2",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/438/21a895f66fddad535cf84ed37ccb425c.JPG",
       "id": "DeanoSoft_UK",
       "manifest": "http://developer.clockworkmod.com/developer/DeanoSoft_UK/manifest",
@@ -41,7 +41,7 @@
     },
     {
       "developer": "TyphooN CyanogenMod",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/146/24fb59de6489c544c6fd683b6a43e491.png",
       "id": "do-not-use-cyanogenmod-nightly",
       "manifest": "http://developer.clockworkmod.com/developer/do-not-use-cyanogenmod-nightly/manifest",
@@ -56,19 +56,19 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
-      "developer": "HyperDroid",
-      "free": "true",
-      "id": "hyperdroid",
-      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
-      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
-    },
-    {
       "developer": "HyperDroid CM7",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
       "id": "hyperdroid",
       "manifest": "http://sntclan.de/manifest.js",
       "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
+    },
+    {
+      "developer": "HyperDroid",
+      "free": "true",
+      "id": "hyperdroid",
+      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
+      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
     },
     {
       "developer": "MIUI Android",

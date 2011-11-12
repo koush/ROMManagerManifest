@@ -33,7 +33,7 @@
     },
     {
       "developer": "Dalingrin's Test Builds",
-      "free": true,
+      "free": false,
       "id": "ehardesty@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/ehardesty@gmail.com/manifest",
       "summary": "CM7 test builds"
@@ -56,7 +56,7 @@
     },
     {
       "developer": "phiremod",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/234/49168358de7756efa2aab68b0a3919d6.jpg",
       "id": "phiredrop",
       "manifest": "http://developer.clockworkmod.com/developer/phiredrop/manifest",

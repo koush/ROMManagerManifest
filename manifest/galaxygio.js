@@ -18,7 +18,7 @@
     },
     {
       "developer": "Tailor-Make Stuffs",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/868/d4b50e3fe5515e3362ed97ef658a65b0.jpg",
       "id": "febycv@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/febycv@gmail.com/manifest",
@@ -31,14 +31,6 @@
       "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
-    },
-    {
-      "developer": "ZimniY",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/857/795f625d921899cffd0feb5692672e76.jpg",
-      "id": "zimniy",
-      "manifest": "http://developer.clockworkmod.com/developer/zimniy/manifest",
-      "summary": ">_<"
     }
   ],
   "minversion": "4403"

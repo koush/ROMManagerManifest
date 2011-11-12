@@ -1,8 +1,15 @@
 {
   "manifests": [
     {
+      "developer": "CrashV2010",
+      "free": false,
+      "id": "CrashV2010",
+      "manifest": "http://developer.clockworkmod.com/developer/CrashV2010/manifest",
+      "summary": "CrashV2010 Gapps"
+    },
+    {
       "developer": "SparksCo",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/293/cf525bafa8894bfea108d2e1387e6e52.png",
       "id": "SparksCo",
       "manifest": "http://developer.clockworkmod.com/developer/SparksCo/manifest",
@@ -45,6 +52,14 @@
       "icon": "http://koush.kanged.net/cm/test/tdr.png",
       "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
+    },
+    {
+      "developer": "Dread 7us",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/1929/0151bdcc239801272b88a5df9277a340.gif",
+      "id": "dread7us@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/dread7us@gmail.com/manifest",
+      "summary": "Cyclonic AOSP ROM"
     },
     {
       "developer": "Google Apps",

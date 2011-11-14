@@ -10,15 +10,23 @@
     },
     {
       "developer": "OMJ-",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/719/bfbccec41cbac2cba0e62a7f2bbefa2e.png",
       "id": "OMJ-",
       "manifest": "http://developer.clockworkmod.com/developer/OMJ-/manifest",
       "summary": "TSM Pool Party for the Dinc2"
     },
     {
+      "developer": "RCTeam RCMix",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/1530/f04bed0f7cd255a5a017bf4abacd6884.png",
+      "id": "capychimp",
+      "manifest": "http://capychimp.dk/rcmix/rcmix.js",
+      "summary": "RCTeam's RCMix HTC Sense roms, Blazingly good"
+    },
+    {
       "developer": "CM7 Stable - till official gets ",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/93/fb68f8d3119ee8d21da6627c4db8540c",
       "id": "carsten.dressler@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/carsten.dressler@gmail.com/manifest",
@@ -81,7 +89,7 @@
     },
     {
       "developer": "nitsuj17",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/747/e5966a7321c516f205558da3956f87bc.png",
       "id": "nitsuj17@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/nitsuj17@gmail.com/manifest",

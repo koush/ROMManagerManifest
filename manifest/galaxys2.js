@@ -56,8 +56,16 @@
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
     },
     {
+      "developer": "MIUI.us",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
+      "id": "miuius",
+      "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
+      "summary": "MIUI English releases by MIUI.us"
+    },
+    {
       "developer": "KingDroid Roms",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1661/61448b7570fbdc37194dbad240f4aa94.png",
       "id": "pedrokingpc@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/pedrokingpc@gmail.com/manifest",
@@ -65,7 +73,7 @@
     },
     {
       "developer": "Novek",
-      "free": false,
+      "free": true,
       "id": "trondkevin@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/trondkevin@gmail.com/manifest",
       "summary": "Happy XDA'er"

@@ -9,6 +9,14 @@
       "summary": "BeatMod Rom for your HTC Device"
     },
     {
+      "developer": "RCTeam RCMix",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/1530/f04bed0f7cd255a5a017bf4abacd6884.png",
+      "id": "capychimp",
+      "manifest": "http://capychimp.dk/rcmix/rcmix.js",
+      "summary": "RCTeam's RCMix HTC Sense roms, Blazingly good"
+    },
+    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",
@@ -41,7 +49,7 @@
     },
     {
       "developer": "DJPBX",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/794/e317ca8f3c09678408816cf171108c8e.gif",
       "id": "djpbx",
       "manifest": "http://developer.clockworkmod.com/developer/djpbx/manifest",

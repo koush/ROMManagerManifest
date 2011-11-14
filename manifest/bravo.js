@@ -78,14 +78,6 @@
       "summary": "Stable HTC Desire / Bravo ROMs with the latest addons and patches"
     },
     {
-      "developer": "Solstice",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/530/d45f727409f37121864a24391106b1f0.png",
-      "id": "laszlo.david@gmail.com",
-      "manifest": "http://solsticerom.github.com/ROMManagerManifest/manifest.js",
-      "summary": "Simple AOSP ROM"
-    },
-    {
       "developer": "MIUI Android",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
@@ -118,7 +110,7 @@
     },
     {
       "developer": "roalex",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/107/236f3ca6074ca5d999aef037aae94244.png",
       "id": "roalex-bravo",
       "manifest": "http://developer.clockworkmod.com/developer/roalex-bravo/manifest",

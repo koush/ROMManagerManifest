@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+      "developer": "RCTeam RCMix",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/1530/f04bed0f7cd255a5a017bf4abacd6884.png",
+      "id": "capychimp",
+      "manifest": "http://capychimp.dk/rcmix/rcmix.js",
+      "summary": "RCTeam's RCMix HTC Sense roms, Blazingly good"
+    },
+    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",

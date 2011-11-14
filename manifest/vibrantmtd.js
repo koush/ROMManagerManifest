@@ -32,14 +32,6 @@
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
     {
-      "developer": "Einherjar Dev",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/25/31d8c04d2622249a93100ffc1ed40a17.png",
-      "id": "einherjar",
-      "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
-      "summary": "ROMs, with a side of metal."
-    },
-    {
       "developer": "Google Apps",
       "free": "true",
       "id": "google",
@@ -49,7 +41,7 @@
     },
     {
       "developer": "Htcclay",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/307/5076662d1617430aa6ad3f6ad73136aa.jpg",
       "id": "htcclay",
       "manifest": "http://developer.clockworkmod.com/developer/htcclay/manifest",
@@ -57,7 +49,7 @@
     },
     {
       "developer": "Infinitybiff",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/653/7dc90deb235d7f8e522085e09fad294a.png",
       "id": "infinitybiff@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/infinitybiff@gmail.com/manifest",
@@ -89,7 +81,7 @@
     },
     {
       "developer": "NoFrills-AOSP",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/636/7ab5b3bc307d3a3bf5e42ec2b09a234f.png",
       "id": "nofrills",
       "manifest": "http://developer.clockworkmod.com/developer/nofrills/manifest",
@@ -97,7 +89,7 @@
     },
     {
       "developer": "phiremod",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/234/49168358de7756efa2aab68b0a3919d6.jpg",
       "id": "phiredrop",
       "manifest": "http://developer.clockworkmod.com/developer/phiredrop/manifest",
@@ -105,7 +97,7 @@
     },
     {
       "developer": "EnYo",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/633/e8973d34d142398f1d86f8c3ef789a8e.jpg",
       "id": "rfvbnji91@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/rfvbnji91@gmail.com/manifest",

@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "Team Whiskey",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/217/1f014e3a34997c82b915902c05ba2005.png",
       "id": "Krylon360",
       "manifest": "http://developer.clockworkmod.com/developer/Krylon360/manifest",
@@ -18,7 +18,7 @@
     },
     {
       "developer": "Whitehawkx",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/673/7898d96c27f948a4e170d89dbe77121e.jpg",
       "id": "Whitehawkx",
       "manifest": "http://developer.clockworkmod.com/developer/Whitehawkx/manifest",
@@ -26,7 +26,7 @@
     },
     {
       "developer": "Br1cK'd",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/288/75bcc580df6cb4e59690993fcb904ecc.jpg",
       "id": "bossdj523@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/bossdj523@gmail.com/manifest",
@@ -49,14 +49,6 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "Einherjar Dev",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/25/31d8c04d2622249a93100ffc1ed40a17.png",
-      "id": "einherjar",
-      "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
-      "summary": "ROMs, with a side of metal."
-    },
-    {
       "developer": "Google Apps",
       "free": "true",
       "id": "google",
@@ -74,7 +66,7 @@
     },
     {
       "developer": "phiremod",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/234/49168358de7756efa2aab68b0a3919d6.jpg",
       "id": "phiredrop",
       "manifest": "http://developer.clockworkmod.com/developer/phiredrop/manifest",

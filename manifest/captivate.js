@@ -18,7 +18,7 @@
     },
     {
       "developer": "Tailor-Make Stuffs",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/868/d4b50e3fe5515e3362ed97ef658a65b0.jpg",
       "id": "febycv@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/febycv@gmail.com/manifest",
@@ -34,7 +34,7 @@
     },
     {
       "developer": "ROM FASTY",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/621/fb4f7286249636542a1b0a5cdf8d3e6b.png",
       "id": "lostlogic01@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/lostlogic01@gmail.com/manifest",
@@ -42,7 +42,7 @@
     },
     {
       "developer": "Rom Fasty II",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/725/85d1624ec2c402064b2db693cd224cd0.png",
       "id": "lostlogicaa@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/lostlogicaa@gmail.com/manifest",

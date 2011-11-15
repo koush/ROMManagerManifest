@@ -1165,6 +1165,16 @@
       "summary": "Cyclonic AOSP ROM"
     },
     {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
+    },
+    {
       "developer": "DrewGaren Roms",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1176,16 +1186,6 @@
         "crespo": true
       },
       "summary": "Custom Roms and Themes for your Device"
-    },
-    {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1264,6 +1264,20 @@
         "encore": true
       },
       "summary": "CM7 test builds"
+    },
+    {
+      "developer": "Einherjar Dev",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/25/31d8c04d2622249a93100ffc1ed40a17.png",
+      "id": "einherjar",
+      "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
+      "roms": {
+        "p999": true,
+        "vibrantmtd": true,
+        "vibrant": true,
+        "pyramid": true
+      },
+      "summary": "ROMs, with a side of metal."
     },
     {
       "developer": "E-XtremeMod",
@@ -1487,6 +1501,17 @@
         "galaxys": "true"
       },
       "summary": "Some Hamster Love for your phone!"
+    },
+    {
+      "developer": "GingerXTBR",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/1879/e3328f776291f8c2e7b618f90bdd7b96.jpg",
+      "id": "heitorfcastro@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/heitorfcastro@gmail.com/manifest",
+      "roms": {
+        "zeppelin": true
+      },
+      "summary": "Baseada na CyanogenMod 7, com funcionalidades especiais para o Brasil."
     },
     {
       "developer": "Helvio Pedreschi",
@@ -1832,6 +1857,17 @@
       "summary": "Great themes and more :)"
     },
     {
+      "developer": "Solstice",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/530/d45f727409f37121864a24391106b1f0.png",
+      "id": "laszlo.david@gmail.com",
+      "manifest": "http://solsticerom.github.com/ROMManagerManifest/manifest.js",
+      "roms": {
+        "bravo": true
+      },
+      "summary": "Simple AOSP ROM"
+    },
+    {
       "developer": "Conical Roms",
       "free": "true",
       "id": "linuxmotion",
@@ -1897,6 +1933,18 @@
         "sholes": true
       },
       "summary": "Miui.us Ports for Droid"
+    },
+    {
+      "developer": "mathkid95",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/1992/7fe1b96f6d5747b17e3b7bb4ce165219.gif",
+      "id": "mathkid95",
+      "manifest": "http://developer.clockworkmod.com/developer/mathkid95/manifest",
+      "roms": {
+        "crespo4g": true,
+        "crespo": true
+      },
+      "summary": "mathkid95@gmail.com"
     },
     {
       "developer": "MaxDamage",

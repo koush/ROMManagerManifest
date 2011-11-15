@@ -119,6 +119,14 @@
       "summary": "fastest gingerbread roms available for the nexus s."
     },
     {
+      "developer": "mathkid95",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/1992/7fe1b96f6d5747b17e3b7bb4ce165219.gif",
+      "id": "mathkid95",
+      "manifest": "http://developer.clockworkmod.com/developer/mathkid95/manifest",
+      "summary": "mathkid95@gmail.com"
+    },
+    {
       "developer": "MIUI Android",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",

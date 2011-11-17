@@ -5,7 +5,7 @@
       "free": true,
       "id": "CrashV2010",
       "manifest": "http://developer.clockworkmod.com/developer/CrashV2010/manifest",
-      "summary": "CrashV2010 Gapps"
+      "summary": "Gapps Latest 11/15/2011"
     },
     {
       "developer": "SparksCo",

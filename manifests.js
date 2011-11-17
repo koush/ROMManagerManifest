@@ -92,7 +92,7 @@
       "roms": {
         "speedy": true
       },
-      "summary": "CrashV2010 Gapps"
+      "summary": "Gapps Latest 11/15/2011"
     },
     {
       "developer": "Crypt0night",
@@ -1234,17 +1234,6 @@
       "summary": "Eagleblood Roms Fast/Stable/Clean"
     },
     {
-      "developer": "Salvage-Mod",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "GB source build. Group project."
-    },
-    {
       "developer": "Salvage-Mod Nightlies",
       "free": "true",
       "id": "echo17",
@@ -1254,6 +1243,17 @@
         "supersonic": "true"
       },
       "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
+    },
+    {
+      "developer": "Salvage-Mod",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "GB source build. Group project."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -1503,15 +1503,15 @@
       "summary": "Some Hamster Love for your phone!"
     },
     {
-      "developer": "GingerXTBR",
+      "developer": "Hashcode",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/1879/e3328f776291f8c2e7b618f90bdd7b96.jpg",
-      "id": "heitorfcastro@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/heitorfcastro@gmail.com/manifest",
+      "icon": "http://developer.clockworkmod.com/downloads/2033/0725544534d62f1b66943a7808e4acde.png",
+      "id": "hashcode0f@gmail.com",
+      "manifest": "http://www.hash-of-codes.com/files/rommanager/manifest.js",
       "roms": {
-        "zeppelin": true
+        "solana": true
       },
-      "summary": "Baseada na CyanogenMod 7, com funcionalidades especiais para o Brasil."
+      "summary": "Making cool things for phones"
     },
     {
       "developer": "Helvio Pedreschi",
@@ -1539,16 +1539,6 @@
       "summary": "Go Go Go!"
     },
     {
-      "developer": "HyperDroid",
-      "free": "true",
-      "id": "hyperdroid",
-      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
-      "roms": {
-        "leo": "true"
-      },
-      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
-    },
-    {
       "developer": "HyperDroid CM7",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
@@ -1558,6 +1548,16 @@
         "leo": true
       },
       "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
+    },
+    {
+      "developer": "HyperDroid",
+      "free": "true",
+      "id": "hyperdroid",
+      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
+      "roms": {
+        "leo": "true"
+      },
+      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
     },
     {
       "developer": "Ihtfp69",
@@ -1971,7 +1971,7 @@
       "summary": "By maxdamage2122 Unmodified Cyanogenmod nightly kangs for the Viewsonic GTablet"
     },
     {
-      "developer": "Flint Fire",
+      "developer": "mb-14",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1439/871e124edd94070a1cbb581aa2348962.png",
       "id": "mb-14",

@@ -46,14 +46,6 @@
       "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
-    },
-    {
-      "developer": "GingerXTBR",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/1879/e3328f776291f8c2e7b618f90bdd7b96.jpg",
-      "id": "heitorfcastro@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/heitorfcastro@gmail.com/manifest",
-      "summary": "Baseada na CyanogenMod 7, com funcionalidades especiais para o Brasil."
     }
   ],
   "minversion": "4403"

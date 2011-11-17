@@ -853,6 +853,17 @@
       "summary": "Supercharged Roms"
     },
     {
+      "developer": "Hashcode",
+      "icon": "http://www.hash-of-codes.com/files/rommanager/rommanager.png",
+      "id": "Hashcode",
+      "free": "true",
+      "manifest": "http://www.hash-of-codes.com/files/rommanager/manifest.js",
+      "roms": {
+        "solana": "true"
+      },
+      "summary": "Stuff for your phone ..."
+    },
+    {
       "developer": "Cerberus",
       "icon": "http://www.cerberusapp.com/updates/icon.png",
       "id": "cerberusapp",

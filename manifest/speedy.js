@@ -2,14 +2,14 @@
   "manifests": [
     {
       "developer": "CrashV2010",
-      "free": true,
+      "free": false,
       "id": "CrashV2010",
       "manifest": "http://developer.clockworkmod.com/developer/CrashV2010/manifest",
       "summary": "Gapps Latest 11/15/2011"
     },
     {
       "developer": "SparksCo",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/293/cf525bafa8894bfea108d2e1387e6e52.png",
       "id": "SparksCo",
       "manifest": "http://developer.clockworkmod.com/developer/SparksCo/manifest",
@@ -55,7 +55,7 @@
     },
     {
       "developer": "Dread 7us",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/1929/0151bdcc239801272b88a5df9277a340.gif",
       "id": "dread7us@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/dread7us@gmail.com/manifest",
@@ -78,5 +78,5 @@
       "summary": "MIUI English releases by MIUI.us"
     }
   ],
-  "minversion": "4403"
+  "minversion": "4803"
 }

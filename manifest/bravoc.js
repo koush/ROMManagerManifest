@@ -10,7 +10,7 @@
     },
     {
       "developer": "MIUI",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/223/4b9a814afaba733a6d3b4a47f29436de.png",
       "id": "MIUI Dev",
       "manifest": "http://developer.clockworkmod.com/developer/MIUI Dev/manifest",
@@ -72,5 +72,5 @@
       "summary": "MIUI English releases by MIUI.us"
     }
   ],
-  "minversion": "4403"
+  "minversion": "4803"
 }

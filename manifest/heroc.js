@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "aosp",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/322/c97732b0067d16ccf420f20f78b8f36a.png",
       "id": "aospmod",
       "manifest": "http://developer.clockworkmod.com/developer/aospmod/manifest",
@@ -55,5 +55,5 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     }
   ],
-  "minversion": "4403"
+  "minversion": "4803"
 }

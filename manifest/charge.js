@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "Kejar31",
-      "free": true,
+      "free": false,
       "id": "Kejar31",
       "manifest": "http://developer.clockworkmod.com/developer/Kejar31/manifest",
       "summary": "Kejar31"
@@ -32,5 +32,5 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     }
   ],
-  "minversion": "4403"
+  "minversion": "4803"
 }

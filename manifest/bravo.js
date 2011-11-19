@@ -118,7 +118,7 @@
     },
     {
       "developer": "roalex",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/107/236f3ca6074ca5d999aef037aae94244.png",
       "id": "roalex-bravo",
       "manifest": "http://developer.clockworkmod.com/developer/roalex-bravo/manifest",
@@ -139,5 +139,5 @@
       "summary": "Modded ROM's HTC Desire"
     }
   ],
-  "minversion": "4403"
+  "minversion": "4803"
 }

@@ -41,11 +41,11 @@
     },
     {
       "developer": "QND",
-      "free": true,
+      "free": false,
       "id": "jbbandos",
       "manifest": "http://developer.clockworkmod.com/developer/jbbandos/manifest",
       "summary": "Multi-language MIUI ROMs. No theme change, 3G, bluetooth and other tunings. Lean and fast."
     }
   ],
-  "minversion": "4403"
+  "minversion": "4803"
 }

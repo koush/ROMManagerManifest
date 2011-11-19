@@ -49,7 +49,7 @@
     },
     {
       "developer": "DJPBX",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/794/e317ca8f3c09678408816cf171108c8e.gif",
       "id": "djpbx",
       "manifest": "http://developer.clockworkmod.com/developer/djpbx/manifest",
@@ -96,5 +96,5 @@
       "summary": "Enhanced Sense ROMs and more from the Virtuous Team."
     }
   ],
-  "minversion": "4403"
+  "minversion": "4803"
 }

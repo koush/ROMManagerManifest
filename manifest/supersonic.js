@@ -15,6 +15,14 @@
       "summary": "OMJ's HTC EVO ROMs"
     },
     {
+      "developer": "Sinister ROM",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/400/29a8f50929b1d09f36fde793c9ff2943.png",
+      "id": "SinisterTensai",
+      "manifest": "http://sinister.goo-inside.me/Romlist.js",
+      "summary": "Sinister Speeds, Sinister looks"
+    },
+    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",
@@ -62,20 +70,20 @@
       "summary": "Updates for stock ROMs, radio, hboot"
     },
     {
-      "developer": "Salvage-Mod",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
-      "summary": "GB source build. Group project."
-    },
-    {
       "developer": "Salvage-Mod Nightlies",
       "free": "true",
       "id": "echo17",
       "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
       "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
       "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
+    },
+    {
+      "developer": "Salvage-Mod",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
+      "summary": "GB source build. Group project."
     },
     {
       "developer": "Fresh",
@@ -149,12 +157,12 @@
     },
     {
       "developer": "Swagged Out Stock",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/697/40e325c213ebeb2999003d52dc979b2b.png",
       "id": "swagstr",
       "manifest": "http://developer.clockworkmod.com/developer/swagstr/manifest",
       "summary": "Stock ROM with a ton of bloatware removed and some added swag"
     }
   ],
-  "minversion": "4403"
+  "minversion": "4803"
 }

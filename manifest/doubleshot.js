@@ -32,5 +32,5 @@
       "summary": "kornyone@gmail.com"
     }
   ],
-  "minversion": "4403"
+  "minversion": "4803"
 }

@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "RevNumbers",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/813/5fedd62d6bdce82a1ce57649d118a9f6.gif",
       "id": "RevNumbers",
       "manifest": "http://developer.clockworkmod.com/developer/RevNumbers/manifest",
@@ -56,5 +56,5 @@
       "summary": "MIUI English releases by MIUI.us"
     }
   ],
-  "minversion": "4403"
+  "minversion": "4803"
 }

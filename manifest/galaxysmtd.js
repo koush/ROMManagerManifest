@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "Hardbread",
-      "free": true,
+      "free": false,
       "id": "Stenka",
       "manifest": "http://developer.clockworkmod.com/developer/Stenka/manifest",
       "summary": "MIUI [ES]"
@@ -79,5 +79,5 @@
       "summary": "MyUI - Votre MIUI parfaite, Your perfect MIUI - Team MyUI @ 2011"
     }
   ],
-  "minversion": "4403"
+  "minversion": "4803"
 }

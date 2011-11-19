@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "GreenRomProject",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
       "id": "GreenRomProject",
       "manifest": "http://developer.clockworkmod.com/developer/GreenRomProject/manifest",
@@ -56,5 +56,5 @@
       "summary": "Formerly r2DoesInc, Check out the new stuff. "
     }
   ],
-  "minversion": "4403"
+  "minversion": "4803"
 }

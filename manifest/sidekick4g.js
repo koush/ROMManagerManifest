@@ -26,12 +26,12 @@
     },
     {
       "developer": "sduvick",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/654/17bfc474b5c0c194278a7d6c4ecb7f74.jpg",
       "id": "sduvick@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/sduvick@gmail.com/manifest",
       "summary": "sduvick"
     }
   ],
-  "minversion": "4403"
+  "minversion": "4803"
 }

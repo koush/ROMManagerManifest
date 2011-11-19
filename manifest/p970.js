@@ -33,11 +33,11 @@
     },
     {
       "developer": "nikacortez24@gmail.com",
-      "free": true,
+      "free": false,
       "id": "nikacortez24@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/nikacortez24@gmail.com/manifest",
       "summary": "nikacortez24@gmail.com"
     }
   ],
-  "minversion": "4403"
+  "minversion": "4803"
 }

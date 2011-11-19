@@ -26,12 +26,12 @@
     },
     {
       "developer": "ROMs by PlayfulGod",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/480/046c8e21484dc21189721004ec151520.png",
       "id": "playfulgod",
       "manifest": "http://developer.clockworkmod.com/developer/playfulgod/manifest",
       "summary": "Remember folks, I dont get paid to do this, so donations are greatly apprciated even if its just for $1. You can donate by pressing menu > donate while viewing the ROM list or from the link on my wiki. ;)"
     }
   ],
-  "minversion": "4403"
+  "minversion": "4803"
 }

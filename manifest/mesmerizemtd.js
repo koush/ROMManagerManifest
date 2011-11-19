@@ -34,7 +34,7 @@
     },
     {
       "developer": "jt1134",
-      "free": true,
+      "free": false,
       "id": "jt1134",
       "manifest": "http://developer.clockworkmod.com/developer/jt1134/manifest",
       "summary": "jt1134"
@@ -48,5 +48,5 @@
       "summary": "MIUI English releases by MIUI.us"
     }
   ],
-  "minversion": "4403"
+  "minversion": "4803"
 }

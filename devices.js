@@ -824,6 +824,7 @@
       "name": "Samsung Epic4G",
       "version": "5.0.2.7",
       "init": "lpm.rc",
+      "readonly_recovery": true,
       "key": "epic4g",
       "lunch": "full_epic4g-eng"
     },

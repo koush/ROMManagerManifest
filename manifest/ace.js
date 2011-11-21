@@ -5,7 +5,7 @@
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/572/4884d4eafed430ae7b95733148b0055e.png",
       "id": "ClearD",
-      "manifest": "http://www.techsupporteverything.com/download/manifest.js",
+      "manifest": "http://www.cleardroidroms.com/download/manifest.js",
       "summary": "ClearDroid ROM for Inspire 4G. Inspire-based, with the choice of a stock feel or the ClearDroid ModPack. The most stable ROM available for the Inspire."
     },
     {
@@ -102,14 +102,6 @@
       "icon": "http://www.prism.gatech.edu/~gtg465x/ROMManagerManifest/icon.png",
       "manifest": "http://www.prism.gatech.edu/~gtg465x/ROMManagerManifest/gtg465x.js",
       "summary": "ROMs and hax by gtg465x"
-    },
-    {
-      "developer": "MIUI Android",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
-      "id": "miuiandroid",
-      "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
-      "summary": "The original English MIUI ROM by MIUI Android"
     },
     {
       "developer": "MIUI-PT",

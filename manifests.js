@@ -78,7 +78,7 @@
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/572/4884d4eafed430ae7b95733148b0055e.png",
       "id": "ClearD",
-      "manifest": "http://www.techsupporteverything.com/download/manifest.js",
+      "manifest": "http://www.cleardroidroms.com/download/manifest.js",
       "roms": {
         "ace": true
       },
@@ -92,7 +92,7 @@
       "roms": {
         "speedy": true
       },
-      "summary": "Gapps Latest 11/15/2011"
+      "summary": "Gapps Latest 11/19/2011"
     },
     {
       "developer": "Crypt0night",
@@ -1176,6 +1176,16 @@
       "summary": "Cyclonic AOSP ROM"
     },
     {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
+    },
+    {
       "developer": "DrewGaren Roms",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1187,16 +1197,6 @@
         "crespo": true
       },
       "summary": "Custom Roms and Themes for your Device"
-    },
-    {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1869,6 +1869,17 @@
       "summary": "kornyone@gmail.com"
     },
     {
+      "developer": "Koush",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/579/ed66d281a91c38574d1239f60b9c80b6.png",
+      "id": "koush",
+      "manifest": "http://developer.clockworkmod.com/developer/koush/manifest",
+      "roms": {
+        "crespo": true
+      },
+      "summary": "ROMs by the developer of ROM Manager, Koush."
+    },
+    {
       "developer": "KrazyKrivda",
       "id": "krazykrivda",
       "manifest": "http://mydroidfiles.com/krazykrivda/manifest.js",
@@ -2025,29 +2036,6 @@
       "summary": "middlepiller@gmail.com"
     },
     {
-      "developer": "MIUI Android",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
-      "id": "miuiandroid",
-      "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
-      "roms": {
-        "leo": true,
-        "p990": true,
-        "vibrantmtd": true,
-        "passion": true,
-        "galaxys": true,
-        "bravo": true,
-        "umts_jordan": true,
-        "ace": true,
-        "captivatemtd": true,
-        "inc": true,
-        "crespo": true,
-        "vision": true,
-        "umts_sholes": true
-      },
-      "summary": "The original English MIUI ROM by MIUI Android"
-    },
-    {
       "developer": "MIUI-PT",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
@@ -2067,6 +2055,7 @@
         "captivate": true,
         "vibrant": true,
         "captivatemtd": true,
+        "es209ra": true,
         "saga": true,
         "crespo": true,
         "vision": true,
@@ -2203,6 +2192,17 @@
         "droidx": true
       },
       "summary": "notna659@gmail.com"
+    },
+    {
+      "developer": "one_love_420",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/2127/aa7c11ff3b13601e1f44904843e69c5a.jpg",
+      "id": "one_love_420",
+      "manifest": "http://developer.clockworkmod.com/developer/one_love_420/manifest",
+      "roms": {
+        "speedy": true
+      },
+      "summary": "U.K.E. ASOP ROM"
     },
     {
       "developer": "orkillakilla",

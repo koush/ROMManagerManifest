@@ -5,7 +5,7 @@
       "free": false,
       "id": "CrashV2010",
       "manifest": "http://developer.clockworkmod.com/developer/CrashV2010/manifest",
-      "summary": "Gapps Latest 11/15/2011"
+      "summary": "Gapps Latest 11/19/2011"
     },
     {
       "developer": "SparksCo",
@@ -76,6 +76,14 @@
       "id": "miuius",
       "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
       "summary": "MIUI English releases by MIUI.us"
+    },
+    {
+      "developer": "one_love_420",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/2127/aa7c11ff3b13601e1f44904843e69c5a.jpg",
+      "id": "one_love_420",
+      "manifest": "http://developer.clockworkmod.com/developer/one_love_420/manifest",
+      "summary": "U.K.E. ASOP ROM"
     }
   ],
   "minversion": "4803"

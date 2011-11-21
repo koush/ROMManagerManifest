@@ -103,14 +103,6 @@
       "summary": "Source built Roms and themes from LinuxMotion"
     },
     {
-      "developer": "MIUI Android",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/577/2711d1deb4ce17821814fbd7682cd8c9.png",
-      "id": "miuiandroid",
-      "manifest": "http://miuiandroid.com/rom-dev/miuiandroid.js",
-      "summary": "The original English MIUI ROM by MIUI Android"
-    },
-    {
       "developer": "MIUI.us",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",

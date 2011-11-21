@@ -823,7 +823,7 @@
     {
       "name": "Samsung Epic4G",
       "version": "5.0.2.7",
-      "init": "init.smdkc110.rc",
+      "init": "lpm.rc",
       "key": "epic4g",
       "lunch": "full_epic4g-eng"
     },

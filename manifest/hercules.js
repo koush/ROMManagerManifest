@@ -3,7 +3,7 @@
     {
       "developer": "Team Kang",
       "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/1686/752e7b89968f7399736cafd8193b86d7.png",
+      "icon": "http://developer.clockworkmod.com/downloads/1686/95c2894e9bf3df844f77bcd233ed386c.png",
       "id": "TeamKang",
       "manifest": "http://developer.clockworkmod.com/developer/TeamKang/manifest",
       "summary": "Pwnography for the T-Mobile SGSII"

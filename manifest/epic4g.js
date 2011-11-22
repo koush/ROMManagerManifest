@@ -8,6 +8,14 @@
       "summary": "Android Creative Syndicate"
     },
     {
+      "developer": "computerkid23",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/2172/bbfefd270a9aac7e5dc7dc6f9f3c1c2f.jpg",
+      "id": "CK23",
+      "manifest": "http://developer.clockworkmod.com/developer/CK23/manifest",
+      "summary": "Epic Dev and themer"
+    },
+    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",
@@ -30,6 +38,14 @@
       "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
+    },
+    {
+      "developer": "StarskyROB",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/2184/b319d5854f463e15167509bdf5b99d94.png",
+      "id": "robertstoms@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/robertstoms@gmail.com/manifest",
+      "summary": "Minimal Roms with tons of performance tweaks under the hood."
     },
     {
       "developer": "TheDub",

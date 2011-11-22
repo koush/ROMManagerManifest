@@ -14,7 +14,7 @@
       "icon": "http://developer.clockworkmod.com/downloads/862/dd9079fad0d347309ffbc6e4362a3145",
       "id": "Sense-o-Maniac",
       "manifest": "http://developer.clockworkmod.com/developer/Sense-o-Maniac/manifest",
-      "summary": "Sense-o-Maniac - Sense 3.5 Beats || Amaze cam || CRT || Bloatware free || Tweaks"
+      "summary": "Sense-o-Maniac - Sense 3.5 Beats || Amaze cam || Bravia || Bloatware free || Tweaks"
     },
     {
       "developer": "CiVic",

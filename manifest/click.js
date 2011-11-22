@@ -32,6 +32,13 @@
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
     {
+      "developer": "dsw248@gmail.com",
+      "free": false,
+      "id": "dsw248@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/dsw248@gmail.com/manifest",
+      "summary": "dsw248@gmail.com"
+    },
+    {
       "developer": "Google Apps",
       "free": "true",
       "id": "google",

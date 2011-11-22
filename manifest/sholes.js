@@ -48,7 +48,7 @@
       "icon": "http://developer.clockworkmod.com/downloads/704/22baaaa7d15d504f2d43eb8a2980cea9.jpg",
       "id": "WolfRoms",
       "manifest": "http://developer.clockworkmod.com/developer/WolfRoms/manifest",
-      "summary": "A cm7 Build with some extras"
+      "summary": "Welcome to the pack"
     },
     {
       "developer": "bgill55",

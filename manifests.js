@@ -54,6 +54,17 @@
       "summary": "All Build.prop Mods to Date"
     },
     {
+      "developer": "computerkid23",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/2172/bbfefd270a9aac7e5dc7dc6f9f3c1c2f.jpg",
+      "id": "CK23",
+      "manifest": "http://developer.clockworkmod.com/developer/CK23/manifest",
+      "roms": {
+        "epic4g": true
+      },
+      "summary": "Epic Dev and themer"
+    },
+    {
       "developer": "ChevyNo1",
       "id": "ChevyNo1",
       "manifest": "http://chevyno1.richstevenson.com/SimplyStunning.js",
@@ -87,12 +98,13 @@
     {
       "developer": "CrashV2010",
       "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/1928/2cf2988ce83eeda8c9262be0c81a8420.gif",
       "id": "CrashV2010",
       "manifest": "http://developer.clockworkmod.com/developer/CrashV2010/manifest",
       "roms": {
         "speedy": true
       },
-      "summary": "Gapps Latest 11/19/2011"
+      "summary": "Gapps Latest 11/22/2011"
     },
     {
       "developer": "Crypt0night",
@@ -434,7 +446,7 @@
       "roms": {
         "pyramid": true
       },
-      "summary": "Sense-o-Maniac - Sense 3.5 Beats || Amaze cam || CRT || Bloatware free || Tweaks"
+      "summary": "Sense-o-Maniac - Sense 3.5 Beats || Amaze cam || Bravia || Bloatware free || Tweaks"
     },
     {
       "developer": "Sinister ROM",
@@ -538,7 +550,7 @@
     {
       "developer": "Team Kang",
       "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/1686/752e7b89968f7399736cafd8193b86d7.png",
+      "icon": "http://developer.clockworkmod.com/downloads/1686/95c2894e9bf3df844f77bcd233ed386c.png",
       "id": "TeamKang",
       "manifest": "http://developer.clockworkmod.com/developer/TeamKang/manifest",
       "roms": {
@@ -569,7 +581,7 @@
       "summary": "Ready to run roms..."
     },
     {
-      "developer": "inferior human organs",
+      "developer": "Inferior Human Organs",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/1672/c6744e24b10b0312603d0f837b434a2a.png",
       "id": "Tr13dg3001",
@@ -600,7 +612,7 @@
       "roms": {
         "sholes": true
       },
-      "summary": "A cm7 Build with some extras"
+      "summary": "Welcome to the pack"
     },
     {
       "developer": "Sapo a5 Blog Team",
@@ -1133,16 +1145,6 @@
       "summary": "Aura Rom for the Atrix"
     },
     {
-      "developer": "djn541@gmail.com",
-      "free": false,
-      "id": "djn541@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/djn541@gmail.com/manifest",
-      "roms": {
-        "crespo": true
-      },
-      "summary": "djn541@gmail.com"
-    },
-    {
       "developer": "DJPBX",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/794/e317ca8f3c09678408816cf171108c8e.gif",
@@ -1219,6 +1221,16 @@
         "mecha": true
       },
       "summary": "dsb9938 and thejondude"
+    },
+    {
+      "developer": "dsw248@gmail.com",
+      "free": false,
+      "id": "dsw248@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/dsw248@gmail.com/manifest",
+      "roms": {
+        "click": true
+      },
+      "summary": "dsw248@gmail.com"
     },
     {
       "developer": "Oxygen ROM",
@@ -1523,17 +1535,6 @@
         "solana": true
       },
       "summary": "Making cool things for phones"
-    },
-    {
-      "developer": "GingerXTBR",
-      "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/1879/e3328f776291f8c2e7b618f90bdd7b96.jpg",
-      "id": "heitorfcastro@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/heitorfcastro@gmail.com/manifest",
-      "roms": {
-        "zeppelin": true
-      },
-      "summary": "Baseada na CyanogenMod 7, com funcionalidades especiais para o Brasil."
     },
     {
       "developer": "Helvio Pedreschi",
@@ -2202,7 +2203,7 @@
       "roms": {
         "speedy": true
       },
-      "summary": "U.K.E. ASOP ROM"
+      "summary": "U.K.E. AOSP ROM"
     },
     {
       "developer": "orkillakilla",
@@ -2391,6 +2392,17 @@
       "summary": "AOSP/CM Desire builds & Custom HTC Sense builds"
     },
     {
+      "developer": "StarskyROB",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/2184/b319d5854f463e15167509bdf5b99d94.png",
+      "id": "robertstoms@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/robertstoms@gmail.com/manifest",
+      "roms": {
+        "epic4g": true
+      },
+      "summary": "Minimal Roms with tons of performance tweaks under the hood."
+    },
+    {
       "developer": "SamCripp",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/550/6d520d99859e134dd32cd4132a8ac3d5.png",
@@ -2491,17 +2503,6 @@
       "summary": "Stock ROM with a ton of bloatware removed and some added swag"
     },
     {
-      "developer": "CyanogenMod RC",
-      "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
-      "id": "tanguy.pruvot@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/tanguy.pruvot@gmail.com/manifest",
-      "roms": {
-        "umts_jordan": true
-      },
-      "summary": "Stable but unofficial RC"
-    },
-    {
       "developer": "XDA CM7 Nightlies",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/541/91afee5f3ad77376b65aa60038c4979c.png",
@@ -2511,6 +2512,17 @@
         "umts_jordan": true
       },
       "summary": "XDA CM7 Original Nightly builds. tpruvot@github"
+    },
+    {
+      "developer": "CyanogenDefy Stable",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
+      "id": "tanguy.pruvot@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/tanguy.pruvot@gmail.com/manifest",
+      "roms": {
+        "umts_jordan": true
+      },
+      "summary": "Stable but unofficial RC and Release"
     },
     {
       "developer": "MyUI",

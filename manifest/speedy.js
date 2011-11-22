@@ -3,9 +3,10 @@
     {
       "developer": "CrashV2010",
       "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/1928/2cf2988ce83eeda8c9262be0c81a8420.gif",
       "id": "CrashV2010",
       "manifest": "http://developer.clockworkmod.com/developer/CrashV2010/manifest",
-      "summary": "Gapps Latest 11/19/2011"
+      "summary": "Gapps Latest 11/22/2011"
     },
     {
       "developer": "SparksCo",
@@ -83,7 +84,7 @@
       "icon": "http://developer.clockworkmod.com/downloads/2127/aa7c11ff3b13601e1f44904843e69c5a.jpg",
       "id": "one_love_420",
       "manifest": "http://developer.clockworkmod.com/developer/one_love_420/manifest",
-      "summary": "U.K.E. ASOP ROM"
+      "summary": "U.K.E. AOSP ROM"
     }
   ],
   "minversion": "4803"

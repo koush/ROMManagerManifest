@@ -88,6 +88,14 @@
       "summary": "MIUI English releases by MIUI.us"
     },
     {
+      "developer": "mmmcfc",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/2217/15386be30d902d0a62b5ce4c114edf3b.png",
+      "id": "munawarmmannan@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/munawarmmannan@gmail.com/manifest",
+      "summary": "As close to the stock  ROM as possible, with slight tweaks"
+    },
+    {
       "developer": "Virtuous",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/63/8671cc6cf6379f1baf69c14ca9138910.png",

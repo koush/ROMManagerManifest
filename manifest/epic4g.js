@@ -40,6 +40,22 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
+      "developer": "ERA",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/2221/4bb04642852e6af0f4e7d0dfa94ed34a.png",
+      "id": "ksmullins88@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/ksmullins88@gmail.com/manifest",
+      "summary": "ERA ROMs for EPIC4G"
+    },
+    {
+      "developer": "Marcusant",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/2192/a9c7d83b3de88504d49471212dcbd3b8.png",
+      "id": "mstojcevich@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/mstojcevich@gmail.com/manifest",
+      "summary": "Roms made by marcusant and the Android Creative Syndicate"
+    },
+    {
       "developer": "StarskyROB",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2184/b319d5854f463e15167509bdf5b99d94.png",

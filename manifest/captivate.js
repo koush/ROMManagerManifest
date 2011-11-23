@@ -55,6 +55,14 @@
       "id": "miuiportugal",
       "manifest": "http://www.roms.miui-pt.com/manifest/miuipt.js",
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
+    },
+    {
+      "developer": "wesley van kouteren",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/2209/bf934d9c85d12fba591f99d728802b8c.jpeg",
+      "id": "w.vkouteren@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/w.vkouteren@gmail.com/manifest",
+      "summary": "wesley"
     }
   ],
   "minversion": "4803"

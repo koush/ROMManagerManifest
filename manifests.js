@@ -1178,16 +1178,6 @@
       "summary": "Cyclonic AOSP ROM"
     },
     {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
-    },
-    {
       "developer": "DrewGaren Roms",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1199,6 +1189,16 @@
         "crespo": true
       },
       "summary": "Custom Roms and Themes for your Device"
+    },
+    {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1257,17 +1257,6 @@
       "summary": "Eagleblood Roms Fast/Stable/Clean"
     },
     {
-      "developer": "Salvage-Mod Nightlies",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
-    },
-    {
       "developer": "Salvage-Mod",
       "free": "true",
       "id": "echo17",
@@ -1277,6 +1266,17 @@
         "supersonic": "true"
       },
       "summary": "GB source build. Group project."
+    },
+    {
+      "developer": "Salvage-Mod Nightlies",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -1537,6 +1537,17 @@
       "summary": "Making cool things for phones"
     },
     {
+      "developer": "GingerXTBR",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/1879/e3328f776291f8c2e7b618f90bdd7b96.jpg",
+      "id": "heitorfcastro@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/heitorfcastro@gmail.com/manifest",
+      "roms": {
+        "zeppelin": true
+      },
+      "summary": "Baseada na CyanogenMod 7, com funcionalidades especiais para o Brasil."
+    },
+    {
       "developer": "Helvio Pedreschi",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/694/f345f5b3bff87b8fbe023bc68d790ceb.png",
@@ -1562,16 +1573,6 @@
       "summary": "Go Go Go!"
     },
     {
-      "developer": "HyperDroid",
-      "free": "true",
-      "id": "hyperdroid",
-      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
-      "roms": {
-        "leo": "true"
-      },
-      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
-    },
-    {
       "developer": "HyperDroid CM7",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
@@ -1581,6 +1582,16 @@
         "leo": true
       },
       "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
+    },
+    {
+      "developer": "HyperDroid",
+      "free": "true",
+      "id": "hyperdroid",
+      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
+      "roms": {
+        "leo": "true"
+      },
+      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
     },
     {
       "developer": "Ihtfp69",
@@ -1891,6 +1902,17 @@
       "summary": "Great themes and more :)"
     },
     {
+      "developer": "ERA",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/2221/4bb04642852e6af0f4e7d0dfa94ed34a.png",
+      "id": "ksmullins88@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/ksmullins88@gmail.com/manifest",
+      "roms": {
+        "epic4g": true
+      },
+      "summary": "ERA ROMs for EPIC4G"
+    },
+    {
       "developer": "Solstice",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/530/d45f727409f37121864a24391106b1f0.png",
@@ -2129,6 +2151,28 @@
         "droidx": "true"
       },
       "summary": "DroidX Roms"
+    },
+    {
+      "developer": "Marcusant",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/2192/a9c7d83b3de88504d49471212dcbd3b8.png",
+      "id": "mstojcevich@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/mstojcevich@gmail.com/manifest",
+      "roms": {
+        "epic4g": true
+      },
+      "summary": "Roms made by marcusant and the Android Creative Syndicate"
+    },
+    {
+      "developer": "mmmcfc",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/2217/15386be30d902d0a62b5ce4c114edf3b.png",
+      "id": "munawarmmannan@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/munawarmmannan@gmail.com/manifest",
+      "roms": {
+        "saga": true
+      },
+      "summary": "As close to the stock  ROM as possible, with slight tweaks"
     },
     {
       "developer": "myn",
@@ -2503,17 +2547,6 @@
       "summary": "Stock ROM with a ton of bloatware removed and some added swag"
     },
     {
-      "developer": "XDA CM7 Nightlies",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/541/91afee5f3ad77376b65aa60038c4979c.png",
-      "id": "tanguy.pruvot@gmail.com",
-      "manifest": "http://tpruvot.free.fr/rm/custom.js",
-      "roms": {
-        "umts_jordan": true
-      },
-      "summary": "XDA CM7 Original Nightly builds. tpruvot@github"
-    },
-    {
       "developer": "CyanogenDefy Stable",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
@@ -2523,6 +2556,17 @@
         "umts_jordan": true
       },
       "summary": "Stable but unofficial RC and Release"
+    },
+    {
+      "developer": "XDA CM7 Nightlies",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/541/91afee5f3ad77376b65aa60038c4979c.png",
+      "id": "tanguy.pruvot@gmail.com",
+      "manifest": "http://tpruvot.free.fr/rm/custom.js",
+      "roms": {
+        "umts_jordan": true
+      },
+      "summary": "XDA CM7 Original Nightly builds. tpruvot@github"
     },
     {
       "developer": "MyUI",
@@ -2690,6 +2734,17 @@
         "vision": true
       },
       "summary": "Enhanced Sense ROMs and more from the Virtuous Team."
+    },
+    {
+      "developer": "wesley van kouteren",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/2209/bf934d9c85d12fba591f99d728802b8c.jpeg",
+      "id": "w.vkouteren@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/w.vkouteren@gmail.com/manifest",
+      "roms": {
+        "captivate": true
+      },
+      "summary": "wesley"
     },
     {
       "developer": "Team BAMF ",

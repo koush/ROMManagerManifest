@@ -1406,7 +1406,7 @@
       "name": "Google Galaxy Nexus (GSM)",
       "flash_recovery": "dd if=%s of=/dev/block/platform/omap/omap_hsmmc.0/by-name/recovery bs=4096 ;",
       "version": "5.5.0.1",
-      "init": "init.maguro.rc",
+      "init": "init.tuna.rc",
       "legacy_versions": [
         "5.5.0.0"
       ],

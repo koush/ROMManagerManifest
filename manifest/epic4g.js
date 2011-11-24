@@ -16,6 +16,14 @@
       "summary": "Epic Dev and themer"
     },
     {
+      "developer": "DRockstar",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/728/a96373d946367ed7a54d10cb7c2ab3e8.jpg",
+      "id": "DRockstar",
+      "manifest": "http://drockstar.devphone.org/drockstarmanifest.js",
+      "summary": "DRockstar does stock ROMs, kernels, and helpful tools"
+    },
+    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",
@@ -53,7 +61,7 @@
       "icon": "http://developer.clockworkmod.com/downloads/2192/a9c7d83b3de88504d49471212dcbd3b8.png",
       "id": "mstojcevich@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/mstojcevich@gmail.com/manifest",
-      "summary": "Roms made by marcusant and the Android Creative Syndicate"
+      "summary": "ROMs and mods made by Marcusant and the Android Creative Syndicate"
     },
     {
       "developer": "StarskyROB",
@@ -69,6 +77,21 @@
       "id": "thedubmail@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/thedubmail@gmail.com/manifest",
       "summary": "thedubmail@gmail.com"
+    },
+    {
+      "developer": "toadlife",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/2233/a140733ebdfda956db39e2d8b88f86e3.jpg",
+      "id": "toadlife@gmail.com",
+      "manifest": "http://xda.toadlife.net/ROMManager/manifests/rmmanifest.js",
+      "summary": "ROMS made by toadlife"
+    },
+    {
+      "developer": "xBTx",
+      "free": false,
+      "id": "xBTx",
+      "manifest": "http://developer.clockworkmod.com/developer/xBTx/manifest",
+      "summary": "Keep it stock... Mostly."
     }
   ],
   "minversion": "4803"

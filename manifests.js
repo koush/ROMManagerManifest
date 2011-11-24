@@ -118,6 +118,17 @@
       "summary": "Rom developer for the HTC evo 3d GSM"
     },
     {
+      "developer": "DRockstar",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/728/a96373d946367ed7a54d10cb7c2ab3e8.jpg",
+      "id": "DRockstar",
+      "manifest": "http://drockstar.devphone.org/drockstarmanifest.js",
+      "roms": {
+        "epic4g": true
+      },
+      "summary": "DRockstar does stock ROMs, kernels, and helpful tools"
+    },
+    {
       "developer": "DRod2169",
       "free": "true",
       "id": "DRod2169",
@@ -349,6 +360,17 @@
         "crespo": true
       },
       "summary": "Nexus S Team Germany"
+    },
+    {
+      "developer": "Nocoast",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/2241/e9904394fac5d44c2ee51fc27b72835f.gif",
+      "id": "Nocoast",
+      "manifest": "http://developer.clockworkmod.com/developer/Nocoast/manifest",
+      "roms": {
+        "mecha": true
+      },
+      "summary": "Super Lean Sensory Deprivation, All (non integral) sense elements have been removed and replaced by AOSP flavor!"
     },
     {
       "developer": "OMJ",
@@ -1178,6 +1200,16 @@
       "summary": "Cyclonic AOSP ROM"
     },
     {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
+    },
+    {
       "developer": "DrewGaren Roms",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1189,16 +1221,6 @@
         "crespo": true
       },
       "summary": "Custom Roms and Themes for your Device"
-    },
-    {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -2161,7 +2183,7 @@
       "roms": {
         "epic4g": true
       },
-      "summary": "Roms made by marcusant and the Android Creative Syndicate"
+      "summary": "ROMs and mods made by Marcusant and the Android Creative Syndicate"
     },
     {
       "developer": "mmmcfc",
@@ -2644,6 +2666,17 @@
       "summary": "ROMs for the Huawei U8150 Ideos from the Ideos Dev Team"
     },
     {
+      "developer": "toadlife",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/2233/a140733ebdfda956db39e2d8b88f86e3.jpg",
+      "id": "toadlife@gmail.com",
+      "manifest": "http://xda.toadlife.net/ROMManager/manifests/rmmanifest.js",
+      "roms": {
+        "epic4g": true
+      },
+      "summary": "ROMS made by toadlife"
+    },
+    {
       "developer": "winner00",
       "free": false,
       "id": "toverturf@gmail.com",
@@ -2776,6 +2809,16 @@
         "sholes": "true"
       },
       "summary": "Custom ROMs for the Motorola Droid"
+    },
+    {
+      "developer": "xBTx",
+      "free": false,
+      "id": "xBTx",
+      "manifest": "http://developer.clockworkmod.com/developer/xBTx/manifest",
+      "roms": {
+        "epic4g": true
+      },
+      "summary": "Keep it stock... Mostly."
     },
     {
       "developer": "Jalen",

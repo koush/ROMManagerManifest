@@ -25,6 +25,14 @@
       "summary": "Source Built Gingerbread and Custom Tbolt Roms"
     },
     {
+      "developer": "Nocoast",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/2241/e9904394fac5d44c2ee51fc27b72835f.gif",
+      "id": "Nocoast",
+      "manifest": "http://developer.clockworkmod.com/developer/Nocoast/manifest",
+      "summary": "Super Lean Sensory Deprivation, All (non integral) sense elements have been removed and replaced by AOSP flavor!"
+    },
+    {
       "developer": "Sonofskywalker3",
       "free": "true",
       "id": "Sonofskywalker3",

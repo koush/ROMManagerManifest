@@ -25,6 +25,14 @@
       "summary": "aosp4u@gmail.com"
     },
     {
+      "developer": "Baadnewz",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/2313/9eed3cf860cea96cf5d5a6f190115dfe.jpg",
+      "id": "baadnewz@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/baadnewz@gmail.com/manifest",
+      "summary": "baadnewz@gmail.com"
+    },
+    {
       "developer": "RCTeam RCMix",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1530/f04bed0f7cd255a5a017bf4abacd6884.png",

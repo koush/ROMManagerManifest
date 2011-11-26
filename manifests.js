@@ -725,6 +725,17 @@
       "summary": "Latest CWR for the HD2 with the yes/no patch"
     },
     {
+      "developer": "Baadnewz",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/2313/9eed3cf860cea96cf5d5a6f190115dfe.jpg",
+      "id": "baadnewz@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/baadnewz@gmail.com/manifest",
+      "roms": {
+        "pyramid": true
+      },
+      "summary": "baadnewz@gmail.com"
+    },
+    {
       "developer": "bcnice20",
       "free": "true",
       "id": "bcnice20",
@@ -1186,6 +1197,16 @@
       "summary": "Cyclonic AOSP ROM"
     },
     {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
+    },
+    {
       "developer": "DrewGaren Roms",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1197,16 +1218,6 @@
         "crespo": true
       },
       "summary": "Custom Roms and Themes for your Device"
-    },
-    {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1582,16 +1593,6 @@
       "summary": "Go Go Go!"
     },
     {
-      "developer": "HyperDroid",
-      "free": "true",
-      "id": "hyperdroid",
-      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
-      "roms": {
-        "leo": "true"
-      },
-      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
-    },
-    {
       "developer": "HyperDroid CM7",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
@@ -1601,6 +1602,16 @@
         "leo": true
       },
       "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
+    },
+    {
+      "developer": "HyperDroid",
+      "free": "true",
+      "id": "hyperdroid",
+      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
+      "roms": {
+        "leo": "true"
+      },
+      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
     },
     {
       "developer": "Ihtfp69",

@@ -8,14 +8,6 @@
       "summary": "Custom HTC Sense Froyo ROMs for HTC Desire."
     },
     {
-      "developer": "LeeDrOiD",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/676/606ba794a3c9458b463d87cfd1642fa1.png",
-      "id": "LeeDrOiD",
-      "manifest": "http://leedroid.ftp.rshost.eu/LeeDrOiD.js",
-      "summary": "LeeDrOiD Sense roms & Kernels"
-    },
-    {
       "developer": "Runnymede",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1597/e93ca402fbf70d17aa42ea2cd6f76689.gif",
@@ -110,7 +102,7 @@
     },
     {
       "developer": "roalex",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/107/236f3ca6074ca5d999aef037aae94244.png",
       "id": "roalex-bravo",
       "manifest": "http://developer.clockworkmod.com/developer/roalex-bravo/manifest",

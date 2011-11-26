@@ -26,11 +26,11 @@
     },
     {
       "developer": "mb-14",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1439/871e124edd94070a1cbb581aa2348962.png",
       "id": "mb-14",
       "manifest": "http://developer.clockworkmod.com/developer/mb-14/manifest",
-      "summary": "Super-awesome ROMs for FM6 variants"
+      "summary": "Mods and Bacon for FM6 variants"
     }
   ],
   "minversion": "4803"

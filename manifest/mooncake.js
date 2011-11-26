@@ -23,13 +23,6 @@
       "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
-    },
-    {
-      "developer": "kman12389@googlemail.com",
-      "free": false,
-      "id": "kman12389@googlemail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/kman12389@googlemail.com/manifest",
-      "summary": "kman12389@googlemail.com"
     }
   ],
   "minversion": "4803"

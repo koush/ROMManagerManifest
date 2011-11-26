@@ -9,7 +9,7 @@
     },
     {
       "developer": "computerkid23",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2172/bbfefd270a9aac7e5dc7dc6f9f3c1c2f.jpg",
       "id": "CK23",
       "manifest": "http://developer.clockworkmod.com/developer/CK23/manifest",
@@ -49,7 +49,7 @@
     },
     {
       "developer": "ERA",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2221/4bb04642852e6af0f4e7d0dfa94ed34a.png",
       "id": "ksmullins88@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/ksmullins88@gmail.com/manifest",
@@ -57,7 +57,7 @@
     },
     {
       "developer": "Marcusant",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2192/a9c7d83b3de88504d49471212dcbd3b8.png",
       "id": "mstojcevich@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/mstojcevich@gmail.com/manifest",
@@ -65,15 +65,22 @@
     },
     {
       "developer": "StarskyROB",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2184/b319d5854f463e15167509bdf5b99d94.png",
       "id": "robertstoms@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/robertstoms@gmail.com/manifest",
       "summary": "Minimal Roms with tons of performance tweaks under the hood."
     },
     {
+      "developer": "SenseiSimple",
+      "free": true,
+      "id": "senseisimple",
+      "manifest": "http://thebrainworm.com/senseisimplecwm_manifest.js",
+      "summary": "It's Simple - Stock Looks with All the Latest Performance - the Sleeper"
+    },
+    {
       "developer": "TheDub",
-      "free": false,
+      "free": true,
       "id": "thedubmail@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/thedubmail@gmail.com/manifest",
       "summary": "thedubmail@gmail.com"
@@ -88,7 +95,7 @@
     },
     {
       "developer": "xBTx",
-      "free": false,
+      "free": true,
       "id": "xBTx",
       "manifest": "http://developer.clockworkmod.com/developer/xBTx/manifest",
       "summary": "Keep it stock... Mostly."

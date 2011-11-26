@@ -2,19 +2,11 @@
   "manifests": [
     {
       "developer": "Crypt0night",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/825/70a24bf7a5c553298e3ec4080ee57d8c.gif",
       "id": "Crypt0",
       "manifest": "http://developer.clockworkmod.com/developer/Crypt0/manifest",
       "summary": "Rom developer for the HTC evo 3d GSM"
-    },
-    {
-      "developer": "LeeDrOiD",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/676/606ba794a3c9458b463d87cfd1642fa1.png",
-      "id": "LeeDrOiD",
-      "manifest": "http://leedroid.ftp.rshost.eu/LeeDrOiD.js",
-      "summary": "LeeDrOiD Sense roms & Kernels"
     },
     {
       "developer": "Cerberus",
@@ -42,7 +34,7 @@
     },
     {
       "developer": "nickiberli",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/690/db6ea256d879d60f1618bd1e03de3453.png",
       "id": "nickiberli",
       "manifest": "http://developer.clockworkmod.com/developer/nickiberli/manifest",

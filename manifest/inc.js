@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "GreenRomProject",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
       "id": "GreenRomProject",
       "manifest": "http://developer.clockworkmod.com/developer/GreenRomProject/manifest",
@@ -10,7 +10,7 @@
     },
     {
       "developer": "OMJ-",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/719/bfbccec41cbac2cba0e62a7f2bbefa2e.png",
       "id": "OMJ-",
       "manifest": "http://developer.clockworkmod.com/developer/OMJ-/manifest",
@@ -81,7 +81,7 @@
     },
     {
       "developer": "JD317",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1541/10ad3cc278ebcf7b21b17b454fe7d9f1",
       "id": "jdthreeseventeen@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/jdthreeseventeen@gmail.com/manifest",
@@ -128,7 +128,7 @@
     },
     {
       "developer": "winner00",
-      "free": false,
+      "free": true,
       "id": "toverturf@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/toverturf@gmail.com/manifest",
       "summary": "CyanogenMod 7 with few tweaks for better performance on the OG Droid, Incredible, and pulls from gerrit.  "

@@ -1153,6 +1153,18 @@
       "summary": "Clean, fast & customizable Samsung Galaxy S ROM."
     },
     {
+      "developer": "DHe17 Roms",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/2291/9b664bcab56e1b39c62ac4e81a40e1b7.png",
+      "id": "dhemke17",
+      "manifest": "http://dhe17roms.github.com/Roms/lightningrom.js",
+      "roms": {
+        "vivow": true,
+        "mecha": true
+      },
+      "summary": "Roms and Mods for Thunderbolt and Incredible 2"
+    },
+    {
       "developer": "Diviance",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/591/bb41cb6540f79fe9208a84a04af56bfe.png",
@@ -1593,6 +1605,16 @@
       "summary": "Go Go Go!"
     },
     {
+      "developer": "HyperDroid",
+      "free": "true",
+      "id": "hyperdroid",
+      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
+      "roms": {
+        "leo": "true"
+      },
+      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
+    },
+    {
       "developer": "HyperDroid CM7",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
@@ -1602,16 +1624,6 @@
         "leo": true
       },
       "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
-    },
-    {
-      "developer": "HyperDroid",
-      "free": "true",
-      "id": "hyperdroid",
-      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
-      "roms": {
-        "leo": "true"
-      },
-      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
     },
     {
       "developer": "Ihtfp69",
@@ -1916,9 +1928,9 @@
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2221/4bb04642852e6af0f4e7d0dfa94ed34a.png",
       "id": "ksmullins88@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/ksmullins88@gmail.com/manifest",
+      "manifest": "http://era.techfumaster.com/RomManager_Manifest.js",
       "roms": {
-        "epic4g": true
+        "Epic4g": true
       },
       "summary": "ERA ROMs for EPIC4G"
     },
@@ -2249,6 +2261,18 @@
       "summary": "notna659@gmail.com"
     },
     {
+      "developer": "nubecoder siftware",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/2320/764bf9afded2ca0358e78a2549654273.png",
+      "id": "nubecoder",
+      "manifest": "http://www.nubecoder.com/files/android/SPH-D700/rm_manifest/nubecoder.js",
+      "roms": {
+        "SPH-D700": true,
+        "epic": true
+      },
+      "summary": "kernels by nubecoder"
+    },
+    {
       "developer": "one_love_420",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2127/aa7c11ff3b13601e1f44904843e69c5a.jpg",
@@ -2492,6 +2516,7 @@
     {
       "developer": "SenseiSimple",
       "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/2287/2d13993ea8025cb2214f94311412189f.png",
       "id": "senseisimple",
       "manifest": "http://thebrainworm.com/senseisimplecwm_manifest.js",
       "roms": {

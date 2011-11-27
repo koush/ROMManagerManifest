@@ -48,14 +48,6 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
-      "developer": "ERA",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/2221/4bb04642852e6af0f4e7d0dfa94ed34a.png",
-      "id": "ksmullins88@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/ksmullins88@gmail.com/manifest",
-      "summary": "ERA ROMs for EPIC4G"
-    },
-    {
       "developer": "Marcusant",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2192/a9c7d83b3de88504d49471212dcbd3b8.png",
@@ -74,6 +66,7 @@
     {
       "developer": "SenseiSimple",
       "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/2287/2d13993ea8025cb2214f94311412189f.png",
       "id": "senseisimple",
       "manifest": "http://thebrainworm.com/senseisimplecwm_manifest.js",
       "summary": "It's Simple - Stock Looks with All the Latest Performance - the Sleeper"

@@ -88,6 +88,14 @@
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
     {
+      "developer": "DHe17 Roms",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/2291/9b664bcab56e1b39c62ac4e81a40e1b7.png",
+      "id": "dhemke17",
+      "manifest": "http://dhe17roms.github.com/Roms/lightningrom.js",
+      "summary": "Roms and Mods for Thunderbolt and Incredible 2"
+    },
+    {
       "developer": "Cubed ROMs",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/66/24fcf796e1e1fc870f868d35e7cf0207.png",

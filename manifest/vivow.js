@@ -110,6 +110,14 @@
       "id": "virtuous",
       "manifest": "http://files.virtuousrom.com/virtuous.js",
       "summary": "Enhanced Sense ROMs and more from the Virtuous Team."
+    },
+   {
+      "developer": "dhemke17",
+      "free": "true",
+      "id": "DhE17roms",
+      "icon": "http://dhe17roms.github.com/Roms/auburn-university.jpg",
+      "manifest": "http://dhe17roms.github.com/Roms/lightningrom.js",
+      "summary": "Roms and Extras"
     }
   ],
   "minversion": "4803"

@@ -2692,7 +2692,7 @@
       "developer": "toadlife",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2233/a140733ebdfda956db39e2d8b88f86e3.jpg",
-      "id": "toadlife@gmail.com",
+      "id": "toadlife",
       "manifest": "http://xda.toadlife.net/ROMManager/manifests/rmmanifest.js",
       "roms": {
         "epic4g": true

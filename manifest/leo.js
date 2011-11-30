@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "HardDroid2",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/438/21a895f66fddad535cf84ed37ccb425c.JPG",
       "id": "DeanoSoft_UK",
       "manifest": "http://developer.clockworkmod.com/developer/DeanoSoft_UK/manifest",
@@ -41,7 +41,7 @@
     },
     {
       "developer": "TyphooN CyanogenMod",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/146/24fb59de6489c544c6fd683b6a43e491.png",
       "id": "do-not-use-cyanogenmod-nightly",
       "manifest": "http://developer.clockworkmod.com/developer/do-not-use-cyanogenmod-nightly/manifest",
@@ -87,12 +87,12 @@
       "summary": "MIUI English releases by MIUI.us"
     },
     {
-      "developer": "CM7 Tweaked cLK only",
+      "developer": "CM7 Tweaked MAGLDR / cLK",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/607/13ad2cc8cf0a38ad06196a50b66f074b.png",
       "id": "seader",
       "manifest": "http://config.sntclan.de/manifest.js",
-      "summary": "Seaders stable one, based on LEO 2.3.7 sources, tweaked with tablet-functions, audio/lights/sensor/gps fixes, custom settings and deleted/added/switched apps. http://bit.ly/nnx6qf for details (german)."
+      "summary": "Seaders stable one, based on LEO 2.3.7 sources, tweaked with tablet-functions, audio/lights/sensor/gps fixes, custom settings and deleted/added/switched apps. http://bit.ly/nnx6qf for details (german). Last Version 2.0.0 for MAGLDR too!"
     }
   ],
   "minversion": "4803"

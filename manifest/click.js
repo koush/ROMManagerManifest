@@ -33,7 +33,7 @@
     },
     {
       "developer": "dsw248@gmail.com",
-      "free": false,
+      "free": true,
       "id": "dsw248@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/dsw248@gmail.com/manifest",
       "summary": "dsw248@gmail.com"

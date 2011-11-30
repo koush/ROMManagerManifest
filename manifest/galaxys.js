@@ -26,14 +26,14 @@
     },
     {
       "developer": "coldflid@gmail.com",
-      "free": false,
+      "free": true,
       "id": "coldflid",
       "manifest": "http://developer.clockworkmod.com/developer/coldflid/manifest",
       "summary": "coldflid@gmail.com"
     },
     {
       "developer": "DarkyROM",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/124/e975fb9db2047ee42b84d4d65f612fcd.png",
       "id": "darkyy92@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/darkyy92@gmail.com/manifest",

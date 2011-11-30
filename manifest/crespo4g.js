@@ -65,7 +65,7 @@
     },
     {
       "developer": "mathkid95",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1992/7fe1b96f6d5747b17e3b7bb4ce165219.gif",
       "id": "mathkid95",
       "manifest": "http://developer.clockworkmod.com/developer/mathkid95/manifest",
@@ -73,7 +73,7 @@
     },
     {
       "developer": "middlepiller@gmail.com",
-      "free": false,
+      "free": true,
       "id": "middlepiller@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/middlepiller@gmail.com/manifest",
       "summary": "middlepiller@gmail.com"

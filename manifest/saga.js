@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+      "developer": "Shadow Hawk ROM",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/2519/a8de366b3b4156ddf95604e67a351db4.jpg",
+      "id": "adambuck1988@googlemail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/adambuck1988@googlemail.com/manifest",
+      "summary": "Built From Latest Official Sense 3 Stock ROM. USR + BEATS + MORE"
+    },
+    {
       "developer": "BeatMod",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/808/969df1ceead72b89c48ef2a35a6a2393.png",
@@ -49,7 +57,7 @@
     },
     {
       "developer": "DJPBX",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/794/e317ca8f3c09678408816cf171108c8e.gif",
       "id": "djpbx",
       "manifest": "http://developer.clockworkmod.com/developer/djpbx/manifest",
@@ -89,7 +97,7 @@
     },
     {
       "developer": "mmmcfc",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2217/15386be30d902d0a62b5ce4c114edf3b.png",
       "id": "munawarmmannan@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/munawarmmannan@gmail.com/manifest",

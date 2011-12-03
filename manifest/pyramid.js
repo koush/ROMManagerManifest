@@ -2,15 +2,23 @@
   "manifests": [
     {
       "developer": "Baadnewz",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2313/9eed3cf860cea96cf5d5a6f190115dfe.jpg",
       "id": "Baadnewz@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/Baadnewz@gmail.com/manifest",
       "summary": "Baadnewz@gmail.com"
     },
     {
-      "developer": "Sense-o-Maniac",
+      "developer": "LeeDrOiD",
       "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/676/606ba794a3c9458b463d87cfd1642fa1.png",
+      "id": "LeeDrOiD",
+      "manifest": "http://leedroid.ftp.rshost.eu/LeeDrOiD.js",
+      "summary": "LeeDrOiD Sense roms & Kernels"
+    },
+    {
+      "developer": "Sense-o-Maniac",
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/862/dd9079fad0d347309ffbc6e4362a3145",
       "id": "Sense-o-Maniac",
       "manifest": "http://developer.clockworkmod.com/developer/Sense-o-Maniac/manifest",
@@ -18,7 +26,7 @@
     },
     {
       "developer": "CiVic",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/754/b33b496dcc1158a6fb54aade5e74befa.png",
       "id": "agoura@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/agoura@gmail.com/manifest",
@@ -26,7 +34,7 @@
     },
     {
       "developer": "aosp",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/322/c97732b0067d16ccf420f20f78b8f36a.png",
       "id": "aospmod",
       "manifest": "http://developer.clockworkmod.com/developer/aospmod/manifest",
@@ -42,7 +50,7 @@
     },
     {
       "developer": "CdTDroiD",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/803/9aec5a3c5464161e710530ada496a0fe.png",
       "id": "cdtdroid",
       "manifest": "http://developer.clockworkmod.com/developer/cdtdroid/manifest",
@@ -66,7 +74,7 @@
     },
     {
       "developer": "doniqcc",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/718/9c3899d3bf007a79e4bab261fad0c501.jpg",
       "id": "eagleblood",
       "manifest": "http://developer.clockworkmod.com/developer/eagleblood/manifest",
@@ -90,7 +98,7 @@
     },
     {
       "developer": "Htcclay",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/307/5076662d1617430aa6ad3f6ad73136aa.jpg",
       "id": "htcclay",
       "manifest": "http://developer.clockworkmod.com/developer/htcclay/manifest",
@@ -114,7 +122,7 @@
     },
     {
       "developer": "Xboarder56",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/663/402e31bd0ad3f6f57f92d29c291c52d7.jpg",
       "id": "xboarder56",
       "manifest": "http://developer.clockworkmod.com/developer/xboarder56/manifest",

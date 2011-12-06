@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "Shadow Hawk ROM",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2519/a8de366b3b4156ddf95604e67a351db4.jpg",
       "id": "adambuck1988@googlemail.com",
       "manifest": "http://developer.clockworkmod.com/developer/adambuck1988@googlemail.com/manifest",
@@ -57,7 +57,7 @@
     },
     {
       "developer": "DJPBX",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/794/e317ca8f3c09678408816cf171108c8e.gif",
       "id": "djpbx",
       "manifest": "http://developer.clockworkmod.com/developer/djpbx/manifest",
@@ -97,11 +97,11 @@
     },
     {
       "developer": "mmmcfc",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2217/15386be30d902d0a62b5ce4c114edf3b.png",
       "id": "munawarmmannan@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/munawarmmannan@gmail.com/manifest",
-      "summary": "As close to the stock  ROM as possible, with slight tweaks"
+      "summary": "Only 15 years of age"
     },
     {
       "developer": "Virtuous",

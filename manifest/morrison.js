@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "TeamRogue",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/255/eef30cd10645b17f89e2f65186bfb915.png",
       "id": "TeamRogue",
       "manifest": "http://developer.clockworkmod.com/developer/TeamRogue/manifest",
@@ -49,7 +49,7 @@
     },
     {
       "developer": "JayDub",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/637/8b686c72876f16d95da06635ab65049e.png",
       "id": "jay.dub.williams82@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/jay.dub.williams82@gmail.com/manifest",

@@ -124,14 +124,6 @@
       "summary": "ROMs & kernels for HTC EVO 4G, Droid Incredible"
     },
     {
-      "developer": "MaxDamage",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/529/b1c8e19a6f619e9e3cf2a36de2fb8b0a.png",
-      "id": "maxdamage",
-      "manifest": "https://dl.dropbox.com/s/7yreog0xtyebutn/maxdamage/manifest.js",
-      "summary": "Flashing CM nightlies made easy!"
-    },
-    {
       "developer": "MIUI.us",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
@@ -157,7 +149,7 @@
     },
     {
       "developer": "Swagged Out Stock",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/697/40e325c213ebeb2999003d52dc979b2b.png",
       "id": "swagstr",
       "manifest": "http://developer.clockworkmod.com/developer/swagstr/manifest",

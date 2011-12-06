@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "FirstUA-ROM",
-      "free": false,
+      "free": true,
       "id": "Grif07",
       "manifest": "http://developer.clockworkmod.com/developer/Grif07/manifest",
       "summary": "Light, fast and stable KPH based ROM with CF-ROOT kernel. English is included! Will wipe all your DATA!!!"
@@ -25,7 +25,7 @@
     },
     {
       "developer": "Tailor-Make Stuffs",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/868/d4b50e3fe5515e3362ed97ef658a65b0.jpg",
       "id": "febycv@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/febycv@gmail.com/manifest",

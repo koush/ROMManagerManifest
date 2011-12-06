@@ -65,15 +65,15 @@
     },
     {
       "developer": "KingDroid Roms",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1661/61448b7570fbdc37194dbad240f4aa94.png",
       "id": "pedrokingpc@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/pedrokingpc@gmail.com/manifest",
-      "summary": "pedrokingpc@gmail.com"
+      "summary": "Roms modificadas para gran rendimiento y minimo consumo,con multitud de mods"
     },
     {
       "developer": "Novek",
-      "free": false,
+      "free": true,
       "id": "trondkevin@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/trondkevin@gmail.com/manifest",
       "summary": "Happy XDA'er"

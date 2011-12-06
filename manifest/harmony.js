@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "GreenRomProject",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
       "id": "GreenRomProject",
       "manifest": "http://developer.clockworkmod.com/developer/GreenRomProject/manifest",
@@ -74,14 +74,6 @@
       "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
-    },
-    {
-      "developer": "CyanogenMod Nightly Kangs",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/605/b2728dddb56f27d31d52935f68db4b9b.png",
-      "id": "maxdamage2122Smba1002Kangs",
-      "manifest": "https://dl.dropbox.com/s/7yreog0xtyebutn/smb_a1002-nightlies/manifest.js",
-      "summary": "By maxdamage2122 Unmodified Cyanogenmod nightly kangs for the Viewsonic GTablet"
     },
     {
       "developer": "Pershoot",

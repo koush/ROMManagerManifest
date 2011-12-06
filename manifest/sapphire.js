@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "GreenRom Project",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/672/900449a34b08c137930980f65c629f20.png",
       "id": "GRP",
       "manifest": "http://developer.clockworkmod.com/developer/GRP/manifest",
@@ -10,7 +10,7 @@
     },
     {
       "developer": "GreenRomProject",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
       "id": "GreenRomProject",
       "manifest": "http://developer.clockworkmod.com/developer/GreenRomProject/manifest",
@@ -18,7 +18,7 @@
     },
     {
       "developer": "SlashDW",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/567/2b481fc258e2308c90e8d76917141340.png",
       "id": "SlashDW",
       "manifest": "http://developer.clockworkmod.com/developer/SlashDW/manifest",
@@ -88,14 +88,14 @@
     },
     {
       "developer": "tvall",
-      "free": false,
+      "free": true,
       "id": "tvall43@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/tvall43@gmail.com/manifest",
       "summary": "random stuffs"
     },
     {
       "developer": "Ginger yoshi ^_^",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/294/b0c8e3dee633ac3d0f6ce3352389943b.png",
       "id": "yohshua",
       "manifest": "http://developer.clockworkmod.com/developer/yohshua/manifest",

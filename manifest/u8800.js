@@ -18,7 +18,7 @@
     },
     {
       "developer": "Oxygen ROM",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/848/640eb396b8b335969bd0f883902f97e8.png",
       "id": "dzo",
       "manifest": "http://developer.clockworkmod.com/developer/dzo/manifest",
@@ -26,7 +26,7 @@
     },
     {
       "developer": "Tailor-Make Stuffs",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/868/d4b50e3fe5515e3362ed97ef658a65b0.jpg",
       "id": "febycv@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/febycv@gmail.com/manifest",
@@ -34,7 +34,7 @@
     },
     {
       "developer": "franciscofranco",
-      "free": false,
+      "free": true,
       "id": "franciscofranco.1990@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/franciscofranco.1990@gmail.com/manifest",
       "summary": "franco.Kernel for Nexus S and Huawei U8800"

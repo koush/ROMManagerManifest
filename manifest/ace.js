@@ -120,6 +120,14 @@
       "summary": "MIUI English releases by MIUI.us"
     },
     {
+      "developer": "KingDroid Roms",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/1661/61448b7570fbdc37194dbad240f4aa94.png",
+      "id": "pedrokingpc@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/pedrokingpc@gmail.com/manifest",
+      "summary": "Roms modificadas para gran rendimiento y minimo consumo,con multitud de mods"
+    },
+    {
       "developer": "pirateghost",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/618/e651f76ee302b696b7e42ed966b612cf.jpg",

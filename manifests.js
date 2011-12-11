@@ -115,7 +115,7 @@
       "roms": {
         "speedy": true
       },
-      "summary": "Gapps Latest 11/29/2011"
+      "summary": "Gapps Latest 12/08/2011"
     },
     {
       "developer": "Crypt0night",
@@ -127,6 +127,17 @@
         "shooteru": true
       },
       "summary": "Rom developer for the HTC evo 3d GSM"
+    },
+    {
+      "developer": ".CyberGR-MOD|NS-NGN.",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/2700/271637866f649bf2fe017754589e9f8a.JPG",
+      "id": "CyberGR-MOD|NS-NGN",
+      "manifest": "http://developer.clockworkmod.com/developer/CyberGR-MOD|NS-NGN/manifest",
+      "roms": {
+        "crespo": true
+      },
+      "summary": "If you are looking for a lightning fast, smooth and rock stable alternative with stock look, custom ROM, based on CM7 1.0.1 then you are in the right place!!Give it a ride to believe!"
     },
     {
       "developer": "DRockstar",
@@ -264,6 +275,17 @@
         "droidx": "true"
       },
       "summary": "Custom Themes & Goodies"
+    },
+    {
+      "developer": "Just was ICS'd boy!",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/2775/560da12b2ef1180621c83ee9a161cffb.png",
+      "id": "Just was ICS'd boy!",
+      "manifest": "http://developer.clockworkmod.com/developer/Just was ICS'd boy!/manifest",
+      "roms": {
+        "supersonic": true
+      },
+      "summary": "ICS Fully built. No face unlock though. If cant add google account then reboot and try again."
     },
     {
       "developer": "Kejar31",
@@ -439,17 +461,6 @@
       "summary": "Custom CyanogenMod builds by RevNumbers for the Droid2 DroidX and Droid2 Global"
     },
     {
-      "developer": "Runnymede",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/1597/e93ca402fbf70d17aa42ea2cd6f76689.gif",
-      "id": "Runnymede",
-      "manifest": "http://foxbrew.org/android/runny.js",
-      "roms": {
-        "bravo": true
-      },
-      "summary": "HTC Runnymede / Android 2.3.5 / Sensation sense 3.5"
-    },
-    {
       "developer": "Complete Android Experience ",
       "free": true,
       "id": "SamSamoon",
@@ -603,6 +614,16 @@
       "summary": "CyanogenMod 7 for the Motorola Cliq/Dext. DO NOT WIPE DATA/CACHE. Our ROM's have a wipe patch included. If you wipe, reinstall without wiping. Please remember DO NOT BACKUP ROM OR WIPE DATA/FACTORY RESET THROUGH ROM MANAGER! "
     },
     {
+      "developer": "TeeRom",
+      "free": true,
+      "id": "TeeRom",
+      "manifest": "http://developer.clockworkmod.com/developer/TeeRom/manifest",
+      "roms": {
+        "inc": true
+      },
+      "summary": "Time to rock your stock!"
+    },
+    {
       "developer": "ThunderStick",
       "free": "true",
       "id": "ThunderStick",
@@ -733,6 +754,7 @@
       "manifest": "http://developer.clockworkmod.com/developer/aospmod/manifest",
       "roms": {
         "thunderg": true,
+        "crespo4g": true,
         "pyramid": true,
         "heroc": true
       },
@@ -955,6 +977,17 @@
         "sholes": "true"
       },
       "summary": "ChevyCam94's Custom ROM's"
+    },
+    {
+      "developer": "Whoareyou",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/2723/18c2b97db8bf6b9978cfe67b4bf4733c.png",
+      "id": "chrispilot2b@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/chrispilot2b@gmail.com/manifest",
+      "roms": {
+        "espresso": true
+      },
+      "summary": "Cuntomized ROMs for your Android device!"
     },
     {
       "developer": "coldflid@gmail.com",
@@ -1234,6 +1267,16 @@
       "summary": "Cyclonic AOSP ROM"
     },
     {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
+    },
+    {
       "developer": "DrewGaren Roms",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1245,16 +1288,6 @@
         "crespo": true
       },
       "summary": "Custom Roms and Themes for your Device"
-    },
-    {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1325,17 +1358,6 @@
       "summary": "earthbound.iap@gmail.com"
     },
     {
-      "developer": "Salvage-Mod Nightlies",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
-    },
-    {
       "developer": "Salvage-Mod",
       "free": "true",
       "id": "echo17",
@@ -1345,6 +1367,17 @@
         "supersonic": "true"
       },
       "summary": "GB source build. Group project."
+    },
+    {
+      "developer": "Salvage-Mod Nightlies",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -1519,6 +1552,17 @@
       "summary": "MIUI for HTC Vision"
     },
     {
+      "developer": "Gautam Aggarwal",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/2733/3d9ebd223f9ffd5f5e32b6992bd5d11f.jpeg",
+      "id": "gautam.aggarwal62@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/gautam.aggarwal62@gmail.com/manifest",
+      "roms": {
+        "a70": true
+      },
+      "summary": "Hybrid ROM for faster experience"
+    },
+    {
       "developer": "GazaIan's ROMs",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/296/cd3509e2cff156bd174cb32481dfbe33.jpg",
@@ -1642,6 +1686,17 @@
       "summary": "Go Go Go!"
     },
     {
+      "developer": "HyperDroid CM7",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
+      "id": "hyperdroid",
+      "manifest": "http://sntclan.de/manifest.js",
+      "roms": {
+        "leo": true
+      },
+      "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
+    },
+    {
       "developer": "HyperDroid",
       "free": "true",
       "id": "hyperdroid",
@@ -1652,15 +1707,15 @@
       "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
     },
     {
-      "developer": "HyperDroid CM7",
+      "developer": "Coentje44",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
-      "id": "hyperdroid",
-      "manifest": "http://sntclan.de/manifest.js",
+      "icon": "http://developer.clockworkmod.com/downloads/2648/e9dde91c88ad6b2e2d74addd42c74db7.png",
+      "id": "iapplecloud@me.com",
+      "manifest": "http://developer.clockworkmod.com/developer/iapplecloud@me.com/manifest",
       "roms": {
-        "leo": true
+        "crespo": true
       },
-      "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
+      "summary": "Android software developer"
     },
     {
       "developer": "Ihtfp69",
@@ -2071,6 +2126,16 @@
       "summary": "Miui.us Ports for Droid"
     },
     {
+      "developer": "maury1234",
+      "free": true,
+      "id": "mamezcua94@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/mamezcua94@gmail.com/manifest",
+      "roms": {
+        "sapphire": true
+      },
+      "summary": "Pre-modded roms for optimum performance"
+    },
+    {
       "developer": "mathkid95",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1992/7fe1b96f6d5747b17e3b7bb4ce165219.gif",
@@ -2136,8 +2201,8 @@
         "captivatemtd": true,
         "inc": true,
         "es209ra": true,
-        "saga": true,
         "crespo": true,
+        "saga": true,
         "vision": true,
         "galaxys2": true,
         "galaxysmtd": true,
@@ -2230,7 +2295,7 @@
       "roms": {
         "saga": true
       },
-      "summary": "Only 15 years of age"
+      "summary": "Custom ROM's for Desire S"
     },
     {
       "developer": "myn",
@@ -2347,6 +2412,7 @@
       "id": "pedrokingpc@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/pedrokingpc@gmail.com/manifest",
       "roms": {
+        "ace": true,
         "galaxys2": true
       },
       "summary": "Roms modificadas para gran rendimiento y minimo consumo,con multitud de mods"
@@ -2442,6 +2508,16 @@
         "inc": "true"
       },
       "summary": "Formerly r2DoesInc, Check out the new stuff. "
+    },
+    {
+      "developer": "rennyro13@gmail.com",
+      "free": true,
+      "id": "rennyro13@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/rennyro13@gmail.com/manifest",
+      "roms": {
+        "thunderg": true
+      },
+      "summary": "rennyro13@gmail.com"
     },
     {
       "developer": "EnYo",
@@ -2923,6 +2999,16 @@
         "vision": true
       },
       "summary": "XboarderMOD Roms are a mix of Cm7/AOSP to give you the best of both worlds :D"
+    },
+    {
+      "developer": "xboxfanj/miui",
+      "free": true,
+      "id": "xboxfanj",
+      "manifest": "http://developer.clockworkmod.com/developer/xboxfanj/manifest",
+      "roms": {
+        "epic4g": true
+      },
+      "summary": "roms for epic 4g"
     },
     {
       "developer": "Ginger yoshi ^_^",

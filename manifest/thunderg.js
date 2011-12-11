@@ -62,6 +62,13 @@
       "id": "kiril.mik.os@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/kiril.mik.os@gmail.com/manifest",
       "summary": "kiril.mik.os@gmail.com"
+    },
+    {
+      "developer": "rennyro13@gmail.com",
+      "free": true,
+      "id": "rennyro13@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/rennyro13@gmail.com/manifest",
+      "summary": "rennyro13@gmail.com"
     }
   ],
   "minversion": "4803"

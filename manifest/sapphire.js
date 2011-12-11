@@ -72,6 +72,13 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
+      "developer": "maury1234",
+      "free": true,
+      "id": "mamezcua94@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/mamezcua94@gmail.com/manifest",
+      "summary": "Pre-modded roms for optimum performance"
+    },
+    {
       "developer": "Pershoot",
       "free": "true",
       "id": "pershoot",

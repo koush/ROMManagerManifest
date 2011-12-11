@@ -25,6 +25,14 @@
       "summary": "Customizations, Ports & lot of other extra cool stuffs"
     },
     {
+      "developer": "Gautam Aggarwal",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/2733/3d9ebd223f9ffd5f5e32b6992bd5d11f.jpeg",
+      "id": "gautam.aggarwal62@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/gautam.aggarwal62@gmail.com/manifest",
+      "summary": "Hybrid ROM for faster experience"
+    },
+    {
       "developer": "Google Apps",
       "free": "true",
       "id": "google",

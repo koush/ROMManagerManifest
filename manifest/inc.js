@@ -17,6 +17,13 @@
       "summary": "TSM Pool Party for the Dinc2"
     },
     {
+      "developer": "TeeRom",
+      "free": true,
+      "id": "TeeRom",
+      "manifest": "http://developer.clockworkmod.com/developer/TeeRom/manifest",
+      "summary": "Time to rock your stock!"
+    },
+    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",

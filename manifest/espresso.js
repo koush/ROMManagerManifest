@@ -17,6 +17,14 @@
       "summary": "Managing root like it's going out of style"
     },
     {
+      "developer": "Whoareyou",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/2723/18c2b97db8bf6b9978cfe67b4bf4733c.png",
+      "id": "chrispilot2b@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/chrispilot2b@gmail.com/manifest",
+      "summary": "Cuntomized ROMs for your Android device!"
+    },
+    {
       "developer": "CyanogenMod",
       "free": "true",
       "id": "cyanogenmod",

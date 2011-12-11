@@ -8,6 +8,14 @@
       "summary": "Android Creative Syndicate"
     },
     {
+      "developer": "Just was ICS'd boy!",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/2775/560da12b2ef1180621c83ee9a161cffb.png",
+      "id": "Just was ICS'd boy!",
+      "manifest": "http://developer.clockworkmod.com/developer/Just was ICS'd boy!/manifest",
+      "summary": "ICS Fully built. No face unlock though. If cant add google account then reboot and try again."
+    },
+    {
       "developer": "OMJ",
       "free": "true",
       "id": "OMJ",
@@ -70,20 +78,20 @@
       "summary": "Updates for stock ROMs, radio, hboot"
     },
     {
-      "developer": "Salvage-Mod Nightlies",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
-      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
-    },
-    {
       "developer": "Salvage-Mod",
       "free": "true",
       "id": "echo17",
       "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
       "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
       "summary": "GB source build. Group project."
+    },
+    {
+      "developer": "Salvage-Mod Nightlies",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
+      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
     },
     {
       "developer": "Fresh",

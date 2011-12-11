@@ -16,14 +16,6 @@
       "summary": "LeeDrOiD Sense roms & Kernels"
     },
     {
-      "developer": "Runnymede",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/1597/e93ca402fbf70d17aa42ea2cd6f76689.gif",
-      "id": "Runnymede",
-      "manifest": "http://foxbrew.org/android/runny.js",
-      "summary": "HTC Runnymede / Android 2.3.5 / Sensation sense 3.5"
-    },
-    {
       "developer": "Oxygen",
       "free": "true",
       "id": "adamg",

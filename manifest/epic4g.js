@@ -108,6 +108,13 @@
       "id": "xBTx",
       "manifest": "http://developer.clockworkmod.com/developer/xBTx/manifest",
       "summary": "Keep it stock... Mostly."
+    },
+    {
+      "developer": "xboxfanj/miui",
+      "free": true,
+      "id": "xboxfanj",
+      "manifest": "http://developer.clockworkmod.com/developer/xboxfanj/manifest",
+      "summary": "roms for epic 4g"
     }
   ],
   "minversion": "4803"

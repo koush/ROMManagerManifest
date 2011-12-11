@@ -101,7 +101,7 @@
       "icon": "http://developer.clockworkmod.com/downloads/2217/15386be30d902d0a62b5ce4c114edf3b.png",
       "id": "munawarmmannan@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/munawarmmannan@gmail.com/manifest",
-      "summary": "Only 15 years of age"
+      "summary": "Custom ROM's for Desire S"
     },
     {
       "developer": "Virtuous",

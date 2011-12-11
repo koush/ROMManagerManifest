@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+      "developer": ".CyberGR-MOD|NS-NGN.",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/2700/271637866f649bf2fe017754589e9f8a.JPG",
+      "id": "CyberGR-MOD|NS-NGN",
+      "manifest": "http://developer.clockworkmod.com/developer/CyberGR-MOD|NS-NGN/manifest",
+      "summary": "If you are looking for a lightning fast, smooth and rock stable alternative with stock look, custom ROM, based on CM7 1.0.1 then you are in the right place!!Give it a ride to believe!"
+    },
+    {
       "developer": "Nexus S Team Germany",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/962/bc1dbaa7f6a0b08b7e1a2d984c7b0751.gif",
@@ -101,6 +109,14 @@
       "id": "htcclay",
       "manifest": "http://developer.clockworkmod.com/developer/htcclay/manifest",
       "summary": "Go Go Go!"
+    },
+    {
+      "developer": "Coentje44",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/2648/e9dde91c88ad6b2e2d74addd42c74db7.png",
+      "id": "iapplecloud@me.com",
+      "manifest": "http://developer.clockworkmod.com/developer/iapplecloud@me.com/manifest",
+      "summary": "Android software developer"
     },
     {
       "developer": "NexBreed ROMs",

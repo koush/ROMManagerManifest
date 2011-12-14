@@ -9,7 +9,7 @@
     },
     {
       "developer": "Menelkir ROMs",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/791/11b39c3b365a9d1160b1b7e9d94911c3.jpg",
       "id": "Menelkir",
       "manifest": "http://developer.clockworkmod.com/developer/Menelkir/manifest",
@@ -56,7 +56,7 @@
     },
     {
       "developer": "DrewGaren Roms",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
       "id": "drewgaren",
       "manifest": "http://developer.clockworkmod.com/developer/drewgaren/manifest",
@@ -64,7 +64,7 @@
     },
     {
       "developer": "E-XtremeMod",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/132/3bea45cb0d900947ae2ceb5399b617f3.png",
       "id": "extrememod",
       "manifest": "http://developer.clockworkmod.com/developer/extrememod/manifest",
@@ -86,7 +86,7 @@
     },
     {
       "developer": "QND",
-      "free": true,
+      "free": false,
       "id": "jbbandos",
       "manifest": "http://developer.clockworkmod.com/developer/jbbandos/manifest",
       "summary": "Multi-language MIUI ROMs. No theme change, 3G, bluetooth and other tunings. Lean and fast."
@@ -130,7 +130,7 @@
     },
     {
       "developer": "EnYo",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/633/e8973d34d142398f1d86f8c3ef789a8e.jpg",
       "id": "rfvbnji91@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/rfvbnji91@gmail.com/manifest",

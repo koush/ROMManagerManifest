@@ -9,7 +9,7 @@
     },
     {
       "developer": "Just was ICS'd boy!",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2775/560da12b2ef1180621c83ee9a161cffb.png",
       "id": "Just was ICS'd boy!",
       "manifest": "http://developer.clockworkmod.com/developer/Just was ICS'd boy!/manifest",
@@ -157,7 +157,7 @@
     },
     {
       "developer": "Swagged Out Stock",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/697/40e325c213ebeb2999003d52dc979b2b.png",
       "id": "swagstr",
       "manifest": "http://developer.clockworkmod.com/developer/swagstr/manifest",

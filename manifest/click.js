@@ -33,7 +33,7 @@
     },
     {
       "developer": "Jack Michael",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2115/b9fa1ef5c95cc1f94aae0e338124c8a1.png",
       "id": "dsw248",
       "manifest": "http://developer.clockworkmod.com/developer/dsw248/manifest",

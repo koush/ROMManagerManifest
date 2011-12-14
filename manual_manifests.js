@@ -843,7 +843,7 @@
     },
     {
       "developer": "TeamGTP",
-      "icon": "http://public.gtpdevs.com/RomManager/rommanager.png",
+      "icon": "http://public.gtpdevs.com/Rommanager/rommanager.png",
       "id": "TeamGTP",
       "free": "true",
       "manifest": "http://public.gtpdevs.com/Rommanager/manifest.js",

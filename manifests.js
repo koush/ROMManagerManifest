@@ -993,7 +993,7 @@
       "developer": "ClockworkMod",
       "free": "true",
       "id": "clockworkmod",
-      "icon": "https://github.com/ClockworkMod/artwork/raw/master/rommanager/bwlogo256.png",
+      "icon": "https://github.com/ClockworkMod/artwork/raw/master/rommanager/invert128.png",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
       "roms": {
         "all": true
@@ -1289,6 +1289,16 @@
       "summary": "Cyclonic AOSP ROM"
     },
     {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
+    },
+    {
       "developer": "DrewGaren Roms",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1300,16 +1310,6 @@
         "crespo": true
       },
       "summary": "Custom Roms and Themes for your Device"
-    },
-    {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -3053,7 +3053,7 @@
         "ruby": true,
         "vision": true
       },
-      "summary": "XboarderMOD Roms are a mix of Cm7/AOSP to give you the best of both worlds :D"
+      "summary": "Hi, Im xboarder56 a 16 year old kid and make alot of roms for diffrent devices enjoy my work guys :D"
     },
     {
       "developer": "xboxfanj/miui",

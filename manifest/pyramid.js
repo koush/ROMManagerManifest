@@ -76,7 +76,7 @@
       "developer": "ClockworkMod",
       "free": "true",
       "id": "clockworkmod",
-      "icon": "https://github.com/ClockworkMod/artwork/raw/master/rommanager/bwlogo256.png",
+      "icon": "https://github.com/ClockworkMod/artwork/raw/master/rommanager/invert128.png",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
       "summary": "ROMs and apps from the creator of ROM Manager!"
     },
@@ -134,7 +134,7 @@
       "icon": "http://developer.clockworkmod.com/downloads/663/402e31bd0ad3f6f57f92d29c291c52d7.jpg",
       "id": "xboarder56",
       "manifest": "http://developer.clockworkmod.com/developer/xboarder56/manifest",
-      "summary": "XboarderMOD Roms are a mix of Cm7/AOSP to give you the best of both worlds :D"
+      "summary": "Hi, Im xboarder56 a 16 year old kid and make alot of roms for diffrent devices enjoy my work guys :D"
     }
   ],
   "minversion": "4803"

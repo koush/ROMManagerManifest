@@ -60,7 +60,7 @@
       "developer": "ClockworkMod",
       "free": "true",
       "id": "clockworkmod",
-      "icon": "https://github.com/ClockworkMod/artwork/raw/master/rommanager/bwlogo256.png",
+      "icon": "https://github.com/ClockworkMod/artwork/raw/master/rommanager/invert128.png",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
       "summary": "ROMs and apps from the creator of ROM Manager!"
     },

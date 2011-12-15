@@ -6,6 +6,7 @@
         "id": "clockworkmod",
         "free": "true",
         "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
+        "summary": "ROMs and apps from the creator of ROM Manager!"
         "roms": {
             "all": true
         }

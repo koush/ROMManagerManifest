@@ -44,7 +44,8 @@
       "free": "true",
       "id": "clockworkmod",
       "icon": "https://github.com/ClockworkMod/artwork/raw/master/rommanager/bwlogo256.png",
-      "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js"
+      "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
+      "summary": "ROMs and apps from the creator of ROM Manager!"
     },
     {
       "developer": "earthbound.iap",

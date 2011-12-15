@@ -997,7 +997,8 @@
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
       "roms": {
         "all": true
-      }
+      },
+      "summary": "ROMs and apps from the creator of ROM Manager!"
     },
     {
       "developer": "coldflid@gmail.com",

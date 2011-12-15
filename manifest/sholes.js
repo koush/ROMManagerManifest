@@ -81,6 +81,13 @@
       "summary": "ChevyCam94's Custom ROM's"
     },
     {
+      "developer": "ClockworkMod",
+      "free": "true",
+      "id": "clockworkmod",
+      "icon": "https://github.com/ClockworkMod/artwork/raw/master/rommanager/bwlogo256.png",
+      "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js"
+    },
+    {
       "developer": "cvpcs",
       "free": "true",
       "id": "cvpcs",

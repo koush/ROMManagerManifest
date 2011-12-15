@@ -990,6 +990,16 @@
       "summary": "Cuntomized ROMs for your Android device!"
     },
     {
+      "developer": "ClockworkMod",
+      "free": "true",
+      "id": "clockworkmod",
+      "icon": "https://github.com/ClockworkMod/artwork/raw/master/rommanager/bwlogo256.png",
+      "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
+      "roms": {
+        "all": true
+      }
+    },
+    {
       "developer": "coldflid@gmail.com",
       "free": false,
       "id": "coldflid",
@@ -1000,9 +1010,9 @@
       "summary": "coldflid@gmail.com"
     },
     {
-      "developer": "crackeyes",
+      "developer": "Crackeyes",
       "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/2827/7d75832a907b2be0d211bd9210c4b8ab.jpg",
+      "icon": "http://developer.clockworkmod.com/downloads/2827/9ad0366ae2efd9fcc36c8885b0a13972.jpg",
       "id": "crackeyes@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/crackeyes@gmail.com/manifest",
       "roms": {
@@ -1707,6 +1717,16 @@
       "summary": "Go Go Go!"
     },
     {
+      "developer": "HyperDroid",
+      "free": "true",
+      "id": "hyperdroid",
+      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
+      "roms": {
+        "leo": "true"
+      },
+      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
+    },
+    {
       "developer": "HyperDroid CM7",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
@@ -1716,16 +1736,6 @@
         "leo": true
       },
       "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
-    },
-    {
-      "developer": "HyperDroid",
-      "free": "true",
-      "id": "hyperdroid",
-      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
-      "roms": {
-        "leo": "true"
-      },
-      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
     },
     {
       "developer": "Coentje44",
@@ -1903,6 +1913,17 @@
         "glacier": true
       },
       "summary": "Roms, Ports, and custom gapps"
+    },
+    {
+      "developer": "jocala@jocala.com",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/2433/19a1350a7a0982fd55adc7becef33914.png",
+      "id": "jocala@jocala.com",
+      "manifest": "http://developer.clockworkmod.com/developer/jocala@jocala.com/manifest",
+      "roms": {
+        "epic4g": true
+      },
+      "summary": "jocala@jocala.com"
     },
     {
       "developer": "joeykrim",
@@ -2757,17 +2778,6 @@
       "summary": "t.dorie@gmail.com"
     },
     {
-      "developer": "CyanogenDefy Stable",
-      "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
-      "id": "tanguy.pruvot@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/tanguy.pruvot@gmail.com/manifest",
-      "roms": {
-        "umts_jordan": true
-      },
-      "summary": "Stable but unofficial RC and Release"
-    },
-    {
       "developer": "XDA CM7 Nightlies",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/541/91afee5f3ad77376b65aa60038c4979c.png",
@@ -2777,6 +2787,17 @@
         "umts_jordan": true
       },
       "summary": "XDA CM7 Original Nightly builds. tpruvot@github"
+    },
+    {
+      "developer": "CyanogenDefy Stable",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
+      "id": "tanguy.pruvot@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/tanguy.pruvot@gmail.com/manifest",
+      "roms": {
+        "umts_jordan": true
+      },
+      "summary": "Stable but unofficial RC and Release"
     },
     {
       "developer": "MyUI",

@@ -25,6 +25,13 @@
       "summary": "Managing root like it's going out of style"
     },
     {
+      "developer": "ClockworkMod",
+      "free": "true",
+      "id": "clockworkmod",
+      "icon": "https://github.com/ClockworkMod/artwork/raw/master/rommanager/bwlogo256.png",
+      "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js"
+    },
+    {
       "developer": "doniqcc",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/718/9c3899d3bf007a79e4bab261fad0c501.jpg",

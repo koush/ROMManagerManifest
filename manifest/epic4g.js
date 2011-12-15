@@ -40,6 +40,13 @@
       "summary": "Managing root like it's going out of style"
     },
     {
+      "developer": "ClockworkMod",
+      "free": "true",
+      "id": "clockworkmod",
+      "icon": "https://github.com/ClockworkMod/artwork/raw/master/rommanager/bwlogo256.png",
+      "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js"
+    },
+    {
       "developer": "earthbound.iap",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2561/91432fb3efe76db6b048798964a8685e.jpg",
@@ -61,6 +68,14 @@
       "id": "houseofchazor@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/houseofchazor@gmail.com/manifest",
       "summary": "houseofchazor@gmail.com"
+    },
+    {
+      "developer": "jocala@jocala.com",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/2433/19a1350a7a0982fd55adc7becef33914.png",
+      "id": "jocala@jocala.com",
+      "manifest": "http://developer.clockworkmod.com/developer/jocala@jocala.com/manifest",
+      "summary": "jocala@jocala.com"
     },
     {
       "developer": "ERA",

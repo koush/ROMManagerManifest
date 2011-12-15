@@ -1,10 +1,9 @@
 {
     "version": "1",
-    "homepage": "http://www.cyanogenmod.com/",
-    "donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3283920",
     "marketapps": [
     {
         "name": "DeskSMS",
+        "icon": "https://github.com/ClockworkMod/artwork/raw/master/desksms/desksms.png"
         "summary": "Text from your computer or tablet with your existing phone number!",
         "packagename": "com.koushikdutta.desktopsms"
     }

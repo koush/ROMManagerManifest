@@ -17,9 +17,16 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "crackeyes",
+      "developer": "ClockworkMod",
+      "free": "true",
+      "id": "clockworkmod",
+      "icon": "https://github.com/ClockworkMod/artwork/raw/master/rommanager/bwlogo256.png",
+      "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js"
+    },
+    {
+      "developer": "Crackeyes",
       "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/2827/7d75832a907b2be0d211bd9210c4b8ab.jpg",
+      "icon": "http://developer.clockworkmod.com/downloads/2827/9ad0366ae2efd9fcc36c8885b0a13972.jpg",
       "id": "crackeyes@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/crackeyes@gmail.com/manifest",
       "summary": "based off of Xborders Amazing Quick Senes. Well this is AQSenseLess. all the items you love on his roms are on mine with out all the bloat of sense"

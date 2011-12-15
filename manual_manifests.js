@@ -7,7 +7,7 @@
         "free": "true",
         "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
         "roms": {
-            "all"
+            "all": true
         }
     },
     {

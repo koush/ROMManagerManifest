@@ -25,6 +25,13 @@
       "summary": "Managing root like it's going out of style"
     },
     {
+      "developer": "ClockworkMod",
+      "free": "true",
+      "id": "clockworkmod",
+      "icon": "https://github.com/ClockworkMod/artwork/raw/master/rommanager/bwlogo256.png",
+      "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js"
+    },
+    {
       "developer": "freEVO 3D ROM",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/705/959053b3e45cce1ac14b70a7a212a546.png",

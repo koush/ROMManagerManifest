@@ -2,7 +2,7 @@
     "manifests": [
     {
         "developer": "ClockworkMod",
-        "icon": "https://github.com/ClockworkMod/artwork/raw/master/rommanager/invert128.png",
+        "icon": "https://github.com/ClockworkMod/artwork/raw/master/rommanager/invertclear.png",
         "id": "clockworkmod",
         "free": "true",
         "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",

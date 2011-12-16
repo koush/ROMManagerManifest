@@ -3,6 +3,12 @@
     "roms":
     [
     {
+        "name": "Nexus S 4.0.3",
+        "summary": " T-Mobile/i9020t",
+        "device": "crespo",
+        "url": "http://android.clients.google.com/packages/ota/google_crespo/VQ8PQk_V.zip"
+    },
+    {
         "name": "Nexus S 2.3.3",
         "summary": "Stable",
         "device": "crespo",

@@ -25,6 +25,14 @@
       "summary": "The small Pieces"
     },
     {
+      "developer": "SparksCo",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/293/cf525bafa8894bfea108d2e1387e6e52.png",
+      "id": "SparksCo",
+      "manifest": "http://developer.clockworkmod.com/developer/SparksCo/manifest",
+      "summary": "Various Android Mods"
+    },
+    {
       "developer": "BeatMod",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/808/969df1ceead72b89c48ef2a35a6a2393.png",

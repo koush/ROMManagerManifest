@@ -25,6 +25,14 @@
       "summary": "Sense-o-Maniac - Sense 3.5 ReZound Beats ||  Bravia Engine || Bloatware free ||"
     },
     {
+      "developer": "SparksCo",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/293/cf525bafa8894bfea108d2e1387e6e52.png",
+      "id": "SparksCo",
+      "manifest": "http://developer.clockworkmod.com/developer/SparksCo/manifest",
+      "summary": "Various Android Mods"
+    },
+    {
       "developer": "CiVic",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/754/b33b496dcc1158a6fb54aade5e74befa.png",

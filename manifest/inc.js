@@ -71,6 +71,13 @@
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
     {
+      "developer": "dmeadows013",
+      "free": false,
+      "id": "dmeadows013@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/dmeadows013@gmail.com/manifest",
+      "summary": "Roms and Mods for the Droid Incredible and HTC Rezound"
+    },
+    {
       "developer": "FrostIncredible",
       "free": "true",
       "id": "frostincredible",

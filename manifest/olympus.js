@@ -9,6 +9,14 @@
       "summary": "Roms, themes, and more!"
     },
     {
+      "developer": "The DarkSide",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/2949/68acbded5ce342764d6a2af44d9a6f97.gif",
+      "id": "Nottach",
+      "manifest": "http://developer.clockworkmod.com/developer/Nottach/manifest",
+      "summary": "By Nottach of XDA."
+    },
+    {
       "developer": "aefreshkid97@gmail.com",
       "free": false,
       "id": "aefreshkid97@gmail.com",

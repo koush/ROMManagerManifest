@@ -115,7 +115,7 @@
       "roms": {
         "speedy": true
       },
-      "summary": "Gapps Latest 12/08/2011"
+      "summary": "Gapps Latest 12/17/2011"
     },
     {
       "developer": "Crypt0night",
@@ -1414,17 +1414,6 @@
       "summary": "earthbound.iap@gmail.com"
     },
     {
-      "developer": "Salvage-Mod",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "GB source build. Group project."
-    },
-    {
       "developer": "Salvage-Mod Nightlies",
       "free": "true",
       "id": "echo17",
@@ -1434,6 +1423,17 @@
         "supersonic": "true"
       },
       "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
+    },
+    {
+      "developer": "Salvage-Mod",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "GB source build. Group project."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -1752,16 +1752,6 @@
       "summary": "Go Go Go!"
     },
     {
-      "developer": "HyperDroid",
-      "free": "true",
-      "id": "hyperdroid",
-      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
-      "roms": {
-        "leo": "true"
-      },
-      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
-    },
-    {
       "developer": "HyperDroid CM7",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
@@ -1771,6 +1761,16 @@
         "leo": true
       },
       "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
+    },
+    {
+      "developer": "HyperDroid",
+      "free": "true",
+      "id": "hyperdroid",
+      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
+      "roms": {
+        "leo": "true"
+      },
+      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
     },
     {
       "developer": "Coentje44",
@@ -2287,6 +2287,7 @@
         "captivate": true,
         "vibrant": true,
         "captivatemtd": true,
+        "es209ra": true,
         "saga": true,
         "vision": true,
         "galaxys2": true,
@@ -2523,6 +2524,7 @@
       "manifest": "http://wonderly.com/bb/WEBSITE/pete.js",
       "roms": {
         "passion": true,
+        "toro": true,
         "sholes": true,
         "crespo4g": true,
         "inc": true,
@@ -2591,6 +2593,16 @@
         "inc": "true"
       },
       "summary": "Formerly r2DoesInc, Check out the new stuff. "
+    },
+    {
+      "developer": "ravi.haryana@gmail.com",
+      "free": false,
+      "id": "ravi.haryana@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/ravi.haryana@gmail.com/manifest",
+      "roms": {
+        "bravo": true
+      },
+      "summary": "ravi.haryana@gmail.com"
     },
     {
       "developer": "rennyro13@gmail.com",

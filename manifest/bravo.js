@@ -102,6 +102,13 @@
       "summary": "MIUI English releases by MIUI.us"
     },
     {
+      "developer": "ravi.haryana@gmail.com",
+      "free": false,
+      "id": "ravi.haryana@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/ravi.haryana@gmail.com/manifest",
+      "summary": "ravi.haryana@gmail.com"
+    },
+    {
       "developer": "RichardTrip - DeFroST",
       "free": "true",
       "id": "richardtrip",

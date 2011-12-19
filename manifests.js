@@ -65,6 +65,16 @@
       "summary": "All Build.prop Mods to Date"
     },
     {
+      "developer": "Birdman",
+      "free": false,
+      "id": "Birdman",
+      "manifest": "http://developer.clockworkmod.com/developer/Birdman/manifest",
+      "roms": {
+        "toro": true
+      },
+      "summary": "General Roms"
+    },
+    {
       "developer": "computerkid23",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2172/bbfefd270a9aac7e5dc7dc6f9f3c1c2f.jpg",
@@ -719,6 +729,17 @@
       "summary": "Oxygen, clean and simple AOSP ROM"
     },
     {
+      "developer": "AdFad666",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/3020/5e63fff12afef893368323e27ab37c32.png",
+      "id": "adfad666",
+      "manifest": "http://developer.clockworkmod.com/developer/adfad666/manifest",
+      "roms": {
+        "thunderg": true
+      },
+      "summary": "adam@farden.cz"
+    },
+    {
       "developer": "aefreshkid97@gmail.com",
       "free": false,
       "id": "aefreshkid97@gmail.com",
@@ -1323,19 +1344,6 @@
       "summary": "Cyclonic AOSP ROM"
     },
     {
-      "developer": "DrewGaren Roms",
-      "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
-      "id": "drewgaren",
-      "manifest": "http://developer.clockworkmod.com/developer/drewgaren/manifest",
-      "roms": {
-        "passion": true,
-        "droidx": true,
-        "crespo": true
-      },
-      "summary": "Custom Roms and Themes for your Device"
-    },
-    {
       "developer": "DrewGaren",
       "free": "true",
       "id": "drewgaren",
@@ -1344,6 +1352,20 @@
         "droidx": "true"
       },
       "summary": "Roms and More, Must have Froyo Installed Prior"
+    },
+    {
+      "developer": "DrewGaren Roms",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
+      "id": "drewgaren",
+      "manifest": "http://developer.clockworkmod.com/developer/drewgaren/manifest",
+      "roms": {
+        "passion": true,
+        "droidx": true,
+        "crespo": true,
+        "maguro": true
+      },
+      "summary": "Custom Roms and Themes for your Device"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1752,6 +1774,16 @@
       "summary": "Go Go Go!"
     },
     {
+      "developer": "HyperDroid",
+      "free": "true",
+      "id": "hyperdroid",
+      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
+      "roms": {
+        "leo": "true"
+      },
+      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
+    },
+    {
       "developer": "HyperDroid CM7",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
@@ -1761,16 +1793,6 @@
         "leo": true
       },
       "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
-    },
-    {
-      "developer": "HyperDroid",
-      "free": "true",
-      "id": "hyperdroid",
-      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
-      "roms": {
-        "leo": "true"
-      },
-      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
     },
     {
       "developer": "Coentje44",
@@ -2519,7 +2541,7 @@
     {
       "developer": "Peter Alfonso",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/809/dfb362e824019d04dc80082384c6aed0",
+      "icon": "http://developer.clockworkmod.com/downloads/809/659eb3522bfe789439b8808bf720d8c0.png",
       "id": "pete",
       "manifest": "http://wonderly.com/bb/WEBSITE/pete.js",
       "roms": {
@@ -2782,6 +2804,16 @@
         "ace": true
       },
       "summary": "mods and bacons for xperia x10 only!"
+    },
+    {
+      "developer": "stelianfriciu@gmail.com",
+      "free": false,
+      "id": "stelianfriciu@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/stelianfriciu@gmail.com/manifest",
+      "roms": {
+        "galaxygio": true
+      },
+      "summary": "stelianfriciu@gmail.com"
     },
     {
       "developer": "Stock Images",

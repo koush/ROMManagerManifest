@@ -1,6 +1,13 @@
 {
   "manifests": [
     {
+      "developer": "Birdman",
+      "free": false,
+      "id": "Birdman",
+      "manifest": "http://developer.clockworkmod.com/developer/Birdman/manifest",
+      "summary": "General Roms"
+    },
+    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",
@@ -35,7 +42,7 @@
     {
       "developer": "Peter Alfonso",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/809/dfb362e824019d04dc80082384c6aed0",
+      "icon": "http://developer.clockworkmod.com/downloads/809/659eb3522bfe789439b8808bf720d8c0.png",
       "id": "pete",
       "manifest": "http://wonderly.com/bb/WEBSITE/pete.js",
       "summary": "ROMs (AOSP), kernels, and more!"

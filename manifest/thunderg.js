@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+      "developer": "AdFad666",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/3020/5e63fff12afef893368323e27ab37c32.png",
+      "id": "adfad666",
+      "manifest": "http://developer.clockworkmod.com/developer/adfad666/manifest",
+      "summary": "adam@farden.cz"
+    },
+    {
       "developer": "aosp",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/322/c97732b0067d16ccf420f20f78b8f36a.png",

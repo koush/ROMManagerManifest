@@ -25,6 +25,14 @@
       "summary": "ROMs and apps from the creator of ROM Manager!"
     },
     {
+      "developer": "DrewGaren Roms",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
+      "id": "drewgaren",
+      "manifest": "http://developer.clockworkmod.com/developer/drewgaren/manifest",
+      "summary": "Custom Roms and Themes for your Device"
+    },
+    {
       "developer": "Google Apps",
       "free": "true",
       "id": "google",

@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "Inferior Human Organs",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1672/c6744e24b10b0312603d0f837b434a2a.png",
       "id": "Tr13dg3001",
       "manifest": "http://developer.clockworkmod.com/developer/Tr13dg3001/manifest",
@@ -10,7 +10,7 @@
     },
     {
       "developer": "bernard.schratz@gmail.com",
-      "free": false,
+      "free": true,
       "id": "bernard.schratz@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/bernard.schratz@gmail.com/manifest",
       "summary": "bernard.schratz@gmail.com"

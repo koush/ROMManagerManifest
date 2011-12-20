@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "Birdman",
-      "free": false,
+      "free": true,
       "id": "Birdman",
       "manifest": "http://developer.clockworkmod.com/developer/Birdman/manifest",
       "summary": "General Roms"

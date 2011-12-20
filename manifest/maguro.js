@@ -26,11 +26,19 @@
     },
     {
       "developer": "DrewGaren Roms",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
       "id": "drewgaren",
       "manifest": "http://developer.clockworkmod.com/developer/drewgaren/manifest",
       "summary": "Custom Roms and Themes for your Device"
+    },
+    {
+      "developer": "doniqcc",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/718/9c3899d3bf007a79e4bab261fad0c501.jpg",
+      "id": "eagleblood",
+      "manifest": "http://developer.clockworkmod.com/developer/eagleblood/manifest",
+      "summary": "Eagleblood Roms Fast/Stable/Clean"
     },
     {
       "developer": "Google Apps",
@@ -39,6 +47,14 @@
       "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
+    },
+    {
+      "developer": "Peter Alfonso",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/809/659eb3522bfe789439b8808bf720d8c0.png",
+      "id": "pete",
+      "manifest": "http://wonderly.com/bb/WEBSITE/pete.js",
+      "summary": "ROMs (AOSP), kernels, and more!"
     }
   ],
   "minversion": "4803"

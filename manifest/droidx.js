@@ -31,7 +31,7 @@
     },
     {
       "developer": "TeamChargeDev",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/589/341ad33f92b005d705f1557ae861b23e.png",
       "id": "Smyers1012",
       "manifest": "http://developer.clockworkmod.com/developer/Smyers1012/manifest",
@@ -77,6 +77,14 @@
       "summary": "Source-based mods made by CVPCS"
     },
     {
+      "developer": "DrewGaren Roms",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
+      "id": "drewgaren",
+      "manifest": "http://developer.clockworkmod.com/developer/drewgaren/manifest",
+      "summary": "Custom Roms and Themes for your Device"
+    },
+    {
       "developer": "DrewGaren",
       "free": "true",
       "id": "drewgaren",
@@ -84,16 +92,8 @@
       "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
-      "developer": "DrewGaren Roms",
-      "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
-      "id": "drewgaren",
-      "manifest": "http://developer.clockworkmod.com/developer/drewgaren/manifest",
-      "summary": "Custom Roms and Themes for your Device"
-    },
-    {
       "developer": "Fabolous",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/337/d2c1bf150b52364eca4dcba86135ff9d.png",
       "id": "fabolous",
       "manifest": "http://developer.clockworkmod.com/developer/fabolous/manifest",
@@ -129,14 +129,14 @@
     },
     {
       "developer": "notna659@gmail.com",
-      "free": false,
+      "free": true,
       "id": "notna659@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/notna659@gmail.com/manifest",
       "summary": "notna659@gmail.com"
     },
     {
       "developer": "EnYo",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/633/e8973d34d142398f1d86f8c3ef789a8e.jpg",
       "id": "rfvbnji91@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/rfvbnji91@gmail.com/manifest",
@@ -149,6 +149,14 @@
       "id": "stock",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/stock.js",
       "summary": "Revert back to stock phone images."
+    },
+    {
+      "developer": "Tech SourceHub",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/3040/6b81507ef3c9bef8772d9812bd98db1e.png",
+      "id": "techsourcehub",
+      "manifest": "http://techsourcehub.com/developer/OS/Android/RomManager/manifest/manifest.js",
+      "summary": "Pandora's Box of ROMs"
     },
     {
       "developer": "WJD Designs",

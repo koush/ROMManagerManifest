@@ -11,6 +11,7 @@
     {
       "developer": "KalimochoAz",
       "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/2958/799d1e5a81bb60bfd443b6e2fba90d5d.png",
       "id": "KalimochoAz",
       "manifest": "http://developer.clockworkmod.com/developer/KalimochoAz/manifest",
       "summary": "CyanogenMOD ICS Alfa 16"
@@ -93,6 +94,13 @@
       "id": "drewgaren",
       "manifest": "http://developer.clockworkmod.com/developer/drewgaren/manifest",
       "summary": "Custom Roms and Themes for your Device"
+    },
+    {
+      "developer": "fouedboumkassar@gmail.com",
+      "free": true,
+      "id": "fouedboumkassar@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/fouedboumkassar@gmail.com/manifest",
+      "summary": "fouedboumkassar@gmail.com"
     },
     {
       "developer": "franciscofranco",

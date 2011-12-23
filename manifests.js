@@ -289,17 +289,19 @@
     {
       "developer": "Just was ICS'd boy!",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/2775/560da12b2ef1180621c83ee9a161cffb.png",
+      "icon": "http://developer.clockworkmod.com/downloads/2775/de2db0f2a1384cc396c5cbe0d68d6479.png",
       "id": "Just was ICS'd boy!",
       "manifest": "http://developer.clockworkmod.com/developer/Just was ICS'd boy!/manifest",
       "roms": {
-        "supersonic": true
+        "supersonic": true,
+        "heroc": true
       },
-      "summary": "ICS Fully built. No face unlock though. If cant add google account then reboot and try again."
+      "summary": "ICS builds for the Evo 4G! And a few Sense + Gapps! :)"
     },
     {
       "developer": "KalimochoAz",
       "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/2958/799d1e5a81bb60bfd443b6e2fba90d5d.png",
       "id": "KalimochoAz",
       "manifest": "http://developer.clockworkmod.com/developer/KalimochoAz/manifest",
       "roms": {
@@ -650,6 +652,7 @@
     {
       "developer": "TeeRom",
       "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/2699/2f5bae576f65c353fa25af15ae848759.gif",
       "id": "TeeRom",
       "manifest": "http://developer.clockworkmod.com/developer/TeeRom/manifest",
       "roms": {
@@ -1425,7 +1428,7 @@
     {
       "developer": "doniqcc",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/718/9c3899d3bf007a79e4bab261fad0c501.jpg",
+      "icon": "http://developer.clockworkmod.com/downloads/718/9bbb8f432173c057adc234be32daa0df.png",
       "id": "eagleblood",
       "manifest": "http://developer.clockworkmod.com/developer/eagleblood/manifest",
       "roms": {
@@ -1448,17 +1451,6 @@
       "summary": "earthbound.iap@gmail.com"
     },
     {
-      "developer": "Salvage-Mod",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "GB source build. Group project."
-    },
-    {
       "developer": "Salvage-Mod Nightlies",
       "free": "true",
       "id": "echo17",
@@ -1468,6 +1460,17 @@
         "supersonic": "true"
       },
       "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
+    },
+    {
+      "developer": "Salvage-Mod",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "GB source build. Group project."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -1587,6 +1590,16 @@
       "summary": "Roms, Themes and Addons for Cyanogen on the Droid."
     },
     {
+      "developer": "fouedboumkassar@gmail.com",
+      "free": true,
+      "id": "fouedboumkassar@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/fouedboumkassar@gmail.com/manifest",
+      "roms": {
+        "crespo": true
+      },
+      "summary": "fouedboumkassar@gmail.com"
+    },
+    {
       "developer": "franciscofranco",
       "free": true,
       "id": "franciscofranco.1990@gmail.com",
@@ -1630,6 +1643,17 @@
         "inc": "true"
       },
       "summary": "ROMs by FrostIncredible"
+    },
+    {
+      "developer": "g.selu.you@gmail.com",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/3089/aba8a9c41b2dfb2104143ab21893cff5.png",
+      "id": "g.selu.you@gmail.com",
+      "manifest": "http://www.just-for-you.org/thonatos/adds/manifest.js",
+      "roms": {
+        "droid2we": true
+      },
+      "summary": "g.selu.you@gmail.com"
     },
     {
       "developer": "MIUI",
@@ -1786,16 +1810,6 @@
       "summary": "Go Go Go!"
     },
     {
-      "developer": "HyperDroid",
-      "free": "true",
-      "id": "hyperdroid",
-      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
-      "roms": {
-        "leo": "true"
-      },
-      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
-    },
-    {
       "developer": "HyperDroid CM7",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
@@ -1805,6 +1819,16 @@
         "leo": true
       },
       "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
+    },
+    {
+      "developer": "HyperDroid",
+      "free": "true",
+      "id": "hyperdroid",
+      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
+      "roms": {
+        "leo": "true"
+      },
+      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
     },
     {
       "developer": "Coentje44",
@@ -2875,17 +2899,6 @@
       "summary": "t.dorie@gmail.com"
     },
     {
-      "developer": "CyanogenDefy Stable",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
-      "id": "tanguy.pruvot@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/tanguy.pruvot@gmail.com/manifest",
-      "roms": {
-        "umts_jordan": true
-      },
-      "summary": "Stable but unofficial RC and Release"
-    },
-    {
       "developer": "XDA CM7 Nightlies",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/541/91afee5f3ad77376b65aa60038c4979c.png",
@@ -2895,6 +2908,17 @@
         "umts_jordan": true
       },
       "summary": "XDA CM7 Original Nightly builds. tpruvot@github"
+    },
+    {
+      "developer": "CyanogenDefy Stable",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
+      "id": "tanguy.pruvot@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/tanguy.pruvot@gmail.com/manifest",
+      "roms": {
+        "umts_jordan": true
+      },
+      "summary": "Stable but unofficial RC and Release"
     },
     {
       "developer": "MyUI",
@@ -3103,6 +3127,7 @@
       "id": "waynestrattonjr@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/waynestrattonjr@gmail.com/manifest",
       "roms": {
+        "toro": true,
         "mecha": true
       },
       "summary": "Official downloads from Team BAMF! For awesome Sense 3.0 and HTC device ports and for full support, visit www.teambamf.net!"
@@ -3183,6 +3208,17 @@
         "sapphire": true
       },
       "summary": "all the ginger yoshi roms "
+    },
+    {
+      "developer": "zlovrednij@gmail.com",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/3125/1b8dc2e0dfd4b78791c44cd1a2af39f1.zip",
+      "id": "zlovrednij@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/zlovrednij@gmail.com/manifest",
+      "roms": {
+        "buzz": true
+      },
+      "summary": "zlovrednij@gmail.com"
     }
   ],
   "minversion": "4803"

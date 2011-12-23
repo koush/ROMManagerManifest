@@ -19,6 +19,7 @@
     {
       "developer": "TeeRom",
       "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/2699/2f5bae576f65c353fa25af15ae848759.gif",
       "id": "TeeRom",
       "manifest": "http://developer.clockworkmod.com/developer/TeeRom/manifest",
       "summary": "Time to rock your stock!"

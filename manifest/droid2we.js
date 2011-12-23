@@ -41,6 +41,14 @@
       "summary": "Mods and bacon for your phone"
     },
     {
+      "developer": "g.selu.you@gmail.com",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/3089/aba8a9c41b2dfb2104143ab21893cff5.png",
+      "id": "g.selu.you@gmail.com",
+      "manifest": "http://www.just-for-you.org/thonatos/adds/manifest.js",
+      "summary": "g.selu.you@gmail.com"
+    },
+    {
       "developer": "Google Apps",
       "free": "true",
       "id": "google",

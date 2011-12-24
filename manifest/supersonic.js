@@ -170,6 +170,14 @@
       "id": "swagstr",
       "manifest": "http://developer.clockworkmod.com/developer/swagstr/manifest",
       "summary": "Stock ROM with a ton of bloatware removed and some added swag"
+    },
+    {
+      "developer": "Team-Nocturnal ROM's",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/3159/9e67f81f6473af42529d9c5eb39e0536.png",
+      "id": "teamnocturnalandroid@gmail.com",
+      "manifest": "http://sinister.goo-inside.me/TN/TNromlist.js",
+      "summary": "ROM's by Team-Nocturnal"
     }
   ],
   "minversion": "4803"

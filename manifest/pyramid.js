@@ -89,14 +89,6 @@
       "summary": "Eagleblood Roms Fast/Stable/Clean"
     },
     {
-      "developer": "Einherjar Dev",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/25/31d8c04d2622249a93100ffc1ed40a17.png",
-      "id": "einherjar",
-      "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
-      "summary": "ROMs, with a side of metal."
-    },
-    {
       "developer": "Google Apps",
       "free": "true",
       "id": "google",
@@ -119,6 +111,14 @@
       "id": "miuius",
       "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
       "summary": "MIUI English releases by MIUI.us"
+    },
+    {
+      "developer": "Team Kang",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/25/db61b8511c32d13d8121f99fd902f6a6.png",
+      "id": "teamkang",
+      "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
+      "summary": "We came. We saw. We kanged."
     },
     {
       "developer": "Virtuous",

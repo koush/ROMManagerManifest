@@ -817,7 +817,7 @@
         "ace": true,
         "crespo": true
       },
-      "summary": "Ultimate Rom: Rom based on CM kangs by me. Fast and tweaked for battery life and performance with added features"
+      "summary": "Ultimate Rom: Fast and tweaked for battery life and performance with added features."
     },
     {
       "developer": "CWR Unofficial",
@@ -1357,16 +1357,6 @@
       "summary": "Cyclonic AOSP ROM"
     },
     {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
-    },
-    {
       "developer": "DrewGaren Roms",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1380,6 +1370,16 @@
         "maguro": true
       },
       "summary": "Custom Roms and Themes for your Device"
+    },
+    {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1483,20 +1483,6 @@
       "summary": "CM7 test builds"
     },
     {
-      "developer": "Einherjar Dev",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/25/31d8c04d2622249a93100ffc1ed40a17.png",
-      "id": "einherjar",
-      "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
-      "roms": {
-        "p999": true,
-        "vibrantmtd": true,
-        "vibrant": true,
-        "pyramid": true
-      },
-      "summary": "ROMs, with a side of metal."
-    },
-    {
       "developer": "E-XtremeMod",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/132/3bea45cb0d900947ae2ceb5399b617f3.png",
@@ -1588,16 +1574,6 @@
         "harmony": "true"
       },
       "summary": "Roms, Themes and Addons for Cyanogen on the Droid."
-    },
-    {
-      "developer": "fouedboumkassar@gmail.com",
-      "free": false,
-      "id": "fouedboumkassar@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/fouedboumkassar@gmail.com/manifest",
-      "roms": {
-        "crespo": true
-      },
-      "summary": "fouedboumkassar@gmail.com"
     },
     {
       "developer": "franciscofranco",
@@ -2349,6 +2325,7 @@
         "vision": true,
         "galaxys2": true,
         "galaxysmtd": true,
+        "liquid": true,
         "umts_sholes": true
       },
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
@@ -2910,6 +2887,22 @@
       "summary": "XDA CM7 Original Nightly builds. tpruvot@github"
     },
     {
+      "developer": "Team Kang",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/25/db61b8511c32d13d8121f99fd902f6a6.png",
+      "id": "teamkang",
+      "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
+      "roms": {
+        "p999": true,
+        "vibrantmtd": true,
+        "toro": true,
+        "vibrant": true,
+        "pyramid": true,
+        "maguro": true
+      },
+      "summary": "We came. We saw. We kanged."
+    },
+    {
       "developer": "MyUI",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/764/cf4a41ce70782f6b5090be541dbb1128.png",
@@ -2920,6 +2913,17 @@
         "galaxysmtd": true
       },
       "summary": "MyUI - Votre MIUI parfaite, Your perfect MIUI - Team MyUI @ 2011"
+    },
+    {
+      "developer": "Team-Nocturnal ROM's",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/3159/9e67f81f6473af42529d9c5eb39e0536.png",
+      "id": "teamnocturnalandroid@gmail.com",
+      "manifest": "http://sinister.goo-inside.me/TN/TNromlist.js",
+      "roms": {
+        "supersonic": true
+      },
+      "summary": "ROM's by Team-Nocturnal"
     },
     {
       "developer": "Tech SourceHub",

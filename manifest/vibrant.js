@@ -57,14 +57,6 @@
       "summary": "ROMs and apps from the creator of ROM Manager!"
     },
     {
-      "developer": "Einherjar Dev",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/25/31d8c04d2622249a93100ffc1ed40a17.png",
-      "id": "einherjar",
-      "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
-      "summary": "ROMs, with a side of metal."
-    },
-    {
       "developer": "Google Apps",
       "free": "true",
       "id": "google",
@@ -87,6 +79,14 @@
       "id": "phiredrop",
       "manifest": "http://developer.clockworkmod.com/developer/phiredrop/manifest",
       "summary": "Bringing you the best of Android."
+    },
+    {
+      "developer": "Team Kang",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/25/db61b8511c32d13d8121f99fd902f6a6.png",
+      "id": "teamkang",
+      "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
+      "summary": "We came. We saw. We kanged."
     }
   ],
   "minversion": "4803"

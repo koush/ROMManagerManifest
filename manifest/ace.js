@@ -30,7 +30,7 @@
       "icon": "http://developer.clockworkmod.com/downloads/13/f9ed41e65204d8e00384a55979b9a343.png",
       "id": "arhamjamal@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/arhamjamal@gmail.com/manifest",
-      "summary": "Ultimate Rom: Rom based on CM kangs by me. Fast and tweaked for battery life and performance with added features"
+      "summary": "Ultimate Rom: Fast and tweaked for battery life and performance with added features."
     },
     {
       "developer": "BeatMod",

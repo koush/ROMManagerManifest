@@ -2,14 +2,14 @@
   "manifests": [
     {
       "developer": "Complete Android Experience ",
-      "free": true,
+      "free": false,
       "id": "SamSamoon",
       "manifest": "http://developer.clockworkmod.com/developer/SamSamoon/manifest",
       "summary": "Gingerbread ROM By Sami Beck"
     },
     {
       "developer": "Sapo a5 Blog Team",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/617/426f2197f1ed2674fa87666a35835083.png",
       "id": "a5.blog.team",
       "manifest": "http://developer.clockworkmod.com/developer/a5.blog.team/manifest",
@@ -64,7 +64,7 @@
     },
     {
       "developer": "Stock ROMs",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/23/757972f1d6362f95a265050747542fc5.jpg",
       "id": "jamieluckett@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/jamieluckett@gmail.com/manifest",

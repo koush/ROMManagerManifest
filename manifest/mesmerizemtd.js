@@ -42,7 +42,7 @@
     },
     {
       "developer": "jt1134",
-      "free": true,
+      "free": false,
       "id": "jt1134",
       "manifest": "http://developer.clockworkmod.com/developer/jt1134/manifest",
       "summary": "jt1134"

@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": ".CyberGR-MOD|NS-NGN.",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2700/0a77c8022a391c5e7ab14d34f26c349f.jpg",
       "id": "CyberGR-MOD|NS-NGN",
       "manifest": "http://developer.clockworkmod.com/developer/CyberGR-MOD|NS-NGN/manifest",
@@ -10,7 +10,7 @@
     },
     {
       "developer": "KalimochoAz",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2958/799d1e5a81bb60bfd443b6e2fba90d5d.png",
       "id": "KalimochoAz",
       "manifest": "http://developer.clockworkmod.com/developer/KalimochoAz/manifest",
@@ -18,7 +18,7 @@
     },
     {
       "developer": "Nexus S Team Germany",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/962/bc1dbaa7f6a0b08b7e1a2d984c7b0751.gif",
       "id": "Nexus S Team Germany",
       "manifest": "http://developer.clockworkmod.com/developer/Nexus S Team Germany/manifest",
@@ -34,7 +34,7 @@
     },
     {
       "developer": "iceandfire ",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/13/f9ed41e65204d8e00384a55979b9a343.png",
       "id": "arhamjamal@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/arhamjamal@gmail.com/manifest",
@@ -89,7 +89,7 @@
     },
     {
       "developer": "DrewGaren Roms",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
       "id": "drewgaren",
       "manifest": "http://developer.clockworkmod.com/developer/drewgaren/manifest",
@@ -97,14 +97,14 @@
     },
     {
       "developer": "fouedboumkassar@gmail.com",
-      "free": true,
+      "free": false,
       "id": "fouedboumkassar@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/fouedboumkassar@gmail.com/manifest",
       "summary": "fouedboumkassar@gmail.com"
     },
     {
       "developer": "franciscofranco",
-      "free": true,
+      "free": false,
       "id": "franciscofranco.1990@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/franciscofranco.1990@gmail.com/manifest",
       "summary": "franco.Kernel for Nexus S and Huawei U8800"
@@ -127,7 +127,7 @@
     },
     {
       "developer": "Htcclay",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/307/5076662d1617430aa6ad3f6ad73136aa.jpg",
       "id": "htcclay",
       "manifest": "http://developer.clockworkmod.com/developer/htcclay/manifest",
@@ -135,7 +135,7 @@
     },
     {
       "developer": "Coentje44",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2648/e9dde91c88ad6b2e2d74addd42c74db7.png",
       "id": "iapplecloud@me.com",
       "manifest": "http://developer.clockworkmod.com/developer/iapplecloud@me.com/manifest",
@@ -143,7 +143,7 @@
     },
     {
       "developer": "NexBreed ROMs",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/150/06f5d36ced5f4795548d594dc9388435.jpg",
       "id": "kaiya215",
       "manifest": "http://developer.clockworkmod.com/developer/kaiya215/manifest",
@@ -151,7 +151,7 @@
     },
     {
       "developer": "Koush",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/579/ed66d281a91c38574d1239f60b9c80b6.png",
       "id": "koush",
       "manifest": "http://developer.clockworkmod.com/developer/koush/manifest",
@@ -159,7 +159,7 @@
     },
     {
       "developer": "mathkid95",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/1992/7fe1b96f6d5747b17e3b7bb4ce165219.gif",
       "id": "mathkid95",
       "manifest": "http://developer.clockworkmod.com/developer/mathkid95/manifest",

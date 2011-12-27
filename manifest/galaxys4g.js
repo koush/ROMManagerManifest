@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "aefreshkid97@gmail.com",
-      "free": false,
+      "free": true,
       "id": "aefreshkid97@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/aefreshkid97@gmail.com/manifest",
       "summary": "aefreshkid97@gmail.com"
@@ -41,7 +41,7 @@
     },
     {
       "developer": "ricksterling21@gmail.com",
-      "free": false,
+      "free": true,
       "id": "ricksterling21@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/ricksterling21@gmail.com/manifest",
       "summary": "ricksterling21@gmail.com"

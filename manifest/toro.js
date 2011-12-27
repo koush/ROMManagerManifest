@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "Birdman",
-      "free": false,
+      "free": true,
       "id": "Birdman",
       "manifest": "http://developer.clockworkmod.com/developer/Birdman/manifest",
       "summary": "General Roms"
@@ -57,7 +57,7 @@
     },
     {
       "developer": "Team BAMF ",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/758/327500a0db76efc307c8032ee32ac018.png",
       "id": "waynestrattonjr@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/waynestrattonjr@gmail.com/manifest",

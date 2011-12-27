@@ -26,7 +26,7 @@
     },
     {
       "developer": "Crackeyes",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2827/9ad0366ae2efd9fcc36c8885b0a13972.jpg",
       "id": "crackeyes@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/crackeyes@gmail.com/manifest",
@@ -42,7 +42,7 @@
     },
     {
       "developer": "Xboarder56",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/663/402e31bd0ad3f6f57f92d29c291c52d7.jpg",
       "id": "xboarder56",
       "manifest": "http://developer.clockworkmod.com/developer/xboarder56/manifest",

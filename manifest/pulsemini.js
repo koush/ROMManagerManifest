@@ -34,7 +34,7 @@
     },
     {
       "developer": "kandynami@gmail.com",
-      "free": false,
+      "free": true,
       "id": "kandynami@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/kandynami@gmail.com/manifest",
       "summary": "kandynami@gmail.com"

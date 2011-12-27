@@ -34,7 +34,7 @@
     },
     {
       "developer": "kman12389@googlemail.com",
-      "free": false,
+      "free": true,
       "id": "kman12389@googlemail.com",
       "manifest": "http://developer.clockworkmod.com/developer/kman12389@googlemail.com/manifest",
       "summary": "kman12389@googlemail.com"

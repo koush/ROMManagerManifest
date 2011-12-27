@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "Clark44 (Absurd)",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/315/fa526fadb52216d09110cf18e5fd5047.jpg",
       "id": "Clark44 (Absurd)",
       "manifest": "http://developer.clockworkmod.com/developer/Clark44 (Absurd)/manifest",
@@ -57,7 +57,7 @@
     },
     {
       "developer": "jondevere@gmail.com",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/695/baaa677e69d0e0b6eaaa2d46f851e9e8.gif",
       "id": "jondevere@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/jondevere@gmail.com/manifest",
@@ -73,14 +73,22 @@
     },
     {
       "developer": "XDA Roms",
-      "free": false,
+      "free": true,
       "id": "pecord",
       "manifest": "http://developer.clockworkmod.com/developer/pecord/manifest",
       "summary": "Just uploading various roms for other EVO 3D users, will not accept donations for others work and will not provide support"
     },
     {
+      "developer": "Team-Nocturnal ROM's",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/3159/9e67f81f6473af42529d9c5eb39e0536.png",
+      "id": "teamnocturnalandroid@gmail.com",
+      "manifest": "http://sinister.goo-inside.me/TN/TNromlist.js",
+      "summary": "ROM's by Team-Nocturnal"
+    },
+    {
       "developer": "Sense 3.5 Ports",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/822/cfae65dc7496f8d03671558307a5441d.jpg",
       "id": "temeyers@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/temeyers@gmail.com/manifest",

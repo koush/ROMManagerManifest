@@ -1430,6 +1430,20 @@
       "init": "init.thunderc.rc",
       "key": "lg690",
       "lunch": "full_lg690-eng"
+    },
+    {
+      "name": "LGE Optimus Pro",
+      "version": "5.0.2.7",
+      "init": "init.muscat.rc",
+      "key": "c660",
+      "lunch": "c660-eng"
+    },
+    {
+      "name": "LGE Optimus Hub",
+      "version": "5.0.2.7",
+      "init": "init.univa.rc",
+      "key": "e510",
+      "lunch": "e510-eng"
     }
   ],
   "use_in_app": false,

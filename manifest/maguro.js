@@ -36,8 +36,8 @@
       "developer": "doniqcc",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/718/9bbb8f432173c057adc234be32daa0df.png",
-      "id": "egb",
-      "manifest": "http://developer.clockworkmod.com/developer/egb/manifest",
+      "id": "eagleblood",
+      "manifest": "http://developer.clockworkmod.com/developer/eagleblood/manifest",
       "summary": "Eagleblood Roms Fast/Stable/Clean"
     },
     {

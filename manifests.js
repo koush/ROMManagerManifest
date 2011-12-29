@@ -287,16 +287,16 @@
       "summary": "Custom Themes & Goodies"
     },
     {
-      "developer": "Just was ICS'd boy!",
+      "developer": "tiad8.com",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/2775/de2db0f2a1384cc396c5cbe0d68d6479.png",
+      "icon": "http://developer.clockworkmod.com/downloads/2775/9ea3d52aaf5109cc5e8259129866a301.png",
       "id": "Just was ICS'd boy!",
       "manifest": "http://developer.clockworkmod.com/developer/Just was ICS'd boy!/manifest",
       "roms": {
         "supersonic": true,
         "heroc": true
       },
-      "summary": "ICS builds for the Evo 4G! And a few Sense + Gapps! :)"
+      "summary": "tiad8.com"
     },
     {
       "developer": "KalimochoAz",
@@ -469,6 +469,17 @@
         "vision": true
       },
       "summary": "Costum ROM with Darktremor Apps2SD,Ext4 and SD-Card-Fix! Now with ILWT-Kernel"
+    },
+    {
+      "developer": "AmbrosialROMs",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/558/8206d5091d0ed4afc3f0bf148e9b4191.png",
+      "id": "RealPariah",
+      "manifest": "http://www.ambrosialpariah.com/ambrosialcm7/files/rom.man/acm.js",
+      "roms": {
+        "zeppelin": true
+      },
+      "summary": "AmbrosialROMS: Bringing More Sizzle to the Bacon!"
     },
     {
       "developer": "RevNumbers",
@@ -1335,16 +1346,6 @@
       "summary": "Cyclonic AOSP ROM"
     },
     {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
-    },
-    {
       "developer": "DrewGaren Roms",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1358,6 +1359,16 @@
         "maguro": true
       },
       "summary": "Custom Roms and Themes for your Device"
+    },
+    {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1404,6 +1415,20 @@
       "summary": "Latest Gingerbread, Clean and Simple"
     },
     {
+      "developer": "doniqcc",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/718/9bbb8f432173c057adc234be32daa0df.png",
+      "id": "eagleblood",
+      "manifest": "http://developer.clockworkmod.com/developer/eagleblood/manifest",
+      "roms": {
+        "p999": true,
+        "pyramid": true,
+        "maguro": true,
+        "hercules": true
+      },
+      "summary": "Eagleblood Roms Fast/Stable/Clean"
+    },
+    {
       "developer": "earthbound.iap",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2561/91432fb3efe76db6b048798964a8685e.jpg",
@@ -1413,17 +1438,6 @@
         "epic4g": true
       },
       "summary": "earthbound.iap@gmail.com"
-    },
-    {
-      "developer": "Salvage-Mod",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "GB source build. Group project."
     },
     {
       "developer": "Salvage-Mod Nightlies",
@@ -1437,18 +1451,15 @@
       "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
     },
     {
-      "developer": "doniqcc",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/718/9bbb8f432173c057adc234be32daa0df.png",
-      "id": "egb",
-      "manifest": "http://developer.clockworkmod.com/developer/egb/manifest",
+      "developer": "Salvage-Mod",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
       "roms": {
-        "p999": true,
-        "pyramid": true,
-        "maguro": true,
-        "hercules": true
+        "supersonic": "true"
       },
-      "summary": "Eagleblood Roms Fast/Stable/Clean"
+      "summary": "GB source build. Group project."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -2029,6 +2040,17 @@
         "mesmerizemtd": true
       },
       "summary": "jt1134"
+    },
+    {
+      "developer": "jwtiyar Nariman",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/1655/ce37fbec43d741241ffd0e90382286d5.jpg",
+      "id": "jwtiyar@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/jwtiyar@gmail.com/manifest",
+      "roms": {
+        "pyramid": true
+      },
+      "summary": "Physics Student , Developing Android ."
     },
     {
       "developer": "NexBreed ROMs",
@@ -3144,7 +3166,7 @@
       "roms": {
         "ideos": true
       },
-      "summary": "Read NGI v2.6 Comments Then Reply either there or to scospsn@yahoo.com"
+      "summary": "I'm Back Look 4 Updates"
     },
     {
       "developer": "Xboarder56",

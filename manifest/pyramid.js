@@ -84,8 +84,8 @@
       "developer": "doniqcc",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/718/9bbb8f432173c057adc234be32daa0df.png",
-      "id": "egb",
-      "manifest": "http://developer.clockworkmod.com/developer/egb/manifest",
+      "id": "eagleblood",
+      "manifest": "http://developer.clockworkmod.com/developer/eagleblood/manifest",
       "summary": "Eagleblood Roms Fast/Stable/Clean"
     },
     {
@@ -103,6 +103,14 @@
       "id": "htcclay",
       "manifest": "http://developer.clockworkmod.com/developer/htcclay/manifest",
       "summary": "Go Go Go!"
+    },
+    {
+      "developer": "jwtiyar Nariman",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/1655/ce37fbec43d741241ffd0e90382286d5.jpg",
+      "id": "jwtiyar@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/jwtiyar@gmail.com/manifest",
+      "summary": "Physics Student , Developing Android ."
     },
     {
       "developer": "MIUI.us",

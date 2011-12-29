@@ -54,7 +54,7 @@
       "icon": "http://developer.clockworkmod.com/downloads/475/83b1212e420f39b900d6011fda66ad4c.jpg",
       "id": "x_SCOS_x_Elite",
       "manifest": "http://developer.clockworkmod.com/developer/x_SCOS_x_Elite/manifest",
-      "summary": "Read NGI v2.6 Comments Then Reply either there or to scospsn@yahoo.com"
+      "summary": "I'm Back Look 4 Updates"
     }
   ],
   "minversion": "4803"

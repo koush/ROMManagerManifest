@@ -8,12 +8,12 @@
       "summary": "Android Creative Syndicate"
     },
     {
-      "developer": "Just was ICS'd boy!",
+      "developer": "tiad8.com",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/2775/de2db0f2a1384cc396c5cbe0d68d6479.png",
+      "icon": "http://developer.clockworkmod.com/downloads/2775/9ea3d52aaf5109cc5e8259129866a301.png",
       "id": "Just was ICS'd boy!",
       "manifest": "http://developer.clockworkmod.com/developer/Just was ICS'd boy!/manifest",
-      "summary": "ICS builds for the Evo 4G! And a few Sense + Gapps! :)"
+      "summary": "tiad8.com"
     },
     {
       "developer": "OMJ",
@@ -86,20 +86,20 @@
       "summary": "Updates for stock ROMs, radio, hboot"
     },
     {
-      "developer": "Salvage-Mod",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
-      "summary": "GB source build. Group project."
-    },
-    {
       "developer": "Salvage-Mod Nightlies",
       "free": "true",
       "id": "echo17",
       "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
       "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
       "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
+    },
+    {
+      "developer": "Salvage-Mod",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
+      "summary": "GB source build. Group project."
     },
     {
       "developer": "Fresh",

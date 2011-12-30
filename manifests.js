@@ -1227,6 +1227,9 @@
       "icon": "http://koush.kanged.net/cm/test/tdr.png",
       "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
       "roms": {
+        "e730": "true",
+        "e510": "true",
+        "c660": "true",
         "galaxys2att": "true",
         "p999": "true",
         "smb_a1002": "true",

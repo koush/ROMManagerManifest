@@ -1448,8 +1448,8 @@
       "lunch": "e510-eng"
     },
     {
-      "name": "Samsung Captivate (MTD)",
-      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
+      "name": "Samsung Epic4G (MTD)",
+      "reboot_recovery": "/system/xbin/busybox devmem 0x57fff800 32 0x5EC0B007; sync ; reboot ;",
       "version": "5.0.2.7",
       "init": "init.Victory.rc",
       "key": "epicmtd",

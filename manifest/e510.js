@@ -17,6 +17,14 @@
       "summary": "Managing root like it's going out of style"
     },
     {
+      "developer": "CyanogenMod Nightlies",
+      "free": "true",
+      "id": "cyanogenmodnightly",
+      "icon": "http://koush.kanged.net/cm/test/tdr.png",
+      "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
+      "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
+    },
+    {
       "developer": "ClockworkMod",
       "free": "true",
       "id": "clockworkmod",

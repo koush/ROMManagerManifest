@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "teamhacksung",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/5/e37442e1c9d8f4dde5ceb57f51967029.png",
       "id": "atinm",
       "manifest": "http://developer.clockworkmod.com/developer/atinm/manifest",

@@ -26,7 +26,7 @@
     },
     {
       "developer": "Tailor-Make Stuffs",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/868/d4b50e3fe5515e3362ed97ef658a65b0.jpg",
       "id": "febycv@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/febycv@gmail.com/manifest",
@@ -42,7 +42,7 @@
     },
     {
       "developer": "stelianfriciu@gmail.com",
-      "free": true,
+      "free": false,
       "id": "stelianfriciu@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/stelianfriciu@gmail.com/manifest",
       "summary": "stelianfriciu@gmail.com"

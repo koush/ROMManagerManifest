@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+      "developer": "Falla7",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/3311/0593c0444a3fad2ad7e98ddda7153476.jpg",
+      "id": "Falla7",
+      "manifest": "http://developer.clockworkmod.com/developer/Falla7/manifest",
+      "summary": "Delivering Arabic and RTL support to Android ROM's"
+    },
+    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",
@@ -26,7 +34,7 @@
     },
     {
       "developer": "Crackeyes",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2827/9ad0366ae2efd9fcc36c8885b0a13972.jpg",
       "id": "crackeyes@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/crackeyes@gmail.com/manifest",
@@ -42,7 +50,7 @@
     },
     {
       "developer": "Xboarder56",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/663/402e31bd0ad3f6f57f92d29c291c52d7.jpg",
       "id": "xboarder56",
       "manifest": "http://developer.clockworkmod.com/developer/xboarder56/manifest",

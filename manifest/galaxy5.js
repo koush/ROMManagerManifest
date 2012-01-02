@@ -33,6 +33,13 @@
       "summary": "ROMs and apps from the creator of ROM Manager!"
     },
     {
+      "developer": "Džiugas",
+      "free": false,
+      "id": "dziugas.grebliunas@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/dziugas.grebliunas@gmail.com/manifest",
+      "summary": "ROMs for G5"
+    },
+    {
       "developer": "Tailor-Make Stuffs",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/868/d4b50e3fe5515e3362ed97ef658a65b0.jpg",

@@ -96,6 +96,14 @@
       "summary": "We came. We saw. We kanged."
     },
     {
+      "developer": "johnccraig80@gmail.com",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/3376/f065110e9428fe7defad32da13782797.gif",
+      "id": "x0xhellx0x",
+      "manifest": "http://developer.clockworkmod.com/developer/x0xhellx0x/manifest",
+      "summary": "johnccraig80@gmail.com"
+    },
+    {
       "developer": "Xboarder56",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/663/402e31bd0ad3f6f57f92d29c291c52d7.jpg",

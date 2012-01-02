@@ -70,6 +70,14 @@
       "id": "miuius",
       "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
       "summary": "MIUI English releases by MIUI.us"
+    },
+    {
+      "developer": "Alexey_Stroev",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/3402/786ab4dccdf38b94c8bec58adb5e7405.png",
+      "id": "stroev1996@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/stroev1996@gmail.com/manifest",
+      "summary": "Roms with sense 3.0 and sense 3.5"
     }
   ],
   "minversion": "4803"

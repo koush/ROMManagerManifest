@@ -1357,16 +1357,6 @@
       "summary": "Cyclonic AOSP ROM"
     },
     {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
-    },
-    {
       "developer": "DrewGaren Roms",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1380,6 +1370,16 @@
         "maguro": true
       },
       "summary": "Custom Roms and Themes for your Device"
+    },
+    {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1413,6 +1413,16 @@
         "click": true
       },
       "summary": "For iDeal"
+    },
+    {
+      "developer": "Džiugas",
+      "free": false,
+      "id": "dziugas.grebliunas@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/dziugas.grebliunas@gmail.com/manifest",
+      "roms": {
+        "galaxy5": true
+      },
+      "summary": "ROMs for G5"
     },
     {
       "developer": "Oxygen ROM",
@@ -1451,17 +1461,6 @@
       "summary": "earthbound.iap@gmail.com"
     },
     {
-      "developer": "Salvage-Mod",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "GB source build. Group project."
-    },
-    {
       "developer": "Salvage-Mod Nightlies",
       "free": "true",
       "id": "echo17",
@@ -1471,6 +1470,17 @@
         "supersonic": "true"
       },
       "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
+    },
+    {
+      "developer": "Salvage-Mod",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "GB source build. Group project."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -2856,6 +2866,17 @@
       "summary": "Revert back to stock phone images."
     },
     {
+      "developer": "Alexey_Stroev",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/3402/786ab4dccdf38b94c8bec58adb5e7405.png",
+      "id": "stroev1996@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/stroev1996@gmail.com/manifest",
+      "roms": {
+        "vivo": true
+      },
+      "summary": "Roms with sense 3.0 and sense 3.5"
+    },
+    {
       "developer": "Swagged Out Stock",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/697/40e325c213ebeb2999003d52dc979b2b.png",
@@ -3157,6 +3178,17 @@
         "sholes": "true"
       },
       "summary": "Custom ROMs for the Motorola Droid"
+    },
+    {
+      "developer": "johnccraig80@gmail.com",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/3376/f065110e9428fe7defad32da13782797.gif",
+      "id": "x0xhellx0x",
+      "manifest": "http://developer.clockworkmod.com/developer/x0xhellx0x/manifest",
+      "roms": {
+        "p999": true
+      },
+      "summary": "johnccraig80@gmail.com"
     },
     {
       "developer": "xBTx",

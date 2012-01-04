@@ -157,14 +157,6 @@
       "summary": "Custom ROMs built for performance and stability.  Please see the respective XDA threads for more information on each of my projects!"
     },
     {
-      "developer": "Virtuous",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/63/8671cc6cf6379f1baf69c14ca9138910.png",
-      "id": "virtuous",
-      "manifest": "http://files.virtuousrom.com/virtuous.js",
-      "summary": "Enhanced Sense ROMs and more from the Virtuous Team."
-    },
-    {
       "developer": "Xboarder56",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/663/402e31bd0ad3f6f57f92d29c291c52d7.jpg",

@@ -466,10 +466,20 @@
       "id": "OMJ-",
       "manifest": "http://developer.clockworkmod.com/developer/OMJ-/manifest",
       "roms": {
-        "vivow": true,
-        "inc": true
+        "vivow": true
       },
       "summary": "TSM Pool Party for the Dinc2"
+    },
+    {
+      "developer": "RG2x",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/3299/b391f2fdaadedbb24eaccc7d485e8471.png",
+      "id": "RG2x",
+      "manifest": "http://developer.clockworkmod.com/developer/RG2x/manifest",
+      "roms": {
+        "p999": true
+      },
+      "summary": "G2x MIUI"
     },
     {
       "developer": "R0st0ck",
@@ -908,6 +918,16 @@
       "summary": "Themes, goodies, and add-ons."
     },
     {
+      "developer": "biscochic@gmail.com",
+      "free": false,
+      "id": "biscochic@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/biscochic@gmail.com/manifest",
+      "roms": {
+        "epic4g": true
+      },
+      "summary": "biscochic@gmail.com"
+    },
+    {
       "developer": "PyroMod DevTeam Roms",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/289/f50f109fd0e925ebc88d9d0d350411c1.jpg",
@@ -1206,8 +1226,6 @@
       "icon": "http://koush.kanged.net/cm/test/tdr.png",
       "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
       "roms": {
-        "e510": "true",
-        "c660": "true",
         "galaxys2att": "true",
         "p999": "true",
         "smb_a1002": "true",
@@ -1463,17 +1481,6 @@
       "summary": "earthbound.iap@gmail.com"
     },
     {
-      "developer": "Salvage-Mod Nightlies",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
-    },
-    {
       "developer": "Salvage-Mod",
       "free": "true",
       "id": "echo17",
@@ -1483,6 +1490,17 @@
         "supersonic": "true"
       },
       "summary": "GB source build. Group project."
+    },
+    {
+      "developer": "Salvage-Mod Nightlies",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -1787,6 +1805,16 @@
       "summary": "Go Go Go!"
     },
     {
+      "developer": "HyperDroid",
+      "free": "true",
+      "id": "hyperdroid",
+      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
+      "roms": {
+        "leo": "true"
+      },
+      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
+    },
+    {
       "developer": "HyperDroid CM7",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
@@ -1796,16 +1824,6 @@
         "leo": true
       },
       "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
-    },
-    {
-      "developer": "HyperDroid",
-      "free": "true",
-      "id": "hyperdroid",
-      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
-      "roms": {
-        "leo": "true"
-      },
-      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
     },
     {
       "developer": "Coentje44",
@@ -2169,6 +2187,16 @@
         "bravo": true
       },
       "summary": "Simple AOSP ROM"
+    },
+    {
+      "developer": "lektriczzz239@gmail.com",
+      "free": false,
+      "id": "lektriczzz239@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/lektriczzz239@gmail.com/manifest",
+      "roms": {
+        "epic4gtouch": true
+      },
+      "summary": "lektriczzz239@gmail.com"
     },
     {
       "developer": "Conical Roms",
@@ -2681,17 +2709,6 @@
       "summary": "AOSP Source Built ROMs, MODs & Tweaks"
     },
     {
-      "developer": "RG2x",
-      "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/3299/b391f2fdaadedbb24eaccc7d485e8471.png",
-      "id": "richard.hanooman@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/richard.hanooman@gmail.com/manifest",
-      "roms": {
-        "p999": true
-      },
-      "summary": "G2x MIUI"
-    },
-    {
       "developer": "RichardTrip - DeFroST",
       "free": "true",
       "id": "richardtrip",
@@ -2876,7 +2893,7 @@
       "roms": {
         "vivo": true
       },
-      "summary": "Roms with sense 3.0 and sense 3.5"
+      "summary": "I am building rom for htcrussia.com and 4pda.ru"
     },
     {
       "developer": "Swagged Out Stock",
@@ -3120,25 +3137,6 @@
       "summary": "Rosie like you've never seen her before."
     },
     {
-      "developer": "Virtuous",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/63/8671cc6cf6379f1baf69c14ca9138910.png",
-      "id": "virtuous",
-      "manifest": "http://files.virtuousrom.com/virtuous.js",
-      "roms": {
-        "incs": true,
-        "virtuous": true,
-        "vivow": true,
-        "ace": true,
-        "glacier": true,
-        "pyramid": true,
-        "inc": true,
-        "saga": true,
-        "vision": true
-      },
-      "summary": "Enhanced Sense ROMs and more from the Virtuous Team."
-    },
-    {
       "developer": "wesley van kouteren",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2209/bf934d9c85d12fba591f99d728802b8c.jpeg",
@@ -3182,7 +3180,7 @@
       "summary": "Custom ROMs for the Motorola Droid"
     },
     {
-      "developer": "johnccraig80@gmail.com",
+      "developer": "x0xhellx0x",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/3376/f065110e9428fe7defad32da13782797.gif",
       "id": "x0xhellx0x",
@@ -3211,7 +3209,7 @@
       "roms": {
         "ideos": true
       },
-      "summary": "NextGenIdeos 4.0 Coming Soon"
+      "summary": "NextGenIdeos 3.0 Coming Soon"
     },
     {
       "developer": "Xboarder56",

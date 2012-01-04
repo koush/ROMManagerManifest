@@ -1453,8 +1453,19 @@
       "version": "5.0.2.7",
       "init": "init.victory.rc",
       "key": "epicmtd",
-      "lunch": "cyanogen_epicmtd-eng",
-      "officially_supported": false
+      "officially_supported": false,
+      "lunch": "cyanogen_epicmtd-eng"
+    },
+    {
+      "name": "HTC Holiday",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p23 bs=4096 ; ",
+      "version": "5.0.2.7",
+      "init": "init.holiday.rc",
+      "legacy_versions": [
+        "5.0.2.7"
+      ],
+      "key": "holiday",
+      "lunch": "full_holiday-eng"
     }
   ],
   "pontiflex_downloading": 100,

@@ -24,6 +24,13 @@
       "summary": "DRockstar does stock ROMs, kernels, and helpful tools"
     },
     {
+      "developer": "biscochic@gmail.com",
+      "free": false,
+      "id": "biscochic@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/biscochic@gmail.com/manifest",
+      "summary": "biscochic@gmail.com"
+    },
+    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",

@@ -9,14 +9,6 @@
       "summary": "STABLE Super Fast ROM; ANDROID 2.3.4"
     },
     {
-      "developer": "OMJ-",
-      "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/719/bfbccec41cbac2cba0e62a7f2bbefa2e.png",
-      "id": "OMJ-",
-      "manifest": "http://developer.clockworkmod.com/developer/OMJ-/manifest",
-      "summary": "TSM Pool Party for the Dinc2"
-    },
-    {
       "developer": "TeeRom",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2699/2f5bae576f65c353fa25af15ae848759.gif",
@@ -169,14 +161,6 @@
       "id": "uncommonsense",
       "manifest": "http://www.pcjock.com/uncommon/ROMManagerManifest/uncommon.js",
       "summary": "Rosie like you've never seen her before."
-    },
-    {
-      "developer": "Virtuous",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/63/8671cc6cf6379f1baf69c14ca9138910.png",
-      "id": "virtuous",
-      "manifest": "http://files.virtuousrom.com/virtuous.js",
-      "summary": "Enhanced Sense ROMs and more from the Virtuous Team."
     }
   ],
   "minversion": "4803"

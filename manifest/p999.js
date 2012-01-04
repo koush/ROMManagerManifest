@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+      "developer": "RG2x",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/3299/b391f2fdaadedbb24eaccc7d485e8471.png",
+      "id": "RG2x",
+      "manifest": "http://developer.clockworkmod.com/developer/RG2x/manifest",
+      "summary": "G2x MIUI"
+    },
+    {
       "developer": "Whitehawkx",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/673/7898d96c27f948a4e170d89dbe77121e.jpg",
@@ -80,14 +88,6 @@
       "summary": "G2X Clean and Simple rom based on LG 2.3.4 Code"
     },
     {
-      "developer": "RG2x",
-      "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/3299/b391f2fdaadedbb24eaccc7d485e8471.png",
-      "id": "richard.hanooman@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/richard.hanooman@gmail.com/manifest",
-      "summary": "G2x MIUI"
-    },
-    {
       "developer": "Team Kang",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/25/db61b8511c32d13d8121f99fd902f6a6.png",
@@ -96,7 +96,7 @@
       "summary": "We came. We saw. We kanged."
     },
     {
-      "developer": "johnccraig80@gmail.com",
+      "developer": "x0xhellx0x",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/3376/f065110e9428fe7defad32da13782797.gif",
       "id": "x0xhellx0x",

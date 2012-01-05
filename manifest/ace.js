@@ -141,7 +141,7 @@
       "icon": "http://developer.clockworkmod.com/downloads/618/e651f76ee302b696b7e42ed966b612cf.jpg",
       "id": "pirateg@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/pirateg@gmail.com/manifest",
-      "summary": "Inspire 4G ROMS and Add-ons"
+      "summary": "Trying to make your device better...."
     },
     {
       "developer": "spaarc",

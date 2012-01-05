@@ -281,6 +281,7 @@
       "id": "Jmz",
       "manifest": "http://developer.clockworkmod.com/developer/Jmz/manifest",
       "roms": {
+        "vivow": true,
         "mecha": true
       },
       "summary": "Stock Rom tweaked heavily"
@@ -1805,16 +1806,6 @@
       "summary": "Go Go Go!"
     },
     {
-      "developer": "HyperDroid",
-      "free": "true",
-      "id": "hyperdroid",
-      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
-      "roms": {
-        "leo": "true"
-      },
-      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
-    },
-    {
       "developer": "HyperDroid CM7",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
@@ -1824,6 +1815,16 @@
         "leo": true
       },
       "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
+    },
+    {
+      "developer": "HyperDroid",
+      "free": "true",
+      "id": "hyperdroid",
+      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
+      "roms": {
+        "leo": "true"
+      },
+      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
     },
     {
       "developer": "Coentje44",
@@ -2045,6 +2046,17 @@
         "backflip": true
       },
       "summary": "ROMs & Mods."
+    },
+    {
+      "developer": "nycelitemaster",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/3518/101a2dde1542afce842ca930b94f2ead.jpg",
+      "id": "jsachdev84@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/jsachdev84@gmail.com/manifest",
+      "roms": {
+        "p999": true
+      },
+      "summary": "G2X SINGH UI is redefined version of MIUI for G2X (p999)"
     },
     {
       "developer": "Savaged-Zen",
@@ -2628,9 +2640,10 @@
       "id": "pirateg@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/pirateg@gmail.com/manifest",
       "roms": {
-        "ace": true
+        "ace": true,
+        "holiday": true
       },
-      "summary": "Inspire 4G ROMS and Add-ons"
+      "summary": "Trying to make your device better...."
     },
     {
       "developer": "ROMs by PlayfulGod",

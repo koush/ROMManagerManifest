@@ -80,6 +80,14 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
+      "developer": "nycelitemaster",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/3518/101a2dde1542afce842ca930b94f2ead.jpg",
+      "id": "jsachdev84@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/jsachdev84@gmail.com/manifest",
+      "summary": "G2X SINGH UI is redefined version of MIUI for G2X (p999)"
+    },
+    {
       "developer": "Lotherius",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2354/1bc84f350a4a0d99cac3cc9c3c04666b.jpg",

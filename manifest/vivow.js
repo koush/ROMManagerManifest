@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+      "developer": "Jmz",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/1308/e941956e38660c4a13dc50b69b5bd012.jpg",
+      "id": "Jmz",
+      "manifest": "http://developer.clockworkmod.com/developer/Jmz/manifest",
+      "summary": "Stock Rom tweaked heavily"
+    },
+    {
       "developer": "Liquid Smooth Roms",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/36/c735b5adbd4a0db78029de4c3bd309ee.png",

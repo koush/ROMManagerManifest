@@ -1,6 +1,30 @@
 {
   "pontiflex_startup_register": 100,
   "use_in_app": false,
+  "drivers": {
+    "samsung": {
+      "soju": "http://download.clockworkmod.com/drivers/google-adb-drivers.zip",
+      "sojua": "http://download.clockworkmod.com/drivers/google-adb-drivers.zip",
+      "maguro": "http://download.clockworkmod.com/drivers/Verizon_Wireless_I515_Galaxy_Nexus_USB_Driver_v1.4.6.0.exe",
+      "toro": "http://download.clockworkmod.com/drivers/Verizon_Wireless_I515_Galaxy_Nexus_USB_Driver_v1.4.6.0.exe",
+      "universal": "http://download.clockworkmod.com/drivers/SAMSUNG_USB_Driver_for_Mobile_Phones.exe"
+    },
+    "htc": {
+      "universal": "http://download.clockworkmod.com/drivers/HTCDriver3.0.0.007.exe",
+      "passion": "http://download.clockworkmod.com/drivers/google-adb-drivers.zip",
+      "dream": "http://download.clockworkmod.com/drivers/google-adb-drivers.zip",
+      "sapphire": "http://download.clockworkmod.com/drivers/google-adb-drivers.zip"
+    },
+    "motorola": {
+      "universal": "http://download.clockworkmod.com/drivers/MotoHelper_2.1.32_Driver_5.4.0.exe"
+    },
+    "lge": {
+      "universal": "http://download.clockworkmod.com/drivers/LGUnitedMobileDriver_S498MA22_WHQL_ML_Ver_2.2.exe"
+    },
+    "zte": {
+      "universal": "http://download.clockworkmod.com/drivers/ZTE_Android_Driver.exe"
+    }
+  },
   "devices": [
     {
       "name": "Motorola Droid",

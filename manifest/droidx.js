@@ -77,6 +77,13 @@
       "summary": "Source-based mods made by CVPCS"
     },
     {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "summary": "Roms and More, Must have Froyo Installed Prior"
+    },
+    {
       "developer": "DrewGaren Roms",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -85,19 +92,12 @@
       "summary": "Custom Roms and Themes for your Device"
     },
     {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "summary": "Roms and More, Must have Froyo Installed Prior"
-    },
-    {
       "developer": "Fabolous",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/337/d2c1bf150b52364eca4dcba86135ff9d.png",
       "id": "fabolous",
       "manifest": "http://developer.clockworkmod.com/developer/fabolous/manifest",
-      "summary": "ApeX for DX/D2"
+      "summary": "Fast, Stable, AOSP builds"
     },
     {
       "developer": "forkup",

@@ -76,7 +76,7 @@
       "icon": "http://developer.clockworkmod.com/downloads/337/d2c1bf150b52364eca4dcba86135ff9d.png",
       "id": "fabolous",
       "manifest": "http://developer.clockworkmod.com/developer/fabolous/manifest",
-      "summary": "ApeX for DX/D2"
+      "summary": "Fast, Stable, AOSP builds"
     },
     {
       "developer": "Google Apps",

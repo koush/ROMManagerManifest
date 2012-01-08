@@ -1,7 +1,7 @@
 {
   "manifests": [
     {
-      "developer": "AdFad666",
+      "developer": "AdFad666's CyanogenMod",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/3020/5e63fff12afef893368323e27ab37c32.png",
       "id": "adfad666",
@@ -53,7 +53,7 @@
       "icon": "http://developer.clockworkmod.com/downloads/868/d4b50e3fe5515e3362ed97ef658a65b0.jpg",
       "id": "febycv@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/febycv@gmail.com/manifest",
-      "summary": "Customizations, Ports & lot of other extra cool stuffs"
+      "summary": "Roms & Customizations for your HTC Device"
     },
     {
       "developer": "gianluck95@gmail.com",

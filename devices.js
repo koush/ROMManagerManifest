@@ -1,14 +1,11 @@
 {
+  "pontiflex_startup_register": 100,
+  "use_in_app": false,
   "devices": [
     {
       "name": "Motorola Droid",
       "version": "2.5.0.1",
       "init": "init.sholes.rc",
-      "alternate_recovery": {
-        "name": "SPRecovery 0.99.3b",
-        "url": "http://koush.kanged.net/cm/recoveries/sprecovery.img",
-        "clockwork": false
-      },
       "legacy_versions": [
         "3.1.0.2",
         "2.5.1.4",
@@ -16,68 +13,68 @@
         "2.5.1.1",
         "2.5.0.1"
       ],
+      "alternate_recovery": {
+        "name": "SPRecovery 0.99.3b",
+        "url": "http://koush.kanged.net/cm/recoveries/sprecovery.img",
+        "clockwork": false
+      },
       "key": "sholes"
     },
     {
       "name": "HTC MyTouch 3G",
       "version": "2.5.0.7",
       "init": "init.sapphire.rc",
-      "alternate_recovery": {
-        "name": "RA Recovery v1.7.0G",
-        "url": "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-sapphire-v1.7.0G.img",
-        "clockwork": false
-      },
       "legacy_versions": [
         "2.5.0.7",
         "2.5.1.4",
         "2.5.1.3",
         "2.5.1.1"
       ],
+      "alternate_recovery": {
+        "name": "RA Recovery v1.7.0G",
+        "url": "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-sapphire-v1.7.0G.img",
+        "clockwork": false
+      },
       "key": "sapphire"
     },
     {
       "name": "HTC Magic",
       "version": "2.5.0.7",
       "init": "init.sapphire.rc",
-      "alternate_recovery": {
-        "name": "RA Recovery v1.7.0H",
-        "url": "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-sapphire-v1.7.0H.img",
-        "clockwork": false
-      },
       "legacy_versions": [
         "2.5.0.7",
         "2.5.1.4",
         "2.5.1.3",
         "2.5.1.1"
       ],
+      "alternate_recovery": {
+        "name": "RA Recovery v1.7.0H",
+        "url": "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-sapphire-v1.7.0H.img",
+        "clockwork": false
+      },
       "key": "magic"
     },
     {
       "name": "HTC G1/Dream",
       "version": "2.5.0.7",
       "init": "init.trout.rc",
-      "alternate_recovery": {
-        "name": "RA Recovery v1.7.0",
-        "url": "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-dream-v1.7.0.img",
-        "clockwork": false
-      },
       "legacy_versions": [
         "2.5.0.7",
         "2.5.1.4",
         "2.5.1.3",
         "2.5.1.1"
       ],
+      "alternate_recovery": {
+        "name": "RA Recovery v1.7.0",
+        "url": "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-dream-v1.7.0.img",
+        "clockwork": false
+      },
       "key": "dream"
     },
     {
       "name": "Google Nexus One",
       "version": "5.0.2.0",
       "init": "init.mahimahi.rc",
-      "alternate_recovery": {
-        "name": "RA Recovery v2.2.1",
-        "url": "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-passion-v2.2.1.img",
-        "clockwork": false
-      },
       "legacy_versions": [
         "3.0.0.5",
         "2.5.1.4",
@@ -88,6 +85,11 @@
         "5.0.0.8",
         "5.0.1.0"
       ],
+      "alternate_recovery": {
+        "name": "RA Recovery v2.2.1",
+        "url": "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-passion-v2.2.1.img",
+        "clockwork": false
+      },
       "key": "passion",
       "lunch": "cyanogen_passion-eng"
     },
@@ -95,45 +97,40 @@
       "name": "HTC Hero (GSM)",
       "version": "2.5.0.7",
       "init": "init.hero.rc",
-      "alternate_recovery": {
-        "name": "RA Recovery v1.7.0.1",
-        "url": "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-hero-v1.7.0.1.img",
-        "clockwork": false
-      },
       "legacy_versions": [
         "2.5.0.7",
         "2.5.1.4",
         "2.5.1.3",
         "2.5.1.1"
       ],
+      "alternate_recovery": {
+        "name": "RA Recovery v1.7.0.1",
+        "url": "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-hero-v1.7.0.1.img",
+        "clockwork": false
+      },
       "key": "hero"
     },
     {
       "name": "HTC Hero (CDMA)",
       "version": "2.5.0.7",
       "init": "init.heroc.rc",
-      "alternate_recovery": {
-        "name": "RA Recovery v1.6.2",
-        "url": "http://www.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-heroc-v1.6.2.img",
-        "clockwork": false
-      },
       "legacy_versions": [
         "2.5.0.7",
         "2.5.1.4",
         "2.5.1.3",
         "2.5.1.1"
       ],
+      "alternate_recovery": {
+        "name": "RA Recovery v1.6.2",
+        "url": "http://www.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-heroc-v1.6.2.img",
+        "clockwork": false
+      },
       "key": "heroc"
     },
     {
       "name": "HTC Evo",
       "version": "5.0.2.2",
       "init": "init.supersonic.rc",
-      "alternate_recovery": {
-        "name": "RA Recovery v2.3",
-        "url": "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-supersonic-v2.3.img",
-        "clockwork": false
-      },
       "legacy_versions": [
         "2.5.0.7",
         "3.0.0.5",
@@ -146,14 +143,19 @@
         "5.0.2.0",
         "5.0.2.2"
       ],
+      "alternate_recovery": {
+        "name": "RA Recovery v2.3",
+        "url": "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-supersonic-v2.3.img",
+        "clockwork": false
+      },
       "key": "supersonic",
       "lunch": "cyanogen_supersonic-eng"
     },
     {
       "name": "HTC Legend",
       "version": "5.0.2.0",
-      "readonly_recovery": true,
       "init": "init.legend.rc",
+      "readonly_recovery": true,
       "legacy_versions": [
         "2.5.0.7",
         "2.5.1.4",
@@ -216,11 +218,6 @@
       "name": "HTC Incredible (CDMA)",
       "version": "5.0.2.0",
       "init": "init.inc.rc",
-      "alternate_recovery": {
-        "name": "RA_GNM Recovery v3.02",
-        "url": "http://dl.dropbox.com/u/12949506/RomManager/recovery-RA-inc-3.02.img",
-        "clockwork": false
-      },
       "legacy_versions": [
         "3.0.0.8",
         "3.0.0.7",
@@ -232,14 +229,19 @@
         "5.0.0.8",
         "5.0.1.0"
       ],
+      "alternate_recovery": {
+        "name": "RA_GNM Recovery v3.02",
+        "url": "http://dl.dropbox.com/u/12949506/RomManager/recovery-RA-inc-3.02.img",
+        "clockwork": false
+      },
       "key": "inc",
       "lunch": "cyanogen_inc-eng"
     },
     {
       "name": "HTC Aria",
       "version": "2.5.0.7",
-      "readonly_recovery": true,
       "init": "init.liberty.rc",
+      "readonly_recovery": true,
       "legacy_versions": [
         "2.5.0.7",
         "2.5.1.4",
@@ -251,26 +253,26 @@
     {
       "name": "Motorola Droid Eris",
       "version": "2.5.0.7",
-      "readonly_recovery": true,
       "init": "init.desirec.rc",
-      "alternate_recovery": {
-        "name": "RA Recovery v1.6.2",
-        "url": "http://www.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-eris-v1.6.2.img",
-        "clockwork": false
-      },
+      "readonly_recovery": true,
       "legacy_versions": [
         "2.5.0.7",
         "2.5.1.4",
         "2.5.1.3",
         "2.5.1.1"
       ],
+      "alternate_recovery": {
+        "name": "RA Recovery v1.6.2",
+        "url": "http://www.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-eris-v1.6.2.img",
+        "clockwork": false
+      },
       "key": "desirec"
     },
     {
       "name": "HTC Buzz (Wildfire)",
       "version": "5.0.2.0",
-      "readonly_recovery": true,
       "init": "init.buzz.rc",
+      "readonly_recovery": true,
       "legacy_versions": [
         "3.0.0.6",
         "2.5.1.4",
@@ -298,8 +300,8 @@
     {
       "name": "HTC MyTouch Slide",
       "version": "2.5.0.7",
-      "readonly_recovery": true,
       "init": "init.latte.rc",
+      "readonly_recovery": true,
       "legacy_versions": [
         "2.5.0.7",
         "2.5.1.4",
@@ -311,8 +313,8 @@
     {
       "name": "Samsung GalaxyS i9000",
       "version": "2.5.1.2",
-      "readonly_recovery": true,
       "init": "lpm.rc",
+      "readonly_recovery": true,
       "legacy_versions": [
         "2.5.1.2",
         "2.5.1.4",
@@ -324,8 +326,8 @@
     {
       "name": "Samsung GalaxyS Fascinate",
       "version": "3.0.0.8",
-      "readonly_recovery": true,
       "init": "init.smdkc110.rc",
+      "readonly_recovery": true,
       "legacy_versions": [
         "3.0.0.8",
         "2.5.1.4",
@@ -337,8 +339,8 @@
     {
       "name": "Samsung GalaxyS Vibrant",
       "version": "2.5.1.2",
-      "readonly_recovery": true,
       "init": "init.smdkc110.rc",
+      "readonly_recovery": true,
       "legacy_versions": [
         "2.5.1.2",
         "2.5.1.4",
@@ -350,8 +352,8 @@
     {
       "name": "Samsung GalaxyS Captivate",
       "version": "2.5.1.2",
-      "readonly_recovery": true,
       "init": "init.smdkc110.rc",
+      "readonly_recovery": true,
       "legacy_versions": [
         "2.5.1.2",
         "2.5.1.4",
@@ -376,24 +378,24 @@
       "name": "LGE Ally",
       "version": "2.5.0.7",
       "init": "init.aloha.rc",
-      "alternate_recovery": {
-        "name": "RA_GNM Recovery v2.2.2",
-        "url": "http://dl.dropbox.com/u/12949506/RomManager/recovery-RA-aloha-2.2.2-GNM.img",
-        "clockwork": false
-      },
       "legacy_versions": [
         "2.5.0.7",
         "2.5.1.4",
         "2.5.1.3",
         "2.5.1.1"
       ],
+      "alternate_recovery": {
+        "name": "RA_GNM Recovery v2.2.2",
+        "url": "http://dl.dropbox.com/u/12949506/RomManager/recovery-RA-aloha-2.2.2-GNM.img",
+        "clockwork": false
+      },
       "key": "aloha"
     },
     {
       "name": "Motorola Milestone",
       "version": "3.1.0.2",
-      "readonly_recovery": true,
       "init": "init.mapphone_cdma.rc",
+      "readonly_recovery": true,
       "legacy_versions": [
         "2.5.0.7",
         "2.5.1.4",
@@ -405,11 +407,11 @@
     },
     {
       "name": "Motorola Droid X",
-      "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
       "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
+      "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
       "version": "5.0.2.0",
-      "readonly_recovery": true,
       "init": "init.mapphone_cdma.rc",
+      "readonly_recovery": true,
       "legacy_versions": [
         "2.5.0.7"
       ],
@@ -417,11 +419,11 @@
     },
     {
       "name": "Motorola Droid X (2nd-init)",
-      "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
       "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
+      "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
       "version": "5.0.2.0",
-      "readonly_recovery": true,
       "init": "init.mapphone_cdma.rc",
+      "readonly_recovery": true,
       "legacy_versions": [
         "2.5.0.7"
       ],
@@ -530,11 +532,11 @@
     },
     {
       "name": "Motorola Droid 2",
-      "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
       "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
+      "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
       "version": "5.0.2.0",
-      "readonly_recovery": true,
       "init": "init.mapphone_cdma.rc",
+      "readonly_recovery": true,
       "legacy_versions": [
         "2.5.0.8"
       ],
@@ -545,23 +547,23 @@
       "name": "Geeksphone ONE",
       "version": "2.5.1.3",
       "init": "init.qcom.rc",
-      "alternate_recovery": {
-        "name": "ONE Recovery v1.6",
-        "url": "http://dl.dropbox.com/u/10355648/recovery-ONE-1_6.img",
-        "clockwork": false
-      },
       "legacy_versions": [
         "2.5.1.4",
         "2.5.1.3",
         "2.5.1.1",
         "2.5.1.0"
       ],
+      "alternate_recovery": {
+        "name": "ONE Recovery v1.6",
+        "url": "http://dl.dropbox.com/u/10355648/recovery-ONE-1_6.img",
+        "clockwork": false
+      },
       "key": "one"
     },
     {
       "name": "Advent Vega",
-      "flash_recovery": "/data/data/com.koushikdutta.rommanager/files/tegra_flash_image recovery %s ; ",
       "reboot_recovery": "echo start > /proc/ota ; ",
+      "flash_recovery": "/data/data/com.koushikdutta.rommanager/files/tegra_flash_image recovery %s ; ",
       "version": "3.0.2.7",
       "init": "init_recovery.rc",
       "legacy_versions": [
@@ -578,24 +580,24 @@
       "flash_recovery": "/data/data/com.koushikdutta.rommanager/files/tegra_flash_image recovery %s ; ",
       "version": "2.5.1.8",
       "init": "init.harmony.rc",
-      "alternate_recovery": {
-        "name": "ClockworkMod 2.5.1.1-bekit-0.8",
-        "url": "http://dropbox.bekit.net/Android/gtablet/recovery/recovery-clockwork-2.5.1.1-bekit-0.8-harmony.img",
-        "clockwork": true
-      },
       "legacy_versions": [
         "2.5.1.8",
         "2.5.1.4",
         "2.5.1.3",
         "2.5.1.1"
       ],
+      "alternate_recovery": {
+        "name": "ClockworkMod 2.5.1.1-bekit-0.8",
+        "url": "http://dropbox.bekit.net/Android/gtablet/recovery/recovery-clockwork-2.5.1.1-bekit-0.8-harmony.img",
+        "clockwork": true
+      },
       "key": "harmony"
     },
     {
       "name": "Galaxy Tab - ATT",
       "version": "2.5.1.8",
-      "readonly_recovery": true,
       "init": "init.smdkc110.rc",
+      "readonly_recovery": true,
       "legacy_versions": [
         "2.5.1.8",
         "2.5.1.4",
@@ -607,8 +609,8 @@
     {
       "name": "Samsung Galaxy Tab - T-Mobile",
       "version": "2.5.1.8",
-      "readonly_recovery": true,
       "init": "init.smdkc110.rc",
+      "readonly_recovery": true,
       "legacy_versions": [
         "2.5.1.8",
         "2.5.1.4",
@@ -621,17 +623,17 @@
       "name": "Spice MI700, Commtiva Link N700 and more)",
       "version": "2.5.1.2",
       "init": "init.qcom.rc",
-      "alternate_recovery": {
-        "name": "MI700 Recovery v1.6",
-        "url": "http://dl.dropbox.com/u/15816725/MI700-recovery-V1_3.img",
-        "clockwork": false
-      },
       "legacy_versions": [
         "2.5.1.4",
         "2.5.1.3",
         "2.5.1.1",
         "2.5.1.0"
       ],
+      "alternate_recovery": {
+        "name": "MI700 Recovery v1.6",
+        "url": "http://dl.dropbox.com/u/15816725/MI700-recovery-V1_3.img",
+        "clockwork": false
+      },
       "key": "FM6"
     },
     {
@@ -654,8 +656,8 @@
     {
       "name": "Motorola Droid Pro",
       "version": "2.5.0.8",
-      "readonly_recovery": true,
       "init": "init. mapphone_cdma.rc",
+      "readonly_recovery": true,
       "legacy_versions": [
         "2.5.0.8"
       ],
@@ -690,8 +692,8 @@
     },
     {
       "name": "Nook Color",
-      "reboot_recovery": "dd if=/dev/zero of=/rom/bcb bs=64 count=1 ; echo 'recovery' >> /rom/bcb ; reboot ;",
       "flash_recovery": "busybox mount -orw,remount / ; mkdir /boot ; busybox mount /dev/block/mmcblk0p1 /boot ; busybox unzip -p %1$s ramdisk-recovery.ub > /boot/uRecRam ; busybox unzip -p %1$s kernel > /boot/uRecImg ; busybox umount /boot ; rmdir /boot; busybox mount -oro,remount / ; ",
+      "reboot_recovery": "dd if=/dev/zero of=/rom/bcb bs=64 count=1 ; echo 'recovery' >> /rom/bcb ; reboot ;",
       "version": "3.2.0.1",
       "init": "env.txt",
       "legacy_versions": [
@@ -725,8 +727,8 @@
     {
       "name": "Elocity A7",
       "version": "3.0.0.8",
-      "readonly_recovery": true,
       "init": "init_recovery.rc",
+      "readonly_recovery": true,
       "legacy_versions": [
         "3.0.0.8"
       ],
@@ -759,72 +761,72 @@
     },
     {
       "name": "Samsung Captivate (MTD)",
-      "init": "init.smdkc110.rc",
       "readonly_recovery": true,
-      "officially_supported": false,
-      "key": "captivatemtd"
+      "init": "init.smdkc110.rc",
+      "key": "captivatemtd",
+      "officially_supported": false
     },
     {
       "name": "Samsung Vibrant (MTD)",
-      "init": "init.smdkc110.rc",
       "readonly_recovery": true,
-      "officially_supported": false,
-      "key": "vibrantmtd"
+      "init": "init.smdkc110.rc",
+      "key": "vibrantmtd",
+      "officially_supported": false
     },
     {
       "name": "Samsung Captivate (MTD)",
       "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "init": "init.aries.rc",
-      "officially_supported": false,
-      "key": "captivatemtd"
+      "key": "captivatemtd",
+      "officially_supported": false
     },
     {
       "name": "Samsung Showcase (MTD)",
       "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "init": "init.aries.rc",
-      "officially_supported": false,
-      "key": "showcasemtd"
+      "key": "showcasemtd",
+      "officially_supported": false
     },
     {
       "name": "Samsung Mesmerize (MTD)",
       "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "init": "init.aries.rc",
-      "officially_supported": false,
-      "key": "mesmerizemtd"
+      "key": "mesmerizemtd",
+      "officially_supported": false
     },
     {
       "name": "Samsung Fascinate (MTD)",
       "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "init": "init.aries.rc",
-      "officially_supported": false,
-      "key": "fascinatemtd"
+      "key": "fascinatemtd",
+      "officially_supported": false
     },
     {
       "name": "Samsung Vibrant (MTD)",
       "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "init": "init.aries.rc",
-      "officially_supported": false,
-      "key": "vibrantmtd"
+      "key": "vibrantmtd",
+      "officially_supported": false
     },
     {
       "name": "Samsung GalaxyS i9000B (MTD)",
       "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "init": "init.aries.rc",
-      "officially_supported": false,
-      "key": "galaxysbmtd"
+      "key": "galaxysbmtd",
+      "officially_supported": false
     },
     {
       "name": "Samsung GalaxyS i9000 (MTD)",
       "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "init": "init.aries.rc",
-      "officially_supported": false,
-      "key": "galaxysmtd"
+      "key": "galaxysmtd",
+      "officially_supported": false
     },
     {
       "name": "Samsung Epic4G",
       "version": "5.0.2.7",
-      "init": "lpm.rc",
       "readonly_recovery": true,
+      "init": "lpm.rc",
       "key": "epic4g",
       "lunch": "full_epic4g-eng"
     },
@@ -845,11 +847,6 @@
       "name": "HTC Thunderbolt",
       "version": "5.0.2.1",
       "init": "init.mecha.rc",
-      "alternate_recovery": {
-        "name": "RA_GNM Recovery v3.05",
-        "url": "http://dl.dropbox.com/u/12949506/RomManager/recovery-ra-mecha-3.05.img",
-        "clockwork": false
-      },
       "legacy_versions": [
         "3.0.2.5",
         "3.0.2.4",
@@ -864,6 +861,11 @@
         "5.0.1.0",
         "5.0.2.0"
       ],
+      "alternate_recovery": {
+        "name": "RA_GNM Recovery v3.05",
+        "url": "http://dl.dropbox.com/u/12949506/RomManager/recovery-ra-mecha-3.05.img",
+        "clockwork": false
+      },
       "key": "mecha",
       "lunch": "cyanogen_mecha-eng"
     },
@@ -936,8 +938,8 @@
       "name": "LG/T-Mobile G2X",
       "reboot_recovery": "echo 'boot-recovery' | dd of=/dev/block/mmcblk0p3 seek=6144 bs=1 ; reboot ; ",
       "version": "5.0.2.0",
-      "readonly_recovery": true,
       "init": "init_recovery.rc",
+      "readonly_recovery": true,
       "legacy_versions": [
         "3.0.2.7",
         "5.0.0.8",
@@ -950,8 +952,8 @@
     },
     {
       "name": "LGE Optimus 2X",
-      "reboot_recovery": "echo 'boot-recovery' | dd of=/dev/block/mmcblk0p3 seek=6144 bs=1 ; reboot ; ",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p7 ; ",
+      "reboot_recovery": "echo 'boot-recovery' | dd of=/dev/block/mmcblk0p3 seek=6144 bs=1 ; reboot ; ",
       "version": "5.0.2.0",
       "init": "init_recovery.rc",
       "legacy_versions": [
@@ -986,16 +988,16 @@
       "name": "LGE Optimus One",
       "version": "5.0.2.0",
       "init": "init.thunderg.rc",
-      "alternate_recovery": {
-        "name": "RA_GNM Recovery v2.2.1",
-        "url": "http://dl.dropbox.com/u/12949506/RomManager/recovery-RA-thunderg-2.2.1-GNM.img",
-        "clockwork": false
-      },
       "legacy_versions": [
         "3.1.0.0",
         "5.0.0.8",
         "5.0.1.0"
       ],
+      "alternate_recovery": {
+        "name": "RA_GNM Recovery v2.2.1",
+        "url": "http://dl.dropbox.com/u/12949506/RomManager/recovery-RA-thunderg-2.2.1-GNM.img",
+        "clockwork": false
+      },
       "key": "thunderg",
       "lunch": "full_thunderg-eng"
     },
@@ -1008,21 +1010,21 @@
     {
       "name": "Samsung Charge",
       "version": "3.1.0.1",
-      "readonly_recovery": true,
       "init": "init.smdkc110.rc",
+      "readonly_recovery": true,
       "key": "charge"
     },
     {
       "name": "Motorola Defy",
       "init": "init.mapphone_umts.rc",
-      "officially_supported": false,
-      "key": "umts_jordan"
+      "key": "umts_jordan",
+      "officially_supported": false
     },
     {
       "name": "Samsung GalaxyS 4G",
       "version": "3.2.0.0",
-      "readonly_recovery": true,
       "init": "init.smdkc110.rc",
+      "readonly_recovery": true,
       "legacy_versions": [
         "3.2.0.0"
       ],
@@ -1046,8 +1048,8 @@
     {
       "name": "Samsung GalaxyS2",
       "version": "4.0.1.5",
-      "readonly_recovery": true,
       "init": "init.smdkc210.rc",
+      "readonly_recovery": true,
       "legacy_versions": [
         "4.0.1.4",
         "v4.0.1.4"
@@ -1057,8 +1059,8 @@
     {
       "name": "Samsung Sidekick 4G",
       "version": "4.0.0.2",
-      "readonly_recovery": true,
       "init": "init.smdkc110.rc",
+      "readonly_recovery": true,
       "key": "sidekick4g"
     },
     {
@@ -1081,11 +1083,6 @@
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 ; ",
       "version": "5.0.2.0",
       "init": "init.vivow.rc",
-      "alternate_recovery": {
-        "name": "RA_GNM Recovery v3.05",
-        "url": "http://dl.dropbox.com/u/12949506/RomManager/recovery-ra-vivow-3.05.img",
-        "clockwork": false
-      },
       "legacy_versions": [
         "4.0.0.4",
         "4.0.0.6",
@@ -1093,6 +1090,11 @@
         "4.0.0.8",
         "5.0.1.9"
       ],
+      "alternate_recovery": {
+        "name": "RA_GNM Recovery v3.05",
+        "url": "http://dl.dropbox.com/u/12949506/RomManager/recovery-ra-vivow-3.05.img",
+        "clockwork": false
+      },
       "key": "vivow",
       "lunch": "cyanogen_vivow-eng"
     },
@@ -1104,14 +1106,15 @@
     },
     {
       "name": "LGE Optimus 3D",
-      "reboot_recovery": "echo '518 R 1' > /sys/kernel/kobject_lge_nvdata/dynamic_nvdata_raw_write ; reboot ; ",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 ; ",
-      "version": "5.0.2.0",
+      "reboot_recovery": "echo '518 R 1' > /sys/kernel/kobject_lge_nvdata/dynamic_nvdata_raw_write ; reboot ; ",
+      "version": "5.0.2.7",
       "init": "init.p920.rc",
       "legacy_versions": [
         "4.0.0.7",
         "4.0.0.9",
-        "5.0.1.4"
+        "5.0.1.4",
+        "5.0.2.0"
       ],
       "key": "p920",
       "lunch": "p920-eng"
@@ -1196,22 +1199,22 @@
     {
       "name": "Samsung Galaxy Gio",
       "version": "4.0.1.5",
-      "readonly_recovery": true,
       "init": "init.galaxygio.rc",
+      "readonly_recovery": true,
       "key": "galaxygio"
     },
     {
       "name": "Samsung Indulge 910",
       "version": "4.0.1.5",
-      "readonly_recovery": true,
       "init": "init.smdkc110.rc",
+      "readonly_recovery": true,
       "key": "indulge910"
     },
     {
       "name": "Samsung Indulge 915",
       "version": "4.0.1.5",
-      "readonly_recovery": true,
       "init": "init.smdkc110.rc",
+      "readonly_recovery": true,
       "key": "indulge915"
     },
     {
@@ -1249,21 +1252,21 @@
     },
     {
       "name": "Motorola Droid 2 Global",
-      "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
       "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
+      "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
       "version": "5.0.2.3",
-      "readonly_recovery": true,
       "init": "init.mapphone_cdma.rc",
+      "readonly_recovery": true,
       "key": "droid2we",
       "lunch": "cyanogen_droid2we-eng"
     },
     {
       "name": "Motorola Droid Bionic",
-      "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
       "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
+      "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
       "version": "5.0.2.5",
-      "readonly_recovery": true,
       "init": "init.mapphone_cdma.rc",
+      "readonly_recovery": true,
       "legacy_versions": [
         "5.0.2.3",
         "5.0.2.4"
@@ -1273,11 +1276,11 @@
     },
     {
       "name": "Motorola Droid X2",
-      "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
       "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
+      "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
       "version": "5.0.2.5",
-      "readonly_recovery": true,
       "init": "init.mapphone_cdma.rc",
+      "readonly_recovery": true,
       "legacy_versions": [
         "5.0.2.3",
         "5.0.2.4"
@@ -1287,11 +1290,11 @@
     },
     {
       "name": "Motorola Droid 3",
-      "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
       "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
+      "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
       "version": "5.0.2.6",
-      "readonly_recovery": true,
       "init": "init.mapphone_cdma.rc",
+      "readonly_recovery": true,
       "legacy_versions": [
         "5.0.2.5"
       ],
@@ -1308,24 +1311,24 @@
     {
       "name": "Samsung Galaxy Mini",
       "version": "5.0.2.6",
-      "init": "init.gt-s5570.rc",
       "readonly_recovery": true,
+      "init": "init.gt-s5570.rc",
       "key": "tass",
       "lunch": "tass-eng"
     },
     {
       "name": "Huawei U8800",
       "version": "5.0.2.6",
-      "init": "init.u8800.rc",
       "readonly_recovery": true,
+      "init": "init.u8800.rc",
       "key": "u8800",
       "lunch": "huawei_u8800-eng"
     },
     {
       "name": "Samsung AT&T GalaxyS2",
       "version": "5.0.2.6",
-      "readonly_recovery": true,
       "init": "init.smdkc210.rc",
+      "readonly_recovery": true,
       "key": "galaxys2att",
       "lunch": "cyanogen_galaxys2att-eng"
     },
@@ -1343,8 +1346,8 @@
     {
       "name": "Samsung Epic 4G Touch",
       "version": "5.0.2.7",
-      "readonly_recovery": true,
       "init": "init.smdkc210.rc",
+      "readonly_recovery": true,
       "legacy_versions": [
         "5.0.2.6",
         "5.0.2.7"
@@ -1363,8 +1366,8 @@
     {
       "name": "Samsung Galaxy 5",
       "version": "5.0.2.6",
-      "init": "init.gt-i5500.rc",
       "readonly_recovery": true,
+      "init": "init.gt-i5500.rc",
       "key": "galaxy5",
       "lunch": "full_galaxy5-eng"
     },
@@ -1378,8 +1381,8 @@
     {
       "name": "Samsung Galaxy Tab - VZW",
       "version": "5.0.2.7",
-      "init": "init.smdkc110.rc",
       "readonly_recovery": true,
+      "init": "init.smdkc110.rc",
       "legacy_versions": [
         "5.0.2.7",
         "5.0.2.7",
@@ -1450,8 +1453,8 @@
       "reboot_recovery": "/system/xbin/busybox devmem 0x57fff800 32 0x5EC0B007; sync ; reboot ;",
       "version": "5.0.2.7",
       "init": "init.victory.rc",
-      "officially_supported": false,
       "key": "epicmtd",
+      "officially_supported": false,
       "lunch": "cyanogen_epicmtd-eng"
     },
     {
@@ -1474,15 +1477,13 @@
       "lunch": "e730-eng"
     }
   ],
-  "use_in_app": false,
-  "pontiflex_startup_register": 100,
   "pontiflex_downloading": 100,
-  "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/manifest",
   "version": "2.5.0.1",
-  "recovery_url": "http://download.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.img",
-  "recovery_zip_url": "http://download.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.zip",
+  "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/manifest",
   "pontiflex_startup_ad": 100,
+  "recovery_zip_url": "http://download.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.zip",
+  "recovery_url": "http://download.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.img",
   "ad_network": "admob",
-  "keywords": "phone accessories,droid,gadgets,bluetooth headset,car charger,sd card",
-  "manifest_signature": "NpjbRgtJ8oEuTkuFok+Gy5q1lzTvJ+wVSdzMcJA8VD4mdDG45cUc5rOHrMpvmepTDM+9/rcrM5oEzc3zhqedjJkFuway+lo5Xu33ELQafOXDs8VMTuNfjeAH7x8pNXl4UwiH3Ht51kaZBF0KGJHJVuuFUSiIcZkrP8J5yObS1NY="
+  "manifest_signature": "NpjbRgtJ8oEuTkuFok+Gy5q1lzTvJ+wVSdzMcJA8VD4mdDG45cUc5rOHrMpvmepTDM+9/rcrM5oEzc3zhqedjJkFuway+lo5Xu33ELQafOXDs8VMTuNfjeAH7x8pNXl4UwiH3Ht51kaZBF0KGJHJVuuFUSiIcZkrP8J5yObS1NY=",
+  "keywords": "phone accessories,droid,gadgets,bluetooth headset,car charger,sd card"
 }

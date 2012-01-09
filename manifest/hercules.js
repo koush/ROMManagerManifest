@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "Team Kang",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1686/95c2894e9bf3df844f77bcd233ed386c.png",
       "id": "TeamKang",
       "manifest": "http://developer.clockworkmod.com/developer/TeamKang/manifest",
@@ -34,7 +34,7 @@
     },
     {
       "developer": "doniqcc",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/718/9bbb8f432173c057adc234be32daa0df.png",
       "id": "eagleblood",
       "manifest": "http://developer.clockworkmod.com/developer/eagleblood/manifest",
@@ -50,7 +50,7 @@
     },
     {
       "developer": "tesh",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1348/9dfea5118e956ee5d1cb8b9c1597fd9d",
       "id": "teshxx@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/teshxx@gmail.com/manifest",

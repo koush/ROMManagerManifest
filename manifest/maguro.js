@@ -26,7 +26,7 @@
     },
     {
       "developer": "DrewGaren Roms",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
       "id": "drewgaren",
       "manifest": "http://developer.clockworkmod.com/developer/drewgaren/manifest",
@@ -34,7 +34,7 @@
     },
     {
       "developer": "doniqcc",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/718/9bbb8f432173c057adc234be32daa0df.png",
       "id": "eagleblood",
       "manifest": "http://developer.clockworkmod.com/developer/eagleblood/manifest",
@@ -50,7 +50,7 @@
     },
     {
       "developer": "jdkoreclipse",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/755/1d19a0748e940de5226e9a428d005769.jpg",
       "id": "jdkoreclipse",
       "manifest": "http://developer.clockworkmod.com/developer/jdkoreclipse/manifest",

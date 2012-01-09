@@ -73,7 +73,7 @@
     },
     {
       "developer": "Alexey_Stroev",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/3402/786ab4dccdf38b94c8bec58adb5e7405.png",
       "id": "stroev1996@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/stroev1996@gmail.com/manifest",

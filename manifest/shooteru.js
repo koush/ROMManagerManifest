@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "Crypt0night",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/825/70a24bf7a5c553298e3ec4080ee57d8c.gif",
       "id": "Crypt0",
       "manifest": "http://developer.clockworkmod.com/developer/Crypt0/manifest",
@@ -50,7 +50,7 @@
     },
     {
       "developer": "nickiberli",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/690/db6ea256d879d60f1618bd1e03de3453.png",
       "id": "nickiberli",
       "manifest": "http://developer.clockworkmod.com/developer/nickiberli/manifest",

@@ -31,7 +31,7 @@
     },
     {
       "developer": "TeamChargeDev",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/589/341ad33f92b005d705f1557ae861b23e.png",
       "id": "Smyers1012",
       "manifest": "http://developer.clockworkmod.com/developer/Smyers1012/manifest",
@@ -78,7 +78,7 @@
     },
     {
       "developer": "DrewGaren Roms",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
       "id": "drewgaren",
       "manifest": "http://developer.clockworkmod.com/developer/drewgaren/manifest",
@@ -93,7 +93,7 @@
     },
     {
       "developer": "Fabolous",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/337/d2c1bf150b52364eca4dcba86135ff9d.png",
       "id": "fabolous",
       "manifest": "http://developer.clockworkmod.com/developer/fabolous/manifest",
@@ -129,14 +129,14 @@
     },
     {
       "developer": "notna659@gmail.com",
-      "free": false,
+      "free": true,
       "id": "notna659@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/notna659@gmail.com/manifest",
       "summary": "notna659@gmail.com"
     },
     {
       "developer": "EnYo",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/633/e8973d34d142398f1d86f8c3ef789a8e.jpg",
       "id": "rfvbnji91@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/rfvbnji91@gmail.com/manifest",

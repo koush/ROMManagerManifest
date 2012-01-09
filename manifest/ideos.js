@@ -26,7 +26,7 @@
     },
     {
       "developer": "Tailor-Make Stuffs",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/868/d4b50e3fe5515e3362ed97ef658a65b0.jpg",
       "id": "febycv@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/febycv@gmail.com/manifest",
@@ -50,7 +50,7 @@
     },
     {
       "developer": "Jalen",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/475/83b1212e420f39b900d6011fda66ad4c.jpg",
       "id": "x_SCOS_x_Elite",
       "manifest": "http://developer.clockworkmod.com/developer/x_SCOS_x_Elite/manifest",

@@ -34,7 +34,7 @@
     },
     {
       "developer": "lektriczzz239@gmail.com",
-      "free": false,
+      "free": true,
       "id": "lektriczzz239@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/lektriczzz239@gmail.com/manifest",
       "summary": "lektriczzz239@gmail.com"

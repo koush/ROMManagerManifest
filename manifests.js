@@ -24,7 +24,7 @@
     },
     {
       "developer": "Rafyvitto",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/177/700bcfbb335a940d5d43aab2894d058d.jpg",
       "id": "Android-Maisters",
       "manifest": "http://developer.clockworkmod.com/developer/Android-Maisters/manifest",
@@ -44,7 +44,7 @@
     },
     {
       "developer": "Baadnewz",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2313/9eed3cf860cea96cf5d5a6f190115dfe.jpg",
       "id": "Baadnewz@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/Baadnewz@gmail.com/manifest",
@@ -66,7 +66,7 @@
     },
     {
       "developer": "Birdman",
-      "free": false,
+      "free": true,
       "id": "Birdman",
       "manifest": "http://developer.clockworkmod.com/developer/Birdman/manifest",
       "roms": {
@@ -76,7 +76,7 @@
     },
     {
       "developer": "computerkid23",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2172/bbfefd270a9aac7e5dc7dc6f9f3c1c2f.jpg",
       "id": "CK23",
       "manifest": "http://developer.clockworkmod.com/developer/CK23/manifest",
@@ -96,7 +96,7 @@
     },
     {
       "developer": "Clark44 (Absurd)",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/315/fa526fadb52216d09110cf18e5fd5047.jpg",
       "id": "Clark44 (Absurd)",
       "manifest": "http://developer.clockworkmod.com/developer/Clark44 (Absurd)/manifest",
@@ -118,7 +118,7 @@
     },
     {
       "developer": "CrashV2010",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1928/2cf2988ce83eeda8c9262be0c81a8420.gif",
       "id": "CrashV2010",
       "manifest": "http://developer.clockworkmod.com/developer/CrashV2010/manifest",
@@ -129,7 +129,7 @@
     },
     {
       "developer": "Crypt0night",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/825/70a24bf7a5c553298e3ec4080ee57d8c.gif",
       "id": "Crypt0",
       "manifest": "http://developer.clockworkmod.com/developer/Crypt0/manifest",
@@ -140,7 +140,7 @@
     },
     {
       "developer": ".CyberGR-MOD|NS-NGN.",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2700/d6b921edddde69710341f2d2a13e7b7f.jpg",
       "id": "CyberGR-MOD|NS-NGN",
       "manifest": "http://developer.clockworkmod.com/developer/CyberGR-MOD|NS-NGN/manifest",
@@ -172,7 +172,7 @@
     },
     {
       "developer": "HardDroid2",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/438/21a895f66fddad535cf84ed37ccb425c.JPG",
       "id": "DeanoSoft_UK",
       "manifest": "http://developer.clockworkmod.com/developer/DeanoSoft_UK/manifest",
@@ -194,7 +194,7 @@
     },
     {
       "developer": "Falla7",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/3311/0593c0444a3fad2ad7e98ddda7153476.jpg",
       "id": "Falla7",
       "manifest": "http://developer.clockworkmod.com/developer/Falla7/manifest",
@@ -205,7 +205,7 @@
     },
     {
       "developer": "GreenRom Project",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/672/900449a34b08c137930980f65c629f20.png",
       "id": "GRP",
       "manifest": "http://developer.clockworkmod.com/developer/GRP/manifest",
@@ -217,7 +217,7 @@
     },
     {
       "developer": "GreenRomProject",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
       "id": "GreenRomProject",
       "manifest": "http://developer.clockworkmod.com/developer/GreenRomProject/manifest",
@@ -234,7 +234,7 @@
     },
     {
       "developer": "FirstUA-ROM",
-      "free": false,
+      "free": true,
       "id": "Grif07",
       "manifest": "http://developer.clockworkmod.com/developer/Grif07/manifest",
       "roms": {
@@ -244,7 +244,7 @@
     },
     {
       "developer": "Honey3D",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/376/b266f88e7063336d333ef7ad4fd4d6ff.png",
       "id": "HoneyTeam",
       "manifest": "http://developer.clockworkmod.com/developer/HoneyTeam/manifest",
@@ -265,7 +265,7 @@
     },
     {
       "developer": "ILWT CM7",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/739/0b1d0f671f7db5b53fa909c1a48b32fa.png",
       "id": "ILWT",
       "manifest": "http://developer.clockworkmod.com/developer/ILWT/manifest",
@@ -276,7 +276,7 @@
     },
     {
       "developer": "Jmz",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1308/e941956e38660c4a13dc50b69b5bd012.jpg",
       "id": "Jmz",
       "manifest": "http://developer.clockworkmod.com/developer/Jmz/manifest",
@@ -300,7 +300,7 @@
     },
     {
       "developer": "tiad8.com",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2775/9ea3d52aaf5109cc5e8259129866a301.png",
       "id": "Just was ICS'd boy!",
       "manifest": "http://developer.clockworkmod.com/developer/Just was ICS'd boy!/manifest",
@@ -312,7 +312,7 @@
     },
     {
       "developer": "KalimochoAz",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2958/799d1e5a81bb60bfd443b6e2fba90d5d.png",
       "id": "KalimochoAz",
       "manifest": "http://developer.clockworkmod.com/developer/KalimochoAz/manifest",
@@ -323,7 +323,7 @@
     },
     {
       "developer": "Kejar31",
-      "free": false,
+      "free": true,
       "id": "Kejar31",
       "manifest": "http://developer.clockworkmod.com/developer/Kejar31/manifest",
       "roms": {
@@ -333,7 +333,7 @@
     },
     {
       "developer": "Team Whiskey",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/217/1f014e3a34997c82b915902c05ba2005.png",
       "id": "Krylon360",
       "manifest": "http://developer.clockworkmod.com/developer/Krylon360/manifest",
@@ -344,7 +344,7 @@
     },
     {
       "developer": "LDrifta",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/554/c2176488c9813e3b7c2a3b1802f09c7d.png",
       "id": "LDrifta",
       "manifest": "http://developer.clockworkmod.com/developer/LDrifta/manifest",
@@ -386,7 +386,7 @@
     },
     {
       "developer": "MIUI",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/223/4b9a814afaba733a6d3b4a47f29436de.png",
       "id": "MIUI Dev",
       "manifest": "http://developer.clockworkmod.com/developer/MIUI Dev/manifest",
@@ -397,7 +397,7 @@
     },
     {
       "developer": "Menelkir ROMs",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/791/11b39c3b365a9d1160b1b7e9d94911c3.jpg",
       "id": "Menelkir",
       "manifest": "http://developer.clockworkmod.com/developer/Menelkir/manifest",
@@ -408,7 +408,7 @@
     },
     {
       "developer": "Navalynt Roms (3.14 Series)",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/596/5a7d89b16d54be204e888a7f5e5ed390.png",
       "id": "Navalynt",
       "manifest": "http://developer.clockworkmod.com/developer/Navalynt/manifest",
@@ -419,7 +419,7 @@
     },
     {
       "developer": "Nexus S Team Germany",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/962/bc1dbaa7f6a0b08b7e1a2d984c7b0751.gif",
       "id": "Nexus S Team Germany",
       "manifest": "http://developer.clockworkmod.com/developer/Nexus S Team Germany/manifest",
@@ -430,7 +430,7 @@
     },
     {
       "developer": "Nocoast",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2241/e9904394fac5d44c2ee51fc27b72835f.gif",
       "id": "Nocoast",
       "manifest": "http://developer.clockworkmod.com/developer/Nocoast/manifest",
@@ -441,7 +441,7 @@
     },
     {
       "developer": "The DarkSide",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2949/68acbded5ce342764d6a2af44d9a6f97.gif",
       "id": "Nottach",
       "manifest": "http://developer.clockworkmod.com/developer/Nottach/manifest",
@@ -462,7 +462,7 @@
     },
     {
       "developer": "OMJ-",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/719/bfbccec41cbac2cba0e62a7f2bbefa2e.png",
       "id": "OMJ-",
       "manifest": "http://developer.clockworkmod.com/developer/OMJ-/manifest",
@@ -473,7 +473,7 @@
     },
     {
       "developer": "RG2x",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/3299/b391f2fdaadedbb24eaccc7d485e8471.png",
       "id": "RG2x",
       "manifest": "http://developer.clockworkmod.com/developer/RG2x/manifest",
@@ -484,7 +484,7 @@
     },
     {
       "developer": "R0st0ck",
-      "free": false,
+      "free": true,
       "id": "RH-Mod",
       "manifest": "http://developer.clockworkmod.com/developer/RH-Mod/manifest",
       "roms": {
@@ -505,7 +505,7 @@
     },
     {
       "developer": "RevNumbers",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/813/5fedd62d6bdce82a1ce57649d118a9f6.gif",
       "id": "RevNumbers",
       "manifest": "http://developer.clockworkmod.com/developer/RevNumbers/manifest",
@@ -517,7 +517,7 @@
     },
     {
       "developer": "Complete Android Experience ",
-      "free": false,
+      "free": true,
       "id": "SamSamoon",
       "manifest": "http://developer.clockworkmod.com/developer/SamSamoon/manifest",
       "roms": {
@@ -527,7 +527,7 @@
     },
     {
       "developer": "Scozza",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1821/fb551e70fcf39b45280de2a6e7b929cb.jpg",
       "id": "Scozza Dev",
       "manifest": "http://developer.clockworkmod.com/developer/Scozza Dev/manifest",
@@ -538,7 +538,7 @@
     },
     {
       "developer": "Sense-o-Maniac",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/862/dd9079fad0d347309ffbc6e4362a3145",
       "id": "Sense-o-Maniac",
       "manifest": "http://developer.clockworkmod.com/developer/Sense-o-Maniac/manifest",
@@ -560,7 +560,7 @@
     },
     {
       "developer": "SlashDW",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/567/070c76c72f1bb91a39212f6bc9bbbc0c.png",
       "id": "SlashDW",
       "manifest": "http://developer.clockworkmod.com/developer/SlashDW/manifest",
@@ -571,7 +571,7 @@
     },
     {
       "developer": "TeamChargeDev",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/589/341ad33f92b005d705f1557ae861b23e.png",
       "id": "Smyers1012",
       "manifest": "http://developer.clockworkmod.com/developer/Smyers1012/manifest",
@@ -582,7 +582,7 @@
     },
     {
       "developer": "SnakeBiteZZ",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/178/75a44ae18b10c58a76c785cbf245f3f0.jpg",
       "id": "SnakeBiteZZ",
       "manifest": "http://developer.clockworkmod.com/developer/SnakeBiteZZ/manifest",
@@ -616,7 +616,7 @@
     },
     {
       "developer": "SparksCo",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/293/cf525bafa8894bfea108d2e1387e6e52.png",
       "id": "SparksCo",
       "manifest": "http://developer.clockworkmod.com/developer/SparksCo/manifest",
@@ -630,7 +630,7 @@
     },
     {
       "developer": "Hardbread",
-      "free": false,
+      "free": true,
       "id": "Stenka",
       "manifest": "http://developer.clockworkmod.com/developer/Stenka/manifest",
       "roms": {
@@ -651,7 +651,7 @@
     },
     {
       "developer": "Team Kang",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1686/95c2894e9bf3df844f77bcd233ed386c.png",
       "id": "TeamKang",
       "manifest": "http://developer.clockworkmod.com/developer/TeamKang/manifest",
@@ -662,7 +662,7 @@
     },
     {
       "developer": "TeamRogue",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/255/eef30cd10645b17f89e2f65186bfb915.png",
       "id": "TeamRogue",
       "manifest": "http://developer.clockworkmod.com/developer/TeamRogue/manifest",
@@ -673,7 +673,7 @@
     },
     {
       "developer": "TeeRom",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2699/2f5bae576f65c353fa25af15ae848759.gif",
       "id": "TeeRom",
       "manifest": "http://developer.clockworkmod.com/developer/TeeRom/manifest",
@@ -695,7 +695,7 @@
     },
     {
       "developer": "DroidVicious",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/3654/1644fc3daed4db257d1ba2506a938241.png",
       "id": "Vicious",
       "manifest": "http://developer.clockworkmod.com/developer/Vicious/manifest",
@@ -706,7 +706,7 @@
     },
     {
       "developer": "Whitehawkx",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/673/7898d96c27f948a4e170d89dbe77121e.jpg",
       "id": "Whitehawkx",
       "manifest": "http://developer.clockworkmod.com/developer/Whitehawkx/manifest",
@@ -718,7 +718,7 @@
     },
     {
       "developer": "WolfRoms",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/704/22baaaa7d15d504f2d43eb8a2980cea9.jpg",
       "id": "WolfRoms",
       "manifest": "http://developer.clockworkmod.com/developer/WolfRoms/manifest",
@@ -729,7 +729,7 @@
     },
     {
       "developer": "Sapo a5 Blog Team",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/617/426f2197f1ed2674fa87666a35835083.png",
       "id": "a5.blog.team",
       "manifest": "http://developer.clockworkmod.com/developer/a5.blog.team/manifest",
@@ -740,7 +740,7 @@
     },
     {
       "developer": "Shadow Hawk ROM",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2519/a8de366b3b4156ddf95604e67a351db4.jpg",
       "id": "adambuck1988@googlemail.com",
       "manifest": "http://developer.clockworkmod.com/developer/adambuck1988@googlemail.com/manifest",
@@ -765,7 +765,7 @@
     },
     {
       "developer": "AdFad666's CyanogenMod",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/3020/5e63fff12afef893368323e27ab37c32.png",
       "id": "adfad666",
       "manifest": "http://developer.clockworkmod.com/developer/adfad666/manifest",
@@ -776,7 +776,7 @@
     },
     {
       "developer": "aefreshkid97@gmail.com",
-      "free": false,
+      "free": true,
       "id": "aefreshkid97@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/aefreshkid97@gmail.com/manifest",
       "roms": {
@@ -787,7 +787,7 @@
     },
     {
       "developer": "CiVic",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/754/b33b496dcc1158a6fb54aade5e74befa.png",
       "id": "agoura@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/agoura@gmail.com/manifest",
@@ -808,7 +808,7 @@
     },
     {
       "developer": "Ali Almahdi",
-      "free": false,
+      "free": true,
       "id": "ali.almahdi",
       "manifest": "http://developer.clockworkmod.com/developer/ali.almahdi/manifest",
       "roms": {
@@ -818,7 +818,7 @@
     },
     {
       "developer": "aosp",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/322/c97732b0067d16ccf420f20f78b8f36a.png",
       "id": "aospmod",
       "manifest": "http://developer.clockworkmod.com/developer/aospmod/manifest",
@@ -831,7 +831,7 @@
     },
     {
       "developer": "iceandfire ",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/13/f9ed41e65204d8e00384a55979b9a343.png",
       "id": "arhamjamal@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/arhamjamal@gmail.com/manifest",
@@ -853,7 +853,7 @@
     },
     {
       "developer": "teamhacksung",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/5/e37442e1c9d8f4dde5ceb57f51967029.png",
       "id": "atinm",
       "manifest": "http://developer.clockworkmod.com/developer/atinm/manifest",
@@ -910,7 +910,7 @@
     },
     {
       "developer": "bernard.schratz@gmail.com",
-      "free": false,
+      "free": true,
       "id": "bernard.schratz@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/bernard.schratz@gmail.com/manifest",
       "roms": {
@@ -931,7 +931,7 @@
     },
     {
       "developer": "biscochic@gmail.com",
-      "free": false,
+      "free": true,
       "id": "biscochic@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/biscochic@gmail.com/manifest",
       "roms": {
@@ -941,7 +941,7 @@
     },
     {
       "developer": "PyroMod DevTeam Roms",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/289/f50f109fd0e925ebc88d9d0d350411c1.jpg",
       "id": "blahbl4hblah",
       "manifest": "http://developer.clockworkmod.com/developer/blahbl4hblah/manifest",
@@ -977,7 +977,7 @@
     },
     {
       "developer": "Br1cK'd",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/288/75bcc580df6cb4e59690993fcb904ecc.jpg",
       "id": "bossdj523@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/bossdj523@gmail.com/manifest",
@@ -1005,7 +1005,7 @@
     },
     {
       "developer": "CM7 Stable - till official gets ",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/93/fb68f8d3119ee8d21da6627c4db8540c",
       "id": "carsten.dressler@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/carsten.dressler@gmail.com/manifest",
@@ -1016,7 +1016,7 @@
     },
     {
       "developer": "cstayton",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/546/b07253a196d9b849d79ec8a6841f839c.png",
       "id": "castayton@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/castayton@gmail.com/manifest",
@@ -1027,7 +1027,7 @@
     },
     {
       "developer": "CdTDroiD",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/803/9aec5a3c5464161e710530ada496a0fe.png",
       "id": "cdtdroid",
       "manifest": "http://developer.clockworkmod.com/developer/cdtdroid/manifest",
@@ -1070,7 +1070,7 @@
     },
     {
       "developer": "Whoareyou",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2723/18c2b97db8bf6b9978cfe67b4bf4733c.png",
       "id": "chrispilot2b@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/chrispilot2b@gmail.com/manifest",
@@ -1092,7 +1092,7 @@
     },
     {
       "developer": "coldflid@gmail.com",
-      "free": false,
+      "free": true,
       "id": "coldflid",
       "manifest": "http://developer.clockworkmod.com/developer/coldflid/manifest",
       "roms": {
@@ -1102,7 +1102,7 @@
     },
     {
       "developer": "Crackeyes",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2827/9ad0366ae2efd9fcc36c8885b0a13972.jpg",
       "id": "crackeyes@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/crackeyes@gmail.com/manifest",
@@ -1113,7 +1113,7 @@
     },
     {
       "developer": "foschi@gmail.com",
-      "free": false,
+      "free": true,
       "id": "crimescene",
       "manifest": "http://developer.clockworkmod.com/developer/crimescene/manifest",
       "roms": {
@@ -1313,7 +1313,7 @@
     },
     {
       "developer": "DarkyROM",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/124/e975fb9db2047ee42b84d4d65f612fcd.png",
       "id": "darkyy92@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/darkyy92@gmail.com/manifest",
@@ -1336,7 +1336,7 @@
     },
     {
       "developer": "Diviance",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/591/bb41cb6540f79fe9208a84a04af56bfe.png",
       "id": "diviance@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/diviance@gmail.com/manifest",
@@ -1347,7 +1347,7 @@
     },
     {
       "developer": "DJPBX",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/794/e317ca8f3c09678408816cf171108c8e.gif",
       "id": "djpbx",
       "manifest": "http://developer.clockworkmod.com/developer/djpbx/manifest",
@@ -1358,7 +1358,7 @@
     },
     {
       "developer": "dmeadows013",
-      "free": false,
+      "free": true,
       "id": "dmeadows013@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/dmeadows013@gmail.com/manifest",
       "roms": {
@@ -1368,7 +1368,7 @@
     },
     {
       "developer": "TyphooN CyanogenMod",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/146/24fb59de6489c544c6fd683b6a43e491.png",
       "id": "do-not-use-cyanogenmod-nightly",
       "manifest": "http://developer.clockworkmod.com/developer/do-not-use-cyanogenmod-nightly/manifest",
@@ -1379,7 +1379,7 @@
     },
     {
       "developer": "Dread 7us",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1929/0151bdcc239801272b88a5df9277a340.gif",
       "id": "dread7us@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/dread7us@gmail.com/manifest",
@@ -1390,7 +1390,7 @@
     },
     {
       "developer": "DrewGaren Roms",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
       "id": "drewgaren",
       "manifest": "http://developer.clockworkmod.com/developer/drewgaren/manifest",
@@ -1426,7 +1426,7 @@
     },
     {
       "developer": "Cubed ROMs",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/66/24fcf796e1e1fc870f868d35e7cf0207.png",
       "id": "dsb9938",
       "manifest": "http://developer.clockworkmod.com/developer/dsb9938/manifest",
@@ -1437,7 +1437,7 @@
     },
     {
       "developer": "Jack Michael",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2115/b9fa1ef5c95cc1f94aae0e338124c8a1.png",
       "id": "dsw248",
       "manifest": "http://developer.clockworkmod.com/developer/dsw248/manifest",
@@ -1448,7 +1448,7 @@
     },
     {
       "developer": "Džiugas",
-      "free": false,
+      "free": true,
       "id": "dziugas.grebliunas@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/dziugas.grebliunas@gmail.com/manifest",
       "roms": {
@@ -1458,7 +1458,7 @@
     },
     {
       "developer": "Oxygen ROM",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/848/640eb396b8b335969bd0f883902f97e8.png",
       "id": "dzo",
       "manifest": "http://developer.clockworkmod.com/developer/dzo/manifest",
@@ -1469,7 +1469,7 @@
     },
     {
       "developer": "doniqcc",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/718/9bbb8f432173c057adc234be32daa0df.png",
       "id": "eagleblood",
       "manifest": "http://developer.clockworkmod.com/developer/eagleblood/manifest",
@@ -1483,7 +1483,7 @@
     },
     {
       "developer": "earthbound.iap",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2561/91432fb3efe76db6b048798964a8685e.jpg",
       "id": "earthbound.iap@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/earthbound.iap@gmail.com/manifest",
@@ -1516,7 +1516,7 @@
     },
     {
       "developer": "Dalingrin's Test Builds",
-      "free": false,
+      "free": true,
       "id": "ehardesty@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/ehardesty@gmail.com/manifest",
       "roms": {
@@ -1526,7 +1526,7 @@
     },
     {
       "developer": "E-XtremeMod",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/132/3bea45cb0d900947ae2ceb5399b617f3.png",
       "id": "extrememod",
       "manifest": "http://developer.clockworkmod.com/developer/extrememod/manifest",
@@ -1550,7 +1550,7 @@
     },
     {
       "developer": "Fabolous",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/337/d2c1bf150b52364eca4dcba86135ff9d.png",
       "id": "fabolous",
       "manifest": "http://developer.clockworkmod.com/developer/fabolous/manifest",
@@ -1562,7 +1562,7 @@
     },
     {
       "developer": "Faux123 Custom ROMs",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/65/458f8e1774c14317e04210d456d579e0.gif",
       "id": "faux123",
       "manifest": "http://developer.clockworkmod.com/developer/faux123/manifest",
@@ -1574,7 +1574,7 @@
     },
     {
       "developer": "Tailor-Make Stuffs",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/868/d4b50e3fe5515e3362ed97ef658a65b0.jpg",
       "id": "febycv@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/febycv@gmail.com/manifest",
@@ -1619,7 +1619,7 @@
     },
     {
       "developer": "franciscofranco",
-      "free": false,
+      "free": true,
       "id": "franciscofranco.1990@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/franciscofranco.1990@gmail.com/manifest",
       "roms": {
@@ -1674,7 +1674,7 @@
     },
     {
       "developer": "Gautam Aggarwal",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2733/3d9ebd223f9ffd5f5e32b6992bd5d11f.jpeg",
       "id": "gautam.aggarwal62@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/gautam.aggarwal62@gmail.com/manifest",
@@ -1685,7 +1685,7 @@
     },
     {
       "developer": "GazaIan's ROMs",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/296/cd3509e2cff156bd174cb32481dfbe33.jpg",
       "id": "gazaian13@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/gazaian13@gmail.com/manifest",
@@ -1706,7 +1706,7 @@
     },
     {
       "developer": "gianluck95@gmail.com",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/772/aac0961affc58a65b8fda0f455ed6f0a.png",
       "id": "gianluck95@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/gianluck95@gmail.com/manifest",
@@ -1772,7 +1772,7 @@
     },
     {
       "developer": "GingerXTBR",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1879/e3328f776291f8c2e7b618f90bdd7b96.jpg",
       "id": "heitorfcastro@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/heitorfcastro@gmail.com/manifest",
@@ -1783,7 +1783,7 @@
     },
     {
       "developer": "Helvio Pedreschi",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/694/f345f5b3bff87b8fbe023bc68d790ceb.png",
       "id": "helvio88@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/helvio88@gmail.com/manifest",
@@ -1794,7 +1794,7 @@
     },
     {
       "developer": "houseofchazor@gmail.com",
-      "free": false,
+      "free": true,
       "id": "houseofchazor@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/houseofchazor@gmail.com/manifest",
       "roms": {
@@ -1804,7 +1804,7 @@
     },
     {
       "developer": "Htcclay",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/307/5076662d1617430aa6ad3f6ad73136aa.jpg",
       "id": "htcclay",
       "manifest": "http://developer.clockworkmod.com/developer/htcclay/manifest",
@@ -1815,6 +1815,16 @@
         "vision": true
       },
       "summary": "Go Go Go!"
+    },
+    {
+      "developer": "HyperDroid",
+      "free": "true",
+      "id": "hyperdroid",
+      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
+      "roms": {
+        "leo": "true"
+      },
+      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
     },
     {
       "developer": "HyperDroid CM7",
@@ -1828,18 +1838,8 @@
       "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
     },
     {
-      "developer": "HyperDroid",
-      "free": "true",
-      "id": "hyperdroid",
-      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
-      "roms": {
-        "leo": "true"
-      },
-      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
-    },
-    {
       "developer": "Coentje44",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2648/e9dde91c88ad6b2e2d74addd42c74db7.png",
       "id": "iapplecloud@me.com",
       "manifest": "http://developer.clockworkmod.com/developer/iapplecloud@me.com/manifest",
@@ -1863,7 +1863,7 @@
     },
     {
       "developer": "Ilnur Zamanov",
-      "free": false,
+      "free": true,
       "id": "ilnur.zamanov",
       "manifest": "http://developer.clockworkmod.com/developer/ilnur.zamanov/manifest",
       "roms": {
@@ -1873,7 +1873,7 @@
     },
     {
       "developer": "Infinitybiff",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/653/7dc90deb235d7f8e522085e09fad294a.png",
       "id": "infinitybiff@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/infinitybiff@gmail.com/manifest",
@@ -1896,7 +1896,7 @@
     },
     {
       "developer": "JMCyanbreadMod",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/396/b01189040f608fa16cc797e549f27cdc.png",
       "id": "jacob.mueller.elz@googlemail.com",
       "manifest": "http://developer.clockworkmod.com/developer/jacob.mueller.elz@googlemail.com/manifest",
@@ -1917,7 +1917,7 @@
     },
     {
       "developer": "Stock ROMs",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/23/757972f1d6362f95a265050747542fc5.jpg",
       "id": "jamieluckett@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/jamieluckett@gmail.com/manifest",
@@ -1928,7 +1928,7 @@
     },
     {
       "developer": "JayDub",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/637/8b686c72876f16d95da06635ab65049e.png",
       "id": "jay.dub.williams82@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/jay.dub.williams82@gmail.com/manifest",
@@ -1939,7 +1939,7 @@
     },
     {
       "developer": "QND",
-      "free": false,
+      "free": true,
       "id": "jbbandos",
       "manifest": "http://developer.clockworkmod.com/developer/jbbandos/manifest",
       "roms": {
@@ -1961,7 +1961,7 @@
     },
     {
       "developer": "jdkoreclipse",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/755/1d19a0748e940de5226e9a428d005769.jpg",
       "id": "jdkoreclipse",
       "manifest": "http://developer.clockworkmod.com/developer/jdkoreclipse/manifest",
@@ -1984,7 +1984,7 @@
     },
     {
       "developer": "JD317",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1541/10ad3cc278ebcf7b21b17b454fe7d9f1",
       "id": "jdthreeseventeen@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/jdthreeseventeen@gmail.com/manifest",
@@ -2006,7 +2006,7 @@
     },
     {
       "developer": "Jivany",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/54/b2fbc8d78d1603ad3ce1c5db727a4b68.jpg",
       "id": "jivanylaureano@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/jivanylaureano@gmail.com/manifest",
@@ -2017,7 +2017,7 @@
     },
     {
       "developer": "jocala@jocala.com",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2433/19a1350a7a0982fd55adc7becef33914.png",
       "id": "jocala@jocala.com",
       "manifest": "http://developer.clockworkmod.com/developer/jocala@jocala.com/manifest",
@@ -2028,7 +2028,7 @@
     },
     {
       "developer": "jondevere@gmail.com",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/695/baaa677e69d0e0b6eaaa2d46f851e9e8.gif",
       "id": "jondevere@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/jondevere@gmail.com/manifest",
@@ -2049,7 +2049,7 @@
     },
     {
       "developer": "j_r0dd",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/313/5d8c31631389ae04193f1a75584c60a1",
       "id": "jree2kx@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/jree2kx@gmail.com/manifest",
@@ -2060,7 +2060,7 @@
     },
     {
       "developer": "G2X SINGH-UI by: nycelitemaster",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/3518/101a2dde1542afce842ca930b94f2ead.jpg",
       "id": "jsachdev84@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/jsachdev84@gmail.com/manifest",
@@ -2084,7 +2084,7 @@
     },
     {
       "developer": "jt1134",
-      "free": false,
+      "free": true,
       "id": "jt1134",
       "manifest": "http://developer.clockworkmod.com/developer/jt1134/manifest",
       "roms": {
@@ -2096,7 +2096,7 @@
     },
     {
       "developer": "jwtiyar Nariman",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1655/ce37fbec43d741241ffd0e90382286d5.jpg",
       "id": "jwtiyar@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/jwtiyar@gmail.com/manifest",
@@ -2107,7 +2107,7 @@
     },
     {
       "developer": "NexBreed ROMs",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/150/06f5d36ced5f4795548d594dc9388435.jpg",
       "id": "kaiya215",
       "manifest": "http://developer.clockworkmod.com/developer/kaiya215/manifest",
@@ -2118,7 +2118,7 @@
     },
     {
       "developer": "kandynami@gmail.com",
-      "free": false,
+      "free": true,
       "id": "kandynami@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/kandynami@gmail.com/manifest",
       "roms": {
@@ -2139,7 +2139,7 @@
     },
     {
       "developer": "mik_os",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/280/90f44cfd3ec66b7485bbf1d464651da5.gif",
       "id": "kiril.mik.os@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/kiril.mik.os@gmail.com/manifest",
@@ -2150,7 +2150,7 @@
     },
     {
       "developer": "kman12389@googlemail.com",
-      "free": false,
+      "free": true,
       "id": "kman12389@googlemail.com",
       "manifest": "http://developer.clockworkmod.com/developer/kman12389@googlemail.com/manifest",
       "roms": {
@@ -2170,7 +2170,7 @@
     },
     {
       "developer": "Koush",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/579/ed66d281a91c38574d1239f60b9c80b6.png",
       "id": "koush",
       "manifest": "http://developer.clockworkmod.com/developer/koush/manifest",
@@ -2191,7 +2191,7 @@
     },
     {
       "developer": "ERA",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2221/4bb04642852e6af0f4e7d0dfa94ed34a.png",
       "id": "ksmullins88@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/ksmullins88@gmail.com/manifest",
@@ -2213,7 +2213,7 @@
     },
     {
       "developer": "lektriczzz239@gmail.com",
-      "free": false,
+      "free": true,
       "id": "lektriczzz239@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/lektriczzz239@gmail.com/manifest",
       "roms": {
@@ -2233,7 +2233,7 @@
     },
     {
       "developer": "ROM FASTY",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/621/fb4f7286249636542a1b0a5cdf8d3e6b.png",
       "id": "lostlogic01@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/lostlogic01@gmail.com/manifest",
@@ -2245,7 +2245,7 @@
     },
     {
       "developer": "Rom Fasty II",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/725/85d1624ec2c402064b2db693cd224cd0.png",
       "id": "lostlogicaa@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/lostlogicaa@gmail.com/manifest",
@@ -2257,7 +2257,7 @@
     },
     {
       "developer": "Lotherius",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2354/1bc84f350a4a0d99cac3cc9c3c04666b.jpg",
       "id": "lotherius",
       "manifest": "http://developer.clockworkmod.com/developer/lotherius/manifest",
@@ -2279,7 +2279,7 @@
     },
     {
       "developer": "Lox",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/89/da66842898ae788ad12bb696f515c928.jpg",
       "id": "lox",
       "manifest": "http://developer.clockworkmod.com/developer/lox/manifest",
@@ -2290,7 +2290,7 @@
     },
     {
       "developer": "LMD Productions",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1882/ccc8d0d753532845d67f5f8ac11c5e41.png",
       "id": "lucasmendes98@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/lucasmendes98@gmail.com/manifest",
@@ -2301,7 +2301,7 @@
     },
     {
       "developer": "Magiman7",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/42/70d519969f6c857c9e5b7c1cfb147ae9.png",
       "id": "magiman7",
       "manifest": "http://developer.clockworkmod.com/developer/magiman7/manifest",
@@ -2312,7 +2312,7 @@
     },
     {
       "developer": "maury1234",
-      "free": false,
+      "free": true,
       "id": "mamezcua94@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/mamezcua94@gmail.com/manifest",
       "roms": {
@@ -2322,7 +2322,7 @@
     },
     {
       "developer": "mathkid95",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1992/7fe1b96f6d5747b17e3b7bb4ce165219.gif",
       "id": "mathkid95",
       "manifest": "http://developer.clockworkmod.com/developer/mathkid95/manifest",
@@ -2334,7 +2334,7 @@
     },
     {
       "developer": "mb-14",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1439/871e124edd94070a1cbb581aa2348962.png",
       "id": "mb-14",
       "manifest": "http://developer.clockworkmod.com/developer/mb-14/manifest",
@@ -2345,7 +2345,7 @@
     },
     {
       "developer": "metiCkOne",
-      "free": false,
+      "free": true,
       "id": "metiCkOne",
       "manifest": "http://developer.clockworkmod.com/developer/metiCkOne/manifest",
       "roms": {
@@ -2356,7 +2356,7 @@
     },
     {
       "developer": "middlepiller@gmail.com",
-      "free": false,
+      "free": true,
       "id": "middlepiller@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/middlepiller@gmail.com/manifest",
       "roms": {
@@ -2438,7 +2438,7 @@
     },
     {
       "developer": "meXdroidMod rOmS",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/394/991fd69a0f32e66d8026b35c3a914259.jpg",
       "id": "mjybarr@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/mjybarr@gmail.com/manifest",
@@ -2459,7 +2459,7 @@
     },
     {
       "developer": "Marcusant",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2192/81921142812f2eae392bcc8994e21a02.png",
       "id": "mstojcevich@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/mstojcevich@gmail.com/manifest",
@@ -2470,7 +2470,7 @@
     },
     {
       "developer": "mmmcfc",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2217/15386be30d902d0a62b5ce4c114edf3b.png",
       "id": "munawarmmannan@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/munawarmmannan@gmail.com/manifest",
@@ -2492,7 +2492,7 @@
     },
     {
       "developer": "nickiberli",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/690/db6ea256d879d60f1618bd1e03de3453.png",
       "id": "nickiberli",
       "manifest": "http://developer.clockworkmod.com/developer/nickiberli/manifest",
@@ -2503,7 +2503,7 @@
     },
     {
       "developer": "nikacortez24@gmail.com",
-      "free": false,
+      "free": true,
       "id": "nikacortez24@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/nikacortez24@gmail.com/manifest",
       "roms": {
@@ -2513,7 +2513,7 @@
     },
     {
       "developer": "nitsuj17",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/747/e5966a7321c516f205558da3956f87bc.png",
       "id": "nitsuj17@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/nitsuj17@gmail.com/manifest",
@@ -2524,7 +2524,7 @@
     },
     {
       "developer": "NoFrills-AOSP",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/636/7ab5b3bc307d3a3bf5e42ec2b09a234f.png",
       "id": "nofrills",
       "manifest": "http://developer.clockworkmod.com/developer/nofrills/manifest",
@@ -2535,7 +2535,7 @@
     },
     {
       "developer": "notna659@gmail.com",
-      "free": false,
+      "free": true,
       "id": "notna659@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/notna659@gmail.com/manifest",
       "roms": {
@@ -2557,7 +2557,7 @@
     },
     {
       "developer": "one_love_420",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2127/aa7c11ff3b13601e1f44904843e69c5a.jpg",
       "id": "one_love_420",
       "manifest": "http://developer.clockworkmod.com/developer/one_love_420/manifest",
@@ -2568,7 +2568,7 @@
     },
     {
       "developer": "orkillakilla",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1120/1f6c79eee01e9f180b0691ffb56b140d.png",
       "id": "orkillakilla@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/orkillakilla@gmail.com/manifest",
@@ -2579,7 +2579,7 @@
     },
     {
       "developer": "XDA Roms",
-      "free": false,
+      "free": true,
       "id": "pecord",
       "manifest": "http://developer.clockworkmod.com/developer/pecord/manifest",
       "roms": {
@@ -2589,7 +2589,7 @@
     },
     {
       "developer": "KingDroid Roms",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1661/61448b7570fbdc37194dbad240f4aa94.png",
       "id": "pedrokingpc@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/pedrokingpc@gmail.com/manifest",
@@ -2633,7 +2633,7 @@
     },
     {
       "developer": "phiremod",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/234/49168358de7756efa2aab68b0a3919d6.jpg",
       "id": "phiredrop",
       "manifest": "http://developer.clockworkmod.com/developer/phiredrop/manifest",
@@ -2646,7 +2646,7 @@
     },
     {
       "developer": "pirateghost",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/618/e651f76ee302b696b7e42ed966b612cf.jpg",
       "id": "pirateg@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/pirateg@gmail.com/manifest",
@@ -2658,7 +2658,7 @@
     },
     {
       "developer": "ROMs by PlayfulGod",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/480/046c8e21484dc21189721004ec151520.png",
       "id": "playfulgod",
       "manifest": "http://developer.clockworkmod.com/developer/playfulgod/manifest",
@@ -2671,7 +2671,7 @@
     },
     {
       "developer": "psyke83",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/698/37b4cd4edb1221d85e2e477eaf052be2",
       "id": "psyke83",
       "manifest": "http://developer.clockworkmod.com/developer/psyke83/manifest",
@@ -2696,7 +2696,7 @@
     },
     {
       "developer": "ravi.haryana@gmail.com",
-      "free": false,
+      "free": true,
       "id": "ravi.haryana@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/ravi.haryana@gmail.com/manifest",
       "roms": {
@@ -2706,7 +2706,7 @@
     },
     {
       "developer": "rennyro13@gmail.com",
-      "free": false,
+      "free": true,
       "id": "rennyro13@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/rennyro13@gmail.com/manifest",
       "roms": {
@@ -2716,7 +2716,7 @@
     },
     {
       "developer": "EnYo",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/633/e8973d34d142398f1d86f8c3ef789a8e.jpg",
       "id": "rfvbnji91@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/rfvbnji91@gmail.com/manifest",
@@ -2744,7 +2744,7 @@
     },
     {
       "developer": "ricksterling21@gmail.com",
-      "free": false,
+      "free": true,
       "id": "ricksterling21@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/ricksterling21@gmail.com/manifest",
       "roms": {
@@ -2767,7 +2767,7 @@
     },
     {
       "developer": "roalex",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/107/236f3ca6074ca5d999aef037aae94244.png",
       "id": "roalex-bravo",
       "manifest": "http://developer.clockworkmod.com/developer/roalex-bravo/manifest",
@@ -2778,7 +2778,7 @@
     },
     {
       "developer": "StarskyROB",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2184/b319d5854f463e15167509bdf5b99d94.png",
       "id": "robertstoms@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/robertstoms@gmail.com/manifest",
@@ -2789,7 +2789,7 @@
     },
     {
       "developer": "Kernels",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2357/9f0fbd85d8a392e0670fa5c54f860584.png",
       "id": "rog1121@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/rog1121@gmail.com/manifest",
@@ -2800,7 +2800,7 @@
     },
     {
       "developer": "SamCripp",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/550/6d520d99859e134dd32cd4132a8ac3d5.png",
       "id": "samuel.r.rivera@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/samuel.r.rivera@gmail.com/manifest",
@@ -2811,7 +2811,7 @@
     },
     {
       "developer": "sduvick",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/654/17bfc474b5c0c194278a7d6c4ecb7f74.jpg",
       "id": "sduvick@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/sduvick@gmail.com/manifest",
@@ -2854,7 +2854,7 @@
     },
     {
       "developer": "siulmagic",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/198/8e366a4e34c56d2a83c384b8cff73b88.jpg",
       "id": "siulmagic@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/siulmagic@gmail.com/manifest",
@@ -2874,7 +2874,7 @@
     },
     {
       "developer": "spaarc",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/696/47c039257c6470c58d3d6c3f6dc178a4.jpg",
       "id": "spaarc",
       "manifest": "http://developer.clockworkmod.com/developer/spaarc/manifest",
@@ -2885,7 +2885,7 @@
     },
     {
       "developer": "stelianfriciu@gmail.com",
-      "free": false,
+      "free": true,
       "id": "stelianfriciu@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/stelianfriciu@gmail.com/manifest",
       "roms": {
@@ -2910,7 +2910,7 @@
     },
     {
       "developer": "Alexey_Stroev",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/3402/786ab4dccdf38b94c8bec58adb5e7405.png",
       "id": "stroev1996@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/stroev1996@gmail.com/manifest",
@@ -2921,7 +2921,7 @@
     },
     {
       "developer": "Swagged Out Stock",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/697/40e325c213ebeb2999003d52dc979b2b.png",
       "id": "swagstr",
       "manifest": "http://developer.clockworkmod.com/developer/swagstr/manifest",
@@ -2932,13 +2932,24 @@
     },
     {
       "developer": "t.dorie@gmail.com",
-      "free": false,
+      "free": true,
       "id": "t.dorie@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/t.dorie@gmail.com/manifest",
       "roms": {
         "galaxys": true
       },
       "summary": "t.dorie@gmail.com"
+    },
+    {
+      "developer": "CyanogenDefy Stable",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
+      "id": "tanguy.pruvot@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/tanguy.pruvot@gmail.com/manifest",
+      "roms": {
+        "umts_jordan": true
+      },
+      "summary": "Stable but unofficial RC and Release"
     },
     {
       "developer": "XDA CM7 Nightlies",
@@ -2950,17 +2961,6 @@
         "umts_jordan": true
       },
       "summary": "XDA CM7 Original Nightly builds. tpruvot@github"
-    },
-    {
-      "developer": "CyanogenDefy Stable",
-      "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
-      "id": "tanguy.pruvot@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/tanguy.pruvot@gmail.com/manifest",
-      "roms": {
-        "umts_jordan": true
-      },
-      "summary": "Stable but unofficial RC and Release"
     },
     {
       "developer": "Team Kang",
@@ -3025,7 +3025,7 @@
     },
     {
       "developer": "Sense 3.5 Ports",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/822/cfae65dc7496f8d03671558307a5441d.jpg",
       "id": "temeyers@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/temeyers@gmail.com/manifest",
@@ -3036,7 +3036,7 @@
     },
     {
       "developer": "tesh",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1348/9dfea5118e956ee5d1cb8b9c1597fd9d",
       "id": "teshxx@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/teshxx@gmail.com/manifest",
@@ -3057,7 +3057,7 @@
     },
     {
       "developer": "TheDub",
-      "free": false,
+      "free": true,
       "id": "thedubmail@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/thedubmail@gmail.com/manifest",
       "roms": {
@@ -3090,7 +3090,7 @@
     },
     {
       "developer": "winner00",
-      "free": false,
+      "free": true,
       "id": "toverturf@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/toverturf@gmail.com/manifest",
       "roms": {
@@ -3122,7 +3122,7 @@
     },
     {
       "developer": "Novek",
-      "free": false,
+      "free": true,
       "id": "trondkevin@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/trondkevin@gmail.com/manifest",
       "roms": {
@@ -3132,7 +3132,7 @@
     },
     {
       "developer": "tun4f1sh",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/712/0c60b2a6d6762d70b707ae690bbf643b.gif",
       "id": "tun4f1sh",
       "manifest": "http://developer.clockworkmod.com/developer/tun4f1sh/manifest",
@@ -3143,7 +3143,7 @@
     },
     {
       "developer": "tvall",
-      "free": false,
+      "free": true,
       "id": "tvall43@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/tvall43@gmail.com/manifest",
       "roms": {
@@ -3163,7 +3163,7 @@
     },
     {
       "developer": "wesley van kouteren",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2209/bf934d9c85d12fba591f99d728802b8c.jpeg",
       "id": "w.vkouteren@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/w.vkouteren@gmail.com/manifest",
@@ -3174,7 +3174,7 @@
     },
     {
       "developer": "Team BAMF ",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/758/327500a0db76efc307c8032ee32ac018.png",
       "id": "waynestrattonjr@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/waynestrattonjr@gmail.com/manifest",
@@ -3206,7 +3206,7 @@
     },
     {
       "developer": "x0xhellx0x",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/3376/f065110e9428fe7defad32da13782797.gif",
       "id": "x0xhellx0x",
       "manifest": "http://developer.clockworkmod.com/developer/x0xhellx0x/manifest",
@@ -3217,7 +3217,7 @@
     },
     {
       "developer": "xBTx",
-      "free": false,
+      "free": true,
       "id": "xBTx",
       "manifest": "http://developer.clockworkmod.com/developer/xBTx/manifest",
       "roms": {
@@ -3227,7 +3227,7 @@
     },
     {
       "developer": "Jalen",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/475/83b1212e420f39b900d6011fda66ad4c.jpg",
       "id": "x_SCOS_x_Elite",
       "manifest": "http://developer.clockworkmod.com/developer/x_SCOS_x_Elite/manifest",
@@ -3238,7 +3238,7 @@
     },
     {
       "developer": "Xboarder56",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/663/402e31bd0ad3f6f57f92d29c291c52d7.jpg",
       "id": "xboarder56",
       "manifest": "http://developer.clockworkmod.com/developer/xboarder56/manifest",
@@ -3252,7 +3252,7 @@
     },
     {
       "developer": "xboxfanj/miui",
-      "free": false,
+      "free": true,
       "id": "xboxfanj",
       "manifest": "http://developer.clockworkmod.com/developer/xboxfanj/manifest",
       "roms": {
@@ -3262,7 +3262,7 @@
     },
     {
       "developer": "Ginger yoshi ^_^",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/294/b0c8e3dee633ac3d0f6ce3352389943b.png",
       "id": "yohshua",
       "manifest": "http://developer.clockworkmod.com/developer/yohshua/manifest",
@@ -3274,7 +3274,7 @@
     },
     {
       "developer": "zlovrednij@gmail.com",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/3125/1b8dc2e0dfd4b78791c44cd1a2af39f1.zip",
       "id": "zlovrednij@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/zlovrednij@gmail.com/manifest",

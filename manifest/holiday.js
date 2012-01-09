@@ -34,7 +34,7 @@
     },
     {
       "developer": "pirateghost",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/618/e651f76ee302b696b7e42ed966b612cf.jpg",
       "id": "pirateg@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/pirateg@gmail.com/manifest",

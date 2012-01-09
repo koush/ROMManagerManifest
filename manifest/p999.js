@@ -80,7 +80,7 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
-      "developer": "nycelitemaster",
+      "developer": "G2X SINGH-UI by: nycelitemaster",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/3518/101a2dde1542afce842ca930b94f2ead.jpg",
       "id": "jsachdev84@gmail.com",

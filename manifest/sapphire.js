@@ -19,7 +19,7 @@
     {
       "developer": "SlashDW",
       "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/567/2b481fc258e2308c90e8d76917141340.png",
+      "icon": "http://developer.clockworkmod.com/downloads/567/070c76c72f1bb91a39212f6bc9bbbc0c.png",
       "id": "SlashDW",
       "manifest": "http://developer.clockworkmod.com/developer/SlashDW/manifest",
       "summary": "Stable and Superfast ROM's built from Cyanogenmod sources for Dream/Sapphire."

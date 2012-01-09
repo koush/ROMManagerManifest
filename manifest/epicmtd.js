@@ -31,6 +31,14 @@
       "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
+    },
+    {
+      "developer": "toadlife",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/2233/a140733ebdfda956db39e2d8b88f86e3.jpg",
+      "id": "toadlife",
+      "manifest": "http://xda.toadlife.net/ROMManager/manifests/rmmanifest.js",
+      "summary": "ROMS made by toadlife"
     }
   ],
   "minversion": "4803"

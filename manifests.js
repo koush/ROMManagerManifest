@@ -561,7 +561,7 @@
     {
       "developer": "SlashDW",
       "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/567/2b481fc258e2308c90e8d76917141340.png",
+      "icon": "http://developer.clockworkmod.com/downloads/567/070c76c72f1bb91a39212f6bc9bbbc0c.png",
       "id": "SlashDW",
       "manifest": "http://developer.clockworkmod.com/developer/SlashDW/manifest",
       "roms": {
@@ -692,6 +692,17 @@
         "mecha": "true"
       },
       "summary": "Ready to run roms..."
+    },
+    {
+      "developer": "DroidVicious",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/3654/1644fc3daed4db257d1ba2506a938241.png",
+      "id": "Vicious",
+      "manifest": "http://developer.clockworkmod.com/developer/Vicious/manifest",
+      "roms": {
+        "toro": true
+      },
+      "summary": "Vicious ROM's"
     },
     {
       "developer": "Whitehawkx",
@@ -1227,9 +1238,6 @@
       "icon": "http://koush.kanged.net/cm/test/tdr.png",
       "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
       "roms": {
-        "e730": "true",
-        "e510": "true",
-        "c660": "true",
         "galaxys2att": "true",
         "p999": "true",
         "smb_a1002": "true",
@@ -1381,16 +1389,6 @@
       "summary": "Cyclonic AOSP ROM"
     },
     {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
-    },
-    {
       "developer": "DrewGaren Roms",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1404,6 +1402,16 @@
         "maguro": true
       },
       "summary": "Custom Roms and Themes for your Device"
+    },
+    {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -2051,7 +2059,7 @@
       "summary": "ROMs & Mods."
     },
     {
-      "developer": "nycelitemaster",
+      "developer": "G2X SINGH-UI by: nycelitemaster",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/3518/101a2dde1542afce842ca930b94f2ead.jpg",
       "id": "jsachdev84@gmail.com",
@@ -3075,6 +3083,7 @@
       "id": "toadlife",
       "manifest": "http://xda.toadlife.net/ROMManager/manifests/rmmanifest.js",
       "roms": {
+        "epicmtd": true,
         "epic4g": true
       },
       "summary": "ROMS made by toadlife"

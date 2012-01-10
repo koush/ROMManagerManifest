@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+      "developer": "KalimochoAz",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/2958/799d1e5a81bb60bfd443b6e2fba90d5d.png",
+      "id": "KalimochoAz",
+      "manifest": "http://developer.clockworkmod.com/developer/KalimochoAz/manifest",
+      "summary": "CyanogenMOD ICS Alfa"
+    },
+    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",

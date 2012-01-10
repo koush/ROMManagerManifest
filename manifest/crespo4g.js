@@ -109,6 +109,14 @@
       "id": "pete",
       "manifest": "http://wonderly.com/bb/WEBSITE/pete.js",
       "summary": "ROMs (AOSP), kernels, and more!"
+    },
+    {
+      "developer": "Cyanogenmod 9",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/3689/11a343ff2e73bd1de26a82cc03f54e73.jpg",
+      "id": "taylor.cox75@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/taylor.cox75@gmail.com/manifest",
+      "summary": "Since Cyanogen MOD isn't updating their ROM Manager ROMS, here is Cyanogen Mod 9"
     }
   ],
   "minversion": "4803"

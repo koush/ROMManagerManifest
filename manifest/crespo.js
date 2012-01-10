@@ -119,6 +119,14 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
+      "developer": "Trevor Heins",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/3393/51ef9448103ef8ab667180bf2bc6ee38.gif",
+      "id": "heinstrevorj@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/heinstrevorj@gmail.com/manifest",
+      "summary": "NexusBeam & Cyanogenmod 9 alphas"
+    },
+    {
       "developer": "Htcclay",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/307/5076662d1617430aa6ad3f6ad73136aa.jpg",

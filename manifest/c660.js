@@ -25,6 +25,13 @@
       "summary": "ROMs and apps from the creator of ROM Manager!"
     },
     {
+      "developer": "CyanogenMod Nightlies",
+      "id": "cyanogenmodnightly",
+      "icon": "http://koush.kanged.net/cm/test/tdr.png",
+      "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
+      "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
+    },
+    {
       "developer": "Google Apps",
       "free": "true",
       "id": "google",

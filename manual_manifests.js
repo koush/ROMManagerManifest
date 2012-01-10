@@ -102,6 +102,12 @@
         "id": "cyanogenmodnightly",
         "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
         "roms": {
+            "e730": "true",
+            "epicmtd": "true",
+            "p920": "true",
+            "p925": "true",
+            "e510": "true",
+            "c660": "true",
             "saga": "true",
             "p970": "true",
             "motus": "true",

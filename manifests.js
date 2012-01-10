@@ -317,7 +317,8 @@
       "id": "KalimochoAz",
       "manifest": "http://developer.clockworkmod.com/developer/KalimochoAz/manifest",
       "roms": {
-        "crespo": true
+        "crespo": true,
+        "maguro": true
       },
       "summary": "CyanogenMOD ICS Alfa"
     },
@@ -1091,6 +1092,17 @@
       "summary": "ROMs and apps from the creator of ROM Manager!"
     },
     {
+      "developer": "Codename Android",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/2883/781187578bd7094f3bfa7c21e2b25f2a.png",
+      "id": "codenamedroid",
+      "manifest": "http://developer.clockworkmod.com/developer/codenamedroid/manifest",
+      "roms": {
+        "toro": true
+      },
+      "summary": "Clean, Fast, Jam-Packed and Fully Open Source"
+    },
+    {
       "developer": "coldflid@gmail.com",
       "free": true,
       "id": "coldflid",
@@ -1249,17 +1261,20 @@
         "p990": "true",
         "shadow": "true",
         "vivow": "true",
+        "c660": "true",
         "ace": "true",
         "bravo": "true",
         "desirec": "true",
         "vivo": "true",
         "passion": "true",
         "vibrantmtd": "true",
+        "p925": "true",
         "espresso": "true",
         "hero": "true",
         "sholes": "true",
         "u8220": "true",
         "p970": "true",
+        "epicmtd": "true",
         "bravoc": "true",
         "dream": "true",
         "fascinatemtd": "true",
@@ -1270,6 +1285,8 @@
         "mecha": "true",
         "one": "true",
         "sapphire": "true",
+        "e510": "true",
+        "e730": "true",
         "speedy": "true",
         "motus": "true",
         "buzz": "true",
@@ -1286,6 +1303,7 @@
         "heroc": "true",
         "z71": "true",
         "olympus": "true",
+        "p920": "true",
         "zero": "true"
       },
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
@@ -1389,6 +1407,16 @@
       "summary": "Cyclonic AOSP ROM"
     },
     {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
+    },
+    {
       "developer": "DrewGaren Roms",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1402,16 +1430,6 @@
         "maguro": true
       },
       "summary": "Custom Roms and Themes for your Device"
-    },
-    {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1769,6 +1787,17 @@
         "solana": true
       },
       "summary": "Making cool things for phones"
+    },
+    {
+      "developer": "Trevor Heins",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/3393/51ef9448103ef8ab667180bf2bc6ee38.gif",
+      "id": "heinstrevorj@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/heinstrevorj@gmail.com/manifest",
+      "roms": {
+        "crespo": true
+      },
+      "summary": "NexusBeam & Cyanogenmod 9 alphas"
     },
     {
       "developer": "GingerXTBR",
@@ -2961,6 +2990,17 @@
         "umts_jordan": true
       },
       "summary": "XDA CM7 Original Nightly builds. tpruvot@github"
+    },
+    {
+      "developer": "Cyanogenmod 9",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/3689/11a343ff2e73bd1de26a82cc03f54e73.jpg",
+      "id": "taylor.cox75@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/taylor.cox75@gmail.com/manifest",
+      "roms": {
+        "crespo4g": true
+      },
+      "summary": "Since Cyanogen MOD isn't updating their ROM Manager ROMS, here is Cyanogen Mod 9"
     },
     {
       "developer": "Team Kang",

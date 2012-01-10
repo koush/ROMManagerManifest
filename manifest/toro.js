@@ -40,6 +40,14 @@
       "summary": "ROMs and apps from the creator of ROM Manager!"
     },
     {
+      "developer": "Codename Android",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/2883/781187578bd7094f3bfa7c21e2b25f2a.png",
+      "id": "codenamedroid",
+      "manifest": "http://developer.clockworkmod.com/developer/codenamedroid/manifest",
+      "summary": "Clean, Fast, Jam-Packed and Fully Open Source"
+    },
+    {
       "developer": "Google Apps",
       "free": "true",
       "id": "google",

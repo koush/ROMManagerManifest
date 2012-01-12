@@ -985,7 +985,7 @@
       "lunch": "cyanogen_crespo4g-eng"
     },
     {
-      "name": "LGE Optimus One",
+      "name": "LGE Optimus One (old BB)",
       "version": "5.0.2.0",
       "init": "init.thunderg.rc",
       "legacy_versions": [
@@ -998,6 +998,13 @@
         "url": "http://dl.dropbox.com/u/12949506/RomManager/recovery-RA-thunderg-2.2.1-GNM.img",
         "clockwork": false
       },
+      "key": "thunderg",
+      "lunch": "full_thunderg-eng"
+    },
+    {
+      "name": "LGE Optimus One",
+      "version": "5.0.2.0",
+      "init": "init.thunderg.rc",
       "key": "p500",
       "lunch": "cyanogen_p500-eng"
     },

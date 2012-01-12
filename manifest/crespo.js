@@ -119,14 +119,6 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
-      "developer": "Trevor Heins",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/3393/51ef9448103ef8ab667180bf2bc6ee38.gif",
-      "id": "heinstrevorj@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/heinstrevorj@gmail.com/manifest",
-      "summary": "NexusBeam & Cyanogenmod 9 alphas"
-    },
-    {
       "developer": "Htcclay",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/307/5076662d1617430aa6ad3f6ad73136aa.jpg",
@@ -181,6 +173,14 @@
       "id": "stock",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/stock.js",
       "summary": "Revert back to stock phone images."
+    },
+    {
+      "developer": "Team Kang",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/25/db61b8511c32d13d8121f99fd902f6a6.png",
+      "id": "teamkang",
+      "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
+      "summary": "We came. We saw. We kanged."
     }
   ],
   "minversion": "4803"

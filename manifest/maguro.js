@@ -9,6 +9,14 @@
       "summary": "CyanogenMOD ICS Alfa"
     },
     {
+      "developer": "DroidVicious",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/3654/1644fc3daed4db257d1ba2506a938241.png",
+      "id": "Vicious",
+      "manifest": "http://developer.clockworkmod.com/developer/Vicious/manifest",
+      "summary": "Vicious ROM's"
+    },
+    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",

@@ -125,7 +125,7 @@
       "roms": {
         "speedy": true
       },
-      "summary": "Gapps Latest 12/17/2011"
+      "summary": "Gapps Latest 01/10/2012"
     },
     {
       "developer": "Crypt0night",
@@ -701,7 +701,8 @@
       "id": "Vicious",
       "manifest": "http://developer.clockworkmod.com/developer/Vicious/manifest",
       "roms": {
-        "toro": true
+        "toro": true,
+        "maguro": true
       },
       "summary": "Vicious ROM's"
     },
@@ -1289,6 +1290,7 @@
         "e730": "true",
         "speedy": "true",
         "motus": "true",
+        "p500": "true",
         "buzz": "true",
         "click": "true",
         "crespo": "true",
@@ -1407,16 +1409,6 @@
       "summary": "Cyclonic AOSP ROM"
     },
     {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
-    },
-    {
       "developer": "DrewGaren Roms",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1430,6 +1422,16 @@
         "maguro": true
       },
       "summary": "Custom Roms and Themes for your Device"
+    },
+    {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1511,17 +1513,6 @@
       "summary": "earthbound.iap@gmail.com"
     },
     {
-      "developer": "Salvage-Mod Nightlies",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
-    },
-    {
       "developer": "Salvage-Mod",
       "free": "true",
       "id": "echo17",
@@ -1531,6 +1522,17 @@
         "supersonic": "true"
       },
       "summary": "GB source build. Group project."
+    },
+    {
+      "developer": "Salvage-Mod Nightlies",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -1789,17 +1791,6 @@
       "summary": "Making cool things for phones"
     },
     {
-      "developer": "Trevor Heins",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/3393/51ef9448103ef8ab667180bf2bc6ee38.gif",
-      "id": "heinstrevorj@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/heinstrevorj@gmail.com/manifest",
-      "roms": {
-        "crespo": true
-      },
-      "summary": "NexusBeam & Cyanogenmod 9 alphas"
-    },
-    {
       "developer": "GingerXTBR",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1879/e3328f776291f8c2e7b618f90bdd7b96.jpg",
@@ -1846,16 +1837,6 @@
       "summary": "Go Go Go!"
     },
     {
-      "developer": "HyperDroid",
-      "free": "true",
-      "id": "hyperdroid",
-      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
-      "roms": {
-        "leo": "true"
-      },
-      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
-    },
-    {
       "developer": "HyperDroid CM7",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
@@ -1865,6 +1846,16 @@
         "leo": true
       },
       "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
+    },
+    {
+      "developer": "HyperDroid",
+      "free": "true",
+      "id": "hyperdroid",
+      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
+      "roms": {
+        "leo": "true"
+      },
+      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
     },
     {
       "developer": "Coentje44",
@@ -2734,6 +2725,16 @@
       "summary": "ravi.haryana@gmail.com"
     },
     {
+      "developer": "redidat420@gmail.com",
+      "free": true,
+      "id": "redidat420@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/redidat420@gmail.com/manifest",
+      "roms": {
+        "crespo4g": true
+      },
+      "summary": "redidat420@gmail.com"
+    },
+    {
       "developer": "rennyro13@gmail.com",
       "free": true,
       "id": "rennyro13@gmail.com",
@@ -2808,7 +2809,7 @@
     {
       "developer": "StarskyROB",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/2184/b319d5854f463e15167509bdf5b99d94.png",
+      "icon": "http://developer.clockworkmod.com/downloads/2184/d2459938d5f842f608bbc4c12be194bb.jpg",
       "id": "robertstoms@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/robertstoms@gmail.com/manifest",
       "roms": {
@@ -2992,7 +2993,7 @@
       "summary": "XDA CM7 Original Nightly builds. tpruvot@github"
     },
     {
-      "developer": "Cyanogenmod 9",
+      "developer": "Cyanogenmod 9 by Cox",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/3689/11a343ff2e73bd1de26a82cc03f54e73.jpg",
       "id": "taylor.cox75@gmail.com",
@@ -3000,7 +3001,7 @@
       "roms": {
         "crespo4g": true
       },
-      "summary": "Since Cyanogen MOD isn't updating their ROM Manager ROMS, here is Cyanogen Mod 9"
+      "summary": "This was on XDA DEVS, and lets be honest, who wants to search for it on the intra web, when Im nice enough to put it here:) taylorcox75@gmail.com"
     },
     {
       "developer": "Team Kang",
@@ -3013,7 +3014,9 @@
         "vibrantmtd": true,
         "toro": true,
         "vibrant": true,
+        "crespo4g": true,
         "pyramid": true,
+        "crespo": true,
         "maguro": true
       },
       "summary": "We came. We saw. We kanged."

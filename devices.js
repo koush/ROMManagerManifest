@@ -998,8 +998,8 @@
         "url": "http://dl.dropbox.com/u/12949506/RomManager/recovery-RA-thunderg-2.2.1-GNM.img",
         "clockwork": false
       },
-      "key": "thunderg",
-      "lunch": "full_thunderg-eng"
+      "key": "p500",
+      "lunch": "cyanogen_p500-eng"
     },
     {
       "name": "Huawei U8220/U8230",

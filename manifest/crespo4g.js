@@ -111,12 +111,27 @@
       "summary": "ROMs (AOSP), kernels, and more!"
     },
     {
-      "developer": "Cyanogenmod 9",
+      "developer": "redidat420@gmail.com",
+      "free": true,
+      "id": "redidat420@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/redidat420@gmail.com/manifest",
+      "summary": "redidat420@gmail.com"
+    },
+    {
+      "developer": "Cyanogenmod 9 by Cox",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/3689/11a343ff2e73bd1de26a82cc03f54e73.jpg",
       "id": "taylor.cox75@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/taylor.cox75@gmail.com/manifest",
-      "summary": "Since Cyanogen MOD isn't updating their ROM Manager ROMS, here is Cyanogen Mod 9"
+      "summary": "This was on XDA DEVS, and lets be honest, who wants to search for it on the intra web, when Im nice enough to put it here:) taylorcox75@gmail.com"
+    },
+    {
+      "developer": "Team Kang",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/25/db61b8511c32d13d8121f99fd902f6a6.png",
+      "id": "teamkang",
+      "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
+      "summary": "We came. We saw. We kanged."
     }
   ],
   "minversion": "4803"

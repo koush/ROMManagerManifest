@@ -104,7 +104,7 @@
     {
       "developer": "StarskyROB",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/2184/b319d5854f463e15167509bdf5b99d94.png",
+      "icon": "http://developer.clockworkmod.com/downloads/2184/d2459938d5f842f608bbc4c12be194bb.jpg",
       "id": "robertstoms@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/robertstoms@gmail.com/manifest",
       "summary": "Minimal Roms with tons of performance tweaks under the hood."

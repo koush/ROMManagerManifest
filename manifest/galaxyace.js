@@ -25,6 +25,7 @@
     },
     {
       "developer": "ClockworkMod",
+      "featured": true,
       "free": "true",
       "id": "clockworkmod",
       "icon": "https://github.com/ClockworkMod/artwork/raw/master/rommanager/invertclear.png",

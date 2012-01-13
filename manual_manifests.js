@@ -1,6 +1,7 @@
 {
     "manifests": [
     {
+        "featured": true,
         "developer": "ClockworkMod",
         "icon": "https://github.com/ClockworkMod/artwork/raw/master/rommanager/invertclear.png",
         "id": "clockworkmod",

@@ -419,6 +419,17 @@
       "summary": "Roms, themes, and more!"
     },
     {
+      "developer": "geovaunie.rolando@gmail.com",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/3790/5cfbbd45d87b7b236d795313df8f96d4.jpg",
+      "id": "Nexus S 4g Roms",
+      "manifest": "http://developer.clockworkmod.com/developer/Nexus S 4g Roms/manifest",
+      "roms": {
+        "crespo4g": true
+      },
+      "summary": "Newest Updates for Nexus S 4g Roms. geovaunie.rolando@gmail.com"
+    },
+    {
       "developer": "Nexus S Team Germany",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/962/bc1dbaa7f6a0b08b7e1a2d984c7b0751.gif",
@@ -1125,6 +1136,29 @@
       "summary": "based off of Xborders Amazing Quick Senes. Well this is AQSenseLess. all the items you love on his roms are on mine with out all the bloat of sense"
     },
     {
+      "developer": "Creamed Glacier",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/868/10c53137483b19321033612bbd59c4b8.png",
+      "id": "creamedglacier",
+      "manifest": "http://developer.clockworkmod.com/developer/creamedglacier/manifest",
+      "roms": {
+        "u8800": true,
+        "galaxygio": true,
+        "ideos": true,
+        "u8220": true,
+        "tass": true,
+        "a70": true,
+        "captivate": true,
+        "thunderg": true,
+        "galaxy5": true,
+        "glacier": true,
+        "galaxyace": true,
+        "buzz": true,
+        "z71": true
+      },
+      "summary": "ICS AOSP Rom for MT4G"
+    },
+    {
       "developer": "foschi@gmail.com",
       "free": true,
       "id": "crimescene",
@@ -1513,17 +1547,6 @@
       "summary": "earthbound.iap@gmail.com"
     },
     {
-      "developer": "Salvage-Mod",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "GB source build. Group project."
-    },
-    {
       "developer": "Salvage-Mod Nightlies",
       "free": "true",
       "id": "echo17",
@@ -1533,6 +1556,17 @@
         "supersonic": "true"
       },
       "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
+    },
+    {
+      "developer": "Salvage-Mod",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "GB source build. Group project."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -1591,29 +1625,6 @@
         "glacier": true
       },
       "summary": "Custom ROMs for MT4G & G2x"
-    },
-    {
-      "developer": "Tailor-Make Stuffs",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/868/d4b50e3fe5515e3362ed97ef658a65b0.jpg",
-      "id": "febycv@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/febycv@gmail.com/manifest",
-      "roms": {
-        "u8800": true,
-        "galaxygio": true,
-        "ideos": true,
-        "u8220": true,
-        "tass": true,
-        "a70": true,
-        "captivate": true,
-        "thunderg": true,
-        "galaxy5": true,
-        "galaxyace": true,
-        "glacier": true,
-        "buzz": true,
-        "z71": true
-      },
-      "summary": "Roms & Customizations for your HTC Device"
     },
     {
       "developer": "Fresh",
@@ -2482,9 +2493,9 @@
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2192/81921142812f2eae392bcc8994e21a02.png",
       "id": "mstojcevich@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/mstojcevich@gmail.com/manifest",
+      "manifest": "http://instabrick.me/marcusant/manifest.js",
       "roms": {
-        "epic4g": true
+        "epicmtd": true
       },
       "summary": "ROMs, mods and themes made by Marcusant"
     },
@@ -2939,15 +2950,15 @@
       "summary": "Revert back to stock phone images."
     },
     {
-      "developer": "Alexey_Stroev",
+      "developer": "@HTCrussiaTeam",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/3402/786ab4dccdf38b94c8bec58adb5e7405.png",
+      "icon": "http://developer.clockworkmod.com/downloads/3402/9e4ad1a68047cceb9ab07bb52ccf8cf2.png",
       "id": "stroev1996@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/stroev1996@gmail.com/manifest",
       "roms": {
         "vivo": true
       },
-      "summary": "I am building rom for htcrussia.com and 4pda.ru"
+      "summary": "htcrussia.com"
     },
     {
       "developer": "Swagged Out Stock",

@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+      "developer": "geovaunie.rolando@gmail.com",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/3790/5cfbbd45d87b7b236d795313df8f96d4.jpg",
+      "id": "Nexus S 4g Roms",
+      "manifest": "http://developer.clockworkmod.com/developer/Nexus S 4g Roms/manifest",
+      "summary": "Newest Updates for Nexus S 4g Roms. geovaunie.rolando@gmail.com"
+    },
+    {
       "developer": "Oxygen",
       "free": "true",
       "id": "adamg",

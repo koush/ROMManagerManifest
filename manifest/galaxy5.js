@@ -33,19 +33,19 @@
       "summary": "ROMs and apps from the creator of ROM Manager!"
     },
     {
+      "developer": "Creamed Glacier",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/868/10c53137483b19321033612bbd59c4b8.png",
+      "id": "creamedglacier",
+      "manifest": "http://developer.clockworkmod.com/developer/creamedglacier/manifest",
+      "summary": "ICS AOSP Rom for MT4G"
+    },
+    {
       "developer": "Džiugas",
       "free": true,
       "id": "dziugas.grebliunas@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/dziugas.grebliunas@gmail.com/manifest",
       "summary": "ROMs for G5"
-    },
-    {
-      "developer": "Tailor-Make Stuffs",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/868/d4b50e3fe5515e3362ed97ef658a65b0.jpg",
-      "id": "febycv@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/febycv@gmail.com/manifest",
-      "summary": "Roms & Customizations for your HTC Device"
     },
     {
       "developer": "Google Apps",

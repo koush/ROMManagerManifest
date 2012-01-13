@@ -94,14 +94,6 @@
       "summary": "ERA ROMs for EPIC4G"
     },
     {
-      "developer": "Marcusant",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/2192/81921142812f2eae392bcc8994e21a02.png",
-      "id": "mstojcevich@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/mstojcevich@gmail.com/manifest",
-      "summary": "ROMs, mods and themes made by Marcusant"
-    },
-    {
       "developer": "StarskyROB",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2184/d2459938d5f842f608bbc4c12be194bb.jpg",

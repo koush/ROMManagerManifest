@@ -72,12 +72,12 @@
       "summary": "MIUI English releases by MIUI.us"
     },
     {
-      "developer": "Alexey_Stroev",
+      "developer": "@HTCrussiaTeam",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/3402/786ab4dccdf38b94c8bec58adb5e7405.png",
+      "icon": "http://developer.clockworkmod.com/downloads/3402/9e4ad1a68047cceb9ab07bb52ccf8cf2.png",
       "id": "stroev1996@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/stroev1996@gmail.com/manifest",
-      "summary": "I am building rom for htcrussia.com and 4pda.ru"
+      "summary": "htcrussia.com"
     }
   ],
   "minversion": "4803"

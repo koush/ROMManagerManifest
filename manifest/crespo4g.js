@@ -1,8 +1,8 @@
 {
   "manifests": [
     {
-      "developer": "geovaunie.rolando@gmail.com",
-      "free": true,
+      "developer": "Newest Nexus S 4g Roms",
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/3790/5cfbbd45d87b7b236d795313df8f96d4.jpg",
       "id": "Nexus S 4g Roms",
       "manifest": "http://developer.clockworkmod.com/developer/Nexus S 4g Roms/manifest",
@@ -18,7 +18,7 @@
     },
     {
       "developer": "aosp",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/322/c97732b0067d16ccf420f20f78b8f36a.png",
       "id": "aospmod",
       "manifest": "http://developer.clockworkmod.com/developer/aospmod/manifest",
@@ -90,7 +90,7 @@
     },
     {
       "developer": "mathkid95",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/1992/7fe1b96f6d5747b17e3b7bb4ce165219.gif",
       "id": "mathkid95",
       "manifest": "http://developer.clockworkmod.com/developer/mathkid95/manifest",
@@ -98,7 +98,7 @@
     },
     {
       "developer": "middlepiller@gmail.com",
-      "free": true,
+      "free": false,
       "id": "middlepiller@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/middlepiller@gmail.com/manifest",
       "summary": "middlepiller@gmail.com"
@@ -121,14 +121,14 @@
     },
     {
       "developer": "redidat420@gmail.com",
-      "free": true,
+      "free": false,
       "id": "redidat420@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/redidat420@gmail.com/manifest",
       "summary": "redidat420@gmail.com"
     },
     {
       "developer": "Cyanogenmod 9 by Cox",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/3689/11a343ff2e73bd1de26a82cc03f54e73.jpg",
       "id": "taylor.cox75@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/taylor.cox75@gmail.com/manifest",

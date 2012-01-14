@@ -2,14 +2,14 @@
   "manifests": [
     {
       "developer": "Birdman",
-      "free": true,
+      "free": false,
       "id": "Birdman",
       "manifest": "http://developer.clockworkmod.com/developer/Birdman/manifest",
       "summary": "General Roms"
     },
     {
       "developer": "DroidVicious",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/3654/1644fc3daed4db257d1ba2506a938241.png",
       "id": "Vicious",
       "manifest": "http://developer.clockworkmod.com/developer/Vicious/manifest",
@@ -42,7 +42,7 @@
     },
     {
       "developer": "Codename Android",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2883/781187578bd7094f3bfa7c21e2b25f2a.png",
       "id": "codenamedroid",
       "manifest": "http://developer.clockworkmod.com/developer/codenamedroid/manifest",
@@ -74,7 +74,7 @@
     },
     {
       "developer": "Team BAMF ",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/758/327500a0db76efc307c8032ee32ac018.png",
       "id": "waynestrattonjr@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/waynestrattonjr@gmail.com/manifest",

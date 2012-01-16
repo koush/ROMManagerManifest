@@ -1010,6 +1010,17 @@
       "lunch": "cyanogen_p500-eng"
     },
     {
+      "name": "LGE Swift",
+      "init": "init.swit.rc",
+      "officially_supported": false,
+      "key": "swift"
+      "lunch": "full_swift-eng"
+      "alternate_recovery": {
+        "name": "ClockworkMod Recovery",
+        "url": "http://mikegapinski.modaco.pl/rommanager/recoveryCWM.img
+        "clockwork": true
+    },
+    {
       "name": "Huawei U8220/U8230",
       "version": "3.1.0.1",
       "init": "init.qcom.rc",

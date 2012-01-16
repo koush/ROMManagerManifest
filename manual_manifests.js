@@ -173,6 +173,17 @@
         "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
     {
+        "developer": "Mike Gapinski-LG GT540",
+	"icon": "http://mikegapinski.modaco.pl/rommanager/icon.png",
+        "id": "mikegapinskiroms",
+        "free": "true",
+        "manifest": "http://mikegapinski.modaco.pl/rommanager/swift.js",
+        "roms": {
+            "swift": "true",           
+        },
+        "summary": "Custom roms for LG GT540 Swift aka Optimus by Mike Gapinski"
+    },
+    {
         "developer": "Superuser",
         "icon": "http://chainsdd.github.com/Superuser/icon.png",
         "id": "chainsdd",

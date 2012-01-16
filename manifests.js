@@ -706,6 +706,17 @@
       "summary": "Ready to run roms..."
     },
     {
+      "developer": "vhgomez36-ICS-NXS-4G",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/1672/c6744e24b10b0312603d0f837b434a2a.png",
+      "id": "Tr13dg3001",
+      "manifest": "http://developer.clockworkmod.com/developer/Tr13dg3001/manifest",
+      "roms": {
+        "crespo4g": true
+      },
+      "summary": "Bringing more ICS love to NXS4G"
+    },
+    {
       "developer": "DroidVicious",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/3654/1644fc3daed4db257d1ba2506a938241.png",
@@ -713,6 +724,7 @@
       "manifest": "http://developer.clockworkmod.com/developer/Vicious/manifest",
       "roms": {
         "toro": true,
+        "mecha": true,
         "maguro": true
       },
       "summary": "Vicious ROM's"
@@ -1445,6 +1457,16 @@
       "summary": "Cyclonic AOSP ROM"
     },
     {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
+    },
+    {
       "developer": "DrewGaren Roms",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1458,16 +1480,6 @@
         "maguro": true
       },
       "summary": "Custom Roms and Themes for your Device"
-    },
-    {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1850,17 +1862,6 @@
       "summary": "Go Go Go!"
     },
     {
-      "developer": "HyperDroid CM7",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
-      "id": "hyperdroid",
-      "manifest": "http://sntclan.de/manifest.js",
-      "roms": {
-        "leo": true
-      },
-      "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
-    },
-    {
       "developer": "HyperDroid",
       "free": "true",
       "id": "hyperdroid",
@@ -1893,16 +1894,6 @@
         "inc": true
       },
       "summary": "SkyRaider ROMs and goodies"
-    },
-    {
-      "developer": "Ilnur Zamanov",
-      "free": false,
-      "id": "ilnur.zamanov",
-      "manifest": "http://developer.clockworkmod.com/developer/ilnur.zamanov/manifest",
-      "roms": {
-        "galaxy5": true
-      },
-      "summary": "stuff"
     },
     {
       "developer": "Infinitybiff",
@@ -2136,7 +2127,7 @@
       "roms": {
         "pyramid": true
       },
-      "summary": "Physics Student , Developing  in Android Hope You Join My Roms . "
+      "summary": "Developing  in Android Hope You Join My Roms, Contact : Jwtiyar@gmail.com"
     },
     {
       "developer": "NexBreed ROMs",
@@ -2852,17 +2843,6 @@
         "sidekick4g": true
       },
       "summary": "sduvick"
-    },
-    {
-      "developer": "CM7 Tweaked MAGLDR / cLK",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/607/13ad2cc8cf0a38ad06196a50b66f074b.png",
-      "id": "seader",
-      "manifest": "http://config.sntclan.de/manifest.js",
-      "roms": {
-        "leo": true
-      },
-      "summary": "Seaders stable one, based on LEO 2.3.7 sources, tweaked with tablet-functions, audio/lights/sensor/gps fixes, custom settings and deleted/added/switched apps. http://bit.ly/nnx6qf for details (german). Last Version 2.0.0 for MAGLDR too!"
     },
     {
       "developer": "SenseiSimple",

@@ -57,13 +57,6 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
-      "developer": "Ilnur Zamanov",
-      "free": false,
-      "id": "ilnur.zamanov",
-      "manifest": "http://developer.clockworkmod.com/developer/ilnur.zamanov/manifest",
-      "summary": "stuff"
-    },
-    {
       "developer": "LMD Productions",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/1882/ccc8d0d753532845d67f5f8ac11c5e41.png",

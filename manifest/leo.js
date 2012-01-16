@@ -65,14 +65,6 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
-      "developer": "HyperDroid CM7",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
-      "id": "hyperdroid",
-      "manifest": "http://sntclan.de/manifest.js",
-      "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
-    },
-    {
       "developer": "HyperDroid",
       "free": "true",
       "id": "hyperdroid",
@@ -94,14 +86,6 @@
       "id": "miuius",
       "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
       "summary": "MIUI English releases by MIUI.us"
-    },
-    {
-      "developer": "CM7 Tweaked MAGLDR / cLK",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/607/13ad2cc8cf0a38ad06196a50b66f074b.png",
-      "id": "seader",
-      "manifest": "http://config.sntclan.de/manifest.js",
-      "summary": "Seaders stable one, based on LEO 2.3.7 sources, tweaked with tablet-functions, audio/lights/sensor/gps fixes, custom settings and deleted/added/switched apps. http://bit.ly/nnx6qf for details (german). Last Version 2.0.0 for MAGLDR too!"
     }
   ],
   "minversion": "4803"

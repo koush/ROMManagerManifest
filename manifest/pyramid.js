@@ -111,7 +111,7 @@
       "icon": "http://developer.clockworkmod.com/downloads/1655/ce37fbec43d741241ffd0e90382286d5.jpg",
       "id": "jwtiyar@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/jwtiyar@gmail.com/manifest",
-      "summary": "Physics Student , Developing  in Android Hope You Join My Roms . "
+      "summary": "Developing  in Android Hope You Join My Roms, Contact : Jwtiyar@gmail.com"
     },
     {
       "developer": "MIUI.us",

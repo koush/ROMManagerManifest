@@ -9,6 +9,14 @@
       "summary": "Newest Updates for Nexus S 4g Roms. geovaunie.rolando@gmail.com"
     },
     {
+      "developer": "vhgomez36-ICS-NXS-4G",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/1672/c6744e24b10b0312603d0f837b434a2a.png",
+      "id": "Tr13dg3001",
+      "manifest": "http://developer.clockworkmod.com/developer/Tr13dg3001/manifest",
+      "summary": "Bringing more ICS love to NXS4G"
+    },
+    {
       "developer": "Oxygen",
       "free": "true",
       "id": "adamg",

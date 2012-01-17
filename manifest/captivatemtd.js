@@ -50,7 +50,7 @@
     },
     {
       "developer": "Infinitybiff",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/653/7dc90deb235d7f8e522085e09fad294a.png",
       "id": "infinitybiff@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/infinitybiff@gmail.com/manifest",
@@ -58,7 +58,7 @@
     },
     {
       "developer": "ROM FASTY",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/621/fb4f7286249636542a1b0a5cdf8d3e6b.png",
       "id": "lostlogic01@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/lostlogic01@gmail.com/manifest",
@@ -66,7 +66,7 @@
     },
     {
       "developer": "Rom Fasty II",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/725/85d1624ec2c402064b2db693cd224cd0.png",
       "id": "lostlogicaa@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/lostlogicaa@gmail.com/manifest",
@@ -90,7 +90,7 @@
     },
     {
       "developer": "EnYo",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/633/e8973d34d142398f1d86f8c3ef789a8e.jpg",
       "id": "rfvbnji91@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/rfvbnji91@gmail.com/manifest",

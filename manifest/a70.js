@@ -27,7 +27,7 @@
     },
     {
       "developer": "Creamed Glacier",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/868/10c53137483b19321033612bbd59c4b8.png",
       "id": "creamedglacier",
       "manifest": "http://developer.clockworkmod.com/developer/creamedglacier/manifest",
@@ -35,7 +35,7 @@
     },
     {
       "developer": "Gautam Aggarwal",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2733/3d9ebd223f9ffd5f5e32b6992bd5d11f.jpeg",
       "id": "gautam.aggarwal62@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/gautam.aggarwal62@gmail.com/manifest",
@@ -51,7 +51,7 @@
     },
     {
       "developer": "ROMs by PlayfulGod",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/480/046c8e21484dc21189721004ec151520.png",
       "id": "playfulgod",
       "manifest": "http://developer.clockworkmod.com/developer/playfulgod/manifest",

@@ -9,7 +9,7 @@
     },
     {
       "developer": "computerkid23",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2172/bbfefd270a9aac7e5dc7dc6f9f3c1c2f.jpg",
       "id": "CK23",
       "manifest": "http://developer.clockworkmod.com/developer/CK23/manifest",
@@ -25,7 +25,7 @@
     },
     {
       "developer": "biscochic@gmail.com",
-      "free": false,
+      "free": true,
       "id": "biscochic@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/biscochic@gmail.com/manifest",
       "summary": "biscochic@gmail.com"
@@ -57,7 +57,7 @@
     },
     {
       "developer": "earthbound.iap",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2561/91432fb3efe76db6b048798964a8685e.jpg",
       "id": "earthbound.iap@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/earthbound.iap@gmail.com/manifest",
@@ -73,14 +73,14 @@
     },
     {
       "developer": "houseofchazor@gmail.com",
-      "free": false,
+      "free": true,
       "id": "houseofchazor@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/houseofchazor@gmail.com/manifest",
       "summary": "houseofchazor@gmail.com"
     },
     {
       "developer": "jocala@jocala.com",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2433/19a1350a7a0982fd55adc7becef33914.png",
       "id": "jocala@jocala.com",
       "manifest": "http://developer.clockworkmod.com/developer/jocala@jocala.com/manifest",
@@ -88,7 +88,7 @@
     },
     {
       "developer": "ERA",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2221/4bb04642852e6af0f4e7d0dfa94ed34a.png",
       "id": "ksmullins88@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/ksmullins88@gmail.com/manifest",
@@ -96,7 +96,7 @@
     },
     {
       "developer": "StarskyROB",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2184/d2459938d5f842f608bbc4c12be194bb.jpg",
       "id": "robertstoms@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/robertstoms@gmail.com/manifest",
@@ -112,7 +112,7 @@
     },
     {
       "developer": "TheDub",
-      "free": false,
+      "free": true,
       "id": "thedubmail@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/thedubmail@gmail.com/manifest",
       "summary": "thedubmail@gmail.com"
@@ -127,14 +127,14 @@
     },
     {
       "developer": "xBTx",
-      "free": false,
+      "free": true,
       "id": "xBTx",
       "manifest": "http://developer.clockworkmod.com/developer/xBTx/manifest",
       "summary": "Keep it stock... Mostly."
     },
     {
       "developer": "xboxfanj/miui",
-      "free": false,
+      "free": true,
       "id": "xboxfanj",
       "manifest": "http://developer.clockworkmod.com/developer/xboxfanj/manifest",
       "summary": "roms for epic 4g"

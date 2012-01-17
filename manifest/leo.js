@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "HardDroid2",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/438/21a895f66fddad535cf84ed37ccb425c.JPG",
       "id": "DeanoSoft_UK",
       "manifest": "http://developer.clockworkmod.com/developer/DeanoSoft_UK/manifest",
@@ -50,7 +50,7 @@
     },
     {
       "developer": "TyphooN CyanogenMod",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/146/24fb59de6489c544c6fd683b6a43e491.png",
       "id": "do-not-use-cyanogenmod-nightly",
       "manifest": "http://developer.clockworkmod.com/developer/do-not-use-cyanogenmod-nightly/manifest",
@@ -63,6 +63,14 @@
       "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
+    },
+    {
+      "developer": "HyperDroid CM7",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
+      "id": "hyperdroid",
+      "manifest": "http://sntclan.de/manifest.js",
+      "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
     },
     {
       "developer": "HyperDroid",
@@ -86,6 +94,14 @@
       "id": "miuius",
       "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
       "summary": "MIUI English releases by MIUI.us"
+    },
+    {
+      "developer": "CM7 Tweaked MAGLDR / cLK",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/607/13ad2cc8cf0a38ad06196a50b66f074b.png",
+      "id": "seader",
+      "manifest": "http://config.sntclan.de/manifest.js",
+      "summary": "Seaders stable one, based on LEO 2.3.7 sources, tweaked with tablet-functions, audio/lights/sensor/gps fixes, custom settings and deleted/added/switched apps. http://bit.ly/nnx6qf for details (german). Last Version 2.0.0 for MAGLDR too!"
     }
   ],
   "minversion": "4803"

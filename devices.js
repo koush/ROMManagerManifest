@@ -1483,6 +1483,14 @@
       "init": "init.victor.rc",
       "key": "e730",
       "lunch": "e730-eng"
+    },
+    {
+      "name": "T-Mobile LG myTouch",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p17 bs=4096 ;",
+      "version": "5.0.2.7",
+      "init": "init.e739.rc",
+      "key": "e730",
+      "lunch": "e730-eng"
     }
   ],
   "use_in_app": false,

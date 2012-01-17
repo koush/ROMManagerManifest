@@ -872,6 +872,20 @@
         "summary": "Supercharged Roms"
     },
     {
+        "developer": "Crossbones ROM",
+        "icon": "http://crossbones.github.com/RomManager/icon.png",
+        "id": "crossbones",
+        "free": "true",
+        "manifest": "http://crossbones.github.com/RomManager/manifest.js",
+        "roms": {
+            "crespo": "true",
+            "crespo4g": "true",
+            "toro": "true",
+            "maguro": "true"
+        },
+        "summary": "A custom Ice Cream Sandwich ROM based on Google AOSP code"
+    },
+    {
         "developer": "Cerberus",
         "icon": "http://www.cerberusapp.com/updates/icon.png",
         "id": "cerberusapp",

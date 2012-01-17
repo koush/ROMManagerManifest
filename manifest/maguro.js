@@ -50,6 +50,14 @@
       "summary": "Clean, Fast, Jam-Packed and Fully Open Source"
     },
     {
+      "developer": "Crossbones ROM",
+      "free": "true",
+      "id": "crossbones",
+      "icon": "http://crossbones.github.com/RomManager/icon.png",
+      "manifest": "http://crossbones.github.com/RomManager/manifest.js",
+      "summary": "A custom Ice Cream Sandwich ROM based on Google AOSP code"
+    },
+    {
       "developer": "DrewGaren Roms",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",

@@ -156,6 +156,13 @@
       "id": "xboarder56",
       "manifest": "http://developer.clockworkmod.com/developer/xboarder56/manifest",
       "summary": "Hi, Im xboarder56 a 16 year old kid and make alot of roms for diffrent devices enjoy my work guys :D"
+    },
+    {
+      "developer": "zimon76@gmail.com",
+      "free": true,
+      "id": "zimon76@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/zimon76@gmail.com/manifest",
+      "summary": "zimon76@gmail.com"
     }
   ],
   "minversion": "4803"

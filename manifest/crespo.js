@@ -74,6 +74,14 @@
       "summary": "ROMs and apps from the creator of ROM Manager!"
     },
     {
+      "developer": "Crossbones ROM",
+      "free": "true",
+      "id": "crossbones",
+      "icon": "http://crossbones.github.com/RomManager/icon.png",
+      "manifest": "http://crossbones.github.com/RomManager/manifest.js",
+      "summary": "A custom Ice Cream Sandwich ROM based on Google AOSP code"
+    },
+    {
       "developer": "CyanogenMod",
       "free": "true",
       "id": "cyanogenmod",

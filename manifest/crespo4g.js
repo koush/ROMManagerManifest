@@ -1,8 +1,16 @@
 {
   "manifests": [
     {
+      "developer": "Indirect",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/3980/ec89d8b405a63fed078cbb8aa33be970.jpg",
+      "id": "Indirect",
+      "manifest": "http://developer.clockworkmod.com/developer/Indirect/manifest",
+      "summary": "I make ROM's so you don't have to."
+    },
+    {
       "developer": "Newest Nexus S 4g Roms",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/3790/5cfbbd45d87b7b236d795313df8f96d4.jpg",
       "id": "Nexus S 4g Roms",
       "manifest": "http://developer.clockworkmod.com/developer/Nexus S 4g Roms/manifest",
@@ -10,7 +18,7 @@
     },
     {
       "developer": "vhgomez36-ICS-NXS-4G",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/1672/c6744e24b10b0312603d0f837b434a2a.png",
       "id": "Tr13dg3001",
       "manifest": "http://developer.clockworkmod.com/developer/Tr13dg3001/manifest",
@@ -26,7 +34,7 @@
     },
     {
       "developer": "aosp",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/322/c97732b0067d16ccf420f20f78b8f36a.png",
       "id": "aospmod",
       "manifest": "http://developer.clockworkmod.com/developer/aospmod/manifest",
@@ -89,6 +97,14 @@
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
     {
+      "developer": "dogstreetrefugee@gmail.com",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/2116/282c65494f46b4343328cc6a4538d214.jpeg",
+      "id": "dogstreetrefugee@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/dogstreetrefugee@gmail.com/manifest",
+      "summary": "dogstreetrefugee@gmail.com"
+    },
+    {
       "developer": "NSCollab",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/749/fe727664b5f32913fe22c3d8754e1558.png",
@@ -106,7 +122,7 @@
     },
     {
       "developer": "mathkid95",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/1992/7fe1b96f6d5747b17e3b7bb4ce165219.gif",
       "id": "mathkid95",
       "manifest": "http://developer.clockworkmod.com/developer/mathkid95/manifest",
@@ -114,7 +130,7 @@
     },
     {
       "developer": "middlepiller@gmail.com",
-      "free": true,
+      "free": false,
       "id": "middlepiller@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/middlepiller@gmail.com/manifest",
       "summary": "middlepiller@gmail.com"
@@ -133,22 +149,22 @@
       "icon": "http://developer.clockworkmod.com/downloads/809/659eb3522bfe789439b8808bf720d8c0.png",
       "id": "pete",
       "manifest": "http://wonderly.com/bb/WEBSITE/pete.js",
-      "summary": "ROMs (AOSP), kernels, and more!"
+      "summary": "Newer builds at download.peteralfonso.com"
     },
     {
       "developer": "redidat420@gmail.com",
-      "free": true,
+      "free": false,
       "id": "redidat420@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/redidat420@gmail.com/manifest",
       "summary": "redidat420@gmail.com"
     },
     {
-      "developer": "Cyanogenmod 9 by Cox",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/3689/11a343ff2e73bd1de26a82cc03f54e73.jpg",
+      "developer": "Cyanogenmod 9",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/3689/a9b19371becc0114d10824ab774ba547.jpg",
       "id": "taylor.cox75@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/taylor.cox75@gmail.com/manifest",
-      "summary": "This was on XDA DEVS, and lets be honest, who wants to search for it on the intra web, when Im nice enough to put it here:) taylorcox75@gmail.com"
+      "summary": "idk why I'm not at the top of the Rom List ;(  "
     },
     {
       "developer": "Team Kang",

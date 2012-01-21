@@ -2,15 +2,15 @@
   "manifests": [
     {
       "developer": "DEVxSGS2xATT",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/3932/e37ad091e4efd484e0ec2f5a191ea6d5.png",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/3932/b41ff35b07195b6191951d41a99311ec.png",
       "id": "DEVxSGS2xATT",
       "manifest": "http://developer.clockworkmod.com/developer/DEVxSGS2xATT/manifest",
       "summary": "CyanogenMod 9 Nightly Builds by DEVxSGS2xATT. Experimental: USE AT OWN RISK."
     },
     {
       "developer": "teamhacksung",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/5/e37442e1c9d8f4dde5ceb57f51967029.png",
       "id": "atinm",
       "manifest": "http://developer.clockworkmod.com/developer/atinm/manifest",

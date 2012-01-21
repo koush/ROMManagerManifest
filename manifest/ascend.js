@@ -35,7 +35,7 @@
     },
     {
       "developer": "ROMs by PlayfulGod",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/480/046c8e21484dc21189721004ec151520.png",
       "id": "playfulgod",
       "manifest": "http://developer.clockworkmod.com/developer/playfulgod/manifest",

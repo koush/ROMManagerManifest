@@ -50,7 +50,7 @@
     },
     {
       "developer": "JMCyanbreadMod",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/396/b01189040f608fa16cc797e549f27cdc.png",
       "id": "jacob.mueller.elz@googlemail.com",
       "manifest": "http://developer.clockworkmod.com/developer/jacob.mueller.elz@googlemail.com/manifest",
@@ -58,7 +58,7 @@
     },
     {
       "developer": "Lox",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/89/da66842898ae788ad12bb696f515c928.jpg",
       "id": "lox",
       "manifest": "http://developer.clockworkmod.com/developer/lox/manifest",

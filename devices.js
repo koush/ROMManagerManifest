@@ -1139,6 +1139,10 @@
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p10 ; ",
       "version": "5.0.2.0",
       "init": "init_prep_keypad.sh",
+      "inits": [
+        "init_prep_keypad.sh",
+        "init.olympus.rc"
+      ],
       "legacy_versions": [
         "4.0.1.0",
         "4.0.1.1",

@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "Kejar31",
-      "free": true,
+      "free": false,
       "id": "Kejar31",
       "manifest": "http://developer.clockworkmod.com/developer/Kejar31/manifest",
       "summary": "Kejar31"

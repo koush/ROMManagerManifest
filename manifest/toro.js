@@ -2,14 +2,22 @@
   "manifests": [
     {
       "developer": "Birdman",
-      "free": true,
+      "free": false,
       "id": "Birdman",
       "manifest": "http://developer.clockworkmod.com/developer/Birdman/manifest",
       "summary": "General Roms"
     },
     {
+      "developer": "Deodexed",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/3916/88ade4365d4dcd4b0e3b15d7bf4a3eb2.jpg",
+      "id": "ModAGnex",
+      "manifest": "http://developer.clockworkmod.com/developer/ModAGnex/manifest",
+      "summary": "deodexed@gmail.com"
+    },
+    {
       "developer": "DroidVicious",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/3654/1644fc3daed4db257d1ba2506a938241.png",
       "id": "Vicious",
       "manifest": "http://developer.clockworkmod.com/developer/Vicious/manifest",
@@ -42,11 +50,19 @@
     },
     {
       "developer": "Codename Android",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2883/781187578bd7094f3bfa7c21e2b25f2a.png",
       "id": "codenamedroid",
       "manifest": "http://developer.clockworkmod.com/developer/codenamedroid/manifest",
       "summary": "Clean, Fast, Jam-Packed and Fully Open Source"
+    },
+    {
+      "developer": "Crossbones ROM",
+      "free": "true",
+      "id": "crossbones",
+      "icon": "http://crossbones.github.com/RomManager/icon.png",
+      "manifest": "http://crossbones.github.com/RomManager/manifest.js",
+      "summary": "A custom Ice Cream Sandwich ROM based on Google AOSP code"
     },
     {
       "developer": "Google Apps",
@@ -62,7 +78,7 @@
       "icon": "http://developer.clockworkmod.com/downloads/809/659eb3522bfe789439b8808bf720d8c0.png",
       "id": "pete",
       "manifest": "http://wonderly.com/bb/WEBSITE/pete.js",
-      "summary": "ROMs (AOSP), kernels, and more!"
+      "summary": "Newer builds at download.peteralfonso.com"
     },
     {
       "developer": "Team Kang",
@@ -74,7 +90,7 @@
     },
     {
       "developer": "Team BAMF ",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/758/327500a0db76efc307c8032ee32ac018.png",
       "id": "waynestrattonjr@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/waynestrattonjr@gmail.com/manifest",

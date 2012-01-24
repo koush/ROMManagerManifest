@@ -27,7 +27,7 @@
     },
     {
       "developer": "Creamed Glacier",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/868/10c53137483b19321033612bbd59c4b8.png",
       "id": "creamedglacier",
       "manifest": "http://developer.clockworkmod.com/developer/creamedglacier/manifest",
@@ -50,12 +50,12 @@
       "summary": "ROMs for the Huawei U8150 Ideos from the Ideos Dev Team"
     },
     {
-      "developer": "Jalen",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/475/83b1212e420f39b900d6011fda66ad4c.jpg",
-      "id": "x_SCOS_x_Elite",
-      "manifest": "http://developer.clockworkmod.com/developer/x_SCOS_x_Elite/manifest",
-      "summary": "NextGenIdeos 3.0 Coming Soon"
+      "developer": "TheBigManOnCampusJr",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/475/5cdbda32e16ca187f9349fef9d7bcc05.jpg",
+      "id": "x SCOS x ELITE",
+      "manifest": "http://developer.clockworkmod.com/developer/x SCOS x ELITE/manifest",
+      "summary": "Under New Management"
     }
   ],
   "minversion": "4803"

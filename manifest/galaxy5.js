@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "Scozza",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/1821/fb551e70fcf39b45280de2a6e7b929cb.jpg",
       "id": "Scozza Dev",
       "manifest": "http://developer.clockworkmod.com/developer/Scozza Dev/manifest",
@@ -35,7 +35,7 @@
     },
     {
       "developer": "Creamed Glacier",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/868/10c53137483b19321033612bbd59c4b8.png",
       "id": "creamedglacier",
       "manifest": "http://developer.clockworkmod.com/developer/creamedglacier/manifest",
@@ -43,7 +43,7 @@
     },
     {
       "developer": "Džiugas",
-      "free": true,
+      "free": false,
       "id": "dziugas.grebliunas@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/dziugas.grebliunas@gmail.com/manifest",
       "summary": "ROMs for G5"
@@ -57,15 +57,8 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
-      "developer": "Ilnur Zamanov",
-      "free": true,
-      "id": "ilnur.zamanov",
-      "manifest": "http://developer.clockworkmod.com/developer/ilnur.zamanov/manifest",
-      "summary": "stuff"
-    },
-    {
       "developer": "LMD Productions",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/1882/ccc8d0d753532845d67f5f8ac11c5e41.png",
       "id": "lucasmendes98@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/lucasmendes98@gmail.com/manifest",
@@ -73,7 +66,7 @@
     },
     {
       "developer": "psyke83",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/698/37b4cd4edb1221d85e2e477eaf052be2",
       "id": "psyke83",
       "manifest": "http://developer.clockworkmod.com/developer/psyke83/manifest",

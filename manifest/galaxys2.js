@@ -46,7 +46,7 @@
       "icon": "http://developer.clockworkmod.com/downloads/51/b1939ede73c42c69d8e2c3f1f34f3265.png",
       "id": "daniel.hillenbrand@codeworkx.de",
       "manifest": "http://developer.clockworkmod.com/developer/daniel.hillenbrand@codeworkx.de/manifest",
-      "summary": "Usefull Stuff for Galaxy S Phones"
+      "summary": "Stuff for Samsung Phones"
     },
     {
       "developer": "Google Apps",
@@ -74,7 +74,7 @@
     },
     {
       "developer": "KingDroid Roms",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/1661/61448b7570fbdc37194dbad240f4aa94.png",
       "id": "pedrokingpc@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/pedrokingpc@gmail.com/manifest",
@@ -82,7 +82,7 @@
     },
     {
       "developer": "Novek",
-      "free": true,
+      "free": false,
       "id": "trondkevin@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/trondkevin@gmail.com/manifest",
       "summary": "Happy XDA'er"

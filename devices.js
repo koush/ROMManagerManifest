@@ -953,7 +953,7 @@
       "reboot_recovery": "echo 'boot-recovery' | dd of=/dev/block/mmcblk0p3 seek=6144 bs=1 ; reboot ; ",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p7 ; ",
       "version": "5.0.2.0",
-      "init": "init_recovery.rc",
+      "inits": [ "init_recovery.rc", "/bootimages/opening_01.rle" ],
       "legacy_versions": [
         "3.0.2.7",
         "3.0.2.7",
@@ -1226,7 +1226,7 @@
       "key": "indulge915"
     },
     {
-      "name": "LGE Black",
+      "name": "LGE Optimus Black",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p4 ; ",
       "version": "5.0.2.6",
       "init": "/bootimages/ON_480x800_08fps_0000.rle",
@@ -1479,10 +1479,10 @@
       "lunch": "full_holiday-eng"
     },
     {
-      "name": "LG Optimus SOL",
+      "name": "LG Optimus SOL / TMo LG myTouch",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p17 bs=4096 ;",
       "version": "5.0.2.7",
-      "init": "init.victor.rc",
+      "inits":  [ "init.victor.rc", "init.e739.rc" ],
       "key": "e730",
       "lunch": "e730-eng"
     },

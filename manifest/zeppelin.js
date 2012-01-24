@@ -58,7 +58,7 @@
     },
     {
       "developer": "GingerXTBR",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/1879/e3328f776291f8c2e7b618f90bdd7b96.jpg",
       "id": "heitorfcastro@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/heitorfcastro@gmail.com/manifest",

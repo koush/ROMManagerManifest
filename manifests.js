@@ -999,6 +999,7 @@
       "id": "blahbl4hblah",
       "manifest": "http://developer.clockworkmod.com/developer/blahbl4hblah/manifest",
       "roms": {
+        "pyramid": true,
         "vision": true
       },
       "summary": "PyroMod roms are fast and clean "
@@ -1413,7 +1414,7 @@
     {
       "developer": "codeworkx",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/51/b1939ede73c42c69d8e2c3f1f34f3265.png",
+      "icon": "http://developer.clockworkmod.com/downloads/51/ccfa626333bc4ce102ee8c654a4fec6b.png",
       "id": "daniel.hillenbrand@codeworkx.de",
       "manifest": "http://developer.clockworkmod.com/developer/daniel.hillenbrand@codeworkx.de/manifest",
       "roms": {
@@ -1489,15 +1490,16 @@
       "summary": "The latest stock CyanogenMod 7 Desire (bravo) base ported to HD2 with the minimal amount of changes required.  No custom apps are included.  Visit the ROM's thread @ xda: http://forum.xda-developers.com/showthread.php?t=933951 ."
     },
     {
-      "developer": "dogstreetrefugee@gmail.com",
+      "developer": "fergie716",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2116/282c65494f46b4343328cc6a4538d214.jpeg",
       "id": "dogstreetrefugee@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/dogstreetrefugee@gmail.com/manifest",
       "roms": {
-        "crespo4g": true
+        "crespo4g": true,
+        "crespo": true
       },
-      "summary": "dogstreetrefugee@gmail.com"
+      "summary": "Themes, mods and more for Nexus S and Nexus S 4G"
     },
     {
       "developer": "Dread 7us",
@@ -1509,16 +1511,6 @@
         "speedy": true
       },
       "summary": "Cyclonic AOSP ROM"
-    },
-    {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "DrewGaren Roms",
@@ -1534,6 +1526,16 @@
         "maguro": true
       },
       "summary": "Custom Roms and Themes for your Device"
+    },
+    {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1615,17 +1617,6 @@
       "summary": "earthbound.iap@gmail.com"
     },
     {
-      "developer": "Salvage-Mod",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "GB source build. Group project."
-    },
-    {
       "developer": "Salvage-Mod Nightlies",
       "free": "true",
       "id": "echo17",
@@ -1635,6 +1626,17 @@
         "supersonic": "true"
       },
       "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
+    },
+    {
+      "developer": "Salvage-Mod",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "GB source build. Group project."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -1916,6 +1918,17 @@
       "summary": "Go Go Go!"
     },
     {
+      "developer": "HyperDroid CM7",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
+      "id": "hyperdroid",
+      "manifest": "http://sntclan.de/manifest.js",
+      "roms": {
+        "leo": true
+      },
+      "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
+    },
+    {
       "developer": "HyperDroid",
       "free": "true",
       "id": "hyperdroid",
@@ -1926,15 +1939,15 @@
       "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
     },
     {
-      "developer": "HyperDroid CM7",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
-      "id": "hyperdroid",
-      "manifest": "http://sntclan.de/manifest.js",
+      "developer": "iblaststatic2020",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4116/f7d4a19e9e9f364344a7b26e4919cfe4.png",
+      "id": "i.blast.static2020@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/i.blast.static2020@gmail.com/manifest",
       "roms": {
-        "leo": true
+        "glacier": true
       },
-      "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
+      "summary": "just making some roms here"
     },
     {
       "developer": "Coentje44",
@@ -2444,15 +2457,15 @@
       "summary": "middlepiller@gmail.com"
     },
     {
-      "developer": "mikegapinski@gmail.com",
+      "developer": "Mike Gapinski",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/3908/f8ee38a3b0b76e299fffa0d30383133a.png",
-      "id": "mikegapinski@gmail.com",
+      "id": "mikegapinski",
       "manifest": "http://mikegapinski.modaco.pl/swift.js",
       "roms": {
         "swift": true
       },
-      "summary": "mikegapinski@gmail.com"
+      "summary": "Custom roms from Mike for GT-540"
     },
     {
       "developer": "MIUI-PT",
@@ -2579,6 +2592,16 @@
         "supersonic": "true"
       },
       "summary": "Warm treats for Android"
+    },
+    {
+      "developer": "nebkat",
+      "free": true,
+      "id": "nebkat@gmail.com",
+      "manifest": "http://176.31.247.124/nebkat/manifest.js",
+      "roms": {
+        "undefined": true
+      },
+      "summary": "Trebuchet Launcher Developer"
     },
     {
       "developer": "nickiberli",
@@ -2712,6 +2735,7 @@
       "manifest": "http://wonderly.com/bb/WEBSITE/pete.js",
       "roms": {
         "stingray": true,
+        "wingray": true,
         "passion": true,
         "toro": true,
         "sholes": true,
@@ -2786,6 +2810,17 @@
       "summary": "Formerly r2DoesInc, Check out the new stuff. "
     },
     {
+      "developer": "RacerFlyMod ROMS",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4129/3bc2351ec023106677aac38946eaa55a.png",
+      "id": "racerfly2012",
+      "manifest": "http://developer.clockworkmod.com/developer/racerfly2012/manifest",
+      "roms": {
+        "mooncake": true
+      },
+      "summary": "Custom ROMs for the ZTE Racer based on Gingerbread."
+    },
+    {
       "developer": "ravi.haryana@gmail.com",
       "free": false,
       "id": "ravi.haryana@gmail.com",
@@ -2798,12 +2833,12 @@
     {
       "developer": "redidat420@gmail.com",
       "free": false,
-      "id": "redidat420@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/redidat420@gmail.com/manifest",
+      "id": "redidat420",
+      "manifest": "http://developer.clockworkmod.com/developer/redidat420/manifest",
       "roms": {
         "crespo4g": true
       },
-      "summary": "redidat420@gmail.com"
+      "summary": "matrix kernel v.14"
     },
     {
       "developer": "rennyro13@gmail.com",
@@ -2884,6 +2919,7 @@
       "id": "robertstoms@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/robertstoms@gmail.com/manifest",
       "roms": {
+        "epicmtd": true,
         "epic4g": true
       },
       "summary": "Minimal Roms with tons of performance tweaks under the hood."
@@ -3203,15 +3239,27 @@
       "summary": "ROMS made by toadlife"
     },
     {
+      "developer": "tomasbcunha@gmail.com",
+      "free": false,
+      "id": "tomasbcunha@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/tomasbcunha@gmail.com/manifest",
+      "roms": {
+        "none": true,
+        "blade": true
+      },
+      "summary": "tomasbcunha@gmail.com"
+    },
+    {
       "developer": "winner00",
       "free": false,
       "id": "toverturf@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/toverturf@gmail.com/manifest",
       "roms": {
+        "toro": true,
         "sholes": true,
         "inc": true
       },
-      "summary": "CyanogenMod 7 with few tweaks for better performance on the OG Droid, Incredible, and pulls from gerrit.  "
+      "summary": "CyanogenMod 9 with few tweaks and pulls from gerrit.  "
     },
     {
       "developer": "Tp4bama",

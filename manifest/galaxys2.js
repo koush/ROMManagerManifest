@@ -43,7 +43,7 @@
     {
       "developer": "codeworkx",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/51/b1939ede73c42c69d8e2c3f1f34f3265.png",
+      "icon": "http://developer.clockworkmod.com/downloads/51/ccfa626333bc4ce102ee8c654a4fec6b.png",
       "id": "daniel.hillenbrand@codeworkx.de",
       "manifest": "http://developer.clockworkmod.com/developer/daniel.hillenbrand@codeworkx.de/manifest",
       "summary": "Stuff for Samsung Phones"

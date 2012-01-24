@@ -97,12 +97,12 @@
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
     {
-      "developer": "dogstreetrefugee@gmail.com",
+      "developer": "fergie716",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2116/282c65494f46b4343328cc6a4538d214.jpeg",
       "id": "dogstreetrefugee@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/dogstreetrefugee@gmail.com/manifest",
-      "summary": "dogstreetrefugee@gmail.com"
+      "summary": "Themes, mods and more for Nexus S and Nexus S 4G"
     },
     {
       "developer": "NSCollab",
@@ -154,9 +154,9 @@
     {
       "developer": "redidat420@gmail.com",
       "free": false,
-      "id": "redidat420@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/redidat420@gmail.com/manifest",
-      "summary": "redidat420@gmail.com"
+      "id": "redidat420",
+      "manifest": "http://developer.clockworkmod.com/developer/redidat420/manifest",
+      "summary": "matrix kernel v.14"
     },
     {
       "developer": "Cyanogenmod 9",

@@ -39,6 +39,14 @@
       "id": "kman12389@googlemail.com",
       "manifest": "http://developer.clockworkmod.com/developer/kman12389@googlemail.com/manifest",
       "summary": "kman12389@googlemail.com"
+    },
+    {
+      "developer": "RacerFlyMod ROMS",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4129/3bc2351ec023106677aac38946eaa55a.png",
+      "id": "racerfly2012",
+      "manifest": "http://developer.clockworkmod.com/developer/racerfly2012/manifest",
+      "summary": "Custom ROMs for the ZTE Racer based on Gingerbread."
     }
   ],
   "minversion": "4803"

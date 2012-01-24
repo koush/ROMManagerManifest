@@ -113,6 +113,14 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
+      "developer": "iblaststatic2020",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4116/f7d4a19e9e9f364344a7b26e4919cfe4.png",
+      "id": "i.blast.static2020@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/i.blast.static2020@gmail.com/manifest",
+      "summary": "just making some roms here"
+    },
+    {
       "developer": "Jivany",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/54/b2fbc8d78d1603ad3ce1c5db727a4b68.jpg",

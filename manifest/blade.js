@@ -70,6 +70,13 @@
       "id": "jamieluckett@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/jamieluckett@gmail.com/manifest",
       "summary": "Stock ROMs for the ZTE Blade and it's renamed counterparts."
+    },
+    {
+      "developer": "tomasbcunha@gmail.com",
+      "free": false,
+      "id": "tomasbcunha@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/tomasbcunha@gmail.com/manifest",
+      "summary": "tomasbcunha@gmail.com"
     }
   ],
   "minversion": "4803"

@@ -209,7 +209,7 @@
       "free": false,
       "id": "toverturf@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/toverturf@gmail.com/manifest",
-      "summary": "CyanogenMod 7 with few tweaks for better performance on the OG Droid, Incredible, and pulls from gerrit.  "
+      "summary": "CyanogenMod 9 with few tweaks and pulls from gerrit.  "
     },
     {
       "developer": "Tp4bama",

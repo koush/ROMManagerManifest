@@ -41,6 +41,14 @@
       "summary": "Civic's TMOUS Sensation Roms | Stock with a Speed Cocktail"
     },
     {
+      "developer": "PyroMod DevTeam Roms",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/289/f50f109fd0e925ebc88d9d0d350411c1.jpg",
+      "id": "blahbl4hblah",
+      "manifest": "http://developer.clockworkmod.com/developer/blahbl4hblah/manifest",
+      "summary": "PyroMod roms are fast and clean "
+    },
+    {
       "developer": "RCTeam RCMix",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1530/f04bed0f7cd255a5a017bf4abacd6884.png",

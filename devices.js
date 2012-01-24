@@ -1471,6 +1471,8 @@
       "version": "5.0.2.7",
       "init": "init.holiday.rc",
       "legacy_versions": [
+        "5.0.2.7",
+        "5.0.2.7",
         "5.0.2.7"
       ],
       "key": "holiday",
@@ -1483,6 +1485,13 @@
       "init": "init.victor.rc",
       "key": "e730",
       "lunch": "e730-eng"
+    },
+    {
+      "name": "HTC Wildfire S",
+      "version": "5.0.2.7",
+      "init": "init.marvel.rc",
+      "key": "marvel",
+      "lunch": "htc_marvel-eng"
     }
   ],
   "use_in_app": false,

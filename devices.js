@@ -1058,6 +1058,10 @@
       "version": "4.0.1.5",
       "readonly_recovery": true,
       "init": "init.smdkc210.rc",
+      "inits": [
+        "init.smdkc210.rc",
+        "init.smdk4210.rc"
+      ],
       "legacy_versions": [
         "4.0.1.4",
         "v4.0.1.4"
@@ -1341,6 +1345,10 @@
       "version": "5.0.2.6",
       "readonly_recovery": true,
       "init": "init.smdkc210.rc",
+      "inits": [
+        "init.smdkc210.rc",
+        "init.smdk4210.rc"
+      ],
       "key": "galaxys2att",
       "lunch": "cyanogen_galaxys2att-eng"
     },

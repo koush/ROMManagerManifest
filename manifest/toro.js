@@ -73,6 +73,14 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
+      "developer": "jdkoreclipse",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/755/1d19a0748e940de5226e9a428d005769.jpg",
+      "id": "jdkoreclipse",
+      "manifest": "http://developer.clockworkmod.com/developer/jdkoreclipse/manifest",
+      "summary": "Kernels, roms, and more"
+    },
+    {
       "developer": "Peter Alfonso",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/809/659eb3522bfe789439b8808bf720d8c0.png",

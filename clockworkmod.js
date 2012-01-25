@@ -9,7 +9,7 @@
     },
     {
         "name": "DeskSMS",
-        "icon": "https://github.com/ClockworkMod/artwork/raw/master/desksms/desksms.png",
+        "icon": "http://bit.ly/zte1SD",
         "summary": "Text from your computer or tablet with your existing phone number!",
         "packagename": "com.koushikdutta.desktopsms"
     },

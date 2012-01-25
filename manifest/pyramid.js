@@ -41,7 +41,7 @@
       "summary": "Civic's TMOUS Sensation Roms | Stock with a Speed Cocktail"
     },
     {
-      "developer": "PyroMod DevTeam Roms",
+      "developer": "Blahbl4hblah",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/289/f50f109fd0e925ebc88d9d0d350411c1.jpg",
       "id": "blahbl4hblah",

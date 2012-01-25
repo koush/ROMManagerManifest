@@ -1127,7 +1127,7 @@
       "featured": true,
       "free": "true",
       "id": "clockworkmod",
-      "icon": "https://github.com/ClockworkMod/artwork/raw/master/rommanager/invertclear.png",
+      "icon": "http://bit.ly/xOLFbJ",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
       "roms": {
         "all": true

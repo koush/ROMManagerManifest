@@ -696,6 +696,10 @@
       "reboot_recovery": "dd if=/dev/zero of=/rom/bcb bs=64 count=1 ; echo 'recovery' >> /rom/bcb ; reboot ;",
       "version": "3.2.0.1",
       "init": "env.txt",
+      "inits": [
+        "env.txt",
+        "init.encore.rc"
+      ],
       "legacy_versions": [
         "3.0.1.0",
         "3.0.0.9",

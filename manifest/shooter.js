@@ -34,14 +34,6 @@
       "summary": "ROMs and apps from the creator of ROM Manager!"
     },
     {
-      "developer": "freEVO 3D ROM",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/705/959053b3e45cce1ac14b70a7a212a546.png",
-      "id": "freeza",
-      "manifest": "http://www.freeza-inc.com/freEVO3D/freEVO3Dmanifest.js",
-      "summary": "No Sense, Tweaks, Speed, and Stability. Y U No Flash?!"
-    },
-    {
       "developer": "Google Apps",
       "free": "true",
       "id": "google",

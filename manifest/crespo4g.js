@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+      "developer": "Indirect",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/3980/ec89d8b405a63fed078cbb8aa33be970.jpg",
+      "id": "Indirect",
+      "manifest": "http://developer.clockworkmod.com/developer/Indirect/manifest",
+      "summary": "I make ROM's so you don't have to."
+    },
+    {
       "developer": "Newest Nexus S 4g Roms",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/3790/5cfbbd45d87b7b236d795313df8f96d4.jpg",
@@ -149,6 +157,13 @@
       "id": "redidat420",
       "manifest": "http://developer.clockworkmod.com/developer/redidat420/manifest",
       "summary": "matrix kernel v.14"
+    },
+    {
+      "developer": "StrifeJester",
+      "free": false,
+      "id": "strifejester",
+      "manifest": "http://developer.clockworkmod.com/developer/strifejester/manifest",
+      "summary": "StrifeJester AOSP Builds"
     },
     {
       "developer": "Cyanogenmod 9",

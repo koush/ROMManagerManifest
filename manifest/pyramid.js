@@ -46,7 +46,7 @@
       "icon": "http://developer.clockworkmod.com/downloads/289/f50f109fd0e925ebc88d9d0d350411c1.jpg",
       "id": "blahbl4hblah",
       "manifest": "http://developer.clockworkmod.com/developer/blahbl4hblah/manifest",
-      "summary": "PyroMod roms are fast and clean "
+      "summary": "We provide you with the smallest system with great battery and performance"
     },
     {
       "developer": "RCTeam RCMix",

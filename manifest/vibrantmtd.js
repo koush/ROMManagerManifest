@@ -57,6 +57,14 @@
       "summary": "Go Go Go!"
     },
     {
+      "developer": "icspassion@gmail.com",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4351/ff6bfeee0a06ca17e44e078300c09bda.jpg",
+      "id": "icspassion",
+      "manifest": "http://developer.clockworkmod.com/developer/icspassion/manifest",
+      "summary": "ICS 4.0.3"
+    },
+    {
       "developer": "Infinitybiff",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/653/7dc90deb235d7f8e522085e09fad294a.png",

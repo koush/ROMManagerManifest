@@ -34,6 +34,16 @@
       "summary": "My Roms latest and greatest!"
     },
     {
+      "developer": "AndroidInsomnia",
+      "free": false,
+      "id": "AndroidInsomnia",
+      "manifest": "http://developer.clockworkmod.com/developer/AndroidInsomnia/manifest",
+      "roms": {
+        "glacier": true
+      },
+      "summary": "AndroidInsomnia"
+    },
+    {
       "developer": "ArmyRanger251",
       "id": "ArmyRanger251",
       "manifest": "http://theandroidspot.com/files/ArmyRanger251/ArmyRanger251.js",
@@ -284,6 +294,17 @@
         "vision": true
       },
       "summary": "ILWT CM7 **** ILWT CM7 Kernel **** ILWT OC Daemon"
+    },
+    {
+      "developer": "Indirect",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/3980/ec89d8b405a63fed078cbb8aa33be970.jpg",
+      "id": "Indirect",
+      "manifest": "http://developer.clockworkmod.com/developer/Indirect/manifest",
+      "roms": {
+        "crespo4g": true
+      },
+      "summary": "I make ROM's so you don't have to."
     },
     {
       "developer": "Jmz",
@@ -991,7 +1012,7 @@
         "pyramid": true,
         "vision": true
       },
-      "summary": "PyroMod roms are fast and clean "
+      "summary": "We provide you with the smallest system with great battery and performance"
     },
     {
       "developer": "Blandroid",
@@ -1502,6 +1523,16 @@
       "summary": "Cyclonic AOSP ROM"
     },
     {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
+    },
+    {
       "developer": "DrewGaren Roms",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1515,16 +1546,6 @@
         "maguro": true
       },
       "summary": "Custom Roms and Themes for your Device"
-    },
-    {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1606,17 +1627,6 @@
       "summary": "earthbound.iap@gmail.com"
     },
     {
-      "developer": "Salvage-Mod",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "GB source build. Group project."
-    },
-    {
       "developer": "Salvage-Mod Nightlies",
       "free": "true",
       "id": "echo17",
@@ -1626,6 +1636,17 @@
         "supersonic": "true"
       },
       "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
+    },
+    {
+      "developer": "Salvage-Mod",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "GB source build. Group project."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -1729,17 +1750,6 @@
         "crespo": true
       },
       "summary": "A best of both worlds rom for your Nexus S"
-    },
-    {
-      "developer": "freEVO 3D ROM",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/705/959053b3e45cce1ac14b70a7a212a546.png",
-      "id": "freeza",
-      "manifest": "http://www.freeza-inc.com/freEVO3D/freEVO3Dmanifest.js",
-      "roms": {
-        "shooter": true
-      },
-      "summary": "No Sense, Tweaks, Speed, and Stability. Y U No Flash?!"
     },
     {
       "developer": "FrostIncredible",
@@ -1907,16 +1917,6 @@
       "summary": "Go Go Go!"
     },
     {
-      "developer": "HyperDroid",
-      "free": "true",
-      "id": "hyperdroid",
-      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
-      "roms": {
-        "leo": "true"
-      },
-      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
-    },
-    {
       "developer": "HyperDroid CM7",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
@@ -1926,6 +1926,16 @@
         "leo": true
       },
       "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
+    },
+    {
+      "developer": "HyperDroid",
+      "free": "true",
+      "id": "hyperdroid",
+      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
+      "roms": {
+        "leo": "true"
+      },
+      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
     },
     {
       "developer": "iblaststatic2020",
@@ -1948,6 +1958,17 @@
         "crespo": true
       },
       "summary": "Clean ICS ITL41F builds for Nexus S"
+    },
+    {
+      "developer": "icspassion@gmail.com",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4351/ff6bfeee0a06ca17e44e078300c09bda.jpg",
+      "id": "icspassion",
+      "manifest": "http://developer.clockworkmod.com/developer/icspassion/manifest",
+      "roms": {
+        "vibrantmtd": true
+      },
+      "summary": "ICS 4.0.3"
     },
     {
       "developer": "Ihtfp69",
@@ -2445,6 +2466,16 @@
         "sholes": true
       },
       "summary": "Clean, fast & Stable roms for the D1 & D2"
+    },
+    {
+      "developer": "mick0mobile@gmail.com",
+      "free": false,
+      "id": "mick0mobile@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/mick0mobile@gmail.com/manifest",
+      "roms": {
+        "buzz": true
+      },
+      "summary": "mick0mobile@gmail.com"
     },
     {
       "developer": "middlepiller@gmail.com",
@@ -3044,6 +3075,16 @@
         "crespo": "true"
       },
       "summary": "Revert back to stock phone images."
+    },
+    {
+      "developer": "StrifeJester",
+      "free": false,
+      "id": "strifejester",
+      "manifest": "http://developer.clockworkmod.com/developer/strifejester/manifest",
+      "roms": {
+        "crespo4g": true
+      },
+      "summary": "StrifeJester AOSP Builds"
     },
     {
       "developer": "@HTCrussiaTeam",

@@ -1518,6 +1518,10 @@
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p10 bs=4096 ;",
       "version": "5.0.2.7",
       "init": "init.mapphone_umts.rc",
+      "inits": [
+        "init.mapphone_umts.rc",
+        "init.mapphone_cdma.rc"
+      ],
       "key": "sunfire",
       "lunch": "full_sunfire-eng"
     }

@@ -1517,7 +1517,7 @@
       "name": "Motorola Photon 4G",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p10 bs=4096 ;",
       "version": "5.0.2.7",
-      "init": "init.sunfire.rc",
+      "init": "init.mapphone_umts.rc",
       "key": "sunfire",
       "lunch": "full_sunfire-eng"
     }

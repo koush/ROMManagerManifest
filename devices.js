@@ -765,20 +765,6 @@
     },
     {
       "name": "Samsung Captivate (MTD)",
-      "readonly_recovery": true,
-      "init": "init.smdkc110.rc",
-      "key": "captivatemtd",
-      "officially_supported": false
-    },
-    {
-      "name": "Samsung Vibrant (MTD)",
-      "readonly_recovery": true,
-      "init": "init.smdkc110.rc",
-      "key": "vibrantmtd",
-      "officially_supported": false
-    },
-    {
-      "name": "Samsung Captivate (MTD)",
       "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "init": "init.aries.rc",
       "key": "captivatemtd",

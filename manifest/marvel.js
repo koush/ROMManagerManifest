@@ -26,6 +26,14 @@
       "summary": "ROMs and apps from the creator of ROM Manager!"
     },
     {
+      "developer": "WFSDev Team",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4378/331dbe9a7dc996400520da4ef443c76f.png",
+      "id": "florian.schmidt.stargatewissen@g",
+      "manifest": "http://developer.clockworkmod.com/developer/florian.schmidt.stargatewissen@g/manifest",
+      "summary": "We are the Wildfire S Dev Team. We provide rom's and kernels and other stuff to make your marvel better and better"
+    },
+    {
       "developer": "Google Apps",
       "free": "true",
       "id": "google",

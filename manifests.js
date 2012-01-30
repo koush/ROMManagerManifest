@@ -64,6 +64,21 @@
       "summary": "Baadnewz@gmail.com"
     },
     {
+      "developer": "bamtaumod@gmail.com",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4401/cd16010d91a2b42ba51ecdebe0ad8909.png",
+      "id": "BamtauMod",
+      "manifest": "http://developer.clockworkmod.com/developer/BamtauMod/manifest",
+      "roms": {
+        "stingray": true,
+        "toro": true,
+        "crespo4g": true,
+        "crespo": true,
+        "maguro": true
+      },
+      "summary": "the orca project"
+    },
+    {
       "developer": "Beesley's Build.Props",
       "free": "true",
       "id": "Beesley",
@@ -135,7 +150,7 @@
       "roms": {
         "speedy": true
       },
-      "summary": "Gapps Latest 01/10/2012"
+      "summary": "Gapps Latest 01/29/2012"
     },
     {
       "developer": "Crypt0night",
@@ -601,17 +616,6 @@
         "pyramid": true
       },
       "summary": "Sense-o-Maniac - Sense 3.5 ReZound Beats ||  Bravia Engine || Bloatware free ||"
-    },
-    {
-      "developer": "Sinister ROM",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/400/29a8f50929b1d09f36fde793c9ff2943.png",
-      "id": "SinisterTensai",
-      "manifest": "http://sinister.goo-inside.me/Romlist.js",
-      "roms": {
-        "supersonic": true
-      },
-      "summary": "Sinister Speeds, Sinister looks"
     },
     {
       "developer": "SlashDW",
@@ -1523,16 +1527,6 @@
       "summary": "Cyclonic AOSP ROM"
     },
     {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
-    },
-    {
       "developer": "DrewGaren Roms",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1546,6 +1540,16 @@
         "maguro": true
       },
       "summary": "Custom Roms and Themes for your Device"
+    },
+    {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1627,17 +1631,6 @@
       "summary": "earthbound.iap@gmail.com"
     },
     {
-      "developer": "Salvage-Mod Nightlies",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
-    },
-    {
       "developer": "Salvage-Mod",
       "free": "true",
       "id": "echo17",
@@ -1647,6 +1640,17 @@
         "supersonic": "true"
       },
       "summary": "GB source build. Group project."
+    },
+    {
+      "developer": "Salvage-Mod Nightlies",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -1716,6 +1720,17 @@
         "heroc": "true"
       },
       "summary": "Fresh Rom for Evo and HeroC by flipz"
+    },
+    {
+      "developer": "WFSDev Team",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4378/331dbe9a7dc996400520da4ef443c76f.png",
+      "id": "florian.schmidt.stargatewissen@g",
+      "manifest": "http://developer.clockworkmod.com/developer/florian.schmidt.stargatewissen@g/manifest",
+      "roms": {
+        "marvel": true
+      },
+      "summary": "We are the Wildfire S Dev Team. We provide rom's and kernels and other stuff to make your marvel better and better"
     },
     {
       "developer": "forkup",
@@ -1960,7 +1975,7 @@
       "summary": "Clean ICS ITL41F builds for Nexus S"
     },
     {
-      "developer": "icspassion@gmail.com",
+      "developer": "icspassion",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/4351/ff6bfeee0a06ca17e44e078300c09bda.jpg",
       "id": "icspassion",
@@ -3032,6 +3047,16 @@
       "summary": "http://android-maisters.ddns.net"
     },
     {
+      "developer": "smokin1337",
+      "free": false,
+      "id": "smokin1337",
+      "manifest": "http://developer.clockworkmod.com/developer/smokin1337/manifest",
+      "roms": {
+        "shooter": true
+      },
+      "summary": "The Configurator"
+    },
+    {
       "developer": "Sourcery ROM",
       "id": "sourcery",
       "manifest": "http://www.sourceryrom.com/ROMmanager/ROMmanager.js",
@@ -3416,7 +3441,7 @@
       "roms": {
         "ideos": true
       },
-      "summary": "Under New Management"
+      "summary": "Don't Rate Poorly Over a ROM in beta especially Ice Cream Sandwich. If you want a stable day 1 ics rom go buy galaxy nexus."
     },
     {
       "developer": "x0xhellx0x",

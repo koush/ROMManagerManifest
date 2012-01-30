@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+      "developer": "bamtaumod@gmail.com",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4401/cd16010d91a2b42ba51ecdebe0ad8909.png",
+      "id": "BamtauMod",
+      "manifest": "http://developer.clockworkmod.com/developer/BamtauMod/manifest",
+      "summary": "the orca project"
+    },
+    {
       "developer": "Birdman",
       "free": false,
       "id": "Birdman",

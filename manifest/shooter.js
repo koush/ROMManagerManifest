@@ -65,6 +65,13 @@
       "summary": "Just uploading various roms for other EVO 3D users, will not accept donations for others work and will not provide support"
     },
     {
+      "developer": "smokin1337",
+      "free": false,
+      "id": "smokin1337",
+      "manifest": "http://developer.clockworkmod.com/developer/smokin1337/manifest",
+      "summary": "The Configurator"
+    },
+    {
       "developer": "Team-Nocturnal ROM's",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/3159/9e67f81f6473af42529d9c5eb39e0536.png",

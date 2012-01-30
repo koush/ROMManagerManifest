@@ -57,7 +57,7 @@
       "summary": "Go Go Go!"
     },
     {
-      "developer": "icspassion@gmail.com",
+      "developer": "icspassion",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/4351/ff6bfeee0a06ca17e44e078300c09bda.jpg",
       "id": "icspassion",

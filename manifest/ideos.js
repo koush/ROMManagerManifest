@@ -55,7 +55,7 @@
       "icon": "http://developer.clockworkmod.com/downloads/475/5cdbda32e16ca187f9349fef9d7bcc05.jpg",
       "id": "x SCOS x ELITE",
       "manifest": "http://developer.clockworkmod.com/developer/x SCOS x ELITE/manifest",
-      "summary": "Under New Management"
+      "summary": "Don't Rate Poorly Over a ROM in beta especially Ice Cream Sandwich. If you want a stable day 1 ics rom go buy galaxy nexus."
     }
   ],
   "minversion": "4803"

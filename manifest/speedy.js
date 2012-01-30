@@ -6,7 +6,7 @@
       "icon": "http://developer.clockworkmod.com/downloads/1928/2cf2988ce83eeda8c9262be0c81a8420.gif",
       "id": "CrashV2010",
       "manifest": "http://developer.clockworkmod.com/developer/CrashV2010/manifest",
-      "summary": "Gapps Latest 01/10/2012"
+      "summary": "Gapps Latest 01/29/2012"
     },
     {
       "developer": "SparksCo",

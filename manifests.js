@@ -1226,18 +1226,17 @@
       "summary": "don't forget to patrition your sd card swap 0 ext4 512 or more"
     },
     {
-      "developer": "Crossbones ROM",
-      "free": "true",
+      "developer": "Crossbones Software",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/1404/df5fea614d4ee05ff77b467820d8c3c4.png",
       "id": "crossbones",
-      "icon": "http://crossbones.github.com/RomManager/icon.png",
       "manifest": "http://crossbones.github.com/RomManager/manifest.js",
       "roms": {
-        "toro": "true",
-        "crespo4g": "true",
-        "crespo": "true",
-        "maguro": "true"
+        "toro": true,
+        "crespo4g": true,
+        "crespo": true
       },
-      "summary": "A custom Ice Cream Sandwich ROM based on Google AOSP code"
+      "summary": "Custom ICS Android ROMs based on Google AOSP code.  Stability and performance are our goals."
     },
     {
       "developer": "cvpcs",
@@ -1527,6 +1526,16 @@
       "summary": "Cyclonic AOSP ROM"
     },
     {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
+    },
+    {
       "developer": "DrewGaren Roms",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1540,16 +1549,6 @@
         "maguro": true
       },
       "summary": "Custom Roms and Themes for your Device"
-    },
-    {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -3144,17 +3143,6 @@
       "summary": "t.dorie@gmail.com"
     },
     {
-      "developer": "CyanogenDefy Stable",
-      "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
-      "id": "tanguy.pruvot@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/tanguy.pruvot@gmail.com/manifest",
-      "roms": {
-        "umts_jordan": true
-      },
-      "summary": "Stable but unofficial RC and Release"
-    },
-    {
       "developer": "XDA CM7 Nightlies",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/541/91afee5f3ad77376b65aa60038c4979c.png",
@@ -3164,6 +3152,17 @@
         "umts_jordan": true
       },
       "summary": "XDA CM7 Original Nightly builds. tpruvot@github"
+    },
+    {
+      "developer": "CyanogenDefy Stable",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
+      "id": "tanguy.pruvot@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/tanguy.pruvot@gmail.com/manifest",
+      "roms": {
+        "umts_jordan": true
+      },
+      "summary": "Stable but unofficial RC and Release"
     },
     {
       "developer": "Cyanogenmod 9",

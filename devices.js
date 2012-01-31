@@ -639,7 +639,7 @@
     },
     {
       "name": "Google Nexus S",
-      "touch_version": "5.8.0.0",
+      "touch_version": "5.8.0.1",
       "version": "5.0.2.0",
       "init": "init.herring.rc",
       "legacy_versions": [
@@ -967,7 +967,7 @@
     {
       "name": "Google Nexus S 4G",
       "version": "5.0.2.0",
-      "touch_version": "5.8.0.0",
+      "touch_version": "5.8.0.1",
       "init": "init.herring.rc",
       "legacy_versions": [
         "3.1.0.0",

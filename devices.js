@@ -639,6 +639,7 @@
     {
       "name": "Google Nexus S",
       "version": "5.0.2.0",
+      "touch_version": "5.8.0.0",
       "init": "init.herring.rc",
       "legacy_versions": [
         "3.0.2.4",
@@ -964,6 +965,7 @@
     },
     {
       "name": "Google Nexus S 4G",
+      "touch_version": "5.8.0.0",
       "version": "5.0.2.0",
       "init": "init.herring.rc",
       "legacy_versions": [
@@ -1421,7 +1423,7 @@
     {
       "name": "Google Galaxy Nexus (GSM)",
       "flash_recovery": "dd if=%s of=/dev/block/platform/omap/omap_hsmmc.0/by-name/recovery bs=4096 ;",
-      "touch_version": "5.5.0.4",
+      "touch_version": "5.8.0.0",
       "version": "5.5.0.2",
       "init": "init.tuna.rc",
       "legacy_versions": [
@@ -1434,6 +1436,7 @@
     {
       "name": "Google Galaxy Nexus (CDMA)",
       "flash_recovery": "dd if=%s of=/dev/block/platform/omap/omap_hsmmc.0/by-name/recovery bs=4096 ;",
+      "touch_version": "5.8.0.0",
       "version": "5.5.0.4",
       "init": "init.tuna.rc",
       "legacy_versions": [

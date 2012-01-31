@@ -35,13 +35,17 @@ if found_device == nil then
   devices["devices"].push found_device
 end
 
-if found_device["version"] != nil then
-  if found_device["legacy_versions"] == nil then
-    found_device["legacy_versions"] = []
+if ENV['BOARD_TOUCH_RECOVERY'] == nil then
+  if found_device["version"] != nil then
+    if found_device["legacy_versions"] == nil then
+      found_device["legacy_versions"] = []
+    end
+    found_device["legacy_versions"].push found_device["version"]
   end
-  found_device["legacy_versions"].push found_device["version"]
+  found_device["version"] = version
+  found_device['lunch'] = lunch
+else
+  found_device["touch_version"] = version
 end
-found_device["version"] = version
-found_device['lunch'] = lunch
 
 File.open("devices.js", "w").write(JSON.pretty_generate(devices))

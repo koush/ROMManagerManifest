@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "Clark44 (Absurd)",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/315/fa526fadb52216d09110cf18e5fd5047.jpg",
       "id": "Clark44 (Absurd)",
       "manifest": "http://developer.clockworkmod.com/developer/Clark44 (Absurd)/manifest",
@@ -34,6 +34,14 @@
       "summary": "ROMs and apps from the creator of ROM Manager!"
     },
     {
+      "developer": "freEVO 3D ROM",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/705/959053b3e45cce1ac14b70a7a212a546.png",
+      "id": "freeza",
+      "manifest": "http://www.freeza-inc.com/freEVO3D/freEVO3Dmanifest.js",
+      "summary": "No Sense, Tweaks, Speed, and Stability. Y U No Flash?!"
+    },
+    {
       "developer": "Google Apps",
       "free": "true",
       "id": "google",
@@ -43,7 +51,7 @@
     },
     {
       "developer": "jondevere@gmail.com",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/695/baaa677e69d0e0b6eaaa2d46f851e9e8.gif",
       "id": "jondevere@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/jondevere@gmail.com/manifest",
@@ -59,14 +67,14 @@
     },
     {
       "developer": "XDA Roms",
-      "free": false,
+      "free": true,
       "id": "pecord",
       "manifest": "http://developer.clockworkmod.com/developer/pecord/manifest",
       "summary": "Just uploading various roms for other EVO 3D users, will not accept donations for others work and will not provide support"
     },
     {
       "developer": "smokin1337",
-      "free": false,
+      "free": true,
       "id": "smokin1337",
       "manifest": "http://developer.clockworkmod.com/developer/smokin1337/manifest",
       "summary": "The Configurator"
@@ -81,7 +89,7 @@
     },
     {
       "developer": "Sense 3.5 Ports",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/822/cfae65dc7496f8d03671558307a5441d.jpg",
       "id": "temeyers@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/temeyers@gmail.com/manifest",

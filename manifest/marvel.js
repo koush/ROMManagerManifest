@@ -27,7 +27,7 @@
     },
     {
       "developer": "WFSDev Team",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/4378/331dbe9a7dc996400520da4ef443c76f.png",
       "id": "florian.schmidt.stargatewissen@g",
       "manifest": "http://developer.clockworkmod.com/developer/florian.schmidt.stargatewissen@g/manifest",

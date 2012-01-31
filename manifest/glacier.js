@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "Rafyvitto",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/177/700bcfbb335a940d5d43aab2894d058d.jpg",
       "id": "Android-Maisters",
       "manifest": "http://developer.clockworkmod.com/developer/Android-Maisters/manifest",
@@ -10,14 +10,14 @@
     },
     {
       "developer": "AndroidInsomnia",
-      "free": false,
+      "free": true,
       "id": "AndroidInsomnia",
       "manifest": "http://developer.clockworkmod.com/developer/AndroidInsomnia/manifest",
       "summary": "AndroidInsomnia"
     },
     {
       "developer": "GreenRomProject",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
       "id": "GreenRomProject",
       "manifest": "http://developer.clockworkmod.com/developer/GreenRomProject/manifest",
@@ -25,7 +25,7 @@
     },
     {
       "developer": "SnakeBiteZZ",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/178/75a44ae18b10c58a76c785cbf245f3f0.jpg",
       "id": "SnakeBiteZZ",
       "manifest": "http://developer.clockworkmod.com/developer/SnakeBiteZZ/manifest",
@@ -33,7 +33,7 @@
     },
     {
       "developer": "SparksCo",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/293/cf525bafa8894bfea108d2e1387e6e52.png",
       "id": "SparksCo",
       "manifest": "http://developer.clockworkmod.com/developer/SparksCo/manifest",
@@ -74,7 +74,7 @@
     },
     {
       "developer": "Creamed Glacier",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/868/10c53137483b19321033612bbd59c4b8.png",
       "id": "creamedglacier",
       "manifest": "http://developer.clockworkmod.com/developer/creamedglacier/manifest",
@@ -97,7 +97,7 @@
     },
     {
       "developer": "Faux123 Custom ROMs",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/65/458f8e1774c14317e04210d456d579e0.gif",
       "id": "faux123",
       "manifest": "http://developer.clockworkmod.com/developer/faux123/manifest",
@@ -105,7 +105,7 @@
     },
     {
       "developer": "GazaIan's ROMs",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/296/cd3509e2cff156bd174cb32481dfbe33.jpg",
       "id": "gazaian13@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/gazaian13@gmail.com/manifest",
@@ -121,7 +121,7 @@
     },
     {
       "developer": "iblaststatic2020",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/4116/f7d4a19e9e9f364344a7b26e4919cfe4.png",
       "id": "i.blast.static2020@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/i.blast.static2020@gmail.com/manifest",
@@ -129,7 +129,7 @@
     },
     {
       "developer": "Jivany",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/54/b2fbc8d78d1603ad3ce1c5db727a4b68.jpg",
       "id": "jivanylaureano@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/jivanylaureano@gmail.com/manifest",

@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "FirstUA-ROM",
-      "free": false,
+      "free": true,
       "id": "Grif07",
       "manifest": "http://developer.clockworkmod.com/developer/Grif07/manifest",
       "summary": "Light, fast and stable KPH based ROM with CF-ROOT kernel. English is included! Will wipe all your DATA!!!"
@@ -34,7 +34,7 @@
     },
     {
       "developer": "Creamed Glacier",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/868/10c53137483b19321033612bbd59c4b8.png",
       "id": "creamedglacier",
       "manifest": "http://developer.clockworkmod.com/developer/creamedglacier/manifest",

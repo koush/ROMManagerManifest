@@ -2,11 +2,19 @@
   "manifests": [
     {
       "developer": "Scozza",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1821/fb551e70fcf39b45280de2a6e7b929cb.jpg",
       "id": "Scozza Dev",
       "manifest": "http://developer.clockworkmod.com/developer/Scozza Dev/manifest",
       "summary": "Customize your Android!"
+    },
+    {
+      "developer": "Stock Images",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/4418/a595ef138e78e7268152925946bf6c53.jpg",
+      "id": "Stock Images",
+      "manifest": "http://developer.clockworkmod.com/developer/Stock Images/manifest",
+      "summary": "Revert back to stock phone firmwares."
     },
     {
       "developer": "Cerberus",
@@ -35,7 +43,7 @@
     },
     {
       "developer": "Creamed Glacier",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/868/10c53137483b19321033612bbd59c4b8.png",
       "id": "creamedglacier",
       "manifest": "http://developer.clockworkmod.com/developer/creamedglacier/manifest",
@@ -43,7 +51,7 @@
     },
     {
       "developer": "Džiugas",
-      "free": false,
+      "free": true,
       "id": "dziugas.grebliunas@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/dziugas.grebliunas@gmail.com/manifest",
       "summary": "ROMs for G5"
@@ -58,7 +66,7 @@
     },
     {
       "developer": "LMD Productions",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1882/ccc8d0d753532845d67f5f8ac11c5e41.png",
       "id": "lucasmendes98@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/lucasmendes98@gmail.com/manifest",
@@ -66,7 +74,7 @@
     },
     {
       "developer": "psyke83",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/698/37b4cd4edb1221d85e2e477eaf052be2",
       "id": "psyke83",
       "manifest": "http://developer.clockworkmod.com/developer/psyke83/manifest",

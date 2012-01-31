@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "bamtaumod@gmail.com",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/4401/cd16010d91a2b42ba51ecdebe0ad8909.png",
       "id": "BamtauMod",
       "manifest": "http://developer.clockworkmod.com/developer/BamtauMod/manifest",
@@ -10,14 +10,14 @@
     },
     {
       "developer": "Birdman",
-      "free": false,
+      "free": true,
       "id": "Birdman",
       "manifest": "http://developer.clockworkmod.com/developer/Birdman/manifest",
       "summary": "General Roms"
     },
     {
       "developer": "Deodexed",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/3916/88ade4365d4dcd4b0e3b15d7bf4a3eb2.jpg",
       "id": "ModAGnex",
       "manifest": "http://developer.clockworkmod.com/developer/ModAGnex/manifest",
@@ -25,7 +25,7 @@
     },
     {
       "developer": "DroidVicious",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/3654/1644fc3daed4db257d1ba2506a938241.png",
       "id": "Vicious",
       "manifest": "http://developer.clockworkmod.com/developer/Vicious/manifest",
@@ -58,7 +58,7 @@
     },
     {
       "developer": "Codename Android",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2883/781187578bd7094f3bfa7c21e2b25f2a.png",
       "id": "codenamedroid",
       "manifest": "http://developer.clockworkmod.com/developer/codenamedroid/manifest",
@@ -82,7 +82,7 @@
     },
     {
       "developer": "jdkoreclipse",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/755/1d19a0748e940de5226e9a428d005769.jpg",
       "id": "jdkoreclipse",
       "manifest": "http://developer.clockworkmod.com/developer/jdkoreclipse/manifest",
@@ -106,14 +106,14 @@
     },
     {
       "developer": "winner00",
-      "free": false,
+      "free": true,
       "id": "toverturf@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/toverturf@gmail.com/manifest",
       "summary": "CyanogenMod 9 with few tweaks and pulls from gerrit.  "
     },
     {
       "developer": "Team BAMF ",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/758/327500a0db76efc307c8032ee32ac018.png",
       "id": "waynestrattonjr@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/waynestrattonjr@gmail.com/manifest",

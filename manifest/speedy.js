@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "CrashV2010",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1928/2cf2988ce83eeda8c9262be0c81a8420.gif",
       "id": "CrashV2010",
       "manifest": "http://developer.clockworkmod.com/developer/CrashV2010/manifest",
@@ -10,7 +10,7 @@
     },
     {
       "developer": "SparksCo",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/293/cf525bafa8894bfea108d2e1387e6e52.png",
       "id": "SparksCo",
       "manifest": "http://developer.clockworkmod.com/developer/SparksCo/manifest",
@@ -22,6 +22,14 @@
       "id": "bcnice20",
       "manifest": "http://www.thebcblends.com/speedy/bcblend.js",
       "summary": "Roms and Kernels for the HTC EVO Shift"
+    },
+    {
+      "developer": "Blahbl4hblah",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/289/f50f109fd0e925ebc88d9d0d350411c1.jpg",
+      "id": "blahbl4hblah",
+      "manifest": "http://developer.clockworkmod.com/developer/blahbl4hblah/manifest",
+      "summary": "We provide you with the smallest system with great battery and performance"
     },
     {
       "developer": "Cerberus",
@@ -65,7 +73,7 @@
     },
     {
       "developer": "Dread 7us",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1929/0151bdcc239801272b88a5df9277a340.gif",
       "id": "dread7us@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/dread7us@gmail.com/manifest",
@@ -89,7 +97,7 @@
     },
     {
       "developer": "one_love_420",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2127/aa7c11ff3b13601e1f44904843e69c5a.jpg",
       "id": "one_love_420",
       "manifest": "http://developer.clockworkmod.com/developer/one_love_420/manifest",

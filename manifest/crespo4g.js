@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "bamtaumod@gmail.com",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/4401/cd16010d91a2b42ba51ecdebe0ad8909.png",
       "id": "BamtauMod",
       "manifest": "http://developer.clockworkmod.com/developer/BamtauMod/manifest",
@@ -10,7 +10,7 @@
     },
     {
       "developer": "Indirect",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/3980/ec89d8b405a63fed078cbb8aa33be970.jpg",
       "id": "Indirect",
       "manifest": "http://developer.clockworkmod.com/developer/Indirect/manifest",
@@ -18,7 +18,7 @@
     },
     {
       "developer": "Newest Nexus S 4g Roms",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/3790/5cfbbd45d87b7b236d795313df8f96d4.jpg",
       "id": "Nexus S 4g Roms",
       "manifest": "http://developer.clockworkmod.com/developer/Nexus S 4g Roms/manifest",
@@ -26,7 +26,7 @@
     },
     {
       "developer": "vhgomez36-ICS-NXS-4G",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1672/c6744e24b10b0312603d0f837b434a2a.png",
       "id": "Tr13dg3001",
       "manifest": "http://developer.clockworkmod.com/developer/Tr13dg3001/manifest",
@@ -42,7 +42,7 @@
     },
     {
       "developer": "aosp",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/322/c97732b0067d16ccf420f20f78b8f36a.png",
       "id": "aospmod",
       "manifest": "http://developer.clockworkmod.com/developer/aospmod/manifest",
@@ -106,7 +106,7 @@
     },
     {
       "developer": "fergie716",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2116/282c65494f46b4343328cc6a4538d214.jpeg",
       "id": "dogstreetrefugee@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/dogstreetrefugee@gmail.com/manifest",
@@ -130,7 +130,7 @@
     },
     {
       "developer": "mathkid95",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1992/7fe1b96f6d5747b17e3b7bb4ce165219.gif",
       "id": "mathkid95",
       "manifest": "http://developer.clockworkmod.com/developer/mathkid95/manifest",
@@ -138,7 +138,7 @@
     },
     {
       "developer": "middlepiller@gmail.com",
-      "free": false,
+      "free": true,
       "id": "middlepiller@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/middlepiller@gmail.com/manifest",
       "summary": "middlepiller@gmail.com"
@@ -161,21 +161,21 @@
     },
     {
       "developer": "redidat420@gmail.com",
-      "free": false,
+      "free": true,
       "id": "redidat420",
       "manifest": "http://developer.clockworkmod.com/developer/redidat420/manifest",
       "summary": "matrix kernel v.14"
     },
     {
       "developer": "StrifeJester",
-      "free": false,
+      "free": true,
       "id": "strifejester",
       "manifest": "http://developer.clockworkmod.com/developer/strifejester/manifest",
       "summary": "StrifeJester AOSP Builds"
     },
     {
       "developer": "Cyanogenmod 9",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/3689/a9b19371becc0114d10824ab774ba547.jpg",
       "id": "taylor.cox75@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/taylor.cox75@gmail.com/manifest",

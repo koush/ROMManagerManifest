@@ -27,7 +27,7 @@
     },
     {
       "developer": "Creamed Glacier",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/868/10c53137483b19321033612bbd59c4b8.png",
       "id": "creamedglacier",
       "manifest": "http://developer.clockworkmod.com/developer/creamedglacier/manifest",

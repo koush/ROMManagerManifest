@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "Hardbread",
-      "free": false,
+      "free": true,
       "id": "Stenka",
       "manifest": "http://developer.clockworkmod.com/developer/Stenka/manifest",
       "summary": "MIUI [ES]"

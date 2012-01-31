@@ -96,7 +96,7 @@
     },
     {
       "developer": "ravi.haryana@gmail.com",
-      "free": false,
+      "free": true,
       "id": "ravi.haryana@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/ravi.haryana@gmail.com/manifest",
       "summary": "ravi.haryana@gmail.com"
@@ -110,7 +110,7 @@
     },
     {
       "developer": "roalex",
-      "free": false,
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/107/236f3ca6074ca5d999aef037aae94244.png",
       "id": "roalex-bravo",
       "manifest": "http://developer.clockworkmod.com/developer/roalex-bravo/manifest",

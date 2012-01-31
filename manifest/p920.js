@@ -42,7 +42,7 @@
     },
     {
       "developer": "me@abimanyu.in",
-      "free": false,
+      "free": true,
       "id": "me@abimanyu.in",
       "manifest": "http://developer.clockworkmod.com/developer/me@abimanyu.in/manifest",
       "summary": "me@abimanyu.in"

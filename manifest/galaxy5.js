@@ -9,14 +9,6 @@
       "summary": "Customize your Android!"
     },
     {
-      "developer": "Stock Images",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/4418/a595ef138e78e7268152925946bf6c53.jpg",
-      "id": "Stock Images",
-      "manifest": "http://developer.clockworkmod.com/developer/Stock Images/manifest",
-      "summary": "Revert back to stock phone firmwares."
-    },
-    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",

@@ -698,17 +698,6 @@
       "summary": "MIUI [ES]"
     },
     {
-      "developer": "Stock Images",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/4418/a595ef138e78e7268152925946bf6c53.jpg",
-      "id": "Stock Images",
-      "manifest": "http://developer.clockworkmod.com/developer/Stock Images/manifest",
-      "roms": {
-        "galaxy5": true
-      },
-      "summary": "Revert back to stock phone firmwares."
-    },
-    {
       "developer": "TeamGTP",
       "free": "true",
       "id": "TeamGTP",
@@ -3035,6 +3024,17 @@
         "leo": true
       },
       "summary": "Seaders stable one, based on LEO 2.3.7 sources, tweaked with tablet-functions, audio/lights/sensor/gps fixes, custom settings and deleted/added/switched apps. http://bit.ly/nnx6qf for details (german). Last Version 2.0.0 for MAGLDR too!"
+    },
+    {
+      "developer": "SenseiSimple",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/2287/2d13993ea8025cb2214f94311412189f.png",
+      "id": "senseisimple",
+      "manifest": "http://thebrainworm.com/senseisimplecwm_manifest.js",
+      "roms": {
+        "epic4g": true
+      },
+      "summary": "It's Simple - Stock Looks with All the Latest Performance - the Sleeper"
     },
     {
       "developer": "Shawe",

@@ -1515,6 +1515,17 @@
       "lunch": "generic_marvel-eng"
     },
     {
+      "name": "TESTER",
+      "inits": [
+        "foo",
+        "bar"
+      ],
+      "version": "5.0.2.7",
+      "init": "bar",
+      "key": "test",
+      "lunch": "full_sunfire-eng"
+    },
+    {
       "name": "Motorola Photon 4G",
       "inits": [
         "init.mapphone_umts.rc",

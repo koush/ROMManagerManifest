@@ -103,6 +103,14 @@
       "summary": "Minimal Roms with tons of performance tweaks under the hood."
     },
     {
+      "developer": "SenseiSimple",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/2287/2d13993ea8025cb2214f94311412189f.png",
+      "id": "senseisimple",
+      "manifest": "http://thebrainworm.com/senseisimplecwm_manifest.js",
+      "summary": "It's Simple - Stock Looks with All the Latest Performance - the Sleeper"
+    },
+    {
       "developer": "TheDub",
       "free": true,
       "id": "thedubmail@gmail.com",

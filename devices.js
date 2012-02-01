@@ -1526,6 +1526,14 @@
       "init": "init.mapphone_umts.rc",
       "key": "sunfire",
       "lunch": "full_sunfire-eng"
+    },
+    {
+      "name": "LGE Esteem",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p14 bs=4096 ;",
+      "version": "5.0.2.8",
+      "init": "init.esteem.rc",
+      "key": "esteem",
+      "lunch": "full_esteem-eng"
     }
   ],
   "use_in_app": false,

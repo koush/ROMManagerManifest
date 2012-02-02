@@ -951,7 +951,6 @@
       ],
       "reboot_recovery": "echo 'boot-recovery' | dd of=/dev/block/mmcblk0p3 seek=6144 bs=1 ; reboot ; ",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p7 ; ",
-      "touch_version": "5.8.0.3",
       "version": "5.0.2.0",
       "legacy_versions": [
         "3.0.2.7",

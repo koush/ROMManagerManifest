@@ -457,7 +457,6 @@
     {
       "name": "HTC G2",
       "flash_recovery": "dd if=/dev/zero of=/dev/block/mmcblk0p21 bs=4096 ; dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ; ",
-      "touch_version": "5.8.0.9",
       "version": "5.0.2.7",
       "init": "init.vision.rc",
       "legacy_versions": [
@@ -480,7 +479,6 @@
       "name": "HTC MyTouch 4G",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 ; ",
       "version": "5.0.2.0",
-      "touch_version": "5.8.0.9",
       "init": "init.glacier.rc",
       "legacy_versions": [
         "3.0.2.4",

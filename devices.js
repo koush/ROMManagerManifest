@@ -1191,7 +1191,7 @@
       "name": "HTC Sensation",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 ; ",
       "version": "5.0.2.0",
-      "touch_version": "5.8.0.3",
+      "touch_version": "5.8.0.9",
       "init": "init.pyramid.rc",
       "legacy_versions": [
         "4.0.1.5",

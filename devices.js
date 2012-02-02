@@ -1363,6 +1363,7 @@
       "name": "Samsung T-Mobile GalaxyS2",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=4096 ; ",
       "version": "5.0.2.7",
+      "touch_version": "5.8.1.1",
       "init": "init.target.rc",
       "legacy_versions": [
         "5.0.2.6"

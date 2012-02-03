@@ -1542,7 +1542,11 @@
       "name": "LGE Esteem",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p14 bs=4096 ;",
       "version": "5.0.2.8",
-      "init": "init.esteem.rc",
+      "init": "init.qcom.rc",
+      "inits": [
+        "init.qcom.rc",
+        "init.bryce.rc"
+      ],
       "key": "esteem",
       "lunch": "full_esteem-eng"
     },

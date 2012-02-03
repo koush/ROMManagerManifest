@@ -1398,7 +1398,7 @@
     },
     {
       "name": "Samsung Galaxy 5",
-      "version": "5.0.2.6",
+      "version": "5.0.2.8",
       "readonly_recovery": true,
       "init": "init.gt-i5500.rc",
       "key": "galaxy5",
@@ -1556,13 +1556,6 @@
       "init": "init.u8160.rc",
       "key": "u8160",
       "lunch": "huawei_u8160-eng"
-    },
-    {
-      "name": "samsung_galaxy5",
-      "version": "5.0.2.8",
-      "init": "init.samsung_galaxy5.rc",
-      "key": "samsung_galaxy5",
-      "lunch": "samsung_galaxy5-eng"
     }
   ],
   "pontiflex_downloading": 100,

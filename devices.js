@@ -1561,8 +1561,16 @@
       "name": "HTC Rezound",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p23 bs=4096 ;",
       "touch_version": "5.8.1.3",
-      "version": "5.5.0.4",
+      "version": "5.8.1.4",
       "init": "init.vigor.rc",
+      "legacy_versions": [
+        "5.5.0.4",
+        "5.5.0.5",
+        "5.8.1.3",
+        "5.8.1.4",
+        "5.8.1.4",
+        "5.8.1.4"
+      ],
       "key": "vigor",
       "lunch": "full_vigor-userdebug"
     }

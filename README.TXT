@@ -1,12 +1,6 @@
-Two ways to add your ROM to ROM Manager:
+Want to add your ROMs to ROM Manager? Head on over to this website and sign up:
 
-1) If you want ROM Manager to automatically host and handle your ROMs,
-simply visit http://romshare.deployfu.com and sign in and upload them.
+http://developer.clockworkmod.com
 
-
-2) If you want to manually host and manage your ROMs, follow these
-instructions:
-http://www.koushikdutta.com/2010/03/rom-manager-and-third-party-roms.html
-If you are sending a pull request (vs a github issue), please
-make sure you are editing manual_manifests.js and not manifests.js.
-
+New developers may take up to 24 hours to show up in ROM Manager.
+I need to make sure you are legit, and there is nothing malicious.

@@ -29,6 +29,7 @@
       "id": "Android-Maisters",
       "manifest": "http://developer.clockworkmod.com/developer/Android-Maisters/manifest",
       "roms": {
+        "galaxys2att": true,
         "glacier": true
       },
       "summary": "My Roms latest and greatest!"
@@ -1527,6 +1528,16 @@
       "summary": "Cyclonic AOSP ROM"
     },
     {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
+    },
+    {
       "developer": "DrewGaren Roms",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1540,16 +1551,6 @@
         "maguro": true
       },
       "summary": "Custom Roms and Themes for your Device"
-    },
-    {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1608,7 +1609,7 @@
     {
       "developer": "doniqcc",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/718/9bbb8f432173c057adc234be32daa0df.png",
+      "icon": "http://developer.clockworkmod.com/downloads/718/b2c06b2e7ab0e9c3475e324bdcba8380.png",
       "id": "eagleblood",
       "manifest": "http://developer.clockworkmod.com/developer/eagleblood/manifest",
       "roms": {
@@ -1720,17 +1721,6 @@
         "heroc": "true"
       },
       "summary": "Fresh Rom for Evo and HeroC by flipz"
-    },
-    {
-      "developer": "WFSDev Team",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/4378/331dbe9a7dc996400520da4ef443c76f.png",
-      "id": "florian.schmidt.stargatewissen@g",
-      "manifest": "http://developer.clockworkmod.com/developer/florian.schmidt.stargatewissen@g/manifest",
-      "roms": {
-        "marvel": true
-      },
-      "summary": "We are the Wildfire S Dev Team. We provide rom's and kernels and other stuff to make your marvel better and better"
     },
     {
       "developer": "forkup",
@@ -1873,6 +1863,17 @@
         "galaxys": "true"
       },
       "summary": "ROMs and hax by gtg465x"
+    },
+    {
+      "developer": "HAKA",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/4522/a04160f7948b04c333753e9016d85ee7.png",
+      "id": "haka",
+      "manifest": "http://developer.clockworkmod.com/developer/haka/manifest",
+      "roms": {
+        "crespo": true
+      },
+      "summary": "KANGY ROM's are based on the Android Open Kang Project. The ROM comes with some awesome tweaks that make it fast, smooth and reliable. Also, the battery life is superb "
     },
     {
       "developer": "Hamsterbread",
@@ -2429,6 +2430,17 @@
       "summary": "News and more"
     },
     {
+      "developer": "MADTeam",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/4525/96c8f45757c82a10bf8b449421fbdcb4.png",
+      "id": "madteam",
+      "manifest": "http://developer.clockworkmod.com/developer/madteam/manifest",
+      "roms": {
+        "galaxy5": true
+      },
+      "summary": "Custom ROMs for various devices."
+    },
+    {
       "developer": "Magiman7",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/42/70d519969f6c857c9e5b7c1cfb147ae9.png",
@@ -2525,6 +2537,17 @@
       "summary": "Custom roms from Mike for GT-540"
     },
     {
+      "developer": "mikerowes69@gmail.com",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/2231/a8dbbe0584c34e8cffb11d5274e21bd5",
+      "id": "mikerowes69@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/mikerowes69@gmail.com/manifest",
+      "roms": {
+        "salsa": true
+      },
+      "summary": "mikerowes69@gmail.com"
+    },
+    {
       "developer": "MIUI-PT",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
@@ -2616,6 +2639,17 @@
         "droidx": "true"
       },
       "summary": "DroidX Roms"
+    },
+    {
+      "developer": "mstfkaratas",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/3368/ce4e37855ec7a3ab1a2a9cf07028b773.png",
+      "id": "mstfkaratas@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/mstfkaratas@gmail.com/manifest",
+      "roms": {
+        "marvel": true
+      },
+      "summary": "ROM's for Marvel"
     },
     {
       "developer": "Marcusant",
@@ -3186,24 +3220,6 @@
         "crespo4g": true
       },
       "summary": "idk why I'm not at the top of the Rom List ;(  "
-    },
-    {
-      "developer": "Team Kang",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/25/db61b8511c32d13d8121f99fd902f6a6.png",
-      "id": "teamkang",
-      "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
-      "roms": {
-        "p999": true,
-        "vibrantmtd": true,
-        "toro": true,
-        "vibrant": true,
-        "crespo4g": true,
-        "pyramid": true,
-        "crespo": true,
-        "maguro": true
-      },
-      "summary": "We came. We saw. We kanged."
     },
     {
       "developer": "MyUI",

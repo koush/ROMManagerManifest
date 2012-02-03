@@ -144,6 +144,14 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
+      "developer": "HAKA",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/4522/a04160f7948b04c333753e9016d85ee7.png",
+      "id": "haka",
+      "manifest": "http://developer.clockworkmod.com/developer/haka/manifest",
+      "summary": "KANGY ROM's are based on the Android Open Kang Project. The ROM comes with some awesome tweaks that make it fast, smooth and reliable. Also, the battery life is superb "
+    },
+    {
       "developer": "Htcclay",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/307/5076662d1617430aa6ad3f6ad73136aa.jpg",
@@ -206,14 +214,6 @@
       "id": "stock",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/stock.js",
       "summary": "Revert back to stock phone images."
-    },
-    {
-      "developer": "Team Kang",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/25/db61b8511c32d13d8121f99fd902f6a6.png",
-      "id": "teamkang",
-      "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
-      "summary": "We came. We saw. We kanged."
     }
   ],
   "minversion": "4803"

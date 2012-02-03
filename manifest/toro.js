@@ -97,14 +97,6 @@
       "summary": "Newer builds at download.peteralfonso.com"
     },
     {
-      "developer": "Team Kang",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/25/db61b8511c32d13d8121f99fd902f6a6.png",
-      "id": "teamkang",
-      "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
-      "summary": "We came. We saw. We kanged."
-    },
-    {
       "developer": "winner00",
       "free": true,
       "id": "toverturf@gmail.com",

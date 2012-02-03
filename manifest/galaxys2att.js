@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+      "developer": "Rafyvitto",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/177/700bcfbb335a940d5d43aab2894d058d.jpg",
+      "id": "Android-Maisters",
+      "manifest": "http://developer.clockworkmod.com/developer/Android-Maisters/manifest",
+      "summary": "My Roms latest and greatest!"
+    },
+    {
       "developer": "DEVxSGS2xATT",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/3932/b41ff35b07195b6191951d41a99311ec.png",

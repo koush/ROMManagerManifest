@@ -26,20 +26,20 @@
       "summary": "ROMs and apps from the creator of ROM Manager!"
     },
     {
-      "developer": "WFSDev Team",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/4378/331dbe9a7dc996400520da4ef443c76f.png",
-      "id": "florian.schmidt.stargatewissen@g",
-      "manifest": "http://developer.clockworkmod.com/developer/florian.schmidt.stargatewissen@g/manifest",
-      "summary": "We are the Wildfire S Dev Team. We provide rom's and kernels and other stuff to make your marvel better and better"
-    },
-    {
       "developer": "Google Apps",
       "free": "true",
       "id": "google",
       "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
+    },
+    {
+      "developer": "mstfkaratas",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/3368/ce4e37855ec7a3ab1a2a9cf07028b773.png",
+      "id": "mstfkaratas@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/mstfkaratas@gmail.com/manifest",
+      "summary": "ROM's for Marvel"
     }
   ],
   "minversion": "4803"

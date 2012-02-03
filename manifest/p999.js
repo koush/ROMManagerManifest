@@ -59,7 +59,7 @@
     {
       "developer": "doniqcc",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/718/9bbb8f432173c057adc234be32daa0df.png",
+      "icon": "http://developer.clockworkmod.com/downloads/718/b2c06b2e7ab0e9c3475e324bdcba8380.png",
       "id": "eagleblood",
       "manifest": "http://developer.clockworkmod.com/developer/eagleblood/manifest",
       "summary": "Eagleblood Roms Fast/Stable/Clean"
@@ -95,14 +95,6 @@
       "id": "lotherius",
       "manifest": "http://developer.clockworkmod.com/developer/lotherius/manifest",
       "summary": "G2X Clean and Simple rom based on LG 2.3.4 Code"
-    },
-    {
-      "developer": "Team Kang",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/25/db61b8511c32d13d8121f99fd902f6a6.png",
-      "id": "teamkang",
-      "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
-      "summary": "We came. We saw. We kanged."
     },
     {
       "developer": "x0xhellx0x",

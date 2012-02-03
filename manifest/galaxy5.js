@@ -65,6 +65,14 @@
       "summary": "News and more"
     },
     {
+      "developer": "MADTeam",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/4525/96c8f45757c82a10bf8b449421fbdcb4.png",
+      "id": "madteam",
+      "manifest": "http://developer.clockworkmod.com/developer/madteam/manifest",
+      "summary": "Custom ROMs for various devices."
+    },
+    {
       "developer": "psyke83",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/698/37b4cd4edb1221d85e2e477eaf052be2",

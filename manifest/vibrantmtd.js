@@ -111,14 +111,6 @@
       "id": "rfvbnji91@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/rfvbnji91@gmail.com/manifest",
       "summary": "AOSP Source Built ROMs, MODs & Tweaks"
-    },
-    {
-      "developer": "Team Kang",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/25/db61b8511c32d13d8121f99fd902f6a6.png",
-      "id": "teamkang",
-      "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
-      "summary": "We came. We saw. We kanged."
     }
   ],
   "minversion": "4803"

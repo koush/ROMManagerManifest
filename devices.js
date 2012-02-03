@@ -1555,7 +1555,7 @@
     {
       "name": "Huawei U8160",
       "version": "5.0.2.8",
-      "init": "init.u8160.rc",
+      "init": "init.huawei.rc",
       "key": "u8160",
       "lunch": "huawei_u8160-eng"
     },

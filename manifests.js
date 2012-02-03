@@ -1528,6 +1528,16 @@
       "summary": "Cyclonic AOSP ROM"
     },
     {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
+    },
+    {
       "developer": "DrewGaren Roms",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1541,16 +1551,6 @@
         "maguro": true
       },
       "summary": "Custom Roms and Themes for your Device"
-    },
-    {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1723,6 +1723,16 @@
       "summary": "Fresh Rom for Evo and HeroC by flipz"
     },
     {
+      "developer": "florian.schmidt.stargatewissen@g",
+      "free": true,
+      "id": "florian.schmidt.stargatewissen@g",
+      "manifest": "http://juniorwebdevs.co.uk/ONeill/dev_manifest.js",
+      "roms": {
+        "marvel": true
+      },
+      "summary": "florian.schmidt.stargatewissen@gmail.com"
+    },
+    {
       "developer": "forkup",
       "id": "forkup",
       "manifest": "http://www.forkup.info/droidthemes/forkup.js",
@@ -1873,7 +1883,7 @@
       "roms": {
         "crespo": true
       },
-      "summary": "KANGY ROM's are based on the Android Open Kang Project. The ROM comes with some awesome tweaks that make it fast, smooth and reliable. Also, the battery life is superb "
+      "summary": "KANGY ROMs are based on AOKP. The ROM comes with some awesome tweaks that make it fast, smooth and reliable. Also, the battery life is superb."
     },
     {
       "developer": "Hamsterbread",
@@ -2871,6 +2881,7 @@
       "roms": {
         "ascend2": true,
         "a70": true,
+        "esteem": true,
         "ascend": true
       },
       "summary": "Remember folks, I dont get paid to do this, so donations are greatly apprciated even if its just for $1. You can donate by pressing menu > donate while viewing the ROM list or from the link on my wiki. ;)"

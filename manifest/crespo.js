@@ -149,7 +149,7 @@
       "icon": "http://developer.clockworkmod.com/downloads/4522/a04160f7948b04c333753e9016d85ee7.png",
       "id": "haka",
       "manifest": "http://developer.clockworkmod.com/developer/haka/manifest",
-      "summary": "KANGY ROM's are based on the Android Open Kang Project. The ROM comes with some awesome tweaks that make it fast, smooth and reliable. Also, the battery life is superb "
+      "summary": "KANGY ROMs are based on AOKP. The ROM comes with some awesome tweaks that make it fast, smooth and reliable. Also, the battery life is superb."
     },
     {
       "developer": "Htcclay",

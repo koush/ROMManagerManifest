@@ -26,6 +26,13 @@
       "summary": "ROMs and apps from the creator of ROM Manager!"
     },
     {
+      "developer": "florian.schmidt.stargatewissen@g",
+      "free": true,
+      "id": "florian.schmidt.stargatewissen@g",
+      "manifest": "http://juniorwebdevs.co.uk/ONeill/dev_manifest.js",
+      "summary": "florian.schmidt.stargatewissen@gmail.com"
+    },
+    {
       "developer": "Google Apps",
       "free": "true",
       "id": "google",

@@ -1347,7 +1347,7 @@
     {
       "name": "Huawei U8800",
       "version": "5.0.2.6",
-      "readonly_recovery": true,
+      "flash_recovery": "mount -o remount,rw -t vfat /dev/block/mmcblk0p1 /cust_backup ; cat %s > /cust_backup/image/recovery.img ;",
       "init": "init.u8800.rc",
       "key": "u8800",
       "lunch": "huawei_u8800-eng"

@@ -105,14 +105,6 @@
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
     {
-      "developer": "fergie716",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/2116/282c65494f46b4343328cc6a4538d214.jpeg",
-      "id": "dogstreetrefugee@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/dogstreetrefugee@gmail.com/manifest",
-      "summary": "Themes, mods and more for Nexus S and Nexus S 4G"
-    },
-    {
       "developer": "DrewGaren Roms",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",

@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+      "developer": "AmbrosialROMs",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/558/8206d5091d0ed4afc3f0bf148e9b4191.png",
+      "id": "RealPariah",
+      "manifest": "http://www.ambrosialpariah.com/ambrosialcm7/files/rom.man/acm.js",
+      "summary": "AmbrosialROMS: Bringing More Sizzle to the Bacon!"
+    },
+    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",
@@ -50,7 +58,7 @@
     },
     {
       "developer": "GingerXTBR",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/1879/e3328f776291f8c2e7b618f90bdd7b96.jpg",
       "id": "heitorfcastro@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/heitorfcastro@gmail.com/manifest",

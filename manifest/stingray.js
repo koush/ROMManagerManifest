@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "bamtaumod@gmail.com",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/4401/cd16010d91a2b42ba51ecdebe0ad8909.png",
       "id": "BamtauMod",
       "manifest": "http://developer.clockworkmod.com/developer/BamtauMod/manifest",
@@ -35,7 +35,7 @@
     },
     {
       "developer": "DrewGaren Roms",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
       "id": "drewgaren",
       "manifest": "http://developer.clockworkmod.com/developer/drewgaren/manifest",

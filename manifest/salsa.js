@@ -35,7 +35,7 @@
     },
     {
       "developer": "mikerowes69@gmail.com",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2231/a8dbbe0584c34e8cffb11d5274e21bd5",
       "id": "mikerowes69@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/mikerowes69@gmail.com/manifest",

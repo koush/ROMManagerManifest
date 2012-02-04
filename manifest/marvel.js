@@ -42,7 +42,7 @@
     },
     {
       "developer": "mstfkaratas",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/3368/ce4e37855ec7a3ab1a2a9cf07028b773.png",
       "id": "mstfkaratas@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/mstfkaratas@gmail.com/manifest",

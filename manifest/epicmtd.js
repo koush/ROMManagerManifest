@@ -50,7 +50,7 @@
     },
     {
       "developer": "StarskyROB",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2184/d2459938d5f842f608bbc4c12be194bb.jpg",
       "id": "robertstoms@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/robertstoms@gmail.com/manifest",

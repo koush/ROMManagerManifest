@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "a.judashkin@gmail.com",
-      "free": true,
+      "free": false,
       "id": "a.judashkin@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/a.judashkin@gmail.com/manifest",
       "summary": "a.judashkin@gmail.com"

@@ -74,7 +74,7 @@
     },
     {
       "developer": "@HTCrussiaTeam",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/3402/9e4ad1a68047cceb9ab07bb52ccf8cf2.png",
       "id": "stroev1996@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/stroev1996@gmail.com/manifest",

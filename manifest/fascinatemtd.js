@@ -50,7 +50,7 @@
     },
     {
       "developer": "Infinitybiff",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/653/7dc90deb235d7f8e522085e09fad294a.png",
       "id": "infinitybiff@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/infinitybiff@gmail.com/manifest",
@@ -58,7 +58,7 @@
     },
     {
       "developer": "jt1134",
-      "free": true,
+      "free": false,
       "id": "jt1134",
       "manifest": "http://developer.clockworkmod.com/developer/jt1134/manifest",
       "summary": "jt1134"
@@ -73,7 +73,7 @@
     },
     {
       "developer": "EnYo",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/633/e8973d34d142398f1d86f8c3ef789a8e.jpg",
       "id": "rfvbnji91@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/rfvbnji91@gmail.com/manifest",

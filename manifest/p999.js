@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "RG2x",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/3299/b391f2fdaadedbb24eaccc7d485e8471.png",
       "id": "RG2x",
       "manifest": "http://developer.clockworkmod.com/developer/RG2x/manifest",
@@ -10,7 +10,7 @@
     },
     {
       "developer": "Whitehawkx",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/673/7898d96c27f948a4e170d89dbe77121e.jpg",
       "id": "Whitehawkx",
       "manifest": "http://developer.clockworkmod.com/developer/Whitehawkx/manifest",
@@ -58,7 +58,7 @@
     },
     {
       "developer": "doniqcc",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/718/b2c06b2e7ab0e9c3475e324bdcba8380.png",
       "id": "eagleblood",
       "manifest": "http://developer.clockworkmod.com/developer/eagleblood/manifest",
@@ -66,7 +66,7 @@
     },
     {
       "developer": "Faux123 Custom ROMs",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/65/458f8e1774c14317e04210d456d579e0.gif",
       "id": "faux123",
       "manifest": "http://developer.clockworkmod.com/developer/faux123/manifest",
@@ -82,7 +82,7 @@
     },
     {
       "developer": "G2X SINGH-UI by: nycelitemaster",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/3518/101a2dde1542afce842ca930b94f2ead.jpg",
       "id": "jsachdev84@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/jsachdev84@gmail.com/manifest",
@@ -90,7 +90,7 @@
     },
     {
       "developer": "Lotherius",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2354/1bc84f350a4a0d99cac3cc9c3c04666b.jpg",
       "id": "lotherius",
       "manifest": "http://developer.clockworkmod.com/developer/lotherius/manifest",
@@ -98,7 +98,7 @@
     },
     {
       "developer": "x0xhellx0x",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/3376/f065110e9428fe7defad32da13782797.gif",
       "id": "x0xhellx0x",
       "manifest": "http://developer.clockworkmod.com/developer/x0xhellx0x/manifest",
@@ -106,7 +106,7 @@
     },
     {
       "developer": "Xboarder56",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/663/402e31bd0ad3f6f57f92d29c291c52d7.jpg",
       "id": "xboarder56",
       "manifest": "http://developer.clockworkmod.com/developer/xboarder56/manifest",

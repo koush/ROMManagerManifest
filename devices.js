@@ -1065,7 +1065,7 @@
         "init.smdk4210.rc"
       ],
       "version": "4.0.1.5",
-      "touch_version": "5.8.1.4",
+      "touch_version": "5.8.1.5",
       "init": "init.smdkc210.rc",
       "readonly_recovery": true,
       "legacy_versions": [
@@ -1359,7 +1359,7 @@
         "init.smdk4210.rc"
       ],
       "version": "5.0.2.6",
-      "touch_version": "5.8.1.4",
+      "touch_version": "5.8.1.5",
       "init": "init.smdkc210.rc",
       "readonly_recovery": true,
       "key": "galaxys2att",

@@ -501,7 +501,7 @@
       "name": "HTC Desire HD",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 ; ",
       "version": "5.0.2.0",
-      "touch_version": "5.8.0.2",
+      "touch_version": "5.8.1.5",
       "init": "init.spade.rc",
       "legacy_versions": [
         "3.0.2.5",
@@ -1492,6 +1492,7 @@
       "name": "Samsung Epic4G (MTD)",
       "reboot_recovery": "/system/xbin/busybox devmem 0x57fff800 32 0x5EC0B007; sync ; reboot ;",
       "version": "5.0.2.7",
+      "touch_version": "5.8.1.5",
       "init": "init.victory.rc",
       "key": "epicmtd",
       "officially_supported": false,

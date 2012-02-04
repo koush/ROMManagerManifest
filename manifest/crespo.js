@@ -14,7 +14,7 @@
       "icon": "http://developer.clockworkmod.com/downloads/2700/d6b921edddde69710341f2d2a13e7b7f.jpg",
       "id": "CyberGR-MOD|NS-NGN",
       "manifest": "http://developer.clockworkmod.com/developer/CyberGR-MOD|NS-NGN/manifest",
-      "summary": "If you are looking for a lightning fast, smooth and rock stable alternative with stock look, custom ROM, based on CM7 1.0.1 then you are in the right place!!Give it a ride to believe!"
+      "summary": "If you are looking for a lightning fast, smooth and rock stable alternative with stock look,GB or ICS custom ROM,  then you are in the right place!!Give it a ride to believe!"
     },
     {
       "developer": "KalimochoAz",

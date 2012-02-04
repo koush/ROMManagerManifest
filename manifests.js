@@ -32,7 +32,7 @@
         "galaxys2att": true,
         "glacier": true
       },
-      "summary": "My Roms latest and greatest!"
+      "summary": "Android-Maisters latest and greatest!"
     },
     {
       "developer": "AndroidInsomnia",
@@ -173,7 +173,7 @@
       "roms": {
         "crespo": true
       },
-      "summary": "If you are looking for a lightning fast, smooth and rock stable alternative with stock look, custom ROM, based on CM7 1.0.1 then you are in the right place!!Give it a ride to believe!"
+      "summary": "If you are looking for a lightning fast, smooth and rock stable alternative with stock look,GB or ICS custom ROM,  then you are in the right place!!Give it a ride to believe!"
     },
     {
       "developer": "DEVxSGS2xATT",
@@ -1528,16 +1528,6 @@
       "summary": "Cyclonic AOSP ROM"
     },
     {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
-    },
-    {
       "developer": "DrewGaren Roms",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1551,6 +1541,16 @@
         "maguro": true
       },
       "summary": "Custom Roms and Themes for your Device"
+    },
+    {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1570,9 +1570,10 @@
       "id": "dsb9938",
       "manifest": "http://developer.clockworkmod.com/developer/dsb9938/manifest",
       "roms": {
+        "vigor": true,
         "mecha": true
       },
-      "summary": "dsb9938 and thejondude"
+      "summary": "dsb9938"
     },
     {
       "developer": "Jack Michael",
@@ -1632,17 +1633,6 @@
       "summary": "earthbound.iap@gmail.com"
     },
     {
-      "developer": "Salvage-Mod Nightlies",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
-    },
-    {
       "developer": "Salvage-Mod",
       "free": "true",
       "id": "echo17",
@@ -1652,6 +1642,17 @@
         "supersonic": "true"
       },
       "summary": "GB source build. Group project."
+    },
+    {
+      "developer": "Salvage-Mod Nightlies",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -2881,22 +2882,11 @@
       "roms": {
         "ascend2": true,
         "a70": true,
+        "lg690": true,
         "esteem": true,
         "ascend": true
       },
       "summary": "Remember folks, I dont get paid to do this, so donations are greatly apprciated even if its just for $1. You can donate by pressing menu > donate while viewing the ROM list or from the link on my wiki. ;)"
-    },
-    {
-      "developer": "psyke83",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/698/37b4cd4edb1221d85e2e477eaf052be2",
-      "id": "psyke83",
-      "manifest": "http://developer.clockworkmod.com/developer/psyke83/manifest",
-      "roms": {
-        "galaxy5": true,
-        "u8160": true
-      },
-      "summary": "CyanogenMod ROMs for various devices"
     },
     {
       "developer": "t3hh4xx0r",

@@ -32,14 +32,6 @@
       "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
-    },
-    {
-      "developer": "psyke83",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/698/37b4cd4edb1221d85e2e477eaf052be2",
-      "id": "psyke83",
-      "manifest": "http://developer.clockworkmod.com/developer/psyke83/manifest",
-      "summary": "CyanogenMod ROMs for various devices"
     }
   ],
   "minversion": "4803"

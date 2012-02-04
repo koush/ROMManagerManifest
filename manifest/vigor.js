@@ -26,6 +26,14 @@
       "summary": "ROMs and apps from the creator of ROM Manager!"
     },
     {
+      "developer": "Cubed ROMs",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/66/24fcf796e1e1fc870f868d35e7cf0207.png",
+      "id": "dsb9938",
+      "manifest": "http://developer.clockworkmod.com/developer/dsb9938/manifest",
+      "summary": "dsb9938"
+    },
+    {
       "developer": "Google Apps",
       "free": "true",
       "id": "google",

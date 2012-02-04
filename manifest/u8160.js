@@ -36,7 +36,7 @@
     {
       "developer": "psyke83",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/698/37b4cd4edb1221d85e2e477eaf052be2",
+      "icon": "http://developer.clockworkmod.com/downloads/698/074ffc9076a1f373a6ea92c739f48e82.png",
       "id": "psyke83",
       "manifest": "http://psyke83.github.com/manifest.js",
       "summary": "CyanogenMod ROMs for various devices"

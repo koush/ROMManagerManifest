@@ -1,14 +1,6 @@
 {
   "manifests": [
     {
-      "developer": "AmbrosialROMs",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/558/8206d5091d0ed4afc3f0bf148e9b4191.png",
-      "id": "RealPariah",
-      "manifest": "http://www.ambrosialpariah.com/ambrosialcm7/files/rom.man/acm.js",
-      "summary": "AmbrosialROMS: Bringing More Sizzle to the Bacon!"
-    },
-    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",

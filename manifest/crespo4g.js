@@ -25,6 +25,14 @@
       "summary": "Newest Updates for Nexus S 4g Roms. geovaunie.rolando@gmail.com"
     },
     {
+      "developer": "ICS Font Packs by ThugEsquire",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4783/4fa7bfce5f106a2f627d646544a05dfe.png",
+      "id": "ThugEsquire",
+      "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
+      "summary": "ICS-compatible font packs designed for non-MIUI ROMs"
+    },
+    {
       "developer": "vhgomez36-ICS-NXS-4G",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/1672/c6744e24b10b0312603d0f837b434a2a.png",

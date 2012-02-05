@@ -619,6 +619,17 @@
       "summary": "Sense-o-Maniac - Sense 3.5 ReZound Beats ||  Bravia Engine || Bloatware free ||"
     },
     {
+      "developer": "Sinister ROM",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/400/29a8f50929b1d09f36fde793c9ff2943.png",
+      "id": "SinisterTensai",
+      "manifest": "http://sinister.goo-inside.me/Romlist.js",
+      "roms": {
+        "supersonic": true
+      },
+      "summary": "Sinister Speeds, Sinister looks"
+    },
+    {
       "developer": "SlashDW",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/567/070c76c72f1bb91a39212f6bc9bbbc0c.png",
@@ -743,13 +754,13 @@
       "summary": "Time to rock your stock!"
     },
     {
-      "developer": "Font Packs by ThugEsquire",
+      "developer": "ICS Font Packs by ThugEsquire",
       "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/4783/7e7b840ca0c469d54facd40ab795cb3e.png",
+      "icon": "http://developer.clockworkmod.com/downloads/4783/4fa7bfce5f106a2f627d646544a05dfe.png",
       "id": "ThugEsquire",
       "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
       "roms": {
-        "toro": true
+        "all": true
       },
       "summary": "ICS-compatible font packs designed for non-MIUI ROMs"
     },
@@ -1538,6 +1549,16 @@
       "summary": "Cyclonic AOSP ROM"
     },
     {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
+    },
+    {
       "developer": "DrewGaren Roms",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1551,16 +1572,6 @@
         "maguro": true
       },
       "summary": "Custom Roms and Themes for your Device"
-    },
-    {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1643,17 +1654,6 @@
       "summary": "earthbound.iap@gmail.com"
     },
     {
-      "developer": "Salvage-Mod Nightlies",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
-    },
-    {
       "developer": "Salvage-Mod",
       "free": "true",
       "id": "echo17",
@@ -1663,6 +1663,17 @@
         "supersonic": "true"
       },
       "summary": "GB source build. Group project."
+    },
+    {
+      "developer": "Salvage-Mod Nightlies",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -3485,28 +3496,6 @@
         "mecha": true
       },
       "summary": "Official downloads from Team BAMF! For awesome Sense 3.0 and HTC device ports and for full support, visit www.teambamf.net!"
-    },
-    {
-      "developer": "WFSDev Team",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/4671/fd347bd865ac699bc12d9ec65653a2e0.png",
-      "id": "wfsdev",
-      "manifest": "http://juniorwebdevs.co.uk/ONeill/dev_manifest.js",
-      "roms": {
-        "marvel": true
-      },
-      "summary": "We make your marvel better!"
-    },
-    {
-      "developer": "WFSDev Team",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/4740/9f3a896b70d3fafdf2b11aa7c5538574.png",
-      "id": "wfsdev",
-      "manifest": "http://www.juniorwebdevs.co.uk/ONeill/dev_manifest.js",
-      "roms": {
-        "marvel": true
-      },
-      "summary": "We make your marvel better!"
     },
     {
       "developer": "WJD Designs",

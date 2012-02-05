@@ -9,6 +9,14 @@
       "summary": "Compiled from CyanogenMod-7 Bravo/Desire Base with tweaks! Visit my XDA Developers project page for more information: http://forum.xda-developers.com/showpost.php?p=14676068"
     },
     {
+      "developer": "ICS Font Packs by ThugEsquire",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4783/4fa7bfce5f106a2f627d646544a05dfe.png",
+      "id": "ThugEsquire",
+      "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
+      "summary": "ICS-compatible font packs designed for non-MIUI ROMs"
+    },
+    {
       "developer": "CWR Unofficial",
       "free": true,
       "id": "arifali1@gmail.com",

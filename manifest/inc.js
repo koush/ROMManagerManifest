@@ -17,6 +17,14 @@
       "summary": "Time to rock your stock!"
     },
     {
+      "developer": "ICS Font Packs by ThugEsquire",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4783/4fa7bfce5f106a2f627d646544a05dfe.png",
+      "id": "ThugEsquire",
+      "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
+      "summary": "ICS-compatible font packs designed for non-MIUI ROMs"
+    },
+    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",

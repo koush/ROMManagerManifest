@@ -9,6 +9,14 @@
       "summary": "CyanogenMod 7 for the Motorola Cliq/Dext. DO NOT WIPE DATA/CACHE. Our ROM's have a wipe patch included. If you wipe, reinstall without wiping. Please remember DO NOT BACKUP ROM OR WIPE DATA/FACTORY RESET THROUGH ROM MANAGER! "
     },
     {
+      "developer": "ICS Font Packs by ThugEsquire",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4783/4fa7bfce5f106a2f627d646544a05dfe.png",
+      "id": "ThugEsquire",
+      "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
+      "summary": "ICS-compatible font packs designed for non-MIUI ROMs"
+    },
+    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",

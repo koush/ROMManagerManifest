@@ -24,6 +24,14 @@
       "summary": "Various Android Mods"
     },
     {
+      "developer": "ICS Font Packs by ThugEsquire",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4783/4fa7bfce5f106a2f627d646544a05dfe.png",
+      "id": "ThugEsquire",
+      "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
+      "summary": "ICS-compatible font packs designed for non-MIUI ROMs"
+    },
+    {
       "developer": "Blahbl4hblah",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/289/f50f109fd0e925ebc88d9d0d350411c1.jpg",

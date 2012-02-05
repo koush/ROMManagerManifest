@@ -43,6 +43,14 @@
       "summary": "An AOSP Motorola Droid ROM with some extras"
     },
     {
+      "developer": "ICS Font Packs by ThugEsquire",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4783/4fa7bfce5f106a2f627d646544a05dfe.png",
+      "id": "ThugEsquire",
+      "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
+      "summary": "ICS-compatible font packs designed for non-MIUI ROMs"
+    },
+    {
       "developer": "WolfRoms",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/704/22baaaa7d15d504f2d43eb8a2980cea9.jpg",

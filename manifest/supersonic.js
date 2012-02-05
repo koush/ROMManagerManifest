@@ -23,6 +23,22 @@
       "summary": "OMJ's HTC EVO ROMs"
     },
     {
+      "developer": "Sinister ROM",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/400/29a8f50929b1d09f36fde793c9ff2943.png",
+      "id": "SinisterTensai",
+      "manifest": "http://sinister.goo-inside.me/Romlist.js",
+      "summary": "Sinister Speeds, Sinister looks"
+    },
+    {
+      "developer": "ICS Font Packs by ThugEsquire",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4783/4fa7bfce5f106a2f627d646544a05dfe.png",
+      "id": "ThugEsquire",
+      "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
+      "summary": "ICS-compatible font packs designed for non-MIUI ROMs"
+    },
+    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",
@@ -79,20 +95,20 @@
       "summary": "Updates for stock ROMs, radio, hboot"
     },
     {
-      "developer": "Salvage-Mod Nightlies",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
-      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
-    },
-    {
       "developer": "Salvage-Mod",
       "free": "true",
       "id": "echo17",
       "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
       "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
       "summary": "GB source build. Group project."
+    },
+    {
+      "developer": "Salvage-Mod Nightlies",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
+      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
     },
     {
       "developer": "Fresh",

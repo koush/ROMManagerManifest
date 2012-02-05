@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+      "developer": "ICS Font Packs by ThugEsquire",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4783/4fa7bfce5f106a2f627d646544a05dfe.png",
+      "id": "ThugEsquire",
+      "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
+      "summary": "ICS-compatible font packs designed for non-MIUI ROMs"
+    },
+    {
       "developer": "Shadow Hawk ROM",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2519/a8de366b3b4156ddf95604e67a351db4.jpg",

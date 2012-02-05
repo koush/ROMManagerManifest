@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+      "developer": "ICS Font Packs by ThugEsquire",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4783/4fa7bfce5f106a2f627d646544a05dfe.png",
+      "id": "ThugEsquire",
+      "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
+      "summary": "ICS-compatible font packs designed for non-MIUI ROMs"
+    },
+    {
       "developer": "CM7/MIUI Modems",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/906/345cd0c4eb6761583217eca857969c4a.png",

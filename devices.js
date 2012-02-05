@@ -1581,6 +1581,15 @@
       ],
       "key": "vigor",
       "lunch": "full_vigor-userdebug"
+    },
+    {
+      "name": "HTC Express",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ;",
+      "touch_version": "5.8.1.5",
+      "version": "5.8.1.5",
+      "init": "init.express.rc",
+      "key": "express",
+      "lunch": "full_express-userdebug"
     }
   ],
   "use_in_app": false,

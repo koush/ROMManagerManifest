@@ -1279,6 +1279,16 @@
       "summary": "Source-based mods made by CVPCS"
     },
     {
+      "developer": "u8230/u8220",
+      "free": false,
+      "id": "cyanogenmod",
+      "manifest": "http://developer.clockworkmod.com/developer/cyanogenmod/manifest",
+      "roms": {
+        "pulse": true
+      },
+      "summary": "u8230/u8220"
+    },
+    {
       "developer": "CyanogenMod",
       "free": "true",
       "id": "cyanogenmod",
@@ -1351,16 +1361,6 @@
         "mesmerizemtd": "true"
       },
       "summary": "Mods and bacon for your phone"
-    },
-    {
-      "developer": "u8230/u8220",
-      "free": false,
-      "id": "cyanogenmod",
-      "manifest": "http://developer.clockworkmod.com/developer/cyanogenmod/manifest",
-      "roms": {
-        "pulse": true
-      },
-      "summary": "u8230/u8220"
     },
     {
       "developer": "CM7 Nightlies",

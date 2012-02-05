@@ -81,6 +81,14 @@
       "summary": "Roms modificadas para gran rendimiento y minimo consumo,con multitud de mods"
     },
     {
+      "developer": "simone201",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4718/9675b2179134fab152993ba81ed2c425.jpg",
+      "id": "simone201@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/simone201@gmail.com/manifest",
+      "summary": "N.E.A.K. Kernel for I9100 Dev"
+    },
+    {
       "developer": "Novek",
       "free": false,
       "id": "trondkevin@gmail.com",

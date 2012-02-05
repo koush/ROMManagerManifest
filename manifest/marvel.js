@@ -47,6 +47,22 @@
       "id": "mstfkaratas@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/mstfkaratas@gmail.com/manifest",
       "summary": "ROM's for Marvel"
+    },
+    {
+      "developer": "WFSDev Team",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/4740/9f3a896b70d3fafdf2b11aa7c5538574.png",
+      "id": "wfsdev",
+      "manifest": "http://www.juniorwebdevs.co.uk/ONeill/dev_manifest.js",
+      "summary": "We make your marvel better!"
+    },
+    {
+      "developer": "WFSDev Team",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/4671/fd347bd865ac699bc12d9ec65653a2e0.png",
+      "id": "wfsdev",
+      "manifest": "http://juniorwebdevs.co.uk/ONeill/dev_manifest.js",
+      "summary": "We make your marvel better!"
     }
   ],
   "minversion": "4803"

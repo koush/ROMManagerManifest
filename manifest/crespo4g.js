@@ -57,6 +57,14 @@
       "summary": "Stable AOSP-based ROM"
     },
     {
+      "developer": "burnsra",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/7/d300120dba4a6899701917eecf2be201.png",
+      "id": "burnsra@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/burnsra@gmail.com/manifest",
+      "summary": "CyanogenMod ICS Alpha Releases"
+    },
+    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",

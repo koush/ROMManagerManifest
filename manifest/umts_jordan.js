@@ -56,6 +56,14 @@
       "id": "tanguy.pruvot@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/tanguy.pruvot@gmail.com/manifest",
       "summary": "Stable but unofficial RC and Release"
+    },
+    {
+      "developer": "XDA CM7 Nightlies",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/541/91afee5f3ad77376b65aa60038c4979c.png",
+      "id": "tanguy.pruvot@gmail.com",
+      "manifest": "http://tpruvot.free.fr/rm/custom.js",
+      "summary": "XDA CM7 Original Nightly builds. tpruvot@github"
     }
   ],
   "minversion": "4803"

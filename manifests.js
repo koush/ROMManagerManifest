@@ -1057,6 +1057,17 @@
       "summary": "Slim, fast, stable Samsung Vibrant Roms"
     },
     {
+      "developer": "burnsra",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/7/d300120dba4a6899701917eecf2be201.png",
+      "id": "burnsra@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/burnsra@gmail.com/manifest",
+      "roms": {
+        "crespo4g": true
+      },
+      "summary": "CyanogenMod ICS Alpha Releases"
+    },
+    {
       "developer": "RCTeam RCMix",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1530/f04bed0f7cd255a5a017bf4abacd6884.png",
@@ -1621,17 +1632,6 @@
       "summary": "earthbound.iap@gmail.com"
     },
     {
-      "developer": "Salvage-Mod Nightlies",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
-    },
-    {
       "developer": "Salvage-Mod",
       "free": "true",
       "id": "echo17",
@@ -1641,6 +1641,17 @@
         "supersonic": "true"
       },
       "summary": "GB source build. Group project."
+    },
+    {
+      "developer": "Salvage-Mod Nightlies",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -1943,6 +1954,16 @@
       "summary": "Go Go Go!"
     },
     {
+      "developer": "HyperDroid",
+      "free": "true",
+      "id": "hyperdroid",
+      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
+      "roms": {
+        "leo": "true"
+      },
+      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
+    },
+    {
       "developer": "HyperDroid CM7",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
@@ -1952,16 +1973,6 @@
         "leo": true
       },
       "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
-    },
-    {
-      "developer": "HyperDroid",
-      "free": "true",
-      "id": "hyperdroid",
-      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
-      "roms": {
-        "leo": "true"
-      },
-      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
     },
     {
       "developer": "iblaststatic2020",
@@ -2559,14 +2570,15 @@
         "vivo": true,
         "vibrantmtd": true,
         "ace": true,
+        "bravo": true,
         "umts_jordan": true,
         "passion": true,
         "galaxys": true,
         "captivate": true,
         "vibrant": true,
         "captivatemtd": true,
-        "saga": true,
         "crespo": true,
+        "saga": true,
         "vision": true,
         "galaxys2": true,
         "galaxysmtd": true,
@@ -3083,6 +3095,17 @@
       "summary": "ROM's for HTC Desire and extras"
     },
     {
+      "developer": "simone201",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4718/9675b2179134fab152993ba81ed2c425.jpg",
+      "id": "simone201@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/simone201@gmail.com/manifest",
+      "roms": {
+        "galaxys2": true
+      },
+      "summary": "N.E.A.K. Kernel for I9100 Dev"
+    },
+    {
       "developer": "siulmagic",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/198/8e366a4e34c56d2a83c384b8cff73b88.jpg",
@@ -3200,6 +3223,17 @@
         "umts_jordan": true
       },
       "summary": "Stable but unofficial RC and Release"
+    },
+    {
+      "developer": "XDA CM7 Nightlies",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/541/91afee5f3ad77376b65aa60038c4979c.png",
+      "id": "tanguy.pruvot@gmail.com",
+      "manifest": "http://tpruvot.free.fr/rm/custom.js",
+      "roms": {
+        "umts_jordan": true
+      },
+      "summary": "XDA CM7 Original Nightly builds. tpruvot@github"
     },
     {
       "developer": "Cyanogenmod 9",
@@ -3429,6 +3463,28 @@
         "mecha": true
       },
       "summary": "Official downloads from Team BAMF! For awesome Sense 3.0 and HTC device ports and for full support, visit www.teambamf.net!"
+    },
+    {
+      "developer": "WFSDev Team",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/4740/9f3a896b70d3fafdf2b11aa7c5538574.png",
+      "id": "wfsdev",
+      "manifest": "http://www.juniorwebdevs.co.uk/ONeill/dev_manifest.js",
+      "roms": {
+        "marvel": true
+      },
+      "summary": "We make your marvel better!"
+    },
+    {
+      "developer": "WFSDev Team",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/4671/fd347bd865ac699bc12d9ec65653a2e0.png",
+      "id": "wfsdev",
+      "manifest": "http://juniorwebdevs.co.uk/ONeill/dev_manifest.js",
+      "roms": {
+        "marvel": true
+      },
+      "summary": "We make your marvel better!"
     },
     {
       "developer": "WJD Designs",

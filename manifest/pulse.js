@@ -1,13 +1,6 @@
 {
   "manifests": [
     {
-      "developer": "a.judashkin@gmail.com",
-      "free": false,
-      "id": "a.judashkin@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/a.judashkin@gmail.com/manifest",
-      "summary": "a.judashkin@gmail.com"
-    },
-    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",
@@ -31,6 +24,13 @@
       "icon": "http://bit.ly/xOLFbJ",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
       "summary": "ROMs and apps from the creator of ROM Manager!"
+    },
+    {
+      "developer": "u8230/u8220",
+      "free": false,
+      "id": "cyanogenmod",
+      "manifest": "http://developer.clockworkmod.com/developer/cyanogenmod/manifest",
+      "summary": "u8230/u8220"
     },
     {
       "developer": "Google Apps",

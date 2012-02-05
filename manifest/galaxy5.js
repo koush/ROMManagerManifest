@@ -79,6 +79,14 @@
       "id": "psyke83",
       "manifest": "http://psyke83.github.com/manifest.js",
       "summary": "CyanogenMod ROMs for various devices"
+    },
+    {
+      "developer": "Stock Images",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4418/a595ef138e78e7268152925946bf6c53.jpg",
+      "id": "stockimages",
+      "manifest": "http://developer.clockworkmod.com/developer/stockimages/manifest",
+      "summary": "Revert back to stock phone firmwares."
     }
   ],
   "minversion": "4803"

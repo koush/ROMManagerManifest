@@ -24,6 +24,14 @@
       "summary": "deodexed@gmail.com"
     },
     {
+      "developer": "Font Packs by ThugEsquire",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4783/7e7b840ca0c469d54facd40ab795cb3e.png",
+      "id": "ThugEsquire",
+      "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
+      "summary": "ICS-compatible font packs designed for non-MIUI ROMs"
+    },
+    {
       "developer": "DroidVicious",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/3654/1644fc3daed4db257d1ba2506a938241.png",

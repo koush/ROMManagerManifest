@@ -743,6 +743,17 @@
       "summary": "Time to rock your stock!"
     },
     {
+      "developer": "Font Packs by ThugEsquire",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4783/7e7b840ca0c469d54facd40ab795cb3e.png",
+      "id": "ThugEsquire",
+      "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
+      "roms": {
+        "toro": true
+      },
+      "summary": "ICS-compatible font packs designed for non-MIUI ROMs"
+    },
+    {
       "developer": "ThunderStick",
       "free": "true",
       "id": "ThunderStick",
@@ -799,16 +810,6 @@
         "sholes": true
       },
       "summary": "Welcome to the pack"
-    },
-    {
-      "developer": "a.judashkin@gmail.com",
-      "free": false,
-      "id": "a.judashkin@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/a.judashkin@gmail.com/manifest",
-      "roms": {
-        "pulse": true
-      },
-      "summary": "a.judashkin@gmail.com"
     },
     {
       "developer": "Sapo a5 Blog Team",
@@ -1341,6 +1342,16 @@
       "summary": "Mods and bacon for your phone"
     },
     {
+      "developer": "u8230/u8220",
+      "free": false,
+      "id": "cyanogenmod",
+      "manifest": "http://developer.clockworkmod.com/developer/cyanogenmod/manifest",
+      "roms": {
+        "pulse": true
+      },
+      "summary": "u8230/u8220"
+    },
+    {
       "developer": "CM7 Nightlies",
       "free": "true",
       "id": "cyanogenmodleonightly",
@@ -1527,16 +1538,6 @@
       "summary": "Cyclonic AOSP ROM"
     },
     {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
-    },
-    {
       "developer": "DrewGaren Roms",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1550,6 +1551,16 @@
         "maguro": true
       },
       "summary": "Custom Roms and Themes for your Device"
+    },
+    {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1632,17 +1643,6 @@
       "summary": "earthbound.iap@gmail.com"
     },
     {
-      "developer": "Salvage-Mod",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "GB source build. Group project."
-    },
-    {
       "developer": "Salvage-Mod Nightlies",
       "free": "true",
       "id": "echo17",
@@ -1652,6 +1652,17 @@
         "supersonic": "true"
       },
       "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
+    },
+    {
+      "developer": "Salvage-Mod",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "GB source build. Group project."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -3172,6 +3183,17 @@
       "summary": "Revert back to stock phone images."
     },
     {
+      "developer": "Stock Images",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4418/a595ef138e78e7268152925946bf6c53.jpg",
+      "id": "stockimages",
+      "manifest": "http://developer.clockworkmod.com/developer/stockimages/manifest",
+      "roms": {
+        "galaxy5": true
+      },
+      "summary": "Revert back to stock phone firmwares."
+    },
+    {
       "developer": "StrifeJester",
       "free": false,
       "id": "strifejester",
@@ -3467,9 +3489,9 @@
     {
       "developer": "WFSDev Team",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/4740/9f3a896b70d3fafdf2b11aa7c5538574.png",
+      "icon": "http://developer.clockworkmod.com/downloads/4671/fd347bd865ac699bc12d9ec65653a2e0.png",
       "id": "wfsdev",
-      "manifest": "http://www.juniorwebdevs.co.uk/ONeill/dev_manifest.js",
+      "manifest": "http://juniorwebdevs.co.uk/ONeill/dev_manifest.js",
       "roms": {
         "marvel": true
       },
@@ -3478,9 +3500,9 @@
     {
       "developer": "WFSDev Team",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/4671/fd347bd865ac699bc12d9ec65653a2e0.png",
+      "icon": "http://developer.clockworkmod.com/downloads/4740/9f3a896b70d3fafdf2b11aa7c5538574.png",
       "id": "wfsdev",
-      "manifest": "http://juniorwebdevs.co.uk/ONeill/dev_manifest.js",
+      "manifest": "http://www.juniorwebdevs.co.uk/ONeill/dev_manifest.js",
       "roms": {
         "marvel": true
       },

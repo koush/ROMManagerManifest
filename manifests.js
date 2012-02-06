@@ -1279,6 +1279,16 @@
       "summary": "Source-based mods made by CVPCS"
     },
     {
+      "developer": "u8230/u8220",
+      "free": false,
+      "id": "cyanogenmod",
+      "manifest": "http://developer.clockworkmod.com/developer/cyanogenmod/manifest",
+      "roms": {
+        "pulse": true
+      },
+      "summary": "u8230/u8220"
+    },
+    {
       "developer": "CyanogenMod",
       "free": "true",
       "id": "cyanogenmod",
@@ -1351,16 +1361,6 @@
         "mesmerizemtd": "true"
       },
       "summary": "Mods and bacon for your phone"
-    },
-    {
-      "developer": "u8230/u8220",
-      "free": false,
-      "id": "cyanogenmod",
-      "manifest": "http://developer.clockworkmod.com/developer/cyanogenmod/manifest",
-      "roms": {
-        "pulse": true
-      },
-      "summary": "u8230/u8220"
     },
     {
       "developer": "CM7 Nightlies",
@@ -1461,7 +1461,6 @@
     },
     {
       "developer": "codeworkx",
-      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/51/ccfa626333bc4ce102ee8c654a4fec6b.png",
       "id": "daniel.hillenbrand@codeworkx.de",
       "manifest": "http://developer.clockworkmod.com/developer/daniel.hillenbrand@codeworkx.de/manifest",
@@ -1549,6 +1548,16 @@
       "summary": "Cyclonic AOSP ROM"
     },
     {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
+    },
+    {
       "developer": "DrewGaren Roms",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1562,16 +1571,6 @@
         "maguro": true
       },
       "summary": "Custom Roms and Themes for your Device"
-    },
-    {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1654,17 +1653,6 @@
       "summary": "earthbound.iap@gmail.com"
     },
     {
-      "developer": "Salvage-Mod",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "GB source build. Group project."
-    },
-    {
       "developer": "Salvage-Mod Nightlies",
       "free": "true",
       "id": "echo17",
@@ -1674,6 +1662,17 @@
         "supersonic": "true"
       },
       "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
+    },
+    {
+      "developer": "Salvage-Mod",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "GB source build. Group project."
     },
     {
       "developer": "Dalingrin's Test Builds",
@@ -2332,7 +2331,6 @@
     },
     {
       "developer": "kornyone@gmail.com",
-      "free": true,
       "id": "kornyone@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/kornyone@gmail.com/manifest",
       "roms": {
@@ -2683,17 +2681,6 @@
         "marvel": true
       },
       "summary": "ROM's for Marvel"
-    },
-    {
-      "developer": "Marcusant",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/2192/81921142812f2eae392bcc8994e21a02.png",
-      "id": "mstojcevich@gmail.com",
-      "manifest": "http://instabrick.me/marcusant/manifest.js",
-      "roms": {
-        "epicmtd": true
-      },
-      "summary": "ROMs, mods and themes made by Marcusant"
     },
     {
       "developer": "mmmcfc",

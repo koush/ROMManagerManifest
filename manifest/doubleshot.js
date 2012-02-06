@@ -43,7 +43,6 @@
     },
     {
       "developer": "kornyone@gmail.com",
-      "free": true,
       "id": "kornyone@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/kornyone@gmail.com/manifest",
       "summary": "kornyone@gmail.com"

@@ -50,7 +50,6 @@
     },
     {
       "developer": "codeworkx",
-      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/51/ccfa626333bc4ce102ee8c654a4fec6b.png",
       "id": "daniel.hillenbrand@codeworkx.de",
       "manifest": "http://developer.clockworkmod.com/developer/daniel.hillenbrand@codeworkx.de/manifest",

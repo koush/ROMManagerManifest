@@ -2,12 +2,12 @@
     "manifests": [
     {
         "featured": true,
-        "developer": "ClockworkMod",
+        "developer": "Featured Apps",
         "icon": "http://bit.ly/xOLFbJ",
         "id": "clockworkmod",
         "free": "true",
         "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
-        "summary": "ROMs and apps from the creator of ROM Manager!",
+        "summary": "Awesome ROMs and apps from the creator of ROM Manager and others!",
         "roms": {
             "all": true
         }

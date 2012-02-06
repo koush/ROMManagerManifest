@@ -1183,7 +1183,7 @@
       "summary": "Cuntomized ROMs for your Android device!"
     },
     {
-      "developer": "ClockworkMod",
+      "developer": "Featured Apps",
       "featured": true,
       "free": "true",
       "id": "clockworkmod",
@@ -1192,7 +1192,7 @@
       "roms": {
         "all": true
       },
-      "summary": "ROMs and apps from the creator of ROM Manager!"
+      "summary": "Awesome ROMs and apps from the creator of ROM Manager and others!"
     },
     {
       "developer": "Codename Android",

@@ -18,6 +18,12 @@
         "icon": "https://github.com/ClockworkMod/artwork/raw/master/rommanager/clockwork128.png",
         "summary": "You're using it! This is a quick link to the Market for updates.",
         "packagename": "com.koushikdutta.rommanager"
+    },
+    {
+      "name": "SeekDroid",
+      "icon": "http://bit.ly/xCuucP",
+      "url": "http://bit.ly/wY6XaD",
+      "summary": "Track and secure your Android Device for only $4.99!"
     }
     ],
     "roms": [

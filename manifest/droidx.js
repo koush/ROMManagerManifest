@@ -86,19 +86,19 @@
       "summary": "Source-based mods made by CVPCS"
     },
     {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "summary": "Roms and More, Must have Froyo Installed Prior"
-    },
-    {
       "developer": "DrewGaren Roms",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
       "id": "drewgaren",
       "manifest": "http://developer.clockworkmod.com/developer/drewgaren/manifest",
       "summary": "Custom Roms and Themes for your Device"
+    },
+    {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "Fabolous",

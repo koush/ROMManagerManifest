@@ -1558,16 +1558,6 @@
       "summary": "Cyclonic AOSP ROM"
     },
     {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
-    },
-    {
       "developer": "DrewGaren Roms",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1581,6 +1571,16 @@
         "maguro": true
       },
       "summary": "Custom Roms and Themes for your Device"
+    },
+    {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "EVO Stock and Radios",
@@ -1663,17 +1663,6 @@
       "summary": "earthbound.iap@gmail.com"
     },
     {
-      "developer": "Salvage-Mod Nightlies",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
-    },
-    {
       "developer": "Salvage-Mod",
       "free": "true",
       "id": "echo17",
@@ -1683,6 +1672,17 @@
         "supersonic": "true"
       },
       "summary": "GB source build. Group project."
+    },
+    {
+      "developer": "Salvage-Mod Nightlies",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
     },
     {
       "developer": "Dalingrin's Test Builds",

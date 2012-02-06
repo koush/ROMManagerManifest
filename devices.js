@@ -922,6 +922,7 @@
       "name": "HTC Desire S",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 ; ",
       "version": "5.0.2.0",
+      "touch_version": "5.8.1.5",
       "init": "init.saga.rc",
       "legacy_versions": [
         "3.0.2.6",

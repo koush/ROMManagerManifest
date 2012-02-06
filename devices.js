@@ -1601,5 +1601,5 @@
   "pontiflex_startup_ad": 100,
   "ad_network": "admob",
   "keywords": "phone accessories,droid,gadgets,bluetooth headset,car charger,sd card",
-  "manifest_signature": "NpjbRgtJ8oEuTkuFok+Gy5q1lzTvJ+wVSdzMcJA8VD4mdDG45cUc5rOHrMpvmepTDM+9/rcrM5oEzc3zhqedjJkFuway+lo5Xu33ELQafOXDs8VMTuNfjeAH7x8pNXl4UwiH3Ht51kaZBF0KGJHJVuuFUSiIcZkrP8J5yObS1NY="
+  "manifest_signature": "O8+Kc2mdQz0e/AjCQn6Rw6fK5Kr5LZItJ474Ua3gF2o4IgdCQZXIbwCHIo6xeqY3pVEGtjYmmyO1PkRYcGqq2rB2wQM8SoKFl/70vG0ihEZ5TDeruKUgxVVSNM3e09kBvCxYK89GWqVWkNHtvTu1T1F9w6FilzCsNFSAXHD0Bos="
 }

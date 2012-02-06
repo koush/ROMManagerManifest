@@ -49,6 +49,14 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
+      "developer": "Marcusant",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/2192/81921142812f2eae392bcc8994e21a02.png",
+      "id": "mstojcevich@gmail.com",
+      "manifest": "http://instabrick.me/marcusant/manifest.js",
+      "summary": "ROMs, mods and themes made by Marcusant"
+    },
+    {
       "developer": "StarskyROB",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2184/d2459938d5f842f608bbc4c12be194bb.jpg",

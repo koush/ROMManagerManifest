@@ -96,5 +96,5 @@
       "summary": "MyUI - Votre MIUI parfaite, Your perfect MIUI - Team MyUI @ 2011"
     }
   ],
-  "minversion": "4803"
+  "minversion": "5005"
 }

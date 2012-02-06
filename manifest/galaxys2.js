@@ -103,5 +103,5 @@
       "summary": "Happy XDA'er"
     }
   ],
-  "minversion": "4803"
+  "minversion": "5005"
 }

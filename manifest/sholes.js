@@ -235,5 +235,5 @@
       "summary": "Custom ROMs for the Motorola Droid"
     }
   ],
-  "minversion": "4803"
+  "minversion": "5005"
 }

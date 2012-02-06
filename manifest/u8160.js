@@ -50,5 +50,5 @@
       "summary": "CyanogenMod ROMs for various devices"
     }
   ],
-  "minversion": "4803"
+  "minversion": "5005"
 }

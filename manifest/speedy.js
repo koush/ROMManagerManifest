@@ -112,5 +112,5 @@
       "summary": "U.K.E. AOSP ROM"
     }
   ],
-  "minversion": "4803"
+  "minversion": "5005"
 }

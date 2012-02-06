@@ -97,5 +97,5 @@
       "summary": "Revert back to stock phone firmwares."
     }
   ],
-  "minversion": "4803"
+  "minversion": "5005"
 }

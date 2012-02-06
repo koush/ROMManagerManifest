@@ -80,5 +80,5 @@
       "summary": "An AOSP ROM using the latest CM/EzGB sources for D/S, supporting EBI0, 2708, EBI1 devices"
     }
   ],
-  "minversion": "4803"
+  "minversion": "5005"
 }

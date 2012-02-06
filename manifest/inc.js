@@ -172,5 +172,5 @@
       "summary": "Rosie like you've never seen her before."
     }
   ],
-  "minversion": "4803"
+  "minversion": "5005"
 }

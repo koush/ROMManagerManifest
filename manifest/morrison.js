@@ -73,5 +73,5 @@
       "summary": "An AOSP style CM7 with various tweaks to help make it run smoother."
     }
   ],
-  "minversion": "4803"
+  "minversion": "5005"
 }

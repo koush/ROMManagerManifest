@@ -112,5 +112,5 @@
       "summary": "Seaders stable one, based on LEO 2.3.7 sources, tweaked with tablet-functions, audio/lights/sensor/gps fixes, custom settings and deleted/added/switched apps. http://bit.ly/nnx6qf for details (german). Last Version 2.0.0 for MAGLDR too!"
     }
   ],
-  "minversion": "4803"
+  "minversion": "5005"
 }

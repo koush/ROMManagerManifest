@@ -65,5 +65,5 @@
       "summary": "ROMS made by toadlife"
     }
   ],
-  "minversion": "4803"
+  "minversion": "5005"
 }

@@ -66,5 +66,5 @@
       "summary": "Hi, Im xboarder56 a 16 year old kid and make alot of roms for diffrent devices enjoy my work guys :D"
     }
   ],
-  "minversion": "4803"
+  "minversion": "5005"
 }

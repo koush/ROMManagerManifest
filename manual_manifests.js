@@ -883,5 +883,5 @@
         "summary": "Triple protection for your Android device"
     }
     ],
-    "minversion": "4803"
+    "minversion": "5005"
 }

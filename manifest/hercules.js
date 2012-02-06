@@ -66,5 +66,5 @@
       "summary": "Tmobile Samsung Galaxy S II - T989 || Stock || Bloat Free || Rooted || Su || Busybox = STREAMLINED || Perfect for Base."
     }
   ],
-  "minversion": "4803"
+  "minversion": "5005"
 }

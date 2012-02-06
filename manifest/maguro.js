@@ -113,5 +113,5 @@
       "summary": "Newer builds at download.peteralfonso.com"
     }
   ],
-  "minversion": "4803"
+  "minversion": "5005"
 }

@@ -1538,8 +1538,11 @@
         "init.mapphone_cdma.rc"
       ],
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p10 bs=4096 ;",
-      "version": "5.0.2.7",
+      "version": "5.0.2.8",
       "init": "init.mapphone_umts.rc",
+      "legacy_versions": [
+        "5.0.2.7"
+      ],
       "key": "sunfire",
       "lunch": "full_sunfire-eng"
     },
@@ -1563,6 +1566,9 @@
       ],
       "version": "5.0.2.8",
       "init": "init.u8160.rc",
+      "legacy_versions": [
+        "5.0.2.8"
+      ],
       "key": "u8160",
       "lunch": "huawei_u8160-eng"
     },

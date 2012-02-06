@@ -25,12 +25,12 @@
       "summary": "Newest Updates for Nexus S 4g Roms. geovaunie.rolando@gmail.com"
     },
     {
-      "developer": "ICS Font Packs by ThugEsquire",
+      "developer": "Font Packs for Android 4.0",
       "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/4783/4fa7bfce5f106a2f627d646544a05dfe.png",
+      "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",
       "id": "ThugEsquire",
       "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
-      "summary": "ICS-compatible font packs designed for non-MIUI ROMs"
+      "summary": "Font packs for Android 4.0 (Ice Cream Sandwich) ONLY. Will not work on Android 2.x (Froyo/Gingerbread)."
     },
     {
       "developer": "vhgomez36-ICS-NXS-4G",
@@ -182,13 +182,13 @@
       "summary": "StrifeJester AOSP Builds"
     },
     {
-      "developer": "Cyanogenmod 9",
+      "developer": "02.06.12 Cyanogenmod 9 02.06.12",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/3689/a9b19371becc0114d10824ab774ba547.jpg",
-      "id": "taylor.cox75@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/taylor.cox75@gmail.com/manifest",
-      "summary": "idk why I'm not at the top of the Rom List ;(  "
+      "id": "taylorcox75@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/taylorcox75@gmail.com/manifest",
+      "summary": "Last Update: 02.06.12  STABLE"
     }
   ],
-  "minversion": "4803"
+  "minversion": "5006"
 }

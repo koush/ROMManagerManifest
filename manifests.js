@@ -54,6 +54,16 @@
       "summary": "Themes for Cyanogen on the Droid."
     },
     {
+      "developer": "BAJI",
+      "free": false,
+      "id": "BAJI",
+      "manifest": "http://developer.clockworkmod.com/developer/BAJI/manifest",
+      "roms": {
+        "p999": true
+      },
+      "summary": "Miui Ports from Android, US and Galnet."
+    },
+    {
       "developer": "Baadnewz",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2313/9eed3cf860cea96cf5d5a6f190115dfe.jpg",
@@ -754,15 +764,15 @@
       "summary": "Time to rock your stock!"
     },
     {
-      "developer": "ICS Font Packs by ThugEsquire",
+      "developer": "Font Packs for Android 4.0",
       "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/4783/4fa7bfce5f106a2f627d646544a05dfe.png",
+      "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",
       "id": "ThugEsquire",
       "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
       "roms": {
         "all": true
       },
-      "summary": "ICS-compatible font packs designed for non-MIUI ROMs"
+      "summary": "Font packs for Android 4.0 (Ice Cream Sandwich) ONLY. Will not work on Android 2.x (Froyo/Gingerbread)."
     },
     {
       "developer": "ThunderStick",
@@ -1975,6 +1985,16 @@
       "summary": "Go Go Go!"
     },
     {
+      "developer": "HyperDroid",
+      "free": "true",
+      "id": "hyperdroid",
+      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
+      "roms": {
+        "leo": "true"
+      },
+      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
+    },
+    {
       "developer": "HyperDroid CM7",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
@@ -1984,16 +2004,6 @@
         "leo": true
       },
       "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
-    },
-    {
-      "developer": "HyperDroid",
-      "free": "true",
-      "id": "hyperdroid",
-      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
-      "roms": {
-        "leo": "true"
-      },
-      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
     },
     {
       "developer": "iblaststatic2020",
@@ -2683,6 +2693,17 @@
       "summary": "ROM's for Marvel"
     },
     {
+      "developer": "Marcusant",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/2192/81921142812f2eae392bcc8994e21a02.png",
+      "id": "mstojcevich@gmail.com",
+      "manifest": "http://instabrick.me/marcusant/manifest.js",
+      "roms": {
+        "epicmtd": true
+      },
+      "summary": "ROMs, mods and themes made by Marcusant"
+    },
+    {
       "developer": "mmmcfc",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2217/15386be30d902d0a62b5ce4c114edf3b.png",
@@ -3181,17 +3202,6 @@
       "summary": "Revert back to stock phone images."
     },
     {
-      "developer": "Stock Images",
-      "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/4418/a595ef138e78e7268152925946bf6c53.jpg",
-      "id": "stockimages",
-      "manifest": "http://developer.clockworkmod.com/developer/stockimages/manifest",
-      "roms": {
-        "galaxy5": true
-      },
-      "summary": "Revert back to stock phone firmwares."
-    },
-    {
       "developer": "StrifeJester",
       "free": false,
       "id": "strifejester",
@@ -3234,17 +3244,6 @@
       "summary": "t.dorie@gmail.com"
     },
     {
-      "developer": "CyanogenDefy Stable",
-      "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
-      "id": "tanguy.pruvot@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/tanguy.pruvot@gmail.com/manifest",
-      "roms": {
-        "umts_jordan": true
-      },
-      "summary": "Stable but unofficial RC and Release"
-    },
-    {
       "developer": "XDA CM7 Nightlies",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/541/91afee5f3ad77376b65aa60038c4979c.png",
@@ -3256,15 +3255,26 @@
       "summary": "XDA CM7 Original Nightly builds. tpruvot@github"
     },
     {
-      "developer": "Cyanogenmod 9",
+      "developer": "CyanogenDefy Stable",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
+      "id": "tanguy.pruvot@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/tanguy.pruvot@gmail.com/manifest",
+      "roms": {
+        "umts_jordan": true
+      },
+      "summary": "Stable but unofficial RC and Release"
+    },
+    {
+      "developer": "02.06.12 Cyanogenmod 9 02.06.12",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/3689/a9b19371becc0114d10824ab774ba547.jpg",
-      "id": "taylor.cox75@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/taylor.cox75@gmail.com/manifest",
+      "id": "taylorcox75@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/taylorcox75@gmail.com/manifest",
       "roms": {
         "crespo4g": true
       },
-      "summary": "idk why I'm not at the top of the Rom List ;(  "
+      "summary": "Last Update: 02.06.12  STABLE"
     },
     {
       "developer": "MyUI",
@@ -3485,6 +3495,17 @@
       "summary": "Official downloads from Team BAMF! For awesome Sense 3.0 and HTC device ports and for full support, visit www.teambamf.net!"
     },
     {
+      "developer": "WFSDev Team",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/4853/9c76f7c30061f6edda84452bc05994f8.png",
+      "id": "wfsdev",
+      "manifest": "http://juniorwebdevs.co.uk/ONeill/dev_manifest.js",
+      "roms": {
+        "marvel": true
+      },
+      "summary": "We make your marvel better!"
+    },
+    {
       "developer": "WJD Designs",
       "free": "true",
       "id": "wjddesigns",
@@ -3594,5 +3615,5 @@
       "summary": "zlovrednij@gmail.com"
     }
   ],
-  "minversion": "4803"
+  "minversion": "5006"
 }

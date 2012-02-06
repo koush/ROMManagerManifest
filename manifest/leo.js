@@ -9,12 +9,12 @@
       "summary": "Compiled from CyanogenMod-7 Bravo/Desire Base with tweaks! Visit my XDA Developers project page for more information: http://forum.xda-developers.com/showpost.php?p=14676068"
     },
     {
-      "developer": "ICS Font Packs by ThugEsquire",
+      "developer": "Font Packs for Android 4.0",
       "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/4783/4fa7bfce5f106a2f627d646544a05dfe.png",
+      "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",
       "id": "ThugEsquire",
       "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
-      "summary": "ICS-compatible font packs designed for non-MIUI ROMs"
+      "summary": "Font packs for Android 4.0 (Ice Cream Sandwich) ONLY. Will not work on Android 2.x (Froyo/Gingerbread)."
     },
     {
       "developer": "CWR Unofficial",
@@ -73,19 +73,19 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
+      "developer": "HyperDroid",
+      "free": "true",
+      "id": "hyperdroid",
+      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
+      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
+    },
+    {
       "developer": "HyperDroid CM7",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
       "id": "hyperdroid",
       "manifest": "http://sntclan.de/manifest.js",
       "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
-    },
-    {
-      "developer": "HyperDroid",
-      "free": "true",
-      "id": "hyperdroid",
-      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
-      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
     },
     {
       "developer": "MIUI-PT",
@@ -112,5 +112,5 @@
       "summary": "Seaders stable one, based on LEO 2.3.7 sources, tweaked with tablet-functions, audio/lights/sensor/gps fixes, custom settings and deleted/added/switched apps. http://bit.ly/nnx6qf for details (german). Last Version 2.0.0 for MAGLDR too!"
     }
   ],
-  "minversion": "4803"
+  "minversion": "5006"
 }

@@ -33,12 +33,12 @@
       "summary": "Various Android Mods"
     },
     {
-      "developer": "ICS Font Packs by ThugEsquire",
+      "developer": "Font Packs for Android 4.0",
       "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/4783/4fa7bfce5f106a2f627d646544a05dfe.png",
+      "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",
       "id": "ThugEsquire",
       "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
-      "summary": "ICS-compatible font packs designed for non-MIUI ROMs"
+      "summary": "Font packs for Android 4.0 (Ice Cream Sandwich) ONLY. Will not work on Android 2.x (Froyo/Gingerbread)."
     },
     {
       "developer": "CiVic",
@@ -146,5 +146,5 @@
       "summary": "Hi, Im xboarder56 a 16 year old kid and make alot of roms for diffrent devices enjoy my work guys :D"
     }
   ],
-  "minversion": "4803"
+  "minversion": "5006"
 }

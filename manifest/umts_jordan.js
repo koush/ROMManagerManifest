@@ -1,12 +1,12 @@
 {
   "manifests": [
     {
-      "developer": "ICS Font Packs by ThugEsquire",
+      "developer": "Font Packs for Android 4.0",
       "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/4783/4fa7bfce5f106a2f627d646544a05dfe.png",
+      "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",
       "id": "ThugEsquire",
       "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
-      "summary": "ICS-compatible font packs designed for non-MIUI ROMs"
+      "summary": "Font packs for Android 4.0 (Ice Cream Sandwich) ONLY. Will not work on Android 2.x (Froyo/Gingerbread)."
     },
     {
       "developer": "Cerberus",
@@ -58,21 +58,21 @@
       "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
     },
     {
-      "developer": "CyanogenDefy Stable",
-      "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
-      "id": "tanguy.pruvot@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/tanguy.pruvot@gmail.com/manifest",
-      "summary": "Stable but unofficial RC and Release"
-    },
-    {
       "developer": "XDA CM7 Nightlies",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/541/91afee5f3ad77376b65aa60038c4979c.png",
       "id": "tanguy.pruvot@gmail.com",
       "manifest": "http://tpruvot.free.fr/rm/custom.js",
       "summary": "XDA CM7 Original Nightly builds. tpruvot@github"
+    },
+    {
+      "developer": "CyanogenDefy Stable",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",
+      "id": "tanguy.pruvot@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/tanguy.pruvot@gmail.com/manifest",
+      "summary": "Stable but unofficial RC and Release"
     }
   ],
-  "minversion": "4803"
+  "minversion": "5006"
 }

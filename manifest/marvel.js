@@ -1,12 +1,12 @@
 {
   "manifests": [
     {
-      "developer": "ICS Font Packs by ThugEsquire",
+      "developer": "Font Packs for Android 4.0",
       "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/4783/4fa7bfce5f106a2f627d646544a05dfe.png",
+      "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",
       "id": "ThugEsquire",
       "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
-      "summary": "ICS-compatible font packs designed for non-MIUI ROMs"
+      "summary": "Font packs for Android 4.0 (Ice Cream Sandwich) ONLY. Will not work on Android 2.x (Froyo/Gingerbread)."
     },
     {
       "developer": "Cerberus",
@@ -55,7 +55,15 @@
       "id": "mstfkaratas@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/mstfkaratas@gmail.com/manifest",
       "summary": "ROM's for Marvel"
+    },
+    {
+      "developer": "WFSDev Team",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/4853/9c76f7c30061f6edda84452bc05994f8.png",
+      "id": "wfsdev",
+      "manifest": "http://juniorwebdevs.co.uk/ONeill/dev_manifest.js",
+      "summary": "We make your marvel better!"
     }
   ],
-  "minversion": "4803"
+  "minversion": "5006"
 }

@@ -14,7 +14,7 @@
     },
     {
       "developer": "GreenRomProject",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
       "id": "GreenRomProject",
       "manifest": "http://developer.clockworkmod.com/developer/GreenRomProject/manifest",
@@ -43,8 +43,16 @@
       "summary": "An AOSP Motorola Droid ROM with some extras"
     },
     {
+      "developer": "Font Packs for Android 4.0",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",
+      "id": "ThugEsquire",
+      "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
+      "summary": "Font packs for Android 4.0 (Ice Cream Sandwich) ONLY. Will not work on Android 2.x (Froyo/Gingerbread)."
+    },
+    {
       "developer": "WolfRoms",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/704/22baaaa7d15d504f2d43eb8a2980cea9.jpg",
       "id": "WolfRoms",
       "manifest": "http://developer.clockworkmod.com/developer/WolfRoms/manifest",
@@ -81,13 +89,13 @@
       "summary": "ChevyCam94's Custom ROM's"
     },
     {
-      "developer": "ClockworkMod",
+      "developer": "Featured Apps",
       "featured": true,
       "free": "true",
       "id": "clockworkmod",
       "icon": "http://bit.ly/xOLFbJ",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
-      "summary": "ROMs and apps from the creator of ROM Manager!"
+      "summary": "Awesome ROMs and apps from the creator of ROM Manager and others!"
     },
     {
       "developer": "cvpcs",
@@ -153,7 +161,7 @@
     },
     {
       "developer": "Magiman7",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/42/70d519969f6c857c9e5b7c1cfb147ae9.png",
       "id": "magiman7",
       "manifest": "http://developer.clockworkmod.com/developer/magiman7/manifest",
@@ -161,7 +169,7 @@
     },
     {
       "developer": "metiCkOne",
-      "free": true,
+      "free": false,
       "id": "metiCkOne",
       "manifest": "http://developer.clockworkmod.com/developer/metiCkOne/manifest",
       "summary": "Clean, fast & Stable roms for the D1 & D2"
@@ -184,7 +192,7 @@
     },
     {
       "developer": "EnYo",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/633/e8973d34d142398f1d86f8c3ef789a8e.jpg",
       "id": "rfvbnji91@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/rfvbnji91@gmail.com/manifest",
@@ -206,7 +214,7 @@
     },
     {
       "developer": "winner00",
-      "free": true,
+      "free": false,
       "id": "toverturf@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/toverturf@gmail.com/manifest",
       "summary": "CyanogenMod 9 with few tweaks and pulls from gerrit.  "
@@ -227,5 +235,5 @@
       "summary": "Custom ROMs for the Motorola Droid"
     }
   ],
-  "minversion": "4803"
+  "minversion": "5006"
 }

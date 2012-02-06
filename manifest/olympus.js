@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "Navalynt Roms (3.14 Series)",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/596/5a7d89b16d54be204e888a7f5e5ed390.png",
       "id": "Navalynt",
       "manifest": "http://developer.clockworkmod.com/developer/Navalynt/manifest",
@@ -10,22 +10,30 @@
     },
     {
       "developer": "The DarkSide",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2949/68acbded5ce342764d6a2af44d9a6f97.gif",
       "id": "Nottach",
       "manifest": "http://developer.clockworkmod.com/developer/Nottach/manifest",
       "summary": "By Nottach of XDA."
     },
     {
+      "developer": "Font Packs for Android 4.0",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",
+      "id": "ThugEsquire",
+      "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
+      "summary": "Font packs for Android 4.0 (Ice Cream Sandwich) ONLY. Will not work on Android 2.x (Froyo/Gingerbread)."
+    },
+    {
       "developer": "aefreshkid97@gmail.com",
-      "free": true,
+      "free": false,
       "id": "aefreshkid97@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/aefreshkid97@gmail.com/manifest",
       "summary": "aefreshkid97@gmail.com"
     },
     {
       "developer": "Ali Almahdi",
-      "free": true,
+      "free": false,
       "id": "ali.almahdi",
       "manifest": "http://developer.clockworkmod.com/developer/ali.almahdi/manifest",
       "summary": "ali.almahdi@gmail.com"
@@ -47,13 +55,13 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "ClockworkMod",
+      "developer": "Featured Apps",
       "featured": true,
       "free": "true",
       "id": "clockworkmod",
       "icon": "http://bit.ly/xOLFbJ",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
-      "summary": "ROMs and apps from the creator of ROM Manager!"
+      "summary": "Awesome ROMs and apps from the creator of ROM Manager and others!"
     },
     {
       "developer": "CyanogenMod Nightlies",
@@ -64,7 +72,7 @@
     },
     {
       "developer": "Diviance",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/591/bb41cb6540f79fe9208a84a04af56bfe.png",
       "id": "diviance@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/diviance@gmail.com/manifest",
@@ -80,7 +88,7 @@
     },
     {
       "developer": "Kernels",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2357/9f0fbd85d8a392e0670fa5c54f860584.png",
       "id": "rog1121@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/rog1121@gmail.com/manifest",
@@ -88,12 +96,12 @@
     },
     {
       "developer": "SamCripp",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/550/6d520d99859e134dd32cd4132a8ac3d5.png",
       "id": "samuel.r.rivera@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/samuel.r.rivera@gmail.com/manifest",
       "summary": "Atrix Roms"
     }
   ],
-  "minversion": "4803"
+  "minversion": "5006"
 }

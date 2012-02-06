@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+      "developer": "Font Packs for Android 4.0",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",
+      "id": "ThugEsquire",
+      "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
+      "summary": "Font packs for Android 4.0 (Ice Cream Sandwich) ONLY. Will not work on Android 2.x (Froyo/Gingerbread)."
+    },
+    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",
@@ -17,13 +25,13 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "ClockworkMod",
+      "developer": "Featured Apps",
       "featured": true,
       "free": "true",
       "id": "clockworkmod",
       "icon": "http://bit.ly/xOLFbJ",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
-      "summary": "ROMs and apps from the creator of ROM Manager!"
+      "summary": "Awesome ROMs and apps from the creator of ROM Manager and others!"
     },
     {
       "developer": "florian.schmidt.stargatewissen@g",
@@ -42,12 +50,20 @@
     },
     {
       "developer": "mstfkaratas",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/3368/ce4e37855ec7a3ab1a2a9cf07028b773.png",
       "id": "mstfkaratas@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/mstfkaratas@gmail.com/manifest",
       "summary": "ROM's for Marvel"
+    },
+    {
+      "developer": "WFSDev Team",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/4853/9c76f7c30061f6edda84452bc05994f8.png",
+      "id": "wfsdev",
+      "manifest": "http://juniorwebdevs.co.uk/ONeill/dev_manifest.js",
+      "summary": "We make your marvel better!"
     }
   ],
-  "minversion": "4803"
+  "minversion": "5006"
 }

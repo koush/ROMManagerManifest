@@ -9,11 +9,19 @@
     },
     {
       "developer": "Menelkir ROMs",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/791/11b39c3b365a9d1160b1b7e9d94911c3.jpg",
       "id": "Menelkir",
       "manifest": "http://developer.clockworkmod.com/developer/Menelkir/manifest",
       "summary": "Experimental ROMs with fine tuning. WIP"
+    },
+    {
+      "developer": "Font Packs for Android 4.0",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",
+      "id": "ThugEsquire",
+      "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
+      "summary": "Font packs for Android 4.0 (Ice Cream Sandwich) ONLY. Will not work on Android 2.x (Froyo/Gingerbread)."
     },
     {
       "developer": "Blandroid",
@@ -40,13 +48,13 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "ClockworkMod",
+      "developer": "Featured Apps",
       "featured": true,
       "free": "true",
       "id": "clockworkmod",
       "icon": "http://bit.ly/xOLFbJ",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
-      "summary": "ROMs and apps from the creator of ROM Manager!"
+      "summary": "Awesome ROMs and apps from the creator of ROM Manager and others!"
     },
     {
       "developer": "CyanogenMod",
@@ -65,7 +73,7 @@
     },
     {
       "developer": "DrewGaren Roms",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
       "id": "drewgaren",
       "manifest": "http://developer.clockworkmod.com/developer/drewgaren/manifest",
@@ -73,7 +81,7 @@
     },
     {
       "developer": "E-XtremeMod",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/132/3bea45cb0d900947ae2ceb5399b617f3.png",
       "id": "extrememod",
       "manifest": "http://developer.clockworkmod.com/developer/extrememod/manifest",
@@ -95,7 +103,7 @@
     },
     {
       "developer": "QND",
-      "free": true,
+      "free": false,
       "id": "jbbandos",
       "manifest": "http://developer.clockworkmod.com/developer/jbbandos/manifest",
       "summary": "Multi-language MIUI ROMs. No theme change, 3G, bluetooth and other tunings. Lean and fast."
@@ -139,7 +147,7 @@
     },
     {
       "developer": "EnYo",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/633/e8973d34d142398f1d86f8c3ef789a8e.jpg",
       "id": "rfvbnji91@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/rfvbnji91@gmail.com/manifest",
@@ -154,5 +162,5 @@
       "summary": "Revert back to stock phone images."
     }
   ],
-  "minversion": "4803"
+  "minversion": "5006"
 }

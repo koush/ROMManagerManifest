@@ -31,11 +31,19 @@
     },
     {
       "developer": "TeamChargeDev",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/589/341ad33f92b005d705f1557ae861b23e.png",
       "id": "Smyers1012",
       "manifest": "http://developer.clockworkmod.com/developer/Smyers1012/manifest",
       "summary": "TeamChargeDev ROM, MOD, BUILD, and TWEAK Releases."
+    },
+    {
+      "developer": "Font Packs for Android 4.0",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",
+      "id": "ThugEsquire",
+      "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
+      "summary": "Font packs for Android 4.0 (Ice Cream Sandwich) ONLY. Will not work on Android 2.x (Froyo/Gingerbread)."
     },
     {
       "developer": "bgill55",
@@ -61,13 +69,13 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "ClockworkMod",
+      "developer": "Featured Apps",
       "featured": true,
       "free": "true",
       "id": "clockworkmod",
       "icon": "http://bit.ly/xOLFbJ",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
-      "summary": "ROMs and apps from the creator of ROM Manager!"
+      "summary": "Awesome ROMs and apps from the creator of ROM Manager and others!"
     },
     {
       "developer": "cvpcs",
@@ -78,14 +86,6 @@
       "summary": "Source-based mods made by CVPCS"
     },
     {
-      "developer": "DrewGaren Roms",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
-      "id": "drewgaren",
-      "manifest": "http://developer.clockworkmod.com/developer/drewgaren/manifest",
-      "summary": "Custom Roms and Themes for your Device"
-    },
-    {
       "developer": "DrewGaren",
       "free": "true",
       "id": "drewgaren",
@@ -93,8 +93,16 @@
       "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
+      "developer": "DrewGaren Roms",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
+      "id": "drewgaren",
+      "manifest": "http://developer.clockworkmod.com/developer/drewgaren/manifest",
+      "summary": "Custom Roms and Themes for your Device"
+    },
+    {
       "developer": "Fabolous",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/337/d2c1bf150b52364eca4dcba86135ff9d.png",
       "id": "fabolous",
       "manifest": "http://developer.clockworkmod.com/developer/fabolous/manifest",
@@ -130,14 +138,14 @@
     },
     {
       "developer": "notna659@gmail.com",
-      "free": true,
+      "free": false,
       "id": "notna659@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/notna659@gmail.com/manifest",
       "summary": "notna659@gmail.com"
     },
     {
       "developer": "EnYo",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/633/e8973d34d142398f1d86f8c3ef789a8e.jpg",
       "id": "rfvbnji91@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/rfvbnji91@gmail.com/manifest",
@@ -167,5 +175,5 @@
       "summary": "Mods for the DroidX"
     }
   ],
-  "minversion": "4803"
+  "minversion": "5006"
 }

@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+      "developer": "Font Packs for Android 4.0",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",
+      "id": "ThugEsquire",
+      "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
+      "summary": "Font packs for Android 4.0 (Ice Cream Sandwich) ONLY. Will not work on Android 2.x (Froyo/Gingerbread)."
+    },
+    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",
@@ -17,13 +25,13 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "ClockworkMod",
+      "developer": "Featured Apps",
       "featured": true,
       "free": "true",
       "id": "clockworkmod",
       "icon": "http://bit.ly/xOLFbJ",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
-      "summary": "ROMs and apps from the creator of ROM Manager!"
+      "summary": "Awesome ROMs and apps from the creator of ROM Manager and others!"
     },
     {
       "developer": "CyanogenMod",
@@ -50,7 +58,7 @@
     },
     {
       "developer": "Htcclay",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/307/5076662d1617430aa6ad3f6ad73136aa.jpg",
       "id": "htcclay",
       "manifest": "http://developer.clockworkmod.com/developer/htcclay/manifest",
@@ -58,7 +66,7 @@
     },
     {
       "developer": "icspassion",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/4351/ff6bfeee0a06ca17e44e078300c09bda.jpg",
       "id": "icspassion",
       "manifest": "http://developer.clockworkmod.com/developer/icspassion/manifest",
@@ -66,7 +74,7 @@
     },
     {
       "developer": "Infinitybiff",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/653/7dc90deb235d7f8e522085e09fad294a.png",
       "id": "infinitybiff@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/infinitybiff@gmail.com/manifest",
@@ -90,7 +98,7 @@
     },
     {
       "developer": "NoFrills-AOSP",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/636/7ab5b3bc307d3a3bf5e42ec2b09a234f.png",
       "id": "nofrills",
       "manifest": "http://developer.clockworkmod.com/developer/nofrills/manifest",
@@ -98,7 +106,7 @@
     },
     {
       "developer": "phiremod",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/234/49168358de7756efa2aab68b0a3919d6.jpg",
       "id": "phiredrop",
       "manifest": "http://developer.clockworkmod.com/developer/phiredrop/manifest",
@@ -106,12 +114,12 @@
     },
     {
       "developer": "EnYo",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/633/e8973d34d142398f1d86f8c3ef789a8e.jpg",
       "id": "rfvbnji91@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/rfvbnji91@gmail.com/manifest",
       "summary": "AOSP Source Built ROMs, MODs & Tweaks"
     }
   ],
-  "minversion": "4803"
+  "minversion": "5006"
 }

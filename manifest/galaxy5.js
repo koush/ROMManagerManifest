@@ -2,11 +2,19 @@
   "manifests": [
     {
       "developer": "Scozza",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/1821/fb551e70fcf39b45280de2a6e7b929cb.jpg",
       "id": "Scozza Dev",
       "manifest": "http://developer.clockworkmod.com/developer/Scozza Dev/manifest",
       "summary": "Customize your Android!"
+    },
+    {
+      "developer": "Font Packs for Android 4.0",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",
+      "id": "ThugEsquire",
+      "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
+      "summary": "Font packs for Android 4.0 (Ice Cream Sandwich) ONLY. Will not work on Android 2.x (Froyo/Gingerbread)."
     },
     {
       "developer": "Cerberus",
@@ -25,17 +33,17 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "ClockworkMod",
+      "developer": "Featured Apps",
       "featured": true,
       "free": "true",
       "id": "clockworkmod",
       "icon": "http://bit.ly/xOLFbJ",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
-      "summary": "ROMs and apps from the creator of ROM Manager!"
+      "summary": "Awesome ROMs and apps from the creator of ROM Manager and others!"
     },
     {
       "developer": "Creamed Glacier",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/868/10c53137483b19321033612bbd59c4b8.png",
       "id": "creamedglacier",
       "manifest": "http://developer.clockworkmod.com/developer/creamedglacier/manifest",
@@ -43,7 +51,7 @@
     },
     {
       "developer": "Džiugas",
-      "free": true,
+      "free": false,
       "id": "dziugas.grebliunas@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/dziugas.grebliunas@gmail.com/manifest",
       "summary": "ROMs for G5"
@@ -58,7 +66,7 @@
     },
     {
       "developer": "LMD Productions",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/1882/ccc8d0d753532845d67f5f8ac11c5e41.png",
       "id": "lucasmendes98@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/lucasmendes98@gmail.com/manifest",
@@ -66,7 +74,7 @@
     },
     {
       "developer": "MADTeam",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/4525/96c8f45757c82a10bf8b449421fbdcb4.png",
       "id": "madteam",
       "manifest": "http://developer.clockworkmod.com/developer/madteam/manifest",
@@ -81,5 +89,5 @@
       "summary": "CyanogenMod ROMs for various devices"
     }
   ],
-  "minversion": "4803"
+  "minversion": "5006"
 }

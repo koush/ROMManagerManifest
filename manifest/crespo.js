@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "bamtaumod@gmail.com",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/4401/cd16010d91a2b42ba51ecdebe0ad8909.png",
       "id": "BamtauMod",
       "manifest": "http://developer.clockworkmod.com/developer/BamtauMod/manifest",
@@ -10,7 +10,7 @@
     },
     {
       "developer": ".CyberGR-MOD|NS-NGN.",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2700/d6b921edddde69710341f2d2a13e7b7f.jpg",
       "id": "CyberGR-MOD|NS-NGN",
       "manifest": "http://developer.clockworkmod.com/developer/CyberGR-MOD|NS-NGN/manifest",
@@ -18,7 +18,7 @@
     },
     {
       "developer": "KalimochoAz",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2958/799d1e5a81bb60bfd443b6e2fba90d5d.png",
       "id": "KalimochoAz",
       "manifest": "http://developer.clockworkmod.com/developer/KalimochoAz/manifest",
@@ -26,11 +26,19 @@
     },
     {
       "developer": "Nexus S Team Germany",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/962/bc1dbaa7f6a0b08b7e1a2d984c7b0751.gif",
       "id": "Nexus S Team Germany",
       "manifest": "http://developer.clockworkmod.com/developer/Nexus S Team Germany/manifest",
       "summary": "Nexus S Team Germany"
+    },
+    {
+      "developer": "Font Packs for Android 4.0",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",
+      "id": "ThugEsquire",
+      "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
+      "summary": "Font packs for Android 4.0 (Ice Cream Sandwich) ONLY. Will not work on Android 2.x (Froyo/Gingerbread)."
     },
     {
       "developer": "Oxygen",
@@ -42,7 +50,7 @@
     },
     {
       "developer": "iceandfire ",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/13/f9ed41e65204d8e00384a55979b9a343.png",
       "id": "arhamjamal@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/arhamjamal@gmail.com/manifest",
@@ -73,13 +81,13 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "ClockworkMod",
+      "developer": "Featured Apps",
       "featured": true,
       "free": "true",
       "id": "clockworkmod",
       "icon": "http://bit.ly/xOLFbJ",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
-      "summary": "ROMs and apps from the creator of ROM Manager!"
+      "summary": "Awesome ROMs and apps from the creator of ROM Manager and others!"
     },
     {
       "developer": "Crossbones Software",
@@ -106,7 +114,7 @@
     },
     {
       "developer": "DrewGaren Roms",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
       "id": "drewgaren",
       "manifest": "http://developer.clockworkmod.com/developer/drewgaren/manifest",
@@ -114,7 +122,7 @@
     },
     {
       "developer": "franciscofranco",
-      "free": true,
+      "free": false,
       "id": "franciscofranco.1990@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/franciscofranco.1990@gmail.com/manifest",
       "summary": "franco.Kernel for Nexus S and Huawei U8800"
@@ -137,7 +145,7 @@
     },
     {
       "developer": "HAKA",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/4522/a04160f7948b04c333753e9016d85ee7.png",
       "id": "haka",
       "manifest": "http://developer.clockworkmod.com/developer/haka/manifest",
@@ -145,7 +153,7 @@
     },
     {
       "developer": "Htcclay",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/307/5076662d1617430aa6ad3f6ad73136aa.jpg",
       "id": "htcclay",
       "manifest": "http://developer.clockworkmod.com/developer/htcclay/manifest",
@@ -153,7 +161,7 @@
     },
     {
       "developer": "Coentje44",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2648/e9dde91c88ad6b2e2d74addd42c74db7.png",
       "id": "iapplecloud@me.com",
       "manifest": "http://developer.clockworkmod.com/developer/iapplecloud@me.com/manifest",
@@ -161,7 +169,7 @@
     },
     {
       "developer": "NexBreed ROMs",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/150/06f5d36ced5f4795548d594dc9388435.jpg",
       "id": "kaiya215",
       "manifest": "http://developer.clockworkmod.com/developer/kaiya215/manifest",
@@ -169,7 +177,7 @@
     },
     {
       "developer": "Koush",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/579/ed66d281a91c38574d1239f60b9c80b6.png",
       "id": "koush",
       "manifest": "http://developer.clockworkmod.com/developer/koush/manifest",
@@ -177,7 +185,7 @@
     },
     {
       "developer": "mathkid95",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/1992/7fe1b96f6d5747b17e3b7bb4ce165219.gif",
       "id": "mathkid95",
       "manifest": "http://developer.clockworkmod.com/developer/mathkid95/manifest",
@@ -208,5 +216,5 @@
       "summary": "Revert back to stock phone images."
     }
   ],
-  "minversion": "4803"
+  "minversion": "5006"
 }

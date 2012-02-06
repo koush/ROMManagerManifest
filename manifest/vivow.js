@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "Jmz",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/1308/e941956e38660c4a13dc50b69b5bd012.jpg",
       "id": "Jmz",
       "manifest": "http://developer.clockworkmod.com/developer/Jmz/manifest",
@@ -18,11 +18,19 @@
     },
     {
       "developer": "OMJ-",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/719/bfbccec41cbac2cba0e62a7f2bbefa2e.png",
       "id": "OMJ-",
       "manifest": "http://developer.clockworkmod.com/developer/OMJ-/manifest",
       "summary": "TSM Pool Party for the Dinc2"
+    },
+    {
+      "developer": "Font Packs for Android 4.0",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",
+      "id": "ThugEsquire",
+      "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
+      "summary": "Font packs for Android 4.0 (Ice Cream Sandwich) ONLY. Will not work on Android 2.x (Froyo/Gingerbread)."
     },
     {
       "developer": "RCTeam RCMix",
@@ -34,7 +42,7 @@
     },
     {
       "developer": "CM7 Stable - till official gets ",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/93/fb68f8d3119ee8d21da6627c4db8540c",
       "id": "carsten.dressler@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/carsten.dressler@gmail.com/manifest",
@@ -57,13 +65,13 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "ClockworkMod",
+      "developer": "Featured Apps",
       "featured": true,
       "free": "true",
       "id": "clockworkmod",
       "icon": "http://bit.ly/xOLFbJ",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
-      "summary": "ROMs and apps from the creator of ROM Manager!"
+      "summary": "Awesome ROMs and apps from the creator of ROM Manager and others!"
     },
     {
       "developer": "CyanogenMod",
@@ -114,12 +122,12 @@
     },
     {
       "developer": "nitsuj17",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/747/e5966a7321c516f205558da3956f87bc.png",
       "id": "nitsuj17@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/nitsuj17@gmail.com/manifest",
       "summary": "Roms, add-ons, mods, themes"
     }
   ],
-  "minversion": "4803"
+  "minversion": "5006"
 }

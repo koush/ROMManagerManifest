@@ -2,14 +2,22 @@
   "manifests": [
     {
       "developer": "Complete Android Experience ",
-      "free": true,
+      "free": false,
       "id": "SamSamoon",
       "manifest": "http://developer.clockworkmod.com/developer/SamSamoon/manifest",
       "summary": "Gingerbread ROM By Sami Beck"
     },
     {
+      "developer": "Font Packs for Android 4.0",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",
+      "id": "ThugEsquire",
+      "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
+      "summary": "Font packs for Android 4.0 (Ice Cream Sandwich) ONLY. Will not work on Android 2.x (Froyo/Gingerbread)."
+    },
+    {
       "developer": "Sapo a5 Blog Team",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/617/426f2197f1ed2674fa87666a35835083.png",
       "id": "a5.blog.team",
       "manifest": "http://developer.clockworkmod.com/developer/a5.blog.team/manifest",
@@ -32,13 +40,13 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "ClockworkMod",
+      "developer": "Featured Apps",
       "featured": true,
       "free": "true",
       "id": "clockworkmod",
       "icon": "http://bit.ly/xOLFbJ",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
-      "summary": "ROMs and apps from the creator of ROM Manager!"
+      "summary": "Awesome ROMs and apps from the creator of ROM Manager and others!"
     },
     {
       "developer": "CyanogenMod",
@@ -65,7 +73,7 @@
     },
     {
       "developer": "Stock ROMs",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/23/757972f1d6362f95a265050747542fc5.jpg",
       "id": "jamieluckett@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/jamieluckett@gmail.com/manifest",
@@ -73,11 +81,11 @@
     },
     {
       "developer": "Other Stuff",
-      "free": true,
+      "free": false,
       "id": "tomasbcunha@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/tomasbcunha@gmail.com/manifest",
       "summary": "Other Stuff"
     }
   ],
-  "minversion": "4803"
+  "minversion": "5006"
 }

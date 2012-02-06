@@ -10,7 +10,7 @@
     },
     {
       "developer": "Jmz",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/1308/e941956e38660c4a13dc50b69b5bd012.jpg",
       "id": "Jmz",
       "manifest": "http://developer.clockworkmod.com/developer/Jmz/manifest",
@@ -26,7 +26,7 @@
     },
     {
       "developer": "Nocoast",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2241/e9904394fac5d44c2ee51fc27b72835f.gif",
       "id": "Nocoast",
       "manifest": "http://developer.clockworkmod.com/developer/Nocoast/manifest",
@@ -49,6 +49,14 @@
       "summary": "Supercharged Roms"
     },
     {
+      "developer": "Font Packs for Android 4.0",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",
+      "id": "ThugEsquire",
+      "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
+      "summary": "Font packs for Android 4.0 (Ice Cream Sandwich) ONLY. Will not work on Android 2.x (Froyo/Gingerbread)."
+    },
+    {
       "developer": "ThunderStick",
       "free": "true",
       "id": "ThunderStick",
@@ -58,7 +66,7 @@
     },
     {
       "developer": "DroidVicious",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/3654/1644fc3daed4db257d1ba2506a938241.png",
       "id": "Vicious",
       "manifest": "http://developer.clockworkmod.com/developer/Vicious/manifest",
@@ -81,13 +89,13 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "ClockworkMod",
+      "developer": "Featured Apps",
       "featured": true,
       "free": "true",
       "id": "clockworkmod",
       "icon": "http://bit.ly/xOLFbJ",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
-      "summary": "ROMs and apps from the creator of ROM Manager!"
+      "summary": "Awesome ROMs and apps from the creator of ROM Manager and others!"
     },
     {
       "developer": "CyanogenMod",
@@ -114,7 +122,7 @@
     },
     {
       "developer": "Cubed ROMs",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/66/24fcf796e1e1fc870f868d35e7cf0207.png",
       "id": "dsb9938",
       "manifest": "http://developer.clockworkmod.com/developer/dsb9938/manifest",
@@ -146,7 +154,7 @@
     },
     {
       "developer": "jdkoreclipse",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/755/1d19a0748e940de5226e9a428d005769.jpg",
       "id": "jdkoreclipse",
       "manifest": "http://developer.clockworkmod.com/developer/jdkoreclipse/manifest",
@@ -161,7 +169,7 @@
     },
     {
       "developer": "orkillakilla",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/1120/1f6c79eee01e9f180b0691ffb56b140d.png",
       "id": "orkillakilla@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/orkillakilla@gmail.com/manifest",
@@ -177,12 +185,12 @@
     },
     {
       "developer": "Team BAMF ",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/758/327500a0db76efc307c8032ee32ac018.png",
       "id": "waynestrattonjr@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/waynestrattonjr@gmail.com/manifest",
       "summary": "Official downloads from Team BAMF! For awesome Sense 3.0 and HTC device ports and for full support, visit www.teambamf.net!"
     }
   ],
-  "minversion": "4803"
+  "minversion": "5006"
 }

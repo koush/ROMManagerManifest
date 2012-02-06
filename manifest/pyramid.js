@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "Baadnewz",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2313/9eed3cf860cea96cf5d5a6f190115dfe.jpg",
       "id": "Baadnewz@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/Baadnewz@gmail.com/manifest",
@@ -18,7 +18,7 @@
     },
     {
       "developer": "Sense-o-Maniac",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/862/dd9079fad0d347309ffbc6e4362a3145",
       "id": "Sense-o-Maniac",
       "manifest": "http://developer.clockworkmod.com/developer/Sense-o-Maniac/manifest",
@@ -26,15 +26,23 @@
     },
     {
       "developer": "SparksCo",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/293/cf525bafa8894bfea108d2e1387e6e52.png",
       "id": "SparksCo",
       "manifest": "http://developer.clockworkmod.com/developer/SparksCo/manifest",
       "summary": "Various Android Mods"
     },
     {
+      "developer": "Font Packs for Android 4.0",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",
+      "id": "ThugEsquire",
+      "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
+      "summary": "Font packs for Android 4.0 (Ice Cream Sandwich) ONLY. Will not work on Android 2.x (Froyo/Gingerbread)."
+    },
+    {
       "developer": "CiVic",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/754/b33b496dcc1158a6fb54aade5e74befa.png",
       "id": "agoura@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/agoura@gmail.com/manifest",
@@ -42,7 +50,7 @@
     },
     {
       "developer": "Blahbl4hblah",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/289/f50f109fd0e925ebc88d9d0d350411c1.jpg",
       "id": "blahbl4hblah",
       "manifest": "http://developer.clockworkmod.com/developer/blahbl4hblah/manifest",
@@ -58,7 +66,7 @@
     },
     {
       "developer": "CdTDroiD",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/803/9aec5a3c5464161e710530ada496a0fe.png",
       "id": "cdtdroid",
       "manifest": "http://developer.clockworkmod.com/developer/cdtdroid/manifest",
@@ -81,17 +89,17 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "ClockworkMod",
+      "developer": "Featured Apps",
       "featured": true,
       "free": "true",
       "id": "clockworkmod",
       "icon": "http://bit.ly/xOLFbJ",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
-      "summary": "ROMs and apps from the creator of ROM Manager!"
+      "summary": "Awesome ROMs and apps from the creator of ROM Manager and others!"
     },
     {
       "developer": "doniqcc",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/718/b2c06b2e7ab0e9c3475e324bdcba8380.png",
       "id": "eagleblood",
       "manifest": "http://developer.clockworkmod.com/developer/eagleblood/manifest",
@@ -107,7 +115,7 @@
     },
     {
       "developer": "Htcclay",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/307/5076662d1617430aa6ad3f6ad73136aa.jpg",
       "id": "htcclay",
       "manifest": "http://developer.clockworkmod.com/developer/htcclay/manifest",
@@ -115,7 +123,7 @@
     },
     {
       "developer": "jwtiyar Nariman",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/1655/ce37fbec43d741241ffd0e90382286d5.jpg",
       "id": "jwtiyar@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/jwtiyar@gmail.com/manifest",
@@ -131,12 +139,12 @@
     },
     {
       "developer": "Xboarder56",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/663/402e31bd0ad3f6f57f92d29c291c52d7.jpg",
       "id": "xboarder56",
       "manifest": "http://developer.clockworkmod.com/developer/xboarder56/manifest",
       "summary": "Hi, Im xboarder56 a 16 year old kid and make alot of roms for diffrent devices enjoy my work guys :D"
     }
   ],
-  "minversion": "4803"
+  "minversion": "5006"
 }

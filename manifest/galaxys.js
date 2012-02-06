@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+      "developer": "Font Packs for Android 4.0",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",
+      "id": "ThugEsquire",
+      "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
+      "summary": "Font packs for Android 4.0 (Ice Cream Sandwich) ONLY. Will not work on Android 2.x (Froyo/Gingerbread)."
+    },
+    {
       "developer": "CM7/MIUI Modems",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/906/345cd0c4eb6761583217eca857969c4a.png",
@@ -25,24 +33,24 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "ClockworkMod",
+      "developer": "Featured Apps",
       "featured": true,
       "free": "true",
       "id": "clockworkmod",
       "icon": "http://bit.ly/xOLFbJ",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
-      "summary": "ROMs and apps from the creator of ROM Manager!"
+      "summary": "Awesome ROMs and apps from the creator of ROM Manager and others!"
     },
     {
       "developer": "coldflid@gmail.com",
-      "free": true,
+      "free": false,
       "id": "coldflid",
       "manifest": "http://developer.clockworkmod.com/developer/coldflid/manifest",
       "summary": "coldflid@gmail.com"
     },
     {
       "developer": "DarkyROM",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/124/e975fb9db2047ee42b84d4d65f612fcd.png",
       "id": "darkyy92@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/darkyy92@gmail.com/manifest",
@@ -88,7 +96,7 @@
     },
     {
       "developer": "t.dorie@gmail.com",
-      "free": true,
+      "free": false,
       "id": "t.dorie@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/t.dorie@gmail.com/manifest",
       "summary": "t.dorie@gmail.com"
@@ -109,5 +117,5 @@
       "summary": "TedgyRom Galaxy S I9000 FR"
     }
   ],
-  "minversion": "4803"
+  "minversion": "5006"
 }

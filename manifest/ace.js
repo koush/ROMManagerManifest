@@ -10,7 +10,7 @@
     },
     {
       "developer": "Honey3D",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/376/b266f88e7063336d333ef7ad4fd4d6ff.png",
       "id": "HoneyTeam",
       "manifest": "http://developer.clockworkmod.com/developer/HoneyTeam/manifest",
@@ -25,8 +25,16 @@
       "summary": "LeeDrOiD Sense roms & Kernels"
     },
     {
+      "developer": "Font Packs for Android 4.0",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",
+      "id": "ThugEsquire",
+      "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
+      "summary": "Font packs for Android 4.0 (Ice Cream Sandwich) ONLY. Will not work on Android 2.x (Froyo/Gingerbread)."
+    },
+    {
       "developer": "iceandfire ",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/13/f9ed41e65204d8e00384a55979b9a343.png",
       "id": "arhamjamal@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/arhamjamal@gmail.com/manifest",
@@ -42,7 +50,7 @@
     },
     {
       "developer": "cstayton",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/546/b07253a196d9b849d79ec8a6841f839c.png",
       "id": "castayton@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/castayton@gmail.com/manifest",
@@ -65,13 +73,13 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "ClockworkMod",
+      "developer": "Featured Apps",
       "featured": true,
       "free": "true",
       "id": "clockworkmod",
       "icon": "http://bit.ly/xOLFbJ",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
-      "summary": "ROMs and apps from the creator of ROM Manager!"
+      "summary": "Awesome ROMs and apps from the creator of ROM Manager and others!"
     },
     {
       "developer": "CyanogenMod",
@@ -122,7 +130,7 @@
     },
     {
       "developer": "KingDroid Roms",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/1661/61448b7570fbdc37194dbad240f4aa94.png",
       "id": "pedrokingpc@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/pedrokingpc@gmail.com/manifest",
@@ -130,7 +138,7 @@
     },
     {
       "developer": "pirateghost",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/618/e651f76ee302b696b7e42ed966b612cf.jpg",
       "id": "pirateg@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/pirateg@gmail.com/manifest",
@@ -138,12 +146,12 @@
     },
     {
       "developer": "spaarc",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/696/47c039257c6470c58d3d6c3f6dc178a4.jpg",
       "id": "spaarc",
       "manifest": "http://developer.clockworkmod.com/developer/spaarc/manifest",
       "summary": "mods and bacons for xperia x10 only!"
     }
   ],
-  "minversion": "4803"
+  "minversion": "5006"
 }

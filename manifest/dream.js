@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "GreenRom Project",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/672/900449a34b08c137930980f65c629f20.png",
       "id": "GRP",
       "manifest": "http://developer.clockworkmod.com/developer/GRP/manifest",
@@ -10,7 +10,7 @@
     },
     {
       "developer": "GreenRomProject",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/256/5a2a4ac80f081a3ca7d0cf805f362ec6.png",
       "id": "GreenRomProject",
       "manifest": "http://developer.clockworkmod.com/developer/GreenRomProject/manifest",
@@ -18,11 +18,19 @@
     },
     {
       "developer": "LDrifta",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/554/c2176488c9813e3b7c2a3b1802f09c7d.png",
       "id": "LDrifta",
       "manifest": "http://developer.clockworkmod.com/developer/LDrifta/manifest",
       "summary": "SenseLX"
+    },
+    {
+      "developer": "Font Packs for Android 4.0",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",
+      "id": "ThugEsquire",
+      "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
+      "summary": "Font packs for Android 4.0 (Ice Cream Sandwich) ONLY. Will not work on Android 2.x (Froyo/Gingerbread)."
     },
     {
       "developer": "Cerberus",
@@ -41,13 +49,13 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "ClockworkMod",
+      "developer": "Featured Apps",
       "featured": true,
       "free": "true",
       "id": "clockworkmod",
       "icon": "http://bit.ly/xOLFbJ",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
-      "summary": "ROMs and apps from the creator of ROM Manager!"
+      "summary": "Awesome ROMs and apps from the creator of ROM Manager and others!"
     },
     {
       "developer": "CyanogenMod",
@@ -97,12 +105,12 @@
     },
     {
       "developer": "Ginger yoshi ^_^",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/294/b0c8e3dee633ac3d0f6ce3352389943b.png",
       "id": "yohshua",
       "manifest": "http://developer.clockworkmod.com/developer/yohshua/manifest",
       "summary": "all the ginger yoshi roms "
     }
   ],
-  "minversion": "4803"
+  "minversion": "5006"
 }

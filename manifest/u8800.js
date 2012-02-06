@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+      "developer": "Font Packs for Android 4.0",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",
+      "id": "ThugEsquire",
+      "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
+      "summary": "Font packs for Android 4.0 (Ice Cream Sandwich) ONLY. Will not work on Android 2.x (Froyo/Gingerbread)."
+    },
+    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",
@@ -17,17 +25,17 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "ClockworkMod",
+      "developer": "Featured Apps",
       "featured": true,
       "free": "true",
       "id": "clockworkmod",
       "icon": "http://bit.ly/xOLFbJ",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
-      "summary": "ROMs and apps from the creator of ROM Manager!"
+      "summary": "Awesome ROMs and apps from the creator of ROM Manager and others!"
     },
     {
       "developer": "Creamed Glacier",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/868/10c53137483b19321033612bbd59c4b8.png",
       "id": "creamedglacier",
       "manifest": "http://developer.clockworkmod.com/developer/creamedglacier/manifest",
@@ -35,7 +43,7 @@
     },
     {
       "developer": "Oxygen ROM",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/848/640eb396b8b335969bd0f883902f97e8.png",
       "id": "dzo",
       "manifest": "http://developer.clockworkmod.com/developer/dzo/manifest",
@@ -43,7 +51,7 @@
     },
     {
       "developer": "franciscofranco",
-      "free": true,
+      "free": false,
       "id": "franciscofranco.1990@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/franciscofranco.1990@gmail.com/manifest",
       "summary": "franco.Kernel for Nexus S and Huawei U8800"
@@ -73,5 +81,5 @@
       "summary": "MIUI English releases by MIUI.us"
     }
   ],
-  "minversion": "4803"
+  "minversion": "5006"
 }

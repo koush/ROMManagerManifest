@@ -1,16 +1,31 @@
 {
   "manifests": [
     {
+      "developer": "BAJI",
+      "free": false,
+      "id": "BAJI",
+      "manifest": "http://developer.clockworkmod.com/developer/BAJI/manifest",
+      "summary": "Miui Ports from Android, US and Galnet."
+    },
+    {
       "developer": "RG2x",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/3299/b391f2fdaadedbb24eaccc7d485e8471.png",
       "id": "RG2x",
       "manifest": "http://developer.clockworkmod.com/developer/RG2x/manifest",
       "summary": "G2x MIUI"
     },
     {
+      "developer": "Font Packs for Android 4.0",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",
+      "id": "ThugEsquire",
+      "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
+      "summary": "Font packs for Android 4.0 (Ice Cream Sandwich) ONLY. Will not work on Android 2.x (Froyo/Gingerbread)."
+    },
+    {
       "developer": "Whitehawkx",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/673/7898d96c27f948a4e170d89dbe77121e.jpg",
       "id": "Whitehawkx",
       "manifest": "http://developer.clockworkmod.com/developer/Whitehawkx/manifest",
@@ -33,13 +48,13 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "ClockworkMod",
+      "developer": "Featured Apps",
       "featured": true,
       "free": "true",
       "id": "clockworkmod",
       "icon": "http://bit.ly/xOLFbJ",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
-      "summary": "ROMs and apps from the creator of ROM Manager!"
+      "summary": "Awesome ROMs and apps from the creator of ROM Manager and others!"
     },
     {
       "developer": "CyanogenMod",
@@ -58,7 +73,7 @@
     },
     {
       "developer": "doniqcc",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/718/b2c06b2e7ab0e9c3475e324bdcba8380.png",
       "id": "eagleblood",
       "manifest": "http://developer.clockworkmod.com/developer/eagleblood/manifest",
@@ -66,7 +81,7 @@
     },
     {
       "developer": "Faux123 Custom ROMs",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/65/458f8e1774c14317e04210d456d579e0.gif",
       "id": "faux123",
       "manifest": "http://developer.clockworkmod.com/developer/faux123/manifest",
@@ -82,7 +97,7 @@
     },
     {
       "developer": "G2X SINGH-UI by: nycelitemaster",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/3518/101a2dde1542afce842ca930b94f2ead.jpg",
       "id": "jsachdev84@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/jsachdev84@gmail.com/manifest",
@@ -90,7 +105,7 @@
     },
     {
       "developer": "Lotherius",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2354/1bc84f350a4a0d99cac3cc9c3c04666b.jpg",
       "id": "lotherius",
       "manifest": "http://developer.clockworkmod.com/developer/lotherius/manifest",
@@ -98,7 +113,7 @@
     },
     {
       "developer": "x0xhellx0x",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/3376/f065110e9428fe7defad32da13782797.gif",
       "id": "x0xhellx0x",
       "manifest": "http://developer.clockworkmod.com/developer/x0xhellx0x/manifest",
@@ -106,12 +121,12 @@
     },
     {
       "developer": "Xboarder56",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/663/402e31bd0ad3f6f57f92d29c291c52d7.jpg",
       "id": "xboarder56",
       "manifest": "http://developer.clockworkmod.com/developer/xboarder56/manifest",
       "summary": "Hi, Im xboarder56 a 16 year old kid and make alot of roms for diffrent devices enjoy my work guys :D"
     }
   ],
-  "minversion": "4803"
+  "minversion": "5006"
 }

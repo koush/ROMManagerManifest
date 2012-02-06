@@ -2,11 +2,19 @@
   "manifests": [
     {
       "developer": "Clark44 (Absurd)",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/315/fa526fadb52216d09110cf18e5fd5047.jpg",
       "id": "Clark44 (Absurd)",
       "manifest": "http://developer.clockworkmod.com/developer/Clark44 (Absurd)/manifest",
       "summary": "Average Rom DEV"
+    },
+    {
+      "developer": "Font Packs for Android 4.0",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",
+      "id": "ThugEsquire",
+      "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
+      "summary": "Font packs for Android 4.0 (Ice Cream Sandwich) ONLY. Will not work on Android 2.x (Froyo/Gingerbread)."
     },
     {
       "developer": "Cerberus",
@@ -25,13 +33,13 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "ClockworkMod",
+      "developer": "Featured Apps",
       "featured": true,
       "free": "true",
       "id": "clockworkmod",
       "icon": "http://bit.ly/xOLFbJ",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
-      "summary": "ROMs and apps from the creator of ROM Manager!"
+      "summary": "Awesome ROMs and apps from the creator of ROM Manager and others!"
     },
     {
       "developer": "freEVO 3D ROM",
@@ -51,7 +59,7 @@
     },
     {
       "developer": "jondevere@gmail.com",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/695/baaa677e69d0e0b6eaaa2d46f851e9e8.gif",
       "id": "jondevere@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/jondevere@gmail.com/manifest",
@@ -67,14 +75,14 @@
     },
     {
       "developer": "XDA Roms",
-      "free": true,
+      "free": false,
       "id": "pecord",
       "manifest": "http://developer.clockworkmod.com/developer/pecord/manifest",
       "summary": "Just uploading various roms for other EVO 3D users, will not accept donations for others work and will not provide support"
     },
     {
       "developer": "smokin1337",
-      "free": true,
+      "free": false,
       "id": "smokin1337",
       "manifest": "http://developer.clockworkmod.com/developer/smokin1337/manifest",
       "summary": "The Configurator"
@@ -89,12 +97,12 @@
     },
     {
       "developer": "Sense 3.5 Ports",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/822/cfae65dc7496f8d03671558307a5441d.jpg",
       "id": "temeyers@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/temeyers@gmail.com/manifest",
       "summary": "Sense 3.5 Android 2.3.5 "
     }
   ],
-  "minversion": "4803"
+  "minversion": "5006"
 }

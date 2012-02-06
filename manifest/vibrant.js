@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "Team Whiskey",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/217/1f014e3a34997c82b915902c05ba2005.png",
       "id": "Krylon360",
       "manifest": "http://developer.clockworkmod.com/developer/Krylon360/manifest",
@@ -17,8 +17,16 @@
       "summary": "Blackhole build your own ROM series, full customization"
     },
     {
+      "developer": "Font Packs for Android 4.0",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",
+      "id": "ThugEsquire",
+      "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
+      "summary": "Font packs for Android 4.0 (Ice Cream Sandwich) ONLY. Will not work on Android 2.x (Froyo/Gingerbread)."
+    },
+    {
       "developer": "Whitehawkx",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/673/7898d96c27f948a4e170d89dbe77121e.jpg",
       "id": "Whitehawkx",
       "manifest": "http://developer.clockworkmod.com/developer/Whitehawkx/manifest",
@@ -26,7 +34,7 @@
     },
     {
       "developer": "Br1cK'd",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/288/75bcc580df6cb4e59690993fcb904ecc.jpg",
       "id": "bossdj523@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/bossdj523@gmail.com/manifest",
@@ -49,13 +57,13 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "ClockworkMod",
+      "developer": "Featured Apps",
       "featured": true,
       "free": "true",
       "id": "clockworkmod",
       "icon": "http://bit.ly/xOLFbJ",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
-      "summary": "ROMs and apps from the creator of ROM Manager!"
+      "summary": "Awesome ROMs and apps from the creator of ROM Manager and others!"
     },
     {
       "developer": "Google Apps",
@@ -75,12 +83,12 @@
     },
     {
       "developer": "phiremod",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/234/49168358de7756efa2aab68b0a3919d6.jpg",
       "id": "phiredrop",
       "manifest": "http://developer.clockworkmod.com/developer/phiredrop/manifest",
       "summary": "Bringing you the best of Android."
     }
   ],
-  "minversion": "4803"
+  "minversion": "5006"
 }

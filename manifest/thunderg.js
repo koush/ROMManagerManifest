@@ -1,8 +1,16 @@
 {
   "manifests": [
     {
+      "developer": "Font Packs for Android 4.0",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",
+      "id": "ThugEsquire",
+      "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
+      "summary": "Font packs for Android 4.0 (Ice Cream Sandwich) ONLY. Will not work on Android 2.x (Froyo/Gingerbread)."
+    },
+    {
       "developer": "AdFad666's CyanogenMod",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/3020/5e63fff12afef893368323e27ab37c32.png",
       "id": "adfad666",
       "manifest": "http://developer.clockworkmod.com/developer/adfad666/manifest",
@@ -10,7 +18,7 @@
     },
     {
       "developer": "aosp",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/322/c97732b0067d16ccf420f20f78b8f36a.png",
       "id": "aospmod",
       "manifest": "http://developer.clockworkmod.com/developer/aospmod/manifest",
@@ -33,17 +41,17 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "ClockworkMod",
+      "developer": "Featured Apps",
       "featured": true,
       "free": "true",
       "id": "clockworkmod",
       "icon": "http://bit.ly/xOLFbJ",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
-      "summary": "ROMs and apps from the creator of ROM Manager!"
+      "summary": "Awesome ROMs and apps from the creator of ROM Manager and others!"
     },
     {
       "developer": "Creamed Glacier",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/868/10c53137483b19321033612bbd59c4b8.png",
       "id": "creamedglacier",
       "manifest": "http://developer.clockworkmod.com/developer/creamedglacier/manifest",
@@ -51,14 +59,14 @@
     },
     {
       "developer": "foschi@gmail.com",
-      "free": true,
+      "free": false,
       "id": "crimescene",
       "manifest": "http://developer.clockworkmod.com/developer/crimescene/manifest",
       "summary": "don't forget to patrition your sd card swap 0 ext4 512 or more"
     },
     {
       "developer": "gianluck95@gmail.com",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/772/aac0961affc58a65b8fda0f455ed6f0a.png",
       "id": "gianluck95@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/gianluck95@gmail.com/manifest",
@@ -74,7 +82,7 @@
     },
     {
       "developer": "mik_os",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/280/90f44cfd3ec66b7485bbf1d464651da5.gif",
       "id": "kiril.mik.os@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/kiril.mik.os@gmail.com/manifest",
@@ -82,11 +90,11 @@
     },
     {
       "developer": "rennyro13@gmail.com",
-      "free": true,
+      "free": false,
       "id": "rennyro13@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/rennyro13@gmail.com/manifest",
       "summary": "rennyro13@gmail.com"
     }
   ],
-  "minversion": "4803"
+  "minversion": "5006"
 }

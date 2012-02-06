@@ -9,7 +9,7 @@
     },
     {
       "developer": "computerkid23",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2172/bbfefd270a9aac7e5dc7dc6f9f3c1c2f.jpg",
       "id": "CK23",
       "manifest": "http://developer.clockworkmod.com/developer/CK23/manifest",
@@ -24,8 +24,16 @@
       "summary": "DRockstar does stock ROMs, kernels, and helpful tools"
     },
     {
+      "developer": "Font Packs for Android 4.0",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",
+      "id": "ThugEsquire",
+      "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
+      "summary": "Font packs for Android 4.0 (Ice Cream Sandwich) ONLY. Will not work on Android 2.x (Froyo/Gingerbread)."
+    },
+    {
       "developer": "biscochic@gmail.com",
-      "free": true,
+      "free": false,
       "id": "biscochic@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/biscochic@gmail.com/manifest",
       "summary": "biscochic@gmail.com"
@@ -47,17 +55,17 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "ClockworkMod",
+      "developer": "Featured Apps",
       "featured": true,
       "free": "true",
       "id": "clockworkmod",
       "icon": "http://bit.ly/xOLFbJ",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
-      "summary": "ROMs and apps from the creator of ROM Manager!"
+      "summary": "Awesome ROMs and apps from the creator of ROM Manager and others!"
     },
     {
       "developer": "earthbound.iap",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2561/91432fb3efe76db6b048798964a8685e.jpg",
       "id": "earthbound.iap@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/earthbound.iap@gmail.com/manifest",
@@ -73,14 +81,14 @@
     },
     {
       "developer": "houseofchazor@gmail.com",
-      "free": true,
+      "free": false,
       "id": "houseofchazor@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/houseofchazor@gmail.com/manifest",
       "summary": "houseofchazor@gmail.com"
     },
     {
       "developer": "jocala@jocala.com",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2433/19a1350a7a0982fd55adc7becef33914.png",
       "id": "jocala@jocala.com",
       "manifest": "http://developer.clockworkmod.com/developer/jocala@jocala.com/manifest",
@@ -88,7 +96,7 @@
     },
     {
       "developer": "ERA",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2221/4bb04642852e6af0f4e7d0dfa94ed34a.png",
       "id": "ksmullins88@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/ksmullins88@gmail.com/manifest",
@@ -96,7 +104,7 @@
     },
     {
       "developer": "StarskyROB",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2184/d2459938d5f842f608bbc4c12be194bb.jpg",
       "id": "robertstoms@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/robertstoms@gmail.com/manifest",
@@ -112,7 +120,7 @@
     },
     {
       "developer": "TheDub",
-      "free": true,
+      "free": false,
       "id": "thedubmail@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/thedubmail@gmail.com/manifest",
       "summary": "thedubmail@gmail.com"
@@ -127,18 +135,18 @@
     },
     {
       "developer": "xBTx",
-      "free": true,
+      "free": false,
       "id": "xBTx",
       "manifest": "http://developer.clockworkmod.com/developer/xBTx/manifest",
       "summary": "Keep it stock... Mostly."
     },
     {
       "developer": "xboxfanj/miui",
-      "free": true,
+      "free": false,
       "id": "xboxfanj",
       "manifest": "http://developer.clockworkmod.com/developer/xboxfanj/manifest",
       "summary": "roms for epic 4g"
     }
   ],
-  "minversion": "4803"
+  "minversion": "5006"
 }

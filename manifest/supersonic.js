@@ -9,7 +9,7 @@
     },
     {
       "developer": "tiad8.com",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2775/9ea3d52aaf5109cc5e8259129866a301.png",
       "id": "Just was ICS'd boy!",
       "manifest": "http://developer.clockworkmod.com/developer/Just was ICS'd boy!/manifest",
@@ -21,6 +21,22 @@
       "id": "OMJ",
       "manifest": "http://vegasden.net/OMJ/ROMmanifest/omj.js",
       "summary": "OMJ's HTC EVO ROMs"
+    },
+    {
+      "developer": "Sinister ROM",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/400/29a8f50929b1d09f36fde793c9ff2943.png",
+      "id": "SinisterTensai",
+      "manifest": "http://sinister.goo-inside.me/Romlist.js",
+      "summary": "Sinister Speeds, Sinister looks"
+    },
+    {
+      "developer": "Font Packs for Android 4.0",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",
+      "id": "ThugEsquire",
+      "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
+      "summary": "Font packs for Android 4.0 (Ice Cream Sandwich) ONLY. Will not work on Android 2.x (Froyo/Gingerbread)."
     },
     {
       "developer": "Cerberus",
@@ -39,13 +55,13 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "ClockworkMod",
+      "developer": "Featured Apps",
       "featured": true,
       "free": "true",
       "id": "clockworkmod",
       "icon": "http://bit.ly/xOLFbJ",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
-      "summary": "ROMs and apps from the creator of ROM Manager!"
+      "summary": "Awesome ROMs and apps from the creator of ROM Manager and others!"
     },
     {
       "developer": "cvpcs",
@@ -79,20 +95,20 @@
       "summary": "Updates for stock ROMs, radio, hboot"
     },
     {
-      "developer": "Salvage-Mod",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
-      "summary": "GB source build. Group project."
-    },
-    {
       "developer": "Salvage-Mod Nightlies",
       "free": "true",
       "id": "echo17",
       "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
       "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
       "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
+    },
+    {
+      "developer": "Salvage-Mod",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
+      "summary": "GB source build. Group project."
     },
     {
       "developer": "Fresh",
@@ -151,7 +167,7 @@
     },
     {
       "developer": "Swagged Out Stock",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/697/40e325c213ebeb2999003d52dc979b2b.png",
       "id": "swagstr",
       "manifest": "http://developer.clockworkmod.com/developer/swagstr/manifest",
@@ -166,5 +182,5 @@
       "summary": "ROM's by Team-Nocturnal"
     }
   ],
-  "minversion": "4803"
+  "minversion": "5006"
 }

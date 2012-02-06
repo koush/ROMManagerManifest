@@ -2,6 +2,12 @@
     "version": "1",
     "marketapps": [
     {
+      "name": "SeekDroid",
+      "icon": "http://bit.ly/xCuucP",
+      "url": "http://bit.ly/wY6XaD",
+      "summary": "Track and secure your Android Device for only $4.99!"
+    },
+    {
         "name": "Tether",
         "icon": "https://github.com/ClockworkMod/artwork/raw/master/tether/tether_icon_usb_dark_512.png",
         "summary": "Get internet on your PC using your Android phone! No root required!",

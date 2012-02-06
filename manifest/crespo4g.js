@@ -2,7 +2,7 @@
   "manifests": [
     {
       "developer": "bamtaumod@gmail.com",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/4401/cd16010d91a2b42ba51ecdebe0ad8909.png",
       "id": "BamtauMod",
       "manifest": "http://developer.clockworkmod.com/developer/BamtauMod/manifest",
@@ -10,7 +10,7 @@
     },
     {
       "developer": "Indirect",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/3980/ec89d8b405a63fed078cbb8aa33be970.jpg",
       "id": "Indirect",
       "manifest": "http://developer.clockworkmod.com/developer/Indirect/manifest",
@@ -18,15 +18,23 @@
     },
     {
       "developer": "Newest Nexus S 4g Roms",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/3790/5cfbbd45d87b7b236d795313df8f96d4.jpg",
       "id": "Nexus S 4g Roms",
       "manifest": "http://developer.clockworkmod.com/developer/Nexus S 4g Roms/manifest",
       "summary": "Newest Updates for Nexus S 4g Roms. geovaunie.rolando@gmail.com"
     },
     {
+      "developer": "Font Packs for Android 4.0",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",
+      "id": "ThugEsquire",
+      "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
+      "summary": "Font packs for Android 4.0 (Ice Cream Sandwich) ONLY. Will not work on Android 2.x (Froyo/Gingerbread)."
+    },
+    {
       "developer": "vhgomez36-ICS-NXS-4G",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/1672/c6744e24b10b0312603d0f837b434a2a.png",
       "id": "Tr13dg3001",
       "manifest": "http://developer.clockworkmod.com/developer/Tr13dg3001/manifest",
@@ -42,7 +50,7 @@
     },
     {
       "developer": "aosp",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/322/c97732b0067d16ccf420f20f78b8f36a.png",
       "id": "aospmod",
       "manifest": "http://developer.clockworkmod.com/developer/aospmod/manifest",
@@ -55,6 +63,14 @@
       "id": "blandroid",
       "manifest": "http://blandroid.org/rommanager-manifest.js",
       "summary": "Stable AOSP-based ROM"
+    },
+    {
+      "developer": "burnsra",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/7/d300120dba4a6899701917eecf2be201.png",
+      "id": "burnsra@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/burnsra@gmail.com/manifest",
+      "summary": "CyanogenMod ICS Alpha Releases"
     },
     {
       "developer": "Cerberus",
@@ -73,13 +89,13 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "ClockworkMod",
+      "developer": "Featured Apps",
       "featured": true,
       "free": "true",
       "id": "clockworkmod",
       "icon": "http://bit.ly/xOLFbJ",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
-      "summary": "ROMs and apps from the creator of ROM Manager!"
+      "summary": "Awesome ROMs and apps from the creator of ROM Manager and others!"
     },
     {
       "developer": "Crossbones Software",
@@ -122,7 +138,7 @@
     },
     {
       "developer": "mathkid95",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/1992/7fe1b96f6d5747b17e3b7bb4ce165219.gif",
       "id": "mathkid95",
       "manifest": "http://developer.clockworkmod.com/developer/mathkid95/manifest",
@@ -130,7 +146,7 @@
     },
     {
       "developer": "middlepiller@gmail.com",
-      "free": true,
+      "free": false,
       "id": "middlepiller@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/middlepiller@gmail.com/manifest",
       "summary": "middlepiller@gmail.com"
@@ -153,26 +169,26 @@
     },
     {
       "developer": "redidat420@gmail.com",
-      "free": true,
+      "free": false,
       "id": "redidat420",
       "manifest": "http://developer.clockworkmod.com/developer/redidat420/manifest",
       "summary": "matrix kernel v.14"
     },
     {
       "developer": "StrifeJester",
-      "free": true,
+      "free": false,
       "id": "strifejester",
       "manifest": "http://developer.clockworkmod.com/developer/strifejester/manifest",
       "summary": "StrifeJester AOSP Builds"
     },
     {
-      "developer": "Cyanogenmod 9",
-      "free": true,
+      "developer": "02.06.12 Cyanogenmod 9 02.06.12",
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/3689/a9b19371becc0114d10824ab774ba547.jpg",
-      "id": "taylor.cox75@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/taylor.cox75@gmail.com/manifest",
-      "summary": "idk why I'm not at the top of the Rom List ;(  "
+      "id": "taylorcox75@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/taylorcox75@gmail.com/manifest",
+      "summary": "Last Update: 02.06.12  STABLE"
     }
   ],
-  "minversion": "4803"
+  "minversion": "5006"
 }

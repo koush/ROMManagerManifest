@@ -2,11 +2,19 @@
   "manifests": [
     {
       "developer": "TeamRogue",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/255/eef30cd10645b17f89e2f65186bfb915.png",
       "id": "TeamRogue",
       "manifest": "http://developer.clockworkmod.com/developer/TeamRogue/manifest",
       "summary": "CyanogenMod 7 for the Motorola Cliq/Dext. DO NOT WIPE DATA/CACHE. Our ROM's have a wipe patch included. If you wipe, reinstall without wiping. Please remember DO NOT BACKUP ROM OR WIPE DATA/FACTORY RESET THROUGH ROM MANAGER! "
+    },
+    {
+      "developer": "Font Packs for Android 4.0",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",
+      "id": "ThugEsquire",
+      "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
+      "summary": "Font packs for Android 4.0 (Ice Cream Sandwich) ONLY. Will not work on Android 2.x (Froyo/Gingerbread)."
     },
     {
       "developer": "Cerberus",
@@ -25,13 +33,13 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "ClockworkMod",
+      "developer": "Featured Apps",
       "featured": true,
       "free": "true",
       "id": "clockworkmod",
       "icon": "http://bit.ly/xOLFbJ",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
-      "summary": "ROMs and apps from the creator of ROM Manager!"
+      "summary": "Awesome ROMs and apps from the creator of ROM Manager and others!"
     },
     {
       "developer": "CyanogenMod",
@@ -58,12 +66,12 @@
     },
     {
       "developer": "JayDub",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/637/8b686c72876f16d95da06635ab65049e.png",
       "id": "jay.dub.williams82@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/jay.dub.williams82@gmail.com/manifest",
       "summary": "An AOSP style CM7 with various tweaks to help make it run smoother."
     }
   ],
-  "minversion": "4803"
+  "minversion": "5006"
 }

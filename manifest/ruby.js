@@ -2,11 +2,19 @@
   "manifests": [
     {
       "developer": "Falla7",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/3311/0593c0444a3fad2ad7e98ddda7153476.jpg",
       "id": "Falla7",
       "manifest": "http://developer.clockworkmod.com/developer/Falla7/manifest",
       "summary": "Delivering Arabic and RTL support to Android ROM's"
+    },
+    {
+      "developer": "Font Packs for Android 4.0",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",
+      "id": "ThugEsquire",
+      "manifest": "http://developer.clockworkmod.com/developer/ThugEsquire/manifest",
+      "summary": "Font packs for Android 4.0 (Ice Cream Sandwich) ONLY. Will not work on Android 2.x (Froyo/Gingerbread)."
     },
     {
       "developer": "Cerberus",
@@ -25,17 +33,17 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "ClockworkMod",
+      "developer": "Featured Apps",
       "featured": true,
       "free": "true",
       "id": "clockworkmod",
       "icon": "http://bit.ly/xOLFbJ",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
-      "summary": "ROMs and apps from the creator of ROM Manager!"
+      "summary": "Awesome ROMs and apps from the creator of ROM Manager and others!"
     },
     {
       "developer": "Crackeyes",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2827/9ad0366ae2efd9fcc36c8885b0a13972.jpg",
       "id": "crackeyes@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/crackeyes@gmail.com/manifest",
@@ -51,12 +59,12 @@
     },
     {
       "developer": "Xboarder56",
-      "free": true,
+      "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/663/402e31bd0ad3f6f57f92d29c291c52d7.jpg",
       "id": "xboarder56",
       "manifest": "http://developer.clockworkmod.com/developer/xboarder56/manifest",
       "summary": "Hi, Im xboarder56 a 16 year old kid and make alot of roms for diffrent devices enjoy my work guys :D"
     }
   ],
-  "minversion": "4803"
+  "minversion": "5006"
 }

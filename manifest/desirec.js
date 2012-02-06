@@ -73,5 +73,5 @@
       "summary": "Formerly r2DoesInc, Check out the new stuff. "
     }
   ],
-  "minversion": "5005"
+  "minversion": "4803"
 }

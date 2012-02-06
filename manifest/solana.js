@@ -50,5 +50,5 @@
       "summary": "Making cool things for phones"
     }
   ],
-  "minversion": "5005"
+  "minversion": "4803"
 }

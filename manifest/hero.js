@@ -64,5 +64,5 @@
       "summary": "Multi-language MIUI ROMs. No theme change, 3G, bluetooth and other tunings. Lean and fast."
     }
   ],
-  "minversion": "5005"
+  "minversion": "4803"
 }

@@ -113,5 +113,5 @@
       "summary": "Custom ROM's for Desire S"
     }
   ],
-  "minversion": "5005"
+  "minversion": "4803"
 }

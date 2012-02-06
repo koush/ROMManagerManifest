@@ -50,5 +50,5 @@
       "summary": "Trying to make your device better...."
     }
   ],
-  "minversion": "5005"
+  "minversion": "4803"
 }

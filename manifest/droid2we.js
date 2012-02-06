@@ -58,5 +58,5 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     }
   ],
-  "minversion": "5005"
+  "minversion": "4803"
 }

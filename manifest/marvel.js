@@ -57,5 +57,5 @@
       "summary": "ROM's for Marvel"
     }
   ],
-  "minversion": "5005"
+  "minversion": "4803"
 }

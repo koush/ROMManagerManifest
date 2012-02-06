@@ -56,5 +56,5 @@
       "summary": "me@abimanyu.in"
     }
   ],
-  "minversion": "5005"
+  "minversion": "4803"
 }

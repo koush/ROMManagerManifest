@@ -105,5 +105,5 @@
       "summary": "AOSP Source Built ROMs, MODs & Tweaks"
     }
   ],
-  "minversion": "5005"
+  "minversion": "4803"
 }

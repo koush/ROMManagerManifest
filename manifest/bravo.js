@@ -147,5 +147,5 @@
       "summary": "Modded ROM's HTC Desire"
     }
   ],
-  "minversion": "5005"
+  "minversion": "4803"
 }

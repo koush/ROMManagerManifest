@@ -175,5 +175,5 @@
       "summary": "Mods for the DroidX"
     }
   ],
-  "minversion": "5005"
+  "minversion": "4803"
 }

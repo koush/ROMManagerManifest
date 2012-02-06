@@ -153,5 +153,5 @@
       "summary": "mods and bacons for xperia x10 only!"
     }
   ],
-  "minversion": "5005"
+  "minversion": "4803"
 }

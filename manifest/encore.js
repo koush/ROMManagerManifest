@@ -80,5 +80,5 @@
       "summary": "Bringing you the best of Android."
     }
   ],
-  "minversion": "5005"
+  "minversion": "4803"
 }

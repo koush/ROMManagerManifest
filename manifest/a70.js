@@ -66,5 +66,5 @@
       "summary": "Remember folks, I dont get paid to do this, so donations are greatly apprciated even if its just for $1. You can donate by pressing menu > donate while viewing the ROM list or from the link on my wiki. ;)"
     }
   ],
-  "minversion": "5005"
+  "minversion": "4803"
 }

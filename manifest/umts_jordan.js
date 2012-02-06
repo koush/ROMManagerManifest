@@ -74,5 +74,5 @@
       "summary": "XDA CM7 Original Nightly builds. tpruvot@github"
     }
   ],
-  "minversion": "5005"
+  "minversion": "4803"
 }

@@ -57,5 +57,5 @@
       "summary": "Custom ROMs for the ZTE Racer based on Gingerbread."
     }
   ],
-  "minversion": "5005"
+  "minversion": "4803"
 }

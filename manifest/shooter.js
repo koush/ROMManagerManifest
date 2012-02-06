@@ -104,5 +104,5 @@
       "summary": "Sense 3.5 Android 2.3.5 "
     }
   ],
-  "minversion": "5005"
+  "minversion": "4803"
 }

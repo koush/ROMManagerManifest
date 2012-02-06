@@ -182,5 +182,5 @@
       "summary": "ROM's by Team-Nocturnal"
     }
   ],
-  "minversion": "5005"
+  "minversion": "4803"
 }

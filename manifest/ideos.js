@@ -66,5 +66,5 @@
       "summary": "Don't Rate Poorly Over a ROM in beta especially Ice Cream Sandwich. If you want a stable day 1 ics rom go buy galaxy nexus."
     }
   ],
-  "minversion": "5005"
+  "minversion": "4803"
 }

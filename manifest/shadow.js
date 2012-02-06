@@ -73,5 +73,5 @@
       "summary": "MIUI English releases by MIUI.us"
     }
   ],
-  "minversion": "5005"
+  "minversion": "4803"
 }

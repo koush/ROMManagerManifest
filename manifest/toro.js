@@ -120,5 +120,5 @@
       "summary": "Official downloads from Team BAMF! For awesome Sense 3.0 and HTC device ports and for full support, visit www.teambamf.net!"
     }
   ],
-  "minversion": "5005"
+  "minversion": "4803"
 }

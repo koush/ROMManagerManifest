@@ -117,5 +117,5 @@
       "summary": "TedgyRom Galaxy S I9000 FR"
     }
   ],
-  "minversion": "5005"
+  "minversion": "4803"
 }

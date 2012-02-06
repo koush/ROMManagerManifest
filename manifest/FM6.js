@@ -50,5 +50,5 @@
       "summary": "Mods and Bacon for FM6 variants"
     }
   ],
-  "minversion": "5005"
+  "minversion": "4803"
 }

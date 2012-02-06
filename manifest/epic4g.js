@@ -148,5 +148,5 @@
       "summary": "roms for epic 4g"
     }
   ],
-  "minversion": "5005"
+  "minversion": "4803"
 }

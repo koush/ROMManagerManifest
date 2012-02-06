@@ -129,5 +129,5 @@
       "summary": "Roms, add-ons, mods, themes"
     }
   ],
-  "minversion": "5005"
+  "minversion": "4803"
 }

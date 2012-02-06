@@ -73,5 +73,5 @@
       "summary": "Baseada na CyanogenMod 7, com funcionalidades especiais para o Brasil."
     }
   ],
-  "minversion": "5005"
+  "minversion": "4803"
 }

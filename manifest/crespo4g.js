@@ -190,5 +190,5 @@
       "summary": "idk why I'm not at the top of the Rom List ;(  "
     }
   ],
-  "minversion": "5005"
+  "minversion": "4803"
 }

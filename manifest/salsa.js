@@ -50,5 +50,5 @@
       "summary": "mikerowes69@gmail.com"
     }
   ],
-  "minversion": "5005"
+  "minversion": "4803"
 }

@@ -50,5 +50,5 @@
       "summary": "sduvick"
     }
   ],
-  "minversion": "5005"
+  "minversion": "4803"
 }

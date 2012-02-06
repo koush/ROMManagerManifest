@@ -103,5 +103,5 @@
       "summary": "Atrix Roms"
     }
   ],
-  "minversion": "5005"
+  "minversion": "4803"
 }

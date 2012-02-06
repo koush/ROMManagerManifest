@@ -1594,7 +1594,7 @@
   "use_in_app": false,
   "pontiflex_startup_register": 100,
   "pontiflex_downloading": 100,
-  "manifest": "http://developer.clockworkmod.com/merge/maguro.js",
+  "manifest": "http://developer.clockworkmod.com/merge",
   "version": "2.5.0.1",
   "recovery_url": "http://download.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.img",
   "recovery_zip_url": "http://download.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.zip",

@@ -1586,7 +1586,7 @@
       "name": "HTC EVO View 4G",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ;",
       "version": "5.8.1.5",
-      "init": "init.express.rc",
+      "init": "init.expresskt.rc",
       "key": "express",
       "lunch": "full_express-userdebug"
     }

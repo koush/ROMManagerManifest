@@ -89,13 +89,21 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "Featured Apps",
+      "developer": "ClockworkMod",
       "featured": true,
       "free": "true",
       "id": "clockworkmod",
       "icon": "http://bit.ly/xOLFbJ",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
-      "summary": "Awesome ROMs and apps from the creator of ROM Manager and others!"
+      "summary": "Awesome ROMs and apps from the creator of ROM Manager!"
+    },
+    {
+      "developer": "Codename Android",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/2883/781187578bd7094f3bfa7c21e2b25f2a.png",
+      "id": "codenamedroid",
+      "manifest": "http://developer.clockworkmod.com/developer/codenamedroid/manifest",
+      "summary": "Clean, Fast, Jam-Packed and Fully Open Source"
     },
     {
       "developer": "Crossbones Software",

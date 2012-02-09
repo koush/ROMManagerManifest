@@ -48,13 +48,13 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "Featured Apps",
+      "developer": "ClockworkMod",
       "featured": true,
       "free": "true",
       "id": "clockworkmod",
       "icon": "http://bit.ly/xOLFbJ",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
-      "summary": "Awesome ROMs and apps from the creator of ROM Manager and others!"
+      "summary": "Awesome ROMs and apps from the creator of ROM Manager!"
     },
     {
       "developer": "CyanogenMod",
@@ -70,6 +70,14 @@
       "icon": "http://koush.kanged.net/cm/test/tdr.png",
       "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
+    },
+    {
+      "developer": "Desire ISC ROM",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/1597/0ac32c9adc25de44df31c59c56fa2799.png",
+      "id": "frogfire",
+      "manifest": "http://mirror.mtsgrit.nl/Desire_ICS/update.json",
+      "summary": "by Sandvold"
     },
     {
       "developer": "Google Apps",

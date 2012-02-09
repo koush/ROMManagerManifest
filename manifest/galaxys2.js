@@ -25,13 +25,13 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "Featured Apps",
+      "developer": "ClockworkMod",
       "featured": true,
       "free": "true",
       "id": "clockworkmod",
       "icon": "http://bit.ly/xOLFbJ",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
-      "summary": "Awesome ROMs and apps from the creator of ROM Manager and others!"
+      "summary": "Awesome ROMs and apps from the creator of ROM Manager!"
     },
     {
       "developer": "CyanogenMod",
@@ -62,6 +62,13 @@
       "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
+    },
+    {
+      "developer": "merchant1776@gmail.com",
+      "free": false,
+      "id": "merchant1776@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/merchant1776@gmail.com/manifest",
+      "summary": "merchant1776@gmail.com"
     },
     {
       "developer": "MIUI-PT",

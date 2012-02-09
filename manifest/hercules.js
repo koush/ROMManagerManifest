@@ -33,13 +33,13 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "Featured Apps",
+      "developer": "ClockworkMod",
       "featured": true,
       "free": "true",
       "id": "clockworkmod",
       "icon": "http://bit.ly/xOLFbJ",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
-      "summary": "Awesome ROMs and apps from the creator of ROM Manager and others!"
+      "summary": "Awesome ROMs and apps from the creator of ROM Manager!"
     },
     {
       "developer": "doniqcc",
@@ -56,6 +56,14 @@
       "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
+    },
+    {
+      "developer": "StarskyROB",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/2184/d2459938d5f842f608bbc4c12be194bb.jpg",
+      "id": "robertstoms@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/robertstoms@gmail.com/manifest",
+      "summary": "Minimal Roms with tons of performance tweaks under the hood."
     },
     {
       "developer": "tesh",

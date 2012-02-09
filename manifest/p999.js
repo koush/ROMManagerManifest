@@ -8,12 +8,28 @@
       "summary": "Miui Ports from Android, US and Galnet."
     },
     {
+      "developer": "Mr. Apocalypse",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4623/6acbe59178f5a5c61052011bed502ab2.jpg",
+      "id": "Mr. Apocalypse",
+      "manifest": "http://developer.clockworkmod.com/developer/Mr. Apocalypse/manifest",
+      "summary": "ROM, Kernels, Flashable options for T-Mobile G2x by Mr. Apocalypse"
+    },
+    {
       "developer": "RG2x",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/3299/b391f2fdaadedbb24eaccc7d485e8471.png",
       "id": "RG2x",
       "manifest": "http://developer.clockworkmod.com/developer/RG2x/manifest",
       "summary": "G2x MIUI"
+    },
+    {
+      "developer": "Stormageddon",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4935/26537ac77d02668079ad4228dd70d586.png",
+      "id": "Stormageddon",
+      "manifest": "http://developer.clockworkmod.com/developer/Stormageddon/manifest",
+      "summary": "Stock MIUI ported over for the T-Mobile/LG G2x with the power of the Trinity kernel."
     },
     {
       "developer": "Font Packs for Android 4.0",
@@ -48,13 +64,13 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "Featured Apps",
+      "developer": "ClockworkMod",
       "featured": true,
       "free": "true",
       "id": "clockworkmod",
       "icon": "http://bit.ly/xOLFbJ",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
-      "summary": "Awesome ROMs and apps from the creator of ROM Manager and others!"
+      "summary": "Awesome ROMs and apps from the creator of ROM Manager!"
     },
     {
       "developer": "CyanogenMod",

@@ -55,13 +55,13 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "Featured Apps",
+      "developer": "ClockworkMod",
       "featured": true,
       "free": "true",
       "id": "clockworkmod",
       "icon": "http://bit.ly/xOLFbJ",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
-      "summary": "Awesome ROMs and apps from the creator of ROM Manager and others!"
+      "summary": "Awesome ROMs and apps from the creator of ROM Manager!"
     },
     {
       "developer": "cvpcs",
@@ -132,6 +132,13 @@
       "icon": "https://github.com/pcmac77/Baked-Snack-Manifest-for-ROM-Manager/raw/master/bs.png",
       "manifest": "https://github.com/pcmac77/Baked-Snack-Manifest-for-ROM-Manager/raw/master/bs_manifest.js",
       "summary": "Froyo ROM with Sense by Hero_Over.  See http://bakedsnackshack.com for more info."
+    },
+    {
+      "developer": "joeykrim",
+      "free": true,
+      "id": "joeykrim",
+      "manifest": "http://www.joeykrim.com/evo/ROMManagerManifest/manifest.js",
+      "summary": "joeykrim"
     },
     {
       "developer": "Savaged-Zen",

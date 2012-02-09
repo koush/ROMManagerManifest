@@ -477,6 +477,17 @@
       "summary": "deodexed@gmail.com"
     },
     {
+      "developer": "Mr. Apocalypse",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4623/6acbe59178f5a5c61052011bed502ab2.jpg",
+      "id": "Mr. Apocalypse",
+      "manifest": "http://developer.clockworkmod.com/developer/Mr. Apocalypse/manifest",
+      "roms": {
+        "p999": true
+      },
+      "summary": "ROM, Kernels, Flashable options for T-Mobile G2x by Mr. Apocalypse"
+    },
+    {
       "developer": "Navalynt Roms (3.14 Series)",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/596/5a7d89b16d54be204e888a7f5e5ed390.png",
@@ -718,6 +729,17 @@
         "galaxysmtd": true
       },
       "summary": "MIUI [ES]"
+    },
+    {
+      "developer": "Stormageddon",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4935/26537ac77d02668079ad4228dd70d586.png",
+      "id": "Stormageddon",
+      "manifest": "http://developer.clockworkmod.com/developer/Stormageddon/manifest",
+      "roms": {
+        "p999": true
+      },
+      "summary": "Stock MIUI ported over for the T-Mobile/LG G2x with the power of the Trinity kernel."
     },
     {
       "developer": "TeamGTP",
@@ -1183,7 +1205,7 @@
       "summary": "Cuntomized ROMs for your Android device!"
     },
     {
-      "developer": "Featured Apps",
+      "developer": "ClockworkMod",
       "featured": true,
       "free": "true",
       "id": "clockworkmod",
@@ -1192,7 +1214,7 @@
       "roms": {
         "all": true
       },
-      "summary": "Awesome ROMs and apps from the creator of ROM Manager and others!"
+      "summary": "Awesome ROMs and apps from the creator of ROM Manager!"
     },
     {
       "developer": "Codename Android",
@@ -1202,6 +1224,8 @@
       "manifest": "http://developer.clockworkmod.com/developer/codenamedroid/manifest",
       "roms": {
         "toro": true,
+        "crespo4g": true,
+        "crespo": true,
         "maguro": true
       },
       "summary": "Clean, Fast, Jam-Packed and Fully Open Source"
@@ -1219,7 +1243,7 @@
     {
       "developer": "Crackeyes",
       "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/2827/9ad0366ae2efd9fcc36c8885b0a13972.jpg",
+      "icon": "http://developer.clockworkmod.com/downloads/2827/878ffb14fccdb8787d5c7f26d4d29ca2.JPG",
       "id": "crackeyes@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/crackeyes@gmail.com/manifest",
       "roms": {
@@ -1287,16 +1311,6 @@
         "inc": "true"
       },
       "summary": "Source-based mods made by CVPCS"
-    },
-    {
-      "developer": "u8230/u8220",
-      "free": false,
-      "id": "cyanogenmod",
-      "manifest": "http://developer.clockworkmod.com/developer/cyanogenmod/manifest",
-      "roms": {
-        "pulse": true
-      },
-      "summary": "u8230/u8220"
     },
     {
       "developer": "CyanogenMod",
@@ -1371,6 +1385,16 @@
         "mesmerizemtd": "true"
       },
       "summary": "Mods and bacon for your phone"
+    },
+    {
+      "developer": "u8230/u8220",
+      "free": false,
+      "id": "cyanogenmod",
+      "manifest": "http://developer.clockworkmod.com/developer/cyanogenmod/manifest",
+      "roms": {
+        "pulse": true
+      },
+      "summary": "u8230/u8220"
     },
     {
       "developer": "CM7 Nightlies",
@@ -1754,16 +1778,6 @@
       "summary": "Fresh Rom for Evo and HeroC by flipz"
     },
     {
-      "developer": "florian.schmidt.stargatewissen@g",
-      "free": true,
-      "id": "florian.schmidt.stargatewissen@g",
-      "manifest": "http://juniorwebdevs.co.uk/ONeill/dev_manifest.js",
-      "roms": {
-        "marvel": true
-      },
-      "summary": "florian.schmidt.stargatewissen@gmail.com"
-    },
-    {
       "developer": "forkup",
       "id": "forkup",
       "manifest": "http://www.forkup.info/droidthemes/forkup.js",
@@ -1807,6 +1821,17 @@
         "shooter": true
       },
       "summary": "No Sense, Tweaks, Speed, and Stability. Y U No Flash?!"
+    },
+    {
+      "developer": "Desire ISC ROM",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/1597/0ac32c9adc25de44df31c59c56fa2799.png",
+      "id": "frogfire",
+      "manifest": "http://mirror.mtsgrit.nl/Desire_ICS/update.json",
+      "roms": {
+        "bravo": true
+      },
+      "summary": "by Sandvold"
     },
     {
       "developer": "FrostIncredible",
@@ -2208,6 +2233,17 @@
       "summary": "jocala@jocala.com"
     },
     {
+      "developer": "joeykrim",
+      "free": true,
+      "id": "joeykrim",
+      "manifest": "http://www.joeykrim.com/evo/ROMManagerManifest/manifest.js",
+      "roms": {
+        "shooter": true,
+        "supersonic": true
+      },
+      "summary": "joeykrim"
+    },
+    {
       "developer": "jondevere@gmail.com",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/695/baaa677e69d0e0b6eaaa2d46f851e9e8.gif",
@@ -2533,6 +2569,16 @@
         "p920": true
       },
       "summary": "me@abimanyu.in"
+    },
+    {
+      "developer": "merchant1776@gmail.com",
+      "free": false,
+      "id": "merchant1776@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/merchant1776@gmail.com/manifest",
+      "roms": {
+        "galaxys2": true
+      },
+      "summary": "merchant1776@gmail.com"
     },
     {
       "developer": "metiCkOne",
@@ -2872,8 +2918,8 @@
         "toro": true,
         "sholes": true,
         "crespo4g": true,
-        "inc": true,
         "crespo": true,
+        "inc": true,
         "maguro": true
       },
       "summary": "Newer builds at download.peteralfonso.com"
@@ -2923,7 +2969,7 @@
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/698/074ffc9076a1f373a6ea92c739f48e82.png",
       "id": "psyke83",
-      "manifest": "http://psyke83.github.com/manifest.js",
+      "manifest": "http://psyke83.github.com/rommanager_manifest/manifest.js",
       "roms": {
         "galaxy5": true,
         "u8160": true
@@ -3055,7 +3101,8 @@
       "manifest": "http://developer.clockworkmod.com/developer/robertstoms@gmail.com/manifest",
       "roms": {
         "epicmtd": true,
-        "epic4g": true
+        "epic4g": true,
+        "hercules": true
       },
       "summary": "Minimal Roms with tons of performance tweaks under the hood."
     },
@@ -3275,6 +3322,17 @@
         "crespo4g": true
       },
       "summary": "Last Update: 02.06.12  STABLE"
+    },
+    {
+      "developer": "Team Eos",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/2759/1b34be00503ef03b7d47899ef0d1a1f4.png",
+      "id": "teameos",
+      "manifest": "http://teameos.github.com/manifest.js",
+      "roms": {
+        "stingray": true
+      },
+      "summary": "Eos AOSP Roms"
     },
     {
       "developer": "MyUI",
@@ -3497,9 +3555,9 @@
     {
       "developer": "WFSDev Team",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/4853/9c76f7c30061f6edda84452bc05994f8.png",
+      "icon": "http://developer.clockworkmod.com/downloads/4912/5d38bad99aab9347b974d7f23e8b92c8.png",
       "id": "wfsdev",
-      "manifest": "http://juniorwebdevs.co.uk/ONeill/dev_manifest.js",
+      "manifest": "http://www.juniorwebdevs.co.uk/ONeill/dev_manifest.js",
       "roms": {
         "marvel": true
       },

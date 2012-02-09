@@ -33,13 +33,13 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "Featured Apps",
+      "developer": "ClockworkMod",
       "featured": true,
       "free": "true",
       "id": "clockworkmod",
       "icon": "http://bit.ly/xOLFbJ",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
-      "summary": "Awesome ROMs and apps from the creator of ROM Manager and others!"
+      "summary": "Awesome ROMs and apps from the creator of ROM Manager!"
     },
     {
       "developer": "DrewGaren Roms",
@@ -64,6 +64,14 @@
       "id": "pete",
       "manifest": "http://wonderly.com/bb/WEBSITE/pete.js",
       "summary": "Newer builds at download.peteralfonso.com"
+    },
+    {
+      "developer": "Team Eos",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/2759/1b34be00503ef03b7d47899ef0d1a1f4.png",
+      "id": "teameos",
+      "manifest": "http://teameos.github.com/manifest.js",
+      "summary": "Eos AOSP Roms"
     }
   ],
   "minversion": "5006"

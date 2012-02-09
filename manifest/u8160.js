@@ -25,13 +25,13 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "Featured Apps",
+      "developer": "ClockworkMod",
       "featured": true,
       "free": "true",
       "id": "clockworkmod",
       "icon": "http://bit.ly/xOLFbJ",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
-      "summary": "Awesome ROMs and apps from the creator of ROM Manager and others!"
+      "summary": "Awesome ROMs and apps from the creator of ROM Manager!"
     },
     {
       "developer": "Google Apps",
@@ -46,7 +46,7 @@
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/698/074ffc9076a1f373a6ea92c739f48e82.png",
       "id": "psyke83",
-      "manifest": "http://psyke83.github.com/manifest.js",
+      "manifest": "http://psyke83.github.com/rommanager_manifest/manifest.js",
       "summary": "CyanogenMod ROMs for various devices"
     }
   ],

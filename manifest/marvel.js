@@ -25,20 +25,13 @@
       "summary": "Managing root like it's going out of style"
     },
     {
-      "developer": "Featured Apps",
+      "developer": "ClockworkMod",
       "featured": true,
       "free": "true",
       "id": "clockworkmod",
       "icon": "http://bit.ly/xOLFbJ",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",
-      "summary": "Awesome ROMs and apps from the creator of ROM Manager and others!"
-    },
-    {
-      "developer": "florian.schmidt.stargatewissen@g",
-      "free": true,
-      "id": "florian.schmidt.stargatewissen@g",
-      "manifest": "http://juniorwebdevs.co.uk/ONeill/dev_manifest.js",
-      "summary": "florian.schmidt.stargatewissen@gmail.com"
+      "summary": "Awesome ROMs and apps from the creator of ROM Manager!"
     },
     {
       "developer": "Google Apps",
@@ -59,9 +52,9 @@
     {
       "developer": "WFSDev Team",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/4853/9c76f7c30061f6edda84452bc05994f8.png",
+      "icon": "http://developer.clockworkmod.com/downloads/4912/5d38bad99aab9347b974d7f23e8b92c8.png",
       "id": "wfsdev",
-      "manifest": "http://juniorwebdevs.co.uk/ONeill/dev_manifest.js",
+      "manifest": "http://www.juniorwebdevs.co.uk/ONeill/dev_manifest.js",
       "summary": "We make your marvel better!"
     }
   ],

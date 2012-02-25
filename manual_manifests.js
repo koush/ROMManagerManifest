@@ -715,17 +715,6 @@
         "summary": "ROMs & kernels for HTC EVO 4G, Droid Incredible"
     },
     {
-        "developer": "EVO Stock and Radios",
-        "icon": "http://drmacinyasha.github.com/EVO-Stock-RM-Manifest/icon.png",
-        "id": "drmacinyasha",
-        "free": "true",
-        "manifest": "http://drmacinyasha.github.com/EVO-Stock-RM-Manifest/manifest.js",
-        "roms": {
-            "supersonic": "true"
-        },
-        "summary": "Updates for stock ROMs, radio, hboot"
-    },
-    {
         "developer": "Trock79",
         "id": "trock79",
         "free": "true",

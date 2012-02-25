@@ -115,6 +115,14 @@
       "summary": "Great themes and more :)"
     },
     {
+      "developer": "MIUIAndroid",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/3888/4ffbb120e979bb22f675f07d0fab7ada.png",
+      "id": "miuiandroid",
+      "manifest": "http://developer.clockworkmod.com/developer/miuiandroid/manifest",
+      "summary": "MIUI Builds from MIUIAndroid.com"
+    },
+    {
       "developer": "MIUI-PT",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",

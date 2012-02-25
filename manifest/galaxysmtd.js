@@ -16,14 +16,6 @@
       "summary": "Font packs for Android 4.0 (Ice Cream Sandwich) ONLY. Will not work on Android 2.x (Froyo/Gingerbread)."
     },
     {
-      "developer": "CM7/MIUI Modems",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/906/345cd0c4eb6761583217eca857969c4a.png",
-      "id": "bohdan.s@gmail.com",
-      "manifest": "http://everyrandom.com/RomManager/manifest.js",
-      "summary": "Modems for ClockworkMod7 and MIUI - OVER 50!"
-    },
-    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",
@@ -70,6 +62,14 @@
       "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
       "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
       "summary": "Add-on for AOSP ROMs, such as CM"
+    },
+    {
+      "developer": "MIUIAndroid",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/3888/4ffbb120e979bb22f675f07d0fab7ada.png",
+      "id": "miuiandroid",
+      "manifest": "http://developer.clockworkmod.com/developer/miuiandroid/manifest",
+      "summary": "MIUI Builds from MIUIAndroid.com"
     },
     {
       "developer": "MIUI-PT",

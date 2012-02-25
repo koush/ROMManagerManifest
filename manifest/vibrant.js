@@ -74,6 +74,14 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
+      "developer": "MIUIAndroid",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/3888/4ffbb120e979bb22f675f07d0fab7ada.png",
+      "id": "miuiandroid",
+      "manifest": "http://developer.clockworkmod.com/developer/miuiandroid/manifest",
+      "summary": "MIUI Builds from MIUIAndroid.com"
+    },
+    {
       "developer": "MIUI-PT",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
@@ -88,6 +96,14 @@
       "id": "phiredrop",
       "manifest": "http://developer.clockworkmod.com/developer/phiredrop/manifest",
       "summary": "Bringing you the best of Android."
+    },
+    {
+      "developer": "Team Kang",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/25/db61b8511c32d13d8121f99fd902f6a6.png",
+      "id": "teamkang",
+      "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
+      "summary": "We came. We saw. We kanged."
     }
   ],
   "minversion": "5006"

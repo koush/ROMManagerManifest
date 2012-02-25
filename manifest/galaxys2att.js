@@ -1,22 +1,6 @@
 {
   "manifests": [
     {
-      "developer": "Rafyvitto",
-      "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/177/700bcfbb335a940d5d43aab2894d058d.jpg",
-      "id": "Android-Maisters",
-      "manifest": "http://developer.clockworkmod.com/developer/Android-Maisters/manifest",
-      "summary": "Android-Maisters latest and greatest!"
-    },
-    {
-      "developer": "DEVxSGS2xATT",
-      "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/3932/b41ff35b07195b6191951d41a99311ec.png",
-      "id": "DEVxSGS2xATT",
-      "manifest": "http://developer.clockworkmod.com/developer/DEVxSGS2xATT/manifest",
-      "summary": "CyanogenMod 9 Nightly Builds by DEVxSGS2xATT. Experimental: USE AT OWN RISK."
-    },
-    {
       "developer": "Font Packs for Android 4.0",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",

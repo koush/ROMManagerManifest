@@ -16,14 +16,6 @@
       "summary": "Costum ROM with Darktremor Apps2SD,Ext4 and SD-Card-Fix! Now with ILWT-Kernel"
     },
     {
-      "developer": "SparksCo",
-      "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/293/cf525bafa8894bfea108d2e1387e6e52.png",
-      "id": "SparksCo",
-      "manifest": "http://developer.clockworkmod.com/developer/SparksCo/manifest",
-      "summary": "Various Android Mods"
-    },
-    {
       "developer": "Font Packs for Android 4.0",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",
@@ -109,6 +101,14 @@
       "id": "htcclay",
       "manifest": "http://developer.clockworkmod.com/developer/htcclay/manifest",
       "summary": "Go Go Go!"
+    },
+    {
+      "developer": "MIUIAndroid",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/3888/4ffbb120e979bb22f675f07d0fab7ada.png",
+      "id": "miuiandroid",
+      "manifest": "http://developer.clockworkmod.com/developer/miuiandroid/manifest",
+      "summary": "MIUI Builds from MIUIAndroid.com"
     },
     {
       "developer": "MIUI-PT",

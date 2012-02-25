@@ -43,10 +43,10 @@
     },
     {
       "developer": "mb-14",
-      "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/1439/871e124edd94070a1cbb581aa2348962.png",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/1439/cc89f0341a99c9e566814a30a687b09b.jpg",
       "id": "mb-14",
-      "manifest": "http://developer.clockworkmod.com/developer/mb-14/manifest",
+      "manifest": "http://dl.dropbox.com/u/21654931/Rom_Manager/mb-14.js",
       "summary": "Mods and Bacon for FM6 variants"
     }
   ],

@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+      "developer": "CyanogenEvo",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4615/ed1ea24f2ee14f86d0109aa112915c4b.jpg",
+      "id": "EvoMod",
+      "manifest": "http://developer.clockworkmod.com/developer/EvoMod/manifest",
+      "summary": "LG P500 Gingerbread/ICS roms, for new and old baseband"
+    },
+    {
       "developer": "Font Packs for Android 4.0",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",

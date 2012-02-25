@@ -97,12 +97,28 @@
       "summary": "Kernels, roms, and more"
     },
     {
+      "developer": "MIUI.us",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
+      "id": "miuius",
+      "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
+      "summary": "MIUI English releases by MIUI.us"
+    },
+    {
       "developer": "Peter Alfonso",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/809/659eb3522bfe789439b8808bf720d8c0.png",
       "id": "pete",
       "manifest": "http://wonderly.com/bb/WEBSITE/pete.js",
       "summary": "Newer builds at download.peteralfonso.com"
+    },
+    {
+      "developer": "Team Kang",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/25/db61b8511c32d13d8121f99fd902f6a6.png",
+      "id": "teamkang",
+      "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
+      "summary": "We came. We saw. We kanged."
     },
     {
       "developer": "winner00",

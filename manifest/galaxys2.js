@@ -71,6 +71,14 @@
       "summary": "merchant1776@gmail.com"
     },
     {
+      "developer": "MIUIAndroid",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/3888/4ffbb120e979bb22f675f07d0fab7ada.png",
+      "id": "miuiandroid",
+      "manifest": "http://developer.clockworkmod.com/developer/miuiandroid/manifest",
+      "summary": "MIUI Builds from MIUIAndroid.com"
+    },
+    {
       "developer": "MIUI-PT",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
@@ -95,12 +103,12 @@
       "summary": "Roms modificadas para gran rendimiento y minimo consumo,con multitud de mods"
     },
     {
-      "developer": "simone201",
-      "free": false,
+      "developer": "N.E.A.K. Kernel",
+      "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/4718/9675b2179134fab152993ba81ed2c425.jpg",
-      "id": "simone201@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/simone201@gmail.com/manifest",
-      "summary": "N.E.A.K. Kernel for I9100 Dev"
+      "id": "simone201",
+      "manifest": "http://mirror.zantekk.de/neak/rom-manager/neak_manifest.js",
+      "summary": "N.E.A.K. Kernel for International I9100"
     },
     {
       "developer": "Novek",
@@ -108,6 +116,14 @@
       "id": "trondkevin@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/trondkevin@gmail.com/manifest",
       "summary": "Happy XDA'er"
+    },
+    {
+      "developer": "Mechanic Rom",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/5370/2a550f74c2439b62dfc9772a93a15a35.png",
+      "id": "yovelnu@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/yovelnu@gmail.com/manifest",
+      "summary": "THE MECHANIC ROM FOR THE SAMSUNG GALAXY SII"
     }
   ],
   "minversion": "5006"

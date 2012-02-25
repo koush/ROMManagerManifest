@@ -23,14 +23,6 @@
       "summary": "OMJ's HTC EVO ROMs"
     },
     {
-      "developer": "Sinister ROM",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/400/29a8f50929b1d09f36fde793c9ff2943.png",
-      "id": "SinisterTensai",
-      "manifest": "http://sinister.goo-inside.me/Romlist.js",
-      "summary": "Sinister Speeds, Sinister looks"
-    },
-    {
       "developer": "Font Packs for Android 4.0",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",
@@ -87,12 +79,12 @@
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
     {
-      "developer": "EVO Stock and Radios",
+      "developer": "Salvage-Mod",
       "free": "true",
-      "id": "drmacinyasha",
-      "icon": "http://drmacinyasha.github.com/EVO-Stock-RM-Manifest/icon.png",
-      "manifest": "http://drmacinyasha.github.com/EVO-Stock-RM-Manifest/manifest.js",
-      "summary": "Updates for stock ROMs, radio, hboot"
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
+      "summary": "GB source build. Group project."
     },
     {
       "developer": "Salvage-Mod Nightlies",
@@ -101,14 +93,6 @@
       "icon": "http://echo17.github.com/SMROMManagerManifest/nightly.png",
       "manifest": "http://echo17.github.com/SMROMManagerManifest/nightly.js",
       "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
-    },
-    {
-      "developer": "Salvage-Mod",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
-      "summary": "GB source build. Group project."
     },
     {
       "developer": "Fresh",
@@ -179,14 +163,6 @@
       "id": "swagstr",
       "manifest": "http://developer.clockworkmod.com/developer/swagstr/manifest",
       "summary": "Stock ROM with a ton of bloatware removed and some added swag"
-    },
-    {
-      "developer": "Team-Nocturnal ROM's",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/3159/9e67f81f6473af42529d9c5eb39e0536.png",
-      "id": "teamnocturnalandroid@gmail.com",
-      "manifest": "http://sinister.goo-inside.me/TN/TNromlist.js",
-      "summary": "ROM's by Team-Nocturnal"
     }
   ],
   "minversion": "5006"

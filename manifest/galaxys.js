@@ -9,14 +9,6 @@
       "summary": "Font packs for Android 4.0 (Ice Cream Sandwich) ONLY. Will not work on Android 2.x (Froyo/Gingerbread)."
     },
     {
-      "developer": "CM7/MIUI Modems",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/906/345cd0c4eb6761583217eca857969c4a.png",
-      "id": "bohdan.s@gmail.com",
-      "manifest": "http://everyrandom.com/RomManager/manifest.js",
-      "summary": "Modems for ClockworkMod7 and MIUI - OVER 50!"
-    },
-    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",

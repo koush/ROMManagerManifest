@@ -200,12 +200,12 @@
       "summary": "mathkid95@gmail.com"
     },
     {
-      "developer": "MIUI-PT",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/575/c19be5475e866406d78eff7f3486305c.png",
-      "id": "miuiportugal",
-      "manifest": "http://www.roms.miui-pt.com/manifest/miuipt.js",
-      "summary": "Smoothest, Fastest, Gorgeous, all the best stuff in one rom. Try and let us know your feedback."
+      "developer": "MIUIAndroid",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/3888/4ffbb120e979bb22f675f07d0fab7ada.png",
+      "id": "miuiandroid",
+      "manifest": "http://developer.clockworkmod.com/developer/miuiandroid/manifest",
+      "summary": "MIUI Builds from MIUIAndroid.com"
     },
     {
       "developer": "Peter Alfonso",
@@ -222,6 +222,22 @@
       "id": "stock",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/stock.js",
       "summary": "Revert back to stock phone images."
+    },
+    {
+      "developer": "Tameside Biz",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/2191/ea3536d41203eab9c7ed7b224dfbc05d.png",
+      "id": "tamesidebiz@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/tamesidebiz@gmail.com/manifest",
+      "summary": "Custom ROMs and software for Android. Weekly updates."
+    },
+    {
+      "developer": "Team Kang",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/25/db61b8511c32d13d8121f99fd902f6a6.png",
+      "id": "teamkang",
+      "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
+      "summary": "We came. We saw. We kanged."
     }
   ],
   "minversion": "5006"

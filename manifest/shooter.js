@@ -95,14 +95,6 @@
       "summary": "The Configurator"
     },
     {
-      "developer": "Team-Nocturnal ROM's",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/3159/9e67f81f6473af42529d9c5eb39e0536.png",
-      "id": "teamnocturnalandroid@gmail.com",
-      "manifest": "http://sinister.goo-inside.me/TN/TNromlist.js",
-      "summary": "ROM's by Team-Nocturnal"
-    },
-    {
       "developer": "Sense 3.5 Ports",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/822/cfae65dc7496f8d03671558307a5441d.jpg",

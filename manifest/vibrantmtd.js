@@ -65,20 +65,20 @@
       "summary": "Go Go Go!"
     },
     {
-      "developer": "icspassion",
-      "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/4351/ff6bfeee0a06ca17e44e078300c09bda.jpg",
-      "id": "icspassion",
-      "manifest": "http://developer.clockworkmod.com/developer/icspassion/manifest",
-      "summary": "ICS 4.0.3"
-    },
-    {
       "developer": "Infinitybiff",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/653/7dc90deb235d7f8e522085e09fad294a.png",
       "id": "infinitybiff@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/infinitybiff@gmail.com/manifest",
       "summary": "A fine blend of AOSP, CM7, and Unicorns"
+    },
+    {
+      "developer": "MIUIAndroid",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/3888/4ffbb120e979bb22f675f07d0fab7ada.png",
+      "id": "miuiandroid",
+      "manifest": "http://developer.clockworkmod.com/developer/miuiandroid/manifest",
+      "summary": "MIUI Builds from MIUIAndroid.com"
     },
     {
       "developer": "MIUI-PT",
@@ -119,6 +119,22 @@
       "id": "rfvbnji91@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/rfvbnji91@gmail.com/manifest",
       "summary": "AOSP Source Built ROMs, MODs & Tweaks"
+    },
+    {
+      "developer": "Team Kang",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/25/db61b8511c32d13d8121f99fd902f6a6.png",
+      "id": "teamkang",
+      "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
+      "summary": "We came. We saw. We kanged."
+    },
+    {
+      "developer": "Team Passion",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4351/ff6bfeee0a06ca17e44e078300c09bda.jpg",
+      "id": "teampassion",
+      "manifest": "http://developer.clockworkmod.com/developer/teampassion/manifest",
+      "summary": "ICS 4.0.3"
     }
   ],
   "minversion": "5006"

@@ -98,6 +98,14 @@
       "summary": "Awesome ROMs and apps from the creator of ROM Manager!"
     },
     {
+      "developer": "CrashMan79",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/5076/51ba30d5d9e29a8bfe97ad68e3165259.jpg",
+      "id": "cm79",
+      "manifest": "http://developer.clockworkmod.com/developer/cm79/manifest",
+      "summary": "Put here for ME (and you)"
+    },
+    {
       "developer": "Codename Android",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2883/781187578bd7094f3bfa7c21e2b25f2a.png",
@@ -196,6 +204,14 @@
       "id": "taylorcox75@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/taylorcox75@gmail.com/manifest",
       "summary": "Last Update: 02.06.12  STABLE"
+    },
+    {
+      "developer": "Team Kang",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/25/db61b8511c32d13d8121f99fd902f6a6.png",
+      "id": "teamkang",
+      "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
+      "summary": "We came. We saw. We kanged."
     }
   ],
   "minversion": "5006"

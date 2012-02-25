@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+      "developer": "t-mobile",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4057/b5d6607a94ec19194312073f787fd2d9.img",
+      "id": "23001",
+      "manifest": "http://developer.clockworkmod.com/developer/23001/manifest",
+      "summary": "wfs"
+    },
+    {
       "developer": "Font Packs for Android 4.0",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",
@@ -52,7 +60,7 @@
     {
       "developer": "WFSDev Team",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/4912/5d38bad99aab9347b974d7f23e8b92c8.png",
+      "icon": "http://developer.clockworkmod.com/downloads/4912/7d85f1ab87d0d55a37731a2f01f2cca3.png",
       "id": "wfsdev",
       "manifest": "http://www.juniorwebdevs.co.uk/ONeill/dev_manifest.js",
       "summary": "We make your marvel better!"

@@ -42,6 +42,13 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
+      "developer": "jmichaelanthony@gmail.com",
+      "free": false,
+      "id": "jmichaelanthony@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/jmichaelanthony@gmail.com/manifest",
+      "summary": "jmichaelanthony@gmail.com"
+    },
+    {
       "developer": "ROMs by PlayfulGod",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/480/046c8e21484dc21189721004ec151520.png",

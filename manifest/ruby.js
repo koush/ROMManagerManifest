@@ -58,6 +58,14 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
+      "developer": "StarskyROB",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/2184/d2459938d5f842f608bbc4c12be194bb.jpg",
+      "id": "robertstoms@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/robertstoms@gmail.com/manifest",
+      "summary": "Minimal Roms with tons of performance tweaks under the hood."
+    },
+    {
       "developer": "Xboarder56",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/663/402e31bd0ad3f6f57f92d29c291c52d7.jpg",

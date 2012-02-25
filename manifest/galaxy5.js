@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+      "developer": "MadTeam USR",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/5418/c15cb0079b587cf18d5b2cf61f9427bf.jpg",
+      "id": "Rafd08",
+      "manifest": "http://developer.clockworkmod.com/developer/Rafd08/manifest",
+      "summary": "(G5 ONLY)Alpha versions of unofficial CM9 port for GT-I5500"
+    },
+    {
       "developer": "Scozza",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/1821/fb551e70fcf39b45280de2a6e7b929cb.jpg",

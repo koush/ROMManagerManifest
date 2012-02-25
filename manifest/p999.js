@@ -128,6 +128,14 @@
       "summary": "G2X Clean and Simple rom based on LG 2.3.4 Code"
     },
     {
+      "developer": "Team Kang",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/25/db61b8511c32d13d8121f99fd902f6a6.png",
+      "id": "teamkang",
+      "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
+      "summary": "We came. We saw. We kanged."
+    },
+    {
       "developer": "x0xhellx0x",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/3376/f065110e9428fe7defad32da13782797.gif",

@@ -24,6 +24,14 @@
       "summary": "STABLE Super Fast ROM; ANDROID 2.3.4"
     },
     {
+      "developer": "JHutson456",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/5067/fc2f755075fe772243b586960d275b7b.png",
+      "id": "JHutson456",
+      "manifest": "http://developer.clockworkmod.com/developer/JHutson456/manifest",
+      "summary": "InsomMIUI build from AndroidInsomnia"
+    },
+    {
       "developer": "SnakeBiteZZ",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/178/75a44ae18b10c58a76c785cbf245f3f0.jpg",

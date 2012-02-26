@@ -101,7 +101,7 @@
         "developer": "CyanogenMod Nightlies",
         "icon": "http://koush.kanged.net/cm/test/tdr.png",
         "id": "cyanogenmodnightly",
-        "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
+        "manifest": "http://jenkinsmanifest.clockworkmod.com/",
         "roms": {
             "p500": "true",
             "e730": "true",

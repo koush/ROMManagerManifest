@@ -87,17 +87,6 @@
         "summary": "Mods and bacon for your phone"
     },
     {
-        "developer": "CyanogenMod",
-        "icon": "http://koush.kanged.net/cm/test/cm2.png",
-        "id": "cyanogenmodmagic",
-        "free": "true",
-        "manifest": "http://briancrook.ca/RM.php",
-        "roms": {
-            "magic": "true"
-        },
-        "summary": "Mods and bacon for your phone"
-    },
-    {
         "developer": "CyanogenMod Nightlies",
         "icon": "http://koush.kanged.net/cm/test/tdr.png",
         "id": "cyanogenmodnightly",
@@ -159,16 +148,6 @@
             "z71": "true",
             "heroc": "true",
             "zero": "true"
-        },
-        "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
-    },
-    {
-        "developer": "CyanogenMod Nightlies",
-        "icon": "http://koush.kanged.net/cm/test/cm2.png",
-        "id": "cyanogenmodnightlymagic",
-        "manifest": "http://briancrook.ca/RM_nightly.php",
-        "roms": {
-            "magic": "true"
         },
         "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },

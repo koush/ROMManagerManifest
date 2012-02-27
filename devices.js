@@ -1600,7 +1600,7 @@
     },
     {
       "name": "Asus Transformer Prime",
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p4 ;",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p4 ; reboot ;",
       "version": "5.5.0.4",
       "init": "init.cardhu.rc",
       "key": "tf201",

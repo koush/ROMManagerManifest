@@ -134,6 +134,14 @@
       "id": "waynestrattonjr@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/waynestrattonjr@gmail.com/manifest",
       "summary": "Official downloads from Team BAMF! For awesome Sense 3.0 and HTC device ports and for full support, visit www.teambamf.net!"
+    },
+    {
+      "developer": "Euroskank - CM9 kangs",
+      "free": true,
+      "icon": "http://fitsnugly.euroskank.com/cm-1up-114.png",
+      "id": "euroskank",
+      "manifest": "http://fitsnugly.euroskank.com/skankwich/manifest.js",
+      "summary": "Skanky CM9 Kangs"
     }
   ],
   "minversion": "5006"

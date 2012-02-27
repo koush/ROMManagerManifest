@@ -127,6 +127,14 @@
       "id": "teamkang",
       "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
       "summary": "We came. We saw. We kanged."
+    },
+    {
+      "developer": "Euroskank - CM9 kangs",
+      "free": true,
+      "icon": "http://fitsnugly.euroskank.com/cm-1up-114.png",
+      "id": "euroskank",
+      "manifest": "http://fitsnugly.euroskank.com/skankwich/manifest.js",
+      "summary": "Skanky CM9 Kangs"
     }
   ],
   "minversion": "5006"

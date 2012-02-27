@@ -3737,6 +3737,18 @@
         "buzz": true
       },
       "summary": "zlovrednij@gmail.com"
+    },
+    {
+      "developer": "Euroskank - CM9 kangs",
+      "free": true,
+      "icon": "http://fitsnugly.euroskank.com/cm-1up-114.png",
+      "id": "eurosank",
+      "manifest": "http://fitsnugly.euroskank.com/skankwich/manifest.js",
+      "roms": {
+        "maguro": true,
+        "toro": true
+      },
+      "summary": "Skanky CM9 Kangs"
     }
   ],
   "minversion": "5006"

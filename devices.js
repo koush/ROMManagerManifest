@@ -1607,6 +1607,22 @@
       "init": "init.cardhu.rc",
       "key": "tf201",
       "lunch": "cm_tf201-userdebug"
+    },
+    {
+      "name": "Motorola Droid 4",
+      "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
+      "version": "5.0.2.0",
+      "init": "init.mapphone_cdma.rc",
+      "officially_supported": false,
+      "key": "maserati"
+    },
+    {
+      "name": "Motorola RAZR",
+      "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
+      "version": "5.0.2.0",
+      "init": "init.mapphone_cdma.rc",
+      "officially_supported": false,
+      "key": "spyder"
     }
   ],
   "pontiflex_downloading": 100,

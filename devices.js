@@ -1623,7 +1623,7 @@
       "officially_supported": false
     },
     {
-      "name": "HTC Wildfire CDMA",
+      "name": "HTC Wildfire S CDMA",
       "version": "5.0.2.8",
       "init": "init.marvelc.rc",
       "key": "marvelc",

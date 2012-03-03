@@ -1628,6 +1628,14 @@
       "init": "init.marvelc.rc",
       "key": "marvelc",
       "lunch": "full_marvelc-eng"
+    },
+    {
+      "name": "Asus Transformer",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p4 ;",
+      "version": "5.5.0.4",
+      "init": "init.ventana.rc",
+      "key": "tf101",
+      "lunch": "cm_tf101-userdebug"
     }
   ],
   "use_in_app": false,

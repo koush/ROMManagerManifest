@@ -1128,7 +1128,10 @@
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 ; ",
       "version": "5.0.2.7",
       "touch_version": "5.8.1.5",
-      "init": "init.p920.rc",
+      "inits": [
+        "init.p920.rc",
+        "/bootimages/opening_01.rle"
+      ],
       "legacy_versions": [
         "4.0.0.7",
         "4.0.0.9",

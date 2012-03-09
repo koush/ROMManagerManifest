@@ -105,11 +105,12 @@
       "summary": "Mods and bacon for your phone"
     },
     {
-      "developer": "CyanogenMod Nightlies",
-      "id": "cyanogenmodnightly",
-      "icon": "http://koush.kanged.net/cm/test/tdr.png",
-      "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
-      "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
+      "developer": "Euroskank CM7 Kangs",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/5713/74a6720ae9a8ddbd1f7e86a89802edc8.png",
+      "id": "euroskank-cm7",
+      "manifest": "http://fitsnugly.euroskank.com/gigglebread/manifest.js",
+      "summary": "Skanky CM7 Kangs"
     },
     {
       "developer": "Faux123 Custom ROMs",
@@ -160,12 +161,35 @@
       "summary": "ROMs & kernels for HTC EVO 4G, Droid Incredible"
     },
     {
+      "developer": "michaelmcelveen913@gmail.com",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/1391/c7ab7dd6dfb2517df7b284632f253383.jpg",
+      "id": "michaelmcelveen913@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/michaelmcelveen913@gmail.com/manifest",
+      "summary": "michaelmcelveen913@gmail.com"
+    },
+    {
+      "developer": "MIUIAndroid",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/3888/4ffbb120e979bb22f675f07d0fab7ada.png",
+      "id": "miuiandroid",
+      "manifest": "http://developer.clockworkmod.com/developer/miuiandroid/manifest",
+      "summary": "MIUI Builds from MIUIAndroid.com"
+    },
+    {
       "developer": "MIUI.us",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
       "id": "miuius",
       "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
       "summary": "MIUI English releases by MIUI.us"
+    },
+    {
+      "developer": "vorobei1382@gmail.com",
+      "free": false,
+      "id": "vorobei1382@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/vorobei1382@gmail.com/manifest",
+      "summary": "vorobei1382@gmail.com"
     }
   ],
   "minversion": "5006"

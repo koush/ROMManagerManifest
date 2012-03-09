@@ -1,6 +1,14 @@
 {
   "manifests": [
     {
+      "developer": "Jmz",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/1308/e941956e38660c4a13dc50b69b5bd012.jpg",
+      "id": "Jmz",
+      "manifest": "http://developer.clockworkmod.com/developer/Jmz/manifest",
+      "summary": "Stock Rom tweaked heavily"
+    },
+    {
       "developer": "Font Packs for Android 4.0",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",
@@ -34,14 +42,6 @@
       "summary": "Awesome ROMs and apps from the creator of ROM Manager!"
     },
     {
-      "developer": "CyanogenMod",
-      "free": "true",
-      "id": "cyanogenmod",
-      "icon": "http://koush.kanged.net/cm/test/cm2.png",
-      "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
-      "summary": "Mods and bacon for your phone"
-    },
-    {
       "developer": "Google Apps",
       "free": "true",
       "id": "google",
@@ -50,19 +50,11 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
-      "developer": "jt1134",
-      "free": false,
-      "id": "jt1134",
-      "manifest": "http://developer.clockworkmod.com/developer/jt1134/manifest",
-      "summary": "jt1134"
-    },
-    {
-      "developer": "MIUI.us",
+      "developer": "Team MarvelUSc",
       "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/168/76d6dd4dd7320bad418af79ae58fa628.png",
-      "id": "miuius",
-      "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
-      "summary": "MIUI English releases by MIUI.us"
+      "id": "simonsimons34",
+      "manifest": "http://dl.dropbox.com/u/51192386/settings.js",
+      "summary": "The best CDMA Roms. Period."
     },
     {
       "developer": "vorobei1382@gmail.com",
@@ -70,6 +62,14 @@
       "id": "vorobei1382@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/vorobei1382@gmail.com/manifest",
       "summary": "vorobei1382@gmail.com"
+    },
+    {
+      "developer": "WFSDev Team",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/4912/7d85f1ab87d0d55a37731a2f01f2cca3.png",
+      "id": "wfsdev",
+      "manifest": "http://www.juniorwebdevs.co.uk/ONeill/dev_manifest.js",
+      "summary": "We make your marvel better!"
     }
   ],
   "minversion": "5006"

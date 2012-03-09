@@ -134,6 +134,13 @@
       "summary": "ROMS made by toadlife"
     },
     {
+      "developer": "vorobei1382@gmail.com",
+      "free": false,
+      "id": "vorobei1382@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/vorobei1382@gmail.com/manifest",
+      "summary": "vorobei1382@gmail.com"
+    },
+    {
       "developer": "xBTx",
       "free": false,
       "id": "xBTx",

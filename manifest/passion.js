@@ -65,19 +65,20 @@
       "summary": "Mods and bacon for your phone"
     },
     {
-      "developer": "CyanogenMod Nightlies",
-      "id": "cyanogenmodnightly",
-      "icon": "http://koush.kanged.net/cm/test/tdr.png",
-      "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
-      "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
-    },
-    {
       "developer": "DrewGaren Roms",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
       "id": "drewgaren",
       "manifest": "http://developer.clockworkmod.com/developer/drewgaren/manifest",
       "summary": "Custom Roms and Themes for your Device"
+    },
+    {
+      "developer": "Euroskank CM7 Kangs",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/5713/74a6720ae9a8ddbd1f7e86a89802edc8.png",
+      "id": "euroskank-cm7",
+      "manifest": "http://fitsnugly.euroskank.com/gigglebread/manifest.js",
+      "summary": "Skanky CM7 Kangs"
     },
     {
       "developer": "E-XtremeMod",
@@ -168,6 +169,13 @@
       "id": "stock",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/stock.js",
       "summary": "Revert back to stock phone images."
+    },
+    {
+      "developer": "vorobei1382@gmail.com",
+      "free": false,
+      "id": "vorobei1382@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/vorobei1382@gmail.com/manifest",
+      "summary": "vorobei1382@gmail.com"
     }
   ],
   "minversion": "5006"

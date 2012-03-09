@@ -48,6 +48,13 @@
       "id": "psyke83",
       "manifest": "http://psyke83.github.com/rommanager_manifest/manifest.js",
       "summary": "CyanogenMod ROMs for various devices"
+    },
+    {
+      "developer": "vorobei1382@gmail.com",
+      "free": false,
+      "id": "vorobei1382@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/vorobei1382@gmail.com/manifest",
+      "summary": "vorobei1382@gmail.com"
     }
   ],
   "minversion": "5006"

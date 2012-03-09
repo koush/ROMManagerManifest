@@ -72,6 +72,13 @@
       "id": "teshxx@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/teshxx@gmail.com/manifest",
       "summary": "Tmobile Samsung Galaxy S II - T989 || Stock || Bloat Free || Rooted || Su || Busybox = STREAMLINED || Perfect for Base."
+    },
+    {
+      "developer": "vorobei1382@gmail.com",
+      "free": false,
+      "id": "vorobei1382@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/vorobei1382@gmail.com/manifest",
+      "summary": "vorobei1382@gmail.com"
     }
   ],
   "minversion": "5006"

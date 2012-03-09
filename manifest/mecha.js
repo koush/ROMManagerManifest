@@ -17,14 +17,6 @@
       "summary": "Stock Rom tweaked heavily"
     },
     {
-      "developer": "Liquid Smooth Roms",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/36/c735b5adbd4a0db78029de4c3bd309ee.png",
-      "id": "Liquid",
-      "manifest": "http://android.jbroom.com/rommanager/manifest.js",
-      "summary": "Source Built Gingerbread and Custom Tbolt Roms"
-    },
-    {
       "developer": "Nocoast",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2241/e9904394fac5d44c2ee51fc27b72835f.gif",
@@ -63,6 +55,14 @@
       "icon": "http://www.igottadroid.com/Roms/RomManagerManifest/ThunderStick-Avatar.png",
       "manifest": "http://www.igottadroid.com/Roms/RomManagerManifest/ThunderStick-RMM.js",
       "summary": "Ready to run roms..."
+    },
+    {
+      "developer": "TwistedUmbrella",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/5764/09577bdc463a219c0bad4044f7566a47.png",
+      "id": "Twisted",
+      "manifest": "http://developer.clockworkmod.com/developer/Twisted/manifest",
+      "summary": "Playground ICS \"Milestone\" builds"
     },
     {
       "developer": "DroidVicious",
@@ -104,13 +104,6 @@
       "icon": "http://koush.kanged.net/cm/test/cm2.png",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
       "summary": "Mods and bacon for your phone"
-    },
-    {
-      "developer": "CyanogenMod Nightlies",
-      "id": "cyanogenmodnightly",
-      "icon": "http://koush.kanged.net/cm/test/tdr.png",
-      "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
-      "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
     {
       "developer": "DHe17 Roms",
@@ -184,12 +177,19 @@
       "summary": "Formerly r2DoesInc, Check out the new stuff. "
     },
     {
+      "developer": "vorobei1382@gmail.com",
+      "free": false,
+      "id": "vorobei1382@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/vorobei1382@gmail.com/manifest",
+      "summary": "vorobei1382@gmail.com"
+    },
+    {
       "developer": "Team BAMF ",
       "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/758/327500a0db76efc307c8032ee32ac018.png",
+      "icon": "http://developer.clockworkmod.com/downloads/758/ad5acfefb4192c09192081027cf169c9.png",
       "id": "waynestrattonjr@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/waynestrattonjr@gmail.com/manifest",
-      "summary": "Official downloads from Team BAMF! For awesome Sense 3.0 and HTC device ports and for full support, visit www.teambamf.net!"
+      "summary": "Official Team BAMF downloads! For full support visit www.teambamf.net!"
     }
   ],
   "minversion": "5006"

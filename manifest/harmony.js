@@ -65,13 +65,6 @@
       "summary": "Mods and bacon for your phone"
     },
     {
-      "developer": "CyanogenMod Nightlies",
-      "id": "cyanogenmodnightly",
-      "icon": "http://koush.kanged.net/cm/test/tdr.png",
-      "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
-      "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
-    },
-    {
       "developer": "forkup",
       "id": "forkup",
       "manifest": "http://www.forkup.info/droidthemes/forkup.js",
@@ -106,6 +99,13 @@
       "id": "stock",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/stock.js",
       "summary": "Revert back to stock phone images."
+    },
+    {
+      "developer": "vorobei1382@gmail.com",
+      "free": false,
+      "id": "vorobei1382@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/vorobei1382@gmail.com/manifest",
+      "summary": "vorobei1382@gmail.com"
     }
   ],
   "minversion": "5006"

@@ -81,6 +81,22 @@
       "summary": "Custom ICS Android ROMs based on Google AOSP code.  Stability and performance are our goals."
     },
     {
+      "developer": "CyanogenMod Nightlies",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/1/40a922a30d51d8ae46d4ca2157200546.png",
+      "id": "cyanogenmodnightly",
+      "manifest": "http://jenkinsmanifest.clockworkmod.com/",
+      "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
+    },
+    {
+      "developer": "Euroskank CM9 Kangs",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/5711/0e80c2b7e6b880f38d0c10dc443c116b.png",
+      "id": "euroskank",
+      "manifest": "http://fitsnugly.euroskank.com/skankwich/manifest.js",
+      "summary": "Skanky CM9 Kangs"
+    },
+    {
       "developer": "Google Apps",
       "free": "true",
       "id": "google",
@@ -128,12 +144,19 @@
       "summary": "CyanogenMod 9 with few tweaks and pulls from gerrit.  "
     },
     {
+      "developer": "vorobei1382@gmail.com",
+      "free": false,
+      "id": "vorobei1382@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/vorobei1382@gmail.com/manifest",
+      "summary": "vorobei1382@gmail.com"
+    },
+    {
       "developer": "Team BAMF ",
       "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/758/327500a0db76efc307c8032ee32ac018.png",
+      "icon": "http://developer.clockworkmod.com/downloads/758/ad5acfefb4192c09192081027cf169c9.png",
       "id": "waynestrattonjr@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/waynestrattonjr@gmail.com/manifest",
-      "summary": "Official downloads from Team BAMF! For awesome Sense 3.0 and HTC device ports and for full support, visit www.teambamf.net!"
+      "summary": "Official Team BAMF downloads! For full support visit www.teambamf.net!"
     }
   ],
   "minversion": "5006"

@@ -66,13 +66,6 @@
       "summary": "Mods and bacon for your phone"
     },
     {
-      "developer": "CyanogenMod Nightlies",
-      "id": "cyanogenmodnightly",
-      "icon": "http://koush.kanged.net/cm/test/tdr.png",
-      "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
-      "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
-    },
-    {
       "developer": "dmeadows013",
       "free": false,
       "id": "dmeadows013@gmail.com",
@@ -151,6 +144,13 @@
       "summary": "Formerly r2DoesInc, Check out the new stuff. "
     },
     {
+      "developer": "sands4eagles@gmail.com",
+      "free": false,
+      "id": "sands4eagles@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/sands4eagles@gmail.com/manifest",
+      "summary": "sands4eagles@gmail.com"
+    },
+    {
       "developer": "winner00",
       "free": false,
       "id": "toverturf@gmail.com",
@@ -170,6 +170,13 @@
       "id": "uncommonsense",
       "manifest": "http://www.pcjock.com/uncommon/ROMManagerManifest/uncommon.js",
       "summary": "Rosie like you've never seen her before."
+    },
+    {
+      "developer": "vorobei1382@gmail.com",
+      "free": false,
+      "id": "vorobei1382@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/vorobei1382@gmail.com/manifest",
+      "summary": "vorobei1382@gmail.com"
     }
   ],
   "minversion": "5006"

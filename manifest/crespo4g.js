@@ -130,11 +130,20 @@
       "summary": "Mods and bacon for your phone"
     },
     {
-      "developer": "CyanogenMod Nightlies",
-      "id": "cyanogenmodnightly",
-      "icon": "http://koush.kanged.net/cm/test/tdr.png",
-      "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
-      "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
+      "developer": "Euroskank CM9 Kangs",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/5711/0e80c2b7e6b880f38d0c10dc443c116b.png",
+      "id": "euroskank",
+      "manifest": "http://fitsnugly.euroskank.com/skankwich/manifest.js",
+      "summary": "Skanky CM9 Kangs"
+    },
+    {
+      "developer": "Euroskank CM7 Kangs",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/5713/74a6720ae9a8ddbd1f7e86a89802edc8.png",
+      "id": "euroskank-cm7",
+      "manifest": "http://fitsnugly.euroskank.com/gigglebread/manifest.js",
+      "summary": "Skanky CM7 Kangs"
     },
     {
       "developer": "NSCollab",
@@ -212,6 +221,13 @@
       "id": "teamkang",
       "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
       "summary": "We came. We saw. We kanged."
+    },
+    {
+      "developer": "vorobei1382@gmail.com",
+      "free": false,
+      "id": "vorobei1382@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/vorobei1382@gmail.com/manifest",
+      "summary": "vorobei1382@gmail.com"
     }
   ],
   "minversion": "5006"

@@ -22,14 +22,6 @@
       "summary": "Custom Themes & Goodies"
     },
     {
-      "developer": "Liquid Smooth Roms",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/36/c735b5adbd4a0db78029de4c3bd309ee.png",
-      "id": "Liquid",
-      "manifest": "http://android.jbroom.com/rommanager/manifest.js",
-      "summary": "Source Built Gingerbread and Custom Tbolt Roms"
-    },
-    {
       "developer": "TeamChargeDev",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/589/341ad33f92b005d705f1557ae861b23e.png",
@@ -86,19 +78,19 @@
       "summary": "Source-based mods made by CVPCS"
     },
     {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "summary": "Roms and More, Must have Froyo Installed Prior"
+    },
+    {
       "developer": "DrewGaren Roms",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
       "id": "drewgaren",
       "manifest": "http://developer.clockworkmod.com/developer/drewgaren/manifest",
       "summary": "Custom Roms and Themes for your Device"
-    },
-    {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "Fabolous",
@@ -166,6 +158,13 @@
       "id": "techsourcehub",
       "manifest": "http://techsourcehub.com/developer/OS/Android/RomManager/manifest/manifest.js",
       "summary": "Pandora's Box of ROMs"
+    },
+    {
+      "developer": "vorobei1382@gmail.com",
+      "free": false,
+      "id": "vorobei1382@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/vorobei1382@gmail.com/manifest",
+      "summary": "vorobei1382@gmail.com"
     },
     {
       "developer": "WJD Designs",

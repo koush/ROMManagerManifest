@@ -66,13 +66,6 @@
       "summary": "Mods and bacon for your phone"
     },
     {
-      "developer": "CyanogenMod Nightlies",
-      "id": "cyanogenmodnightly",
-      "icon": "http://koush.kanged.net/cm/test/tdr.png",
-      "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
-      "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
-    },
-    {
       "developer": "EzTerry",
       "free": "true",
       "id": "ezterry",
@@ -116,6 +109,13 @@
       "id": "tvall43@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/tvall43@gmail.com/manifest",
       "summary": "random stuffs"
+    },
+    {
+      "developer": "vorobei1382@gmail.com",
+      "free": false,
+      "id": "vorobei1382@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/vorobei1382@gmail.com/manifest",
+      "summary": "vorobei1382@gmail.com"
     },
     {
       "developer": "Ginger yoshi ^_^",

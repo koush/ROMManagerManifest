@@ -12,17 +12,6 @@
       "summary": "wfs"
     },
     {
-      "developer": "2fastroms ",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/245/7d87d0d7adc75505b50d5740addefac3.png",
-      "id": "2fastroms",
-      "manifest": "http://www.2fastroms.com/rommanger/manual_manifest.js",
-      "roms": {
-        "bravoc": true
-      },
-      "summary": "Your #1 spot for all your rom needs."
-    },
-    {
       "developer": "ACS",
       "free": "true",
       "id": "ACS",
@@ -361,6 +350,7 @@
       "manifest": "http://developer.clockworkmod.com/developer/Jmz/manifest",
       "roms": {
         "vivow": true,
+        "marvelc": true,
         "mecha": true
       },
       "summary": "Stock Rom tweaked heavily"
@@ -446,23 +436,6 @@
         "pyramid": true
       },
       "summary": "LeeDrOiD Sense roms & Kernels"
-    },
-    {
-      "developer": "Liquid Smooth Roms",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/36/c735b5adbd4a0db78029de4c3bd309ee.png",
-      "id": "Liquid",
-      "manifest": "http://android.jbroom.com/rommanager/manifest.js",
-      "roms": {
-        "htcinc": true,
-        "vivow": true,
-        "droid2": true,
-        "sholes": true,
-        "mecha": true,
-        "droidx": true,
-        "droid2we": true
-      },
-      "summary": "Source Built Gingerbread and Custom Tbolt Roms"
     },
     {
       "developer": "MIUI",
@@ -593,7 +566,7 @@
       "roms": {
         "p999": true
       },
-      "summary": "G2x MIUI"
+      "summary": "Richie's G2x MIUI Build :D"
     },
     {
       "developer": "R0st0ck",
@@ -837,6 +810,17 @@
         "crespo4g": true
       },
       "summary": "Bringing more ICS love to NXS4G"
+    },
+    {
+      "developer": "TwistedUmbrella",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/5764/09577bdc463a219c0bad4044f7566a47.png",
+      "id": "Twisted",
+      "manifest": "http://developer.clockworkmod.com/developer/Twisted/manifest",
+      "roms": {
+        "mecha": true
+      },
+      "summary": "Playground ICS \"Milestone\" builds"
     },
     {
       "developer": "DroidVicious",
@@ -1098,6 +1082,21 @@
       "summary": "Stable AOSP-based ROM"
     },
     {
+      "developer": "CM9/CM7/MIUI/ICS Modems",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/906/345cd0c4eb6761583217eca857969c4a.png",
+      "id": "bohdan.s@gmail.com",
+      "manifest": "http://everyrandom.com/RomManager/manifest.js",
+      "roms": {
+        "vibrantmtd": true,
+        "galaxys": true,
+        "fascinatemtd": true,
+        "captivatemtd": true,
+        "galaxysmtd": true
+      },
+      "summary": "Modems for ClockworkMod7 and MIUI - OVER 50!"
+    },
+    {
       "developer": "Br1cK'd",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/288/75bcc580df6cb4e59690993fcb904ecc.jpg",
@@ -1305,6 +1304,16 @@
       "summary": "don't forget to patrition your sd card swap 0 ext4 512 or more"
     },
     {
+      "developer": "crisjavi237@gmail.com",
+      "free": false,
+      "id": "crisjavi237@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/crisjavi237@gmail.com/manifest",
+      "roms": {
+        "tass": true
+      },
+      "summary": "crisjavi237@gmail.com"
+    },
+    {
       "developer": "Crossbones Software",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1404/df5fea614d4ee05ff77b467820d8c3c4.png",
@@ -1428,88 +1437,29 @@
       "summary": "CM7 Nightly builds, unofficially built by charansingh, AirforcPrductions and arif-ali. Very experimental and probably broken. Do not report bugs for these builds."
     },
     {
-      "developer": "CyanogenMod",
-      "free": "true",
-      "id": "cyanogenmodmagic",
-      "icon": "http://koush.kanged.net/cm/test/cm2.png",
-      "manifest": "http://briancrook.ca/RM.php",
-      "roms": {
-        "magic": "true"
-      },
-      "summary": "Mods and bacon for your phone"
-    },
-    {
       "developer": "CyanogenMod Nightlies",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/1/40a922a30d51d8ae46d4ca2157200546.png",
       "id": "cyanogenmodnightly",
-      "icon": "http://koush.kanged.net/cm/test/tdr.png",
-      "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
+      "manifest": "http://jenkinsmanifest.clockworkmod.com/",
       "roms": {
-        "galaxys2att": "true",
-        "p999": "true",
-        "smb_a1002": "true",
-        "liberty": "true",
-        "zeppelin": "true",
-        "droid2": "true",
-        "legend": "true",
-        "morrison": "true",
-        "p990": "true",
-        "shadow": "true",
-        "vivow": "true",
-        "c660": "true",
-        "ace": "true",
-        "bravo": "true",
-        "desirec": "true",
-        "vivo": "true",
-        "passion": "true",
-        "vibrantmtd": "true",
-        "p925": "true",
-        "espresso": "true",
-        "hero": "true",
-        "sholes": "true",
-        "u8220": "true",
-        "p970": "true",
-        "epicmtd": "true",
-        "bravoc": "true",
-        "dream": "true",
-        "fascinatemtd": "true",
-        "blade": "true",
-        "captivatemtd": "true",
-        "crespo4g": "true",
-        "glacier": "true",
-        "mecha": "true",
-        "one": "true",
-        "sapphire": "true",
-        "e510": "true",
-        "e730": "true",
-        "speedy": "true",
-        "motus": "true",
-        "p500": "true",
-        "buzz": "true",
-        "click": "true",
-        "crespo": "true",
-        "encore": "true",
-        "galaxys2": "true",
-        "galaxysmtd": "true",
-        "harmony": "true",
-        "inc": "true",
-        "supersonic": "true",
-        "vision": "true",
-        "saga": "true",
-        "heroc": "true",
-        "z71": "true",
-        "olympus": "true",
-        "p920": "true",
-        "zero": "true"
-      },
-      "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
-    },
-    {
-      "developer": "CyanogenMod Nightlies",
-      "id": "cyanogenmodnightlymagic",
-      "icon": "http://koush.kanged.net/cm/test/cm2.png",
-      "manifest": "http://briancrook.ca/RM_nightly.php",
-      "roms": {
-        "magic": "true"
+        "p999": true,
+        "zeppelin": true,
+        "p990": true,
+        "morrison": true,
+        "bravo": true,
+        "toro": true,
+        "p970": true,
+        "e739": true,
+        "e730": true,
+        "blade": true,
+        "motus": true,
+        "p500": true,
+        "galaxys2": true,
+        "crespo": true,
+        "maguro": true,
+        "olympus": true,
+        "p920": true
       },
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
@@ -1602,6 +1552,16 @@
       "summary": "Cyclonic AOSP ROM"
     },
     {
+      "developer": "DrewGaren",
+      "free": "true",
+      "id": "drewgaren",
+      "manifest": "http://drewgaren.com/manifest.js",
+      "roms": {
+        "droidx": "true"
+      },
+      "summary": "Roms and More, Must have Froyo Installed Prior"
+    },
+    {
       "developer": "DrewGaren Roms",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/70/babcba552f7aa736d3cd7344e2f4f625.png",
@@ -1615,16 +1575,6 @@
         "maguro": true
       },
       "summary": "Custom Roms and Themes for your Device"
-    },
-    {
-      "developer": "DrewGaren",
-      "free": "true",
-      "id": "drewgaren",
-      "manifest": "http://drewgaren.com/manifest.js",
-      "roms": {
-        "droidx": "true"
-      },
-      "summary": "Roms and More, Must have Froyo Installed Prior"
     },
     {
       "developer": "Cubed ROMs",
@@ -1696,17 +1646,6 @@
       "summary": "earthbound.iap@gmail.com"
     },
     {
-      "developer": "Salvage-Mod",
-      "free": "true",
-      "id": "echo17",
-      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
-      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
-      "roms": {
-        "supersonic": "true"
-      },
-      "summary": "GB source build. Group project."
-    },
-    {
       "developer": "Salvage-Mod Nightlies",
       "free": "true",
       "id": "echo17",
@@ -1718,6 +1657,17 @@
       "summary": "Semi-nightly builds of Salvage-Mod. Highly experimental. YMMV."
     },
     {
+      "developer": "Salvage-Mod",
+      "free": "true",
+      "id": "echo17",
+      "icon": "http://echo17.github.com/SMROMManagerManifest/icon.png",
+      "manifest": "http://echo17.github.com/SMROMManagerManifest/manifest.js",
+      "roms": {
+        "supersonic": "true"
+      },
+      "summary": "GB source build. Group project."
+    },
+    {
       "developer": "Dalingrin's Test Builds",
       "free": false,
       "id": "ehardesty@gmail.com",
@@ -1726,6 +1676,44 @@
         "encore": true
       },
       "summary": "CM7 test builds"
+    },
+    {
+      "developer": "Euroskank CM9 Kangs",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/5711/0e80c2b7e6b880f38d0c10dc443c116b.png",
+      "id": "euroskank",
+      "manifest": "http://fitsnugly.euroskank.com/skankwich/manifest.js",
+      "roms": {
+        "toro": true,
+        "crespo4g": true,
+        "pyramid": true,
+        "crespo": true,
+        "maguro": true
+      },
+      "summary": "Skanky CM9 Kangs"
+    },
+    {
+      "developer": "Euroskank CM7 Kangs",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/5713/74a6720ae9a8ddbd1f7e86a89802edc8.png",
+      "id": "euroskank-cm7",
+      "manifest": "http://fitsnugly.euroskank.com/gigglebread/manifest.js",
+      "roms": {
+        "p999": true,
+        "p990": true,
+        "passion": true,
+        "bravo": true,
+        "fascinate": true,
+        "captivate": true,
+        "vibrant": true,
+        "jordan": true,
+        "glacier": true,
+        "crespo4g": true,
+        "supersonic": true,
+        "galaxys2": true,
+        "crespo": true
+      },
+      "summary": "Skanky CM7 Kangs"
     },
     {
       "developer": "E-XtremeMod",
@@ -1836,7 +1824,7 @@
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1597/0ac32c9adc25de44df31c59c56fa2799.png",
       "id": "frogfire",
-      "manifest": "http://mirror.mtsgrit.nl/Desire_ICS/update.json",
+      "manifest": "http://desireics.filemirror.nl/update.json",
       "roms": {
         "bravo": true
       },
@@ -1968,6 +1956,7 @@
       "id": "hashcode0f@gmail.com",
       "manifest": "http://www.hash-of-codes.com/files/rommanager/manifest.js",
       "roms": {
+        "maserati": true,
         "solana": true
       },
       "summary": "Making cool things for phones"
@@ -2019,6 +2008,16 @@
       "summary": "Go Go Go!"
     },
     {
+      "developer": "HyperDroid",
+      "free": "true",
+      "id": "hyperdroid",
+      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
+      "roms": {
+        "leo": "true"
+      },
+      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
+    },
+    {
       "developer": "HyperDroid CM7",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/748/2913b062cfd00558343348e63cd3402b.png",
@@ -2028,16 +2027,6 @@
         "leo": true
       },
       "summary": "HyperDroid CM7 is the insanely fast, highly tweaked, modded and themed Android ROM, based on the already awesome CyanogenMod7 source for our LEO"
-    },
-    {
-      "developer": "HyperDroid",
-      "free": "true",
-      "id": "hyperdroid",
-      "manifest": "http://dl.dropbox.com/u/1246235/HD2/Android/HyperDroid/hyperdroid.js",
-      "roms": {
-        "leo": "true"
-      },
-      "summary": "HyperDroid is the Insanely Fast & Incredibly Smooth Custom Android ROM that will Blow you Away with Awesomeness!"
     },
     {
       "developer": "iblaststatic2020",
@@ -2096,6 +2085,17 @@
         "sholes": "true"
       },
       "summary": "Insanity Galaxy S I9000"
+    },
+    {
+      "developer": "irtehun",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/4990/ad79761a053f8cab6520f28f16c4d095.png",
+      "id": "irtehun",
+      "manifest": "http://developer.clockworkmod.com/developer/irtehun/manifest",
+      "roms": {
+        "crespo": true
+      },
+      "summary": "nuhetri-reloaded 4.0.4 ROM"
     },
     {
       "developer": "JMCyanbreadMod",
@@ -2284,17 +2284,6 @@
       "summary": "ROMs & Mods."
     },
     {
-      "developer": "G2X SINGH-UI by: nycelitemaster",
-      "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/3518/101a2dde1542afce842ca930b94f2ead.jpg",
-      "id": "jsachdev84@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/jsachdev84@gmail.com/manifest",
-      "roms": {
-        "p999": true
-      },
-      "summary": "G2X SINGH UI is redefined version of MIUI for G2X (p999)"
-    },
-    {
       "developer": "Savaged-Zen",
       "free": "true",
       "id": "jsseidel1",
@@ -2350,6 +2339,17 @@
         "pulsemini": true
       },
       "summary": "kandynami@gmail.com"
+    },
+    {
+      "developer": "G2X SINGH-UI by: nycelitemaster",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/3518/101a2dde1542afce842ca930b94f2ead.jpg",
+      "id": "kaoticwarrior02@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/kaoticwarrior02@gmail.com/manifest",
+      "roms": {
+        "p999": true
+      },
+      "summary": "G2X SINGH UI is redefined version of MIUI for G2X (p999)"
     },
     {
       "developer": "GummyJAR",
@@ -2558,17 +2558,6 @@
       "summary": "mathkid95@gmail.com"
     },
     {
-      "developer": "mb-14",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/1439/cc89f0341a99c9e566814a30a687b09b.jpg",
-      "id": "mb-14",
-      "manifest": "http://dl.dropbox.com/u/21654931/Rom_Manager/mb-14.js",
-      "roms": {
-        "FM6": true
-      },
-      "summary": "Mods and Bacon for FM6 variants"
-    },
-    {
       "developer": "me@abimanyu.in",
       "free": false,
       "id": "me@abimanyu.in",
@@ -2598,6 +2587,17 @@
         "sholes": true
       },
       "summary": "Clean, fast & Stable roms for the D1 & D2"
+    },
+    {
+      "developer": "michaelmcelveen913@gmail.com",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/1391/c7ab7dd6dfb2517df7b284632f253383.jpg",
+      "id": "michaelmcelveen913@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/michaelmcelveen913@gmail.com/manifest",
+      "roms": {
+        "glacier": true
+      },
+      "summary": "michaelmcelveen913@gmail.com"
     },
     {
       "developer": "mick0mobile@gmail.com",
@@ -2631,6 +2631,17 @@
       "summary": "mikerowes69@gmail.com"
     },
     {
+      "developer": "JACK PHAM",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/5874/1c333cf7bf38e64d4abdbed0a14820a2.png",
+      "id": "misa.giahan@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/misa.giahan@gmail.com/manifest",
+      "roms": {
+        "maguro": true
+      },
+      "summary": "JACK PHAM"
+    },
+    {
       "developer": "MIUIAndroid",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/3888/4ffbb120e979bb22f675f07d0fab7ada.png",
@@ -2642,17 +2653,18 @@
         "vibrantmtd": true,
         "passion": true,
         "vivo": true,
+        "ace": true,
         "bravo": true,
         "umts_jordan": true,
-        "ace": true,
-        "vibrant": true,
+        "glacier": true,
         "captivatemtd": true,
         "milestone": true,
-        "crespo": true,
         "saga": true,
+        "supersonic": true,
+        "crespo": true,
         "galaxys2": true,
-        "galaxysmtd": true,
-        "vision": true
+        "vision": true,
+        "galaxysmtd": true
       },
       "summary": "MIUI Builds from MIUIAndroid.com"
     },
@@ -2674,8 +2686,8 @@
         "passion": true,
         "galaxys": true,
         "captivate": true,
-        "vibrant": true,
         "captivatemtd": true,
+        "vibrant": true,
         "saga": true,
         "vision": true,
         "galaxys2": true,
@@ -2975,6 +2987,16 @@
       "summary": "Trying to make your device better...."
     },
     {
+      "developer": "pjevs",
+      "free": false,
+      "id": "pjevs",
+      "manifest": "http://developer.clockworkmod.com/developer/pjevs/manifest",
+      "roms": {
+        "p990": true
+      },
+      "summary": "Don"
+    },
+    {
       "developer": "ROMs by PlayfulGod",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/480/046c8e21484dc21189721004ec151520.png",
@@ -3155,6 +3177,16 @@
       "summary": "Atrix Roms"
     },
     {
+      "developer": "sands4eagles@gmail.com",
+      "free": false,
+      "id": "sands4eagles@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/sands4eagles@gmail.com/manifest",
+      "roms": {
+        "inc": true
+      },
+      "summary": "sands4eagles@gmail.com"
+    },
+    {
       "developer": "sduvick",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/654/17bfc474b5c0c194278a7d6c4ecb7f74.jpg",
@@ -3207,6 +3239,16 @@
         "galaxys2": true
       },
       "summary": "N.E.A.K. Kernel for International I9100"
+    },
+    {
+      "developer": "Team MarvelUSc",
+      "free": true,
+      "id": "simonsimons34",
+      "manifest": "http://dl.dropbox.com/u/51192386/settings.js",
+      "roms": {
+        "marvelc": true
+      },
+      "summary": "The best CDMA Roms. Period."
     },
     {
       "developer": "siulmagic",
@@ -3325,18 +3367,7 @@
       "roms": {
         "crespo": true
       },
-      "summary": "Custom ROMs and software for Android. Weekly updates."
-    },
-    {
-      "developer": "XDA CM7 Nightlies",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/541/91afee5f3ad77376b65aa60038c4979c.png",
-      "id": "tanguy.pruvot@gmail.com",
-      "manifest": "http://tpruvot.free.fr/rm/custom.js",
-      "roms": {
-        "umts_jordan": true
-      },
-      "summary": "XDA CM7 Original Nightly builds. tpruvot@github"
+      "summary": "Custom ROMs built from AOSP. Updated weekly."
     },
     {
       "developer": "CyanogenDefy Stable",
@@ -3348,6 +3379,17 @@
         "umts_jordan": true
       },
       "summary": "Stable but unofficial RC and Release"
+    },
+    {
+      "developer": "XDA CM7 Nightlies",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/541/91afee5f3ad77376b65aa60038c4979c.png",
+      "id": "tanguy.pruvot@gmail.com",
+      "manifest": "http://tpruvot.free.fr/rm/custom.js",
+      "roms": {
+        "umts_jordan": true
+      },
+      "summary": "XDA CM7 Original Nightly builds. tpruvot@github"
     },
     {
       "developer": "02.06.12 Cyanogenmod 9 02.06.12",
@@ -3477,17 +3519,6 @@
       "summary": "thedubmail@gmail.com"
     },
     {
-      "developer": "CyanogenMod Builds by tilal6991",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/250/ba66421c10863d65957a42c5a3dddf51.png",
-      "id": "tilal6991",
-      "manifest": "http://tilal6991.github.com/RomManagerManifest/manifest.js",
-      "roms": {
-        "skate": true
-      },
-      "summary": "CyanogenMod 7 and 9 Builds"
-    },
-    {
       "developer": "toadlife",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/2233/a140733ebdfda956db39e2d8b88f86e3.jpg",
@@ -3585,6 +3616,16 @@
       "summary": "Rosie like you've never seen her before."
     },
     {
+      "developer": "vorobei1382@gmail.com",
+      "free": false,
+      "id": "vorobei1382@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/vorobei1382@gmail.com/manifest",
+      "roms": {
+        "all": true
+      },
+      "summary": "vorobei1382@gmail.com"
+    },
+    {
       "developer": "wesley van kouteren",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/2209/bf934d9c85d12fba591f99d728802b8c.jpeg",
@@ -3598,14 +3639,14 @@
     {
       "developer": "Team BAMF ",
       "free": false,
-      "icon": "http://developer.clockworkmod.com/downloads/758/327500a0db76efc307c8032ee32ac018.png",
+      "icon": "http://developer.clockworkmod.com/downloads/758/ad5acfefb4192c09192081027cf169c9.png",
       "id": "waynestrattonjr@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/waynestrattonjr@gmail.com/manifest",
       "roms": {
         "toro": true,
         "mecha": true
       },
-      "summary": "Official downloads from Team BAMF! For awesome Sense 3.0 and HTC device ports and for full support, visit www.teambamf.net!"
+      "summary": "Official Team BAMF downloads! For full support visit www.teambamf.net!"
     },
     {
       "developer": "WFSDev Team",
@@ -3614,6 +3655,7 @@
       "id": "wfsdev",
       "manifest": "http://www.juniorwebdevs.co.uk/ONeill/dev_manifest.js",
       "roms": {
+        "marvelc": true,
         "marvel": true
       },
       "summary": "We make your marvel better!"

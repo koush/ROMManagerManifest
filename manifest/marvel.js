@@ -58,6 +58,13 @@
       "summary": "ROM's for Marvel"
     },
     {
+      "developer": "vorobei1382@gmail.com",
+      "free": false,
+      "id": "vorobei1382@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/vorobei1382@gmail.com/manifest",
+      "summary": "vorobei1382@gmail.com"
+    },
+    {
       "developer": "WFSDev Team",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/4912/7d85f1ab87d0d55a37731a2f01f2cca3.png",

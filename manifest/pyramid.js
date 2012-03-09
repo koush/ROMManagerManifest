@@ -106,6 +106,14 @@
       "summary": "Eagleblood Roms Fast/Stable/Clean"
     },
     {
+      "developer": "Euroskank CM9 Kangs",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/5711/0e80c2b7e6b880f38d0c10dc443c116b.png",
+      "id": "euroskank",
+      "manifest": "http://fitsnugly.euroskank.com/skankwich/manifest.js",
+      "summary": "Skanky CM9 Kangs"
+    },
+    {
       "developer": "Google Apps",
       "free": "true",
       "id": "google",
@@ -144,6 +152,13 @@
       "id": "teamkang",
       "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
       "summary": "We came. We saw. We kanged."
+    },
+    {
+      "developer": "vorobei1382@gmail.com",
+      "free": false,
+      "id": "vorobei1382@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/vorobei1382@gmail.com/manifest",
+      "summary": "vorobei1382@gmail.com"
     },
     {
       "developer": "Xboarder56",

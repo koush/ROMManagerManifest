@@ -66,17 +66,26 @@
     },
     {
       "developer": "CyanogenMod Nightlies",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/1/40a922a30d51d8ae46d4ca2157200546.png",
       "id": "cyanogenmodnightly",
-      "icon": "http://koush.kanged.net/cm/test/tdr.png",
-      "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
+      "manifest": "http://jenkinsmanifest.clockworkmod.com/",
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
+    },
+    {
+      "developer": "Euroskank CM7 Kangs",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/5713/74a6720ae9a8ddbd1f7e86a89802edc8.png",
+      "id": "euroskank-cm7",
+      "manifest": "http://fitsnugly.euroskank.com/gigglebread/manifest.js",
+      "summary": "Skanky CM7 Kangs"
     },
     {
       "developer": "Desire ISC ROM",
       "free": true,
       "icon": "http://developer.clockworkmod.com/downloads/1597/0ac32c9adc25de44df31c59c56fa2799.png",
       "id": "frogfire",
-      "manifest": "http://mirror.mtsgrit.nl/Desire_ICS/update.json",
+      "manifest": "http://desireics.filemirror.nl/update.json",
       "summary": "by Sandvold"
     },
     {
@@ -161,6 +170,13 @@
       "id": "the_neophyte",
       "manifest": "http://content.wuala.com/contents/NeoPhyTe.x360/Publica/Android/ROM_Manager/manifest.js",
       "summary": "Modded ROM's HTC Desire"
+    },
+    {
+      "developer": "vorobei1382@gmail.com",
+      "free": false,
+      "id": "vorobei1382@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/vorobei1382@gmail.com/manifest",
+      "summary": "vorobei1382@gmail.com"
     }
   ],
   "minversion": "5006"

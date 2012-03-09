@@ -28,14 +28,6 @@
       "summary": "Custom Themes & Goodies"
     },
     {
-      "developer": "Liquid Smooth Roms",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/36/c735b5adbd4a0db78029de4c3bd309ee.png",
-      "id": "Liquid",
-      "manifest": "http://android.jbroom.com/rommanager/manifest.js",
-      "summary": "Source Built Gingerbread and Custom Tbolt Roms"
-    },
-    {
       "developer": "SnkBitten",
       "id": "SnkBitten",
       "icon": "http://android.snkbitten.com/ROMManagerManifest/SnkBitten.png",
@@ -112,13 +104,6 @@
       "icon": "http://koush.kanged.net/cm/test/cm2.png",
       "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/cyanogenmod.js",
       "summary": "Mods and bacon for your phone"
-    },
-    {
-      "developer": "CyanogenMod Nightlies",
-      "id": "cyanogenmodnightly",
-      "icon": "http://koush.kanged.net/cm/test/tdr.png",
-      "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
-      "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
     {
       "developer": "forkup",
@@ -226,6 +211,13 @@
       "icon": "http://yeagsmedia.com/android/tp4bama/RomManagerManifest/tpavatar2.png",
       "manifest": "http://yeagsmedia.com/android/tp4bama/RomManagerManifest/manifest.js",
       "summary": "Android Roms"
+    },
+    {
+      "developer": "vorobei1382@gmail.com",
+      "free": false,
+      "id": "vorobei1382@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/vorobei1382@gmail.com/manifest",
+      "summary": "vorobei1382@gmail.com"
     },
     {
       "developer": "Droid Concepts",

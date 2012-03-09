@@ -34,21 +34,6 @@
       "summary": "Awesome ROMs and apps from the creator of ROM Manager!"
     },
     {
-      "developer": "CyanogenMod",
-      "free": "true",
-      "id": "cyanogenmodmagic",
-      "icon": "http://koush.kanged.net/cm/test/cm2.png",
-      "manifest": "http://briancrook.ca/RM.php",
-      "summary": "Mods and bacon for your phone"
-    },
-    {
-      "developer": "CyanogenMod Nightlies",
-      "id": "cyanogenmodnightlymagic",
-      "icon": "http://koush.kanged.net/cm/test/cm2.png",
-      "manifest": "http://briancrook.ca/RM_nightly.php",
-      "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
-    },
-    {
       "developer": "EzTerry",
       "free": "true",
       "id": "ezterry",
@@ -78,6 +63,13 @@
       "icon": "http://k002.kiwi6.com/hotlink/1x4h2gin4z/cos_ds.png",
       "manifest": "http://dl.dropbox.com/u/14294263/cos-ds.js",
       "summary": "An AOSP ROM using the latest CM/EzGB sources for D/S, supporting EBI0, 2708, EBI1 devices"
+    },
+    {
+      "developer": "vorobei1382@gmail.com",
+      "free": false,
+      "id": "vorobei1382@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/vorobei1382@gmail.com/manifest",
+      "summary": "vorobei1382@gmail.com"
     }
   ],
   "minversion": "5006"

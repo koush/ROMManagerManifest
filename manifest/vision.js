@@ -73,13 +73,6 @@
       "summary": "Mods and bacon for your phone"
     },
     {
-      "developer": "CyanogenMod Nightlies",
-      "id": "cyanogenmodnightly",
-      "icon": "http://koush.kanged.net/cm/test/tdr.png",
-      "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
-      "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
-    },
-    {
       "developer": "MIUI",
       "free": "true",
       "id": "g4rb4g3",
@@ -156,6 +149,13 @@
       "id": "tun4f1sh",
       "manifest": "http://developer.clockworkmod.com/developer/tun4f1sh/manifest",
       "summary": "Custom ROMs built for performance and stability.  Please see the respective XDA threads for more information on each of my projects!"
+    },
+    {
+      "developer": "vorobei1382@gmail.com",
+      "free": false,
+      "id": "vorobei1382@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/vorobei1382@gmail.com/manifest",
+      "summary": "vorobei1382@gmail.com"
     },
     {
       "developer": "Xboarder56",

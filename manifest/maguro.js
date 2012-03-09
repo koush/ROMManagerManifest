@@ -66,6 +66,14 @@
       "summary": "Clean, Fast, Jam-Packed and Fully Open Source"
     },
     {
+      "developer": "CyanogenMod Nightlies",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/1/40a922a30d51d8ae46d4ca2157200546.png",
+      "id": "cyanogenmodnightly",
+      "manifest": "http://jenkinsmanifest.clockworkmod.com/",
+      "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
+    },
+    {
       "developer": "codeworkx",
       "icon": "http://developer.clockworkmod.com/downloads/51/ccfa626333bc4ce102ee8c654a4fec6b.png",
       "id": "daniel.hillenbrand@codeworkx.de",
@@ -89,6 +97,14 @@
       "summary": "Eagleblood Roms Fast/Stable/Clean"
     },
     {
+      "developer": "Euroskank CM9 Kangs",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/5711/0e80c2b7e6b880f38d0c10dc443c116b.png",
+      "id": "euroskank",
+      "manifest": "http://fitsnugly.euroskank.com/skankwich/manifest.js",
+      "summary": "Skanky CM9 Kangs"
+    },
+    {
       "developer": "Google Apps",
       "free": "true",
       "id": "google",
@@ -103,6 +119,14 @@
       "id": "jdkoreclipse",
       "manifest": "http://developer.clockworkmod.com/developer/jdkoreclipse/manifest",
       "summary": "Kernels, roms, and more"
+    },
+    {
+      "developer": "JACK PHAM",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/5874/1c333cf7bf38e64d4abdbed0a14820a2.png",
+      "id": "misa.giahan@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/misa.giahan@gmail.com/manifest",
+      "summary": "JACK PHAM"
     },
     {
       "developer": "MIUI.us",
@@ -127,6 +151,13 @@
       "id": "teamkang",
       "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
       "summary": "We came. We saw. We kanged."
+    },
+    {
+      "developer": "vorobei1382@gmail.com",
+      "free": false,
+      "id": "vorobei1382@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/vorobei1382@gmail.com/manifest",
+      "summary": "vorobei1382@gmail.com"
     }
   ],
   "minversion": "5006"

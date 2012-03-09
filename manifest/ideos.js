@@ -50,6 +50,13 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
+      "developer": "vorobei1382@gmail.com",
+      "free": false,
+      "id": "vorobei1382@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/vorobei1382@gmail.com/manifest",
+      "summary": "vorobei1382@gmail.com"
+    },
+    {
       "developer": "TheBigManOnCampusJr",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/475/5cdbda32e16ca187f9349fef9d7bcc05.jpg",

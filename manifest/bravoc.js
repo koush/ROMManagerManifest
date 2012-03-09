@@ -1,14 +1,6 @@
 {
   "manifests": [
     {
-      "developer": "2fastroms ",
-      "free": true,
-      "icon": "http://developer.clockworkmod.com/downloads/245/7d87d0d7adc75505b50d5740addefac3.png",
-      "id": "2fastroms",
-      "manifest": "http://www.2fastroms.com/rommanger/manual_manifest.js",
-      "summary": "Your #1 spot for all your rom needs."
-    },
-    {
       "developer": "MIUI",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/223/4b9a814afaba733a6d3b4a47f29436de.png",
@@ -66,13 +58,6 @@
       "summary": "Mods and bacon for your phone"
     },
     {
-      "developer": "CyanogenMod Nightlies",
-      "id": "cyanogenmodnightly",
-      "icon": "http://koush.kanged.net/cm/test/tdr.png",
-      "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
-      "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
-    },
-    {
       "developer": "Google Apps",
       "free": "true",
       "id": "google",
@@ -87,6 +72,13 @@
       "id": "miuius",
       "manifest": "http://romsmaster.miui.us/manifest/rommanager.js",
       "summary": "MIUI English releases by MIUI.us"
+    },
+    {
+      "developer": "vorobei1382@gmail.com",
+      "free": false,
+      "id": "vorobei1382@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/vorobei1382@gmail.com/manifest",
+      "summary": "vorobei1382@gmail.com"
     }
   ],
   "minversion": "5006"

@@ -9,6 +9,14 @@
       "summary": "Font packs for Android 4.0 (Ice Cream Sandwich) ONLY. Will not work on Android 2.x (Froyo/Gingerbread)."
     },
     {
+      "developer": "CM9/CM7/MIUI/ICS Modems",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/906/345cd0c4eb6761583217eca857969c4a.png",
+      "id": "bohdan.s@gmail.com",
+      "manifest": "http://everyrandom.com/RomManager/manifest.js",
+      "summary": "Modems for ClockworkMod7 and MIUI - OVER 50!"
+    },
+    {
       "developer": "Cerberus",
       "free": "true",
       "id": "cerberusapp",
@@ -107,6 +115,13 @@
       "id": "tedgy",
       "manifest": "http://www.tedgy.net/GalaxyS/tedgy.js",
       "summary": "TedgyRom Galaxy S I9000 FR"
+    },
+    {
+      "developer": "vorobei1382@gmail.com",
+      "free": false,
+      "id": "vorobei1382@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/vorobei1382@gmail.com/manifest",
+      "summary": "vorobei1382@gmail.com"
     }
   ],
   "minversion": "5006"

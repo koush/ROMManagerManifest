@@ -48,6 +48,13 @@
       "id": "sduvick@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/sduvick@gmail.com/manifest",
       "summary": "sduvick"
+    },
+    {
+      "developer": "vorobei1382@gmail.com",
+      "free": false,
+      "id": "vorobei1382@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/vorobei1382@gmail.com/manifest",
+      "summary": "vorobei1382@gmail.com"
     }
   ],
   "minversion": "5006"

@@ -21,7 +21,7 @@
       "icon": "http://developer.clockworkmod.com/downloads/3299/b391f2fdaadedbb24eaccc7d485e8471.png",
       "id": "RG2x",
       "manifest": "http://developer.clockworkmod.com/developer/RG2x/manifest",
-      "summary": "G2x MIUI"
+      "summary": "Richie's G2x MIUI Build :D"
     },
     {
       "developer": "Stormageddon",
@@ -82,9 +82,10 @@
     },
     {
       "developer": "CyanogenMod Nightlies",
+      "free": false,
+      "icon": "http://developer.clockworkmod.com/downloads/1/40a922a30d51d8ae46d4ca2157200546.png",
       "id": "cyanogenmodnightly",
-      "icon": "http://koush.kanged.net/cm/test/tdr.png",
-      "manifest": "http://mirror.sea.tdrevolution.net/cm/nightly/manifest.js",
+      "manifest": "http://jenkinsmanifest.clockworkmod.com/",
       "summary": "CyanogenMod Nightly builds. Very experimental and probably broken.  Do not report bugs for these builds."
     },
     {
@@ -94,6 +95,14 @@
       "id": "eagleblood",
       "manifest": "http://developer.clockworkmod.com/developer/eagleblood/manifest",
       "summary": "Eagleblood Roms Fast/Stable/Clean"
+    },
+    {
+      "developer": "Euroskank CM7 Kangs",
+      "free": true,
+      "icon": "http://developer.clockworkmod.com/downloads/5713/74a6720ae9a8ddbd1f7e86a89802edc8.png",
+      "id": "euroskank-cm7",
+      "manifest": "http://fitsnugly.euroskank.com/gigglebread/manifest.js",
+      "summary": "Skanky CM7 Kangs"
     },
     {
       "developer": "Faux123 Custom ROMs",
@@ -115,8 +124,8 @@
       "developer": "G2X SINGH-UI by: nycelitemaster",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/3518/101a2dde1542afce842ca930b94f2ead.jpg",
-      "id": "jsachdev84@gmail.com",
-      "manifest": "http://developer.clockworkmod.com/developer/jsachdev84@gmail.com/manifest",
+      "id": "kaoticwarrior02@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/kaoticwarrior02@gmail.com/manifest",
       "summary": "G2X SINGH UI is redefined version of MIUI for G2X (p999)"
     },
     {
@@ -134,6 +143,13 @@
       "id": "teamkang",
       "manifest": "http://romanbb.github.com/RM_Manifest/manifest.js",
       "summary": "We came. We saw. We kanged."
+    },
+    {
+      "developer": "vorobei1382@gmail.com",
+      "free": false,
+      "id": "vorobei1382@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/vorobei1382@gmail.com/manifest",
+      "summary": "vorobei1382@gmail.com"
     },
     {
       "developer": "x0xhellx0x",

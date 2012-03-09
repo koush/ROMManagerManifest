@@ -101,6 +101,13 @@
       "id": "temeyers@gmail.com",
       "manifest": "http://developer.clockworkmod.com/developer/temeyers@gmail.com/manifest",
       "summary": "Sense 3.5 Android 2.3.5 "
+    },
+    {
+      "developer": "vorobei1382@gmail.com",
+      "free": false,
+      "id": "vorobei1382@gmail.com",
+      "manifest": "http://developer.clockworkmod.com/developer/vorobei1382@gmail.com/manifest",
+      "summary": "vorobei1382@gmail.com"
     }
   ],
   "minversion": "5006"

@@ -14,11 +14,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -33,7 +33,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110613-signed.zip" 
                 } 
             ] 
         },
@@ -48,7 +48,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -63,7 +63,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -78,7 +78,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -93,7 +93,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-hdpi-20101114-signed.zip" 
                 } 
             ] 
         },
@@ -108,7 +108,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-hdpi-20101114-signed.zip" 
                 } 
             ] 
         },
@@ -117,17 +117,17 @@
             "name": "CyanogenMod 7.1.0.2",
             "modversion": "CyanogenMod-7.1.0.2-XperiaArc-LT15i",
             "incremental": "7103",
-            "url": "http://goo-inside.me/cm/anzu/stable/update-cm-7.1.0.2-XperiaArc-LT15i-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0.2-XperiaArc-LT15i-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip"
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip"
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip"
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip"
                 } 
             ] 
         },
@@ -136,17 +136,17 @@
             "name": "CyanogenMod 7.1.0.1",
             "modversion": "CyanogenMod-7.1.0.1-XperiaArc-LT15i",
             "incremental": "7102",
-            "url": "http://goo-inside.me/cm/anzu/stable/update-cm-7.1.0.1-XperiaArc-LT15i-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0.1-XperiaArc-LT15i-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -161,11 +161,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -180,11 +180,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -199,7 +199,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110613-signed.zip" 
                 } 
             ] 
         },
@@ -214,7 +214,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -229,7 +229,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -244,7 +244,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -259,11 +259,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -278,7 +278,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110613-signed.zip" 
                 } 
             ] 
         },
@@ -293,7 +293,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -308,7 +308,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -323,7 +323,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -338,7 +338,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -353,7 +353,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-hdpi-20101114-signed.zip" 
                 } 
             ] 
         },
@@ -368,7 +368,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-hdpi-20101114-signed.zip" 
                 } 
             ] 
         },
@@ -383,7 +383,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-hdpi-20101114-signed.zip" 
                 } 
             ] 
         },
@@ -398,7 +398,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-hdpi-20101114-signed.zip" 
                 } 
             ] 
         },
@@ -407,13 +407,13 @@
             "name": "CyanogenMod 6.0.0",
             "modversion": "CyanogenMod-6.0.0-Bravo",
             "incremental": "6000",
-            "url": "http://goo-inside.me/cm/bravo/stable/update-cm-6.0.0-Desire-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-6.0.0-Desire-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-hdpi-20101114-signed.zip" 
                 } 
             ] 
         },
@@ -428,11 +428,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -447,7 +447,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110613-signed.zip" 
                 } 
             ] 
         },
@@ -462,7 +462,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -477,7 +477,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -492,7 +492,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -507,7 +507,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -522,7 +522,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-hdpi-20101114-signed.zip" 
                 } 
             ] 
         },
@@ -537,7 +537,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-hdpi-20101114-signed.zip" 
                 } 
             ] 
         },
@@ -546,17 +546,17 @@
             "name": "CyanogenMod 7.1.0.1",
             "modversion": "CyanogenMod-7.1.0.1-buzz",
             "incremental": "7102",
-            "url": "http://goo-inside.me/cm/buzz/stable/update-cm-7.1.0.1-buzz-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0.1-buzz-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -571,11 +571,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -590,7 +590,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110613-signed.zip" 
                 } 
             ] 
         },
@@ -605,7 +605,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -620,7 +620,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -635,7 +635,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -650,7 +650,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-mdpi-20110501-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-mdpi-20110501-signed.zip" 
                 } 
             ] 
         },
@@ -665,11 +665,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -684,7 +684,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110613-signed.zip" 
                 } 
             ] 
         },
@@ -693,17 +693,17 @@
             "name": "CyanogenMod 7.1.0.1",
             "modversion": "CyanogenMod-7.1.0.1-Click",
             "incremental": "7102",
-            "url": "http://goo-inside.me/cm/click/stable/update-cm-7.1.0.1-Click-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0.1-Click-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -712,17 +712,17 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-Click",
             "incremental": "7101",
-            "url": "http://goo-inside.me/cm/click/stable/update-cm-7.1.0-Click-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Click-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -737,7 +737,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110613-signed.zip" 
                 } 
             ] 
         },
@@ -752,7 +752,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -767,7 +767,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -782,7 +782,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -791,17 +791,17 @@
             "name": "CyanogenMod 7.1.0.1",
             "modversion": "CyanogenMod 7.1.0.1-NS",
             "incremental": "7102",
-            "url": "http://goo-inside.me/cm/crespo/stable/update-cm-7.1.0.1-NS-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0.1-NS-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
        	       	{
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip"
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip"
                 },
 		{
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip"
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip"
                 } 
             ] 
         },
@@ -816,11 +816,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -836,7 +836,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110613-signed.zip" 
                 } 
             ] 
         },
@@ -851,7 +851,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -866,7 +866,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -881,7 +881,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -890,17 +890,17 @@
             "name": "CyanogenMod 7.1.0.1",
             "modversion": "CyanogenMod-7.1.0.1-NS4G",
             "incremental": "7102",
-            "url": "http://goo-inside.me/cm/crespo4g/stable/update-cm-7.1.0.1-NS4G-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0.1-NS4G-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -915,11 +915,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -934,7 +934,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110613-signed.zip" 
                 } 
             ] 
         },
@@ -949,11 +949,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -968,14 +968,14 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-mdpi-tiny-20101020-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-mdpi-tiny-20101020-signed.zip" 
                 } 
             ] 
         },
         {
             "device": "dream",
             "name": "CyanogenMod 6.0.0",
-            "url": "http://goo-inside.me/cm/dream_sapphire/stable/update-cm-6.0.0-DS-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-6.0.0-DS-signed.zip",
             "modversion": "CyanogenMod-6.0.0-DS",
             "incremental": "6000",
             "product": "CyanogenMod",
@@ -983,7 +983,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-mdpi-tiny-20101020-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-mdpi-tiny-20101020-signed.zip" 
                 } 
             ] 
         },
@@ -992,13 +992,13 @@
             "name": "CyanogenMod 5.0.8",
             "modversion": "CyanogenMod-5.0.8-DS",
             "incremental": "5080",
-            "url": "http://goo-inside.me/cm/dream_sapphire/stable/update-cm-5.0.8-DS-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-5.0.8-DS-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable, Flashing Recovery may be broken",
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-ds-ERE36B-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-ds-ERE36B-signed.zip" 
                 } 
             ] 
         },
@@ -1013,11 +1013,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -1032,11 +1032,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -1051,7 +1051,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110613-signed.zip" 
                 } 
             ] 
         },
@@ -1066,7 +1066,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -1081,7 +1081,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -1096,7 +1096,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -1111,11 +1111,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -1130,7 +1130,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110613-signed.zip" 
                 } 
             ] 
         },
@@ -1145,7 +1145,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -1160,7 +1160,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -1175,7 +1175,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -1190,7 +1190,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-mdpi-20110501-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-mdpi-20110501-signed.zip" 
                 } 
             ] 
         },
@@ -1205,7 +1205,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-mdpi-20110501-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-mdpi-20110501-signed.zip" 
                 } 
             ] 
         },
@@ -1220,7 +1220,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-mdpi-20110501-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-mdpi-20110501-signed.zip" 
                 } 
             ] 
         },
@@ -1235,11 +1235,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -1254,11 +1254,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -1267,17 +1267,17 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-GalaxyS2ATT",
             "incremental": "7101",
-            "url": "http://goo-inside.me/cm/galaxys2att/stable/update-cm-7.1.0-GalaxyS2ATT-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-GalaxyS2ATT-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -1292,11 +1292,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -1311,7 +1311,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110613-signed.zip" 
                 } 
             ] 
         },
@@ -1326,11 +1326,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -1345,7 +1345,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110613-signed.zip" 
                 } 
             ] 
         },
@@ -1360,7 +1360,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -1375,7 +1375,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -1390,7 +1390,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -1399,17 +1399,17 @@
             "name": "CyanogenMod 7.1.0.2",
             "modversion": "CyanogenMod-7.1.0.2-XperiaNeo-MT15i",
             "incremental": "7103",
-            "url": "http://goo-inside.me/cm/hallon/stable/update-cm-7.1.0.2-XperiaNeo-MT15i-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0.2-XperiaNeo-MT15i-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip"
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip"
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip"
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip"
                 } 
             ] 
         },
@@ -1418,17 +1418,17 @@
             "name": "CyanogenMod 7.1.0.1",
             "modversion": "CyanogenMod-7.1.0.1-XperiaNeo-MT15i",
             "incremental": "7102",
-            "url": "http://goo-inside.me/cm/hallon/stable/update-cm-7.1.0.1-XperiaNeo-MT15i-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0.1-XperiaNeo-MT15i-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -1443,11 +1443,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -1462,7 +1462,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -1477,7 +1477,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -1492,7 +1492,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -1507,11 +1507,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -1520,13 +1520,13 @@
             "name": "CyanogenMod 6.1.0",
             "modversion": "CyanogenMod-6.1.0-Hero",
             "incremental": "6101",
-            "url": "http://goo-inside.me/cm/hero/stable/update-cm-6.1.0-Hero-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-Hero-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-mdpi-20110501-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-mdpi-20110501-signed.zip" 
                 } 
             ] 
         },
@@ -1541,11 +1541,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -1560,7 +1560,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110613-signed.zip" 
                 } 
             ] 
         },
@@ -1575,7 +1575,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -1590,7 +1590,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -1605,7 +1605,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -1614,13 +1614,13 @@
             "name": "CyanogenMod 6.1.0",
             "modversion": "CyanogenMod-6.1.0-Heroc-RC1",
             "incremental": "6101",
-            "url": "http://goo-inside.me/cm/heroc/stable/update-cm-6.1.0-Heroc-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-Heroc-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-mdpi-20110501-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-mdpi-20110501-signed.zip" 
                 } 
             ] 
         },
@@ -1635,11 +1635,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -1654,7 +1654,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110613-signed.zip" 
                 } 
             ] 
         },
@@ -1669,7 +1669,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -1684,7 +1684,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -1699,7 +1699,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -1714,7 +1714,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -1729,7 +1729,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-hdpi-20101114-signed.zip" 
                 } 
             ] 
         },
@@ -1739,12 +1739,12 @@
             "modversion": "CyanogenMod-6.0.2-Inc",
             "incremental": "6020",
             "product": "CyanogenMod",
-            "url": "http://goo-inside.me/cm/inc/stable/update-cm-6.0.2-Inc-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-6.0.2-Inc-signed.zip",
             "summary": "Stable Release",
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-hdpi-20101114-signed.zip" 
                 } 
             ] 
         },
@@ -1754,12 +1754,12 @@
             "modversion": "CyanogenMod-6.0.1-Inc",
             "incremental": "6010",
             "product": "CyanogenMod",
-            "url": "http://goo-inside.me/cm/inc/stable/update-cm-6.0.1-Inc-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-6.0.1-Inc-signed.zip",
             "summary": "Stable Release",
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-hdpi-20101114-signed.zip" 
                 } 
             ] 
         },
@@ -1769,12 +1769,12 @@
             "modversion": "CyanogenMod-6.0.0-Inc",
             "incremental": "6000",
             "product": "CyanogenMod",
-            "url": "http://goo-inside.me/cm/inc/stable/update-cm-6.0.0-Inc-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-6.0.0-Inc-signed.zip",
             "summary": "Stable Release",
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-hdpi-20101114-signed.zip" 
                 } 
             ] 
         },
@@ -1789,11 +1789,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -1808,11 +1808,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -1827,7 +1827,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110613-signed.zip" 
                 } 
             ] 
         },
@@ -1842,7 +1842,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -1857,7 +1857,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -1872,7 +1872,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -1887,7 +1887,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-mdpi-20110501-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-mdpi-20110501-signed.zip" 
                 } 
             ] 
         },
@@ -1896,17 +1896,17 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-Liberty",
             "incremental": "7101",
-            "url": "http://goo-inside.me/cm/liberty/stable/update-cm-7.1.0-Libety-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Libety-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -1921,7 +1921,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110613-signed.zip" 
                 } 
             ] 
         },
@@ -1936,7 +1936,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -1951,7 +1951,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -1966,7 +1966,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -1975,13 +1975,13 @@
             "name": "CyanogenMod 6.1.0",
             "modversion": "CyanogenMod-6.1.0-liberty",
             "incremental": "6103",
-            "url": "http://goo-inside.me/cm/liberty/stable/update-cm-6.1.0-Liberty-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-6.1.0-Liberty-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-mdpi-20110501-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-mdpi-20110501-signed.zip" 
                 } 
             ] 
         },
@@ -1990,17 +1990,17 @@
             "name": "CyanogenMod 7.1.0.2",
             "modversion": "CyanogenMod-7.1.0.2-XperiaMiniPro-SK17i",
             "incremental": "7103",
-            "url": "http://goo-inside.me/cm/mango/stable/update-cm-7.1.0.2-XperiaMiniPro-SK17i-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0.2-XperiaMiniPro-SK17i-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip"
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip"
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip"
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip"
                 } 
             ] 
         },
@@ -2009,17 +2009,17 @@
             "name": "CyanogenMod 7.1.0.1",
             "modversion": "CyanogenMod-7.1.0.1-XperiaMiniPro-SK17i",
             "incremental": "7102",
-            "url": "http://goo-inside.me/cm/mango/stable/update-cm-7.1.0.1-XperiaMiniPro-SK17i-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0.1-XperiaMiniPro-SK17i-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -2034,11 +2034,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -2047,17 +2047,17 @@
             "name": "CyanogenMod 7.1.1",
             "modversion": "CyanogenMod-7.1.1-Thunderbolt",
             "incremental": "7107",
-            "url": "http://goo-inside.me/cm/mecha/stable/update-cm-7.1.1-Thunderbolt-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.1-Thunderbolt-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release\u000aMR2 or 2.5 Radio Only",
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -2072,11 +2072,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -2091,11 +2091,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -2104,17 +2104,17 @@
             "name": "CyanogenMod 7.1.0.1",
             "modversion": "CyanogenMod-7.1.0.1-CLIQ",
             "incremental": "7102",
-            "url": "http://goo-inside.me/cm/morrison/stable/update-cm-7.1.0.1-CLIQ-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0.1-CLIQ-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -2129,11 +2129,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -2148,7 +2148,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110613-signed.zip" 
                 } 
             ] 
         },
@@ -2163,11 +2163,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -2182,11 +2182,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -2201,7 +2201,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110613-signed.zip" 
                 } 
             ] 
         },
@@ -2216,7 +2216,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -2231,7 +2231,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -2246,7 +2246,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -2261,7 +2261,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-mdpi-tiny-20101020-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-mdpi-tiny-20101020-signed.zip" 
                 } 
             ] 
         },
@@ -2276,11 +2276,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -2295,7 +2295,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110613-signed.zip" 
                 } 
             ] 
         },
@@ -2310,11 +2310,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -2329,11 +2329,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -2348,7 +2348,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110613-signed.zip" 
                 } 
             ] 
         },
@@ -2363,11 +2363,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -2382,7 +2382,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110613-signed.zip" 
                 } 
             ] 
         },
@@ -2397,7 +2397,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -2412,7 +2412,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -2427,7 +2427,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -2442,7 +2442,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -2457,7 +2457,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-hdpi-20101114-signed.zip" 
                 } 
             ] 
         },
@@ -2472,7 +2472,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-hdpi-20101114-signed.zip" 
                 } 
             ] 
         },
@@ -2487,7 +2487,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-hdpi-20101114-signed.zip" 
                 } 
             ] 
         },
@@ -2496,13 +2496,13 @@
             "name": "CyanogenMod 5.0.8",
             "modversion": "CyanogenMod-5.0.8-N1",
             "incremental": "5080",
-            "url": "http://goo-inside.me/cm/passion/stable/update-cm-5.0.8-N1-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-5.0.8-N1-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable",
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-passion-EPF30-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-passion-EPF30-signed.zip" 
                 } 
             ] 
         },
@@ -2511,17 +2511,17 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-X10Mini",
             "incremental": "7101",
-            "url": "http://goo-inside.me/cm/robyn/stable/update-cm-7.1.0-X10Mini-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-X10Mini-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -2536,11 +2536,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -2555,7 +2555,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-mdpi-tiny-20101020-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-mdpi-tiny-20101020-signed.zip" 
                 } 
             ] 
         },
@@ -2564,13 +2564,13 @@
             "name": "CyanogenMod 6.0.0",
             "modversion": "CyanogenMod-6.0.0-DS",
             "incremental": "6000",
-            "url": "http://goo-inside.me/cm/dream_sapphire/stable/update-cm-6.0.0-DS-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-6.0.0-DS-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-mdpi-tiny-20101020-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-mdpi-tiny-20101020-signed.zip" 
                 } 
             ] 
         },
@@ -2579,13 +2579,13 @@
             "name": "CyanogenMod 5.0.8",
             "modversion": "CyanogenMod-5.0.8-DS",
             "incremental": "5080",
-            "url": "http://goo-inside.me/cm/dream_sapphire/stable/update-cm-5.0.8-DS-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-5.0.8-DS-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable, Flashing Recovery may be broken",
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-ds-ERE36B-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-ds-ERE36B-signed.zip" 
                 } 
             ] 
         },
@@ -2600,11 +2600,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -2619,11 +2619,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -2638,7 +2638,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110613-signed.zip" 
                 } 
             ] 
         },
@@ -2653,7 +2653,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -2668,7 +2668,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -2698,7 +2698,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-hdpi-20101114-signed.zip" 
                 } 
             ] 
         },
@@ -2728,7 +2728,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-hdpi-20101114-signed.zip" 
                 } 
             ] 
         },
@@ -2758,7 +2758,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-hdpi-20101114-signed.zip" 
                 } 
             ] 
         },
@@ -2768,12 +2768,12 @@
             "modversion": "CyanogenMod-5.0.8-Droid",
             "incremental": "5080",
             "product": "CyanogenMod",
-            "url": "http://goo-inside.me/cm/sholes/stable/update-cm-5.0.8-Droid-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-5.0.8-Droid-signed.zip",
             "summary": "Stable",
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-passion-EPE54B-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-passion-EPE54B-signed.zip" 
                 } 
             ] 
         },
@@ -2788,11 +2788,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -2801,17 +2801,17 @@
             "name": "CyanogenMod 7.1.0.1",
             "modversion": "CyanogenMod-7.1.0.1-smb_a1002",
             "incremental": "7102",
-            "url": "http://goo-inside.me/cm/smb_a1002/stable/update-cm-7.1.0.1-smb_a1002-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0.1-smb_a1002-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -2826,11 +2826,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -2845,7 +2845,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110613-signed.zip" 
                 } 
             ] 
         },
@@ -2854,17 +2854,17 @@
             "name": "CyanogenMod 7.1.0.2",
             "modversion": "CyanogenMod-7.1.0.2-XperiaMini-ST15i",
             "incremental": "7103",
-            "url": "http://goo-inside.me/cm/smultron/stable/update-cm-7.1.0.2-XperiaMini-ST15i-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0.2-XperiaMini-ST15i-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip"
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip"
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip"
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip"
                 } 
             ] 
         },
@@ -2873,17 +2873,17 @@
             "name": "CyanogenMod 7.1.0.1",
             "modversion": "CyanogenMod-7.1.0.1-XperiaMini-ST15i",
             "incremental": "7102",
-            "url": "http://goo-inside.me/cm/smultron/stable/update-cm-7.1.0.1-XperiaMini-ST15i-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0.1-XperiaMini-ST15i-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -2898,11 +2898,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -2911,17 +2911,17 @@
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-Speedy",
             "incremental": "7101",
-            "url": "http://goo-inside.me/cm/speedy/stable/update-cm-7.1.0-Speedy-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0-Speedy-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -2936,7 +2936,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110613-signed.zip" 
                 } 
             ] 
         },
@@ -2951,7 +2951,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -2966,7 +2966,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -2981,7 +2981,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -2996,7 +2996,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -3011,11 +3011,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -3030,7 +3030,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110613-signed.zip" 
                 } 
             ] 
         },
@@ -3045,7 +3045,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -3060,7 +3060,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -3075,7 +3075,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -3090,7 +3090,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -3105,7 +3105,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-hdpi-20101114-signed.zip" 
                 } 
             ] 
         },
@@ -3120,7 +3120,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-hdpi-20101114-signed.zip" 
                 } 
             ] 
         },
@@ -3135,7 +3135,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-hdpi-20101114-signed.zip" 
                 } 
             ] 
         },
@@ -3150,7 +3150,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-hdpi-20101114-signed.zip" 
                 } 
             ] 
         },
@@ -3159,17 +3159,17 @@
             "name": "CyanogenMod 7.1.0.2",
             "modversion": "CyanogenMod-7.1.0.2-XperiaRay-ST18i",
             "incremental": "7103",
-            "url": "http://goo-inside.me/cm/urushi/stable/update-cm-7.1.0.2-XperiaRay-ST18i-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0.2-XperiaRay-ST18i-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip"
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip"
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip"
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip"
                 } 
             ] 
         },
@@ -3178,17 +3178,17 @@
             "name": "CyanogenMod 7.1.0.1",
             "modversion": "CyanogenMod-7.1.0.1-XperiaRay-ST18i",
             "incremental": "7102",
-            "url": "http://goo-inside.me/cm/urushi/stable/update-cm-7.1.0.1-XperiaRay-ST18i-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0.1-XperiaRay-ST18i-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -3203,11 +3203,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -3222,7 +3222,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110613-signed.zip" 
                 } 
             ] 
         },
@@ -3237,11 +3237,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -3256,7 +3256,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110613-signed.zip" 
                 } 
             ] 
         },
@@ -3265,17 +3265,17 @@
             "name": "CyanogenMod 7.1.0.1",
             "modversion": "CyanogenMod-7.1.0.1-Vibrant",
             "incremental": "7102",
-            "url": "http://goo-inside.me/cm/vibrantmtd/stable/update-cm-7.1.0.1-Vibrant-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0.1-Vibrant-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -3290,11 +3290,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -3309,7 +3309,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110613-signed.zip" 
                 } 
             ] 
         },
@@ -3324,11 +3324,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -3343,7 +3343,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110613-signed.zip" 
                 } 
             ] 
         },
@@ -3358,7 +3358,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -3373,7 +3373,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -3388,7 +3388,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -3403,7 +3403,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-hdpi-20101114-signed.zip" 
                 } 
             ] 
         },
@@ -3418,7 +3418,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-hdpi-20101114-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-hdpi-20101114-signed.zip" 
                 } 
             ] 
         },
@@ -3442,11 +3442,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -3461,7 +3461,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110613-signed.zip" 
                 } 
             ] 
         },
@@ -3476,11 +3476,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -3495,11 +3495,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -3514,7 +3514,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110613-signed.zip" 
                 } 
             ] 
         },
@@ -3529,7 +3529,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -3544,7 +3544,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -3559,7 +3559,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -3574,7 +3574,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-mdpi-20110501-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-mdpi-20110501-signed.zip" 
                 } 
             ] 
         },
@@ -3589,7 +3589,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-mdpi-20110501-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-mdpi-20110501-signed.zip" 
                 } 
             ] 
         },
@@ -3604,7 +3604,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-mdpi-20110501-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-mdpi-20110501-signed.zip" 
                 } 
             ] 
         },
@@ -3619,11 +3619,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -3638,7 +3638,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110613-signed.zip" 
                 } 
             ] 
         },
@@ -3653,7 +3653,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -3668,7 +3668,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -3683,11 +3683,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -3702,7 +3702,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110613-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110613-signed.zip" 
                 } 
             ] 
         },
@@ -3717,7 +3717,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -3732,7 +3732,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -3747,7 +3747,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110307-signed.zip" 
                 } 
             ] 
         },
@@ -3756,17 +3756,17 @@
             "name": "CyanogenMod 7.1.0.2",
             "modversion": "CyanogenMod-7.1.0.2-XperiaPlay-R800i",
             "incremental": "7103",
-            "url": "http://goo-inside.me/cm/zeus/stable/update-cm-7.1.0.2-XperiaPlay-R800i-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0.2-XperiaPlay-R800i-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip"
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip"
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip"
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip"
                 } 
             ] 
         },
@@ -3775,17 +3775,17 @@
             "name": "CyanogenMod 7.1.0.1",
             "modversion": "CyanogenMod-7.1.0.1-XperiaPlay-R800i",
             "incremental": "7102",
-            "url": "http://goo-inside.me/cm/zeus/stable/update-cm-7.1.0.1-XperiaPlay-R800i-signed.zip",
+            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.0.1-XperiaPlay-R800i-signed.zip",
             "product": "CyanogenMod",
             "summary": "Stable Release",
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         },
@@ -3800,11 +3800,11 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip" 
                 },
                 {
                     "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-newtalk-signed.zip" 
+                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip" 
                 } 
             ] 
         }

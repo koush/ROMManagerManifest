@@ -1369,6 +1369,19 @@
       "lunch": "cyanogen_galaxys2att-eng"
     },
     {
+      "name": "Samsung GalaxyS2 (SGH-I777)",
+      "inits": [
+        "init.smdkc210.rc",
+        "init.smdk4210.rc"
+      ],
+      "touch_version": "5.8.1.5",
+      "version": "5.0.2.6",
+      "readonly_recovery": true,
+      "init": "init.smdkc210.rc",
+      "key": "i777"
+      "lunch": "cyanogen_i777-eng"
+    },
+    {
       "name": "Samsung T-Mobile GalaxyS2",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=4096 ; ",
       "version": "5.0.2.7",

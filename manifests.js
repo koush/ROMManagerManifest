@@ -3320,11 +3320,11 @@
       "developer": "StrifeJester",
       "free": true,
       "id": "strifejester",
-      "manifest": "http://android.strifejester.com/ClockworkStuff/manifest.js",
+      "manifest": "http://android.strifejester.com/ClockworkStuff/romlist.js",
       "roms": {
         "crespo4g": true
       },
-      "summary": "StrifeJester AOSP Builds"
+      "summary": "StrifeJester AOSP + BB Builds"
     },
     {
       "developer": "@HTCrussiaTeam",

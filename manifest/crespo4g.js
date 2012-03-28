@@ -201,10 +201,10 @@
     },
     {
       "developer": "StrifeJester",
-      "free": false,
+      "free": true,
       "id": "strifejester",
-      "manifest": "http://developer.clockworkmod.com/developer/strifejester/manifest",
-      "summary": "StrifeJester AOSP Builds"
+      "manifest": "http://android.strifejester.com/ClockworkStuff/romlist.js",
+      "summary": "StrifeJester AOSP + BB Builds"
     },
     {
       "developer": "02.06.12 Cyanogenmod 9 02.06.12",

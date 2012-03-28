@@ -75,7 +75,6 @@
             "galaxysmtd": "true",
             "galaxys2": "true",
             "galaxys2att": "true",
-            "i777": "true",
             "encore": "true",
             "crespo": "true",
             "click": "true",

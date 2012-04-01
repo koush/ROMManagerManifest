@@ -1605,6 +1605,7 @@
       "name": "Asus Transformer Prime",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p4 ;",
       "version": "5.8.2.0",
+      "touch_version": "5.8.1.8",
       "init": "init.cardhu.rc",
       "legacy_versions": [
         "5.5.0.4"
@@ -1638,6 +1639,7 @@
     {
       "name": "Asus Transformer",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p4 ;",
+      "touch_version": "5.8.1.8",
       "version": "5.5.0.4",
       "init": "init.ventana.rc",
       "key": "tf101",

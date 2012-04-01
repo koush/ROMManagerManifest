@@ -3318,13 +3318,13 @@
     },
     {
       "developer": "StrifeJester",
-      "free": false,
+      "free": true,
       "id": "strifejester",
-      "manifest": "http://developer.clockworkmod.com/developer/strifejester/manifest",
+      "manifest": "http://android.strifejester.com/ClockworkStuff/romlist.js",
       "roms": {
         "crespo4g": true
       },
-      "summary": "StrifeJester AOSP Builds"
+      "summary": "StrifeJester AOSP + BB Builds"
     },
     {
       "developer": "@HTCrussiaTeam",

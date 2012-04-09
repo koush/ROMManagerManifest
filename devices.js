@@ -1639,11 +1639,13 @@
     {
       "name": "Asus Transformer",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p4 ;",
-      "touch_version": "5.8.1.9",
-      "version": "5.8.1.9",
+      "touch_version": "5.8.2.1",
+      "version": "5.8.2.1",
       "init": "init.ventana.rc",
       "legacy_versions": [
-        "5.5.0.4"
+        "5.5.0.4",
+        "5.8.1.9",
+        "5.8.2.0"
       ],
       "key": "tf101",
       "lunch": "cm_tf101-userdebug"

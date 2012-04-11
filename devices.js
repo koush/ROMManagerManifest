@@ -1676,6 +1676,15 @@
       "init": "init.pico.rc",
       "key": "pico",
       "lunch": "full_pico-eng"
+    },
+    {
+      "name": "HTC One X (GSM)",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p5 ;",
+      "touch_version": "5.5.0.4",
+      "version": "5.5.0.4",
+      "init": "ueventd.endeavoru.rc",
+      "key": "endeavouru",
+      "lunch": "cm_endeavouru-userdebug"
     }
   ],
   "use_in_app": false,

@@ -1680,11 +1680,12 @@
     {
       "name": "HTC One X (GSM)",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p5 bs=4096 ;",
-      "touch_version": "5.8.2.1",
-      "version": "5.8.2.1",
+      "touch_version": "5.8.2.2",
+      "version": "5.8.2.2",
       "init": "ueventd.endeavoru.rc",
       "legacy_versions": [
-        "5.5.0.4"
+        "5.5.0.4",
+        "5.8.2.1"
       ],
       "key": "endeavouru",
       "lunch": "cm_endeavouru-userdebug"
@@ -1692,11 +1693,12 @@
     {
       "name": "HTC One S",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=4096 ;",
-      "version": "5.8.2.1",
-      "touch_version": "5.8.2.1",
+      "version": "5.8.2.2",
+      "touch_version": "5.8.2.2",
       "init": "init.ville.rc",
       "legacy_versions": [
-        "5.5.0.4"
+        "5.5.0.4",
+        "5.8.2.1"
       ],
       "key": "ville",
       "lunch": "cm_ville-userdebug"

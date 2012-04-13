@@ -1682,9 +1682,12 @@
     {
       "name": "HTC One X (GSM)",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p5 bs=4096 ;",
-      "touch_version": "5.8.2.6",
-      "version": "5.8.2.6",
+      "touch_version": "5.8.2.7",
+      "version": "5.8.2.7",
       "init": "ueventd.endeavoru.rc",
+      "legacy_versions": [
+        "5.8.2.6"
+      ],
       "key": "endeavoru",
       "lunch": "cm_endeavoru-userdebug"
     },

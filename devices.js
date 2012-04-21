@@ -1708,19 +1708,19 @@
     {
       "name": "Samsung Galaxy Tab (MTD and GSM)",
       "version": "5.8.2.1",
-      "init": "init.sch-i800.rc",
+      "init": "init.gt-p1000.rc",
       "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "officially_supported": false,
-      "key": "p1c",
+      "key": "p1",
       "lunch": "cm_p1-userdebug"
     },
     {
       "name": "Samsung Galaxy Tab (MTD and CDMA)",
       "version": "5.8.2.1",
-      "init": "init.gt-p1000.rc",
+      "init": "init.sch-i800.rc",
       "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "officially_supported": false,
-      "key": "p1",
+      "key": "p1c",
       "lunch": "cm_p1-userdebug"
     }
   ],

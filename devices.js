@@ -1711,7 +1711,7 @@
       "init": "init.sch-i800.rc",
       "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "officially_supported": false,
-      "key": "p1",
+      "key": "p1c",
       "lunch": "cm_p1-userdebug"
     },
     {

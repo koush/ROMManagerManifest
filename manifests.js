@@ -3779,6 +3779,17 @@
         "buzz": true
       },
       "summary": "zlovrednij@gmail.com"
+    },
+    {
+      "developer": "ZaReason",
+      "free": true,
+      "icon": "http://www.zareason.com/shop/files/rommanager/zareason128x128.png",
+      "id": "zareason",
+      "manifest": "http://www.zareason.com/shop/files/rommanager/manifest.js",
+      "roms": {
+        "MID970": true
+      },
+      "summary": "ROMs for ZaReason tablets"
     }
   ],
   "minversion": "5006"

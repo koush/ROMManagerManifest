@@ -1729,7 +1729,7 @@
       "name": "Google Galaxy Nexus (Sprint)",
       "touch_version": "5.8.3.1",
       "version": "5.8.3.1",
-      "init": "init.toroplus.rc",
+      "init": "init.tuna.rc",
       "key": "toroplus",
       "flash_recovery": "dd if=%s of=/dev/block/platform/omap/omap_hsmmc.0/by-name/recovery bs=4096 ;",
       "lunch": "cm_toroplus-userdebug"

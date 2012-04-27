@@ -1445,7 +1445,7 @@
       "lunch": "full_doubleshot-eng"
     },
     {
-      "name": "Google Galaxy Nexus (GSM)",
+      "name": "Google Galaxy Nexus (Verizon)",
       "flash_recovery": "dd if=%s of=/dev/block/platform/omap/omap_hsmmc.0/by-name/recovery bs=4096 ;",
       "version": "5.5.0.2",
       "touch_version": "5.8.0.2",
@@ -1724,6 +1724,15 @@
       "init": "init.sch-i800.rc",
       "key": "p1c",
       "officially_supported": false
+    },
+    {
+      "name": "Google Galaxy Nexus (Sprint)",
+      "touch_version": "5.8.3.1",
+      "version": "5.8.3.1",
+      "init": "init.toroplus.rc",
+      "key": "toroplus",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/omap/omap_hsmmc.0/by-name/recovery bs=4096 ;",
+      "lunch": "cm_toroplus-userdebug"
     }
   ],
   "use_in_app": false,

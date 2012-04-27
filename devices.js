@@ -1445,7 +1445,7 @@
       "lunch": "full_doubleshot-eng"
     },
     {
-      "name": "Google Galaxy Nexus (Verizon)",
+      "name": "Google Galaxy Nexus (GSM)",
       "flash_recovery": "dd if=%s of=/dev/block/platform/omap/omap_hsmmc.0/by-name/recovery bs=4096 ;",
       "version": "5.5.0.2",
       "touch_version": "5.8.0.2",
@@ -1458,7 +1458,7 @@
       "lunch": "full_maguro-userdebug"
     },
     {
-      "name": "Google Galaxy Nexus (CDMA)",
+      "name": "Google Galaxy Nexus (Verizon)",
       "flash_recovery": "dd if=%s of=/dev/block/platform/omap/omap_hsmmc.0/by-name/recovery bs=4096 ;",
       "version": "5.5.0.4",
       "touch_version": "5.8.0.2",

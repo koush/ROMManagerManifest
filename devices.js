@@ -1726,7 +1726,10 @@
       "version": "5.8.3.1",
       "touch_version": "5.8.3.1",
       "key": "p4wifi",
-      "lunch": "cm_p4wifi-userdebug"
+      "lunch": "cm_p4wifi-userdebug",
+      "legacy_versions": [
+        "4.0.0.4"
+      ]
     }
   ],
   "use_in_app": false,

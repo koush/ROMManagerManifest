@@ -1044,21 +1044,6 @@
       "key": "galaxys4g"
     },
     {
-      "name": "Samsung Galaxy Tab 10.1",
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p2 ; ",
-      "version": "4.0.0.4",
-      "init": "ueventd.p3.rc",
-      "legacy_versions": [
-        "3.2.0.1",
-        "3.2.0.2",
-        "3.2.0.2",
-        "4.0.0.2",
-        "4.0.0.2",
-        "4.0.0.3"
-      ],
-      "key": "p7100"
-    },
-    {
       "name": "Samsung GalaxyS2",
       "inits": [
         "init.smdkc210.rc",
@@ -1727,12 +1712,21 @@
     },
     {
       "name": "Google Galaxy Nexus (Sprint)",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/omap/omap_hsmmc.0/by-name/recovery bs=4096 ;",
       "touch_version": "5.8.3.1",
       "version": "5.8.3.1",
       "init": "init.tuna.rc",
       "key": "toroplus",
-      "flash_recovery": "dd if=%s of=/dev/block/platform/omap/omap_hsmmc.0/by-name/recovery bs=4096 ;",
       "lunch": "cm_toroplus-userdebug"
+    },
+    {
+      "name": "Samsung Galaxy Tab 10.1",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p2 ; ",
+      "init": "ueventd.p3.rc",
+      "version": "5.8.3.1",
+      "touch_version": "5.8.3.1",
+      "key": "p4wifi",
+      "lunch": "cm_p4wifi-userdebug"
     }
   ],
   "use_in_app": false,

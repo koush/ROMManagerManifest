@@ -32,6 +32,7 @@ if found_device == nil then
   found_device["key"] = key
   found_device["init"] = "init." + key + ".rc"
   found_device["name"] = key
+  found_device["legacy_versions"] = []
   devices["devices"].push found_device
 end
 

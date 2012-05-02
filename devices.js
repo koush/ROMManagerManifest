@@ -1860,6 +1860,18 @@
       ],
       "key": "p4wifi",
       "lunch": "cm_p4wifi-userdebug"
+    },
+    {
+      "name": "Motorola XOOM (Wi-Fi only)",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-name/recovery ; ",
+      "touch_version": "5.8.3.1",
+      "version": "5.8.3.1",
+      "init": "init.wingray.rc",
+      "legacy_versions": [
+
+      ],
+      "key": "wingray",
+      "lunch": "cm_wingray-userdebug"
     }
   ],
   "use_in_app": false,

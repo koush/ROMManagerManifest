@@ -18,6 +18,12 @@
         "icon": "https://github.com/ClockworkMod/artwork/raw/master/rommanager/clockwork128.png",
         "summary": "You're using it! This is a quick link to the Market for updates.",
         "packagename": "com.koushikdutta.rommanager"
+    },
+    {
+        "name": "Superuser (test)",
+        "device": "all",
+        "url": "http://download2.clockworkmod.com/su/su-3.0.7.zip",
+        "summary": "Superuser 3.0.7 with some experimental fixes for those having issues flashing."
     }
     ],
     "roms": [

@@ -1877,7 +1877,7 @@
       "name": "LGE Marquee",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p4 bs=4096 ; ",
       "version": "5.0.2.8",
-      "init": "init.marquee.rc",
+      "init": "init.omap.post_boot.sh",
       "legacy_versions": [
 
       ],
@@ -1888,7 +1888,7 @@
       "name": "LGE Ignite",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p4 bs=4096 ; ",
       "version": "5.0.2.8",
-      "init": "init.ignite.rc",
+      "init": "init.omap.post_boot.sh",
       "legacy_versions": [
 
       ],

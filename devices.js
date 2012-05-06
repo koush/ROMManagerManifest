@@ -1872,6 +1872,28 @@
       ],
       "key": "wingray",
       "lunch": "cm_wingray-userdebug"
+    },
+    {
+      "name": "LGE Marquee",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p4 bs=4096 ; ",
+      "version": "5.0.2.8",
+      "init": "init.marquee.rc",
+      "legacy_versions": [
+
+      ],
+      "key": "marquee",
+      "lunch": "full_marquee-eng"
+    },
+    {
+      "name": "LGE Ignite",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p4 bs=4096 ; ",
+      "version": "5.0.2.8",
+      "init": "init.ignite.rc",
+      "legacy_versions": [
+
+      ],
+      "key": "ignite",
+      "lunch": "full_ignite-eng"
     }
   ],
   "use_in_app": false,

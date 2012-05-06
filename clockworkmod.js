@@ -18,7 +18,9 @@
         "icon": "https://github.com/ClockworkMod/artwork/raw/master/rommanager/clockwork128.png",
         "summary": "You're using it! This is a quick link to the Market for updates.",
         "packagename": "com.koushikdutta.rommanager"
-    },
+    }
+    ],
+    "roms": [
     {
         "name": "Superuser (test)",
         "device": "all",

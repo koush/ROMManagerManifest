@@ -23,7 +23,8 @@
         "name": "Superuser (test)",
         "device": "all",
         "url": "http://download2.clockworkmod.com/su/su-3.0.7.zip",
-        "summary": "Superuser 3.0.7 with some experimental fixes for those having issues flashing."
+        "summary": "Superuser 3.0.7 with some experimental fixes for those having issues flashing.",
+        "icon": "http://gh-pages.clockworkmod.com/ROMManagerManifest/images/superuser.png"
     }
     ],
     "roms": [

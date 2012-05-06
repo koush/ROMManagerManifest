@@ -1894,6 +1894,30 @@
       ],
       "key": "ignite",
       "lunch": "full_ignite-eng"
+    },
+    {
+      "name": "LG Connect 4G MS840",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p13 bs=4096 ; ",
+      "touch_version": "5.8.3.1",
+      "version": "5.8.3.1",
+      "init": "init.cayman.rc",
+      "legacy_versions": [
+
+      ],
+      "key": "ms840",
+      "lunch": "full_ms840-userdebug"
+    },
+    {
+      "name": "LG Lucid VS840",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p13 bs=4096 ; ",
+      "version": "5.8.3.1",
+      "touch_version": "5.8.3.1",
+      "init": "init.cayman.rc",
+      "legacy_versions": [
+
+      ],
+      "key": "vs840",
+      "lunch": "full_vs840-userdebug"
     }
   ],
   "use_in_app": false,

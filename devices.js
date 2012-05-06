@@ -1900,7 +1900,7 @@
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p13 bs=4096 ; ",
       "touch_version": "5.8.3.1",
       "version": "5.8.3.1",
-      "init": "init.cayman.rc",
+      "init": "init.target.rc",
       "legacy_versions": [
 
       ],
@@ -1912,7 +1912,7 @@
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p13 bs=4096 ; ",
       "version": "5.8.3.1",
       "touch_version": "5.8.3.1",
-      "init": "init.cayman.rc",
+      "init": "init.target.rc",
       "legacy_versions": [
 
       ],

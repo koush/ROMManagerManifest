@@ -1919,6 +1919,26 @@
       "key": "vs840",
       "lunch": "full_vs840-userdebug"
     }
+    {
+      "name": "LG Connect 4G MS840",
+      "version": "5.5.0.4",
+      "init": "init.cayman.rc",
+      "legacy_versions": [
+
+      ],
+      "key": "ms840",
+      "lunch": "full_ms840-eng"
+    },
+    {
+      "name": "LG Lucid VS840",
+      "version": "5.5.0.4",
+      "init": "init.cayman.rc",
+      "legacy_versions": [
+
+      ],
+      "key": "vs840",
+      "lunch": "full_vs840-eng"
+    },
   ],
   "use_in_app": false,
   "pontiflex_startup_register": 100,

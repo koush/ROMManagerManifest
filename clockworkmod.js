@@ -24,7 +24,7 @@
     {
         "name": "Superuser (test)",
         "device": "all",
-        "url": "http://download2.clockworkmod.com/su/su-3.0.7-test3.zip",
+        "url": "http://download2.clockworkmod.com/su/su-3.0.7-test4.zip",
         "summary": "Superuser 3.0.7 with some experimental fixes for those having issues flashing."
     }
     ]

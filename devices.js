@@ -1922,7 +1922,7 @@
     {
       "name": "Amazon Kindle Fire",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p5 bs=4096 ; ",
-      "version": "5.8.3.1",
+      "version": "5.8.3.2",
       "init": "init.omap4430.rc",
       "legacy_versions": [
         "5.8.3.1"

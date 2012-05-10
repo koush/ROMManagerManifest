@@ -1918,6 +1918,17 @@
       ],
       "key": "vs840",
       "lunch": "full_vs840-userdebug"
+    },
+    {
+      "name": "Amazon Kindle Fire",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p5 bs=4096 ; ",
+      "version": "5.8.3.1",
+      "init": "init.omap4430.rc",
+      "legacy_versions": [
+        "5.8.3.1"
+      ],
+      "key": "otter",
+      "lunch": "cm_otter-userdebug"
     }
   ],
   "use_in_app": false,

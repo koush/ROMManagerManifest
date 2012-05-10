@@ -1927,6 +1927,11 @@
       "legacy_versions": [
         "5.8.3.1"
       ],
+      "alternate_recovery": {
+        "name": "Hashcode CWM Based Recovery",
+        "url": "http://dl.dropbox.com/u/41149741/KFire-Android/cwrecovery_5.5.0.4_05-03.img",
+        "clockwork": true
+      },
       "key": "otter",
       "lunch": "cm_otter-userdebug"
     }

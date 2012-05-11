@@ -1819,7 +1819,7 @@
       "name": "Samsung Galaxy Tab (MTD and GSM)",
       "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "version": "5.8.2.1",
-      "init": "init.gt-p1000.rc",
+      "init": "init.p1.rc",
       "legacy_versions": [
 
       ],
@@ -1830,7 +1830,7 @@
       "name": "Samsung Galaxy Tab (MTD and CDMA)",
       "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "version": "5.8.2.1",
-      "init": "init.sch-i800.rc",
+      "init": "init.p1c.rc",
       "legacy_versions": [
 
       ],

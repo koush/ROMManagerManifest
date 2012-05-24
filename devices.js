@@ -1070,7 +1070,7 @@
       "name": "Samsung GalaxyS 4G",
       "version": "3.2.0.0",
       "readonly_recovery": true,
-      "init": "init.smdkc110.rc",
+      "init": "init.herring.rc",
       "legacy_versions": [
         "3.2.0.0"
       ],

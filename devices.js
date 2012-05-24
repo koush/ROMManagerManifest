@@ -1068,11 +1068,14 @@
     },
     {
       "name": "Samsung GalaxyS 4G",
-      "version": "3.2.0.0",
+      "version": "5.0.2.8",
       "readonly_recovery": true,
       "init": "init.herring.rc",
       "legacy_versions": [
+        "3.0.2.8x"
         "3.2.0.0"
+        "5.0.2.7"
+        "5.0.2.8"
       ],
       "key": "galaxys4g"
     },

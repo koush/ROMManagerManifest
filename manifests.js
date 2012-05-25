@@ -3402,6 +3402,17 @@
       },
       "summary": "Last Update: 02.06.12  STABLE"
     },
+      "developer" "Team Acid",
+      "free": true,
+      "id": "teamacid",
+      "manifest": "http://teamacid.github.com/RomManager/manifest.js",
+      "roms": {
+        "galaxys4g": true,
+        "galaxys4gmtd": true,
+      },
+      "summary": "TeamAcid stuff for Galaxy S 4G",
+    },
+    {
     {
       "developer": "Team Eos",
       "free": true,

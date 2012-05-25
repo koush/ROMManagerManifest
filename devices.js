@@ -1080,6 +1080,16 @@
       "key": "galaxys4g"
     },
     {
+      "name": "Samsung GalaxyS 4G (MTD)",
+      "reboot_recovery": "echo 1 > /data/.startrecovery ; sync ; reboot ;",
+      "init": "init.herring.rc",
+      "legacy_versions": [
+
+      ],
+      "officially_supported": false,
+      "key": "galaxys4gmtd"
+    },
+    {
       "name": "Samsung GalaxyS2",
       "inits": [
         "init.smdkc210.rc",

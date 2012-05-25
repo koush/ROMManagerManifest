@@ -1,6 +1,13 @@
 {
   "manifests": [
     {
+      "developer": "Team Acid",
+      "free": true,
+      "id": "teamacid",
+      "manifest": "http://teamacid.github.com/RomManager/manifest.js",
+      "summary": "Roms and modifcations by TeamAcid"
+    },
+    {
       "developer": "Font Packs for Android 4.0",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/4783/594317ae2c2903718d5667c50293fab5.png",

@@ -1838,6 +1838,28 @@
       "officially_supported": false
     },
     {
+      "name": "Samsung Galaxy Tab (MTD and GSM - L)",
+      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
+      "version": "5.8.2.1",
+      "init": "init.p1.rc",
+      "legacy_versions": [
+
+      ],
+      "key": "p1l",
+      "officially_supported": false
+    },
+    {
+      "name": "Samsung Galaxy Tab (MTD and GSM - N)",
+      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
+      "version": "5.8.2.1",
+      "init": "init.p1.rc",
+      "legacy_versions": [
+
+      ],
+      "key": "p1n",
+      "officially_supported": false
+    },
+    {
       "name": "Google Galaxy Nexus (Sprint)",
       "flash_recovery": "dd if=%s of=/dev/block/platform/omap/omap_hsmmc.0/by-name/recovery bs=4096 ;",
       "touch_version": "5.8.3.1",

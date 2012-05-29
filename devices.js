@@ -1908,6 +1908,19 @@
       "lunch": "full_ms840-userdebug"
     },
     {
+      "name": "LG Optimus M+ MS695",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p17 bs=4096 ; ",
+      "touch_version": "5.8.3.1",
+      "version": "5.5.0.4",
+      "init": "init.target.rc",
+      "init": "init.m3.rc",
+      "legacy_versions": [
+
+      ],
+      "key": "ms695",
+      "lunch": "full_ms695-userdebug"
+    },
+    {
       "name": "LG Lucid VS840",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p13 bs=4096 ; ",
       "version": "5.8.3.1",

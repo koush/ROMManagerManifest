@@ -1912,7 +1912,7 @@
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p17 bs=4096 ; ",
       "touch_version": "5.8.3.1",
       "version": "5.5.0.4",
-      "init": "lgsecurity.rc",
+      "init": "init.m3.rc",
       "legacy_versions": [
 
       ],

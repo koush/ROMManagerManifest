@@ -75,6 +75,7 @@
             "galaxysmtd": "true",
             "galaxys2": "true",
             "galaxys2att": "true",
+            "i9100g": "true",
             "encore": "true",
             "crespo": "true",
             "click": "true",

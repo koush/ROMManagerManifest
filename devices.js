@@ -1097,7 +1097,18 @@
         "4.0.1.4",
         "v4.0.1.4"
       ],
-      "name": "Samsung GalaxyS2"
+      "name": "Samsung Galaxy SII"
+    },
+    {
+      "touch_version": "5.8.1.5",
+      "version": "5.5.0.4",
+      "readonly_recovery": true,
+      "key": "i9100g",
+      "init": "init.t1.rc",
+      "legacy_versions": [
+
+      ],
+      "name": "Samsung Galaxy SII G"
     },
     {
       "version": "4.0.0.2",

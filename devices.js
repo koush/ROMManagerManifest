@@ -1920,6 +1920,18 @@
       "lunch": "full_ms695-userdebug"
     },
     {
+      "name": "LG Optimus L3 E400",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p17 bs=4096 ; ",
+      "touch_version": "5.8.3.1",
+      "version": "5.5.0.4",
+      "init": "init.e0.rc",
+      "legacy_versions": [
+
+      ],
+      "key": "e400",
+      "lunch": "full_e400-userdebug"
+    },
+    {
       "name": "LG Lucid VS840",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p13 bs=4096 ; ",
       "version": "5.8.3.1",

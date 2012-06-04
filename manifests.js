@@ -3376,7 +3376,8 @@
       "id": "TeamAcid",
       "manifest": "http://teamacid.github.com/RomManager/manifest.js",
       "roms": {
-        "galaxys4g": true
+        "galaxys4g": true,
+        "galaxys4gmtd": true
       },
       "summary": "Kernels, Roms, and other add-ons by Team Acid"
     },

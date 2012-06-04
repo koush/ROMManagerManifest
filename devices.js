@@ -1084,6 +1084,16 @@
     },
     {
       "legacy_versions": [
+
+      ],
+      "officially_supported": false,
+      "init": "init.herring.rc",
+      "key": "galaxys4gmtd",
+      "name": "Samsung Galaxy S 4G (MTD)",
+      "reboot_recovery": "echo 1 > /data/.startrecovery ; sync ; reboot ;"
+    },
+    {
+      "legacy_versions": [
         "4.0.1.4",
         "v4.0.1.4"
       ],

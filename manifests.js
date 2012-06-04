@@ -3370,6 +3370,17 @@
       "summary": "Custom ROMs built from AOSP. Updated weekly."
     },
     {
+      "developer": "Team Acid",
+      "free": true,
+      "icon": "http://teamacid.github.com/images/teamacid/taim.png",
+      "id": "TeamAcid",
+      "manifest": "http://teamacid.github.com/RomManager/manifest.js",
+      "roms": {
+        "galaxys4g": true
+      },
+      "summary": "Kernels, Roms, and other add-ons by Team Acid"
+    },
+    {
       "developer": "CyanogenDefy Stable",
       "free": false,
       "icon": "http://developer.clockworkmod.com/downloads/799/b71cff86e04eb15b21369f22948a3db6.png",

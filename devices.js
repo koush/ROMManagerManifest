@@ -1077,7 +1077,7 @@
         "3.2.0.0"
       ],
       "version": "3.2.0.0",
-      "init": "init.smdkc110.rc",
+      "init": "init.herring.rc",
       "readonly_recovery": true,
       "key": "galaxys4g",
       "name": "Samsung GalaxyS 4G"

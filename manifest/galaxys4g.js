@@ -49,6 +49,14 @@
       "summary": "Add-on for AOSP ROMs, such as CM"
     },
     {
+      "developer": "Team Acid",
+      "free": "true",
+      "id": "TeamAcid",
+      "icon": "http://teamacid.github.com/images/teamacid/taim.png",
+      "manifest": "http://teamacid.github.com/RomManager/manifest.js",
+      "summary": "Kernels, Roms, and other add-ons by Team Acid"
+    },
+    {
       "developer": "ricksterling21@gmail.com",
       "free": false,
       "id": "ricksterling21@gmail.com",

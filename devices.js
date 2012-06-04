@@ -1077,10 +1077,20 @@
         "3.2.0.0"
       ],
       "version": "3.2.0.0",
-      "init": "init.smdkc110.rc",
+      "init": "init.herring.rc",
       "readonly_recovery": true,
       "key": "galaxys4g",
       "name": "Samsung GalaxyS 4G"
+    },
+    {
+      "legacy_versions": [
+
+      ],
+      "officially_supported": false,
+      "init": "init.herring.rc",
+      "key": "galaxys4gmtd",
+      "name": "Samsung Galaxy S 4G (MTD)",
+      "reboot_recovery": "echo 1 > /data/.startrecovery ; sync ; reboot ;"
     },
     {
       "legacy_versions": [

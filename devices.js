@@ -1,6 +1,6 @@
 {
-  "recovery_zip_url": "http://download.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.zip",
-  "recovery_url": "http://download.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.img",
+  "recovery_zip_url": "http://download2.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.zip",
+  "recovery_url": "http://download2.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.img",
   "ad_network": "admob",
   "pontiflex_downloading": 100,
   "pontiflex_startup_register": 100,

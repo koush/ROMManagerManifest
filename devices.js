@@ -1964,6 +1964,30 @@
         "5.8.4.1",
         "5.8.4.2"
       ]
+    },
+    {
+      "init": "init.qcom.usb.rc",
+      "version": "5.8.4.3",
+      "name": "Samsung Skyrocket",
+      "legacy_versions": [
+
+      ],
+      "lunch": "cm_skyrocket-userdebug",
+      "touch_version": "5.8.4.3",
+      "key": "skyrocket",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=4096 ; "
+    },
+    {
+      "init": "init.qcom.usb.rc",
+      "version": "5.8.4.3",
+      "name": "Samsung Galaxy Note (AT&T)",
+      "legacy_versions": [
+
+      ],
+      "touch_version": "5.8.4.3",
+      "lunch": "cm_quincyatt-userdebug",
+      "key": "quincyatt",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=4096 ; "
     }
   ]
 }

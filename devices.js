@@ -1999,7 +1999,7 @@
 
       ],
       "init": "init.primou.rc",
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ; ",
+      "readonly_recovery": true,
       "lunch": "cm_primou-userdebug",
       "version": "5.8.4.5",
       "name": "HTC One V",

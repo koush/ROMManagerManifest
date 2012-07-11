@@ -2008,7 +2008,7 @@
     },
     {
       "init": "init.d2att.rc",
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p18 bs=4096 ; "
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p18 bs=4096 ; ",
       "key": "d2att",
       "legacy_versions": [
 
@@ -2019,7 +2019,7 @@
     },
     {
       "init": "init.d2tmo.rc",
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p18 bs=4096 ; "
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p18 bs=4096 ; ",
       "key": "d2tmo",
       "legacy_versions": [
 
@@ -2030,7 +2030,7 @@
     },
     {
       "init": "init.d2spr.rc",
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p18 bs=4096 ; "
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p18 bs=4096 ; ",
       "key": "d2spr",
       "legacy_versions": [
 

@@ -1153,15 +1153,6 @@
       "init": "init.vivow.rc"
     },
     {
-      "key": "thunderc",
-      "version": "3.2.0.1",
-      "name": "LGE Optimus V",
-      "legacy_versions": [
-
-      ],
-      "init": "init.cappuccino.rc"
-    },
-    {
       "touch_version": "5.8.1.5",
       "key": "p920",
       "version": "5.0.2.7",

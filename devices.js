@@ -626,7 +626,7 @@
       ],
       "readonly_recovery": true,
       "init": "init.smdkc110.rc",
-      "name": "Samsung Galaxy Tab - T-Mobile",
+      "name": "Samsung Galaxy Tab (T-Mobile)",
       "version": "2.5.1.8",
       "key": "tmobile_tab"
     },
@@ -1088,7 +1088,7 @@
       ],
       "readonly_recovery": true,
       "init": "init.smdkc110.rc",
-      "name": "Samsung GalaxyS 4G",
+      "name": "Samsung Galaxy S 4G",
       "version": "3.2.0.0",
       "key": "galaxys4g"
     },
@@ -1099,7 +1099,7 @@
       ],
       "readonly_recovery": true,
       "init": "init.smdkc210.rc",
-      "name": "Samsung GalaxyS2",
+      "name": "Samsung Galaxy S2 (GT-I9100)",
       "version": "4.0.1.5",
       "inits": [
         "init.smdkc210.rc",
@@ -1434,7 +1434,7 @@
       ],
       "readonly_recovery": true,
       "init": "init.smdkc210.rc",
-      "name": "Samsung AT&T GalaxyS2",
+      "name": "Samsung Galaxy S2 (AT&T)",
       "version": "5.0.2.6",
       "lunch": "cyanogen_galaxys2att-eng",
       "inits": [
@@ -1449,7 +1449,7 @@
         "5.0.2.6"
       ],
       "init": "init.target.rc",
-      "name": "Samsung T-Mobile GalaxyS2",
+      "name": "Samsung T-Mobile Galaxy S2",
       "version": "5.0.2.7",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=4096 ; ",
       "lunch": "full_hercules-eng",
@@ -1509,7 +1509,7 @@
       ],
       "readonly_recovery": true,
       "init": "init.smdkc110.rc",
-      "name": "Samsung Galaxy Tab - VZW",
+      "name": "Samsung Galaxy Tab (VZW)",
       "version": "5.0.2.7",
       "lunch": "full_vzwtab-eng",
       "key": "vzwtab"
@@ -1797,7 +1797,7 @@
       ],
       "readonly_recovery": true,
       "init": "init.smdkc210.rc",
-      "name": "Samsung GalaxyS2 (SGH-I777)",
+      "name": "Samsung Galaxy S2 (SGH-I777)",
       "version": "6.0.1.0",
       "lunch": "cm_i777-userdebug",
       "inits": [
@@ -1991,7 +1991,7 @@
         "6.0.0.8"
       ],
       "init": "ueventd.smdk4x12.rc",
-      "name": "Samsung Galaxy S3",
+      "name": "Samsung Galaxy S3 (GT-I9300)",
       "version": "6.0.1.0",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 bs=4096 ; ",
       "lunch": "cm_i9300-userdebug",
@@ -2140,7 +2140,7 @@
 
       ],
       "init": "init.t1.rc",
-      "name": "Samsung GT-I9100G",
+      "name": "Samsung Galaxy S2 (GT-I9100G)",
       "version": "6.0.1.0",
       "lunch": "cm_i9100g-userdebug",
       "key": "i9100g",
@@ -2151,8 +2151,8 @@
 
       ],
       "flash_recovery": "dd if=%s /dev/block/mmcblk0p6 bs=4096 ; ",
-      "init": "init.p3100.rc",
-      "name": "p3100",
+      "init": "init.espresso.rc",
+      "name": "Samsung Galaxy Tab 2 (GT-P3100)",
       "version": "6.0.1.1",
       "lunch": "cm_p3100-userdebug",
       "key": "p3100"
@@ -2162,8 +2162,8 @@
 
       ],
       "flash_recovery": "dd if=%s /dev/block/mmcblk0p6 bs=4096 ; ",
-      "init": "init.p3110.rc",
-      "name": "p3110",
+      "init": "init.espresso.rc",
+      "name": "Samsung Galaxy Tab 2 (GT-P3110)",
       "version": "6.0.1.1",
       "lunch": "cm_p3110-userdebug",
       "key": "p3110"
@@ -2173,8 +2173,8 @@
 
       ],
       "flash_recovery": "dd if=%s /dev/block/mmcblk0p6 bs=4096 ; ",
-      "init": "init.p3113.rc",
-      "name": "p3113",
+      "init": "init.espresso.rc",
+      "name": "Samsung Galaxy Tab 2 (GT-P3113)",
       "version": "6.0.1.1",
       "lunch": "cm_p3113-userdebug",
       "key": "p3113"
@@ -2184,8 +2184,8 @@
 
       ],
       "flash_recovery": "dd if=%s /dev/block/mmcblk0p6 bs=4096 ; ",
-      "name": "p5100",
-      "init": "init.p5100.rc",
+      "name": "Samsung Galaxy Tab 2 (GT-P5100)",
+      "init": "init.espresso10.rc",
       "version": "6.0.1.1",
       "lunch": "cm_p5100-userdebug",
       "key": "p5100"
@@ -2195,8 +2195,8 @@
 
       ],
       "flash_recovery": "dd if=%s /dev/block/mmcblk0p6 bs=4096 ; ",
-      "init": "init.p5110.rc",
-      "name": "p5110",
+      "init": "init.espresso10.rc",
+      "name": "Samsung Galaxy Tab 2 (GT-P5110)",
       "version": "6.0.1.1",
       "lunch": "cm_p5110-userdebug",
       "key": "p5110"
@@ -2206,8 +2206,8 @@
 
       ],
       "flash_recovery": "dd if=%s /dev/block/mmcblk0p6 bs=4096 ; ",
-      "name": "p5113",
-      "init": "init.p5113.rc",
+      "name": "Samsung Galaxy Tab 2 (GT-P5113)",
+      "init": "init.espresso10.rc",
       "version": "6.0.1.1",
       "lunch": "cm_p5113-userdebug",
       "key": "p5113"

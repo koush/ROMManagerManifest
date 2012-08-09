@@ -1148,15 +1148,6 @@
       "key": "vivow"
     },
     {
-      "version": "3.2.0.1",
-      "legacy_versions": [
-
-      ],
-      "init": "init.cappuccino.rc",
-      "name": "LGE Optimus V",
-      "key": "thunderc"
-    },
-    {
       "version": "5.0.2.7",
       "legacy_versions": [
         "4.0.0.7",

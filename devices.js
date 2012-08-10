@@ -2203,8 +2203,9 @@
 
       ],
       "lunch": "cm_vs920-userdebug",
-      "init": "init.vs920.rc",
+      "init": "init.target.rc",
       "name": "LGE VS920",
+      "inits":["init.target.rc","init.iproj.rc","init.i_vzw.rc","init.iprj.rc"]
       "flash_recovery": "dd if=%s /dev/block/mmcblk0p13 bs=4096 ; ",
       "key": "vs920",
       "touch_version": "6.0.1.1"
@@ -2215,7 +2216,7 @@
 
       ],
       "lunch": "cm_x500-userdebug",
-      "init": "init.x500.rc",
+      "init": "init.zte.rc",
       "name": "x500",
       "key": "x500",
       "touch_version": "6.0.1.1"
@@ -2226,7 +2227,8 @@
 
       ],
       "lunch": "cm_vs910-userdebug",
-      "init": "init.vs910.rc",
+      "init": "init.qcom.rc",
+      "inits":["init.qcom.rc","init.bryce.rc"]
       "name": "LGE VS910",
       "flash_recovery": "dd if=%s /dev/block/mmcblk0p14 bs=4096 ; ",
       "key": "vs910",
@@ -2238,7 +2240,8 @@
 
       ],
       "lunch": "cm_ms910-userdebug",
-      "init": "init.ms910.rc",
+      "init": "init.qcom.rc",
+      "inits":["init.qcom.rc","init.bryce.rc"]
       "name": "LGE MS910",
       "flash_recovery": "dd if=%s /dev/block/mmcblk0p14 bs=4096 ; ",
       "key": "ms910",

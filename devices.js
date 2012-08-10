@@ -2203,8 +2203,9 @@
 
       ],
       "lunch": "cm_vs920-userdebug",
-      "init": "init.vs920.rc",
-      "name": "LGE VS920",
+      "init": "init.target.rc",
+      "name": "LGE Spectrum 4G",
+      "inits":["init.target.rc","init.iproj.rc","init.i_vzw.rc","init.iprj.rc"],
       "flash_recovery": "dd if=%s /dev/block/mmcblk0p13 bs=4096 ; ",
       "key": "vs920",
       "touch_version": "6.0.1.1"
@@ -2215,8 +2216,8 @@
 
       ],
       "lunch": "cm_x500-userdebug",
-      "init": "init.x500.rc",
-      "name": "x500",
+      "init": "init.zte.rc",
+      "name": "Score & Score M",
       "key": "x500",
       "touch_version": "6.0.1.1"
     },
@@ -2226,8 +2227,9 @@
 
       ],
       "lunch": "cm_vs910-userdebug",
-      "init": "init.vs910.rc",
-      "name": "LGE VS910",
+      "init": "init.qcom.rc",
+      "inits":["init.qcom.rc","init.bryce.rc"],
+      "name": "LGE Revolution 4G",
       "flash_recovery": "dd if=%s /dev/block/mmcblk0p14 bs=4096 ; ",
       "key": "vs910",
       "touch_version": "6.0.1.1"
@@ -2238,8 +2240,9 @@
 
       ],
       "lunch": "cm_ms910-userdebug",
-      "init": "init.ms910.rc",
-      "name": "LGE MS910",
+      "init": "init.qcom.rc",
+      "inits":["init.qcom.rc","init.bryce.rc"],
+      "name": "LGE Esteeem 4G",
       "flash_recovery": "dd if=%s /dev/block/mmcblk0p14 bs=4096 ; ",
       "key": "ms910",
       "touch_version": "6.0.1.1"

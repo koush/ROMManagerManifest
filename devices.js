@@ -1,6 +1,6 @@
 {
   "owners": {
-    "397a38699baa96fa9cf4efab2d257442": true
+    "koush@clockworkmod.com": true
   },
   "version": "2.5.0.1",
   "devices": [

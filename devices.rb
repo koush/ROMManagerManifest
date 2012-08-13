@@ -1,6 +1,11 @@
 require 'rubygems'
 require 'json'
 
+if ENV['NO_UPLOAD'] != nil
+  puts "Bailing due to NO_UPLOAD env variable being set."
+  exit 0
+end
+
 if ARGV[0] == nil then
   puts "ruby devices.rb <device> <version> <lunchcombo>"
   exit
@@ -19,42 +24,12 @@ if ARGV[2] == nil then
 end
 lunch = ARGV[2]
 
-check_version = ENV['CHECK_DEVICE_VERSION'] != nil
-
 devices = JSON.parse(File.open("devices.js").read)
 found_device = nil
 devices["devices"].each do |device|
   if device["key"] == key then
     found_device = device
   end
-end
-
-if check_version
-  if found_device == nil then
-    puts "device not found"
-    exit 1
-  end
-
-  touch_recovery = ENV['BOARD_TOUCH_RECOVERY'] != nil
-  if touch_recovery
-    puts "touch version: "
-    if found_device['touch_version'] == nil
-      exit 1
-    end
-    current_version = found_device['touch_version']
-  else
-    puts "version:"
-    current_version = found_device['version']
-  end
-
-  puts current_version
-
-  if ARGV[1] <= current_version
-    puts "version #{version} is outdated, not updating"
-    exit 1
-  end
-
-  puts "Updating ROMManagerManifest to #{version}."
 end
 
 if found_device == nil then

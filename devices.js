@@ -2242,6 +2242,9 @@
       "legacy_versions": [
 
       ],
+      "owners": {
+        "playfulgod@whatevermail.com": true
+      },
       "lunch": "cm_ms910-userdebug",
       "init": "init.qcom.rc",
       "inits":["init.qcom.rc","init.bryce.rc"],

@@ -2,15 +2,22 @@ require 'rubygems'
 require 'json'
 
 if ARGV[0] == nil then
-  puts "ruby checkdeviceversion.rb <device> <version>"
+  puts "ruby checkdeviceversion.rb <device> <version> <owner>"
   exit 1
 end
 key = ARGV[0]
 
 if ARGV[1] == nil then
-  puts "ruby checkdeviceversion.rb <device> <version>"
+  puts "ruby checkdeviceversion.rb <device> <version> <owner>"
   exit 1
 end
+
+if ARGV[2] == nil then
+  puts "no owner provided, bailing!"
+  puts "ruby checkdeviceversion.rb <device> <version> <owner>"
+  exit 1
+end
+owner = ARGV[2]
 
 devices = JSON.parse(File.open(File.dirname(__FILE__) + "/devices.js").read)
 found_device = nil
@@ -23,6 +30,11 @@ end
 
 if found_device == nil then
   puts "device not found"
+  exit 1
+end
+
+if !devices['owners'][owner] && !(found_device['owners'] && found_device['owners'][owner])
+  puts "Owner not allowed to update device"
   exit 1
 end
 

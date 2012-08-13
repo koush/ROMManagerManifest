@@ -1,6 +1,7 @@
 {
   "owners": {
-    "koush@clockworkmod.com": true
+    "koush@clockworkmod.com": true,
+    "playfulgod@whatevermail.com": true
   },
   "version": "2.5.0.1",
   "devices": [
@@ -2242,9 +2243,6 @@
       "legacy_versions": [
 
       ],
-      "owners": {
-        "playfulgod@whatevermail.com": true
-      },
       "lunch": "cm_ms910-userdebug",
       "init": "init.qcom.rc",
       "inits":["init.qcom.rc","init.bryce.rc"],

@@ -1,7 +1,7 @@
 {
   "owners": {
     "koush@clockworkmod.com": true,
-    "playfulgod@whatevermail.com": true
+    "playfulgod@techygeek.com": true
   },
   "version": "2.5.0.1",
   "devices": [

@@ -1435,6 +1435,9 @@
     },
     {
       "version": "5.0.2.7",
+      "owners": {
+        "jmprblckwing182@gmail.com": true
+      },
       "legacy_versions": [
         "5.0.2.6"
       ],

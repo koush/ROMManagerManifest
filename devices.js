@@ -2283,6 +2283,7 @@
   ],
   "manifest": "http://developer.clockworkmod.com/merge",
   "owners": {
+    "cvpcsm@gmail.com": true,
     "koush@clockworkmod.com": true,
     "playfulgod@gmail.com": true
   },

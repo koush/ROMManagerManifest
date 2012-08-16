@@ -2264,7 +2264,6 @@
       "flash_recovery": "dd if=%s /dev/block/mmcblk0p14 bs=4096 ; ",
       "lunch": "cm_ms910-userdebug"
     },
-  ],
       {
       "touch_version": "6.0.1.1",
       "init": "init.qcom.rc",

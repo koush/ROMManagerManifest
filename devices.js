@@ -2035,7 +2035,6 @@
       "lunch": "cm_primou-userdebug"
     },
     {
-      "touch_version": "6.0.1.1",
       "init": "init.d2att.rc",
       "legacy_versions": [
         "5.8.4.5",

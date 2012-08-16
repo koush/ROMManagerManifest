@@ -2265,6 +2265,23 @@
       "lunch": "cm_ms910-userdebug"
     }
   ],
+      {
+      "touch_version": "6.0.1.1",
+      "init": "init.qcom.rc",
+      "legacy_versions": [
+
+  ],
+      "name": "LGE Optimus M+",
+      "key": "ms695",
+      "version": "6.0.1.1",
+      "inits": [
+        "init.qcom.rc",
+        "init.m3.rc"
+      ],
+      "flash_recovery": "dd if=%s /dev/block/mmcblk0p17 bs=4096 ; ",
+      "lunch": "cm_ms695-userdebug"
+    }
+  ],
   "recovery_zip_url": "http://download2.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.zip",
   "version": "2.5.0.1",
   "pontiflex_downloading": 100,

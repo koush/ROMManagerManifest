@@ -2280,7 +2280,7 @@
       ],
       "flash_recovery": "dd if=%s /dev/block/mmcblk0p17 bs=4096 ; ",
       "lunch": "cm_ms695-userdebug"
-    },
+    }
   ],
   "recovery_zip_url": "http://download2.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.zip",
   "version": "2.5.0.1",

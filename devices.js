@@ -2265,14 +2265,14 @@
       "lunch": "cm_ms910-userdebug"
     },
       {
-      "touch_version": "6.0.1.1",
+      "touch_version": "6.0.1.0",
       "init": "init.qcom.rc",
       "legacy_versions": [
 
   ],
       "name": "LGE Optimus M+",
       "key": "ms695",
-      "version": "6.0.1.1",
+      "version": "6.0.1.0",
       "inits": [
         "init.qcom.rc",
         "init.m3.rc"

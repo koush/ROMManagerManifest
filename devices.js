@@ -5,7 +5,8 @@
   "owners": {
     "cvpcsm@gmail.com": true,
     "playfulgod@gmail.com": true,
-    "koush@clockworkmod.com": true
+    "koush@clockworkmod.com": true,
+    "daniel.hillenbrand@codeworkx.de": true
   },
   "pontiflex_startup_register": 100,
   "pontiflex_startup_ad": 100,

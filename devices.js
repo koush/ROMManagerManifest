@@ -1100,7 +1100,7 @@
         "init.smdk4210.rc"
       ],
       "version": "4.0.1.5",
-      "name": "Samsung Galaxy S2 (GT-I9100)",
+      "name": "Samsung Galaxy S2 (galaxys2)",
       "init": "init.smdkc210.rc",
       "touch_version": "5.8.1.5",
       "legacy_versions": [
@@ -1108,6 +1108,32 @@
         "v4.0.1.4"
       ],
       "key": "galaxys2",
+      "readonly_recovery": true
+    },
+    {
+      "inits": [
+        "init.smdkc210.rc",
+        "init.smdk4210.rc"
+      ],
+      "version": "6.0.1.0",
+      "name": "Samsung Galaxy S2 (GT-I9100)",
+      "init": "init.smdk4210.rc",
+      "lunch": "cm_i9100-userdebug",
+      "legacy_versions": [
+
+      ],
+      "key": "i9100",
+      "readonly_recovery": true
+    },
+    {
+      "version": "6.0.1.0",
+      "name": "Samsung Galaxy Note (GT-N7000)",
+      "init": "init.smdk4210.rc",
+      "lunch": "cm_n7000-userdebug",
+      "legacy_versions": [
+
+      ],
+      "key": "n7000",
       "readonly_recovery": true
     },
     {

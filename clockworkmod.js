@@ -9,7 +9,7 @@
     },
     {
         "name": "DeskSMS",
-        "icon": "http://bit.ly/zte1SD",
+        "icon": "https://raw.github.com/ClockworkMod/artwork/master/desksms/desksms.png",
         "summary": "Text from your computer or tablet with your existing phone number!",
         "packagename": "com.koushikdutta.desktopsms"
     },
@@ -21,11 +21,5 @@
     }
     ],
     "roms": [
-    {
-        "name": "Jelly Bean",
-        "device": "maguro",
-        "url": "http://download.clockworkmod.com/test/jb-takju.zip",
-        "summary": "Google IO Jelly Bean release for the GSM Galaxy Nexus"
-    }
     ]
 }

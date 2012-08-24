@@ -3,7 +3,7 @@
     {
         "featured": true,
         "developer": "ClockworkMod",
-        "icon": "http://bit.ly/xOLFbJ",
+        "icon": "https://raw.github.com/ClockworkMod/artwork/master/rommanager/invertclear.png",
         "id": "clockworkmod",
         "free": "true",
         "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/clockworkmod.js",

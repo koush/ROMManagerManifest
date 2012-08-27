@@ -2347,7 +2347,8 @@
       "legacy_versions": [
 
       ],
-      "name": "d2usc",
+      "flash_recovery": "dd if=%s /dev/block/mmcblk0p18 bs=4096 ; ",
+      "name": "Samsung Galaxy S3 (US Cellular)",
       "key": "d2usc",
       "version": "6.0.1.2"
     }

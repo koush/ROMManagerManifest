@@ -29,8 +29,8 @@ end
 
 
 if found_device == nil then
-  puts "device not found"
-  exit 1
+  puts "device not found, adding"
+  exit 0
 end
 
 if !devices['owners'][owner] && !(found_device['owners'] && found_device['owners'][owner])

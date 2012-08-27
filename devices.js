@@ -2304,7 +2304,29 @@
         "init.m3.rc"
       ],
       "flash_recovery": "dd if=%s /dev/block/mmcblk0p17 bs=4096 ; "
-    }
+    },
+    {
+      "name": "Samsung Galaxy Tab (MTD and GSM - L)",
+      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
+      "version": "5.8.2.1",
+      "init": "init.p1.rc",
+      "legacy_versions": [
+
+      ],
+      "key": "p1l",
+      "officially_supported": false
+    },
+    {
+      "name": "Samsung Galaxy Tab (MTD and GSM - N)",
+      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
+      "version": "5.8.2.1",
+      "init": "init.p1.rc",
+      "legacy_versions": [
+
+      ],
+      "key": "p1n",
+      "officially_supported": false
+    },
   ],
   "use_in_app": false,
   "owners": {

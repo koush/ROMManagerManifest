@@ -2326,7 +2326,7 @@
       ],
       "key": "p1n",
       "officially_supported": false
-    },
+    }
   ],
   "use_in_app": false,
   "owners": {

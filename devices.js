@@ -2350,7 +2350,8 @@
       ],
       "key": "presto",
       "init": "init.presto.rc",
-      "name": "presto",
+      "name": "Pantech Presto",
+      "flash_recovery": "dd if=%s /dev/block/mmcblk0p18 bs=4096 ; ",
       "lunch": "cm_presto-userdebug"
     }
   ],

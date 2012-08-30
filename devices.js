@@ -2136,7 +2136,7 @@
       ],
       "touch_version": "6.0.1.0",
       "key": "su640",
-      "flash_recovery": "dd if=%s /dev/block/mmcblk0p13 bs=4096 ; ",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p13 bs=4096 ; ",
       "init": "init.su640.rc",
       "name": "LG Optimus LTE (SKT)",
       "lunch": "cm_su640-userdebug"
@@ -2158,7 +2158,7 @@
 
       ],
       "key": "p3100",
-      "flash_recovery": "dd if=%s /dev/block/mmcblk0p6 bs=4096 ; ",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 bs=4096 ; ",
       "init": "init.espresso.rc",
       "name": "Samsung Galaxy Tab 2 (GT-P3100)",
       "lunch": "cm_p3100-userdebug"
@@ -2169,7 +2169,7 @@
 
       ],
       "key": "p3110",
-      "flash_recovery": "dd if=%s /dev/block/mmcblk0p6 bs=4096 ; ",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 bs=4096 ; ",
       "init": "init.espresso.rc",
       "name": "Samsung Galaxy Tab 2 (GT-P3110)",
       "lunch": "cm_p3110-userdebug"
@@ -2180,7 +2180,7 @@
 
       ],
       "key": "p3113",
-      "flash_recovery": "dd if=%s /dev/block/mmcblk0p6 bs=4096 ; ",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 bs=4096 ; ",
       "init": "init.espresso.rc",
       "name": "Samsung Galaxy Tab 2 (GT-P3113)",
       "lunch": "cm_p3113-userdebug"
@@ -2191,7 +2191,7 @@
 
       ],
       "key": "p5100",
-      "flash_recovery": "dd if=%s /dev/block/mmcblk0p6 bs=4096 ; ",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 bs=4096 ; ",
       "init": "init.espresso10.rc",
       "name": "Samsung Galaxy Tab 2 (GT-P5100)",
       "lunch": "cm_p5100-userdebug"
@@ -2202,7 +2202,7 @@
 
       ],
       "key": "p5110",
-      "flash_recovery": "dd if=%s /dev/block/mmcblk0p6 bs=4096 ; ",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 bs=4096 ; ",
       "init": "init.espresso10.rc",
       "name": "Samsung Galaxy Tab 2 (GT-P5110)",
       "lunch": "cm_p5110-userdebug"
@@ -2213,7 +2213,7 @@
 
       ],
       "key": "p5113",
-      "flash_recovery": "dd if=%s /dev/block/mmcblk0p6 bs=4096 ; ",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 bs=4096 ; ",
       "init": "init.espresso10.rc",
       "name": "Samsung Galaxy Tab 2 (GT-P5113)",
       "lunch": "cm_p5113-userdebug"
@@ -2225,7 +2225,7 @@
       ],
       "touch_version": "6.0.1.1",
       "key": "vs920",
-      "flash_recovery": "dd if=%s /dev/block/mmcblk0p13 bs=4096 ; ",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p13 bs=4096 ; ",
       "init": "init.target.rc",
       "name": "LGE Spectrum 4G",
       "lunch": "cm_vs920-userdebug",
@@ -2254,7 +2254,7 @@
       ],
       "touch_version": "6.0.1.1",
       "key": "vs910",
-      "flash_recovery": "dd if=%s /dev/block/mmcblk0p14 bs=4096 ; ",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p14 bs=4096 ; ",
       "init": "init.qcom.rc",
       "name": "LGE Revolution 4G",
       "lunch": "cm_vs910-userdebug",
@@ -2286,7 +2286,7 @@
       ],
       "touch_version": "6.0.1.1",
       "key": "ms695",
-      "flash_recovery": "dd if=%s /dev/block/mmcblk0p17 bs=4096 ; ",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p17 bs=4096 ; ",
       "init": "init.qcom.rc",
       "name": "LGE Optimus M+",
       "lunch": "cm_ms695-userdebug",
@@ -2323,7 +2323,7 @@
 
       ],
       "key": "d2usc",
-      "flash_recovery": "dd if=%s /dev/block/mmcblk0p18 bs=4096 ; ",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p18 bs=4096 ; ",
       "init": "init.d2usc.rc",
       "name": "Samsung Galaxy S3 (US Cellular)",
       "lunch": "cm_d2usc-userdebug"
@@ -2336,7 +2336,7 @@
       "key": "presto",
       "init": "init.presto.rc",
       "name": "Pantech Presto",
-      "flash_recovery": "dd if=%s /dev/block/mmcblk0p18 bs=4096 ; ",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p18 bs=4096 ; ",
       "lunch": "cm_presto-userdebug"
     }
   ],

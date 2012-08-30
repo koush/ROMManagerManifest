@@ -1682,21 +1682,6 @@
     {
       "version": "5.0.2.8",
       "legacy_versions": [
-
-      ],
-      "key": "esteem",
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p14 bs=4096 ;",
-      "init": "init.qcom.rc",
-      "name": "LGE Esteem",
-      "lunch": "full_esteem-eng",
-      "inits": [
-        "init.qcom.rc",
-        "init.bryce.rc"
-      ]
-    },
-    {
-      "version": "5.0.2.8",
-      "legacy_versions": [
         "5.0.2.8"
       ],
       "key": "u8160",
@@ -2281,7 +2266,7 @@
     {
       "version": "6.0.1.1",
       "legacy_versions": [
-
+       "5.0.2.8"
       ],
       "touch_version": "6.0.1.1",
       "key": "ms910",

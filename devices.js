@@ -2270,7 +2270,7 @@
       ],
       "touch_version": "6.0.1.1",
       "key": "ms910",
-      "flash_recovery": "dd if=%s /dev/block/mmcblk0p14 bs=4096 ; ",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p14 bs=4096 ; ",
       "init": "init.qcom.rc",
       "name": "LGE Esteeem 4G",
       "lunch": "cm_ms910-userdebug",

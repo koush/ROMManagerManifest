@@ -9,6 +9,7 @@
   "ad_network": "admob",
   "manifest_signature": "O8+Kc2mdQz0e/AjCQn6Rw6fK5Kr5LZItJ474Ua3gF2o4IgdCQZXIbwCHIo6xeqY3pVEGtjYmmyO1PkRYcGqq2rB2wQM8SoKFl/70vG0ihEZ5TDeruKUgxVVSNM3e09kBvCxYK89GWqVWkNHtvTu1T1F9w6FilzCsNFSAXHD0Bos=",
   "owners": {
+    "bigbeeshane@gmail.com": true,
     "koush@clockworkmod.com": true,
     "cvpcsm@gmail.com": true,
     "daniel.hillenbrand@codeworkx.de": true,

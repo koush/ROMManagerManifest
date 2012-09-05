@@ -1108,7 +1108,7 @@
     {
       "name": "Samsung Galaxy S2 (GT-I9100)",
       "init": "init.smdk4210.rc",
-      "readonly_recovery": true,
+      "officially_supported": false,
       "legacy_versions": [
 
       ],

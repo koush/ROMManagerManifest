@@ -2355,7 +2355,12 @@
       "legacy_versions": [
 
       ],
-      "init": "init.asanti.rc",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/msm_sdcc.1/by-name/recovery bs=4096 ; ",
+      "init": "init.mmi.usb.rc",
+      "inits": [
+        "init.asanti.rc",
+        "init.sprint.rc"
+      ],
       "key": "asanti",
       "version": "6.0.1.3",
       "lunch": "cm_asanti-userdebug",

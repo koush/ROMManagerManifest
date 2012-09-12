@@ -2364,7 +2364,7 @@
       "key": "asanti",
       "version": "6.0.1.3",
       "lunch": "cm_asanti-userdebug",
-      "name": "Motorola Photo Q"
+      "name": "Motorola Photon Q"
     }
   ],
   "pontiflex_startup_register": 100,

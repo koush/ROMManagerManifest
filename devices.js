@@ -2369,8 +2369,8 @@
       ],
       "lunch": "cm_p350-userdebug",
       "version": "6.0.1.3",
-      "name": "p350",
-      "init": "init.p350.rc"
+      "name": "LGE P350",
+      "init": "init.pecan.rc"
     }
   ],
   "manifest_signature": "O8+Kc2mdQz0e/AjCQn6Rw6fK5Kr5LZItJ474Ua3gF2o4IgdCQZXIbwCHIo6xeqY3pVEGtjYmmyO1PkRYcGqq2rB2wQM8SoKFl/70vG0ihEZ5TDeruKUgxVVSNM3e09kBvCxYK89GWqVWkNHtvTu1T1F9w6FilzCsNFSAXHD0Bos=",

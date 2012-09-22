@@ -49,7 +49,7 @@ end
 
 puts version
 
-if ARGV[1] <= version
+if version && ARGV[1] <= version
   puts "version #{ARGV[1]} is outdated, not updating"
   exit 1
 end

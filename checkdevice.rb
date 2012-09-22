@@ -41,9 +41,6 @@ end
 touch_recovery = ENV['BOARD_TOUCH_RECOVERY'] != nil
 if touch_recovery
   puts "touch version: "
-  if found_device['touch_version'] == nil
-    exit 1
-  end
   version = found_device['touch_version']
 else
   puts "version:"

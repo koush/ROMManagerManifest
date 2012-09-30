@@ -25,5 +25,5 @@
         "summary": "Managing root like it's going out of style"
     }
     ],
-    "minversion": "5006"
+    "minversion": "5021"
 }

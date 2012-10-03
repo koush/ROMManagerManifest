@@ -2349,6 +2349,9 @@
       "legacy_versions": [
         "6.0.1.2"
       ],
+      "owners": {
+        "mckelvey.patrick@gmail.com": true
+      },
       "lunch": "cm_presto-userdebug",
       "init": "init.presto.rc",
       "key": "presto",

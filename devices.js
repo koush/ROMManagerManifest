@@ -2392,7 +2392,7 @@
       "init": "init.target.rc",
       "key": "T769",
       "lunch": "cm_T769-userdebug",
-      "version": "6.0.1.4",
+      "version": "6.0.1.0",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=4096 ; ",
       "legacy_versions": [
 

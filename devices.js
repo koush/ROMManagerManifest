@@ -8,7 +8,8 @@
     "daniel.hillenbrand@codeworkx.de": true,
     "cvpcsm@gmail.com": true,
     "bigbeeshane@gmail.com": true,
-    "arcee@cyanogenmod.com": true
+    "arcee@cyanogenmod.com": true,
+    "keaneyw@gmail.com": true
   },
   "keywords": "phone accessories,droid,gadgets,bluetooth headset,car charger,sd card",
   "use_in_app": false,

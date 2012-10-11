@@ -4,7 +4,8 @@
     "koush@clockworkmod.com": true,
     "cvpcsm@gmail.com": true,
     "daniel.hillenbrand@codeworkx.de": true,
-    "playfulgod@gmail.com": true
+    "playfulgod@gmail.com": true,
+    "arcee@cyanogenmod.com": true
   },
   "devices": [
     {

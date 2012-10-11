@@ -8,7 +8,8 @@
     "koush@clockworkmod.com": true,
     "keaneyw@gmail.com": true,
     "daniel.hillenbrand@codeworkx.de": true,
-    "playfulgod@gmail.com": true
+    "playfulgod@gmail.com": true,
+    "ferguson.david@gmail.com": true
   },
   "recovery_zip_url": "http://download2.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.zip",
   "pontiflex_startup_register": 100,

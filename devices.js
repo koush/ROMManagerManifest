@@ -2395,23 +2395,13 @@
       ]
     },
     {
-      "key": "T769",
+      "key": "t769",
       "init": "init.target.rc",
       "name": "Samsung Galaxy S Blaze 4G",
-      "lunch": "cm_T769-userdebug",
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=4096 ; ",
-      "version": "6.0.1.4",
-      "legacy_versions": [
-        "6.0.1.0"
-      ]
-    },
-    {
-      "key": "t769",
-      "init": "init.t769.rc",
-      "name": "t769",
       "touch_version": "6.0.1.4",
       "lunch": "cm_t769-userdebug",
       "version": "6.0.1.4",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=4096 ; ",
       "legacy_versions": [
 
       ]

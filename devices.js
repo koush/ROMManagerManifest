@@ -1284,7 +1284,7 @@
        "legacy_versions": [
 
       ],
-      "name": "Huawei Ascend 2",
+      "name": "Huawei Ascend 2 (M865)",
       "version": "4.0.1.5",
       "inits": [
         "init.qcom.rc",

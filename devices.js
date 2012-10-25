@@ -1288,7 +1288,7 @@
       "version": "4.0.1.5",
       "inits": [
         "init.qcom.rc",
-        "init.huawei.rc",
+        "init.huawei.rc"
     ],
       "key": "ascend2"
     },

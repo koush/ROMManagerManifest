@@ -1281,11 +1281,15 @@
     },
     {
       "init": "init.qcom.rc",
-      "legacy_versions": [
+       "legacy_versions": [
 
       ],
       "name": "Huawei Ascend 2",
       "version": "4.0.1.5",
+      "inits": [
+        "init.qcom.rc",
+        "init.huawei.rc",
+    ],
       "key": "ascend2"
     },
     {

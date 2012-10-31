@@ -2408,6 +2408,7 @@
       "touch_version": "6.0.1.4"
     },
     {
+      "lunch": "cm_d2mtr-userdebug",
       "name": "Samsung Galaxy S3 (MetroPCS)",
       "inits": [
       "init.carrier.rc",

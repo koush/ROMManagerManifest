@@ -2410,9 +2410,10 @@
     {
       "lunch": "cm_d2mtr-userdebug",
       "name": "Samsung Galaxy S3 (MetroPCS)",
+      "init": "init.carrier.rc",
       "inits": [
       "init.carrier.rc",
-      "init.d2mtr.rc",
+      "init.d2mtr.rc"
       ],
       "key": "d2mtr",
       "legacy_versions": [

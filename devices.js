@@ -2408,12 +2408,15 @@
       "touch_version": "6.0.1.4"
     },
     {
-      "name": "d2mtr",
-      "init": "init.d2mtr.rc",
+      "name": "Samsung Galaxy S3 (MetroPCS)",
+      "inits": [
+      "init.carrier.rc",
+      "init.d2mtr.rc"
       "key": "d2mtr",
       "legacy_versions": [
 
       ],
+     "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p18 bs=4096 ; ",      
       "touch_version": "6.0.1.5"
     }
   ],

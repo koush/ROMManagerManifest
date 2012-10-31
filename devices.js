@@ -2411,7 +2411,7 @@
       "name": "Samsung Galaxy S3 (MetroPCS)",
       "inits": [
       "init.carrier.rc",
-      "init.d2mtr.rc"
+      "init.d2mtr.rc",
       "key": "d2mtr",
       "legacy_versions": [
 

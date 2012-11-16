@@ -21,5 +21,11 @@
     }
     ],
     "roms": [
+    {
+      "name": "Superuser (fixed)",
+      "summary": "Fixed for Android 4.2.",
+      "device": "all",
+      "url": "http://download.clockworkmod.com/test/Superuser-jb-4.2-fixed.zip"
+    }
     ]
 }

@@ -2466,13 +2466,14 @@
     {
       "lunch": "cm_dlx-userdebug",
       "key": "dlx",
-      "name": "dlx",
+      "name": "HTC Droid DNA",
       "version": "6.0.1.5",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p20 bs=4096 ; ",
       "legacy_versions": [
 
       ],
       "touch_version": "6.0.1.5",
-      "init": "init.dlx.rc"
+      "init": "init.debug_mfgkernel.rc"
     }
   ],
   "recovery_url": "http://download2.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.img",

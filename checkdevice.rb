@@ -30,7 +30,12 @@ end
 
 if found_device == nil then
   puts "device not found, adding"
-  exit 0
+  if !devices['owners'][owner] then
+    puts "Owner not allowed to add. Just building."
+    exit 1
+  else
+    exit 0
+  end
 end
 
 if !devices['owners'][owner] && !(found_device['owners'] && found_device['owners'][owner])

@@ -2431,6 +2431,7 @@
       "legacy_versions": [
 
       ],
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; ",
       "name": "ASUS Transformer Pad Infinity",
       "touch_version": "6.0.1.5",
       "key": "tf700t"

@@ -2351,23 +2351,6 @@
       ]
     },
     {
-      "touch_version": "6.0.1.5",
-      "name": "Pantech Presto",
-      "init": "init.presto.rc",
-      "key": "presto",
-      "owners": {
-        "mckelvey.patrick@gmail.com": true
-      },
-      "version": "6.0.1.5",
-      "lunch": "cm_presto-userdebug",
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p18 bs=4096 ; ",
-      "legacy_versions": [
-        "6.0.1.2",
-        "6.0.1.3",
-        "6.0.1.4"
-      ]
-    },
-    {
       "inits": [
         "init.asanti.rc",
         "init.sprint.rc"

@@ -2468,10 +2468,11 @@
       "legacy_versions": [
 
       ],
-      "name": "n7100",
-      "init": "init.n7100.rc",
+      "name": "Samsung Galaxy Note 2",
+      "init": "init.smdk4x12.rc",
       "key": "n7100",
       "lunch": "cm_n7100-userdebug"
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 bs=4096 ; "
     }
   ],
   "pontiflex_startup_ad": 100,

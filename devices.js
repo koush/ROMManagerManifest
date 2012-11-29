@@ -2471,7 +2471,7 @@
       "name": "Samsung Galaxy Note 2",
       "init": "init.smdk4x12.rc",
       "key": "n7100",
-      "lunch": "cm_n7100-userdebug"
+      "lunch": "cm_n7100-userdebug",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 bs=4096 ; "
     }
   ],

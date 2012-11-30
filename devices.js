@@ -623,7 +623,7 @@
       ],
       "init": "init.smdkc110.rc",
       "version": "2.5.1.8",
-      "name": "Galaxy Tab - ATT",
+      "name": "Samsung Galaxy Tab - ATT",
       "key": "att_tab",
       "readonly_recovery": true
     },

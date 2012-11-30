@@ -991,7 +991,7 @@
       "reboot_recovery": "echo 'boot-recovery' | dd of=/dev/block/mmcblk0p3 seek=6144 bs=1 ; reboot ; ",
       "version": "5.0.2.0",
       "lunch": "cyanogen_p999-eng",
-      "name": "LG/T-Mobile G2X",
+      "name": "LGE G2X (T-Mobile)",
       "key": "p999",
       "readonly_recovery": true
     },
@@ -1615,7 +1615,7 @@
       "init": "init.thunderc.rc",
       "version": "5.0.2.7",
       "lunch": "full_lg690-eng",
-      "name": "LG Optimus C LW690",
+      "name": "LGE Optimus C LW690",
       "key": "lg690"
     },
     {
@@ -1675,7 +1675,7 @@
       "version": "5.0.2.7",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p17 bs=4096 ;",
       "lunch": "e730-eng",
-      "name": "LG Optimus SOL / TMo LG myTouch",
+      "name": "LGE Optimus SOL / TMo LGE myTouch",
       "key": "e730"
     },
     {
@@ -1980,7 +1980,7 @@
       "version": "5.8.3.1",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p13 bs=4096 ; ",
       "lunch": "full_ms840-userdebug",
-      "name": "LG Connect 4G MS840",
+      "name": "LGE Connect 4G MS840",
       "key": "ms840"
     },
     {
@@ -1992,7 +1992,7 @@
       "version": "5.8.3.1",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p13 bs=4096 ; ",
       "lunch": "full_vs840-userdebug",
-      "name": "LG Lucid VS840",
+      "name": "LGE Lucid VS840",
       "key": "vs840"
     },
     {
@@ -2169,7 +2169,7 @@
       "version": "6.0.1.0",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p13 bs=4096 ; ",
       "lunch": "cm_su640-userdebug",
-      "name": "LG Optimus LTE (SKT)",
+      "name": "LGE Optimus LTE (SKT)",
       "key": "su640"
     },
     {

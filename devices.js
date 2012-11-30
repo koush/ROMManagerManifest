@@ -2390,10 +2390,11 @@
       "legacy_versions": [
 
       ],
-      "init": "init.p5att.rc",
+      "init": "fstab.qcom",
       "version": "6.0.1.4",
       "lunch": "cm_p5att-userdebug",
-      "name": "p5att",
+      "name": "Samsung Galaxy Tab 8.9 (AT&T)",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=4096 ; ",
       "key": "p5att"
     },
     {

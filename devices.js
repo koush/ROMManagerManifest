@@ -1816,7 +1816,7 @@
       "version": "6.0.1.5",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p13 ;",
       "lunch": "cm_p930-userdebug",
-      "name": "AT&T Nitro HD / LGE P930",
+      "name": "LGE Nitro HD / LGE P930 (AT&T)",
       "key": "p930"
     },
     {

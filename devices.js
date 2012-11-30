@@ -2417,7 +2417,7 @@
       "version": "6.0.1.8",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p4 bs=4096 ; ",
       "lunch": "cm_tf700t-userdebug",
-      "name": "ASUS Transformer Pad Infinity",
+      "name": "Asus Transformer Pad Infinity",
       "key": "tf700t"
     },
     {

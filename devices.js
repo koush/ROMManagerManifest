@@ -597,24 +597,6 @@
       "key": "vega"
     },
     {
-      "alternate_recovery": {
-        "url": "http://dropbox.bekit.net/Android/gtablet/recovery/recovery-clockwork-2.5.1.1-bekit-0.8-harmony.img",
-        "clockwork": true,
-        "name": "ClockworkMod 2.5.1.1-bekit-0.8"
-      },
-      "legacy_versions": [
-        "2.5.1.8",
-        "2.5.1.4",
-        "2.5.1.3",
-        "2.5.1.1"
-      ],
-      "init": "init.harmony.rc",
-      "version": "2.5.1.8",
-      "flash_recovery": "/data/data/com.koushikdutta.rommanager/files/tegra_flash_image recovery %s ; ",
-      "name": "Viewsonic GTab (Deprecated - use smb_a1002)",
-      "key": "harmony"
-    },
-    {
       "legacy_versions": [
         "2.5.1.8",
         "2.5.1.4",
@@ -1254,7 +1236,7 @@
       "init": "init_recovery.rc",
       "version": "4.0.1.5",
       "flash_recovery": "/data/data/com.koushikdutta.rommanager/files/tegra_flash_image recovery %s ; ",
-      "name": "Viewsonic GTablet (smb_a1002) - Bootloader 1.1",
+      "name": "Viewsonic GTablet (smb_a1002)",
       "key": "smb_a1002"
     },
     {

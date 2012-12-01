@@ -633,7 +633,7 @@
         "name": "MI700 Recovery v1.6"
       },
       "key": "FM6",
-      "name": "Spice MI700, Commtiva Link N700 and more)",
+      "name": "Commtiva Link N700, Spice MI700, and more",
       "version": "2.5.1.2",
       "legacy_versions": [
         "2.5.1.4",

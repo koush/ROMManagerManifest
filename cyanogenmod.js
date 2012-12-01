@@ -2043,25 +2043,6 @@
             ]
         },
         {
-            "device": "mecha",
-            "name": "CyanogenMod 7.1.1",
-            "modversion": "CyanogenMod-7.1.1-Thunderbolt",
-            "incremental": "7107",
-            "url": "http://download.cyanogenmod.com/get/update-cm-7.1.1-Thunderbolt-signed.zip",
-            "product": "CyanogenMod",
-            "summary": "Stable Release\nMR2 or 2.5 Radio Only",
-            "addons": [
-                {
-                    "name": "Google Apps",
-                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-signed.zip"
-                },
-                {
-                    "name": "GTalk w/ Video Chat (Experimental!)",
-                    "url": "http://download2.clockworkmod.com/gapps/gapps-gb-20110828-newtalk-signed.zip"
-                }
-            ]
-        },
-        {
             "device": "mesmerizemtd",
             "name": "CyanogenMod 7.1.0",
             "modversion": "CyanogenMod-7.1.0-Mesmerize",

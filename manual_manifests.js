@@ -23,6 +23,17 @@
         },
         "featured": true,
         "summary": "Managing root like it's going out of style"
+    },
+    {
+        "developer": "Google Apps",
+        "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
+        "id": "google",
+        "free": "true",
+        "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
+        "roms": {
+            "all": "true"
+        },
+        "summary": "Add-on for AOSP ROMs, such as CM"
     }
     ],
     "minversion": "5021"

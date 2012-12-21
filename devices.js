@@ -2471,7 +2471,7 @@
     },
     {
       "init": "init.smdk4x12.rc",
-      "name": "Samsung Galaxy Note 2",
+      "name": "Samsung Galaxy Note 2 (HSPA+)",
       "touch_version": "6.0.1.9",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 bs=4096 ; ",
       "key": "n7100",
@@ -2555,7 +2555,7 @@
     {
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; ",
       "init": "init.t0lte.rc",
-      "name": "Samsung Galaxy Note 2",
+      "name": "Samsung Galaxy Note 2 (LTE)",
       "touch_version": "6.0.2.4",
       "key": "t0lte",
       "legacy_versions": [

@@ -29,7 +29,7 @@
         "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
         "id": "google",
         "free": "true",
-        "manifest": "http://drmacinyasha.github.com/proprietary_vendor_google/manifest.js",
+        "manifest": "http://gh-pages.clockworkmod.com/ROMManagerManifest/gapps.js",
         "roms": {
             "all": "true"
         },

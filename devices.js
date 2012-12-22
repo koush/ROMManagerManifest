@@ -1117,8 +1117,7 @@
 
       ],
       "lunch": "cm_i9100-userdebug",
-      "init": "init.smdk4210.rc",
-      "ro.product.device": "mako"
+      "init": "init.smdk4210.rc"
     },
     {
       "key": "n7000",

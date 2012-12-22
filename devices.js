@@ -2571,11 +2571,18 @@
       "key": "t0lte"
     },
     {
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 ; ",
       "legacy_versions": [
 
       ],
       "touch_version": "6.0.2.3",
-      "init": "init.p720.rc",
+      "lunch": "cm_p720-userdebug",
+      "reboot_recovery": "echo '518 R 1' > /sys/kernel/kobject_lge_nvdata/dynamic_nvdata_raw_write ; reboot ; ",
+      "name": "LGE Optimus 3DMax",
+      "inits": [
+        "init.lgep720board.rc",
+        "/bootimages/battery_charging_01.rle"
+      ],
       "name": "p720",
       "lunch": "cm_p720-userdebug",
       "version": "6.0.2.3",

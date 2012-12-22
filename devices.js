@@ -1096,7 +1096,7 @@
       ],
       "version": "4.0.1.5",
       "touch_version": "5.8.1.5",
-      "name": "Samsung Galaxy S2 (galaxys2)",
+      "name": "Samsung Galaxy S2",
       "legacy_versions": [
         "4.0.1.4",
         "v4.0.1.4"
@@ -1112,7 +1112,7 @@
       ],
       "version": "6.0.1.0",
       "officially_supported": false,
-      "name": "Samsung Galaxy S2 (GT-I9100)",
+      "name": "Samsung Galaxy S2",
       "legacy_versions": [
 
       ],
@@ -1468,7 +1468,7 @@
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=4096 ; ",
       "version": "6.0.2.3",
       "touch_version": "6.0.2.3",
-      "name": "Samsung T-Mobile Galaxy S2",
+      "name": "Samsung Galaxy S2 (T-Mobile)",
       "legacy_versions": [
         "5.0.2.6",
         "5.0.2.7",

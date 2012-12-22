@@ -2597,7 +2597,7 @@
         "/bootimages/battery_charging_01.rle"
       ],
       "touch_version": "6.0.2.3",
-      "name": "p720",
+      "name": "LGE Optimus 3DMax",
       "legacy_versions": [
 
       ],

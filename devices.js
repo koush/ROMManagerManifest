@@ -2473,8 +2473,7 @@
         "6.0.2.0"
       ],
       "lunch": "cm_mako-userdebug",
-      "init": "init.mako.rc",
-      "ro.product.device": "mako"
+      "init": "init.mako.rc"
     },
     {
       "key": "dlx",

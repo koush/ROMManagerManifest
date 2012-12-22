@@ -1102,7 +1102,8 @@
         "v4.0.1.4"
       ],
       "readonly_recovery": true,
-      "init": "init.smdkc210.rc"
+      "init": "init.smdkc210.rc",
+      "ro.product.device": [ "i9100", "galaxys2" ]
     },
     {
       "key": "i9100",
@@ -1117,7 +1118,8 @@
 
       ],
       "lunch": "cm_i9100-userdebug",
-      "init": "init.smdk4210.rc"
+      "init": "init.smdk4210.rc",
+      "ro.product.device": [ "i9100", "galaxys2" ]
     },
     {
       "key": "n7000",

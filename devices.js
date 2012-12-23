@@ -2547,6 +2547,7 @@
       "name": "Samsung Galaxy Note 2 (Sprint)"
     },
     {
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; ",
       "key": "t0ltetmo",
       "lunch": "cm_t0ltetmo-userdebug",
       "touch_version": "6.0.2.5",

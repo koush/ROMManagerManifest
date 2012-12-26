@@ -2027,6 +2027,7 @@
         "6.0.0.8",
         "6.0.1.0"
       ],
+      "ro.product.devices": ["i9300","m0"],
       "init": "ueventd.smdk4x12.rc",
       "name": "Samsung Galaxy S3 (GT-I9300)"
     },

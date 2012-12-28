@@ -2519,7 +2519,7 @@
       "legacy_versions": [
 
       ],
-      "init": "init.a700.rc",
+      "init": "init.picasso_mf.rc",
       "name": "Acer A700"
     },
     {

@@ -1,7 +1,5 @@
 {
   "recovery_zip_url": "http://download2.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.zip",
-  "pontiflex_startup_register": 100,
-  "pontiflex_startup_ad": 100,
   "owners": {
     "cvpcsm@gmail.com": true,
     "ferguson.david@gmail.com": true,
@@ -18,7 +16,6 @@
   "keywords": "phone accessories,droid,gadgets,bluetooth headset,car charger,sd card",
   "ad_network": "admob",
   "use_in_app": false,
-  "pontiflex_downloading": 100,
   "recovery_url": "http://download2.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.img",
   "devices": [
     {

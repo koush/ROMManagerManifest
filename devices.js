@@ -1,6 +1,7 @@
 {
   "recovery_zip_url": "http://download2.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.zip",
   "owners": {
+    "attn1.repo@gmail.com": true,
     "cvpcsm@gmail.com": true,
     "ferguson.david@gmail.com": true,
     "keaneyw@gmail.com": true,

@@ -2648,6 +2648,7 @@
       "lunch": "cm_runnymede-userdebug"
     },
     {
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p18 bs=4096 ; ",
       "init": "init.presto.rc",
       "legacy_versions": [
 
@@ -2655,7 +2656,7 @@
       "key": "presto",
       "touch_version": "6.0.2.7",
       "version": "6.0.2.7",
-      "name": "presto",
+      "name": "Pantech Presto",
       "lunch": "cm_presto-userdebug"
     }
   ],

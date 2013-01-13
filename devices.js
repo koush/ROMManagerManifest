@@ -2663,9 +2663,10 @@
       "key": "presto"
     },
     {
-      "name": "warp2",
+      "name": "ZTE Sequent",
       "init": "init.warp2.rc",
       "lunch": "cm_warp2-userdebug",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p13 bs=4096 ; ",
       "version": "6.0.2.7",
       "legacy_versions": [
 

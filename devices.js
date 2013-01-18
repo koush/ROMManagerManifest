@@ -2659,6 +2659,7 @@
       "key": "warp2"
     },
     {
+      "name": "Google Nexus Q",
       "version": "6.0.2.7",
       "legacy_versions": [
 
@@ -2666,6 +2667,7 @@
       "lunch": "cm_steelhead-userdebug",
       "name": "steelhead",
       "init": "init.steelhead.rc",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/omap/omap_hsmmc.0/by-name/recovery bs=4096 ; ",
       "key": "steelhead"
     }
   ],

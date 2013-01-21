@@ -2663,7 +2663,7 @@
       "legacy_versions": [
 
       ],
-      "name": "steelhead",
+      "name": "Google Nexus Q",
       "lunch": "cm_steelhead-userdebug",
       "key": "steelhead",
       "version": "6.0.2.7",

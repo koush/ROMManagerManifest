@@ -2687,13 +2687,17 @@
       "lunch": "cm_steelhead-userdebug"
     },
     {
-      "name": "prevail2spr",
-      "init": "init.prevail2spr.rc",
+      "name": "Samsung Prevail 2 (Boost Mobile)",
+      "inits": [
+      "init.carrier.rc",
+      "init.prevail2spr.rc"
+      ],
       "legacy_versions": [
 
       ],
       "key": "prevail2spr",
       "version": "6.0.2.7",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p15 bs=4096 ; ",
       "lunch": "cm_prevail2spr-userdebug"
     }
   ]

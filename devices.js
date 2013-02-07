@@ -2684,6 +2684,7 @@
       "name": "Samsung Prevail 2 (Boost Mobile)"
     },
     {
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ; ",
       "lunch": "cm_golden-userdebug",
       "key": "golden",
       "touch_version": "6.0.2.7",
@@ -2692,7 +2693,7 @@
       ],
       "version": "6.0.2.7",
       "init": "init.golden.rc",
-      "name": "golden"
+      "name": "Samsung Galaxy S3 Mini"
     }
   ],
   "ad_network": "admob",

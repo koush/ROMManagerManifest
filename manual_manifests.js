@@ -13,18 +13,6 @@
         }
     },
     {
-        "developer": "Superuser",
-        "icon": "http://chainsdd.github.com/Superuser/icon.png",
-        "id": "chainsdd",
-        "free": "true",
-        "manifest": "http://chainsdd.github.com/Superuser/manifest.js",
-        "roms": {
-            "all": "true"
-        },
-        "featured": true,
-        "summary": "Managing root like it's going out of style"
-    },
-    {
         "developer": "Google Apps",
         "icon": "http://drmacinyasha.github.com/proprietary_vendor_google/icon.png",
         "id": "google",

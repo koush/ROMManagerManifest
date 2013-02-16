@@ -2726,10 +2726,11 @@
       "version": "6.0.2.8"
     },
     {
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p23 bs=4096 ; ",
       "touch_version": "6.0.2.8",
       "lunch": "cm_puccinilte-userdebug",
       "key": "puccinilte",
-      "name": "puccinilte",
+      "name": "HTC Jetstream",
       "init": "init.puccinilte.rc",
       "legacy_versions": [
 

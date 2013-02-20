@@ -2,6 +2,12 @@
     "version": "1",
     "marketapps": [
     {
+        "name": "Carbon - App Sync and Backup",
+        "icon": "https://raw.github.com/ClockworkMod/artwork/master/carbon/logo.png",
+        "summary": "Carbon is the missing app sync and backup solution for Android. No root required.",
+        "packagename": "com.koushikdutta.backup"
+    },
+    {
         "name": "Tether",
         "icon": "https://github.com/ClockworkMod/artwork/raw/master/tether/tether_icon_usb_dark_512.png",
         "summary": "Get internet on your PC using your Android phone! No root required!",

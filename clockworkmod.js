@@ -28,10 +28,10 @@
     ],
     "roms": [
     {
-      "name": "Superuser (fixed)",
-      "summary": "Fixed for Android 4.2.",
+      "name": "Superuser by ClockworkMod",
+      "summary": "Beta release of the new Superuser by ClockworkMod",
       "device": "all",
-      "url": "http://download.clockworkmod.com/test/Superuser-jb-4.2-fixed2.zip"
+      "url": "http://download.clockworkmod.com/test/superuser.zip"
     }
     ]
 }

@@ -31,7 +31,7 @@
       "name": "Superuser by ClockworkMod",
       "summary": "Beta release of the new Superuser by ClockworkMod",
       "device": "all",
-      "url": "http://download.clockworkmod.com/test/superuser.zip"
+      "url": "http://download.clockworkmod.com/test/superuser-2.zip"
     }
     ]
 }

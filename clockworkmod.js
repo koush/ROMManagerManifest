@@ -29,9 +29,9 @@
     "roms": [
     {
       "name": "Superuser by ClockworkMod",
-      "summary": "Beta 3 release of the new Superuser by ClockworkMod",
+      "summary": "Beta 4 release of the new Superuser by ClockworkMod",
       "device": "all",
-      "url": "http://download.clockworkmod.com/test/superuser-3.zip"
+      "url": "http://download.clockworkmod.com/test/superuser-4.zip"
     },
     {
       "name": "Superuser by ClockworkMod",

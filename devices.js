@@ -2727,9 +2727,10 @@
 
       ],
       "lunch": "cm_p700-userdebug",
-      "name": "p700",
+      "name": "LG Optimus L7",
       "version": "6.0.2.8",
-      "init": "init.p700.rc"
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p17 bs=4096 ; ",
+      "init": "init.u0.rc"
     }
   ],
   "use_in_app": false,

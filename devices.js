@@ -2753,9 +2753,10 @@
       "key": "p700"
     },
     {
+	  "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p34 bs=4096 ; "
       "version": "6.0.2.8",
       "lunch": "cm_m7-userdebug",
-      "name": "m7",
+      "name": "HTC One",
       "legacy_versions": [
 
       ],

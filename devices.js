@@ -2749,8 +2749,9 @@
       "key": "dlxu",
       "touch_version": "6.0.2.8",
       "lunch": "cm_dlxu-userdebug",
-      "name": "dlxu",
+      "name": "HTC Butterfly (dlxu)",
       "version": "6.0.2.8",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p20 bs=4096 ; ",
       "legacy_versions": [
 
       ]

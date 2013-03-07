@@ -2763,11 +2763,12 @@
       "init": "init.dlxub1.rc",
       "version": "6.0.2.8",
       "touch_version": "6.0.2.8",
-      "name": "dlxub1",
+      "name": "HTC Butterfly (dlxub1)",
       "lunch": "cm_dlxub1-userdebug",
       "legacy_versions": [
 
       ],
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p20 bs=4096 ; ",
       "key": "dlxub1"
     }
   ],

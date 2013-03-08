@@ -2777,10 +2777,11 @@
       "legacy_versions": [
 
       ],
-      "name": "dlxj",
+      "name": "HTC Butterfly J",
       "touch_version": "6.0.2.8",
       "key": "dlxj",
       "version": "6.0.2.8",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p20 bs=4096 ; ",
       "lunch": "cm_dlxj-userdebug"
     }
   ],

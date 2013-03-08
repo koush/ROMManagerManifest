@@ -2120,6 +2120,7 @@
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p18 bs=4096 ; ",
       "version": "6.0.2.8",
       "touch_version": "6.0.2.8",
+      "twrp_version": "2.4.3.0",
       "lunch": "cm_d2vzw-userdebug",
       "legacy_versions": [
         "5.8.4.6",
@@ -2791,6 +2792,7 @@
   ],
   "keywords": "phone accessories,droid,gadgets,bluetooth headset,car charger,sd card",
   "recovery_url": "http://download2.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.img",
+  "recovery_twrp_url": "http://download2.clockworkmod.com/twrp/openrecovery-twrp-%s-%s.img",
   "owners": {
     "daniel.hillenbrand@codeworkx.de": true,
     "bigbeeshane@gmail.com": true,

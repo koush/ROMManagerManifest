@@ -2806,8 +2806,9 @@
     {
       "key": "e610",
       "lunch": "cm_e610-userdebug",
-      "name": "e610",
-      "init": "init.e610.rc",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p17 bs=4096 ; ",
+      "name": "LG Optimus L5",
+      "init": "init.m4.rc",
       "legacy_versions": [
 
       ],

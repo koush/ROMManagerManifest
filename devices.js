@@ -391,7 +391,7 @@
     },
     {
       "key": "aloha",
-      "name": "LGE Ally",
+      "name": "LG Ally",
       "init": "init.aloha.rc",
       "alternate_recovery": {
         "clockwork": false,
@@ -963,7 +963,7 @@
     {
       "key": "p999",
       "lunch": "cyanogen_p999-eng",
-      "name": "LGE G2X (T-Mobile)",
+      "name": "LG G2X (T-Mobile)",
       "init": "init_recovery.rc",
       "legacy_versions": [
         "3.0.2.7",
@@ -985,7 +985,7 @@
       "key": "p990",
       "lunch": "cm_p990-userdebug",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p7 ; ",
-      "name": "LGE Optimus 2X",
+      "name": "LG Optimus 2X",
       "legacy_versions": [
         "3.0.2.7",
         "3.0.2.7",
@@ -1023,7 +1023,7 @@
     {
       "key": "thunderg",
       "lunch": "full_thunderg-eng",
-      "name": "LGE Optimus One (old BB)",
+      "name": "LG Optimus One (old BB)",
       "init": "init.thunderg.rc",
       "alternate_recovery": {
         "clockwork": false,
@@ -1040,7 +1040,7 @@
     {
       "key": "p500",
       "lunch": "cyanogen_p500-eng",
-      "name": "LGE Optimus One",
+      "name": "LG Optimus One",
       "init": "init.thunderg.rc",
       "legacy_versions": [
         "5.0.2.0"
@@ -1189,7 +1189,7 @@
       "key": "p920",
       "lunch": "cm_p920-userdebug",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 ; ",
-      "name": "LGE Optimus 3D",
+      "name": "LG Optimus 3D",
       "legacy_versions": [
         "4.0.0.7",
         "4.0.0.9",
@@ -1335,7 +1335,7 @@
       "key": "p970",
       "lunch": "cm_p970-userdebug",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p4 ; ",
-      "name": "LGE Optimus Black",
+      "name": "LG Optimus Black",
       "init": "/bootimages/ON_480x800_08fps_0000.rle",
       "legacy_versions": [
         "5.0.0.0",
@@ -1608,7 +1608,7 @@
     {
       "key": "lg690",
       "lunch": "full_lg690-eng",
-      "name": "LGE Optimus C LW690",
+      "name": "LG Optimus C LW690",
       "init": "init.thunderc.rc",
       "legacy_versions": [
 
@@ -1618,7 +1618,7 @@
     {
       "key": "c660",
       "lunch": "c660-eng",
-      "name": "LGE Optimus Pro",
+      "name": "LG Optimus Pro",
       "init": "init.muscat.rc",
       "legacy_versions": [
 
@@ -1628,7 +1628,7 @@
     {
       "key": "e510",
       "lunch": "e510-eng",
-      "name": "LGE Optimus Hub",
+      "name": "LG Optimus Hub",
       "init": "init.univa.rc",
       "legacy_versions": [
 
@@ -1669,7 +1669,7 @@
       "key": "e730",
       "lunch": "e730-eng",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p17 bs=4096 ;",
-      "name": "LGE Optimus SOL / TMo LGE myTouch",
+      "name": "LG Optimus SOL / TMo LG myTouch",
       "legacy_versions": [
 
       ],
@@ -1810,7 +1810,7 @@
       "key": "p930",
       "lunch": "cm_p930-userdebug",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p13 ;",
-      "name": "LGE Nitro HD / LGE P930 (AT&T)",
+      "name": "LG Nitro HD / LG P930 (AT&T)",
       "init": "bootimages/boot_logo_00000.rle",
       "legacy_versions": [
         "5.8.2.0",
@@ -1953,7 +1953,7 @@
       "key": "marquee",
       "lunch": "full_marquee-eng",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p4 bs=4096 ; ",
-      "name": "LGE Marquee",
+      "name": "LG Marquee",
       "init": "init.omap.post_boot.sh",
       "legacy_versions": [
 
@@ -1964,7 +1964,7 @@
       "key": "ignite",
       "lunch": "full_ignite-eng",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p4 bs=4096 ; ",
-      "name": "LGE Ignite",
+      "name": "LG Ignite",
       "init": "init.omap.post_boot.sh",
       "legacy_versions": [
 
@@ -1976,7 +1976,7 @@
       "key": "ms840",
       "lunch": "full_ms840-userdebug",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p13 bs=4096 ; ",
-      "name": "LGE Connect 4G MS840",
+      "name": "LG Connect 4G MS840",
       "init": "init.target.rc",
       "legacy_versions": [
 
@@ -1988,7 +1988,7 @@
       "key": "vs840",
       "lunch": "full_vs840-userdebug",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p13 bs=4096 ; ",
-      "name": "LGE Lucid VS840",
+      "name": "LG Lucid VS840",
       "init": "init.target.rc",
       "legacy_versions": [
 
@@ -2062,7 +2062,7 @@
       "key": "e400",
       "lunch": "cm_e400-userdebug",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p17 bs=4096 ; ",
-      "name": "LGE Optimus L3",
+      "name": "LG Optimus L3",
       "init": "init.e0.rc",
       "legacy_versions": [
 
@@ -2180,7 +2180,7 @@
       "key": "su640",
       "lunch": "cm_su640-userdebug",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p13 bs=4096 ; ",
-      "name": "LGE Optimus LTE (SKT)",
+      "name": "LG Optimus LTE (SKT)",
       "init": "init.su640.rc",
       "legacy_versions": [
 
@@ -2285,7 +2285,7 @@
       "key": "vs920",
       "lunch": "cm_vs920-userdebug",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p13 bs=4096 ; ",
-      "name": "LGE Spectrum 4G",
+      "name": "LG Spectrum 4G",
       "init": "init.target.rc",
       "legacy_versions": [
 
@@ -2312,7 +2312,7 @@
       "key": "vs910",
       "lunch": "cm_vs910-userdebug",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p14 bs=4096 ; ",
-      "name": "LGE Revolution 4G",
+      "name": "LG Revolution 4G",
       "init": "init.qcom.rc",
       "legacy_versions": [
 
@@ -2328,7 +2328,7 @@
       "key": "ms910",
       "lunch": "cm_ms910-userdebug",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p14 bs=4096 ; ",
-      "name": "LGE Esteeem 4G",
+      "name": "LG Esteeem 4G",
       "init": "init.qcom.rc",
       "legacy_versions": [
         "5.0.2.8"
@@ -2344,7 +2344,7 @@
       "key": "ms695",
       "lunch": "cm_ms695-userdebug",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p17 bs=4096 ; ",
-      "name": "LGE Optimus M+",
+      "name": "LG Optimus M+",
       "init": "init.qcom.rc",
       "legacy_versions": [
         "6.0.1.0"
@@ -2404,7 +2404,7 @@
     {
       "key": "p350",
       "lunch": "cm_p350-userdebug",
-      "name": "LGE P350",
+      "name": "LG P350",
       "init": "init.pecan.rc",
       "legacy_versions": [
         "6.0.1.3",
@@ -2626,7 +2626,7 @@
       "key": "p720",
       "lunch": "cm_p720-userdebug",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 ; ",
-      "name": "LGE Optimus 3DMax",
+      "name": "LG Optimus 3DMax",
       "legacy_versions": [
 
       ],

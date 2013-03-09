@@ -2404,7 +2404,7 @@
     {
       "key": "p350",
       "lunch": "cm_p350-userdebug",
-      "name": "LG P350",
+      "name": "LG Optimus Me",
       "init": "init.pecan.rc",
       "legacy_versions": [
         "6.0.1.3",

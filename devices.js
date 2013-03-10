@@ -2808,6 +2808,7 @@
       "legacy_versions": [
 
       ],
+      "touch_version": "6.0.2.8",
       "version": "6.0.2.8",
       "name": "HTC One X (AT&T)",
       "init": "init.evita.rc",

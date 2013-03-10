@@ -2809,8 +2809,9 @@
 
       ],
       "version": "6.0.2.8",
-      "name": "evita",
+      "name": "HTC One X (AT&T)",
       "init": "init.evita.rc",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=4096 ; ",
       "key": "evita"
     }
   ],

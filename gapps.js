@@ -3,7 +3,7 @@
     "roms": [
         {
             "name": "20121212 JB",
-            "summary": "Recommended for CM 10.1.x\nJuly 26, 2012 for Android 4.2.1",
+            "summary": "Recommended for CM 10.1.x\nJuly 26, 2012 for Android 4.2.X",
             "product": "jb",
             "modversion": "GApps-20121212-JB",
             "incremental": "20121212",

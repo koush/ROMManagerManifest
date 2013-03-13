@@ -2861,7 +2861,8 @@
     {
       "version": "6.0.2.9",
       "key": "p4vzw",
-      "name": "p4vzw",
+      "name": "Samsung Galaxy Tab 10.1 (Verizon)",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-num/p2 bs=4096 ; ",
       "init": "init.p4vzw.rc",
       "legacy_versions": [
 

@@ -1926,7 +1926,7 @@
       "init": "ueventd.p3.rc",
       "touch_version": "5.8.3.1",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p2 ; ",
-      "name": "Samsung Galaxy Tab 10.1",
+      "name": "Samsung Galaxy Tab 10.1 (Wifi)",
       "lunch": "cm_p4wifi-userdebug"
     },
     {
@@ -2826,7 +2826,8 @@
       "version": "6.0.2.9",
       "init": "init.p4.rc",
       "lunch": "cm_p4-userdebug",
-      "name": "p4"
+      "name": "Samsung Galaxy Tab 10.1",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-num/p2 bs=4096 ; "
     }
   ],
   "keywords": "phone accessories,droid,gadgets,bluetooth headset,car charger,sd card",

@@ -2851,7 +2851,8 @@
       "init": "init.p4tmo.rc",
       "lunch": "cm_p4tmo-userdebug",
       "key": "p4tmo",
-      "name": "p4tmo",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-num/p2 bs=4096 ; ",
+      "name": "Samsung Galaxy Tab 10.1 (T-Mobile)",
       "legacy_versions": [
 
       ]

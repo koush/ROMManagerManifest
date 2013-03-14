@@ -2870,12 +2870,13 @@
       "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-num/p2 bs=4096 ; "
     },
     {
+      "name": "LG Optimus L7",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p4 bs=4096 ; "
       "legacy_versions": [
 
       ],
-      "init": "init.p760.rc",
+      "init": "init.u0.rc",
       "touch_version": "6.0.2.9",
-      "name": "p760",
       "key": "p760"
     }
   ],

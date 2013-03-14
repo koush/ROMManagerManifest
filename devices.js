@@ -2870,7 +2870,7 @@
       "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-num/p2 bs=4096 ; "
     },
     {
-      "name": "LG Optimus L7",
+      "name": "LG Optimus L9",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p4 bs=4096 ; ",
       "legacy_versions": [
 

@@ -2874,6 +2874,7 @@
   ],
   "use_in_app": false,
   "owners": {
+    "utkanos@gmail.com": true,
     "daniel.hillenbrand@codeworkx.de": true,
     "koush@clockworkmod.com": true,
     "bigbeeshane@gmail.com": true,

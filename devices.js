@@ -2876,11 +2876,12 @@
       "legacy_versions": [
 
       ],
-      "name": "i9305",
+      "name": "Samsung Galaxy S3 LTE (GT-I9305)",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; ",
       "lunch": "cm_i9305-userdebug",
       "version": "6.0.2.9",
       "touch_version": "6.0.2.9",
-      "init": "init.i9305.rc"
+      "init": "ueventd.smdk4x12.rc"
     }
   ],
   "recovery_url": "http://download2.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.img",

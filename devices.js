@@ -2086,8 +2086,8 @@
       "readonly_recovery": true
     },
     {
-      "touch_version": "6.0.2.9",
-      "version": "6.0.2.9",
+      "touch_version": "6.0.2.8",
+      "version": "6.0.2.8",
       "legacy_versions": [
         "5.8.4.5",
         "5.8.4.6",
@@ -2104,8 +2104,8 @@
       "lunch": "cm_d2att-userdebug"
     },
     {
-      "touch_version": "6.0.2.9",
-      "version": "6.0.2.9",
+      "touch_version": "6.0.2.8",
+      "version": "6.0.2.8",
       "legacy_versions": [
         "5.8.4.5",
         "5.8.4.6",
@@ -2121,8 +2121,8 @@
       "lunch": "cm_d2tmo-userdebug"
     },
     {
-      "touch_version": "6.0.2.9",
-      "version": "6.0.2.9",
+      "touch_version": "6.0.2.8",
+      "version": "6.0.2.8",
       "legacy_versions": [
         "5.8.4.5",
         "5.8.4.6",
@@ -2139,8 +2139,8 @@
       "lunch": "cm_d2spr-userdebug"
     },
     {
-      "touch_version": "6.0.2.9",
-      "version": "6.0.2.9",
+      "touch_version": "6.0.2.8",
+      "version": "6.0.2.8",
       "legacy_versions": [
         "5.8.4.6",
         "5.8.4.7",

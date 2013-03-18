@@ -2891,7 +2891,8 @@
       "legacy_versions": [
 
       ],
-      "name": "p3",
+      "name": "Galaxy Tab 10.1v",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-num/p2 bs=4096 ; ",
       "init": "init.p3.rc",
       "lunch": "cm_p3-userdebug",
       "key": "p3"

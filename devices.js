@@ -2886,7 +2886,8 @@
       "legacy_versions": [
 
       ],
-      "name": "n8013",
+      "name": "Samsung Galaxy Note 10.1",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 bs=4096 ; ",
       "lunch": "cm_n8013-userdebug",
       "version": "6.0.3.0",
       "init": "init.n8013.rc",

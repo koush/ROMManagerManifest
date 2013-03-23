@@ -2588,21 +2588,6 @@
       ]
     },
     {
-      "init": "init.t0ltetmo.rc",
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; ",
-      "key": "t0ltetmo",
-      "name": "Samsung Galaxy Note 2 (T-Mobile)",
-      "touch_version": "6.0.2.8",
-      "lunch": "cm_t0ltetmo-userdebug",
-      "version": "6.0.2.8",
-      "legacy_versions": [
-        "6.0.2.3",
-        "6.0.2.4",
-        "6.0.2.5",
-        "6.0.2.7"
-      ]
-    },
-    {
       "init": "init.t0ltevzw.rc",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; ",
       "key": "t0ltevzw",
@@ -2616,23 +2601,10 @@
       ]
     },
     {
-      "init": "init.t0lteatt.rc",
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; ",
-      "key": "t0lteatt",
-      "name": "Samsung Galaxy Note 2 (AT&T)",
-      "touch_version": "6.0.2.5",
-      "lunch": "cm_t0lteatt-userdebug",
-      "version": "6.0.2.5",
-      "legacy_versions": [
-        "6.0.2.3",
-        "6.0.2.4"
-      ]
-    },
-    {
       "init": "init.t0lte.rc",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; ",
       "key": "t0lte",
-      "name": "Samsung Galaxy Note 2 (LTE)",
+      "name": "Samsung Galaxy Note 2 (LTE, AT&T, T-Mobile)",
       "touch_version": "6.0.3.0",
       "lunch": "cm_t0lte-userdebug",
       "version": "6.0.3.0",

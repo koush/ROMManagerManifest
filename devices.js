@@ -2573,32 +2573,6 @@
       "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-name/SOS bs=4096 ; "
     },
     {
-      "key": "t0ltespr",
-      "touch_version": "6.0.2.5",
-      "lunch": "cm_t0ltespr-userdebug",
-      "name": "Samsung Galaxy Note 2 (Sprint)",
-      "init": "init.t0ltespr.rc",
-      "legacy_versions": [
-        "6.0.2.3",
-        "6.0.2.4"
-      ],
-      "version": "6.0.2.5",
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; "
-    },
-    {
-      "key": "t0ltevzw",
-      "touch_version": "6.0.2.5",
-      "lunch": "cm_t0ltevzw-userdebug",
-      "name": "Samsung Galaxy Note 2 (Verizon)",
-      "init": "init.t0ltevzw.rc",
-      "legacy_versions": [
-        "6.0.2.3",
-        "6.0.2.4"
-      ],
-      "version": "6.0.2.5",
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; "
-    },
-    {
       "key": "t0lte",
       "touch_version": "6.0.3.0",
       "lunch": "cm_t0lte-userdebug",

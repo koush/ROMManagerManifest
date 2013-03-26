@@ -2911,21 +2911,23 @@
     {
       "key": "i605",
       "lunch": "cm_i605-userdebug",
-      "name": "i605",
+      "name": "Samsung Galaxy Note 2 (Verizon)",
       "init": "init.i605.rc",
       "legacy_versions": [
 
       ],
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; "
       "version": "6.0.3.0"
     },
     {
       "key": "l900",
       "lunch": "cm_l900-userdebug",
-      "name": "l900",
+      "name": "Samsung Galaxy Note 2 (Sprint)",
       "init": "init.l900.rc",
       "legacy_versions": [
 
       ],
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; "
       "version": "6.0.3.0"
     }
   ],

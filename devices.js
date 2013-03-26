@@ -1616,7 +1616,7 @@
       "init": "init.thunderc.rc",
       "version": "5.0.2.7",
       "key": "lg690",
-      "name": "LG Optimus C LW690",
+      "name": "LG Optimus C LW690 and Optimus M MS690",
       "lunch": "full_lg690-eng",
       "legacy_versions": [
 

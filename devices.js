@@ -2890,7 +2890,7 @@
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; "
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; ",
       "version": "6.0.3.0"
     },
     {
@@ -2901,7 +2901,7 @@
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; "
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; ",
       "version": "6.0.3.0"
     }
   ],

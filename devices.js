@@ -2895,6 +2895,10 @@
       ],
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; ",
       "key": "i605",
+      "ro.product.device": [
+        "i605",
+        "t0ltevzw"
+      ],
       "name": "Samsung Galaxy Note 2 (Verizon)",
       "init": "init.i605.rc",
       "touch_version": "6.0.3.0",
@@ -2907,6 +2911,10 @@
       ],
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; ",
       "key": "l900",
+      "ro.product.device": [
+        "l900",
+        "t0ltespr"
+      ],
       "name": "Samsung Galaxy Note 2 (Sprint)",
       "init": "init.l900.rc",
       "touch_version": "6.0.3.0",

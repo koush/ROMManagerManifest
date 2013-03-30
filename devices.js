@@ -2895,7 +2895,7 @@
       ],
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; ",
       "key": "i605",
-      "ro.product.device": [
+      "ro.product.devices": [
         "i605",
         "t0ltevzw"
       ],
@@ -2911,7 +2911,7 @@
       ],
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; ",
       "key": "l900",
-      "ro.product.device": [
+      "ro.product.devices": [
         "l900",
         "t0ltespr"
       ],

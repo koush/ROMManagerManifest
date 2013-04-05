@@ -2547,7 +2547,7 @@
     {
       "init": "init.smdk4x12.rc",
       "lunch": "cm_n7100-userdebug",
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 bs=4096 ; ",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; ",
       "legacy_versions": [
         "6.0.1.9"
       ],

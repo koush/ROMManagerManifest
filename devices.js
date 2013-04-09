@@ -2565,7 +2565,7 @@
     {
       "init": "init.t0lte.rc",
       "key": "t0lte",
-      "name": "Samsung Galaxy Note 2 (LTE, AT&T, T-Mobile)",
+      "name": "Samsung Galaxy Note 2 (LTE)",
       "legacy_versions": [
         "6.0.2.3",
         "6.0.2.4",
@@ -2907,7 +2907,8 @@
     {
       "init": "init.t0lteatt.rc",
       "key": "t0lteatt",
-      "name": "t0lteatt",
+      "name": "Samsung Galaxy Note 2 (AT&T)",
+	  "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; ",
       "legacy_versions": [
 
       ],
@@ -2918,7 +2919,8 @@
     {
       "init": "init.t0ltetmo.rc",
       "key": "t0ltetmo",
-      "name": "t0ltetmo",
+      "name": "Samsung Galaxy Note 2 (T-Mobile)",
+	  "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; ",
       "legacy_versions": [
 
       ],

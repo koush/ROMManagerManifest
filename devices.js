@@ -2981,6 +2981,7 @@
       "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-name/SOS bs=4096 ; ",
       "init": "init.x3.rc",
       "lunch": "cm_p880-userdebug",
+      "reboot_recovery": "echo 'boot-recovery' | dd of=/dev/block/mmcblk0p5 bs=1 count=13 ; reboot ; ",
       "key": "p880"
     }
   ],

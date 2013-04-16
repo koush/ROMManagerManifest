@@ -2974,11 +2974,13 @@
     },
     {
       "touch_version": "6.0.3.1",
-      "name": "p880",
+      "name": "LG Optimus 4X HD",
       "legacy_versions": [
 
       ],
-      "init": "init.p880.rc",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-name/SOS bs=4096 ; ",
+      "init": "init.x3.rc",
+      "lunch": "cm_p880-userdebug",
       "key": "p880"
     }
   ],

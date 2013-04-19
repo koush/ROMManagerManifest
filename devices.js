@@ -2994,12 +2994,13 @@
     },
     {
       "init": "init.quincytmo.rc",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=4096 ; ",
       "version": "6.0.3.1",
       "legacy_versions": [
 
       ],
       "lunch": "cm_quincytmo-userdebug",
-      "name": "quincytmo",
+      "name": "Samsung Galaxy Note (T-Mobile)",
       "key": "quincytmo"
     }
   ],

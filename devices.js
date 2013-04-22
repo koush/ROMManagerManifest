@@ -3017,12 +3017,13 @@
     {
       "touch_version": "6.0.3.1",
       "lunch": "cm_n8000-userdebug",
-      "name": "n8000",
+      "name": "Samsung Galaxy Note 10.1 (GSM)",
       "version": "6.0.3.1",
       "init": "init.n8000.rc",
       "legacy_versions": [
 
       ],
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 bs=4096 ; ",
       "key": "n8000"
     }
   ],

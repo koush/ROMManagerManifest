@@ -709,7 +709,6 @@
       "init": "env.txt",
       "flash_recovery": "busybox mount -orw,remount / ; mkdir /boot ; busybox mount /dev/block/mmcblk0p1 /boot ; busybox unzip -p %1$s ramdisk-recovery.ub > /boot/uRecRam ; busybox unzip -p %1$s kernel > /boot/uRecImg ; busybox umount /boot ; rmdir /boot; busybox mount -oro,remount / ; ",
       "name": "Nook Color",
-      "touch_version": "6.0.3.1",
       "inits": [
         "env.txt",
         "init.encore.rc"

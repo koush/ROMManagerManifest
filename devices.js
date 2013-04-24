@@ -2847,7 +2847,8 @@
       ],
       "ro.product.devices": [
         "p4",
-        "gt-p7500"
+        "gt-p7500",
+        "p7500"
       ],
       "key": "p4"
     },

@@ -3018,7 +3018,8 @@
     },
     {
       "lunch": "cm_find5-userdebug",
-      "name": "find5",
+      "name": "Oppo Find5",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/msm_sdcc.1/by-name/recovery bs=4096 ; ",
       "key": "find5",
       "legacy_versions": [
 

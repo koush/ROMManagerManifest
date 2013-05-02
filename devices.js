@@ -2831,7 +2831,7 @@
       "init": "init.p4.rc",
       "ro.product.devices": [
         "p4",
-        "gt-p7500",
+        "GT-P7500",
         "p7500"
       ],
       "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-num/p2 bs=4096 ; ",

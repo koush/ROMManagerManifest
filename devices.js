@@ -3035,7 +3035,8 @@
       ],
       "version": "6.0.3.2",
       "touch_version": "6.0.3.2",
-      "name": "jfltetmo",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ; ",
+      "name": "Samsung Galaxy S4 (T-Mobile)",
       "key": "jfltetmo",
       "init": "init.jfltetmo.rc"
     }

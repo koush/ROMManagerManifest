@@ -3042,7 +3042,8 @@
       "lunch": "cm_jfltetmo-userdebug"
     },
     {
-      "name": "jfltecan",
+      "name": "Samsung Galaxy S4 (Canada/Bell)",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ; ",
       "version": "6.0.3.2",
       "legacy_versions": [
 

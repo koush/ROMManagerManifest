@@ -3060,13 +3060,14 @@
     },
     {
       "key": "V8000",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p17 bs=4096 ; ",
       "version": "6.0.3.2",
-      "init": "init.V8000.rc",
+      "init": "init.zte.rc",
       "lunch": "cm_V8000-userdebug",
       "legacy_versions": [
 
       ],
-      "name": "V8000"
+      "name": "ZTE Engage"
     }
   ],
   "keywords": "phone accessories,droid,gadgets,bluetooth headset,car charger,sd card",

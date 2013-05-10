@@ -3083,8 +3083,9 @@
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p17 bs=4096 ; "
     },
     {
-      "name": "m7wls",
+      "name": "HTC One (Sprint)",
       "key": "m7wls",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p36 bs=4096 ; ",
       "version": "6.0.3.2",
       "touch_version": "6.0.3.2",
       "init": "init.m7wls.rc",

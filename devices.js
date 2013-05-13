@@ -3097,6 +3097,7 @@
       "version": "6.0.3.2"
     },
     {
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p10 bs=4096 ; ",
       "lunch": "cm_i9500-userdebug",
       "key": "i9500",
       "init": "init.i9500.rc",
@@ -3104,7 +3105,7 @@
       "legacy_versions": [
 
       ],
-      "name": "i9500",
+      "name": "Samsung Galaxy S4 (i9500)",
       "version": "6.0.3.2"
     }
   ],

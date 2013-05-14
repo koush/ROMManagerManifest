@@ -3130,7 +3130,8 @@
 
       ],
       "key": "protou",
-      "name": "protou"
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ; ",
+      "name": "HTC Desire X"
     }
   ],
   "use_in_app": false

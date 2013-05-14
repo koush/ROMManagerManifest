@@ -3104,7 +3104,8 @@
 
       ],
       "version": "6.0.3.2",
-      "name": "everest",
+      "name": "Motorola Xoom (GSM)",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-name/recovery bs=4096 ; ",
       "lunch": "cm_everest-userdebug"
     }
   ],

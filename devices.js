@@ -3067,18 +3067,6 @@
       "init": "init.zte.rc"
     },
     {
-      "name": "HTC One (Sprint)",
-      "lunch": "cm_m7wls-userdebug",
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p36 bs=4096 ; ",
-      "key": "m7wls",
-      "version": "6.0.3.2",
-      "legacy_versions": [
-
-      ],
-      "touch_version": "6.0.3.2",
-      "init": "init.m7wls.rc"
-    },
-    {
       "name": "Samsung Galaxy S4 (i9500)",
       "lunch": "cm_i9500-userdebug",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p10 bs=4096 ; ",
@@ -3119,6 +3107,10 @@
       "lunch": "cm_m7spr-userdebug",
       "key": "m7spr",
       "version": "6.0.3.2",
+      "ro.product.devices": [
+        "m7spr",
+        "m7wls"
+      ],
       "legacy_versions": [
 
       ],

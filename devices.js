@@ -3115,7 +3115,7 @@
       "init": "init.protou.rc"
     },
     {
-      "name": "m7spr",
+      "name": "HTC One (Sprint)",
       "lunch": "cm_m7spr-userdebug",
       "key": "m7spr",
       "version": "6.0.3.2",
@@ -3123,7 +3123,8 @@
 
       ],
       "touch_version": "6.0.3.2",
-      "init": "init.m7spr.rc"
+      "init": "init.m7spr.rc",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p36 bs=4096 ; "
     }
   ],
   "recovery_zip_url": "http://download2.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.zip",

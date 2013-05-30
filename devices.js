@@ -3140,10 +3140,11 @@
       "legacy_versions": [
 
       ],
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p34 bs=4096 ; ",
       "lunch": "cm_m7tmo-userdebug",
       "key": "m7tmo",
       "init": "init.m7tmo.rc",
-      "name": "m7tmo"
+      "name": "HTC One (T-Mobile)"
     }
   ],
   "recovery_zip_url": "http://download2.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.zip",

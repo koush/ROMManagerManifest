@@ -3156,13 +3156,13 @@
       "init": "init.m7att.rc"
     },
     {
-      "key": "jfltevzw",
+      "key": "jfltevzw-test",
       "lunch": "cm_jfltevzw-userdebug",
       "legacy_versions": [
 
       ],
       "version": "6.0.3.2",
-      "name": "jfltevzw",
+      "name": "jfltevzw-test",
       "init": "init.jfltevzw.rc"
     }
   ],

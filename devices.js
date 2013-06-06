@@ -4,7 +4,7 @@
   "use_in_app": false,
   "recovery_zip_url": "http://download2.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.zip",
   "owners": {
-    "echen@cyngn.com",
+    "echen@cyngn.com": true,
     "keaneyw@gmail.com": true,
     "bigbeeshane@gmail.com": true,
     "utkanos@gmail.com": true,

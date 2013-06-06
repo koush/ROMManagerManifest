@@ -4,6 +4,7 @@
   "use_in_app": false,
   "recovery_zip_url": "http://download2.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.zip",
   "owners": {
+    "echen@cyngn.com",
     "keaneyw@gmail.com": true,
     "bigbeeshane@gmail.com": true,
     "utkanos@gmail.com": true,
@@ -3151,10 +3152,11 @@
       "init": "init.m7tmo.rc"
     },
     {
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p34 bs=4096 ; ",
       "lunch": "cm_m7att-userdebug",
       "key": "m7att",
       "touch_version": "6.0.3.2",
-      "name": "m7att",
+      "name": "HTC One (AT&T)",
       "version": "6.0.3.2",
       "legacy_versions": [
 
@@ -3183,9 +3185,10 @@
       "init": "init.jflteatt.rc"
     },
     {
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p34 bs=4096 ; ",
       "lunch": "cm_m7ul-userdebug",
       "version": "6.0.3.2",
-      "name": "m7ul",
+      "name": "HTC One (non-US GSM)",
       "key": "m7ul",
       "legacy_versions": [
 

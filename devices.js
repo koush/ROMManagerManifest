@@ -3216,7 +3216,8 @@
     },
     {
       "key": "jflteusc",
-      "name": "jflteusc",
+      "name": "Samsung Galaxy S4 (US Cellular)",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ; ",
       "version": "6.0.3.2",
       "lunch": "cm_jflteusc-userdebug",
       "touch_version": "6.0.3.2",

@@ -3184,7 +3184,8 @@
       "key": "jfltevzw",
       "touch_version": "6.0.3.2",
       "lunch": "cm_jfltevzw-userdebug",
-      "name": "jfltevzw"
+      "flash_recovery": "dd if=/dev/block/platform/msm_sdcc.1/by-name/aboot of=/sdcard/clockworkmod/aboot.img; /data/data/com.koushikdutta.rommanager/files/loki_patch recovery /sdcard/clockworkmod/aboot.img %s /sdcard/clockworkmod/recovery.lok ; /data/data/com.koushikdutta.rommanager/files/loki_flash recovery /sdcard/clockworkmod/recovery.lok ; ",
+      "name": "Samsung Galaxy S4 (Verizon)"
     }
   ],
   "use_in_app": false,

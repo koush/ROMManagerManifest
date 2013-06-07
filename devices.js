@@ -3203,8 +3203,8 @@
       "touch_version": "6.0.3.2"
     },
     {
-      "key": "Samsung Galaxy S4 (Sprint)",
-      "name": "jfltespr",
+      "key": "jfltespr",
+      "name": "Samsung Galaxy S4 (Sprint)",
       "version": "6.0.3.2",
       "lunch": "cm_jfltespr-userdebug",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ; ",

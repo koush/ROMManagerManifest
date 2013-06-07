@@ -3163,20 +3163,11 @@
       ]
     },
     {
-      "key": "jfltevzw-test",
-      "init": "init.jfltevzw.rc",
-      "name": "jfltevzw-test",
-      "lunch": "cm_jfltevzw-userdebug",
-      "version": "6.0.3.2",
-      "legacy_versions": [
-
-      ]
-    },
-    {
       "touch_version": "6.0.3.2",
       "key": "jflteatt",
+      "flash_recovery": "dd if=/dev/block/platform/msm_sdcc.1/by-name/aboot of=/sdcard/clockworkmod/aboot.img; /data/data/com.koushikdutta.rommanager/files/loki_patch recovery /sdcard/clockworkmod/aboot.img %s /sdcard/clockworkmod/recovery.lok ; /data/data/com.koushikdutta.rommanager/files/loki_flash recovery /sdcard/clockworkmod/recovery.lok ; ",
       "init": "init.jflteatt.rc",
-      "name": "jflteatt",
+      "name": "Samsung Galaxy S4 (AT&T)",
       "lunch": "cm_jflteatt-userdebug",
       "version": "6.0.3.2",
       "legacy_versions": [
@@ -3209,7 +3200,8 @@
     },
     {
       "touch_version": "6.0.3.2",
-      "key": "jfltespr",
+      "key": "Samsung Galaxy S4 (Sprint)",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ; ",
       "init": "init.jfltespr.rc",
       "name": "jfltespr",
       "lunch": "cm_jfltespr-userdebug",

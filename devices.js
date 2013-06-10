@@ -3225,7 +3225,8 @@
       "touch_version": "6.0.3.2",
       "init": "init.jfltexx.rc",
       "lunch": "cm_jfltexx-userdebug",
-      "name": "jfltexx",
+      "name": "Samsung Galaxy S4 (i9505)",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ; ",
       "version": "6.0.3.2",
       "key": "jfltexx",
       "legacy_versions": [
@@ -3236,7 +3237,8 @@
       "touch_version": "6.0.3.2",
       "init": "init.jfltecri.rc",
       "lunch": "cm_jfltecri-userdebug",
-      "name": "jfltecri",
+      "name": "Samsung Galaxy S4 (Cricket)",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ; ",
       "version": "6.0.3.2",
       "key": "jfltecri",
       "legacy_versions": [

@@ -3230,13 +3230,14 @@
     },
     {
       "version": "6.0.3.3",
-      "name": "lgl55c",
-      "init": "init.lgl55c.rc",
+      "name": "LG Optimus Q (LGL55C Tracfone)",
+      "init": "init.gelato.rc",
       "key": "lgl55c",
       "lunch": "cm_lgl55c-userdebug",
       "legacy_versions": [
 
-      ]
+      ],
+      "flash_recovery": "dd if=%s of=/dev/block/mtdblock2 bs=4096 ; "
     }
   ],
   "keywords": "phone accessories,droid,gadgets,bluetooth headset,car charger,sd card",

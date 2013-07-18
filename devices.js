@@ -3065,7 +3065,11 @@
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ; ",
       "version": "6.0.3.2",
       "lunch": "cm_jfltetmo-userdebug",
-      "init": "init.jfltetmo.rc"
+      "init": "init.jfltetmo.rc",
+      "ro.product.devices": [
+        "jfltetmo",
+        "jflteMetroPCS"
+      ]
     },
     {
       "name": "Samsung Galaxy S4 (Canada/Bell)",

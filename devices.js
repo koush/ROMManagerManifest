@@ -2151,7 +2151,11 @@
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p18 bs=4096 ; ",
       "version": "6.0.3.1",
       "lunch": "cm_d2tmo-userdebug",
-      "init": "init.d2tmo.rc"
+      "init": "init.d2tmo.rc",
+      "ro.product.devices": [
+        "d2tmo",
+        "d2lteMetroPCS"
+      ]
     },
     {
       "name": "Samsung Galaxy S3 (Sprint)",

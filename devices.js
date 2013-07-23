@@ -1,26 +1,15 @@
 {
-  "ad_network": "admob",
-  "recovery_twrp_url": "http://download2.clockworkmod.com/twrp/openrecovery-twrp-%s-%s.img",
-  "recovery_url": "http://download2.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.img",
-  "owners": {
-    "koush@clockworkmod.com": true,
-    "arcee@cyanogenmod.com": true,
-    "cvpcsm@gmail.com": true,
-    "echen@cyngn.com": true,
-    "bigbeeshane@gmail.com": true,
-    "attn1.repo@gmail.com": true,
-    "keaneyw@gmail.com": true,
-    "layhertony@gmail.com": true,
-    "daniel.hillenbrand@codeworkx.de": true,
-    "njgreb@gmail.com": true,
-    "utkanos@gmail.com": true,
-    "playfulgod@gmail.com": true,
-    "ferguson.david@gmail.com": true
-  },
-  "use_in_app": false,
-  "keywords": "phone accessories,droid,gadgets,bluetooth headset,car charger,sd card",
+  "manifest_signature": "O8+Kc2mdQz0e/AjCQn6Rw6fK5Kr5LZItJ474Ua3gF2o4IgdCQZXIbwCHIo6xeqY3pVEGtjYmmyO1PkRYcGqq2rB2wQM8SoKFl/70vG0ihEZ5TDeruKUgxVVSNM3e09kBvCxYK89GWqVWkNHtvTu1T1F9w6FilzCsNFSAXHD0Bos=",
   "devices": [
     {
+      "init": "init.sholes.rc",
+      "version": "2.5.0.1",
+      "name": "Motorola Droid",
+      "alternate_recovery": {
+        "name": "SPRecovery 0.99.3b",
+        "url": "http://koush.kanged.net/cm/recoveries/sprecovery.img",
+        "clockwork": false
+      },
       "legacy_versions": [
         "3.1.0.2",
         "2.5.1.4",
@@ -28,68 +17,69 @@
         "2.5.1.1",
         "2.5.0.1"
       ],
-      "version": "2.5.0.1",
-      "alternate_recovery": {
-        "clockwork": false,
-        "url": "http://koush.kanged.net/cm/recoveries/sprecovery.img",
-        "name": "SPRecovery 0.99.3b"
-      },
-      "name": "Motorola Droid",
-      "init": "init.sholes.rc",
       "key": "sholes"
     },
     {
+      "init": "init.sapphire.rc",
+      "version": "2.5.0.7",
+      "name": "HTC MyTouch 3G",
+      "alternate_recovery": {
+        "name": "RA Recovery v1.7.0G",
+        "url": "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-sapphire-v1.7.0G.img",
+        "clockwork": false
+      },
       "legacy_versions": [
         "2.5.0.7",
         "2.5.1.4",
         "2.5.1.3",
         "2.5.1.1"
       ],
-      "version": "2.5.0.7",
-      "alternate_recovery": {
-        "clockwork": false,
-        "url": "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-sapphire-v1.7.0G.img",
-        "name": "RA Recovery v1.7.0G"
-      },
-      "name": "HTC MyTouch 3G",
-      "init": "init.sapphire.rc",
       "key": "sapphire"
     },
     {
+      "init": "init.sapphire.rc",
+      "version": "2.5.0.7",
+      "name": "HTC Magic",
+      "alternate_recovery": {
+        "name": "RA Recovery v1.7.0H",
+        "url": "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-sapphire-v1.7.0H.img",
+        "clockwork": false
+      },
       "legacy_versions": [
         "2.5.0.7",
         "2.5.1.4",
         "2.5.1.3",
         "2.5.1.1"
       ],
-      "version": "2.5.0.7",
-      "alternate_recovery": {
-        "clockwork": false,
-        "url": "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-sapphire-v1.7.0H.img",
-        "name": "RA Recovery v1.7.0H"
-      },
-      "name": "HTC Magic",
-      "init": "init.sapphire.rc",
       "key": "magic"
     },
     {
+      "init": "init.trout.rc",
+      "version": "2.5.0.7",
+      "name": "HTC G1/Dream",
+      "alternate_recovery": {
+        "name": "RA Recovery v1.7.0",
+        "url": "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-dream-v1.7.0.img",
+        "clockwork": false
+      },
       "legacy_versions": [
         "2.5.0.7",
         "2.5.1.4",
         "2.5.1.3",
         "2.5.1.1"
       ],
-      "version": "2.5.0.7",
-      "alternate_recovery": {
-        "clockwork": false,
-        "url": "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-dream-v1.7.0.img",
-        "name": "RA Recovery v1.7.0"
-      },
-      "name": "HTC G1/Dream",
-      "init": "init.trout.rc",
       "key": "dream"
     },
     {
+      "init": "init.mahimahi.rc",
+      "lunch": "cyanogen_passion-eng",
+      "version": "5.0.2.0",
+      "name": "Google Nexus One",
+      "alternate_recovery": {
+        "name": "RA Recovery v2.2.1",
+        "url": "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-passion-v2.2.1.img",
+        "clockwork": false
+      },
       "legacy_versions": [
         "3.0.0.5",
         "2.5.1.4",
@@ -100,52 +90,53 @@
         "5.0.0.8",
         "5.0.1.0"
       ],
-      "version": "5.0.2.0",
-      "alternate_recovery": {
-        "clockwork": false,
-        "url": "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-passion-v2.2.1.img",
-        "name": "RA Recovery v2.2.1"
-      },
-      "lunch": "cyanogen_passion-eng",
-      "name": "Google Nexus One",
-      "init": "init.mahimahi.rc",
       "key": "passion"
     },
     {
+      "init": "init.hero.rc",
+      "version": "2.5.0.7",
+      "name": "HTC Hero (GSM)",
+      "alternate_recovery": {
+        "name": "RA Recovery v1.7.0.1",
+        "url": "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-hero-v1.7.0.1.img",
+        "clockwork": false
+      },
       "legacy_versions": [
         "2.5.0.7",
         "2.5.1.4",
         "2.5.1.3",
         "2.5.1.1"
       ],
-      "version": "2.5.0.7",
-      "alternate_recovery": {
-        "clockwork": false,
-        "url": "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-hero-v1.7.0.1.img",
-        "name": "RA Recovery v1.7.0.1"
-      },
-      "name": "HTC Hero (GSM)",
-      "init": "init.hero.rc",
       "key": "hero"
     },
     {
+      "init": "init.heroc.rc",
+      "version": "2.5.0.7",
+      "name": "HTC Hero (CDMA)",
+      "alternate_recovery": {
+        "name": "RA Recovery v1.6.2",
+        "url": "http://www.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-heroc-v1.6.2.img",
+        "clockwork": false
+      },
       "legacy_versions": [
         "2.5.0.7",
         "2.5.1.4",
         "2.5.1.3",
         "2.5.1.1"
       ],
-      "version": "2.5.0.7",
-      "alternate_recovery": {
-        "clockwork": false,
-        "url": "http://www.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-heroc-v1.6.2.img",
-        "name": "RA Recovery v1.6.2"
-      },
-      "name": "HTC Hero (CDMA)",
-      "init": "init.heroc.rc",
       "key": "heroc"
     },
     {
+      "init": "init.supersonic.rc",
+      "touch_version": "5.8.0.1",
+      "lunch": "cyanogen_supersonic-eng",
+      "version": "5.0.2.2",
+      "name": "HTC Evo",
+      "alternate_recovery": {
+        "name": "RA Recovery v2.3",
+        "url": "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-supersonic-v2.3.img",
+        "clockwork": false
+      },
       "legacy_versions": [
         "2.5.0.7",
         "3.0.0.5",
@@ -158,19 +149,14 @@
         "5.0.2.0",
         "5.0.2.2"
       ],
-      "version": "5.0.2.2",
-      "alternate_recovery": {
-        "clockwork": false,
-        "url": "http://files.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-supersonic-v2.3.img",
-        "name": "RA Recovery v2.3"
-      },
-      "lunch": "cyanogen_supersonic-eng",
-      "name": "HTC Evo",
-      "touch_version": "5.8.0.1",
-      "init": "init.supersonic.rc",
       "key": "supersonic"
     },
     {
+      "readonly_recovery": true,
+      "init": "init.legend.rc",
+      "lunch": "cyanogen_legend-eng",
+      "version": "5.0.2.0",
+      "name": "HTC Legend",
       "legacy_versions": [
         "2.5.0.7",
         "2.5.1.4",
@@ -181,14 +167,14 @@
         "5.0.0.8",
         "5.0.1.0"
       ],
-      "readonly_recovery": true,
-      "version": "5.0.2.0",
-      "lunch": "cyanogen_legend-eng",
-      "name": "HTC Legend",
-      "init": "init.legend.rc",
       "key": "legend"
     },
     {
+      "init": "init.bravo.rc",
+      "touch_version": "5.8.0.2",
+      "lunch": "cyanogen_bravo-eng",
+      "version": "5.0.2.0",
+      "name": "HTC Desire",
       "legacy_versions": [
         "2.5.0.7",
         "2.5.1.4",
@@ -199,14 +185,13 @@
         "5.0.0.8",
         "5.0.1.0"
       ],
-      "version": "5.0.2.0",
-      "lunch": "cyanogen_bravo-eng",
-      "name": "HTC Desire",
-      "touch_version": "5.8.0.2",
-      "init": "init.bravo.rc",
       "key": "bravo"
     },
     {
+      "init": "init.bravoc.rc",
+      "lunch": "cyanogen_bravoc-eng",
+      "version": "5.0.2.0",
+      "name": "HTC Desire CDMA",
       "legacy_versions": [
         "2.5.0.9",
         "2.5.1.4",
@@ -216,25 +201,30 @@
         "5.0.0.1",
         "5.0.1.0"
       ],
-      "version": "5.0.2.0",
-      "lunch": "cyanogen_bravoc-eng",
-      "name": "HTC Desire CDMA",
-      "init": "init.bravoc.rc",
       "key": "bravoc"
     },
     {
+      "init": "init.qcom.rc",
+      "version": "2.5.0.7",
+      "name": "Huawei Pulse Mini",
       "legacy_versions": [
         "2.5.0.7",
         "2.5.1.4",
         "2.5.1.3",
         "2.5.1.1"
       ],
-      "version": "2.5.0.7",
-      "name": "Huawei Pulse Mini",
-      "init": "init.qcom.rc",
       "key": "pulsemini"
     },
     {
+      "init": "init.inc.rc",
+      "lunch": "cyanogen_inc-eng",
+      "version": "5.0.2.0",
+      "name": "HTC Incredible (CDMA)",
+      "alternate_recovery": {
+        "name": "RA_GNM Recovery v3.02",
+        "url": "http://dl.dropbox.com/u/12949506/RomManager/recovery-RA-inc-3.02.img",
+        "clockwork": false
+      },
       "legacy_versions": [
         "3.0.0.8",
         "3.0.0.7",
@@ -246,49 +236,45 @@
         "5.0.0.8",
         "5.0.1.0"
       ],
-      "version": "5.0.2.0",
-      "alternate_recovery": {
-        "clockwork": false,
-        "url": "http://dl.dropbox.com/u/12949506/RomManager/recovery-RA-inc-3.02.img",
-        "name": "RA_GNM Recovery v3.02"
-      },
-      "lunch": "cyanogen_inc-eng",
-      "name": "HTC Incredible (CDMA)",
-      "init": "init.inc.rc",
       "key": "inc"
     },
     {
+      "readonly_recovery": true,
+      "init": "init.liberty.rc",
+      "version": "2.5.0.7",
+      "name": "HTC Aria",
       "legacy_versions": [
         "2.5.0.7",
         "2.5.1.4",
         "2.5.1.3",
         "2.5.1.1"
       ],
-      "readonly_recovery": true,
-      "version": "2.5.0.7",
-      "name": "HTC Aria",
-      "init": "init.liberty.rc",
       "key": "liberty"
     },
     {
+      "readonly_recovery": true,
+      "init": "init.desirec.rc",
+      "version": "2.5.0.7",
+      "name": "Motorola Droid Eris",
+      "alternate_recovery": {
+        "name": "RA Recovery v1.6.2",
+        "url": "http://www.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-eris-v1.6.2.img",
+        "clockwork": false
+      },
       "legacy_versions": [
         "2.5.0.7",
         "2.5.1.4",
         "2.5.1.3",
         "2.5.1.1"
       ],
-      "readonly_recovery": true,
-      "version": "2.5.0.7",
-      "alternate_recovery": {
-        "clockwork": false,
-        "url": "http://www.androidspin.com/downloads.php?dir=amon_ra/RECOVERY/&file=recovery-RA-eris-v1.6.2.img",
-        "name": "RA Recovery v1.6.2"
-      },
-      "name": "Motorola Droid Eris",
-      "init": "init.desirec.rc",
       "key": "desirec"
     },
     {
+      "readonly_recovery": true,
+      "init": "init.buzz.rc",
+      "lunch": "cyanogen_buzz-eng",
+      "version": "5.0.2.0",
+      "name": "HTC Buzz (Wildfire)",
       "legacy_versions": [
         "3.0.0.6",
         "2.5.1.4",
@@ -298,120 +284,119 @@
         "5.0.0.8",
         "5.0.1.0"
       ],
-      "readonly_recovery": true,
-      "version": "5.0.2.0",
-      "lunch": "cyanogen_buzz-eng",
-      "name": "HTC Buzz (Wildfire)",
-      "init": "init.buzz.rc",
       "key": "buzz"
     },
     {
+      "init": "init.qcom.rc",
+      "version": "2.5.0.7",
+      "name": "Dell Streak",
       "legacy_versions": [
         "2.5.0.7",
         "2.5.1.4",
         "2.5.1.3",
         "2.5.1.1"
       ],
-      "version": "2.5.0.7",
-      "name": "Dell Streak",
-      "init": "init.qcom.rc",
       "key": "streak"
     },
     {
+      "readonly_recovery": true,
+      "init": "init.latte.rc",
+      "version": "2.5.0.7",
+      "name": "HTC MyTouch Slide",
       "legacy_versions": [
         "2.5.0.7",
         "2.5.1.4",
         "2.5.1.3",
         "2.5.1.1"
       ],
-      "readonly_recovery": true,
-      "version": "2.5.0.7",
-      "name": "HTC MyTouch Slide",
-      "init": "init.latte.rc",
       "key": "espresso"
     },
     {
+      "readonly_recovery": true,
+      "init": "lpm.rc",
+      "version": "2.5.1.2",
+      "name": "Samsung GalaxyS i9000",
       "legacy_versions": [
         "2.5.1.2",
         "2.5.1.4",
         "2.5.1.3",
         "2.5.1.1"
       ],
-      "readonly_recovery": true,
-      "version": "2.5.1.2",
-      "name": "Samsung GalaxyS i9000",
-      "init": "lpm.rc",
       "key": "galaxys"
     },
     {
+      "readonly_recovery": true,
+      "init": "init.smdkc110.rc",
+      "version": "3.0.0.8",
+      "name": "Samsung GalaxyS Fascinate",
       "legacy_versions": [
         "3.0.0.8",
         "2.5.1.4",
         "2.5.1.3",
         "2.5.1.1"
       ],
-      "readonly_recovery": true,
-      "version": "3.0.0.8",
-      "name": "Samsung GalaxyS Fascinate",
-      "init": "init.smdkc110.rc",
       "key": "fascinate"
     },
     {
+      "readonly_recovery": true,
+      "init": "init.smdkc110.rc",
+      "version": "2.5.1.2",
+      "name": "Samsung GalaxyS Vibrant",
       "legacy_versions": [
         "2.5.1.2",
         "2.5.1.4",
         "2.5.1.3",
         "2.5.1.1"
       ],
-      "readonly_recovery": true,
-      "version": "2.5.1.2",
-      "name": "Samsung GalaxyS Vibrant",
-      "init": "init.smdkc110.rc",
       "key": "vibrant"
     },
     {
+      "readonly_recovery": true,
+      "init": "init.smdkc110.rc",
+      "version": "2.5.1.2",
+      "name": "Samsung GalaxyS Captivate",
       "legacy_versions": [
         "2.5.1.2",
         "2.5.1.4",
         "2.5.1.3",
         "2.5.1.1"
       ],
-      "readonly_recovery": true,
-      "version": "2.5.1.2",
-      "name": "Samsung GalaxyS Captivate",
-      "init": "init.smdkc110.rc",
       "key": "captivate"
     },
     {
+      "init": "init.qcom.rc",
+      "version": "2.5.0.7",
+      "name": "Huawei Pulse",
       "legacy_versions": [
         "2.5.0.7",
         "2.5.1.4",
         "2.5.1.3",
         "2.5.1.1"
       ],
-      "version": "2.5.0.7",
-      "name": "Huawei Pulse",
-      "init": "init.qcom.rc",
       "key": "pulse"
     },
     {
+      "init": "init.aloha.rc",
+      "version": "2.5.0.7",
+      "name": "LG Ally",
+      "alternate_recovery": {
+        "name": "RA_GNM Recovery v2.2.2",
+        "url": "http://dl.dropbox.com/u/12949506/RomManager/recovery-RA-aloha-2.2.2-GNM.img",
+        "clockwork": false
+      },
       "legacy_versions": [
         "2.5.0.7",
         "2.5.1.4",
         "2.5.1.3",
         "2.5.1.1"
       ],
-      "version": "2.5.0.7",
-      "alternate_recovery": {
-        "clockwork": false,
-        "url": "http://dl.dropbox.com/u/12949506/RomManager/recovery-RA-aloha-2.2.2-GNM.img",
-        "name": "RA_GNM Recovery v2.2.2"
-      },
-      "name": "LG Ally",
-      "init": "init.aloha.rc",
       "key": "aloha"
     },
     {
+      "readonly_recovery": true,
+      "init": "init.mapphone_cdma.rc",
+      "version": "3.1.0.2",
+      "name": "Motorola Milestone",
       "legacy_versions": [
         "2.5.0.7",
         "2.5.1.4",
@@ -419,62 +404,64 @@
         "2.5.1.1",
         "2.5.0.7"
       ],
-      "readonly_recovery": true,
-      "version": "3.1.0.2",
-      "name": "Motorola Milestone",
-      "init": "init.mapphone_cdma.rc",
       "key": "milestone"
     },
     {
+      "readonly_recovery": true,
+      "init": "init.mapphone_cdma.rc",
+      "version": "5.0.2.0",
+      "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
+      "name": "Motorola Droid X",
+      "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
       "legacy_versions": [
         "2.5.0.7"
       ],
-      "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
-      "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
-      "readonly_recovery": true,
-      "version": "5.0.2.0",
-      "name": "Motorola Droid X",
-      "init": "init.mapphone_cdma.rc",
       "key": "droidx"
     },
     {
+      "readonly_recovery": true,
+      "init": "init.mapphone_cdma.rc",
+      "lunch": "cyanogen_shadow-eng",
+      "version": "5.0.2.0",
+      "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
+      "name": "Motorola Droid X (2nd-init)",
+      "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
       "legacy_versions": [
         "2.5.0.7"
       ],
-      "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
-      "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
-      "readonly_recovery": true,
-      "version": "5.0.2.0",
-      "lunch": "cyanogen_shadow-eng",
-      "name": "Motorola Droid X (2nd-init)",
-      "init": "init.mapphone_cdma.rc",
       "key": "shadow"
     },
     {
+      "init": "init.salsa.rc",
+      "version": "2.5.1.0",
+      "name": "Acer Liquid",
       "legacy_versions": [
         "2.5.1.4",
         "2.5.1.3",
         "2.5.1.1",
         "2.5.1.0"
       ],
-      "version": "2.5.1.0",
-      "name": "Acer Liquid",
-      "init": "init.salsa.rc",
       "key": "salsa"
     },
     {
+      "init": "init.qcom.rc",
+      "version": "2.5.1.3",
+      "name": "Commtiva Z71 (Boston, Blaze, and more)",
       "legacy_versions": [
         "2.5.1.4",
         "2.5.1.3",
         "2.5.1.1",
         "2.5.1.0"
       ],
-      "version": "2.5.1.3",
-      "name": "Commtiva Z71 (Boston, Blaze, and more)",
-      "init": "init.qcom.rc",
       "key": "z71"
     },
     {
+      "init": "init.vision.rc",
+      "touch_version": "5.8.1.0",
+      "lunch": "cyanogen_vision-eng",
+      "version": "5.0.2.7",
+      "flash_recovery": "dd if=/dev/zero of=/dev/block/mmcblk0p21 bs=4096 ; dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ; ",
+      "name": "HTC G2",
       "legacy_versions": [
         "3.0.2.4",
         "3.0.0.5",
@@ -488,15 +475,15 @@
         "5.0.2.6",
         "5.0.2.0"
       ],
-      "flash_recovery": "dd if=/dev/zero of=/dev/block/mmcblk0p21 bs=4096 ; dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ; ",
-      "version": "5.0.2.7",
-      "lunch": "cyanogen_vision-eng",
-      "name": "HTC G2",
-      "touch_version": "5.8.1.0",
-      "init": "init.vision.rc",
       "key": "vision"
     },
     {
+      "init": "init.glacier.rc",
+      "touch_version": "5.8.1.0",
+      "lunch": "cyanogen_glacier-eng",
+      "version": "5.0.2.0",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 ; ",
+      "name": "HTC MyTouch 4G",
       "legacy_versions": [
         "3.0.2.4",
         "3.0.0.5",
@@ -507,15 +494,15 @@
         "5.0.0.8",
         "5.0.1.0"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 ; ",
-      "version": "5.0.2.0",
-      "lunch": "cyanogen_glacier-eng",
-      "name": "HTC MyTouch 4G",
-      "touch_version": "5.8.1.0",
-      "init": "init.glacier.rc",
       "key": "glacier"
     },
     {
+      "init": "init.spade.rc",
+      "touch_version": "5.8.1.5",
+      "lunch": "cyanogen_ace-eng",
+      "version": "5.0.2.0",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 ; ",
+      "name": "HTC Desire HD",
       "legacy_versions": [
         "3.0.2.5",
         "3.0.0.6",
@@ -527,15 +514,14 @@
         "5.0.0.8",
         "5.0.1.0"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 ; ",
-      "version": "5.0.2.0",
-      "lunch": "cyanogen_ace-eng",
-      "name": "HTC Desire HD",
-      "touch_version": "5.8.1.5",
-      "init": "init.spade.rc",
       "key": "ace"
     },
     {
+      "init": "init.morrison.rc",
+      "touch_version": "5.8.1.0",
+      "lunch": "cyanogen_morrison-eng",
+      "version": "5.0.2.0",
+      "name": "Motorola Cliq",
       "legacy_versions": [
         "2.5.1.2",
         "2.5.1.4",
@@ -547,44 +533,44 @@
         "5.0.0.8",
         "5.0.1.0"
       ],
-      "version": "5.0.2.0",
-      "lunch": "cyanogen_morrison-eng",
-      "name": "Motorola Cliq",
-      "touch_version": "5.8.1.0",
-      "init": "init.morrison.rc",
       "key": "morrison"
     },
     {
+      "readonly_recovery": true,
+      "init": "init.mapphone_cdma.rc",
+      "lunch": "cyanogen_droid2-eng",
+      "version": "5.0.2.0",
+      "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
+      "name": "Motorola Droid 2",
+      "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
       "legacy_versions": [
         "2.5.0.8"
       ],
-      "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
-      "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
-      "readonly_recovery": true,
-      "version": "5.0.2.0",
-      "lunch": "cyanogen_droid2-eng",
-      "name": "Motorola Droid 2",
-      "init": "init.mapphone_cdma.rc",
       "key": "droid2"
     },
     {
+      "init": "init.qcom.rc",
+      "version": "2.5.1.3",
+      "name": "Geeksphone ONE",
+      "alternate_recovery": {
+        "name": "ONE Recovery v1.6",
+        "url": "http://dl.dropbox.com/u/10355648/recovery-ONE-1_6.img",
+        "clockwork": false
+      },
       "legacy_versions": [
         "2.5.1.4",
         "2.5.1.3",
         "2.5.1.1",
         "2.5.1.0"
       ],
-      "version": "2.5.1.3",
-      "alternate_recovery": {
-        "clockwork": false,
-        "url": "http://dl.dropbox.com/u/10355648/recovery-ONE-1_6.img",
-        "name": "ONE Recovery v1.6"
-      },
-      "name": "Geeksphone ONE",
-      "init": "init.qcom.rc",
       "key": "one"
     },
     {
+      "init": "init_recovery.rc",
+      "version": "3.0.2.7",
+      "flash_recovery": "/data/data/com.koushikdutta.rommanager/files/tegra_flash_image recovery %s ; ",
+      "name": "Advent Vega",
+      "reboot_recovery": "echo start > /proc/ota ; ",
       "legacy_versions": [
         "2.5.1.4",
         "2.5.1.3",
@@ -592,57 +578,57 @@
         "2.5.1.0",
         "2.5.1.4"
       ],
-      "flash_recovery": "/data/data/com.koushikdutta.rommanager/files/tegra_flash_image recovery %s ; ",
-      "reboot_recovery": "echo start > /proc/ota ; ",
-      "version": "3.0.2.7",
-      "name": "Advent Vega",
-      "init": "init_recovery.rc",
       "key": "vega"
     },
     {
+      "readonly_recovery": true,
+      "init": "init.smdkc110.rc",
+      "version": "2.5.1.8",
+      "name": "Samsung Galaxy Tab - ATT",
       "legacy_versions": [
         "2.5.1.8",
         "2.5.1.4",
         "2.5.1.3",
         "2.5.1.1"
       ],
-      "readonly_recovery": true,
-      "version": "2.5.1.8",
-      "name": "Samsung Galaxy Tab - ATT",
-      "init": "init.smdkc110.rc",
       "key": "att_tab"
     },
     {
+      "readonly_recovery": true,
+      "init": "init.smdkc110.rc",
+      "version": "2.5.1.8",
+      "name": "Samsung Galaxy Tab (T-Mobile)",
       "legacy_versions": [
         "2.5.1.8",
         "2.5.1.4",
         "2.5.1.3",
         "2.5.1.1"
       ],
-      "readonly_recovery": true,
-      "version": "2.5.1.8",
-      "name": "Samsung Galaxy Tab (T-Mobile)",
-      "init": "init.smdkc110.rc",
       "key": "tmobile_tab"
     },
     {
+      "init": "init.qcom.rc",
+      "version": "2.5.1.2",
+      "name": "Commtiva Link N700, Spice MI700, and more",
+      "alternate_recovery": {
+        "name": "MI700 Recovery v1.6",
+        "url": "http://dl.dropbox.com/u/15816725/MI700-recovery-V1_3.img",
+        "clockwork": false
+      },
       "legacy_versions": [
         "2.5.1.4",
         "2.5.1.3",
         "2.5.1.1",
         "2.5.1.0"
       ],
-      "version": "2.5.1.2",
-      "alternate_recovery": {
-        "clockwork": false,
-        "url": "http://dl.dropbox.com/u/15816725/MI700-recovery-V1_3.img",
-        "name": "MI700 Recovery v1.6"
-      },
-      "name": "Commtiva Link N700, Spice MI700, and more",
-      "init": "init.qcom.rc",
       "key": "FM6"
     },
     {
+      "init": "init.herring.rc",
+      "touch_version": "6.0.3.3",
+      "lunch": "cm_crespo-userdebug",
+      "version": "6.0.3.3",
+      "name": "Google Nexus S",
       "legacy_versions": [
         "3.0.2.4",
         "3.0.0.5",
@@ -662,34 +648,33 @@
         "6.0.2.5",
         "6.0.3.1"
       ],
-      "version": "6.0.3.3",
-      "lunch": "cm_crespo-userdebug",
-      "name": "Google Nexus S",
-      "touch_version": "6.0.3.3",
-      "init": "init.herring.rc",
       "key": "crespo"
     },
     {
+      "readonly_recovery": true,
+      "init": "init. mapphone_cdma.rc",
+      "version": "2.5.0.8",
+      "name": "Motorola Droid Pro",
       "legacy_versions": [
         "2.5.0.8"
       ],
-      "readonly_recovery": true,
-      "version": "2.5.0.8",
-      "name": "Motorola Droid Pro",
-      "init": "init. mapphone_cdma.rc",
       "key": "droidpro"
     },
     {
+      "init": "init.qcom.rc",
+      "version": "3.0.0.5",
+      "name": "Huawei Ascend",
       "legacy_versions": [
         "3.0.0.5",
         "3.0.0.4"
       ],
-      "version": "3.0.0.5",
-      "name": "Huawei Ascend",
-      "init": "init.qcom.rc",
       "key": "ascend"
     },
     {
+      "init": "init.blade.rc",
+      "lunch": "cyanogen_blade-eng",
+      "version": "5.0.2.0",
+      "name": "ZTE Blade",
       "legacy_versions": [
         "3.0.1.4",
         "3.0.0.6",
@@ -700,13 +685,19 @@
         "5.0.0.8",
         "5.0.1.0"
       ],
-      "version": "5.0.2.0",
-      "lunch": "cyanogen_blade-eng",
-      "name": "ZTE Blade",
-      "init": "init.blade.rc",
       "key": "blade"
     },
     {
+      "init": "env.txt",
+      "lunch": "cm_encore-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "busybox mount -orw,remount / ; mkdir /boot ; busybox mount /dev/block/mmcblk0p1 /boot ; busybox unzip -p %1$s ramdisk-recovery.ub > /boot/uRecRam ; busybox unzip -p %1$s kernel > /boot/uRecImg ; busybox umount /boot ; rmdir /boot; busybox mount -oro,remount / ; ",
+      "name": "Nook Color",
+      "inits": [
+        "env.txt",
+        "init.encore.rc"
+      ],
+      "reboot_recovery": "dd if=/dev/zero of=/rom/bcb bs=64 count=1 ; echo 'recovery' >> /rom/bcb ; reboot ;",
       "legacy_versions": [
         "3.0.1.0",
         "3.0.0.9",
@@ -720,19 +711,13 @@
         "3.2.0.1",
         "3.2.0.1"
       ],
-      "flash_recovery": "busybox mount -orw,remount / ; mkdir /boot ; busybox mount /dev/block/mmcblk0p1 /boot ; busybox unzip -p %1$s ramdisk-recovery.ub > /boot/uRecRam ; busybox unzip -p %1$s kernel > /boot/uRecImg ; busybox umount /boot ; rmdir /boot; busybox mount -oro,remount / ; ",
-      "reboot_recovery": "dd if=/dev/zero of=/rom/bcb bs=64 count=1 ; echo 'recovery' >> /rom/bcb ; reboot ;",
-      "version": "6.0.3.1",
-      "lunch": "cm_encore-userdebug",
-      "name": "Nook Color",
-      "inits": [
-        "env.txt",
-        "init.encore.rc"
-      ],
-      "init": "env.txt",
       "key": "encore"
     },
     {
+      "init": "init.bahamas.rc",
+      "lunch": "cyanogen_click-eng",
+      "version": "5.0.2.0",
+      "name": "HTC Click/Tattoo",
       "legacy_versions": [
         "3.0.0.6",
         "3.0.0.6",
@@ -740,32 +725,33 @@
         "5.0.0.8",
         "5.0.1.0"
       ],
-      "version": "5.0.2.0",
-      "lunch": "cyanogen_click-eng",
-      "name": "HTC Click/Tattoo",
-      "init": "init.bahamas.rc",
       "key": "click"
     },
     {
+      "readonly_recovery": true,
+      "init": "init_recovery.rc",
+      "version": "3.0.0.8",
+      "name": "Elocity A7",
       "legacy_versions": [
         "3.0.0.8"
       ],
-      "readonly_recovery": true,
-      "version": "3.0.0.8",
-      "name": "Elocity A7",
-      "init": "init_recovery.rc",
       "key": "a7"
     },
     {
+      "init": "init.zero.rc",
+      "version": "3.0.1.3",
+      "name": "Geeksphone Zero",
       "legacy_versions": [
         "3.0.1.3"
       ],
-      "version": "3.0.1.3",
-      "name": "Geeksphone Zero",
-      "init": "init.zero.rc",
       "key": "zero"
     },
     {
+      "init": "init.speedy.rc",
+      "touch_version": "5.8.1.6",
+      "lunch": "cyanogen_speedy-eng",
+      "version": "5.0.2.0",
+      "name": "HTC Evo Shift",
       "legacy_versions": [
         "3.0.1.4",
         "3.0.1.3",
@@ -775,108 +761,113 @@
         "3.0.2.8",
         "3.2.0.1"
       ],
-      "version": "5.0.2.0",
-      "lunch": "cyanogen_speedy-eng",
-      "name": "HTC Evo Shift",
-      "touch_version": "5.8.1.6",
-      "init": "init.speedy.rc",
       "key": "speedy"
     },
     {
+      "officially_supported": false,
+      "init": "init.aries.rc",
+      "name": "Samsung Captivate (MTD)",
+      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "legacy_versions": [
 
       ],
-      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
-      "officially_supported": false,
-      "name": "Samsung Captivate (MTD)",
-      "init": "init.aries.rc",
       "key": "captivatemtd"
     },
     {
+      "officially_supported": false,
+      "init": "init.aries.rc",
+      "name": "Samsung Showcase (MTD)",
+      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "legacy_versions": [
 
       ],
-      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
-      "officially_supported": false,
-      "name": "Samsung Showcase (MTD)",
-      "init": "init.aries.rc",
       "key": "showcasemtd"
     },
     {
+      "officially_supported": false,
+      "init": "init.aries.rc",
+      "name": "Samsung Mesmerize (MTD)",
+      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "legacy_versions": [
 
       ],
-      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
-      "officially_supported": false,
-      "name": "Samsung Mesmerize (MTD)",
-      "init": "init.aries.rc",
       "key": "mesmerizemtd"
     },
     {
+      "officially_supported": false,
+      "init": "init.aries.rc",
+      "name": "Samsung Fascinate (MTD)",
+      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "legacy_versions": [
 
       ],
-      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
-      "officially_supported": false,
-      "name": "Samsung Fascinate (MTD)",
-      "init": "init.aries.rc",
       "key": "fascinatemtd"
     },
     {
+      "officially_supported": false,
+      "init": "init.aries.rc",
+      "name": "Samsung Vibrant (MTD)",
+      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "legacy_versions": [
 
       ],
-      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
-      "officially_supported": false,
-      "name": "Samsung Vibrant (MTD)",
-      "init": "init.aries.rc",
       "key": "vibrantmtd"
     },
     {
+      "officially_supported": false,
+      "init": "init.aries.rc",
+      "name": "Samsung GalaxyS i9000B (MTD)",
+      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "legacy_versions": [
 
       ],
-      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
-      "officially_supported": false,
-      "name": "Samsung GalaxyS i9000B (MTD)",
-      "init": "init.aries.rc",
       "key": "galaxysbmtd"
     },
     {
+      "officially_supported": false,
+      "init": "init.aries.rc",
+      "name": "Samsung GalaxyS i9000 (MTD)",
+      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "legacy_versions": [
 
       ],
-      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
-      "officially_supported": false,
-      "name": "Samsung GalaxyS i9000 (MTD)",
-      "init": "init.aries.rc",
       "key": "galaxysmtd"
     },
     {
+      "readonly_recovery": true,
+      "init": "lpm.rc",
+      "lunch": "full_epic4g-eng",
+      "version": "5.0.2.7",
+      "name": "Samsung Epic4G",
       "legacy_versions": [
 
       ],
-      "readonly_recovery": true,
-      "version": "5.0.2.7",
-      "lunch": "full_epic4g-eng",
-      "name": "Samsung Epic4G",
-      "init": "lpm.rc",
       "key": "epic4g"
     },
     {
+      "init": "init.tinyandroid.rc",
+      "version": "3.0.2.0",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk3p1 ; ",
+      "name": "Dell Streak 7",
       "legacy_versions": [
         "3.0.2.0",
         "3.0.1.9",
         "3.0.1.8",
         "3.0.1.7"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk3p1 ; ",
-      "version": "3.0.2.0",
-      "name": "Dell Streak 7",
-      "init": "init.tinyandroid.rc",
       "key": "streak7"
     },
     {
+      "init": "init.mecha.rc",
+      "touch_version": "5.8.0.2",
+      "lunch": "cyanogen_mecha-eng",
+      "version": "5.0.2.1",
+      "name": "HTC Thunderbolt",
+      "alternate_recovery": {
+        "name": "RA_GNM Recovery v3.05",
+        "url": "http://dl.dropbox.com/u/12949506/RomManager/recovery-ra-mecha-3.05.img",
+        "clockwork": false
+      },
       "legacy_versions": [
         "3.0.2.5",
         "3.0.2.4",
@@ -891,28 +882,24 @@
         "5.0.1.0",
         "5.0.2.0"
       ],
-      "version": "5.0.2.1",
-      "alternate_recovery": {
-        "clockwork": false,
-        "url": "http://dl.dropbox.com/u/12949506/RomManager/recovery-ra-mecha-3.05.img",
-        "name": "RA_GNM Recovery v3.05"
-      },
-      "lunch": "cyanogen_mecha-eng",
-      "name": "HTC Thunderbolt",
-      "touch_version": "5.8.0.2",
-      "init": "init.mecha.rc",
       "key": "mecha"
     },
     {
+      "init": "init.ideos.rc",
+      "version": "3.0.2.4",
+      "name": "Huawei U8150 Ideos",
       "legacy_versions": [
         "3.0.2.4"
       ],
-      "version": "3.0.2.4",
-      "name": "Huawei U8150 Ideos",
-      "init": "init.ideos.rc",
       "key": "ideos"
     },
     {
+      "init": "init.stingray.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_stingray-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-name/recovery ; ",
+      "name": "Motorola XOOM",
       "legacy_versions": [
         "3.0.2.5",
         "3.0.2.5",
@@ -926,26 +913,24 @@
         "4.0.0.4",
         "6.0.2.9"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-name/recovery ; ",
-      "version": "6.0.3.1",
-      "lunch": "cm_stingray-userdebug",
-      "name": "Motorola XOOM",
-      "touch_version": "6.0.3.1",
-      "init": "init.stingray.rc",
       "key": "stingray"
     },
     {
+      "init": "init.leo.rc",
+      "version": "3.1.0.0",
+      "name": "HTC HD2",
       "legacy_versions": [
         "3.0.2.5",
         "3.0.2.4",
         "3.0.2.5"
       ],
-      "version": "3.1.0.0",
-      "name": "HTC HD2",
-      "init": "init.leo.rc",
       "key": "leo"
     },
     {
+      "init": "init.zeppelin.rc",
+      "lunch": "cyanogen_zeppelin-eng",
+      "version": "5.0.2.0",
+      "name": "Motorola CLIQ XT/Quench (MB501)",
       "legacy_versions": [
         "3.0.2.4",
         "3.0.2.4",
@@ -954,26 +939,28 @@
         "5.0.1.0",
         "5.0.1.0"
       ],
-      "version": "5.0.2.0",
-      "lunch": "cyanogen_zeppelin-eng",
-      "name": "Motorola CLIQ XT/Quench (MB501)",
-      "init": "init.zeppelin.rc",
       "key": "zeppelin"
     },
     {
+      "init": "init.saga.rc",
+      "touch_version": "5.8.1.5",
+      "lunch": "full_saga-eng",
+      "version": "5.0.2.0",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 ; ",
+      "name": "HTC Desire S",
       "legacy_versions": [
         "3.0.2.6",
         "5.0.1.9"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 ; ",
-      "version": "5.0.2.0",
-      "lunch": "full_saga-eng",
-      "name": "HTC Desire S",
-      "touch_version": "5.8.1.5",
-      "init": "init.saga.rc",
       "key": "saga"
     },
     {
+      "readonly_recovery": true,
+      "init": "init_recovery.rc",
+      "lunch": "cyanogen_p999-eng",
+      "version": "5.0.2.0",
+      "name": "LG G2X (T-Mobile)",
+      "reboot_recovery": "echo 'boot-recovery' | dd of=/dev/block/mmcblk0p3 seek=6144 bs=1 ; reboot ; ",
       "legacy_versions": [
         "3.0.2.7",
         "5.0.0.8",
@@ -981,15 +968,19 @@
         "5.0.1.4",
         "5.0.1.6"
       ],
-      "reboot_recovery": "echo 'boot-recovery' | dd of=/dev/block/mmcblk0p3 seek=6144 bs=1 ; reboot ; ",
-      "readonly_recovery": true,
-      "version": "5.0.2.0",
-      "lunch": "cyanogen_p999-eng",
-      "name": "LG G2X (T-Mobile)",
-      "init": "init_recovery.rc",
       "key": "p999"
     },
     {
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_p990-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p7 ; ",
+      "name": "LG Optimus 2X",
+      "inits": [
+        "init_recovery.rc",
+        "/bootimages/opening_01.rle"
+      ],
+      "reboot_recovery": "echo 'boot-recovery' | dd of=/dev/block/mmcblk0p3 seek=6144 bs=1 ; reboot ; ",
       "legacy_versions": [
         "3.0.2.7",
         "3.0.2.7",
@@ -1002,19 +993,14 @@
         "5.0.2.0",
         "6.0.1.5"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p7 ; ",
-      "reboot_recovery": "echo 'boot-recovery' | dd of=/dev/block/mmcblk0p3 seek=6144 bs=1 ; reboot ; ",
-      "version": "6.0.3.1",
-      "lunch": "cm_p990-userdebug",
-      "name": "LG Optimus 2X",
-      "inits": [
-        "init_recovery.rc",
-        "/bootimages/opening_01.rle"
-      ],
-      "touch_version": "6.0.3.1",
       "key": "p990"
     },
     {
+      "init": "init.herring.rc",
+      "touch_version": "6.0.3.3",
+      "lunch": "cm_crespo4g-userdebug",
+      "version": "6.0.3.3",
+      "name": "Google Nexus S 4G",
       "legacy_versions": [
         "3.1.0.0",
         "3.1.0.0",
@@ -1029,139 +1015,139 @@
         "6.0.2.5",
         "6.0.3.1"
       ],
-      "version": "6.0.3.3",
-      "lunch": "cm_crespo4g-userdebug",
-      "name": "Google Nexus S 4G",
-      "touch_version": "6.0.3.3",
-      "init": "init.herring.rc",
       "key": "crespo4g"
     },
     {
+      "init": "init.thunderg.rc",
+      "lunch": "full_thunderg-eng",
+      "version": "5.0.2.0",
+      "name": "LG Optimus One (old BB)",
+      "alternate_recovery": {
+        "name": "RA_GNM Recovery v2.2.1",
+        "url": "http://dl.dropbox.com/u/12949506/RomManager/recovery-RA-thunderg-2.2.1-GNM.img",
+        "clockwork": false
+      },
       "legacy_versions": [
         "3.1.0.0",
         "5.0.0.8",
         "5.0.1.0"
       ],
-      "version": "5.0.2.0",
-      "alternate_recovery": {
-        "clockwork": false,
-        "url": "http://dl.dropbox.com/u/12949506/RomManager/recovery-RA-thunderg-2.2.1-GNM.img",
-        "name": "RA_GNM Recovery v2.2.1"
-      },
-      "lunch": "full_thunderg-eng",
-      "name": "LG Optimus One (old BB)",
-      "init": "init.thunderg.rc",
       "key": "thunderg"
     },
     {
+      "init": "init.thunderg.rc",
+      "lunch": "cyanogen_p500-eng",
+      "version": "5.0.2.7",
+      "name": "LG Optimus One",
       "legacy_versions": [
         "5.0.2.0"
       ],
-      "version": "5.0.2.7",
-      "lunch": "cyanogen_p500-eng",
-      "name": "LG Optimus One",
-      "init": "init.thunderg.rc",
       "key": "p500"
     },
     {
+      "init": "init.qcom.rc",
+      "version": "3.1.0.1",
+      "name": "Huawei U8220/U8230",
       "legacy_versions": [
 
       ],
-      "version": "3.1.0.1",
-      "name": "Huawei U8220/U8230",
-      "init": "init.qcom.rc",
       "key": "u8220"
     },
     {
+      "readonly_recovery": true,
+      "init": "init.smdkc110.rc",
+      "version": "3.1.0.1",
+      "name": "Samsung Charge",
       "legacy_versions": [
 
       ],
-      "readonly_recovery": true,
-      "version": "3.1.0.1",
-      "name": "Samsung Charge",
-      "init": "init.smdkc110.rc",
       "key": "charge"
     },
     {
+      "officially_supported": false,
+      "init": "init.mapphone_umts.rc",
+      "name": "Motorola Defy",
       "legacy_versions": [
 
       ],
-      "officially_supported": false,
-      "name": "Motorola Defy",
-      "init": "init.mapphone_umts.rc",
       "key": "umts_jordan"
     },
     {
+      "readonly_recovery": true,
+      "init": "init.smdkc110.rc",
+      "version": "3.2.0.0",
+      "name": "Samsung Galaxy S 4G",
       "legacy_versions": [
         "3.2.0.0"
       ],
-      "readonly_recovery": true,
-      "version": "3.2.0.0",
-      "name": "Samsung Galaxy S 4G",
-      "init": "init.smdkc110.rc",
       "key": "galaxys4g"
     },
     {
-      "legacy_versions": [
-        "4.0.1.4",
-        "v4.0.1.4"
-      ],
       "ro.product.device": [
         "i9100",
         "galaxys2"
       ],
       "readonly_recovery": true,
+      "init": "init.smdkc210.rc",
+      "touch_version": "5.8.1.5",
       "version": "4.0.1.5",
       "name": "Samsung Galaxy S2",
       "inits": [
         "init.smdkc210.rc",
         "init.smdk4210.rc"
       ],
-      "touch_version": "5.8.1.5",
-      "init": "init.smdkc210.rc",
+      "legacy_versions": [
+        "4.0.1.4",
+        "v4.0.1.4"
+      ],
       "key": "galaxys2"
     },
     {
-      "legacy_versions": [
-
-      ],
       "ro.product.device": [
         "i9100",
         "galaxys2"
       ],
-      "version": "6.0.1.0",
       "officially_supported": false,
+      "init": "init.smdk4210.rc",
       "lunch": "cm_i9100-userdebug",
+      "version": "6.0.1.0",
       "name": "Samsung Galaxy S2",
       "inits": [
         "init.smdkc210.rc",
         "init.smdk4210.rc"
       ],
-      "init": "init.smdk4210.rc",
-      "key": "i9100"
-    },
-    {
-      "legacy_versions": [
-        "6.0.1.0"
-      ],
-      "readonly_recovery": true,
-      "version": "6.0.1.2",
-      "lunch": "cm_n7000-userdebug",
-      "name": "Samsung Galaxy Note (GT-N7000)",
-      "init": "init.smdk4210.rc",
-      "key": "n7000"
-    },
-    {
       "legacy_versions": [
 
       ],
+      "key": "i9100"
+    },
+    {
       "readonly_recovery": true,
+      "init": "init.smdk4210.rc",
+      "lunch": "cm_n7000-userdebug",
+      "version": "6.0.1.2",
+      "name": "Samsung Galaxy Note (GT-N7000)",
+      "legacy_versions": [
+        "6.0.1.0"
+      ],
+      "key": "n7000"
+    },
+    {
+      "readonly_recovery": true,
+      "init": "init.smdkc110.rc",
       "version": "4.0.0.2",
       "name": "Samsung Sidekick 4G",
-      "init": "init.smdkc110.rc",
+      "legacy_versions": [
+
+      ],
       "key": "sidekick4g"
     },
     {
+      "init": "init.vivo.rc",
+      "lunch": "cyanogen_vivo-eng",
+      "version": "5.0.2.0",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 ; ",
+      "name": "HTC Incredible S",
       "legacy_versions": [
         "4.0.0.4",
         "4.0.0.6",
@@ -1169,14 +1155,19 @@
         "4.0.0.8",
         "5.0.1.9"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 ; ",
-      "version": "5.0.2.0",
-      "lunch": "cyanogen_vivo-eng",
-      "name": "HTC Incredible S",
-      "init": "init.vivo.rc",
       "key": "vivo"
     },
     {
+      "init": "init.vivow.rc",
+      "lunch": "cyanogen_vivow-eng",
+      "version": "5.0.2.0",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 ; ",
+      "name": "HTC Incredible 2",
+      "alternate_recovery": {
+        "name": "RA_GNM Recovery v3.05",
+        "url": "http://dl.dropbox.com/u/12949506/RomManager/recovery-ra-vivow-3.05.img",
+        "clockwork": false
+      },
       "legacy_versions": [
         "4.0.0.4",
         "4.0.0.6",
@@ -1184,19 +1175,19 @@
         "4.0.0.8",
         "5.0.1.9"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 ; ",
-      "version": "5.0.2.0",
-      "alternate_recovery": {
-        "clockwork": false,
-        "url": "http://dl.dropbox.com/u/12949506/RomManager/recovery-ra-vivow-3.05.img",
-        "name": "RA_GNM Recovery v3.05"
-      },
-      "lunch": "cyanogen_vivow-eng",
-      "name": "HTC Incredible 2",
-      "init": "init.vivow.rc",
       "key": "vivow"
     },
     {
+      "touch_version": "6.0.1.9",
+      "lunch": "cm_p920-userdebug",
+      "version": "6.0.1.9",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 ; ",
+      "name": "LG Optimus 3D",
+      "inits": [
+        "init.p920.rc",
+        "/bootimages/opening_01.rle"
+      ],
+      "reboot_recovery": "echo '518 R 1' > /sys/kernel/kobject_lge_nvdata/dynamic_nvdata_raw_write ; reboot ; ",
       "legacy_versions": [
         "4.0.0.7",
         "4.0.0.9",
@@ -1204,29 +1195,29 @@
         "5.0.2.0",
         "5.0.2.7"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 ; ",
-      "reboot_recovery": "echo '518 R 1' > /sys/kernel/kobject_lge_nvdata/dynamic_nvdata_raw_write ; reboot ; ",
-      "version": "6.0.1.9",
-      "lunch": "cm_p920-userdebug",
-      "name": "LG Optimus 3D",
-      "inits": [
-        "init.p920.rc",
-        "/bootimages/opening_01.rle"
-      ],
-      "touch_version": "6.0.1.9",
       "key": "p920"
     },
     {
+      "init": "init.galaxyace.rc",
+      "version": "4.0.0.9",
+      "flash_recovery": "/data/data/com.koushikdutta.rommanager/files/flash_image recoveryonly %s ; ",
+      "name": "Samsung Galaxy Ace",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "/data/data/com.koushikdutta.rommanager/files/flash_image recoveryonly %s ; ",
-      "version": "4.0.0.9",
-      "name": "Samsung Galaxy Ace",
-      "init": "init.galaxyace.rc",
       "key": "galaxyace"
     },
     {
+      "init": "init_prep_keypad.sh",
+      "touch_version": "5.8.1.8",
+      "lunch": "generic_olympus-eng",
+      "version": "5.0.2.0",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p10 ; ",
+      "name": "Motorola Atrix 4G",
+      "inits": [
+        "init_prep_keypad.sh",
+        "init.olympus.rc"
+      ],
       "legacy_versions": [
         "4.0.1.0",
         "4.0.1.1",
@@ -1242,43 +1233,39 @@
         "5.0.0.7",
         "5.0.1.0"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p10 ; ",
-      "version": "5.0.2.0",
-      "lunch": "generic_olympus-eng",
-      "name": "Motorola Atrix 4G",
-      "inits": [
-        "init_prep_keypad.sh",
-        "init.olympus.rc"
-      ],
-      "touch_version": "5.8.1.8",
-      "init": "init_prep_keypad.sh",
       "key": "olympus"
     },
     {
+      "init": "init_recovery.rc",
+      "version": "4.0.1.5",
+      "flash_recovery": "/data/data/com.koushikdutta.rommanager/files/tegra_flash_image recovery %s ; ",
+      "name": "Viewsonic GTablet (smb_a1002)",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "/data/data/com.koushikdutta.rommanager/files/tegra_flash_image recovery %s ; ",
-      "version": "4.0.1.5",
-      "name": "Viewsonic GTablet (smb_a1002)",
-      "init": "init_recovery.rc",
       "key": "smb_a1002"
     },
     {
+      "init": "init.shooter.rc",
+      "touch_version": "5.8.0.2",
+      "lunch": "htc_shooter-eng",
+      "version": "5.0.2.0",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 ; ",
+      "name": "HTC EVO 3D",
       "legacy_versions": [
         "4.0.1.5",
         "5.0.0.0",
         "5.0.1.0"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 ; ",
-      "version": "5.0.2.0",
-      "lunch": "htc_shooter-eng",
-      "name": "HTC EVO 3D",
-      "touch_version": "5.8.0.2",
-      "init": "init.shooter.rc",
       "key": "shooter"
     },
     {
+      "init": "init.pyramid.rc",
+      "touch_version": "5.8.0.9",
+      "lunch": "full_pyramid-eng",
+      "version": "5.0.2.0",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 ; ",
+      "name": "HTC Sensation",
       "legacy_versions": [
         "4.0.1.5",
         "5.0.0.1",
@@ -1286,67 +1273,67 @@
         "5.0.0.8",
         "5.0.1.0"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 ; ",
-      "version": "5.0.2.0",
-      "lunch": "full_pyramid-eng",
-      "name": "HTC Sensation",
-      "touch_version": "5.8.0.9",
-      "init": "init.pyramid.rc",
       "key": "pyramid"
     },
     {
-      "legacy_versions": [
-
-      ],
+      "init": "init.qcom.rc",
       "version": "4.0.1.5",
       "name": "Huawei Ascend 2 (M865)",
       "inits": [
         "init.qcom.rc",
         "init.huawei.rc"
       ],
-      "init": "init.qcom.rc",
+      "legacy_versions": [
+
+      ],
       "key": "ascend2"
     },
     {
+      "init": "init.qcom.rc",
+      "version": "4.0.1.5",
+      "name": "Micromax A70",
       "legacy_versions": [
 
       ],
-      "version": "4.0.1.5",
-      "name": "Micromax A70",
-      "init": "init.qcom.rc",
       "key": "a70"
     },
     {
+      "readonly_recovery": true,
+      "init": "init.galaxygio.rc",
+      "version": "4.0.1.5",
+      "name": "Samsung Galaxy Gio",
       "legacy_versions": [
 
       ],
-      "readonly_recovery": true,
-      "version": "4.0.1.5",
-      "name": "Samsung Galaxy Gio",
-      "init": "init.galaxygio.rc",
       "key": "galaxygio"
     },
     {
+      "readonly_recovery": true,
+      "init": "init.smdkc110.rc",
+      "version": "4.0.1.5",
+      "name": "Samsung Indulge 910",
       "legacy_versions": [
 
       ],
-      "readonly_recovery": true,
-      "version": "4.0.1.5",
-      "name": "Samsung Indulge 910",
-      "init": "init.smdkc110.rc",
       "key": "indulge910"
     },
     {
+      "readonly_recovery": true,
+      "init": "init.smdkc110.rc",
+      "version": "4.0.1.5",
+      "name": "Samsung Indulge 915",
       "legacy_versions": [
 
       ],
-      "readonly_recovery": true,
-      "version": "4.0.1.5",
-      "name": "Samsung Indulge 915",
-      "init": "init.smdkc110.rc",
       "key": "indulge915"
     },
     {
+      "init": "/bootimages/ON_480x800_08fps_0000.rle",
+      "touch_version": "6.0.1.4",
+      "lunch": "cm_p970-userdebug",
+      "version": "6.0.1.4",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p4 ; ",
+      "name": "LG Optimus Black",
       "legacy_versions": [
         "5.0.0.0",
         "5.0.0.1",
@@ -1359,132 +1346,132 @@
         "5.0.2.0",
         "5.0.2.6"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p4 ; ",
-      "version": "6.0.1.4",
-      "lunch": "cm_p970-userdebug",
-      "name": "LG Optimus Black",
-      "touch_version": "6.0.1.4",
-      "init": "/bootimages/ON_480x800_08fps_0000.rle",
       "key": "p970"
     },
     {
+      "init": "init.shooteru.rc",
+      "touch_version": "5.8.0.2",
+      "lunch": "full_shooteru-eng",
+      "version": "5.0.2.0",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 ; ",
+      "name": "HTC EVO 3D (GSM)",
       "legacy_versions": [
         "5.0.1.6",
         "5.0.1.7",
         "5.0.1.8",
         "5.0.1.9"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 ; ",
-      "version": "5.0.2.0",
-      "lunch": "full_shooteru-eng",
-      "name": "HTC EVO 3D (GSM)",
-      "touch_version": "5.8.0.2",
-      "init": "init.shooteru.rc",
       "key": "shooteru"
     },
     {
+      "readonly_recovery": true,
+      "init": "init.mapphone_cdma.rc",
+      "lunch": "cyanogen_droid2we-eng",
+      "version": "5.0.2.3",
+      "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
+      "name": "Motorola Droid 2 Global",
+      "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
-      "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
-      "readonly_recovery": true,
-      "version": "5.0.2.3",
-      "lunch": "cyanogen_droid2we-eng",
-      "name": "Motorola Droid 2 Global",
-      "init": "init.mapphone_cdma.rc",
       "key": "droid2we"
     },
     {
+      "readonly_recovery": true,
+      "init": "init.mapphone_cdma.rc",
+      "lunch": "generic_targa-eng",
+      "version": "5.0.2.5",
+      "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
+      "name": "Motorola Droid Bionic",
+      "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
       "legacy_versions": [
         "5.0.2.3",
         "5.0.2.4"
       ],
-      "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
-      "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
-      "readonly_recovery": true,
-      "version": "5.0.2.5",
-      "lunch": "generic_targa-eng",
-      "name": "Motorola Droid Bionic",
-      "init": "init.mapphone_cdma.rc",
       "key": "targa"
     },
     {
+      "readonly_recovery": true,
+      "init": "init.mapphone_cdma.rc",
+      "lunch": "generic_daytona-eng",
+      "version": "5.0.2.5",
+      "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
+      "name": "Motorola Droid X2",
+      "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
       "legacy_versions": [
         "5.0.2.3",
         "5.0.2.4"
       ],
-      "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
-      "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
-      "readonly_recovery": true,
-      "version": "5.0.2.5",
-      "lunch": "generic_daytona-eng",
-      "name": "Motorola Droid X2",
-      "init": "init.mapphone_cdma.rc",
       "key": "daytona"
     },
     {
+      "readonly_recovery": true,
+      "init": "init.mapphone_cdma.rc",
+      "lunch": "full_solana-eng",
+      "version": "5.0.2.6",
+      "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
+      "name": "Motorola Droid 3",
+      "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
       "legacy_versions": [
         "5.0.2.5"
       ],
-      "flash_recovery": "dd if=%s of=/preinstall/recovery/recovery.zip ; ",
-      "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
-      "readonly_recovery": true,
-      "version": "5.0.2.6",
-      "lunch": "full_solana-eng",
-      "name": "Motorola Droid 3",
-      "init": "init.mapphone_cdma.rc",
       "key": "solana"
     },
     {
+      "init": "init.motus.rc",
+      "lunch": "cyanogen_motus-eng",
+      "version": "5.0.2.6",
+      "name": "Motorola Backflip",
       "legacy_versions": [
 
       ],
-      "version": "5.0.2.6",
-      "lunch": "cyanogen_motus-eng",
-      "name": "Motorola Backflip",
-      "init": "init.motus.rc",
       "key": "motus"
     },
     {
+      "readonly_recovery": true,
+      "init": "init.gt-s5570.rc",
+      "lunch": "tass-eng",
+      "version": "5.0.2.6",
+      "name": "Samsung Galaxy Mini",
       "legacy_versions": [
 
       ],
-      "readonly_recovery": true,
-      "version": "5.0.2.6",
-      "lunch": "tass-eng",
-      "name": "Samsung Galaxy Mini",
-      "init": "init.gt-s5570.rc",
       "key": "tass"
     },
     {
+      "init": "init.u8800.rc",
+      "lunch": "huawei_u8800-eng",
+      "version": "5.0.2.6",
+      "flash_recovery": "mount -o remount,rw -t vfat /dev/block/mmcblk0p1 /cust_backup ; cat %s > /cust_backup/image/recovery.img ;",
+      "name": "Huawei U8800",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "mount -o remount,rw -t vfat /dev/block/mmcblk0p1 /cust_backup ; cat %s > /cust_backup/image/recovery.img ;",
-      "version": "5.0.2.6",
-      "lunch": "huawei_u8800-eng",
-      "name": "Huawei U8800",
-      "init": "init.u8800.rc",
       "key": "u8800"
     },
     {
-      "legacy_versions": [
-
-      ],
       "readonly_recovery": true,
-      "version": "5.0.2.6",
+      "init": "init.smdkc210.rc",
+      "touch_version": "5.8.1.5",
       "lunch": "cyanogen_galaxys2att-eng",
+      "version": "5.0.2.6",
       "name": "Samsung Galaxy S2 (AT&T)",
       "inits": [
         "init.smdkc210.rc",
         "init.smdk4210.rc"
       ],
-      "touch_version": "5.8.1.5",
-      "init": "init.smdkc210.rc",
+      "legacy_versions": [
+
+      ],
       "key": "galaxys2att"
     },
     {
+      "init": "init.target.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_hercules-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=4096 ; ",
+      "name": "Samsung Galaxy S2 (T-Mobile)",
       "legacy_versions": [
         "5.0.2.6",
         "5.0.2.7",
@@ -1496,88 +1483,88 @@
         "6.0.2.8",
         "6.0.2.9"
       ],
+      "key": "hercules",
       "owners": {
         "jmprblckwing182@gmail.com": true
-      },
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=4096 ; ",
-      "version": "6.0.3.1",
-      "lunch": "cm_hercules-userdebug",
-      "name": "Samsung Galaxy S2 (T-Mobile)",
-      "touch_version": "6.0.3.1",
-      "init": "init.target.rc",
-      "key": "hercules"
+      }
     },
     {
+      "readonly_recovery": true,
+      "init": "init.smdkc210.rc",
+      "touch_version": "5.8.1.5",
+      "lunch": "full_epic4gtouch-eng",
+      "version": "5.0.2.7",
+      "name": "Samsung Epic 4G Touch",
       "legacy_versions": [
         "5.0.2.6",
         "5.0.2.7"
       ],
-      "readonly_recovery": true,
-      "version": "5.0.2.7",
-      "lunch": "full_epic4gtouch-eng",
-      "name": "Samsung Epic 4G Touch",
-      "touch_version": "5.8.1.5",
-      "init": "init.smdkc210.rc",
       "key": "epic4gtouch"
     },
     {
+      "init": "init.ruby.rc",
+      "lunch": "full_ruby-eng",
+      "version": "5.0.2.6",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p23 bs=4096 ; ",
+      "name": "HTC Amaze",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p23 bs=4096 ; ",
-      "version": "5.0.2.6",
-      "lunch": "full_ruby-eng",
-      "name": "HTC Amaze",
-      "init": "init.ruby.rc",
       "key": "ruby"
     },
     {
+      "readonly_recovery": true,
+      "init": "init.gt-i5500.rc",
+      "lunch": "samsung_galaxy5-eng",
+      "version": "5.0.2.8",
+      "name": "Samsung Galaxy 5",
       "legacy_versions": [
         "5.0.2.8"
       ],
-      "readonly_recovery": true,
-      "version": "5.0.2.8",
-      "lunch": "samsung_galaxy5-eng",
-      "name": "Samsung Galaxy 5",
-      "init": "init.gt-i5500.rc",
       "key": "galaxy5"
     },
     {
+      "init": "init.mooncake.rc",
+      "lunch": "generic_mooncake-eng",
+      "version": "5.0.2.7",
+      "name": "ZTE Racer",
       "legacy_versions": [
 
       ],
-      "version": "5.0.2.7",
-      "lunch": "generic_mooncake-eng",
-      "name": "ZTE Racer",
-      "init": "init.mooncake.rc",
       "key": "mooncake"
     },
     {
+      "readonly_recovery": true,
+      "init": "init.smdkc110.rc",
+      "lunch": "full_vzwtab-eng",
+      "version": "5.0.2.7",
+      "name": "Samsung Galaxy Tab (VZW)",
       "legacy_versions": [
         "5.0.2.7",
         "5.0.2.7",
         "5.0.2.7"
       ],
-      "readonly_recovery": true,
-      "version": "5.0.2.7",
-      "lunch": "full_vzwtab-eng",
-      "name": "Samsung Galaxy Tab (VZW)",
-      "init": "init.smdkc110.rc",
       "key": "vzwtab"
     },
     {
+      "init": "init.doubleshot.rc",
+      "lunch": "full_doubleshot-eng",
+      "version": "5.0.2.7",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ; ",
+      "name": "HTC MyTouch 4G Slide",
       "legacy_versions": [
         "5.0.2.7",
         "5.0.2.7"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ; ",
-      "version": "5.0.2.7",
-      "lunch": "full_doubleshot-eng",
-      "name": "HTC MyTouch 4G Slide",
-      "init": "init.doubleshot.rc",
       "key": "doubleshot"
     },
     {
+      "init": "init.tuna.rc",
+      "touch_version": "6.0.3.3",
+      "lunch": "cm_maguro-userdebug",
+      "version": "6.0.3.4",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/omap/omap_hsmmc.0/by-name/recovery bs=4096 ;",
+      "name": "Google Galaxy Nexus (GSM)",
       "legacy_versions": [
         "5.5.0.0",
         "5.5.0.1",
@@ -1592,17 +1579,18 @@
         "6.0.1.0",
         "6.0.1.5",
         "6.0.2.3",
-        "6.0.3.1"
+        "6.0.3.1",
+        "6.0.3.3"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/platform/omap/omap_hsmmc.0/by-name/recovery bs=4096 ;",
-      "version": "6.0.3.3",
-      "lunch": "cm_maguro-userdebug",
-      "name": "Google Galaxy Nexus (GSM)",
-      "touch_version": "6.0.3.3",
-      "init": "init.tuna.rc",
       "key": "maguro"
     },
     {
+      "init": "init.tuna.rc",
+      "touch_version": "6.0.3.3",
+      "lunch": "cm_toro-userdebug",
+      "version": "6.0.3.3",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/omap/omap_hsmmc.0/by-name/recovery bs=4096 ;",
+      "name": "Google Galaxy Nexus (Verizon)",
       "legacy_versions": [
         "5.5.0.2",
         "5.5.0.3",
@@ -1619,124 +1607,124 @@
         "6.0.2.3",
         "6.0.3.1"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/platform/omap/omap_hsmmc.0/by-name/recovery bs=4096 ;",
-      "version": "6.0.3.3",
-      "lunch": "cm_toro-userdebug",
-      "name": "Google Galaxy Nexus (Verizon)",
-      "touch_version": "6.0.3.3",
-      "init": "init.tuna.rc",
       "key": "toro"
     },
     {
+      "init": "init.thunderc.rc",
+      "lunch": "full_lg690-eng",
+      "version": "5.0.2.7",
+      "name": "LG Optimus C LW690 and Optimus M MS690",
       "legacy_versions": [
 
       ],
-      "version": "5.0.2.7",
-      "lunch": "full_lg690-eng",
-      "name": "LG Optimus C LW690 and Optimus M MS690",
-      "init": "init.thunderc.rc",
       "key": "lg690"
     },
     {
+      "init": "init.muscat.rc",
+      "lunch": "c660-eng",
+      "version": "5.0.2.7",
+      "name": "LG Optimus Pro",
       "legacy_versions": [
 
       ],
-      "version": "5.0.2.7",
-      "lunch": "c660-eng",
-      "name": "LG Optimus Pro",
-      "init": "init.muscat.rc",
       "key": "c660"
     },
     {
+      "init": "init.univa.rc",
+      "lunch": "e510-eng",
+      "version": "5.0.2.7",
+      "name": "LG Optimus Hub",
       "legacy_versions": [
 
       ],
-      "version": "5.0.2.7",
-      "lunch": "e510-eng",
-      "name": "LG Optimus Hub",
-      "init": "init.univa.rc",
       "key": "e510"
     },
     {
+      "officially_supported": false,
+      "init": "init.victory.rc",
+      "touch_version": "5.8.1.5",
+      "lunch": "cyanogen_epicmtd-eng",
+      "version": "5.0.2.7",
+      "name": "Samsung Epic4G (MTD)",
+      "reboot_recovery": "/system/xbin/busybox devmem 0x57fff800 32 0x5EC0B007; sync ; reboot ;",
       "legacy_versions": [
 
       ],
-      "reboot_recovery": "/system/xbin/busybox devmem 0x57fff800 32 0x5EC0B007; sync ; reboot ;",
-      "version": "5.0.2.7",
-      "officially_supported": false,
-      "lunch": "cyanogen_epicmtd-eng",
-      "name": "Samsung Epic4G (MTD)",
-      "touch_version": "5.8.1.5",
-      "init": "init.victory.rc",
       "key": "epicmtd"
     },
     {
+      "init": "init.holiday.rc",
+      "lunch": "full_holiday-eng",
+      "version": "5.0.2.7",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p23 bs=4096 ; ",
+      "name": "HTC Holiday",
       "legacy_versions": [
         "5.0.2.7",
         "5.0.2.7",
         "5.0.2.7"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p23 bs=4096 ; ",
-      "version": "5.0.2.7",
-      "lunch": "full_holiday-eng",
-      "name": "HTC Holiday",
-      "init": "init.holiday.rc",
       "key": "holiday"
     },
     {
-      "legacy_versions": [
-
-      ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p17 bs=4096 ;",
-      "version": "5.0.2.7",
       "lunch": "e730-eng",
+      "version": "5.0.2.7",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p17 bs=4096 ;",
       "name": "LG Optimus SOL / TMo LG myTouch",
       "inits": [
         "init.victor.rc",
         "init.e739.rc"
       ],
+      "legacy_versions": [
+
+      ],
       "key": "e730"
     },
     {
+      "init": "init.marvel.rc",
+      "lunch": "generic_marvel-eng",
+      "version": "5.0.2.8",
+      "name": "HTC Wildfire S",
       "legacy_versions": [
         "5.0.2.7"
       ],
-      "version": "5.0.2.8",
-      "lunch": "generic_marvel-eng",
-      "name": "HTC Wildfire S",
-      "init": "init.marvel.rc",
       "key": "marvel"
     },
     {
-      "legacy_versions": [
-        "5.0.2.7"
-      ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p10 bs=4096 ;",
-      "version": "5.0.2.8",
+      "init": "init.mapphone_umts.rc",
       "lunch": "full_sunfire-eng",
+      "version": "5.0.2.8",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p10 bs=4096 ;",
       "name": "Motorola Photon 4G",
       "inits": [
         "init.mapphone_umts.rc",
         "init.mapphone_cdma.rc"
       ],
-      "init": "init.mapphone_umts.rc",
+      "legacy_versions": [
+        "5.0.2.7"
+      ],
       "key": "sunfire"
     },
     {
-      "legacy_versions": [
-        "5.0.2.8"
-      ],
-      "version": "5.0.2.8",
+      "init": "init.u8160.rc",
       "lunch": "huawei_u8160-eng",
+      "version": "5.0.2.8",
       "name": "Huawei U8160",
       "inits": [
         "init.huawei.rc",
         "init.u8160.rc"
       ],
-      "init": "init.u8160.rc",
+      "legacy_versions": [
+        "5.0.2.8"
+      ],
       "key": "u8160"
     },
     {
+      "init": "init.vigor.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_vigor-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p23 bs=4096 ;",
+      "name": "HTC Rezound",
       "legacy_versions": [
         "5.5.0.4",
         "5.5.0.5",
@@ -1748,71 +1736,71 @@
         "6.0.2.2",
         "6.0.2.3"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p23 bs=4096 ;",
-      "version": "6.0.3.1",
-      "lunch": "cm_vigor-userdebug",
-      "name": "HTC Rezound",
-      "touch_version": "6.0.3.1",
-      "init": "init.vigor.rc",
       "key": "vigor"
     },
     {
+      "init": "init.expresskt.rc",
+      "lunch": "full_express-userdebug",
+      "version": "5.8.1.5",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ;",
+      "name": "HTC EVO View 4G",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ;",
-      "version": "5.8.1.5",
-      "lunch": "full_express-userdebug",
-      "name": "HTC EVO View 4G",
-      "init": "init.expresskt.rc",
       "key": "express"
     },
     {
+      "init": "init.cardhu.rc",
+      "touch_version": "5.8.3.4",
+      "lunch": "cm_tf201-userdebug",
+      "version": "5.8.3.4",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p4 ;",
+      "name": "Asus Transformer Prime",
       "legacy_versions": [
         "5.5.0.4",
         "5.8.2.0"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p4 ;",
-      "version": "5.8.3.4",
-      "lunch": "cm_tf201-userdebug",
-      "name": "Asus Transformer Prime",
-      "touch_version": "5.8.3.4",
-      "init": "init.cardhu.rc",
       "key": "tf201"
     },
     {
+      "officially_supported": false,
+      "init": "init.mapphone_cdma.rc",
+      "version": "5.0.2.0",
+      "name": "Motorola Droid 4",
+      "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
       "legacy_versions": [
 
       ],
-      "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
-      "version": "5.0.2.0",
-      "officially_supported": false,
-      "name": "Motorola Droid 4",
-      "init": "init.mapphone_cdma.rc",
       "key": "maserati"
     },
     {
+      "officially_supported": false,
+      "init": "init.mapphone_cdma.rc",
+      "version": "5.0.2.0",
+      "name": "Motorola RAZR",
+      "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
       "legacy_versions": [
 
       ],
-      "reboot_recovery": "rm /cache/recovery/command ; echo 1 > /data/.recovery_mode ; sync ; reboot ;",
-      "version": "5.0.2.0",
-      "officially_supported": false,
-      "name": "Motorola RAZR",
-      "init": "init.mapphone_cdma.rc",
       "key": "spyder"
     },
     {
+      "init": "init.marvelc.rc",
+      "lunch": "full_marvelc-eng",
+      "version": "5.0.2.8",
+      "name": "HTC Wildfire S CDMA",
       "legacy_versions": [
 
       ],
-      "version": "5.0.2.8",
-      "lunch": "full_marvelc-eng",
-      "name": "HTC Wildfire S CDMA",
-      "init": "init.marvelc.rc",
       "key": "marvelc"
     },
     {
+      "init": "init.ventana.rc",
+      "touch_version": "5.8.3.4",
+      "lunch": "cm_tf101-userdebug",
+      "version": "6.0.1.3",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p4 ;",
+      "name": "Asus Transformer",
       "legacy_versions": [
         "5.5.0.4",
         "5.8.1.9",
@@ -1820,54 +1808,54 @@
         "5.8.2.1",
         "5.8.3.4"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p4 ;",
-      "version": "6.0.1.3",
-      "lunch": "cm_tf101-userdebug",
-      "name": "Asus Transformer",
-      "touch_version": "5.8.3.4",
-      "init": "init.ventana.rc",
       "key": "tf101"
     },
     {
+      "init": "bootimages/boot_logo_00000.rle",
+      "touch_version": "6.0.1.5",
+      "lunch": "cm_p930-userdebug",
+      "version": "6.0.1.5",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p13 ;",
+      "name": "LG Nitro HD / LG P930 (AT&T)",
       "legacy_versions": [
         "5.8.2.0",
         "6.0.1.4"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p13 ;",
-      "version": "6.0.1.5",
-      "lunch": "cm_p930-userdebug",
-      "name": "LG Nitro HD / LG P930 (AT&T)",
-      "touch_version": "6.0.1.5",
-      "init": "bootimages/boot_logo_00000.rle",
       "key": "p930"
     },
     {
-      "legacy_versions": [
-        "5.8.1.8"
-      ],
       "readonly_recovery": true,
-      "version": "6.0.1.0",
+      "init": "init.smdkc210.rc",
+      "touch_version": "6.0.1.0",
       "lunch": "cm_i777-userdebug",
+      "version": "6.0.1.0",
       "name": "Samsung Galaxy S2 (SGH-I777)",
       "inits": [
         "init.smdkc210.rc",
         "init.smdk4210.rc"
       ],
-      "touch_version": "6.0.1.0",
-      "init": "init.smdkc210.rc",
+      "legacy_versions": [
+        "5.8.1.8"
+      ],
       "key": "i777"
     },
     {
+      "init": "init.pico.rc",
+      "lunch": "full_pico-eng",
+      "version": "5.0.2.8",
+      "name": "HTC Pico",
       "legacy_versions": [
 
       ],
-      "version": "5.0.2.8",
-      "lunch": "full_pico-eng",
-      "name": "HTC Pico",
-      "init": "init.pico.rc",
       "key": "pico"
     },
     {
+      "init": "ueventd.endeavoru.rc",
+      "touch_version": "5.8.4.0",
+      "lunch": "cm_endeavoru-userdebug",
+      "version": "5.8.4.0",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p5 bs=4096 ;",
+      "name": "HTC One X (GSM)",
       "legacy_versions": [
         "5.8.2.6",
         "5.8.2.7",
@@ -1883,15 +1871,15 @@
         "5.8.3.8",
         "5.8.3.9"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p5 bs=4096 ;",
-      "version": "5.8.4.0",
-      "lunch": "cm_endeavoru-userdebug",
-      "name": "HTC One X (GSM)",
-      "touch_version": "5.8.4.0",
-      "init": "ueventd.endeavoru.rc",
       "key": "endeavoru"
     },
     {
+      "init": "init.ville.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_ville-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=4096 ;",
+      "name": "HTC One S",
       "legacy_versions": [
         "5.5.0.4",
         "5.8.2.1",
@@ -1900,37 +1888,37 @@
         "5.8.3.1",
         "6.0.2.9"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=4096 ;",
-      "version": "6.0.3.1",
-      "lunch": "cm_ville-userdebug",
-      "name": "HTC One S",
-      "touch_version": "6.0.3.1",
-      "init": "init.ville.rc",
       "key": "ville"
     },
     {
+      "officially_supported": false,
+      "init": "init.p1.rc",
+      "version": "5.8.2.1",
+      "name": "Samsung Galaxy Tab (MTD and GSM)",
+      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "legacy_versions": [
 
       ],
-      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
-      "version": "5.8.2.1",
-      "officially_supported": false,
-      "name": "Samsung Galaxy Tab (MTD and GSM)",
-      "init": "init.p1.rc",
       "key": "p1"
     },
     {
+      "officially_supported": false,
+      "init": "init.p1c.rc",
+      "version": "5.8.2.1",
+      "name": "Samsung Galaxy Tab (MTD and CDMA)",
+      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "legacy_versions": [
 
       ],
-      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
-      "version": "5.8.2.1",
-      "officially_supported": false,
-      "name": "Samsung Galaxy Tab (MTD and CDMA)",
-      "init": "init.p1c.rc",
       "key": "p1c"
     },
     {
+      "init": "init.tuna.rc",
+      "touch_version": "6.0.3.3",
+      "lunch": "cm_toroplus-userdebug",
+      "version": "6.0.3.3",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/omap/omap_hsmmc.0/by-name/recovery bs=4096 ;",
+      "name": "Google Galaxy Nexus (Sprint)",
       "legacy_versions": [
         "5.8.3.1",
         "6.0.0.0",
@@ -1944,102 +1932,106 @@
         "6.0.2.3",
         "6.0.3.1"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/platform/omap/omap_hsmmc.0/by-name/recovery bs=4096 ;",
-      "version": "6.0.3.3",
-      "lunch": "cm_toroplus-userdebug",
-      "name": "Google Galaxy Nexus (Sprint)",
-      "touch_version": "6.0.3.3",
-      "init": "init.tuna.rc",
       "key": "toroplus"
     },
     {
+      "init": "ueventd.p3.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_p4wifi-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p2 ; ",
+      "name": "Samsung Galaxy Tab 10.1 (Wifi)",
       "legacy_versions": [
         "4.0.0.4",
         "5.8.3.1",
         "6.0.2.9",
         "6.0.3.0"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p2 ; ",
-      "version": "6.0.3.1",
-      "lunch": "cm_p4wifi-userdebug",
-      "name": "Samsung Galaxy Tab 10.1 (Wifi)",
-      "touch_version": "6.0.3.1",
-      "init": "ueventd.p3.rc",
       "key": "p4wifi"
     },
     {
+      "init": "init.wingray.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_wingray-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-name/recovery ; ",
+      "name": "Motorola XOOM (Wi-Fi only)",
       "legacy_versions": [
         "5.8.3.1",
         "6.0.2.9"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-name/recovery ; ",
-      "version": "6.0.3.1",
-      "lunch": "cm_wingray-userdebug",
-      "name": "Motorola XOOM (Wi-Fi only)",
-      "touch_version": "6.0.3.1",
-      "init": "init.wingray.rc",
       "key": "wingray"
     },
     {
+      "init": "init.omap.post_boot.sh",
+      "lunch": "full_marquee-eng",
+      "version": "5.0.2.8",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p4 bs=4096 ; ",
+      "name": "LG Marquee",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p4 bs=4096 ; ",
-      "version": "5.0.2.8",
-      "lunch": "full_marquee-eng",
-      "name": "LG Marquee",
-      "init": "init.omap.post_boot.sh",
       "key": "marquee"
     },
     {
+      "init": "init.omap.post_boot.sh",
+      "lunch": "full_ignite-eng",
+      "version": "5.0.2.8",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p4 bs=4096 ; ",
+      "name": "LG Ignite",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p4 bs=4096 ; ",
-      "version": "5.0.2.8",
-      "lunch": "full_ignite-eng",
-      "name": "LG Ignite",
-      "init": "init.omap.post_boot.sh",
       "key": "ignite"
     },
     {
+      "init": "init.target.rc",
+      "touch_version": "5.8.3.1",
+      "lunch": "full_ms840-userdebug",
+      "version": "5.8.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p13 bs=4096 ; ",
+      "name": "LG Connect 4G MS840",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p13 bs=4096 ; ",
-      "version": "5.8.3.1",
-      "lunch": "full_ms840-userdebug",
-      "name": "LG Connect 4G MS840",
-      "touch_version": "5.8.3.1",
-      "init": "init.target.rc",
       "key": "ms840"
     },
     {
+      "init": "init.target.rc",
+      "touch_version": "5.8.3.1",
+      "lunch": "full_vs840-userdebug",
+      "version": "5.8.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p13 bs=4096 ; ",
+      "name": "LG Lucid VS840",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p13 bs=4096 ; ",
-      "version": "5.8.3.1",
-      "lunch": "full_vs840-userdebug",
-      "name": "LG Lucid VS840",
-      "touch_version": "5.8.3.1",
-      "init": "init.target.rc",
       "key": "vs840"
     },
     {
+      "init": "init.jewel.rc",
+      "touch_version": "5.8.3.5",
+      "lunch": "cm_jewel-userdebug",
+      "version": "5.8.3.5",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=4096 ; ",
+      "name": "HTC EVO LTE",
       "legacy_versions": [
         "5.8.3.4",
         "5.8.3.4"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=4096 ; ",
-      "version": "5.8.3.5",
-      "lunch": "cm_jewel-userdebug",
-      "name": "HTC EVO LTE",
-      "touch_version": "5.8.3.5",
-      "init": "init.jewel.rc",
       "key": "jewel"
     },
     {
+      "ro.product.devices": [
+        "i9300",
+        "m0"
+      ],
+      "init": "ueventd.smdk4x12.rc",
+      "touch_version": "6.0.3.2",
+      "lunch": "cm_i9300-userdebug",
+      "version": "6.0.3.2",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 bs=4096 ; ",
+      "name": "Samsung Galaxy S3 (GT-I9300)",
       "legacy_versions": [
         "5.8.4.0",
         "5.8.4.1",
@@ -2055,68 +2047,64 @@
         "6.0.3.0",
         "6.0.3.1"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 bs=4096 ; ",
-      "version": "6.0.3.2",
-      "ro.product.devices": [
-        "i9300",
-        "m0"
-      ],
-      "lunch": "cm_i9300-userdebug",
-      "name": "Samsung Galaxy S3 (GT-I9300)",
-      "touch_version": "6.0.3.2",
-      "init": "ueventd.smdk4x12.rc",
       "key": "i9300"
     },
     {
+      "init": "init.qcom.usb.rc",
+      "touch_version": "6.0.3.3",
+      "lunch": "cm_skyrocket-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=4096 ; ",
+      "name": "Samsung Skyrocket",
       "legacy_versions": [
         "5.8.4.3",
         "6.0.1.0",
         "6.0.1.4"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=4096 ; ",
-      "version": "6.0.3.1",
-      "lunch": "cm_skyrocket-userdebug",
-      "name": "Samsung Skyrocket",
-      "touch_version": "6.0.3.3",
-      "init": "init.qcom.usb.rc",
       "key": "skyrocket"
     },
     {
+      "init": "init.qcom.usb.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_quincyatt-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=4096 ; ",
+      "name": "Samsung Galaxy Note (AT&T)",
       "legacy_versions": [
         "5.8.4.3",
         "5.8.4.8"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=4096 ; ",
-      "version": "6.0.3.1",
-      "lunch": "cm_quincyatt-userdebug",
-      "name": "Samsung Galaxy Note (AT&T)",
-      "touch_version": "6.0.3.1",
-      "init": "init.qcom.usb.rc",
       "key": "quincyatt"
     },
     {
+      "init": "init.e0.rc",
+      "lunch": "cm_e400-userdebug",
+      "version": "5.8.4.5",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p17 bs=4096 ; ",
+      "name": "LG Optimus L3",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p17 bs=4096 ; ",
-      "version": "5.8.4.5",
-      "lunch": "cm_e400-userdebug",
-      "name": "LG Optimus L3",
-      "init": "init.e0.rc",
       "key": "e400"
     },
     {
+      "readonly_recovery": true,
+      "init": "init.primou.rc",
+      "lunch": "cm_primou-userdebug",
+      "version": "5.8.4.5",
+      "name": "HTC One V",
       "legacy_versions": [
 
       ],
-      "readonly_recovery": true,
-      "version": "5.8.4.5",
-      "lunch": "cm_primou-userdebug",
-      "name": "HTC One V",
-      "init": "init.primou.rc",
       "key": "primou"
     },
     {
+      "init": "init.d2att.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_d2att-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p18 bs=4096 ; ",
+      "name": "Samsung Galaxy S3 (AT&T)",
       "legacy_versions": [
         "5.8.4.5",
         "5.8.4.6",
@@ -2128,15 +2116,19 @@
         "6.0.2.8",
         "6.0.3.0"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p18 bs=4096 ; ",
-      "version": "6.0.3.1",
-      "lunch": "cm_d2att-userdebug",
-      "name": "Samsung Galaxy S3 (AT&T)",
-      "touch_version": "6.0.3.1",
-      "init": "init.d2att.rc",
       "key": "d2att"
     },
     {
+      "ro.product.devices": [
+        "d2tmo",
+        "d2lteMetroPCS"
+      ],
+      "init": "init.d2tmo.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_d2tmo-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p18 bs=4096 ; ",
+      "name": "Samsung Galaxy S3 (T-Mobile)",
       "legacy_versions": [
         "5.8.4.5",
         "5.8.4.6",
@@ -2147,19 +2139,15 @@
         "6.0.2.8",
         "6.0.3.0"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p18 bs=4096 ; ",
-      "version": "6.0.3.1",
-      "ro.product.devices": [
-        "d2tmo",
-        "d2lteMetroPCS"
-      ],
-      "lunch": "cm_d2tmo-userdebug",
-      "name": "Samsung Galaxy S3 (T-Mobile)",
-      "touch_version": "6.0.3.1",
-      "init": "init.d2tmo.rc",
       "key": "d2tmo"
     },
     {
+      "init": "init.d2spr.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_d2spr-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p18 bs=4096 ; ",
+      "name": "Samsung Galaxy S3 (Sprint)",
       "legacy_versions": [
         "5.8.4.5",
         "5.8.4.6",
@@ -2171,15 +2159,16 @@
         "6.0.2.8",
         "6.0.3.0"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p18 bs=4096 ; ",
-      "version": "6.0.3.1",
-      "lunch": "cm_d2spr-userdebug",
-      "name": "Samsung Galaxy S3 (Sprint)",
-      "touch_version": "6.0.3.1",
-      "init": "init.d2spr.rc",
       "key": "d2spr"
     },
     {
+      "init": "init.d2vzw.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_d2vzw-userdebug",
+      "version": "6.0.3.1",
+      "twrp_version": "2.4.3.0",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p18 bs=4096 ; ",
+      "name": "Samsung Galaxy S3 (Verizon)",
       "legacy_versions": [
         "5.8.4.6",
         "5.8.4.7",
@@ -2191,149 +2180,141 @@
         "6.0.2.8",
         "6.0.3.0"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p18 bs=4096 ; ",
-      "version": "6.0.3.1",
-      "twrp_version": "2.4.3.0",
-      "lunch": "cm_d2vzw-userdebug",
-      "name": "Samsung Galaxy S3 (Verizon)",
-      "touch_version": "6.0.3.1",
-      "init": "init.d2vzw.rc",
       "key": "d2vzw"
     },
     {
+      "readonly_recovery": true,
+      "init": "init.primoc.rc",
+      "touch_version": "5.8.4.7",
+      "lunch": "full_primoc-userdebug",
+      "version": "5.8.4.7",
+      "name": "HTC One V (CDMA)",
       "legacy_versions": [
         "5.8.4.6",
         "5.8.4.7"
       ],
-      "readonly_recovery": true,
-      "version": "5.8.4.7",
-      "lunch": "full_primoc-userdebug",
-      "name": "HTC One V (CDMA)",
-      "touch_version": "5.8.4.7",
-      "init": "init.primoc.rc",
       "key": "primoc"
     },
     {
+      "init": "init.grouper.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_grouper-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-name/SOS bs=4096 ; ",
+      "name": "Google Nexus 7",
       "legacy_versions": [
         "6.0.0.6",
         "6.0.1.0",
         "6.0.1.9",
         "6.0.2.3"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-name/SOS bs=4096 ; ",
-      "version": "6.0.3.1",
-      "lunch": "cm_grouper-userdebug",
-      "name": "Google Nexus 7",
-      "touch_version": "6.0.3.1",
-      "init": "init.grouper.rc",
       "key": "grouper"
     },
     {
+      "init": "init.su640.rc",
+      "touch_version": "6.0.1.0",
+      "lunch": "cm_su640-userdebug",
+      "version": "6.0.1.0",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p13 bs=4096 ; ",
+      "name": "LG Optimus LTE (SKT)",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p13 bs=4096 ; ",
-      "version": "6.0.1.0",
-      "lunch": "cm_su640-userdebug",
-      "name": "LG Optimus LTE (SKT)",
-      "touch_version": "6.0.1.0",
-      "init": "init.su640.rc",
       "key": "su640"
     },
     {
+      "officially_supported": false,
+      "init": "init.t1.rc",
+      "lunch": "cm_i9100g-userdebug",
+      "version": "6.0.1.0",
+      "name": "Samsung Galaxy S2 (GT-I9100G)",
       "legacy_versions": [
 
       ],
-      "version": "6.0.1.0",
-      "officially_supported": false,
-      "lunch": "cm_i9100g-userdebug",
-      "name": "Samsung Galaxy S2 (GT-I9100G)",
-      "init": "init.t1.rc",
       "key": "i9100g"
     },
     {
+      "init": "init.espresso.rc",
+      "touch_version": "6.0.2.7",
+      "lunch": "cm_p3100-userdebug",
+      "version": "6.0.2.7",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 bs=4096 ; ",
+      "name": "Samsung Galaxy Tab 2 (GT-P3100)",
       "legacy_versions": [
         "6.0.1.1",
         "6.0.2.3"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 bs=4096 ; ",
-      "version": "6.0.2.7",
-      "lunch": "cm_p3100-userdebug",
-      "name": "Samsung Galaxy Tab 2 (GT-P3100)",
-      "touch_version": "6.0.2.7",
-      "init": "init.espresso.rc",
       "key": "p3100"
     },
     {
+      "init": "init.espresso.rc",
+      "touch_version": "6.0.2.7",
+      "lunch": "cm_p3110-userdebug",
+      "version": "6.0.2.7",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 bs=4096 ; ",
+      "name": "Samsung Galaxy Tab 2 (GT-P3110)",
       "legacy_versions": [
         "6.0.1.1",
         "6.0.2.3"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 bs=4096 ; ",
-      "version": "6.0.2.7",
-      "lunch": "cm_p3110-userdebug",
-      "name": "Samsung Galaxy Tab 2 (GT-P3110)",
-      "touch_version": "6.0.2.7",
-      "init": "init.espresso.rc",
       "key": "p3110"
     },
     {
+      "init": "init.espresso.rc",
+      "touch_version": "6.0.2.3",
+      "lunch": "cm_p3113-userdebug",
+      "version": "6.0.2.3",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 bs=4096 ; ",
+      "name": "Samsung Galaxy Tab 2 (GT-P3113)",
       "legacy_versions": [
         "6.0.1.1"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 bs=4096 ; ",
-      "version": "6.0.2.3",
-      "lunch": "cm_p3113-userdebug",
-      "name": "Samsung Galaxy Tab 2 (GT-P3113)",
-      "touch_version": "6.0.2.3",
-      "init": "init.espresso.rc",
       "key": "p3113"
     },
     {
+      "init": "init.espresso10.rc",
+      "touch_version": "6.0.2.7",
+      "lunch": "cm_p5100-userdebug",
+      "version": "6.0.2.7",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 bs=4096 ; ",
+      "name": "Samsung Galaxy Tab 2 (GT-P5100)",
       "legacy_versions": [
         "6.0.1.1",
         "6.0.2.3"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 bs=4096 ; ",
-      "version": "6.0.2.7",
-      "lunch": "cm_p5100-userdebug",
-      "name": "Samsung Galaxy Tab 2 (GT-P5100)",
-      "touch_version": "6.0.2.7",
-      "init": "init.espresso10.rc",
       "key": "p5100"
     },
     {
+      "init": "init.espresso10.rc",
+      "touch_version": "6.0.2.7",
+      "lunch": "cm_p5110-userdebug",
+      "version": "6.0.2.7",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 bs=4096 ; ",
+      "name": "Samsung Galaxy Tab 2 (GT-P5110)",
       "legacy_versions": [
         "6.0.1.1",
         "6.0.2.3"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 bs=4096 ; ",
-      "version": "6.0.2.7",
-      "lunch": "cm_p5110-userdebug",
-      "name": "Samsung Galaxy Tab 2 (GT-P5110)",
-      "touch_version": "6.0.2.7",
-      "init": "init.espresso10.rc",
       "key": "p5110"
     },
     {
+      "init": "init.espresso10.rc",
+      "touch_version": "6.0.2.3",
+      "lunch": "cm_p5113-userdebug",
+      "version": "6.0.2.3",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 bs=4096 ; ",
+      "name": "Samsung Galaxy Tab 2 (GT-P5113)",
       "legacy_versions": [
         "6.0.1.1"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 bs=4096 ; ",
-      "version": "6.0.2.3",
-      "lunch": "cm_p5113-userdebug",
-      "name": "Samsung Galaxy Tab 2 (GT-P5113)",
-      "touch_version": "6.0.2.3",
-      "init": "init.espresso10.rc",
       "key": "p5113"
     },
     {
-      "legacy_versions": [
-
-      ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p13 bs=4096 ; ",
-      "version": "6.0.1.1",
+      "init": "init.target.rc",
+      "touch_version": "6.0.1.1",
       "lunch": "cm_vs920-userdebug",
+      "version": "6.0.1.1",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p13 bs=4096 ; ",
       "name": "LG Spectrum 4G",
       "inits": [
         "init.target.rc",
@@ -2341,92 +2322,99 @@
         "init.i_vzw.rc",
         "init.iprj.rc"
       ],
-      "touch_version": "6.0.1.1",
-      "init": "init.target.rc",
+      "legacy_versions": [
+
+      ],
       "key": "vs920"
     },
     {
+      "init": "init.zte.rc",
+      "touch_version": "6.0.1.1",
+      "lunch": "cm_x500-userdebug",
+      "version": "6.0.1.1",
+      "name": "Score & Score M",
       "legacy_versions": [
 
       ],
-      "version": "6.0.1.1",
-      "lunch": "cm_x500-userdebug",
-      "name": "Score & Score M",
-      "touch_version": "6.0.1.1",
-      "init": "init.zte.rc",
       "key": "x500"
     },
     {
-      "legacy_versions": [
-
-      ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p14 bs=4096 ; ",
-      "version": "6.0.1.1",
+      "init": "init.qcom.rc",
+      "touch_version": "6.0.1.1",
       "lunch": "cm_vs910-userdebug",
+      "version": "6.0.1.1",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p14 bs=4096 ; ",
       "name": "LG Revolution 4G",
       "inits": [
         "init.qcom.rc",
         "init.bryce.rc"
       ],
-      "touch_version": "6.0.1.1",
-      "init": "init.qcom.rc",
+      "legacy_versions": [
+
+      ],
       "key": "vs910"
     },
     {
-      "legacy_versions": [
-        "5.0.2.8"
-      ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p14 bs=4096 ; ",
-      "version": "6.0.1.1",
+      "init": "init.qcom.rc",
+      "touch_version": "6.0.1.1",
       "lunch": "cm_ms910-userdebug",
+      "version": "6.0.1.1",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p14 bs=4096 ; ",
       "name": "LG Esteeem 4G",
       "inits": [
         "init.qcom.rc",
         "init.bryce.rc"
       ],
-      "touch_version": "6.0.1.1",
-      "init": "init.qcom.rc",
+      "legacy_versions": [
+        "5.0.2.8"
+      ],
       "key": "ms910"
     },
     {
-      "legacy_versions": [
-        "6.0.1.0"
-      ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p17 bs=4096 ; ",
-      "version": "6.0.1.1",
+      "init": "init.qcom.rc",
+      "touch_version": "6.0.1.1",
       "lunch": "cm_ms695-userdebug",
+      "version": "6.0.1.1",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p17 bs=4096 ; ",
       "name": "LG Optimus M+",
       "inits": [
         "init.qcom.rc",
         "init.m3.rc"
       ],
-      "touch_version": "6.0.1.1",
-      "init": "init.qcom.rc",
+      "legacy_versions": [
+        "6.0.1.0"
+      ],
       "key": "ms695"
     },
     {
+      "officially_supported": false,
+      "init": "init.p1.rc",
+      "version": "5.8.2.1",
+      "name": "Samsung Galaxy Tab (MTD and GSM - L)",
+      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "legacy_versions": [
 
       ],
-      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
-      "version": "5.8.2.1",
-      "officially_supported": false,
-      "name": "Samsung Galaxy Tab (MTD and GSM - L)",
-      "init": "init.p1.rc",
       "key": "p1l"
     },
     {
+      "officially_supported": false,
+      "init": "init.p1.rc",
+      "version": "5.8.2.1",
+      "name": "Samsung Galaxy Tab (MTD and GSM - N)",
+      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
       "legacy_versions": [
 
       ],
-      "reboot_recovery": "echo 1 > /cache/.startrecovery ; sync ; reboot ;",
-      "version": "5.8.2.1",
-      "officially_supported": false,
-      "name": "Samsung Galaxy Tab (MTD and GSM - N)",
-      "init": "init.p1.rc",
       "key": "p1n"
     },
     {
+      "init": "init.d2usc.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_d2usc-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p18 bs=4096 ; ",
+      "name": "Samsung Galaxy S3 (US Cellular)",
       "legacy_versions": [
         "6.0.1.2",
         "6.0.2.3",
@@ -2434,64 +2422,68 @@
         "6.0.2.9",
         "6.0.3.0"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p18 bs=4096 ; ",
-      "version": "6.0.3.1",
-      "lunch": "cm_d2usc-userdebug",
-      "name": "Samsung Galaxy S3 (US Cellular)",
-      "touch_version": "6.0.3.1",
-      "init": "init.d2usc.rc",
       "key": "d2usc"
     },
     {
-      "legacy_versions": [
-
-      ],
-      "flash_recovery": "dd if=%s of=/dev/block/platform/msm_sdcc.1/by-name/recovery bs=4096 ; ",
-      "version": "6.0.1.3",
+      "init": "init.mmi.usb.rc",
       "lunch": "cm_asanti-userdebug",
+      "version": "6.0.1.3",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/msm_sdcc.1/by-name/recovery bs=4096 ; ",
       "name": "Motorola Photon Q",
       "inits": [
         "init.asanti.rc",
         "init.sprint.rc"
       ],
-      "init": "init.mmi.usb.rc",
+      "legacy_versions": [
+
+      ],
       "key": "asanti"
     },
     {
+      "init": "init.pecan.rc",
+      "lunch": "cm_p350-userdebug",
+      "version": "6.0.1.5",
+      "name": "LG Optimus Me",
       "legacy_versions": [
         "6.0.1.3",
         "6.0.1.4"
       ],
-      "version": "6.0.1.5",
-      "lunch": "cm_p350-userdebug",
-      "name": "LG Optimus Me",
-      "init": "init.pecan.rc",
       "key": "p350"
     },
     {
+      "init": "fstab.qcom",
+      "lunch": "cm_p5att-userdebug",
+      "version": "6.0.1.4",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=4096 ; ",
+      "name": "Samsung Galaxy Tab 8.9 (AT&T)",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=4096 ; ",
-      "version": "6.0.1.4",
-      "lunch": "cm_p5att-userdebug",
-      "name": "Samsung Galaxy Tab 8.9 (AT&T)",
-      "init": "fstab.qcom",
       "key": "p5att"
     },
     {
+      "init": "init.target.rc",
+      "touch_version": "6.0.1.4",
+      "lunch": "cm_t769-userdebug",
+      "version": "6.0.1.4",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=4096 ; ",
+      "name": "Samsung Galaxy S Blaze 4G",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=4096 ; ",
-      "version": "6.0.1.4",
-      "lunch": "cm_t769-userdebug",
-      "name": "Samsung Galaxy S Blaze 4G",
-      "touch_version": "6.0.1.4",
-      "init": "init.target.rc",
       "key": "t769"
     },
     {
+      "init": "init.carrier.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_d2mtr-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p18 bs=4096 ; ",
+      "name": "Samsung Galaxy S3 (MetroPCS)",
+      "inits": [
+        "init.carrier.rc",
+        "init.d2mtr.rc"
+      ],
       "legacy_versions": [
         "6.0.1.5",
         "6.0.2.3",
@@ -2499,33 +2491,29 @@
         "6.0.2.9",
         "6.0.3.0"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p18 bs=4096 ; ",
-      "version": "6.0.3.1",
-      "lunch": "cm_d2mtr-userdebug",
-      "name": "Samsung Galaxy S3 (MetroPCS)",
-      "inits": [
-        "init.carrier.rc",
-        "init.d2mtr.rc"
-      ],
-      "touch_version": "6.0.3.1",
-      "init": "init.carrier.rc",
       "key": "d2mtr"
     },
     {
+      "init": "init.tf700t.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_tf700t-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p4 bs=4096 ; ",
+      "name": "Asus Transformer Pad Infinity",
+      "reboot_recovery": "echo 'boot-recovery' | dd of=/dev/block/mmcblk0p3 seek=6144 bs=1 ; reboot ; ",
       "legacy_versions": [
         "6.0.1.8",
         "6.0.2.3"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p4 bs=4096 ; ",
-      "reboot_recovery": "echo 'boot-recovery' | dd of=/dev/block/mmcblk0p3 seek=6144 bs=1 ; reboot ; ",
-      "version": "6.0.3.1",
-      "lunch": "cm_tf700t-userdebug",
-      "name": "Asus Transformer Pad Infinity",
-      "touch_version": "6.0.3.1",
-      "init": "init.tf700t.rc",
       "key": "tf700t"
     },
     {
+      "init": "init.manta.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_manta-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/dw_mmc.0/by-name/recovery bs=4096 ; ",
+      "name": "Google Nexus 10",
       "legacy_versions": [
         "6.0.1.5",
         "6.0.1.5",
@@ -2536,15 +2524,15 @@
         "6.0.2.3",
         "6.0.3.0"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/platform/dw_mmc.0/by-name/recovery bs=4096 ; ",
-      "version": "6.0.3.1",
-      "lunch": "cm_manta-userdebug",
-      "name": "Google Nexus 10",
-      "touch_version": "6.0.3.1",
-      "init": "init.manta.rc",
       "key": "manta"
     },
     {
+      "init": "init.mako.rc",
+      "touch_version": "6.0.3.3",
+      "lunch": "cm_mako-userdebug",
+      "version": "6.0.3.3",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/msm_sdcc.1/by-name/recovery bs=4096 ; ",
+      "name": "Google Nexus 4",
       "legacy_versions": [
         "6.0.1.5",
         "6.0.1.6",
@@ -2555,15 +2543,15 @@
         "6.0.3.0",
         "6.0.3.1"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/platform/msm_sdcc.1/by-name/recovery bs=4096 ; ",
-      "version": "6.0.3.3",
-      "lunch": "cm_mako-userdebug",
-      "name": "Google Nexus 4",
-      "touch_version": "6.0.3.3",
-      "init": "init.mako.rc",
       "key": "mako"
     },
     {
+      "init": "init.debug_mfgkernel.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_dlx-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p20 bs=4096 ; ",
+      "name": "HTC Droid DNA",
       "legacy_versions": [
         "6.0.1.5",
         "6.0.1.9",
@@ -2572,52 +2560,52 @@
         "6.0.2.8",
         "6.0.3.0"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p20 bs=4096 ; ",
-      "version": "6.0.3.1",
-      "lunch": "cm_dlx-userdebug",
-      "name": "HTC Droid DNA",
-      "touch_version": "6.0.3.1",
-      "init": "init.debug_mfgkernel.rc",
       "key": "dlx"
     },
     {
+      "init": "init.smdk4x12.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_n7100-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; ",
+      "name": "Samsung Galaxy Note 2 (HSPA+)",
       "legacy_versions": [
         "6.0.1.9",
         "6.0.3.0"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; ",
-      "version": "6.0.3.1",
-      "lunch": "cm_n7100-userdebug",
-      "name": "Samsung Galaxy Note 2 (HSPA+)",
-      "touch_version": "6.0.3.1",
-      "init": "init.smdk4x12.rc",
       "key": "n7100"
     },
     {
+      "init": "init.picasso_mf.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_a700-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-name/SOS bs=4096 ; ",
+      "name": "Acer A700",
       "legacy_versions": [
         "6.0.2.3"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-name/SOS bs=4096 ; ",
-      "version": "6.0.3.1",
-      "lunch": "cm_a700-userdebug",
-      "name": "Acer A700",
-      "touch_version": "6.0.3.1",
-      "init": "init.picasso_mf.rc",
       "key": "a700"
     },
     {
+      "init": "init.tilapia.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_tilapia-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-name/SOS bs=4096 ; ",
+      "name": "Google Nexus 7 (GSM)",
       "legacy_versions": [
         "6.0.2.3"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-name/SOS bs=4096 ; ",
-      "version": "6.0.3.1",
-      "lunch": "cm_tilapia-userdebug",
-      "name": "Google Nexus 7 (GSM)",
-      "touch_version": "6.0.3.1",
-      "init": "init.tilapia.rc",
       "key": "tilapia"
     },
     {
+      "init": "init.t0lte.rc",
+      "touch_version": "6.0.3.2",
+      "lunch": "cm_t0lte-userdebug",
+      "version": "6.0.3.2",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; ",
+      "name": "Samsung Galaxy Note 2 (LTE)",
       "legacy_versions": [
         "6.0.2.3",
         "6.0.2.4",
@@ -2626,655 +2614,668 @@
         "6.0.3.0",
         "6.0.3.1"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; ",
-      "version": "6.0.3.2",
-      "lunch": "cm_t0lte-userdebug",
-      "name": "Samsung Galaxy Note 2 (LTE)",
-      "touch_version": "6.0.3.2",
-      "init": "init.t0lte.rc",
       "key": "t0lte"
     },
     {
-      "legacy_versions": [
-
-      ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 ; ",
-      "reboot_recovery": "echo '518 R 1' > /sys/kernel/kobject_lge_nvdata/dynamic_nvdata_raw_write ; reboot ; ",
-      "version": "6.0.2.3",
+      "touch_version": "6.0.2.3",
       "lunch": "cm_p720-userdebug",
+      "version": "6.0.2.3",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 ; ",
       "name": "LG Optimus 3DMax",
       "inits": [
         "init.lgep720board.rc",
         "/bootimages/battery_charging_01.rle"
       ],
-      "touch_version": "6.0.2.3",
+      "reboot_recovery": "echo '518 R 1' > /sys/kernel/kobject_lge_nvdata/dynamic_nvdata_raw_write ; reboot ; ",
+      "legacy_versions": [
+
+      ],
       "key": "p720"
     },
     {
+      "init": "init.d2cri.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_d2cri-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p18 bs=4096 ; ",
+      "name": "Samsung Galaxy S3 (Cricket)",
       "legacy_versions": [
         "6.0.2.7",
         "6.0.2.8",
         "6.0.2.9",
         "6.0.3.0"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p18 bs=4096 ; ",
-      "version": "6.0.3.1",
-      "lunch": "cm_d2cri-userdebug",
-      "name": "Samsung Galaxy S3 (Cricket)",
-      "touch_version": "6.0.3.1",
-      "init": "init.d2cri.rc",
       "key": "d2cri"
     },
     {
+      "init": "init.runnymede.rc",
+      "touch_version": "6.0.2.7",
+      "lunch": "cm_runnymede-userdebug",
+      "version": "6.0.2.7",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ; ",
+      "name": "HTC Sensation XL",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ; ",
-      "version": "6.0.2.7",
-      "lunch": "cm_runnymede-userdebug",
-      "name": "HTC Sensation XL",
-      "touch_version": "6.0.2.7",
-      "init": "init.runnymede.rc",
       "key": "runnymede"
     },
     {
+      "init": "init.presto.rc",
+      "touch_version": "6.0.2.7",
+      "lunch": "cm_presto-userdebug",
+      "version": "6.0.2.7",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p18 bs=4096 ; ",
+      "name": "Pantech Presto",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p18 bs=4096 ; ",
-      "version": "6.0.2.7",
-      "lunch": "cm_presto-userdebug",
-      "name": "Pantech Presto",
-      "touch_version": "6.0.2.7",
-      "init": "init.presto.rc",
       "key": "presto"
     },
     {
+      "init": "init.warp2.rc",
+      "touch_version": "6.0.2.7",
+      "lunch": "cm_warp2-userdebug",
+      "version": "6.0.2.7",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p13 bs=4096 ; ",
+      "name": "ZTE Sequent",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p13 bs=4096 ; ",
-      "version": "6.0.2.7",
-      "lunch": "cm_warp2-userdebug",
-      "name": "ZTE Sequent",
-      "touch_version": "6.0.2.7",
-      "init": "init.warp2.rc",
       "key": "warp2"
     },
     {
+      "init": "init.steelhead.rc",
+      "lunch": "cm_steelhead-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/omap/omap_hsmmc.0/by-name/recovery bs=4096 ; ",
+      "name": "Google Nexus Q",
       "legacy_versions": [
         "6.0.2.7"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/platform/omap/omap_hsmmc.0/by-name/recovery bs=4096 ; ",
-      "version": "6.0.3.1",
-      "lunch": "cm_steelhead-userdebug",
-      "name": "Google Nexus Q",
-      "init": "init.steelhead.rc",
       "key": "steelhead"
     },
     {
-      "legacy_versions": [
-
-      ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p15 bs=4096 ; ",
-      "version": "6.0.2.7",
+      "touch_version": "6.0.2.7",
       "lunch": "cm_prevail2spr-userdebug",
+      "version": "6.0.2.7",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p15 bs=4096 ; ",
       "name": "Samsung Prevail 2 (Boost Mobile)",
       "inits": [
         "init.carrier.rc",
         "init.prevail2spr.rc"
       ],
-      "touch_version": "6.0.2.7",
-      "key": "prevail2spr"
-    },
-    {
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ; ",
-      "version": "6.0.2.7",
-      "lunch": "cm_golden-userdebug",
-      "name": "Samsung Galaxy S3 Mini",
-      "touch_version": "6.0.2.7",
+      "key": "prevail2spr"
+    },
+    {
       "init": "init.golden.rc",
+      "touch_version": "6.0.2.7",
+      "lunch": "cm_golden-userdebug",
+      "version": "6.0.2.7",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ; ",
+      "name": "Samsung Galaxy S3 Mini",
+      "legacy_versions": [
+
+      ],
       "key": "golden"
     },
     {
+      "init": "init.fireball.rc",
+      "touch_version": "6.0.3.3",
+      "lunch": "cm_fireball-userdebug",
+      "version": "6.0.3.3",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=4096 ; ",
+      "name": "HTC Droid Incredible 4G LTE",
       "legacy_versions": [
         "6.0.2.8",
         "6.0.2.9",
         "6.0.3.1"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=4096 ; ",
-      "version": "6.0.3.3",
-      "lunch": "cm_fireball-userdebug",
-      "name": "HTC Droid Incredible 4G LTE",
-      "touch_version": "6.0.3.3",
-      "init": "init.fireball.rc",
       "key": "fireball"
     },
     {
+      "init": "init.puccinilte.rc",
+      "touch_version": "6.0.2.8",
+      "lunch": "cm_puccinilte-userdebug",
+      "version": "6.0.2.8",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p23 bs=4096 ; ",
+      "name": "HTC Jetstream",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p23 bs=4096 ; ",
-      "version": "6.0.2.8",
-      "lunch": "cm_puccinilte-userdebug",
-      "name": "HTC Jetstream",
-      "touch_version": "6.0.2.8",
-      "init": "init.puccinilte.rc",
       "key": "puccinilte"
     },
     {
+      "init": "init.u0.rc",
+      "touch_version": "6.0.2.8",
+      "lunch": "cm_p700-userdebug",
+      "version": "6.0.2.8",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p17 bs=4096 ; ",
+      "name": "LG Optimus L7",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p17 bs=4096 ; ",
-      "version": "6.0.2.8",
-      "lunch": "cm_p700-userdebug",
-      "name": "LG Optimus L7",
-      "touch_version": "6.0.2.8",
-      "init": "init.u0.rc",
       "key": "p700"
     },
     {
+      "init": "init.m7.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_m7-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p34 bs=4096 ; ",
+      "name": "HTC One",
       "legacy_versions": [
         "6.0.2.8",
         "6.0.3.0"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p34 bs=4096 ; ",
-      "version": "6.0.3.1",
-      "lunch": "cm_m7-userdebug",
-      "name": "HTC One",
-      "touch_version": "6.0.3.1",
-      "init": "init.m7.rc",
       "key": "m7"
     },
     {
+      "init": "init.dlxu.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_dlxu-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p20 bs=4096 ; ",
+      "name": "HTC Butterfly (dlxu)",
       "legacy_versions": [
         "6.0.2.8",
         "6.0.3.0"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p20 bs=4096 ; ",
-      "version": "6.0.3.1",
-      "lunch": "cm_dlxu-userdebug",
-      "name": "HTC Butterfly (dlxu)",
-      "touch_version": "6.0.3.1",
-      "init": "init.dlxu.rc",
       "key": "dlxu"
     },
     {
+      "init": "init.dlxub1.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_dlxub1-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p20 bs=4096 ; ",
+      "name": "HTC Butterfly (dlxub1)",
       "legacy_versions": [
         "6.0.2.8",
         "6.0.3.0"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p20 bs=4096 ; ",
-      "version": "6.0.3.1",
-      "lunch": "cm_dlxub1-userdebug",
-      "name": "HTC Butterfly (dlxub1)",
-      "touch_version": "6.0.3.1",
-      "init": "init.dlxub1.rc",
       "key": "dlxub1"
     },
     {
+      "init": "init.dlxj.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_dlxj-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p20 bs=4096 ; ",
+      "name": "HTC Butterfly J",
       "legacy_versions": [
         "6.0.2.8",
         "6.0.3.0"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p20 bs=4096 ; ",
-      "version": "6.0.3.1",
-      "lunch": "cm_dlxj-userdebug",
-      "name": "HTC Butterfly J",
-      "touch_version": "6.0.3.1",
-      "init": "init.dlxj.rc",
       "key": "dlxj"
     },
     {
+      "init": "init.m4.rc",
+      "lunch": "cm_e610-userdebug",
+      "version": "6.0.2.8",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p17 bs=4096 ; ",
+      "name": "LG Optimus L5",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p17 bs=4096 ; ",
-      "version": "6.0.2.8",
-      "lunch": "cm_e610-userdebug",
-      "name": "LG Optimus L5",
-      "init": "init.m4.rc",
       "key": "e610"
     },
     {
+      "init": "init.evita.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_evita-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=4096 ; ",
+      "name": "HTC One X (AT&T)",
       "legacy_versions": [
         "6.0.2.8"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=4096 ; ",
-      "version": "6.0.3.1",
-      "lunch": "cm_evita-userdebug",
-      "name": "HTC One X (AT&T)",
-      "touch_version": "6.0.3.1",
-      "init": "init.evita.rc",
       "key": "evita"
     },
     {
-      "legacy_versions": [
-        "6.0.2.9",
-        "6.0.3.0"
-      ],
-      "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-num/p2 bs=4096 ; ",
-      "version": "6.0.3.1",
       "ro.product.devices": [
         "p4",
         "GT-P7500",
         "p7500"
       ],
-      "lunch": "cm_p4-userdebug",
-      "name": "Samsung Galaxy Tab 10.1",
-      "touch_version": "6.0.3.1",
       "init": "init.p4.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_p4-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-num/p2 bs=4096 ; ",
+      "name": "Samsung Galaxy Tab 10.1",
+      "legacy_versions": [
+        "6.0.2.9",
+        "6.0.3.0"
+      ],
       "key": "p4"
     },
     {
+      "init": "init.p4tmo.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_p4tmo-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-num/p2 bs=4096 ; ",
+      "name": "Samsung Galaxy Tab 10.1 (T-Mobile)",
       "legacy_versions": [
         "6.0.2.9",
         "6.0.3.0"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-num/p2 bs=4096 ; ",
-      "version": "6.0.3.1",
-      "lunch": "cm_p4tmo-userdebug",
-      "name": "Samsung Galaxy Tab 10.1 (T-Mobile)",
-      "touch_version": "6.0.3.1",
-      "init": "init.p4tmo.rc",
       "key": "p4tmo"
     },
     {
+      "init": "init.p4vzw.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_p4vzw-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-num/p2 bs=4096 ; ",
+      "name": "Samsung Galaxy Tab 10.1 (Verizon)",
       "legacy_versions": [
         "6.0.2.9",
         "6.0.3.0"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-num/p2 bs=4096 ; ",
-      "version": "6.0.3.1",
-      "lunch": "cm_p4vzw-userdebug",
-      "name": "Samsung Galaxy Tab 10.1 (Verizon)",
-      "touch_version": "6.0.3.1",
-      "init": "init.p4vzw.rc",
       "key": "p4vzw"
     },
     {
+      "init": "init.u0.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_p760-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p4 bs=4096 ; ",
+      "name": "LG Optimus L9",
       "legacy_versions": [
         "6.0.2.9"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p4 bs=4096 ; ",
-      "version": "6.0.3.1",
-      "lunch": "cm_p760-userdebug",
-      "name": "LG Optimus L9",
-      "touch_version": "6.0.3.1",
-      "init": "init.u0.rc",
       "key": "p760"
     },
     {
+      "init": "ueventd.smdk4x12.rc",
+      "touch_version": "6.0.3.2",
+      "lunch": "cm_i9305-userdebug",
+      "version": "6.0.3.2",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; ",
+      "name": "Samsung Galaxy S3 LTE (GT-I9305)",
       "legacy_versions": [
         "6.0.2.9",
         "6.0.3.1"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; ",
-      "version": "6.0.3.2",
-      "lunch": "cm_i9305-userdebug",
-      "name": "Samsung Galaxy S3 LTE (GT-I9305)",
-      "touch_version": "6.0.3.2",
-      "init": "ueventd.smdk4x12.rc",
       "key": "i9305"
     },
     {
+      "init": "init.p3.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_p3-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-num/p2 bs=4096 ; ",
+      "name": "Samsung Galaxy Tab 10.1v",
       "legacy_versions": [
         "6.0.2.9"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-num/p2 bs=4096 ; ",
-      "version": "6.0.3.1",
-      "lunch": "cm_p3-userdebug",
-      "name": "Samsung Galaxy Tab 10.1v",
-      "touch_version": "6.0.3.1",
-      "init": "init.p3.rc",
       "key": "p3"
     },
     {
+      "init": "init.n8013.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_n8013-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 bs=4096 ; ",
+      "name": "Samsung Galaxy Note 10.1",
       "legacy_versions": [
         "6.0.3.0"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 bs=4096 ; ",
-      "version": "6.0.3.1",
-      "lunch": "cm_n8013-userdebug",
-      "name": "Samsung Galaxy Note 10.1",
-      "touch_version": "6.0.3.1",
-      "init": "init.n8013.rc",
       "key": "n8013"
     },
     {
-      "legacy_versions": [
-
-      ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; ",
-      "version": "6.0.3.0",
       "ro.product.devices": [
         "i605",
         "t0ltevzw"
       ],
-      "lunch": "cm_i605-userdebug",
-      "name": "Samsung Galaxy Note 2 (Verizon)",
-      "touch_version": "6.0.3.0",
       "init": "init.i605.rc",
+      "touch_version": "6.0.3.0",
+      "lunch": "cm_i605-userdebug",
+      "version": "6.0.3.0",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; ",
+      "name": "Samsung Galaxy Note 2 (Verizon)",
+      "legacy_versions": [
+
+      ],
       "key": "i605"
     },
     {
-      "legacy_versions": [
-        "6.0.3.0"
-      ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; ",
-      "version": "6.0.3.1",
       "ro.product.devices": [
         "l900",
         "t0ltespr"
       ],
-      "lunch": "cm_l900-userdebug",
-      "name": "Samsung Galaxy Note 2 (Sprint)",
-      "touch_version": "6.0.3.1",
       "init": "init.l900.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_l900-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; ",
+      "name": "Samsung Galaxy Note 2 (Sprint)",
+      "legacy_versions": [
+        "6.0.3.0"
+      ],
       "key": "l900"
     },
     {
+      "init": "init.t0lteatt.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_t0lteatt-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; ",
+      "name": "Samsung Galaxy Note 2 (AT&T)",
       "legacy_versions": [
         "6.0.3.0"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; ",
-      "version": "6.0.3.1",
-      "lunch": "cm_t0lteatt-userdebug",
-      "name": "Samsung Galaxy Note 2 (AT&T)",
-      "touch_version": "6.0.3.1",
-      "init": "init.t0lteatt.rc",
       "key": "t0lteatt"
     },
     {
+      "init": "init.t0ltetmo.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_t0ltetmo-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; ",
+      "name": "Samsung Galaxy Note 2 (T-Mobile)",
       "legacy_versions": [
         "6.0.3.0"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; ",
-      "version": "6.0.3.1",
-      "lunch": "cm_t0ltetmo-userdebug",
-      "name": "Samsung Galaxy Note 2 (T-Mobile)",
-      "touch_version": "6.0.3.1",
-      "init": "init.t0ltetmo.rc",
       "key": "t0ltetmo"
     },
     {
+      "init": "init.geehrc.rc",
+      "touch_version": "6.0.3.0",
+      "lunch": "cm_e975-userdebug",
+      "version": "6.0.3.0",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/msm_sdcc.1/by-name/recovery bs=4096 ; ",
+      "name": "LG Optimus G Intl (E975)",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/platform/msm_sdcc.1/by-name/recovery bs=4096 ; ",
-      "version": "6.0.3.0",
-      "lunch": "cm_e975-userdebug",
-      "name": "LG Optimus G Intl (E975)",
-      "touch_version": "6.0.3.0",
-      "init": "init.geehrc.rc",
       "key": "e975"
     },
     {
+      "init": "init.x3.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_p880-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-name/SOS bs=4096 ; ",
+      "name": "LG Optimus 4X HD",
+      "reboot_recovery": "echo 'boot-recovery' | dd of=/dev/block/mmcblk0p5 bs=1 count=13 ; reboot ; ",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-name/SOS bs=4096 ; ",
-      "reboot_recovery": "echo 'boot-recovery' | dd of=/dev/block/mmcblk0p5 bs=1 count=13 ; reboot ; ",
-      "version": "6.0.3.1",
-      "lunch": "cm_p880-userdebug",
-      "name": "LG Optimus 4X HD",
-      "touch_version": "6.0.3.1",
-      "init": "init.x3.rc",
       "key": "p880"
     },
     {
+      "init": "init.quincytmo.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_quincytmo-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=4096 ; ",
+      "name": "Samsung Galaxy Note (T-Mobile)",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=4096 ; ",
-      "version": "6.0.3.1",
-      "lunch": "cm_quincytmo-userdebug",
-      "name": "Samsung Galaxy Note (T-Mobile)",
-      "touch_version": "6.0.3.1",
-      "init": "init.quincytmo.rc",
       "key": "quincytmo"
     },
     {
+      "init": "init.n8000.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_n8000-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 bs=4096 ; ",
+      "name": "Samsung Galaxy Note 10.1 (GSM)",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 bs=4096 ; ",
-      "version": "6.0.3.1",
-      "lunch": "cm_n8000-userdebug",
-      "name": "Samsung Galaxy Note 10.1 (GSM)",
-      "touch_version": "6.0.3.1",
-      "init": "init.n8000.rc",
       "key": "n8000"
     },
     {
+      "init": "init.find5.rc",
+      "touch_version": "6.0.3.1",
+      "lunch": "cm_find5-userdebug",
+      "version": "6.0.3.1",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/msm_sdcc.1/by-name/recovery bs=4096 ; ",
+      "name": "Oppo Find5",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/platform/msm_sdcc.1/by-name/recovery bs=4096 ; ",
-      "version": "6.0.3.1",
-      "lunch": "cm_find5-userdebug",
-      "name": "Oppo Find5",
-      "touch_version": "6.0.3.1",
-      "init": "init.find5.rc",
       "key": "find5"
     },
     {
-      "legacy_versions": [
-
-      ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ; ",
-      "version": "6.0.3.2",
       "ro.product.devices": [
         "jfltetmo",
         "jflteMetroPCS"
       ],
-      "lunch": "cm_jfltetmo-userdebug",
-      "name": "Samsung Galaxy S4 (T-Mobile)",
-      "touch_version": "6.0.3.2",
       "init": "init.jfltetmo.rc",
+      "touch_version": "6.0.3.2",
+      "lunch": "cm_jfltetmo-userdebug",
+      "version": "6.0.3.2",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ; ",
+      "name": "Samsung Galaxy S4 (T-Mobile)",
+      "legacy_versions": [
+
+      ],
       "key": "jfltetmo"
     },
     {
+      "init": "init.jfltecan.rc",
+      "touch_version": "6.0.3.2",
+      "lunch": "cm_jfltecan-userdebug",
+      "version": "6.0.3.2",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ; ",
+      "name": "Samsung Galaxy S4 (Canada/Bell)",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ; ",
-      "version": "6.0.3.2",
-      "lunch": "cm_jfltecan-userdebug",
-      "name": "Samsung Galaxy S4 (Canada/Bell)",
-      "touch_version": "6.0.3.2",
-      "init": "init.jfltecan.rc",
       "key": "jfltecan"
     },
     {
+      "init": "init.zte.rc",
+      "lunch": "cm_V8000-userdebug",
+      "version": "6.0.3.2",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p17 bs=4096 ; ",
+      "name": "ZTE Engage",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p17 bs=4096 ; ",
-      "version": "6.0.3.2",
-      "lunch": "cm_V8000-userdebug",
-      "name": "ZTE Engage",
-      "init": "init.zte.rc",
       "key": "V8000"
     },
     {
+      "init": "init.i9500.rc",
+      "touch_version": "6.0.3.2",
+      "lunch": "cm_i9500-userdebug",
+      "version": "6.0.3.2",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p10 bs=4096 ; ",
+      "name": "Samsung Galaxy S4 (i9500)",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p10 bs=4096 ; ",
-      "version": "6.0.3.2",
-      "lunch": "cm_i9500-userdebug",
-      "name": "Samsung Galaxy S4 (i9500)",
-      "touch_version": "6.0.3.2",
-      "init": "init.i9500.rc",
       "key": "i9500"
     },
     {
+      "init": "init.everest.rc",
+      "touch_version": "6.0.3.2",
+      "lunch": "cm_everest-userdebug",
+      "version": "6.0.3.2",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-name/recovery bs=4096 ; ",
+      "name": "Motorola Xoom (GSM)",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-name/recovery bs=4096 ; ",
-      "version": "6.0.3.2",
-      "lunch": "cm_everest-userdebug",
-      "name": "Motorola Xoom (GSM)",
-      "touch_version": "6.0.3.2",
-      "init": "init.everest.rc",
       "key": "everest"
     },
     {
+      "init": "init.protou.rc",
+      "touch_version": "6.0.3.2",
+      "lunch": "cm_protou-userdebug",
+      "version": "6.0.3.2",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ; ",
+      "name": "HTC Desire X",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ; ",
-      "version": "6.0.3.2",
-      "lunch": "cm_protou-userdebug",
-      "name": "HTC Desire X",
-      "touch_version": "6.0.3.2",
-      "init": "init.protou.rc",
       "key": "protou"
     },
     {
-      "legacy_versions": [
-
-      ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p36 bs=4096 ; ",
-      "version": "6.0.3.2",
       "ro.product.devices": [
         "m7spr",
         "m7wls"
       ],
-      "lunch": "cm_m7spr-userdebug",
-      "name": "HTC One (Sprint)",
-      "touch_version": "6.0.3.3",
       "init": "init.m7spr.rc",
+      "touch_version": "6.0.3.3",
+      "lunch": "cm_m7spr-userdebug",
+      "version": "6.0.3.2",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p36 bs=4096 ; ",
+      "name": "HTC One (Sprint)",
+      "legacy_versions": [
+
+      ],
       "key": "m7spr"
     },
     {
+      "init": "init.m7tmo.rc",
+      "touch_version": "6.0.3.3",
+      "lunch": "cm_m7tmo-userdebug",
+      "version": "6.0.3.2",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p34 bs=4096 ; ",
+      "name": "HTC One (T-Mobile)",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p34 bs=4096 ; ",
-      "version": "6.0.3.2",
-      "lunch": "cm_m7tmo-userdebug",
-      "name": "HTC One (T-Mobile)",
-      "touch_version": "6.0.3.3",
-      "init": "init.m7tmo.rc",
       "key": "m7tmo"
     },
     {
+      "init": "init.m7att.rc",
+      "touch_version": "6.0.3.3",
+      "lunch": "cm_m7att-userdebug",
+      "version": "6.0.3.2",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p34 bs=4096 ; ",
+      "name": "HTC One (AT&T)",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p34 bs=4096 ; ",
-      "version": "6.0.3.2",
-      "lunch": "cm_m7att-userdebug",
-      "name": "HTC One (AT&T)",
-      "touch_version": "6.0.3.3",
-      "init": "init.m7att.rc",
       "key": "m7att"
     },
     {
+      "init": "init.jflteatt.rc",
+      "touch_version": "6.0.3.2",
+      "lunch": "cm_jflteatt-userdebug",
+      "version": "6.0.3.2",
+      "flash_recovery": "dd if=/dev/block/platform/msm_sdcc.1/by-name/aboot of=/sdcard/clockworkmod/aboot.img; /data/data/com.koushikdutta.rommanager/files/loki_patch recovery /sdcard/clockworkmod/aboot.img %s /sdcard/clockworkmod/recovery.lok ; /data/data/com.koushikdutta.rommanager/files/loki_flash recovery /sdcard/clockworkmod/recovery.lok ; ",
+      "name": "Samsung Galaxy S4 (AT&T)",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=/dev/block/platform/msm_sdcc.1/by-name/aboot of=/sdcard/clockworkmod/aboot.img; /data/data/com.koushikdutta.rommanager/files/loki_patch recovery /sdcard/clockworkmod/aboot.img %s /sdcard/clockworkmod/recovery.lok ; /data/data/com.koushikdutta.rommanager/files/loki_flash recovery /sdcard/clockworkmod/recovery.lok ; ",
-      "version": "6.0.3.2",
-      "lunch": "cm_jflteatt-userdebug",
-      "name": "Samsung Galaxy S4 (AT&T)",
-      "touch_version": "6.0.3.2",
-      "init": "init.jflteatt.rc",
       "key": "jflteatt"
     },
     {
+      "init": "init.m7ul.rc",
+      "touch_version": "6.0.3.3",
+      "lunch": "cm_m7ul-userdebug",
+      "version": "6.0.3.2",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p34 bs=4096 ; ",
+      "name": "HTC One (non-US GSM)",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p34 bs=4096 ; ",
-      "version": "6.0.3.2",
-      "lunch": "cm_m7ul-userdebug",
-      "name": "HTC One (non-US GSM)",
-      "touch_version": "6.0.3.3",
-      "init": "init.m7ul.rc",
       "key": "m7ul"
     },
     {
+      "init": "init.jfltevzw.rc",
+      "touch_version": "6.0.3.2",
+      "lunch": "cm_jfltevzw-userdebug",
+      "version": "6.0.3.2",
+      "flash_recovery": "dd if=/dev/block/platform/msm_sdcc.1/by-name/aboot of=/sdcard/clockworkmod/aboot.img; /data/data/com.koushikdutta.rommanager/files/loki_patch recovery /sdcard/clockworkmod/aboot.img %s /sdcard/clockworkmod/recovery.lok ; /data/data/com.koushikdutta.rommanager/files/loki_flash recovery /sdcard/clockworkmod/recovery.lok ; ",
+      "name": "Samsung Galaxy S4 (Verizon)",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=/dev/block/platform/msm_sdcc.1/by-name/aboot of=/sdcard/clockworkmod/aboot.img; /data/data/com.koushikdutta.rommanager/files/loki_patch recovery /sdcard/clockworkmod/aboot.img %s /sdcard/clockworkmod/recovery.lok ; /data/data/com.koushikdutta.rommanager/files/loki_flash recovery /sdcard/clockworkmod/recovery.lok ; ",
-      "version": "6.0.3.2",
-      "lunch": "cm_jfltevzw-userdebug",
-      "name": "Samsung Galaxy S4 (Verizon)",
-      "touch_version": "6.0.3.2",
-      "init": "init.jfltevzw.rc",
       "key": "jfltevzw"
     },
     {
+      "init": "init.jfltespr.rc",
+      "touch_version": "6.0.3.2",
+      "lunch": "cm_jfltespr-userdebug",
+      "version": "6.0.3.2",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ; ",
+      "name": "Samsung Galaxy S4 (Sprint)",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ; ",
-      "version": "6.0.3.2",
-      "lunch": "cm_jfltespr-userdebug",
-      "name": "Samsung Galaxy S4 (Sprint)",
-      "touch_version": "6.0.3.2",
-      "init": "init.jfltespr.rc",
       "key": "jfltespr"
     },
     {
+      "init": "init.jflteusc.rc",
+      "touch_version": "6.0.3.2",
+      "lunch": "cm_jflteusc-userdebug",
+      "version": "6.0.3.2",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ; ",
+      "name": "Samsung Galaxy S4 (US Cellular)",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ; ",
-      "version": "6.0.3.2",
-      "lunch": "cm_jflteusc-userdebug",
-      "name": "Samsung Galaxy S4 (US Cellular)",
-      "touch_version": "6.0.3.2",
-      "init": "init.jflteusc.rc",
       "key": "jflteusc"
     },
     {
+      "init": "init.jfltexx.rc",
+      "touch_version": "6.0.3.3",
+      "lunch": "cm_jfltexx-userdebug",
+      "version": "6.0.3.3",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ; ",
+      "name": "Samsung Galaxy S4 (i9505)",
       "legacy_versions": [
         "6.0.3.2"
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ; ",
-      "version": "6.0.3.3",
-      "lunch": "cm_jfltexx-userdebug",
-      "name": "Samsung Galaxy S4 (i9505)",
-      "touch_version": "6.0.3.3",
-      "init": "init.jfltexx.rc",
       "key": "jfltexx"
     },
     {
+      "init": "init.jfltecri.rc",
+      "touch_version": "6.0.3.2",
+      "lunch": "cm_jfltecri-userdebug",
+      "version": "6.0.3.2",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ; ",
+      "name": "Samsung Galaxy S4 (Cricket)",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ; ",
-      "version": "6.0.3.2",
-      "lunch": "cm_jfltecri-userdebug",
-      "name": "Samsung Galaxy S4 (Cricket)",
-      "touch_version": "6.0.3.2",
-      "init": "init.jfltecri.rc",
       "key": "jfltecri"
     },
     {
+      "init": "init.gelato.rc",
+      "lunch": "cm_lgl55c-userdebug",
+      "version": "6.0.3.3",
+      "flash_recovery": "dd if=%s of=/dev/block/mtdblock2 bs=4096 ; ",
+      "name": "LG Optimus Q (LGL55C Tracfone)",
       "legacy_versions": [
 
       ],
-      "flash_recovery": "dd if=%s of=/dev/block/mtdblock2 bs=4096 ; ",
-      "version": "6.0.3.3",
-      "lunch": "cm_lgl55c-userdebug",
-      "name": "LG Optimus Q (LGL55C Tracfone)",
-      "init": "init.gelato.rc",
       "key": "lgl55c"
     }
   ],
-  "version": "2.5.0.1",
+  "recovery_url": "http://download2.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.img",
+  "ad_network": "admob",
   "recovery_zip_url": "http://download2.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.zip",
-  "manifest_signature": "O8+Kc2mdQz0e/AjCQn6Rw6fK5Kr5LZItJ474Ua3gF2o4IgdCQZXIbwCHIo6xeqY3pVEGtjYmmyO1PkRYcGqq2rB2wQM8SoKFl/70vG0ihEZ5TDeruKUgxVVSNM3e09kBvCxYK89GWqVWkNHtvTu1T1F9w6FilzCsNFSAXHD0Bos=",
-  "manifest": "http://developer.clockworkmod.com/merge"
+  "version": "2.5.0.1",
+  "recovery_twrp_url": "http://download2.clockworkmod.com/twrp/openrecovery-twrp-%s-%s.img",
+  "manifest": "http://developer.clockworkmod.com/merge",
+  "keywords": "phone accessories,droid,gadgets,bluetooth headset,car charger,sd card",
+  "use_in_app": false,
+  "owners": {
+    "ferguson.david@gmail.com": true,
+    "keaneyw@gmail.com": true,
+    "njgreb@gmail.com": true,
+    "arcee@cyanogenmod.com": true,
+    "layhertony@gmail.com": true,
+    "cvpcsm@gmail.com": true,
+    "daniel.hillenbrand@codeworkx.de": true,
+    "bigbeeshane@gmail.com": true,
+    "utkanos@gmail.com": true,
+    "koush@clockworkmod.com": true,
+    "playfulgod@gmail.com": true,
+    "echen@cyngn.com": true,
+    "attn1.repo@gmail.com": true
+  }
 }

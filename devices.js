@@ -3271,7 +3271,8 @@
       "init": "init.jfltecsp.rc",
       "lunch": "cm_jfltecsp-userdebug",
       "version": "6.0.3.5",
-      "name": "jfltecsp",
+      "name": "Samsung Galaxy S4 (C Spire)",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p21 bs=4096 ; ",
       "key": "jfltecsp",
       "legacy_versions": [
 

@@ -3284,6 +3284,17 @@
       "key": "lgl55c",
       "version": "6.0.3.3",
       "init": "init.gelato.rc"
+    },
+    {
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p16 ; ",
+      "name": "Huawei Ascend Q",
+      "legacy_versions": [
+
+      ],
+      "lunch": "cm_m660-userdebug",
+      "key": "m660",
+      "version": "6.0.3.5",
+      "init": "init.highmem.rc"
     }
   ],
   "recovery_url": "http://download2.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.img",

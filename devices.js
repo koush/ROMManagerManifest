@@ -3299,15 +3299,15 @@
       "key": "jfltecsp",
       "touch_version": "6.0.3.5"
     },
-    {
-      "version": "6.0.3.5",
-      "lunch": "cm_m660-userdebug",
-      "name": "m660",
-      "init": "init.m660.rc",
+     "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p16 ; ",
+      "name": "Huawei Ascend Q",
       "legacy_versions": [
 
       ],
-      "key": "m660"
+      "lunch": "cm_m660-userdebug",
+      "key": "m660",
+      "version": "6.0.3.5",
+      "init": "init.highmem.rc"
     }
   ]
 }

@@ -3301,9 +3301,10 @@
     },
     {
       "version": "6.0.3.5",
+      "name": "Huawei Ascend Q",
       "lunch": "cm_m660-userdebug",
-      "name": "m660",
-      "init": "init.m660.rc",
+      "init": "init.highmem.rc",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p16 ; ",
       "legacy_versions": [
 
       ],

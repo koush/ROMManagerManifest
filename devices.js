@@ -3308,6 +3308,6 @@
       "key": "m660",
       "version": "6.0.3.5",
       "init": "init.highmem.rc"
-    }
-  ]
 }
+  ],
+

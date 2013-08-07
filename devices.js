@@ -3243,6 +3243,10 @@
         "6.0.3.2",
         "6.0.3.3"
       ],
+      "ro.product.devices": [
+        "jfltexx",
+        "jgedlte"
+      ],
       "lunch": "cm_jfltexx-userdebug"
     },
     {

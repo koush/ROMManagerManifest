@@ -710,32 +710,6 @@
       "name": "ZTE Blade"
     },
     {
-      "init": "env.txt",
-      "key": "encore",
-      "flash_recovery": "busybox mount -orw,remount / ; mkdir /boot ; busybox mount /dev/block/mmcblk0p1 /boot ; busybox unzip -p %1$s ramdisk-recovery.ub > /boot/uRecRam ; busybox unzip -p %1$s kernel > /boot/uRecImg ; busybox umount /boot ; rmdir /boot; busybox mount -oro,remount / ; ",
-      "legacy_versions": [
-        "3.0.1.0",
-        "3.0.0.9",
-        "3.0.0.8",
-        "3.0.0.6",
-        "3.0.1.0",
-        "3.0.2.8",
-        "3.2.0.0",
-        "3.2.0.0",
-        "3.2.0.1",
-        "3.2.0.1",
-        "3.2.0.1"
-      ],
-      "version": "6.0.3.1",
-      "lunch": "cm_encore-userdebug",
-      "inits": [
-        "env.txt",
-        "init.encore.rc"
-      ],
-      "reboot_recovery": "dd if=/dev/zero of=/rom/bcb bs=64 count=1 ; echo 'recovery' >> /rom/bcb ; reboot ;",
-      "name": "Nook Color"
-    },
-    {
       "init": "init.bahamas.rc",
       "key": "click",
       "legacy_versions": [

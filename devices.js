@@ -3317,7 +3317,9 @@
       ],
       "version": "6.0.3.7",
       "lunch": "cm_flo-userdebug",
-      "name": "flo"
+      "name": "Google Nexus 7 (2013)",
+      "key": "flo",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/msm_sdcc.1/by-name/recovery bs=4096 ; "
     }
   ],
   "manifest": "http://developer.clockworkmod.com/merge",

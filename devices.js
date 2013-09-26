@@ -3338,11 +3338,12 @@
       "legacy_versions": [
 
       ],
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p18 bs=4096 ; ",
       "key": "apexqtmo",
       "version": "6.0.3.8",
       "lunch": "cm_apexqtmo-userdebug",
       "init": "init.apexqtmo.rc",
-      "name": "apexqtmo",
+      "name": "SGH-T699",
       "touch_version": "6.0.3.8"
     }
   ],

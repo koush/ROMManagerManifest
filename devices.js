@@ -3343,7 +3343,7 @@
       "version": "6.0.3.8",
       "lunch": "cm_apexqtmo-userdebug",
       "init": "init.apexqtmo.rc",
-      "name": "SGH-T699",
+      "name": "Samsung SGH-T699",
       "touch_version": "6.0.3.8"
     }
   ],

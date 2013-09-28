@@ -3334,19 +3334,38 @@
     },
     {
       "lunch": "cm_e970-userdebug",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/msm_sdcc.1/by-name/recovery bs=4096 ; ",
       "touch_version": "6.0.3.8",
       "key": "e970",
       "version": "6.0.3.8",
-      "init": "init.e970.rc",
-      "name": "e970",
+      "init": "init.gee.rc",
+      "name": "LG Optimus G (ATT)",
+      "legacy_versions": [
+
+      ]
+    },
+    {
+      "lunch": "cm_e973-userdebug",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/msm_sdcc.1/by-name/recovery bs=4096 ; ",
+      "key": "e973",
+      "init": "init.gee.rc",
+      "name": "LG Optimus G (Canada)",
+      "legacy_versions": [
+
+      ]
+    },
+    {
+      "lunch": "cm_ls970-userdebug",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/msm_sdcc.1/by-name/recovery bs=4096 ; ",
+      "key": "ls970",
+      "init": "init.gee.rc",
+      "name": "LG Optimus G (Sprint)",
       "legacy_versions": [
 
       ]
     },
     {
       "lunch": "cm_e980-userdebug",
-      "touch_version": "6.0.3.8",
-      "version": "6.0.3.8",
       "key": "e980",
       "init": "init.e980.rc",
       "name": "e980",

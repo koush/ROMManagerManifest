@@ -3380,9 +3380,12 @@
       "legacy_versions": [
 
       ],
+      "version": "6.0.3.8",
+      "touch_version": "6.0.3.8",
+      "flash_recovery": "dd if=/dev/block/platform/msm_sdcc.1/by-name/aboot of=/sdcard/clockworkmod/aboot.img; /data/data/com.koushikdutta.rommanager/files/loki_patch recovery /sdcard/clockworkmod/aboot.img %s /sdcard/clockworkmod/recovery.lok ; /data/data/com.koushikdutta.rommanager/files/loki_flash recovery /sdcard/clockworkmod/recovery.lok ; ",
       "key": "e980",
-      "name": "e980",
-      "init": "init.e980.rc"
+      "name": "LG Optimus G Pro (GSM)",
+      "init": "init.gee_gk.rc"
     }
   ],
   "owners": {

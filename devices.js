@@ -3414,10 +3414,15 @@
 
       ],
       "lunch": "cm_l1m-userdebug",
-      "init": "init.l1m.rc",
-      "key": "l1m",
+      "legacy_versions": [
+
+      ],
       "version": "6.0.3.8",
-      "name": "l1m"
+      "touch_version": "6.0.3.8",
+      "flash_recovery": "dd if=/dev/block/platform/msm_sdcc.1/by-name/aboot of=/sdcard/clockworkmod/aboot.img; /data/data/com.koushikdutta.rommanager/files/loki_patch recovery /sdcard/clockworkmod/aboot.img %s /sdcard/clockworkmod/recovery.lok ; /data/data/com.koushikdutta.rommanager/files/loki_flash recovery /sdcard/clockworkmod/recovery.lok ; ",
+      "key": "l1m",
+      "name": "LG Spirit 4G (MetroPCS)",
+      "init": "init.l1m.rc"
     }
   ],
   "recovery_zip_url": "http://download2.clockworkmod.com/recoveries/recovery-clockwork-%s-%s.zip",

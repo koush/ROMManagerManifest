@@ -3542,7 +3542,8 @@
     {
       "touch_version": "6.0.4.4",
       "init": "init.xt907.rc",
-      "name": "xt907",
+      "name": "Motorola Droid RAZR M",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/msm_sdcc.1/by-name/recovery bs=4096 ; ",
       "key": "xt907",
       "lunch": "cm_xt907-userdebug",
       "legacy_versions": [

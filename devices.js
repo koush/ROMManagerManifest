@@ -3530,7 +3530,8 @@
     {
       "touch_version": "6.0.4.3",
       "init": "init.m7vzw.rc",
-      "name": "m7vzw",
+      "name": "HTC One (Verizon)",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p34 bs=4096 ; ",
       "key": "m7vzw",
       "lunch": "cm_m7vzw-userdebug",
       "legacy_versions": [

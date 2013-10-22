@@ -2913,7 +2913,7 @@
     },
     {
       "lunch": "cm_d802-userdebug",
-      "flash_recovery": "dd if=/dev/block/platform/msm_sdcc.1/by-name/aboot of=
+      "flash_recovery": "dd if=/dev/block/platform/msm_sdcc.1/by-name/aboot of=/sdcard/clockworkmod/aboot.img; /data/data/com.koushikdutta.rommanager/files/loki_patch recovery /sdcard/clockworkmod/aboot.img %s /sdcard/clockworkmod/recovery.lok ; /data/data/com.koushikdutta.rommanager/files/loki_flash recovery /sdcard/clockworkmod/recovery.lok ; ",
       "init": "init.g2.rc",
       "legacy_versions": [
 
@@ -2923,7 +2923,7 @@
     },
     {
       "lunch": "cm_vs980-userdebug",
-      "flash_recovery": "dd if=/dev/block/platform/msm_sdcc.1/by-name/aboot of=
+      "flash_recovery": "dd if=/dev/block/platform/msm_sdcc.1/by-name/aboot of=/sdcard/clockworkmod/aboot.img; /data/data/com.koushikdutta.rommanager/files/loki_patch recovery /sdcard/clockworkmod/aboot.img %s /sdcard/clockworkmod/recovery.lok ; /data/data/com.koushikdutta.rommanager/files/loki_flash recovery /sdcard/clockworkmod/recovery.lok ; ",
       "init": "init.g2.rc",
       "legacy_versions": [
 

@@ -3596,7 +3596,8 @@
 
       ],
       "key": "deb",
-      "name": "deb",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/msm_sdcc.1/by-name/recovery bs=4096 ; ",
+      "name": "Google Nexus 7 (2013) LTE",
       "touch_version": "6.0.4.4",
       "init": "init.deb.rc"
     }

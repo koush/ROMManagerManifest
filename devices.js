@@ -3541,7 +3541,7 @@
       "legacy_versions": [
 
       ],
-      "name": "mb886",
+      "name": "Motorola Atrix HD",
       "key": "mb886"
     },
     {
@@ -3552,7 +3552,7 @@
       "legacy_versions": [
 
       ],
-      "name": "xt926",
+      "name": "Motorola Droid RAZR HD (CDMA)",
       "key": "xt926"
     },
     {
@@ -3563,7 +3563,7 @@
       "legacy_versions": [
 
       ],
-      "name": "xt925",
+      "name": "Motorola Droid RAZR HD (GSM)",
       "key": "xt925"
     }
   ],

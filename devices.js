@@ -2912,6 +2912,26 @@
       "version": "6.0.3.1"
     },
     {
+      "lunch": "cm_d802-userdebug",
+      "flash_recovery": "dd if=/dev/block/platform/msm_sdcc.1/by-name/aboot of=
+      "init": "init.g2.rc",
+      "legacy_versions": [
+
+      ],
+      "name": "LG G2 (International)",
+      "key": "d802"
+    },
+    {
+      "lunch": "cm_vs980-userdebug",
+      "flash_recovery": "dd if=/dev/block/platform/msm_sdcc.1/by-name/aboot of=
+      "init": "init.g2.rc",
+      "legacy_versions": [
+
+      ],
+      "name": "LG G2 (Verizon)",
+      "key": "vs980"
+    },
+    {
       "legacy_versions": [
 
       ],

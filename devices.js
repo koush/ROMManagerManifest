@@ -1825,9 +1825,10 @@
       "legacy_versions": [
         "5.8.2.0",
         "6.0.1.4",
-        "6.0.1.5"
+        "6.0.1.5",
+        "6.0.4.4"
       ],
-      "version": "6.0.4.4",
+      "version": "6.0.4.5",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p13 ;"
     },
     {

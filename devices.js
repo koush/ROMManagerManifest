@@ -1824,9 +1824,10 @@
       "key": "p930",
       "legacy_versions": [
         "5.8.2.0",
-        "6.0.1.4"
+        "6.0.1.4",
+        "6.0.1.5"
       ],
-      "version": "6.0.1.5",
+      "version": "6.0.4.4",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p13 ;"
     },
     {

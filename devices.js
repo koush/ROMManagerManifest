@@ -1819,7 +1819,7 @@
     {
       "name": "LG Nitro HD / LG P930 (AT&T)",
       "lunch": "cm_p930-userdebug",
-      "touch_version": "6.0.4.4",
+      "touch_version": "6.0.4.5",
       "init": "bootimages/boot_logo_00000.rle",
       "key": "p930",
       "legacy_versions": [

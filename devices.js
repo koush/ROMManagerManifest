@@ -2041,7 +2041,7 @@
         "i9300",
         "m0"
       ],
-      "touch_version": "6.0.3.6",
+      "touch_version": "6.0.4.4",
       "init": "ueventd.smdk4x12.rc",
       "key": "i9300",
       "legacy_versions": [

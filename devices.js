@@ -3118,7 +3118,7 @@
     {
       "name": "LG Optimus G Intl (E975)",
       "lunch": "cm_e975-userdebug",
-      "touch_version": "6.0.3.0",
+      "touch_version": "6.0.4.5",
       "init": "init.geehrc.rc",
       "key": "e975",
       "legacy_versions": [

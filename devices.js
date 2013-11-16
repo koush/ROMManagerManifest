@@ -3618,9 +3618,10 @@
       "flash_recovery": "dd if=%s of=/dev/block/platform/msm_sdcc.1/by-name/recovery bs=4096 ; "
     },
     {
+      "flash_recovery": "dd if=%s of=/dev/block/platform/msm_sdcc.1/by-name/recovery bs=4096 ; ",
       "key": "hammerhead",
       "init": "init.hammerhead.rc",
-      "name": "hammerhead",
+      "name": "Google Nexus 5",
       "legacy_versions": [
 
       ],

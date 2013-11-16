@@ -3616,6 +3616,16 @@
       ],
       "version": "6.0.4.4",
       "flash_recovery": "dd if=%s of=/dev/block/platform/msm_sdcc.1/by-name/recovery bs=4096 ; "
+    },
+    {
+      "key": "hammerhead",
+      "init": "init.hammerhead.rc",
+      "name": "hammerhead",
+      "legacy_versions": [
+
+      ],
+      "version": "6.0.4.4",
+      "lunch": "cm_hammerhead-userdebug"
     }
   ],
   "manifest_signature": "O8+Kc2mdQz0e/AjCQn6Rw6fK5Kr5LZItJ474Ua3gF2o4IgdCQZXIbwCHIo6xeqY3pVEGtjYmmyO1PkRYcGqq2rB2wQM8SoKFl/70vG0ihEZ5TDeruKUgxVVSNM3e09kBvCxYK89GWqVWkNHtvTu1T1F9w6FilzCsNFSAXHD0Bos=",

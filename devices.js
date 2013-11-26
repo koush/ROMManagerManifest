@@ -3169,7 +3169,7 @@
     {
       "name": "Oppo Find5",
       "lunch": "cm_find5-userdebug",
-      "touch_version": "6.0.3.7",
+      "touch_version": "6.0.4.5",
       "init": "init.find5.rc",
       "key": "find5",
       "legacy_versions": [

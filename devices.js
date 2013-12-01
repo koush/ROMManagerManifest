@@ -3625,9 +3625,9 @@
       "init": "init.hammerhead.rc",
       "name": "Google Nexus 5",
       "legacy_versions": [
-
+        "6.0.4.4"
       ],
-      "version": "6.0.4.4",
+      "version": "6.0.4.5",
       "lunch": "cm_hammerhead-userdebug",
       "touch_version": "6.0.4.5"
     }

@@ -1,6 +1,15 @@
 {
     "version": "1",
     "roms": [
+	    {
+	        "name": "20130813 JB",
+	        "summary": "Recommended for CM 10.2.x\nAugust 13, 2013 for Android 4.3.X",
+	        "product": "jb",
+	        "modversion": "GApps-20130813-JB",
+	        "incremental": "20130813",
+	        "device": "all",
+	        "url": "http://download2.clockworkmod.com/gapps/gapps-jb-20130813-signed.zip"
+	    },
         {
             "name": "20121212 JB",
             "summary": "Recommended for CM 10.1.x\nJuly 26, 2012 for Android 4.2.X",

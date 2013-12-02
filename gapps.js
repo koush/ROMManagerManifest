@@ -8,7 +8,7 @@
 	        "modversion": "GApps-20130813-JB",
 	        "incremental": "20130813",
 	        "device": "all",
-	        "url": "http://download2.clockworkmod.com/gapps/gapps-jb-20130813-signed.zip"
+	        "url": "http://download.clockworkmod.com/gapps/gapps-jb-20130813-signed.zip"
 	    },
         {
             "name": "20121212 JB",

@@ -2,6 +2,15 @@
     "version": "1",
     "roms": [
 	    {
+	        "name": "20131119 JB",
+	        "summary": "Recommended for CM 11.0.x\nAugust 13, 2013 for Android 4.4.X",
+	        "product": "kk",
+	        "modversion": "GApps-20131119-KK",
+	        "incremental": "20131119",
+	        "device": "all",
+	        "url": "http://download.clockworkmod.com/gapps/gapps-kk-20131119.zip"
+	    },
+	    {
 	        "name": "20130813 JB",
 	        "summary": "Recommended for CM 10.2.x\nAugust 13, 2013 for Android 4.3.X",
 	        "product": "jb",

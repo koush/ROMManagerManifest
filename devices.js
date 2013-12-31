@@ -3136,9 +3136,9 @@
       "init": "init.x3.rc",
       "key": "p880",
       "legacy_versions": [
-
+        "6.0.3.1"
       ],
-      "version": "6.0.3.1",
+      "version": "6.0.4.5",
       "flash_recovery": "dd if=%s of=/dev/block/platform/sdhci-tegra.3/by-name/SOS bs=4096 ; "
     },
     {

@@ -3132,7 +3132,7 @@
       "name": "LG Optimus 4X HD",
       "reboot_recovery": "echo 'boot-recovery' | dd of=/dev/block/mmcblk0p5 bs=1 count=13 ; reboot ; ",
       "lunch": "cm_p880-userdebug",
-      "touch_version": "6.0.3.1",
+      "touch_version": "6.0.4.5",
       "init": "init.x3.rc",
       "key": "p880",
       "legacy_versions": [

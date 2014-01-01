@@ -2153,7 +2153,7 @@
         "d2tmo",
         "d2lteMetroPCS"
       ],
-      "touch_version": "6.0.4.3",
+      "touch_version": "6.0.4.5",
       "init": "init.d2tmo.rc",
       "key": "d2tmo",
       "legacy_versions": [

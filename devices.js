@@ -3489,9 +3489,9 @@
       "init": "init.apexqtmo.rc",
       "key": "apexqtmo",
       "legacy_versions": [
-
+        "6.0.3.8"
       ],
-      "version": "6.0.3.8",
+      "version": "6.0.4.5",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p18 bs=4096 ; "
     },
     {

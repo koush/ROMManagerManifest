@@ -2178,7 +2178,7 @@
     {
       "name": "Samsung Galaxy S3 (Sprint)",
       "lunch": "cm_d2spr-userdebug",
-      "touch_version": "6.0.4.3",
+      "touch_version": "6.0.4.5",
       "init": "init.d2spr.rc",
       "key": "d2spr",
       "legacy_versions": [

@@ -3644,10 +3644,10 @@
       "name": "Galaxy Express (AT&T)",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p18 bs=4096 ; ",
       "legacy_versions": [
-
+        "6.0.4.5"
       ],
       "touch_version": "6.0.4.6",
-      "version": "6.0.4.5",
+      "version": "6.0.4.6",
       "lunch": "cm_expressatt-userdebug"
     }
   ],

@@ -2623,7 +2623,7 @@
     {
       "name": "HTC Droid DNA",
       "lunch": "cm_dlx-userdebug",
-      "touch_version": "6.0.3.1",
+      "touch_version": "6.0.4.5",
       "init": "init.debug_mfgkernel.rc",
       "key": "dlx",
       "legacy_versions": [

@@ -2204,7 +2204,7 @@
     {
       "name": "Samsung Galaxy S3 (Verizon)",
       "lunch": "cm_d2vzw-userdebug",
-      "touch_version": "6.0.4.3",
+      "touch_version": "6.0.4.5",
       "init": "init.d2vzw.rc",
       "key": "d2vzw",
       "twrp_version": "2.4.3.0",

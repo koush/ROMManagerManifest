@@ -2535,7 +2535,7 @@
         "init.carrier.rc",
         "init.d2mtr.rc"
       ],
-      "touch_version": "6.0.4.3",
+      "touch_version": "6.0.4.5",
       "init": "init.carrier.rc",
       "key": "d2mtr",
       "legacy_versions": [

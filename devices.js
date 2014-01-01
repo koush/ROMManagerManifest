@@ -3646,7 +3646,7 @@
       "legacy_versions": [
 
       ],
-      "touch_version": "6.0.4.5",
+      "touch_version": "6.0.4.6",
       "version": "6.0.4.5",
       "lunch": "cm_expressatt-userdebug"
     }

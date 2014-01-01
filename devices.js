@@ -3641,7 +3641,8 @@
     {
       "key": "expressatt",
       "init": "init.expressatt.rc",
-      "name": "expressatt",
+      "name": "Galaxy Express (AT&T)",
+      "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p18 bs=4096 ; ",
       "legacy_versions": [
 
       ],

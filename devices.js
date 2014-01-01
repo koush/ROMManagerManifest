@@ -2463,7 +2463,7 @@
     {
       "name": "Samsung Galaxy S3 (US Cellular)",
       "lunch": "cm_d2usc-userdebug",
-      "touch_version": "6.0.4.3",
+      "touch_version": "6.0.4.5",
       "init": "init.d2usc.rc",
       "key": "d2usc",
       "legacy_versions": [

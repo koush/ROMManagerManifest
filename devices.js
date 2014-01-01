@@ -2716,7 +2716,7 @@
     {
       "name": "Samsung Galaxy S3 (Cricket)",
       "lunch": "cm_d2cri-userdebug",
-      "touch_version": "6.0.4.3",
+      "touch_version": "6.0.4.5",
       "init": "init.d2cri.rc",
       "key": "d2cri",
       "legacy_versions": [

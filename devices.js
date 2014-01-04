@@ -2031,9 +2031,10 @@
       "key": "jewel",
       "legacy_versions": [
         "5.8.3.4",
-        "5.8.3.4"
+        "5.8.3.4",
+        "5.8.3.5"
       ],
-      "version": "5.8.3.5",
+      "version": "6.0.4.6",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=4096 ; "
     },
     {

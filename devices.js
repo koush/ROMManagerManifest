@@ -3661,7 +3661,9 @@
       "legacy_versions": [
 
       ],
-      "touch_version": "6.0.4.6"
+      "touch_version": "6.0.4.6",
+      "version": "6.0.4.6",
+      "lunch": "cm_hltespr-userdebug"
     },
     {
       "key": "hltetmo",

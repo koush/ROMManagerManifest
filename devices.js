@@ -3657,7 +3657,8 @@
     {
       "key": "hltespr",
       "init": "init.hltespr.rc",
-      "name": "hltespr",
+      "name": "Samsung Note 3 (Sprint)",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/msm_sdcc.1/by-name/recovery bs=4096 ; ",
       "legacy_versions": [
 
       ],
@@ -3668,7 +3669,8 @@
     {
       "key": "hltetmo",
       "init": "init.hltetmo.rc",
-      "name": "hltetmo",
+      "name": "Samsung Note 3 (T-Mobile)",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/msm_sdcc.1/by-name/recovery bs=4096 ; ",
       "legacy_versions": [
 
       ],
@@ -3679,7 +3681,8 @@
     {
       "key": "hltevzw",
       "init": "init.hltevzw.rc",
-      "name": "hltevzw",
+      "name": "Samsung Note 3 (Verizon)",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/msm_sdcc.1/by-name/recovery bs=4096 ; ",
       "legacy_versions": [
 
       ],
@@ -3690,7 +3693,8 @@
     {
       "key": "hltexx",
       "init": "init.hltexx.rc",
-      "name": "hltexx",
+      "name": "Samsung Note 3 (International)",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/msm_sdcc.1/by-name/recovery bs=4096 ; ",
       "legacy_versions": [
 
       ],
@@ -3701,7 +3705,8 @@
     {
       "key": "hltecan",
       "init": "init.hltecan.rc",
-      "name": "hltecan",
+      "name": "Samsung Note 3 (Canada)",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/msm_sdcc.1/by-name/recovery bs=4096 ; ",
       "legacy_versions": [
 
       ],

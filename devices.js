@@ -3671,7 +3671,8 @@
 
       ],
       "version": "6.0.4.6",
-      "lunch": "cm_hltetmo-userdebug"
+      "lunch": "cm_hltetmo-userdebug",
+      "touch_version": "6.0.4.6"
     },
     {
       "key": "hltevzw",

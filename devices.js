@@ -3682,7 +3682,8 @@
 
       ],
       "version": "6.0.4.6",
-      "lunch": "cm_hltevzw-userdebug"
+      "lunch": "cm_hltevzw-userdebug",
+      "touch_version": "6.0.4.6"
     },
     {
       "key": "hltexx",

@@ -2862,9 +2862,10 @@
       "key": "m7",
       "legacy_versions": [
         "6.0.2.8",
-        "6.0.3.0"
+        "6.0.3.0",
+        "6.0.3.1"
       ],
-      "version": "6.0.3.1",
+      "version": "6.0.4.6",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p34 bs=4096 ; "
     },
     {

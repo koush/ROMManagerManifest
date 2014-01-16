@@ -3187,9 +3187,10 @@
       "key": "find5",
       "legacy_versions": [
         "6.0.3.1",
-        "6.0.3.7"
+        "6.0.3.7",
+        "6.0.4.5"
       ],
-      "version": "6.0.4.5",
+      "version": "6.0.4.6",
       "flash_recovery": "dd if=%s of=/dev/block/platform/msm_sdcc.1/by-name/recovery bs=4096 ; "
     },
     {

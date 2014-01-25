@@ -2601,7 +2601,7 @@
     {
       "name": "Google Nexus 4",
       "lunch": "cm_mako-userdebug",
-      "touch_version": "6.0.4.6",
+      "touch_version": "6.0.4.7",
       "init": "init.mako.rc",
       "key": "mako",
       "legacy_versions": [

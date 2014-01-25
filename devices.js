@@ -2619,9 +2619,10 @@
         "6.0.3.6",
         "6.0.3.8",
         "6.0.4.1",
-        "6.0.4.3"
+        "6.0.4.3",
+        "6.0.4.6"
       ],
-      "version": "6.0.4.6",
+      "version": "6.0.4.7",
       "flash_recovery": "dd if=%s of=/dev/block/platform/msm_sdcc.1/by-name/recovery bs=4096 ; "
     },
     {

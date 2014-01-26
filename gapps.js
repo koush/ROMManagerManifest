@@ -2,16 +2,16 @@
     "version": "1",
     "roms": [
 	    {
-	        "name": "20131119 JB",
+	        "name": "Google Apps 4.4",
 	        "summary": "Recommended for CM 11.0.x\nAugust 13, 2013 for Android 4.4.X",
 	        "product": "kk",
 	        "modversion": "GApps-20131119-KK",
 	        "incremental": "20131119",
 	        "device": "all",
-	        "url": "http://download.clockworkmod.com/gapps/gapps-kk-20131119.zip"
+	        "url": "http://download.clockworkmod.com/gapps/gapps-kk-20140105-signed.zip"
 	    },
 	    {
-	        "name": "20130813 JB",
+	        "name": "Google Apps 4.3",
 	        "summary": "Recommended for CM 10.2.x\nAugust 13, 2013 for Android 4.3.X",
 	        "product": "jb",
 	        "modversion": "GApps-20130813-JB",
@@ -20,7 +20,7 @@
 	        "url": "http://download.clockworkmod.com/gapps/gapps-jb-20130813-signed.zip"
 	    },
         {
-            "name": "20121212 JB",
+            "name": "Google Apps 4.2",
             "summary": "Recommended for CM 10.1.x\nJuly 26, 2012 for Android 4.2.X",
             "product": "jb",
             "modversion": "GApps-20121212-JB",
@@ -29,7 +29,7 @@
             "url": "http://download.clockworkmod.com/gapps/gapps-jb-20121212-signed.zip"
         },
         {
-            "name": "20121011 JB",
+            "name": "Google Apps 4.1",
             "summary": "Recommended for CM 10.0.x\nJuly 26, 2012 for Android 4.1.1",
             "product": "jb",
             "modversion": "GApps-20121011-JB",
@@ -38,7 +38,7 @@
             "url": "http://download.clockworkmod.com/gapps/gapps-jb-20121011-signed.zip"
         },
         {
-            "name": "20120429 ICS",
+            "name": "Google Apps 4.0",
             "summary": "Recommended for CM 9.0.x\nApril 29, 2012 for Android 4.0.4",
             "product": "ics",
             "modversion": "GApps-20120429-ICS",
@@ -47,7 +47,7 @@
             "url": "http://download.clockworkmod.com/gapps/gapps-ics-20120429-signed.zip"
         },
         {
-            "name": "20110828 Universal",
+            "name": "Google Apps 2.3",
             "summary": "Recommended for CM 7.1.x\nAugust 28, 2011 for Android 2.3.5",
             "product": "gingerbread",
             "modversion": "GApps-20110828-Universal",

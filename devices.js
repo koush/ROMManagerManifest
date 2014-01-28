@@ -3736,6 +3736,7 @@
   "manifest": "http://developer.clockworkmod.com/merge",
   "use_in_app": false,
   "owners": {
+    "brint@cyngn.com": true,
     "cvpcsm@gmail.com": true,
     "layhertony@gmail.com": true,
     "ferguson.david@gmail.com": true,

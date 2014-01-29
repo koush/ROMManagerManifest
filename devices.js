@@ -3035,9 +3035,10 @@
       "legacy_versions": [
         "6.0.2.9",
         "6.0.3.1",
-        "6.0.3.2"
+        "6.0.3.2",
+        "6.0.3.6"
       ],
-      "version": "6.0.3.6",
+      "version": "6.0.4.7",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p9 bs=4096 ; "
     },
     {

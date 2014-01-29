@@ -1579,9 +1579,10 @@
         "6.0.3.5",
         "6.0.3.6",
         "6.0.4.0",
-        "6.0.4.1"
+        "6.0.4.1",
+        "6.0.4.3"
       ],
-      "version": "6.0.4.3",
+      "version": "6.0.4.7",
       "flash_recovery": "dd if=%s of=/dev/block/platform/omap/omap_hsmmc.0/by-name/recovery bs=4096 ;"
     },
     {

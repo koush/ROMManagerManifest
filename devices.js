@@ -1556,7 +1556,7 @@
     {
       "name": "Google Galaxy Nexus (GSM)",
       "lunch": "cm_maguro-userdebug",
-      "touch_version": "6.0.4.3",
+      "touch_version": "6.0.4.7",
       "init": "init.tuna.rc",
       "key": "maguro",
       "legacy_versions": [

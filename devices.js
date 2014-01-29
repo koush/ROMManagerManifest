@@ -3029,7 +3029,7 @@
     {
       "name": "Samsung Galaxy S3 LTE (GT-I9305)",
       "lunch": "cm_i9305-userdebug",
-      "touch_version": "6.0.3.6",
+      "touch_version": "6.0.4.7",
       "init": "ueventd.smdk4x12.rc",
       "key": "i9305",
       "legacy_versions": [

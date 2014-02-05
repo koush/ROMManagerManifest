@@ -2594,9 +2594,10 @@
         "6.0.3.1",
         "6.0.3.5",
         "6.0.3.8",
-        "6.0.4.1"
+        "6.0.4.1",
+        "6.0.4.3"
       ],
-      "version": "6.0.4.3",
+      "version": "6.0.4.7",
       "flash_recovery": "dd if=%s of=/dev/block/platform/dw_mmc.0/by-name/recovery bs=4096 ; "
     },
     {

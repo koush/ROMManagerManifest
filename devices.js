@@ -2376,7 +2376,7 @@
         "init.i_vzw.rc",
         "init.iprj.rc"
       ],
-      "touch_version": "6.0.4.5",
+      "touch_version": "6.0.4.7",
       "init": "init.target.rc",
       "key": "vs920",
       "legacy_versions": [

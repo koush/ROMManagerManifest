@@ -2579,7 +2579,7 @@
     {
       "name": "Google Nexus 10",
       "lunch": "cm_manta-userdebug",
-      "touch_version": "6.0.4.3",
+      "touch_version": "6.0.4.7",
       "init": "init.manta.rc",
       "key": "manta",
       "legacy_versions": [

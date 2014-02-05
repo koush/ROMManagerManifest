@@ -2127,7 +2127,7 @@
     {
       "name": "Samsung Galaxy S3 (AT&T)",
       "lunch": "cm_d2att-userdebug",
-      "touch_version": "6.0.4.5",
+      "touch_version": "6.0.4.7",
       "init": "init.d2att.rc",
       "key": "d2att",
       "legacy_versions": [

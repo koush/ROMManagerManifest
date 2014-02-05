@@ -3485,7 +3485,7 @@
     {
       "name": "Google Nexus 7 (2013)",
       "lunch": "cm_flo-userdebug",
-      "touch_version": "6.0.4.3",
+      "touch_version": "6.0.4.7",
       "init": "init.flo.rc",
       "key": "flo",
       "legacy_versions": [

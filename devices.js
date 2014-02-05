@@ -2380,9 +2380,10 @@
       "init": "init.target.rc",
       "key": "vs920",
       "legacy_versions": [
-        "6.0.1.1"
+        "6.0.1.1",
+        "6.0.4.5"
       ],
-      "version": "6.0.4.5",
+      "version": "6.0.4.7",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p13 bs=4096 ; "
     },
     {

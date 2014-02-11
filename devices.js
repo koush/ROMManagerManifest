@@ -2569,7 +2569,7 @@
       "name": "Asus Transformer Pad Infinity",
       "reboot_recovery": "echo 'boot-recovery' | dd of=/dev/block/mmcblk0p3 seek=6144 bs=1 ; reboot ; ",
       "lunch": "cm_tf700t-userdebug",
-      "touch_version": "6.0.3.1",
+      "touch_version": "6.0.4.7",
       "init": "init.tf700t.rc",
       "key": "tf700t",
       "legacy_versions": [

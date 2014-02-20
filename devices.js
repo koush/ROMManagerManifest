@@ -3731,7 +3731,8 @@
     {
       "key": "n1",
       "init": "init.n1.rc",
-      "name": "n1",
+      "name": "Oppo N1",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/msm_sdcc.1/by-name/recovery bs=4096 ; ",
       "legacy_versions": [
 
       ],
@@ -3742,7 +3743,8 @@
     {
       "key": "falcon",
       "init": "init.falcon.rc",
-      "name": "falcon",
+      "name": "Motorola G",
+      "flash_recovery": "dd if=%s of=/dev/block/platform/msm_sdcc.1/by-name/recovery bs=4096 ; ",
       "legacy_versions": [
 
       ],

@@ -3437,7 +3437,7 @@
     {
       "name": "Samsung Galaxy S4 (Cricket)",
       "lunch": "cm_jfltecri-userdebug",
-      "touch_version": "6.0.4.4",
+      "touch_version": "6.0.4.7",
       "init": "init.jfltecri.rc",
       "key": "jfltecri",
       "legacy_versions": [

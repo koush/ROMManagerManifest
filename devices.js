@@ -3373,7 +3373,7 @@
     {
       "name": "Samsung Galaxy S4 (Verizon)",
       "lunch": "cm_jfltevzw-userdebug",
-      "touch_version": "6.0.4.4",
+      "touch_version": "6.0.4.7",
       "init": "init.jfltevzw.rc",
       "key": "jfltevzw",
       "legacy_versions": [

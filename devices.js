@@ -3226,7 +3226,7 @@
     {
       "name": "Samsung Galaxy S4 (Canada/Bell)",
       "lunch": "cm_jfltecan-userdebug",
-      "touch_version": "6.0.4.4",
+      "touch_version": "6.0.4.7",
       "init": "init.jfltecan.rc",
       "key": "jfltecan",
       "legacy_versions": [

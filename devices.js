@@ -3381,9 +3381,10 @@
         "6.0.3.6",
         "6.0.3.8",
         "6.0.4.1",
-        "6.0.4.3"
+        "6.0.4.3",
+        "6.0.4.4"
       ],
-      "version": "6.0.4.4",
+      "version": "6.0.4.7",
       "flash_recovery": "dd if=/dev/block/platform/msm_sdcc.1/by-name/aboot of=/sdcard/clockworkmod/aboot.img; /data/data/com.koushikdutta.rommanager/files/loki_patch recovery /sdcard/clockworkmod/aboot.img %s /sdcard/clockworkmod/recovery.lok ; /data/data/com.koushikdutta.rommanager/files/loki_flash recovery /sdcard/clockworkmod/recovery.lok ; "
     },
     {

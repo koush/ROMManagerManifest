@@ -3388,7 +3388,7 @@
     {
       "name": "Samsung Galaxy S4 (Sprint)",
       "lunch": "cm_jfltespr-userdebug",
-      "touch_version": "6.0.4.4",
+      "touch_version": "6.0.4.7",
       "init": "init.jfltespr.rc",
       "key": "jfltespr",
       "legacy_versions": [

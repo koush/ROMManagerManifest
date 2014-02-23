@@ -3423,7 +3423,7 @@
     {
       "name": "Samsung Galaxy S4 (i9505)",
       "lunch": "cm_jfltexx-userdebug",
-      "touch_version": "6.0.4.4",
+      "touch_version": "6.0.4.7",
       "init": "init.jfltexx.rc",
       "key": "jfltexx",
       "legacy_versions": [

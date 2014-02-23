@@ -3340,7 +3340,7 @@
     {
       "name": "Samsung Galaxy S4 (AT&T)",
       "lunch": "cm_jflteatt-userdebug",
-      "touch_version": "6.0.4.4",
+      "touch_version": "6.0.4.7",
       "init": "init.jflteatt.rc",
       "key": "jflteatt",
       "legacy_versions": [

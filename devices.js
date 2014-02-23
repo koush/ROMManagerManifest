@@ -3406,7 +3406,7 @@
     {
       "name": "Samsung Galaxy S4 (US Cellular)",
       "lunch": "cm_jflteusc-userdebug",
-      "touch_version": "6.0.4.4",
+      "touch_version": "6.0.4.7",
       "init": "init.jflteusc.rc",
       "key": "jflteusc",
       "legacy_versions": [

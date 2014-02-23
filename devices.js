@@ -3465,7 +3465,7 @@
     {
       "name": "Samsung Galaxy S4 (C Spire)",
       "lunch": "cm_jfltecsp-userdebug",
-      "touch_version": "6.0.4.4",
+      "touch_version": "6.0.4.7",
       "init": "init.jfltecsp.rc",
       "key": "jfltecsp",
       "legacy_versions": [

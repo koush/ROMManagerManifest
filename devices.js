@@ -3210,7 +3210,7 @@
         "jfltetmo",
         "jflteMetroPCS"
       ],
-      "touch_version": "6.0.4.4",
+      "touch_version": "6.0.4.7",
       "init": "init.jfltetmo.rc",
       "key": "jfltetmo",
       "legacy_versions": [

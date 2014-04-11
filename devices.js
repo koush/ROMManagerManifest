@@ -3745,6 +3745,10 @@
       "legacy_versions": [
 
       ],
+      "ro.product.device": [
+        "n1",
+        "N1"
+      ],
       "version": "6.0.4.7",
       "lunch": "cm_n1-userdebug",
       "touch_version": "6.0.4.7"

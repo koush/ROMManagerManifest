@@ -1861,7 +1861,7 @@
     {
       "name": "HTC One X (GSM)",
       "lunch": "cm_endeavoru-userdebug",
-      "touch_version": "6.0.4.7",
+      "touch_version": "6.0.4.8",
       "init": "ueventd.endeavoru.rc",
       "key": "endeavoru",
       "legacy_versions": [

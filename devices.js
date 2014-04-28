@@ -3790,6 +3790,16 @@
       "version": "6.0.4.8",
       "lunch": "cm_hlte-userdebug",
       "touch_version": "6.0.4.8"
+    },
+    {
+      "key": "m4",
+      "init": "init.m4.rc",
+      "name": "m4",
+      "legacy_versions": [
+
+      ],
+      "version": "6.0.4.8",
+      "lunch": "cm_m4-userdebug"
     }
   ],
   "manifest_signature": "O8+Kc2mdQz0e/AjCQn6Rw6fK5Kr5LZItJ474Ua3gF2o4IgdCQZXIbwCHIo6xeqY3pVEGtjYmmyO1PkRYcGqq2rB2wQM8SoKFl/70vG0ihEZ5TDeruKUgxVVSNM3e09kBvCxYK89GWqVWkNHtvTu1T1F9w6FilzCsNFSAXHD0Bos=",

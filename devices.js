@@ -3800,7 +3800,8 @@
 
       ],
       "version": "6.0.4.8",
-      "lunch": "cm_m4-userdebug"
+      "lunch": "cm_m4-userdebug",
+      "touch_version": "6.0.4.8"
     }
   ],
   "manifest_signature": "O8+Kc2mdQz0e/AjCQn6Rw6fK5Kr5LZItJ474Ua3gF2o4IgdCQZXIbwCHIo6xeqY3pVEGtjYmmyO1PkRYcGqq2rB2wQM8SoKFl/70vG0ihEZ5TDeruKUgxVVSNM3e09kBvCxYK89GWqVWkNHtvTu1T1F9w6FilzCsNFSAXHD0Bos=",

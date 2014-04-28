@@ -2029,7 +2029,7 @@
     {
       "name": "HTC EVO LTE",
       "lunch": "cm_jewel-userdebug",
-      "touch_version": "6.0.4.6",
+      "touch_version": "6.0.4.8",
       "init": "init.jewel.rc",
       "key": "jewel",
       "legacy_versions": [

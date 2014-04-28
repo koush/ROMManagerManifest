@@ -3299,7 +3299,7 @@
         "m7spr",
         "m7wls"
       ],
-      "touch_version": "6.0.4.3",
+      "touch_version": "6.0.4.8",
       "init": "init.m7spr.rc",
       "key": "m7spr",
       "legacy_versions": [

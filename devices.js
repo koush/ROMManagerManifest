@@ -1887,7 +1887,7 @@
     {
       "name": "HTC One S",
       "lunch": "cm_ville-userdebug",
-      "touch_version": "6.0.4.6",
+      "touch_version": "6.0.4.8",
       "init": "init.ville.rc",
       "key": "ville",
       "legacy_versions": [

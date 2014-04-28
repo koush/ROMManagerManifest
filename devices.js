@@ -2973,9 +2973,10 @@
       "key": "evita",
       "legacy_versions": [
         "6.0.2.8",
-        "6.0.3.1"
+        "6.0.3.1",
+        "6.0.4.6"
       ],
-      "version": "6.0.4.6",
+      "version": "6.0.4.8",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p22 bs=4096 ; "
     },
     {

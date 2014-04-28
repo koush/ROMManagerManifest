@@ -2969,7 +2969,7 @@
     {
       "name": "HTC One X (AT&T)",
       "lunch": "cm_evita-userdebug",
-      "touch_version": "6.0.4.6",
+      "touch_version": "6.0.4.8",
       "init": "init.evita.rc",
       "key": "evita",
       "legacy_versions": [

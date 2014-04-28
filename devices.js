@@ -2828,7 +2828,7 @@
     {
       "name": "HTC Droid Incredible 4G LTE",
       "lunch": "cm_fireball-userdebug",
-      "touch_version": "6.0.4.6",
+      "touch_version": "6.0.4.8",
       "init": "init.fireball.rc",
       "key": "fireball",
       "legacy_versions": [

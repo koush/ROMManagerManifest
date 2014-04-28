@@ -2869,7 +2869,7 @@
     {
       "name": "HTC One",
       "lunch": "cm_m7-userdebug",
-      "touch_version": "6.0.4.6",
+      "touch_version": "6.0.4.8",
       "init": "init.m7.rc",
       "key": "m7",
       "legacy_versions": [

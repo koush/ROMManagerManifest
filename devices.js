@@ -3590,7 +3590,7 @@
     {
       "name": "HTC One (Verizon)",
       "lunch": "cm_m7vzw-userdebug",
-      "touch_version": "6.0.4.7",
+      "touch_version": "6.0.4.8",
       "init": "init.m7vzw.rc",
       "key": "m7vzw",
       "legacy_versions": [

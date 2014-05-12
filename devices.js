@@ -3068,7 +3068,7 @@
     {
       "name": "Samsung Galaxy Note 10.1",
       "lunch": "cm_n8013-userdebug",
-      "touch_version": "6.0.3.6",
+      "touch_version": "6.0.4.6",
       "init": "init.n8013.rc",
       "key": "n8013",
       "legacy_versions": [

@@ -3190,9 +3190,10 @@
       "init": "init.n8000.rc",
       "key": "n8000",
       "legacy_versions": [
-        "6.0.3.1"
+        "6.0.3.1",
+        "6.0.3.6"
       ],
-      "version": "6.0.3.6",
+      "version": "6.0.4.6",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 bs=4096 ; "
     },
     {

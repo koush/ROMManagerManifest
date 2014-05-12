@@ -3073,9 +3073,10 @@
       "key": "n8013",
       "legacy_versions": [
         "6.0.3.0",
-        "6.0.3.1"
+        "6.0.3.1",
+        "6.0.3.6"
       ],
-      "version": "6.0.3.6",
+      "version": "6.0.4.6",
       "flash_recovery": "dd if=%s of=/dev/block/mmcblk0p6 bs=4096 ; "
     },
     {

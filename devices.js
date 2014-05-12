@@ -3187,7 +3187,7 @@
     {
       "name": "Samsung Galaxy Note 10.1 (GSM)",
       "lunch": "cm_n8000-userdebug",
-      "touch_version": "6.0.3.6",
+      "touch_version": "6.0.4.6",
       "init": "init.n8000.rc",
       "key": "n8000",
       "legacy_versions": [

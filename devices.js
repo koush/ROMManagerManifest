@@ -3658,9 +3658,9 @@
       "init": "init.deb.rc",
       "key": "deb",
       "legacy_versions": [
-
+        "6.0.4.4"
       ],
-      "version": "6.0.4.4",
+      "version": "6.0.4.8",
       "flash_recovery": "dd if=%s of=/dev/block/platform/msm_sdcc.1/by-name/recovery bs=4096 ; "
     },
     {

@@ -3654,7 +3654,7 @@
     {
       "name": "Google Nexus 7 (2013) LTE",
       "lunch": "cm_deb-userdebug",
-      "touch_version": "6.0.4.4",
+      "touch_version": "6.0.4.8",
       "init": "init.deb.rc",
       "key": "deb",
       "legacy_versions": [
